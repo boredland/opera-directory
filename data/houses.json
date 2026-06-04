@@ -110,6 +110,17 @@
     "notes": "Shared German-theatre CMS (houses/_theater-cms.ts), no-'kalender/' link variant (/spielplan/{slug}/{id}/) and 'von Composer' / 'Abendbesetzung:' meta dialect. data-return-point dates on /spielplan/."
   },
   {
+    "slug": "oper-leipzig",
+    "name": "Oper Leipzig",
+    "city": "Leipzig",
+    "country": "DE",
+    "website": "https://www.oper-leipzig.de",
+    "wikidata": "Q267248",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Nuxt but server-rendered. /de/programm lists /de/programm/{slug}/{id} links. Detail page: composer = <h4> before the <h1> title (infos-title); creative+cast = <li><strong>Label</strong> … <a href=/de/ensemble/person/…>Name</a>; performances = event-item__subline--date spans ('Wd. DD.MM.YYYY | HH:MM | Venue'). Future-only → Wikidata backfill."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",
