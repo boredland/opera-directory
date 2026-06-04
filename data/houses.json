@@ -143,6 +143,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). A cb-event house whose /de_DE/event.json 500s for external clients, but the season index /de_DE/programm-next is fully server-rendered: one '.productions' block per show (h1 accordeon-title link + '<p class=info>' opening with the genre line 'Oper … von Composer'). Enumerate the opera blocks there (OPERA_GENRE). Each detail page /de_DE/programm/{slug}.{id} carries the full Besetzung ('<span class=role>Label</span> <span>[<a>]Name') and all performance dates in an 'events-tickets' block ('Weekday, DD. Monat YYYY, HH:MM Uhr', <br>-separated). Canonical host has NO www. Future-only → Wikidata backfill."
   },
   {
+    "slug": "staatstheater-nuernberg",
+    "name": "Staatstheater Nürnberg",
+    "city": "Nürnberg",
+    "country": "DE",
+    "website": "https://www.staatstheater-nuernberg.de",
+    "wikidata": "Q883512",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Contentful-backed but server-rendered. Season page /spielzeit-{YY-YY}?sparte=Oper lists the season's opera productions, linked as spielplan-{YY-YY}/{slug}/{DD-MM-YYYY}/{HHMM} (date+time in the URL). The adapter walks the current + next season. Any such link renders the production detail: h1 title (soft-hyphenated), composer in <meta description> ('… die Oper von Composer'), creative team as '<p class=col-sm-3>Label</p><p class=col-sm-9 link>Name</p>' pairs, sung cast as '<p class=link><a href=kuenstler/…>Name</a></p><p>Role, description</p>' pairs (institutional Orchester/Chor/Statisterie dropped; per-day 'Tagesaktuelles Dirigat' folded into conductor). All performance dates are date-stamped links on the detail page."
+  },
+  {
     "slug": "aalto-musiktheater-essen",
     "name": "Aalto-Theater Essen",
     "city": "Essen",
