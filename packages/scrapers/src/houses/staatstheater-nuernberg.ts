@@ -108,11 +108,19 @@ async function buildProduction(
   };
 }
 
-/** Meta description: "… inszeniert die Oper von Richard Wagner. Alle Termine …". */
+/** The subtitle `<div class="noline">` after the title carries the work credit,
+ *  e.g. "Oper von Richard Wagner" / "… mit Musik von Kurt Weill" / "Oper … nach
+ *  Gioachino Rossini" — far cleaner than the free-text meta (which embeds the
+ *  title, so "Der Barbier von Sevilla" would mislead a bare "von" match). */
 function parseComposer(html: string): string | null {
-  const meta = html.match(/<meta[^>]+name="description"[^>]+content="([^"]*)"/)?.[1] ?? "";
-  const m = stripHtml(meta).match(/\bvon\s+([A-ZÄÖÜ][^.,]{2,40})/);
-  return m?.[1]?.trim() || null;
+  const subtitle = stripHtml(
+    html.match(/<h1[^>]*>[\s\S]*?<\/h1>\s*<div class="noline">([^<]*)<\/div>/)?.[1] ?? "",
+  );
+  const m =
+    subtitle.match(/Musik von\s+([A-ZÄÖÜ][^,.]{2,40})/) ??
+    subtitle.match(/\bvon\s+([A-ZÄÖÜ][^,.]{2,40})/) ??
+    subtitle.match(/\bnach\s+([A-ZÄÖÜ][a-zäöü]+\s+[A-ZÄÖÜ][^,.]{2,38})/);
+  return m?.[1]?.split(/\s+und\s+/i)[0]?.trim() || null;
 }
 
 /** Two markups: creative `<p class="…col-sm-3">Label</p><p class="…col-sm-9 link">Name</p>`,
