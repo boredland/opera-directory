@@ -230,6 +230,11 @@
     "composer_slug": "alessandro-scarlatti"
   },
   {
+    "slug": "alessandro-scarlatti/la-giuditta",
+    "title": "La Giuditta",
+    "composer_slug": "alessandro-scarlatti"
+  },
+  {
     "slug": "alleine",
     "title": "?Alleine!",
     "composer_slug": ""
@@ -690,9 +695,19 @@
     "composer_slug": "ensemble-modern-nach-john-cage"
   },
   {
+    "slug": "ente-tod-und-tulpe",
+    "title": "Ente, Tod und Tulpe",
+    "composer_slug": ""
+  },
+  {
     "slug": "ergebnis/grundlagenfortbildung-muss-das-ergebnis-immer-eine-auffuhrung-sein",
     "title": "GRUNDLAGENFORTBILDUNG: Muss das Ergebnis immer eine Aufführung sein?",
     "composer_slug": "ergebnis"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt",
+    "title": "Die tote Stadt",
+    "composer_slug": "erich-wolfgang-korngold"
   },
   {
     "slug": "ernest-chausson/le-roi-arthus",
@@ -945,6 +960,11 @@
     "composer_slug": "georg-friedrich-handel"
   },
   {
+    "slug": "georg-kreisler/heute-abend-lola-blau",
+    "title": "Heute Abend: Lola Blau",
+    "composer_slug": "georg-kreisler"
+  },
+  {
     "slug": "georges-bizet/carmen",
     "title": "Carmen",
     "composer_slug": "georges-bizet"
@@ -985,6 +1005,11 @@
     "composer_slug": "gioacchino-rossini"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "title": "Der Barbier von Sevilla",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/guillaume-tell",
     "title": "Guillaume Tell",
     "composer_slug": "gioachino-rossini"
@@ -1012,6 +1037,11 @@
   {
     "slug": "giuseppe-verdi/aida",
     "title": "Aida",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour",
+    "title": "Der Troubadour",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -1455,6 +1485,11 @@
     "composer_slug": "lucia-wunsch"
   },
   {
+    "slug": "ludwig-van-beethoven-in-einer-erweiterten-lesart/fidelio-focus-fade",
+    "title": "Fidelio: Focus & Fade",
+    "composer_slug": "ludwig-van-beethoven-in-einer-erweiterten-lesart"
+  },
+  {
     "slug": "lunchkonzert-musikalische-mittagspausen",
     "title": "Lunchkonzert, Musikalische Mittagspausen",
     "composer_slug": ""
@@ -1760,6 +1795,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "pascal-dusapin/il-viaggio-dante",
+    "title": "Il Viaggio, Dante",
+    "composer_slug": "pascal-dusapin"
+  },
+  {
     "slug": "passing-by",
     "title": "Passing by",
     "composer_slug": ""
@@ -1783,6 +1823,11 @@
     "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
     "title": "Cavalleria Rusticana & Pagliacci",
     "composer_slug": "pietro-mascagni"
+  },
+  {
+    "slug": "pjotr-tschaikowski/pique-dame",
+    "title": "Pique Dame",
+    "composer_slug": "pjotr-tschaikowski"
   },
   {
     "slug": "play-schultheatertreffen",
@@ -1845,6 +1890,11 @@
     "composer_slug": "ralph-benatzky-robert-gilbert"
   },
   {
+    "slug": "raquel-garcia-tomas/ich-ich-ich",
+    "title": "Ich, ich, ich!",
+    "composer_slug": "raquel-garcia-tomas"
+  },
+  {
     "slug": "rebecca-fritzsche-nazli-saremi/prasentation-club-indigo",
     "title": "Präsentation Club Indigo",
     "composer_slug": "rebecca-fritzsche-nazli-saremi"
@@ -1877,6 +1927,11 @@
   {
     "slug": "richard-wagner/die-walkure",
     "title": "Die Walküre",
+    "composer_slug": "richard-wagner"
+  },
+  {
+    "slug": "richard-wagner/lohengrin",
+    "title": "Lohengrin",
     "composer_slug": "richard-wagner"
   },
   {
@@ -1953,6 +2008,11 @@
     "slug": "sebastian-schwab-1993/skaterherz",
     "title": "Skaterherz",
     "composer_slug": "sebastian-schwab-1993"
+  },
+  {
+    "slug": "sebastian-schwab-nach-otfried-preu-ler/der-rauber-hotzenplotz",
+    "title": "Der Räuber Hotzenplotz",
+    "composer_slug": "sebastian-schwab-nach-otfried-preu-ler"
   },
   {
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
@@ -2292,6 +2352,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail",
     "title": "Die Entführung aus dem Serail",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-hochzeit-des-figaro",
+    "title": "Die Hochzeit des Figaro",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
