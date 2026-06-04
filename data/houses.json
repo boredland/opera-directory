@@ -96,7 +96,8 @@
     "wikidata": "Q681931",
     "strategy": "jsonld-event",
     "enabled": false,
-    "notes": "Spielplan has a JSON-backed calendar. Production pages list full creative team + Besetzung per date."
+    "proxy": true,
+    "notes": "BLOCKED 2026-06: staatsoper.de returns HTTP 403 + full-page 'Ein hoffentlich kurzes Intermezzo!' maintenance banner — confirmed genuine maintenance (still 403 via the fetch-proxy with a residential IP + FlareSolverr, so not a datacenter-IP/bot block). Retry later. proxy:true pre-set in case it blocks bots once back. When live: spielplan has a JSON-backed calendar; production pages list full creative team + Besetzung per date."
   },
   {
     "slug": "royal-opera-house",

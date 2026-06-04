@@ -93,6 +93,10 @@ export interface HouseSource {
   notes?: string;
   /** Set false to skip in the scheduled run without deleting the entry. */
   enabled?: boolean;
+  /** Route this house's fetches through FETCH_PROXY (hosts that block datacenter
+   *  IPs / gate behind Cloudflare). Off by default — the proxy is a fallback, not
+   *  the default path, so working houses fetch directly. */
+  proxy?: boolean;
 }
 
 /**

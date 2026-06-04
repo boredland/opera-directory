@@ -35,12 +35,30 @@ export * from "./store";
  * Idempotency is the whole game: re-running converges, never duplicates.
  */
 
-export function makeFetchContext(): FetchContext {
+/**
+ * The fetch proxy is a per-house opt-in fallback (for hosts that block datacenter
+ * IPs / gate behind Cloudflare), not the default — working houses fetch directly.
+ * Pass `useProxy` true only for houses with `"proxy": true` in houses.json.
+ */
+export function makeFetchContext(useProxy = false): FetchContext {
   const proxyUrl = process.env.FETCH_PROXY_URL;
   return {
-    proxy: proxyUrl ? { url: proxyUrl, token: process.env.FETCH_PROXY_TOKEN } : null,
+    proxy: useProxy && proxyUrl ? { url: proxyUrl, token: process.env.FETCH_PROXY_TOKEN } : null,
     userAgent: DEFAULT_UA,
   };
+}
+
+/** Read the per-house `proxy` opt-in flag from houses.json. */
+async function houseUsesProxy(slug: string): Promise<boolean> {
+  try {
+    const houses = JSON.parse(await readFile(join(DATA_DIR, "houses.json"), "utf8")) as {
+      slug: string;
+      proxy?: boolean;
+    }[];
+    return houses.find((h) => h.slug === slug)?.proxy === true;
+  } catch {
+    return false;
+  }
 }
 
 /**
@@ -87,7 +105,7 @@ const RAW_DIR = process.env.RAW_DIR ?? join(process.cwd(), "raw");
 export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise<void> {
   const scraper = HOUSE_SCRAPERS[slug];
   if (!scraper) throw new Error(`no adapter registered for house "${slug}"`);
-  const ctx = makeFetchContext();
+  const ctx = makeFetchContext(await houseUsesProxy(slug));
   const start = performance.now();
   try {
     const result = await scraper(ctx, window ?? defaultIncrementalWindow());
@@ -118,7 +136,6 @@ export async function runIngestRaw(): Promise<void> {
 
 /** Scrape + resolve + persist in one process (local / all-in-one). */
 export async function runScrape(houseSlugs?: string[], window?: ScrapeWindow): Promise<void> {
-  const ctx = makeFetchContext();
   const scrapeWindow = window ?? defaultIncrementalWindow();
   const slugs = houseSlugs?.length ? houseSlugs : Object.keys(HOUSE_SCRAPERS);
 
@@ -131,6 +148,7 @@ export async function runScrape(houseSlugs?: string[], window?: ScrapeWindow): P
         continue;
       }
       try {
+        const ctx = makeFetchContext(await houseUsesProxy(slug));
         const result = await scraper(ctx, scrapeWindow);
         for (const raw of result.productions) ingestRawProduction(store, raw, result.house_slug);
         console.log(`${slug}: ${result.productions.length} productions resolved`);
