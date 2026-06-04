@@ -1092,6 +1092,7 @@
     "slug": "albrecht-puhlmann",
     "name": "Albrecht Puhlmann",
     "professions": [
+      "dramaturgy",
       "singer"
     ]
   },
@@ -2072,6 +2073,13 @@
     ]
   },
   {
+    "slug": "anna-abalikhina",
+    "name": "Anna Abalikhina",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "anna-bergmann",
     "name": "Anna Bergmann",
     "professions": [
@@ -2669,6 +2677,13 @@
     ]
   },
   {
+    "slug": "aurel-lenfert",
+    "name": "Aurel Lenfert",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "austausch-fur-ag-leitungen",
     "name": "Austausch für AG-Leitungen",
     "professions": [
@@ -2820,6 +2835,13 @@
     "name": "Barbara Zechmeister",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "barbl-hohmann",
+    "name": "Bärbl Hohmann",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -3584,7 +3606,8 @@
     "slug": "carola-volles",
     "name": "Carola Volles",
     "professions": [
-      "costume-designer"
+      "costume-designer",
+      "set-designer"
     ]
   },
   {
@@ -4277,6 +4300,13 @@
     ]
   },
   {
+    "slug": "claus-ackenhausen",
+    "name": "Claus Ackenhausen",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "claus-guth",
     "name": "Claus Guth",
     "professions": [
@@ -4316,6 +4346,13 @@
     "name": "Clemens Bieber",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "clemens-heidrich",
+    "name": "Clemens Heidrich",
+    "professions": [
+      "video-designer"
     ]
   },
   {
@@ -4844,6 +4881,7 @@
     "name": "Demis Volpi",
     "professions": [
       "choreographer",
+      "director",
       "set-designer"
     ]
   },
@@ -5700,6 +5738,13 @@
     "name": "Erik Nielsen",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "erik-sonnenfeld",
+    "name": "Erik Sonnenfeld",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -6582,6 +6627,13 @@
     "name": "Gabriela Legun",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "gabriele-rupprecht",
+    "name": "Gabriele Rupprecht",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -8251,6 +8303,13 @@
     ]
   },
   {
+    "slug": "jasna-bosnjak",
+    "name": "Jasna Bošnjak",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "jason-southgate",
     "name": "Jason Southgate",
     "professions": [
@@ -8663,6 +8722,13 @@
     "name": "Johannes Martin Kränzle",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "johannes-paul-volk",
+    "name": "Johannes Paul Volk",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -9247,6 +9313,13 @@
     ]
   },
   {
+    "slug": "julius-theodor-semmelmann",
+    "name": "Julius Theodor Semmelmann",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "junger-chor-der-deutschen-oper-berlin",
     "name": "Junger Chor der Deutschen Oper Berlin",
     "professions": [
@@ -9492,6 +9565,13 @@
     ]
   },
   {
+    "slug": "karsten-wiegand",
+    "name": "Karsten Wiegand",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "kartal-karagedik",
     "name": "Kartal Karagedik",
     "professions": [
@@ -9609,6 +9689,13 @@
     "name": "Kathi Maurer",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "kathrin-kegler",
+    "name": "Kathrin Kegler",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -10864,6 +10951,13 @@
     ]
   },
   {
+    "slug": "lydia-peters",
+    "name": "Lydia Peters",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "lydia-steier",
     "name": "Lydia Steier",
     "professions": [
@@ -11381,6 +11475,13 @@
     "name": "Marie Maidowski",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "marie-therese-cramer",
+    "name": "Marie-Therese Cramer",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -12461,6 +12562,13 @@
     ]
   },
   {
+    "slug": "moritz-junge",
+    "name": "Moritz Junge",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "moritz-schick",
     "name": "Moritz Schick",
     "professions": [
@@ -13002,6 +13110,13 @@
     ]
   },
   {
+    "slug": "olaf-altmann",
+    "name": "Olaf Altmann",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "olaf-freese",
     "name": "Olaf Freese",
     "professions": [
@@ -13419,6 +13534,13 @@
     ]
   },
   {
+    "slug": "paul-veritas-pillong",
+    "name": "Paul Veritas Pillong",
+    "professions": [
+      "video-designer"
+    ]
+  },
+  {
     "slug": "paul-zoller",
     "name": "Paul Zoller",
     "professions": [
@@ -13638,6 +13760,13 @@
     ]
   },
   {
+    "slug": "petra-zopnek",
+    "name": "Petra Zöpnek",
+    "professions": [
+      "video-designer"
+    ]
+  },
+  {
     "slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
     "name": "Philhar&shy;mo&shy;nisches Staats&shy;orchester Hamburg",
     "professions": [
@@ -13649,6 +13778,14 @@
     "name": "Philip Feeney",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "philipp-grigorian",
+    "name": "Philipp Grigorian",
+    "professions": [
+      "director",
+      "set-designer"
     ]
   },
   {
@@ -13747,6 +13884,13 @@
     "name": "Pierluigi Santucci",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "piero-vinciguerra",
+    "name": "Piero Vinciguerra",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -14288,10 +14432,24 @@
     ]
   },
   {
+    "slug": "roland-schwab",
+    "name": "Roland Schwab",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "rolf-a-scheider",
     "name": "Rolf A. Scheider",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "roman-hovenbitzer",
+    "name": "Roman Hovenbitzer",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -15643,6 +15801,13 @@
     ]
   },
   {
+    "slug": "susanne-lietzow",
+    "name": "Susanne Lietzow",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "susanne-rieber",
     "name": "Susanne Rieber",
     "professions": [
@@ -16223,6 +16388,13 @@
     "name": "Tobias Schwencke",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "tobias-wogerer",
+    "name": "Tobias Wögerer",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -16807,6 +16979,13 @@
     "name": "Vlad Iftinca",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "vlada-pomirkovanaya",
+    "name": "Vlada Pomirkovanaya",
+    "professions": [
+      "costume-designer"
     ]
   },
   {

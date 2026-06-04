@@ -189,6 +189,10 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "johannes-paul-volk",
+        "function": "lighting"
+      },
+      {
         "person_slug": "martin-hickmann",
         "function": "set-designer"
       },
@@ -270,6 +274,10 @@
       {
         "person_slug": "lisa-da-ler",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "clemens-heidrich",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -329,6 +337,10 @@
       {
         "person_slug": "lisa-da-ler",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "clemens-heidrich",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -368,6 +380,22 @@
       {
         "person_slug": "lorenzo-da-rio",
         "function": "chorus-master"
+      },
+      {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marie-therese-cramer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "claus-ackenhausen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "kathrin-kegler",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -411,6 +439,10 @@
       {
         "person_slug": "francesco-angelico",
         "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
       }
     ],
     "cast": [
@@ -442,6 +474,30 @@
       {
         "person_slug": "lorenzo-da-rio",
         "function": "chorus-master"
+      },
+      {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "moritz-junge",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "karsten-wiegand",
+        "function": "director"
+      },
+      {
+        "person_slug": "albrecht-puhlmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "claus-ackenhausen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "barbl-hohmann",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -493,6 +549,10 @@
       {
         "person_slug": "julia-huebner",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "erik-sonnenfeld",
+        "function": "lighting"
       }
     ],
     "cast": [
@@ -707,8 +767,16 @@
         "function": "conductor"
       },
       {
+        "person_slug": "demis-volpi",
+        "function": "director"
+      },
+      {
         "person_slug": "anne-do-paco",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "carola-volles",
+        "function": "set-designer"
       }
     ],
     "cast": []
@@ -720,6 +788,10 @@
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/la-giuditta.1399063",
     "creative_team": [
+      {
+        "person_slug": "roman-hovenbitzer",
+        "function": "director"
+      },
       {
         "person_slug": "arno-lucker",
         "function": "dramaturgy"
@@ -743,12 +815,20 @@
         "function": "conductor"
       },
       {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
         "person_slug": "ruben-michael",
         "function": "director"
       },
       {
         "person_slug": "arno-lucker",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lydia-peters",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -790,12 +870,28 @@
         "function": "conductor"
       },
       {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabriele-rupprecht",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "roland-schwab",
+        "function": "director"
+      },
+      {
         "person_slug": "daniel-menne",
         "function": "dramaturgy"
       },
       {
         "person_slug": "andreas-schmidt",
         "function": "lighting"
+      },
+      {
+        "person_slug": "piero-vinciguerra",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -857,12 +953,28 @@
         "function": "conductor"
       },
       {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carola-volles",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manuel-schmitt",
+        "function": "director"
+      },
+      {
         "person_slug": "daniel-menne",
         "function": "dramaturgy"
       },
       {
         "person_slug": "holger-klede",
         "function": "lighting"
+      },
+      {
+        "person_slug": "julius-theodor-semmelmann",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -900,6 +1012,10 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/la-cenerentola.1399477",
     "creative_team": [
       {
+        "person_slug": "anna-abalikhina",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "lorenzo-da-rio",
         "function": "chorus-master"
       },
@@ -908,12 +1024,28 @@
         "function": "conductor"
       },
       {
+        "person_slug": "vlada-pomirkovanaya",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-grigorian",
+        "function": "director"
+      },
+      {
         "person_slug": "ann-christine-mecke",
         "function": "dramaturgy"
       },
       {
         "person_slug": "holger-klede",
         "function": "lighting"
+      },
+      {
+        "person_slug": "philipp-grigorian",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "paul-veritas-pillong",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -947,6 +1079,10 @@
         "function": "chorus-master"
       },
       {
+        "person_slug": "tobias-wogerer",
+        "function": "conductor"
+      },
+      {
         "person_slug": "julia-rosler",
         "function": "costume-designer"
       },
@@ -965,6 +1101,10 @@
       {
         "person_slug": "andreas-schmidt",
         "function": "lighting"
+      },
+      {
+        "person_slug": "olaf-altmann",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -1002,8 +1142,24 @@
         "function": "conductor"
       },
       {
+        "person_slug": "jasna-bosnjak",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "susanne-lietzow",
+        "function": "director"
+      },
+      {
         "person_slug": "christian-fornzler",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "aurel-lenfert",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "petra-zopnek",
+        "function": "video-designer"
       }
     ],
     "cast": []
