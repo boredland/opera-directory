@@ -185,7 +185,8 @@ function parseCast(ensemble: HannoverEnsembleRow[]): RawCredit[] {
  *  lists the same people in per-night blocks (with a trailing colon) and one
  *  production-level block (without) — we keep only rows whose label maps to a known
  *  creative function (drops sung roles and house-specific revival-supervision labels),
- *  deduping the repeats. */
+ *  deduping the repeats. Ensemble members are linked (`<a class="tuser_name">`); guest
+ *  creatives (common for upcoming-season productions) are plain text — handle both. */
 function parseCreativeTeam(html: string): RawCredit[] {
   const creative_team: RawCredit[] = [];
   const seen = new Set<string>();
@@ -193,9 +194,12 @@ function parseCreativeTeam(html: string): RawCredit[] {
     /<span class="person-role\s*">([^<]*)<\/span>\s*<span class="person-names">([\s\S]*?)<\/span>/g;
   for (const m of html.matchAll(re)) {
     const label = stripHtml(m[1] ?? "");
+    const block = m[2] ?? "";
     if (!label) continue;
-    for (const nm of (m[2] ?? "").matchAll(/class="tuser_name"[^>]*>([\s\S]*?)<\/a>/g)) {
-      const name = stripHtml(nm[1] ?? "")
+    const linked = [...block.matchAll(/class="tuser_name"[^>]*>([\s\S]*?)<\/a>/g)].map((x) => x[1]);
+    const rawNames = linked.length > 0 ? linked : [block];
+    for (const raw of rawNames) {
+      const name = stripHtml(raw ?? "")
         .replace(/[,;]+$/, "")
         .trim();
       const credit = normalizeGermanCredit(label, name);
