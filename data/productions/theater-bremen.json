@@ -1,0 +1,195 @@
+[
+  {
+    "id": "theater-bremen/1398905",
+    "work_slug": "kaija-saariaho/innocence",
+    "house_slug": "theater-bremen",
+    "is_revival": false,
+    "detail_url": "https://theaterbremen.de/de_DE/programm/innocence.1398905",
+    "creative_team": [
+      {
+        "person_slug": "karl-bernewitz",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor-des-theater-bremen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-klingele",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sara-schwartz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-storman",
+        "function": "director"
+      },
+      {
+        "person_slug": "frederike-kruger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-kemmetmuller",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eva-veronica-born",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "nicky-fischer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexandra-morales",
+        "role_slug": "kaija-saariaho/innocence/choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "venla-ilona-blom",
+        "role_slug": "kaija-saariaho/innocence/student-1-marketa"
+      },
+      {
+        "person_slug": "laura-hilden",
+        "role_slug": "kaija-saariaho/innocence/student-2-lily-swedish"
+      },
+      {
+        "person_slug": "oceane-paredes",
+        "role_slug": "kaija-saariaho/innocence/student-3-iris-french"
+      },
+      {
+        "person_slug": "valentin-fruntke",
+        "role_slug": "kaija-saariaho/innocence/student-4-anton-german"
+      },
+      {
+        "person_slug": "rodrigo-andrade",
+        "role_slug": "kaija-saariaho/innocence/student-5-jeronimo-spanish"
+      },
+      {
+        "person_slug": "ioulia-spanou",
+        "role_slug": "kaija-saariaho/innocence/student-6-alexia-greek"
+      },
+      {
+        "person_slug": "adele-lorenzi",
+        "role_slug": "kaija-saariaho/innocence/the-bride-stela"
+      },
+      {
+        "person_slug": "fabian-duberg",
+        "role_slug": "kaija-saariaho/innocence/the-bridegroom-tuomas"
+      },
+      {
+        "person_slug": "micha-partyka",
+        "role_slug": "kaija-saariaho/innocence/the-father-in-law-henrik"
+      },
+      {
+        "person_slug": "sarah-jane-brandon",
+        "role_slug": "kaija-saariaho/innocence/the-mother-in-law-patricia"
+      },
+      {
+        "person_slug": "jasin-rammal-ryka-a",
+        "role_slug": "kaija-saariaho/innocence/the-priest"
+      },
+      {
+        "person_slug": "nathalie-mittelbach",
+        "role_slug": "kaija-saariaho/innocence/the-teacher-cecilia"
+      },
+      {
+        "person_slug": "nadine-lehner",
+        "role_slug": "kaija-saariaho/innocence/waitress-tereza"
+      }
+    ]
+  },
+  {
+    "id": "theater-bremen/1398907",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "theater-bremen",
+    "is_revival": false,
+    "detail_url": "https://theaterbremen.de/de_DE/programm/carmen.1398907",
+    "creative_team": [
+      {
+        "person_slug": "paul-blackman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "sasha-yankevych",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emiliy-hehl",
+        "function": "director"
+      },
+      {
+        "person_slug": "brigitte-heusinger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "emma-gaudiano",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bremen/1398908",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "theater-bremen",
+    "is_revival": false,
+    "detail_url": "https://theaterbremen.de/de_DE/programm/der-freischuetz.1398908",
+    "creative_team": [
+      {
+        "person_slug": "yu-sugimoto",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hanna-krumpfer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nina-mattenklotz",
+        "function": "director"
+      },
+      {
+        "person_slug": "pia-syrbe",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johanna-pfau",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bremen/1398921",
+    "work_slug": "bohuslav-martinu/the-greek-passion",
+    "house_slug": "theater-bremen",
+    "is_revival": false,
+    "detail_url": "https://theaterbremen.de/de_DE/programm/the-greek-passion.1398921",
+    "creative_team": [
+      {
+        "person_slug": "sasha-yankevych",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sara-schwartz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-storman",
+        "function": "director"
+      },
+      {
+        "person_slug": "frederike-kruger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marton-agh",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

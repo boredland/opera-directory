@@ -410,9 +410,19 @@
     "composer_slug": "camille-saint-saens"
   },
   {
+    "slug": "carl-maria-von-weber/der-freischutz",
+    "title": "Der Freischütz",
+    "composer_slug": "carl-maria-von-weber"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz-fur-kinder",
     "title": "Der Freischütz für Kinder",
     "composer_slug": "carl-maria-von-weber"
+  },
+  {
+    "slug": "carl-orff/carmina-burana",
+    "title": "Carmina Burana",
+    "composer_slug": "carl-orff"
   },
   {
     "slug": "choreografien-von-annabelle-lopez-ochoa-und-george-cespedes/reversible-mambo-3xxi",
@@ -658,6 +668,11 @@
     "slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "title": "Nils Holgerssons wundersame Abenteuer",
     "composer_slug": "elena-kats-chernin"
+  },
+  {
+    "slug": "emanuel-schikaneder/die-zauberflote",
+    "title": "Die Zauberflöte",
+    "composer_slug": "emanuel-schikaneder"
   },
   {
     "slug": "emil-und-die-detektive-7",
@@ -920,6 +935,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/la-mamma",
+    "title": "La Mamma!",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/lucia-di-lammermoor",
     "title": "Lucia di Lammermoor",
     "composer_slug": "gaetano-donizetti"
@@ -965,6 +985,11 @@
     "composer_slug": "georg-kreisler"
   },
   {
+    "slug": "george-gershwin-u-a/summertime",
+    "title": "Summertime",
+    "composer_slug": "george-gershwin-u-a"
+  },
+  {
     "slug": "georges-bizet/carmen",
     "title": "Carmen",
     "composer_slug": "georges-bizet"
@@ -977,6 +1002,11 @@
   {
     "slug": "giacomo-puccini/la-boheme",
     "title": "La bohème",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
+    "slug": "giacomo-puccini/la-fanciulla-del-west",
+    "title": "La fanciulla del West",
     "composer_slug": "giacomo-puccini"
   },
   {
@@ -1080,6 +1110,11 @@
     "composer_slug": "giuseppe-verdi"
   },
   {
+    "slug": "giuseppe-verdi/otello",
+    "title": "Otello",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto",
     "title": "Rigoletto",
     "composer_slug": "giuseppe-verdi"
@@ -1125,6 +1160,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "henri-meilhac/carmen",
+    "title": "Carmen",
+    "composer_slug": "henri-meilhac"
+  },
+  {
     "slug": "henrik-albrecht/heidi",
     "title": "Heidi",
     "composer_slug": "henrik-albrecht"
@@ -1143,6 +1183,11 @@
     "slug": "henry-purcell/dido-and-aeneas",
     "title": "Dido and Aeneas",
     "composer_slug": "henry-purcell"
+  },
+  {
+    "slug": "heribert-feckler/petrosinella-lass-dein-haar-herunter",
+    "title": "Petrosinella, lass dein Haar herunter!",
+    "composer_slug": "heribert-feckler"
   },
   {
     "slug": "herve-koubi",
@@ -1258,6 +1303,11 @@
     "slug": "junge-choreo-shy-graf-innen",
     "title": "Junge Choreo&shy;graf:innen",
     "composer_slug": ""
+  },
+  {
+    "slug": "kaija-saariaho/innocence",
+    "title": "Innocence",
+    "composer_slug": "kaija-saariaho"
   },
   {
     "slug": "kammer-shy-konzert-der-orchester-shy-akademie",
@@ -1975,6 +2025,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "samuel-penderbayne/die-verzauberte-stadt",
+    "title": "Die verzauberte Stadt",
+    "composer_slug": "samuel-penderbayne"
+  },
+  {
     "slug": "sara-glojnaric/station-paradiso",
     "title": "Station Paradiso",
     "composer_slug": "sara-glojnaric"
@@ -2290,9 +2345,19 @@
     "composer_slug": "von-allen-fur-alle"
   },
   {
+    "slug": "w-a-mozart/ciao-amore",
+    "title": "Ciao amore!",
+    "composer_slug": "w-a-mozart"
+  },
+  {
     "slug": "waldkonzert-mit-holzblasern",
     "title": "Waldkonzert mit Holzbläsern",
     "composer_slug": ""
+  },
+  {
+    "slug": "walter-braunfels/die-vogel",
+    "title": "Die Vögel",
+    "composer_slug": "walter-braunfels"
   },
   {
     "slug": "wandel",

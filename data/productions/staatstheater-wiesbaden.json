@@ -1,0 +1,770 @@
+[
+  {
+    "id": "staatstheater-wiesbaden/broadway",
+    "work_slug": "george-gershwin-u-a/summertime",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/broadway/2068/",
+    "creative_team": [
+      {
+        "person_slug": "leo-mcfall",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katja-leclerc",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "oliver-porst",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "myriam-lifka",
+        "role_slug": "george-gershwin-u-a/summertime/abendspielleitung"
+      },
+      {
+        "person_slug": "jan-diener",
+        "role_slug": "george-gershwin-u-a/summertime/hotelangestellter"
+      },
+      {
+        "person_slug": "diana-derenbach",
+        "role_slug": "george-gershwin-u-a/summertime/kostumassistenz"
+      },
+      {
+        "person_slug": "fleuranne-brockway",
+        "role_slug": "george-gershwin-u-a/summertime/mit"
+      },
+      {
+        "person_slug": "anastasia-astrid-bei-mann",
+        "role_slug": "george-gershwin-u-a/summertime/mitarbeit-kostum"
+      },
+      {
+        "person_slug": "nadine-bruck",
+        "role_slug": "george-gershwin-u-a/summertime/mitarbeit-maske"
+      },
+      {
+        "person_slug": "tamara-lorenzo-gabeiras",
+        "role_slug": "george-gershwin-u-a/summertime/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "george-gershwin-u-a/summertime/orchester"
+      },
+      {
+        "person_slug": "myriam-lifka",
+        "role_slug": "george-gershwin-u-a/summertime/szenische-einrichtung"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "george-gershwin-u-a/summertime/vermittlung"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/carmen-25-26",
+    "work_slug": "henri-meilhac/carmen",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/carmen-25-26/1113/",
+    "creative_team": [
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alejandro-jassan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "antje-sternberg",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marie-johannsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-frank",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gisbert-jakel",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "gerard-naziri",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "myriam-lifka",
+        "role_slug": "henri-meilhac/carmen/abendspielleitung"
+      },
+      {
+        "person_slug": "fleuranne-brockway",
+        "role_slug": "henri-meilhac/carmen/carmen"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "henri-meilhac/carmen/chore"
+      },
+      {
+        "person_slug": "myriam-lifka",
+        "role_slug": "henri-meilhac/carmen/choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "louise-buffetrille",
+        "role_slug": "henri-meilhac/carmen/co-kostumbildnerin"
+      },
+      {
+        "person_slug": "jaeyoung-ha",
+        "role_slug": "henri-meilhac/carmen/dancairo"
+      },
+      {
+        "person_slug": "stefano-la-colla",
+        "role_slug": "henri-meilhac/carmen/don-jose"
+      },
+      {
+        "person_slug": "vitor-bispo",
+        "role_slug": "henri-meilhac/carmen/escamillo"
+      },
+      {
+        "person_slug": "laura-richter",
+        "role_slug": "henri-meilhac/carmen/frasquita"
+      },
+      {
+        "person_slug": "uwe-eric-laufenberg",
+        "role_slug": "henri-meilhac/carmen/inszenierung-nach"
+      },
+      {
+        "person_slug": "niklas-sikner",
+        "role_slug": "henri-meilhac/carmen/kinder-und-jugendchor"
+      },
+      {
+        "person_slug": "diana-derenbach",
+        "role_slug": "henri-meilhac/carmen/kostumassistenz"
+      },
+      {
+        "person_slug": "thomas-braun",
+        "role_slug": "henri-meilhac/carmen/lillas-pastia"
+      },
+      {
+        "person_slug": "camille-sherman",
+        "role_slug": "henri-meilhac/carmen/mercedes"
+      },
+      {
+        "person_slug": "alyona-rostovskaya",
+        "role_slug": "henri-meilhac/carmen/micaela"
+      },
+      {
+        "person_slug": "jack-lee",
+        "role_slug": "henri-meilhac/carmen/morales"
+      },
+      {
+        "person_slug": "tamara-lorenzo-gabeiras",
+        "role_slug": "henri-meilhac/carmen/musikalische-assistenz"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "henri-meilhac/carmen/orchester"
+      },
+      {
+        "person_slug": "sascha-zarrabi",
+        "role_slug": "henri-meilhac/carmen/remendado"
+      },
+      {
+        "person_slug": "statisterie-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "henri-meilhac/carmen/statisterie"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "henri-meilhac/carmen/vermittlung"
+      },
+      {
+        "person_slug": "fabian-jakob-balkhausen",
+        "role_slug": "henri-meilhac/carmen/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/carmina-burana-26-27",
+    "work_slug": "carl-orff/carmina-burana",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/carmina-burana-26-27/1937/",
+    "creative_team": [
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "paul-taubitz",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "carl-orff/carmina-burana/chore"
+      },
+      {
+        "person_slug": "adam-rogala",
+        "role_slug": "carl-orff/carmina-burana/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "carl-orff/carmina-burana/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/ciao-amore-imf26",
+    "work_slug": "w-a-mozart/ciao-amore",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/ciao-amore-imf26/1966/",
+    "creative_team": [
+      {
+        "person_slug": "alejandro-jassan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fruzsina-nagy",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andras-domotor",
+        "function": "director"
+      },
+      {
+        "person_slug": "hannah-stollmayer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "botond-devich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marvin-mohrhardt",
+        "role_slug": "w-a-mozart/ciao-amore/abendspielleitung-regieassistenz"
+      },
+      {
+        "person_slug": "hannah-bauer",
+        "role_slug": "w-a-mozart/ciao-amore/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "jaeyoung-ha",
+        "role_slug": "w-a-mozart/ciao-amore/david"
+      },
+      {
+        "person_slug": "sascha-zarrabi",
+        "role_slug": "w-a-mozart/ciao-amore/don-ottavio"
+      },
+      {
+        "person_slug": "sophia-theodorides",
+        "role_slug": "w-a-mozart/ciao-amore/donna-anna"
+      },
+      {
+        "person_slug": "michael-birnbaum",
+        "role_slug": "w-a-mozart/ciao-amore/il-commendatore"
+      },
+      {
+        "person_slug": "adi-hrustemovic",
+        "role_slug": "w-a-mozart/ciao-amore/johan"
+      },
+      {
+        "person_slug": "tabea-buser",
+        "role_slug": "w-a-mozart/ciao-amore/katarina"
+      },
+      {
+        "person_slug": "ivet-duran-murillo",
+        "role_slug": "w-a-mozart/ciao-amore/kostumassistenz"
+      },
+      {
+        "person_slug": "sandrine-zenner",
+        "role_slug": "w-a-mozart/ciao-amore/marianne"
+      },
+      {
+        "person_slug": "jonathan-macker",
+        "role_slug": "w-a-mozart/ciao-amore/masetto"
+      },
+      {
+        "person_slug": "julia-palmova",
+        "role_slug": "w-a-mozart/ciao-amore/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "w-a-mozart/ciao-amore/orchester"
+      },
+      {
+        "person_slug": "felix-struven",
+        "role_slug": "w-a-mozart/ciao-amore/peter"
+      },
+      {
+        "person_slug": "statisterie-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "w-a-mozart/ciao-amore/statisterie"
+      },
+      {
+        "person_slug": "aiste-benkauskaite",
+        "role_slug": "w-a-mozart/ciao-amore/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/cosi-fan-tutte-25-26",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/cosi-fan-tutte-25-26/964/",
+    "creative_team": [
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "leo-mcfall",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "louis-geisler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "philippe-berthome",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "fabien-teigne",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sergei-morozov",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/abendspielleitung-regieassistenz"
+      },
+      {
+        "person_slug": "mascha-dilger",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "ruth-tromboukis",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/co-videodesign"
+      },
+      {
+        "person_slug": "josefine-mindus",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "hovhannes-karapetyan",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "camille-sherman",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "katleho-mokhoabane",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "lena-geiger",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "jack-lee",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      },
+      {
+        "person_slug": "marie-eve-signeyrole",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/inszenierung-video"
+      },
+      {
+        "person_slug": "magz-barrawasser",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/intimitats-koordinatorin"
+      },
+      {
+        "person_slug": "dea-bejleri",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/kostumassistenz"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/orchester"
+      },
+      {
+        "person_slug": "marcin-akomicki",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/regie-associate"
+      },
+      {
+        "person_slug": "katja-kruger",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/regieassistenz"
+      },
+      {
+        "person_slug": "anna-konvicka",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/regiehospitanz"
+      },
+      {
+        "person_slug": "statisterie-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/statisterie"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/vermittlung"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/die-voegel",
+    "work_slug": "walter-braunfels/die-vogel",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/die-voegel/1139/",
+    "creative_team": [
+      {
+        "person_slug": "myriam-lifka",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "paul-taubitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ersan-mondtag",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "till-briegleb",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "henning-streck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marcel-hahn",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luisa-sagliano",
+        "role_slug": "walter-braunfels/die-vogel/1-drossel"
+      },
+      {
+        "person_slug": "eunshil-jung",
+        "role_slug": "walter-braunfels/die-vogel/2-drossel"
+      },
+      {
+        "person_slug": "max-nattkamper",
+        "role_slug": "walter-braunfels/die-vogel/abendspielleitung"
+      },
+      {
+        "person_slug": "lorenz-stoger",
+        "role_slug": "walter-braunfels/die-vogel/ausstattungsassistenz"
+      },
+      {
+        "person_slug": "mascha-dilger",
+        "role_slug": "walter-braunfels/die-vogel/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "josa-marx",
+        "role_slug": "walter-braunfels/die-vogel/co-kostumbild"
+      },
+      {
+        "person_slug": "nathan-bryon",
+        "role_slug": "walter-braunfels/die-vogel/flamingo"
+      },
+      {
+        "person_slug": "richard-trey-smagur",
+        "role_slug": "walter-braunfels/die-vogel/hoffegut"
+      },
+      {
+        "person_slug": "ivet-duran-murillo",
+        "role_slug": "walter-braunfels/die-vogel/kostumassistenz"
+      },
+      {
+        "person_slug": "mariyam-ceker",
+        "role_slug": "walter-braunfels/die-vogel/kostumhospitanz"
+      },
+      {
+        "person_slug": "lorenz-stoger",
+        "role_slug": "walter-braunfels/die-vogel/mitarbeit-buhne-und-kostume"
+      },
+      {
+        "person_slug": "max-nattkamper",
+        "role_slug": "walter-braunfels/die-vogel/mitarbeit-regie"
+      },
+      {
+        "person_slug": "holger-reinhardt",
+        "role_slug": "walter-braunfels/die-vogel/musikalische-assistenz"
+      },
+      {
+        "person_slug": "julia-palmova",
+        "role_slug": "walter-braunfels/die-vogel/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "josefine-mindus",
+        "role_slug": "walter-braunfels/die-vogel/nachtigall"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "walter-braunfels/die-vogel/orchester"
+      },
+      {
+        "person_slug": "jonathan-macker",
+        "role_slug": "walter-braunfels/die-vogel/prometheus"
+      },
+      {
+        "person_slug": "michael-mrosek",
+        "role_slug": "walter-braunfels/die-vogel/ratefreund"
+      },
+      {
+        "person_slug": "young-doo-park",
+        "role_slug": "walter-braunfels/die-vogel/stimme-des-zeus-adler"
+      },
+      {
+        "person_slug": "marei-bar",
+        "role_slug": "walter-braunfels/die-vogel/tanzstatisterie"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "walter-braunfels/die-vogel/vermittlung"
+      },
+      {
+        "person_slug": "alexander-robin-pannier",
+        "role_slug": "walter-braunfels/die-vogel/videodesign"
+      },
+      {
+        "person_slug": "sam-park",
+        "role_slug": "walter-braunfels/die-vogel/wiedhopf"
+      },
+      {
+        "person_slug": "galina-benevich",
+        "role_slug": "walter-braunfels/die-vogel/zaunschlupfer"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/die-zauberfloete",
+    "work_slug": "emanuel-schikaneder/die-zauberflote",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/die-zauberfloete/2103/",
+    "creative_team": [
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alejandro-jassan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marianne-glittenberg",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marie-johannsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-frank",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rolf-glittenberg",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "gerard-naziri",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alyona-rostovskaya",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "richard-trey-smagur",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/1-geharnischter-1-priester"
+      },
+      {
+        "person_slug": "camille-sherman",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "jonathan-macker",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/2-geharnischter-2-priester-sprecher"
+      },
+      {
+        "person_slug": "silvia-hauer",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "marvin-mohrhardt",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/abendspielleitung"
+      },
+      {
+        "person_slug": "andreas-bollendorf",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/chorleitung-limburger-domsingknaben"
+      },
+      {
+        "person_slug": "limburger-domsingknaben",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/drei-knaben"
+      },
+      {
+        "person_slug": "sophia-theodorides",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "sascha-zarrabi",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "sarah-yang",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "laura-richter",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "sam-park",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "fabian-jakob-balkhausen",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "joshua-sanders",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "emanuel-schikaneder/die-zauberflote/vermittlung"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/la-mamma",
+    "work_slug": "gaetano-donizetti/la-mamma",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/la-mamma/1127/",
+    "creative_team": [
+      {
+        "person_slug": "paul-taubitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "wolfgang-nagele",
+        "function": "director"
+      },
+      {
+        "person_slug": "katja-leclerc",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marcel-hahn",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lisa-da-ler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "myriam-lifka",
+        "role_slug": "gaetano-donizetti/la-mamma/abendspielleitung"
+      },
+      {
+        "person_slug": "fabian-jakob-balkhausen",
+        "role_slug": "gaetano-donizetti/la-mamma/dichter"
+      },
+      {
+        "person_slug": "jack-lee",
+        "role_slug": "gaetano-donizetti/la-mamma/ehemann-der-primadonna"
+      },
+      {
+        "person_slug": "sarah-yang",
+        "role_slug": "gaetano-donizetti/la-mamma/ihre-tochter"
+      },
+      {
+        "person_slug": "jonathan-macker",
+        "role_slug": "gaetano-donizetti/la-mamma/intendant"
+      },
+      {
+        "person_slug": "petro-pavlo-tkalenko",
+        "role_slug": "gaetano-donizetti/la-mamma/komponist"
+      },
+      {
+        "person_slug": "diana-derenbach",
+        "role_slug": "gaetano-donizetti/la-mamma/kostumassistenz"
+      },
+      {
+        "person_slug": "hovhannes-karapetyan",
+        "role_slug": "gaetano-donizetti/la-mamma/mamma"
+      },
+      {
+        "person_slug": "tamara-lorenzo-gabeiras",
+        "role_slug": "gaetano-donizetti/la-mamma/musikalische-assistenz"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "gaetano-donizetti/la-mamma/orchester"
+      },
+      {
+        "person_slug": "inna-fedorii",
+        "role_slug": "gaetano-donizetti/la-mamma/primadonna"
+      },
+      {
+        "person_slug": "thando-zwane",
+        "role_slug": "gaetano-donizetti/la-mamma/regisseur"
+      },
+      {
+        "person_slug": "annike-debus",
+        "role_slug": "gaetano-donizetti/la-mamma/sangerin-der-hosenrolle"
+      },
+      {
+        "person_slug": "natalie-peine",
+        "role_slug": "gaetano-donizetti/la-mamma/statisterie"
+      },
+      {
+        "person_slug": "joshua-sanders",
+        "role_slug": "gaetano-donizetti/la-mamma/tenor"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "gaetano-donizetti/la-mamma/vermittlung"
+      }
+    ]
+  }
+]
