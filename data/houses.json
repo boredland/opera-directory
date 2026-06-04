@@ -143,6 +143,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). A cb-event house whose /de_DE/event.json 500s for external clients, but the season index /de_DE/programm-next is fully server-rendered: one '.productions' block per show (h1 accordeon-title link + '<p class=info>' opening with the genre line 'Oper … von Composer'). Enumerate the opera blocks there (OPERA_GENRE). Each detail page /de_DE/programm/{slug}.{id} carries the full Besetzung ('<span class=role>Label</span> <span>[<a>]Name') and all performance dates in an 'events-tickets' block ('Weekday, DD. Monat YYYY, HH:MM Uhr', <br>-separated). Canonical host has NO www. Future-only → Wikidata backfill."
   },
   {
+    "slug": "oper-dortmund",
+    "name": "Oper Dortmund",
+    "city": "Dortmund",
+    "country": "DE",
+    "website": "https://www.theaterdo.de",
+    "wikidata": "Q881014",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Opera division of Theater Dortmund; TYPO3, server-rendered. The shared /kalender/ lists event tiles with an 'event__division' (filter to 'Oper') + link /produktionen/detail/{slug}/. Detail page: h1 title (sometimes a programme-brand prefix like 'We DO Opera:'), composer in the subtitle after the h1 ('… von Composer'), creative team as '<strong>Label</strong> <a href=/ueber-uns/mitarbeiter-innen/biografie/…>Name</a>' pairs, performance dates as 'für DD.MM.YYYY' lightbox labels. Per-night cast is JS-loaded (eventcast lightbox) so cast is left empty for now. Coverage = calendar window; deep history via Wikidata."
+  },
+  {
     "slug": "staatstheater-nuernberg",
     "name": "Staatstheater Nürnberg",
     "city": "Nürnberg",

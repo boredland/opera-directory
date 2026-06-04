@@ -139,9 +139,16 @@ export function parseMeta(
 
   const afterTitle = pre.startsWith(title) ? pre.slice(title.length).replace(/^,\s*/, "") : pre;
   const secondField = afterTitle.split(",")[0]?.trim() ?? "";
+  // A bare genre descriptor ("Komische Oper", "Konzert") in the 2nd field is NOT a
+  // composer — fall through to the "von Composer" form when the field is one.
+  const isGenre =
+    /^(komische |gro(ss|ß)e |romantische |heitere |tragische |lyrische )?oper(ette)?$|^(konzert|sinfoniekonzert|ballett|musical|tanz|schauspiel)\b/i.test(
+      secondField.trim(),
+    );
   let composer: string | null = null;
   if (
     secondField &&
+    !isGenre &&
     !/\bvon\b|:|\d/.test(secondField) &&
     /[A-Za-zÄÖÜ]/.test(secondField) &&
     secondField.length <= 45
