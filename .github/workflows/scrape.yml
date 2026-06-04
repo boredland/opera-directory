@@ -8,6 +8,13 @@ on:
       houses:
         description: "Space-separated house slugs to scrape (empty = all enabled)"
         required: false
+      backfill:
+        description: "Set to 'true' for a deep backfill run (archive + Wikidata)"
+        required: false
+        default: "false"
+      since:
+        description: "Floor date YYYY-MM-DD (optional; bounds backfill / incremental)"
+        required: false
 
 permissions:
   contents: write
@@ -19,17 +26,36 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
       - run: bun install --frozen-lockfile
+      # Chrome for the `render` strategy houses (Stuttgart, …); harmless otherwise.
+      - uses: browser-actions/setup-chrome@v1
+        id: chrome
+        with:
+          chrome-version: stable
       - name: Run scrape + ingest
         env:
           FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
           FETCH_PROXY_TOKEN: ${{ secrets.FETCH_PROXY_TOKEN }}
-        run: bun run scrape ${{ github.event.inputs.houses }}
-      # TODO(implementer): commit the regenerated canonical store / data export,
-      # mirroring museumsufer's "commit if changed" + push step.
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+        run: |
+          ARGS="${{ github.event.inputs.houses }}"
+          [ "${{ github.event.inputs.backfill }}" = "true" ] && ARGS="$ARGS --backfill"
+          [ -n "${{ github.event.inputs.since }}" ] && ARGS="$ARGS --since=${{ github.event.inputs.since }}"
+          bun run scrape $ARGS
+      - name: Commit regenerated canonical store
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
+            git commit -m "data: scrape ${{ github.event.inputs.houses || 'all enabled' }} [skip ci]"
+            git push
+          else
+            echo "no data changes"
+          fi

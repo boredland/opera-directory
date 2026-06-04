@@ -5,10 +5,65 @@
     "city": "Frankfurt am Main",
     "country": "DE",
     "website": "https://oper-frankfurt.de",
-    "wikidata": "Q706558",
+    "wikidata": "Q568931",
     "strategy": "spielplan-html",
     "enabled": true,
-    "notes": "Live: /de/spielplan/ (var dates_available spine + repertoire-element cards). Archive: /de/spielplan/archiv/ by season. Detail pages carry Regie/Musikalische Leitung + cast. Reference adapter exists in museumsufer monorepo — port and regroup into productions."
+    "notes": "Live: /de/spielplan/ (var dates_available spine + repertoire-element cards; ?datum=YYYY-MM-DD pages the season). Per-production detail page /de/spielplan/{slug}/ is authoritative: h2 title, h4 composer, creative team as a clean <dl> under 'Besetzung', sung cast in panel-body <p> blocks, and a 'calendar-list' of every performance date grouped by month. NO deep archive — /de/spielplan/archiv/ is gone (404); the site exposes only the current rolling ~13-month repertoire, so pre-season backfill must come from Wikidata. Adapter implemented (future leg complete)."
+  },
+  {
+    "slug": "staatsoper-berlin",
+    "name": "Staatsoper Unter den Linden",
+    "city": "Berlin",
+    "country": "DE",
+    "website": "https://www.staatsoper-berlin.de",
+    "wikidata": "Q312576",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + archive). Server-rendered: /de/spielplan/{DD-MM-YYYY}/ lists termin items (full <time datetime> + link to /de/veranstaltungen/{slug}.{id}/); page is a forward window, step the date to walk the season. Past seasons at /de/spielplan/archiv/{YYYY-YYYY}/. Production page: h1 title, 'Musik von …' composer, besetzung__item list (creative + sung cast, German labels)."
+  },
+  {
+    "slug": "deutsche-oper-berlin",
+    "name": "Deutsche Oper Berlin",
+    "city": "Berlin",
+    "country": "DE",
+    "website": "https://www.deutscheoperberlin.de",
+    "wikidata": "Q637834",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). JS calendar over /de_DE/event.json (paginated ?date=DD.MM.YYYY&p=N) — each event has Title, IdEventCluster (production key), DateDay/Month/Year + DateTime, DetailLink. Group by cluster; detail page gives composer (event_detail_headline 'Title Composer [dates]') + cast/creative (<li><div class=role> + person-link/person-name, German labels). Future-only → deep history via Wikidata. Endpoint found via headless-browser network capture."
+  },
+  {
+    "slug": "semperoper-dresden",
+    "name": "Semperoper Dresden",
+    "city": "Dresden",
+    "country": "DE",
+    "website": "https://www.semperoper.de",
+    "wikidata": "Q127097",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Server-rendered: /spielplan.html lists ni-schedule-event rows (category+title+composer, date 'D. Monat YYYY, HH Uhr', ni-event-venue, link /spielplan/stuecke/stid/{slug}/{id}.html). Group rows by production id; detail page gives h1 title + cast/creative (ni-cast-item-label + ni-cast-item-link, German labels). Schedule is a forward window → deep history via Wikidata. TODO: paginate the schedule for the full season."
+  },
+  {
+    "slug": "staatsoper-stuttgart",
+    "name": "Staatsoper Stuttgart",
+    "city": "Stuttgart",
+    "country": "DE",
+    "website": "https://www.staatsoper-stuttgart.de",
+    "wikidata": "Q467147",
+    "strategy": "render",
+    "enabled": true,
+    "notes": "Adapter implemented (render strategy + wikidata backfill). Fully client-rendered, no API/inline state → uses the headless renderer. Rendered /spielplan/kalender/ lists /spielplan/kalender/{slug}/{id}/ links (one per night); each rendered detail page's <title> = 'Title, von Composer - DD.MM.YYYY, HH:MM | …' and the cast+creative are one 'Rolle: Name, …, Musikalische Leitung: Name, …' run. Renders every performance page (its own date), grouped by slug. NEEDS a browser at scrape time (CHROME_PATH)."
+  },
+  {
+    "slug": "oper-koeln",
+    "name": "Oper Köln",
+    "city": "Köln",
+    "country": "DE",
+    "website": "https://www.oper.koeln",
+    "wikidata": "Q869662",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Nuxt front end over a Django-REST API: /de/api/events/ (DRF page-paginated, ?page=N) returns every announced performance today-forward with production id, writer (composer), start, stage_obj, sold-out/cancelled flags, and cast_objs/productionteam_objs (role_obj.name + person_obj.name, German labels). Group events by production. API is future-only → deep history via Wikidata."
   },
   {
     "slug": "wiener-staatsoper",
@@ -16,7 +71,7 @@
     "city": "Wien",
     "country": "AT",
     "website": "https://www.wiener-staatsoper.at",
-    "wikidata": "Q670711",
+    "wikidata": "Q209937",
     "strategy": "jsonld-event",
     "enabled": false,
     "notes": "Excellent archive: the Aufführungsdatenbank covers performances back to 1869. Modern spielplan emits structured JSON; check /en/play-schedule and the backend calendar API."
@@ -27,7 +82,7 @@
     "city": "München",
     "country": "DE",
     "website": "https://www.staatsoper.de",
-    "wikidata": "Q564059",
+    "wikidata": "Q681931",
     "strategy": "jsonld-event",
     "enabled": false,
     "notes": "Spielplan has a JSON-backed calendar. Production pages list full creative team + Besetzung per date."
@@ -38,7 +93,7 @@
     "city": "London",
     "country": "GB",
     "website": "https://www.rbo.org.uk",
-    "wikidata": "Q1130408",
+    "wikidata": "Q55018",
     "strategy": "tessitura-api",
     "enabled": false,
     "notes": "Tessitura-backed ticketing; production + performance JSON behind the what's-on pages. Collections/archive site (ROH Collections) covers historical productions."
@@ -49,10 +104,10 @@
     "city": "New York",
     "country": "US",
     "website": "https://www.metopera.org",
-    "wikidata": "Q1147642",
+    "wikidata": "Q10583424",
     "strategy": "jsonld-event",
     "enabled": false,
-    "notes": "MetOpera Database (archives.metopera.org) is a gold-standard public performance archive back to 1883 — prioritize for backfill. Live season has structured calendar JSON."
+    "notes": "Archive importer IMPLEMENTED (backfill-only): houses/metropolitan-opera.ts walks archives.metopera.org season by season (search.jsp date_start/date_end, one response per season), groups performances into productions on the 'New Production' flag, and enriches each from record.jsp (cast + creative team + composer). Full 1883→today is a long one-off — bound with --since. Live current season (jsonld-event from metopera.org calendar JSON) is still TODO; incremental runs here are a no-op. enabled:false so it stays out of the nightly run."
   },
   {
     "slug": "teatro-alla-scala",
@@ -60,7 +115,7 @@
     "city": "Milano",
     "country": "IT",
     "website": "https://www.teatroallascala.org",
-    "wikidata": "Q775910",
+    "wikidata": "Q5471",
     "strategy": "jsonld-event",
     "enabled": false,
     "notes": "Archivio storico Ricordi + La Scala's own archive for past seasons. Live cartellone has structured event data."
