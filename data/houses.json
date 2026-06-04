@@ -99,6 +99,17 @@
     "notes": "Same shared German-theatre CMS as Komische Oper (houses/_theater-cms.ts): default /spielplan/ server-renders blocks with data-return-point='{date}-p{id}' + /spielplan/kalender/{slug}/{id}/ links; detail <meta description> = 'Title, Composer, … Besetzung: …'. Company spans Düsseldorf + Duisburg."
   },
   {
+    "slug": "nationaltheater-mannheim",
+    "name": "Nationaltheater Mannheim",
+    "city": "Mannheim",
+    "country": "DE",
+    "website": "https://www.nationaltheater-mannheim.de",
+    "wikidata": "Q290852",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Shared German-theatre CMS (houses/_theater-cms.ts), no-'kalender/' link variant (/spielplan/{slug}/{id}/) and 'von Composer' / 'Abendbesetzung:' meta dialect. data-return-point dates on /spielplan/."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",

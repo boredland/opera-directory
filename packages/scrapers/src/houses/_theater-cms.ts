@@ -38,9 +38,16 @@ export function makeTheaterCmsScraper(opts: {
     const listing = await fetchHtml(`${baseUrl}/spielplan/`, ctx);
     const today = new Date().toISOString().slice(0, 10);
 
+    // Same template across houses, but the detail path varies: Komische/Rhein use
+    // /spielplan/kalender/{slug}/{id}/, Mannheim /spielplan/{slug}/{id}/. The `<a>`
+    // carries both href and data-return-point (date), in either order.
+    const LINK = "/spielplan/(?:kalender/)?[a-z0-9-]+/\\d+/";
     const byLink = new Map<string, RawPerformance[]>();
     for (const m of listing.matchAll(
-      /data-return-point="(\d{4}-\d{2}-\d{2})-p\d+"[\s\S]{0,400}?href="(\/spielplan\/kalender\/[a-z0-9-]+\/\d+\/)"|href="(\/spielplan\/kalender\/[a-z0-9-]+\/\d+\/)"[^>]*data-return-point="(\d{4}-\d{2}-\d{2})-p\d+"/g,
+      new RegExp(
+        `data-return-point="(\\d{4}-\\d{2}-\\d{2})-p\\d+"[\\s\\S]{0,400}?href="(${LINK})"|href="(${LINK})"[^>]*data-return-point="(\\d{4}-\\d{2}-\\d{2})-p\\d+"`,
+        "g",
+      ),
     )) {
       const date = (m[1] ?? m[4]) as IsoDate;
       const link = m[2] ?? m[3] ?? "";
@@ -102,7 +109,7 @@ async function buildProduction(
     .sort((a, b) => a.date.localeCompare(b.date));
 
   return {
-    source_production_id: link.replace(/^\/spielplan\/kalender\//, "").replace(/\/$/, ""),
+    source_production_id: link.replace(/^\/spielplan\/(?:kalender\/)?/, "").replace(/\/$/, ""),
     work_title: workTitle,
     composer_name: composer,
     detail_url: `${baseUrl}${link}`,
@@ -112,7 +119,12 @@ async function buildProduction(
   };
 }
 
-/** Meta: "Title, Composer, Subtitle … Besetzung: Role: Name, …, Funktion: Name, …". */
+/**
+ * Meta: "Title, Composer, Subtitle … (Abend)Besetzung: Role: Name, …, Funktion: Name, …".
+ * Two composer dialects: the 2nd field is the composer (Komische/Rhein:
+ * "Orlando, Olga Neuwirth, …"), OR it's a subtitle with "… von Composer"
+ * (Mannheim: "L'Orfeo, Favola in musica von Claudio Monteverdi, …").
+ */
 function parseMeta(
   meta: string,
   title: string,
@@ -120,20 +132,29 @@ function parseMeta(
   const creative_team: RawCredit[] = [];
   const cast: RawCredit[] = [];
 
-  const afterTitle = meta.startsWith(title) ? meta.slice(title.length).replace(/^,\s*/, "") : meta;
-  const composerCand = afterTitle.split(",")[0]?.trim() ?? "";
-  const composer =
-    composerCand &&
-    !composerCand.includes(":") &&
-    composerCand.length <= 45 &&
-    /[A-Za-zÄÖÜ]/.test(composerCand)
-      ? composerCand
-      : null;
+  // The cast/creative run starts at "Besetzung:" or "Abendbesetzung:".
+  const header = meta.match(/[A-Za-zÄÖÜ]*[Bb]esetzung:/);
+  const runStart = header?.index ?? -1;
+  const pre = runStart >= 0 ? meta.slice(0, runStart) : meta;
 
-  const run = meta.slice(meta.indexOf("Besetzung:"));
-  if (run.startsWith("Besetzung:")) {
+  const afterTitle = pre.startsWith(title) ? pre.slice(title.length).replace(/^,\s*/, "") : pre;
+  const secondField = afterTitle.split(",")[0]?.trim() ?? "";
+  let composer: string | null = null;
+  if (
+    secondField &&
+    !/\bvon\b|:|\d/.test(secondField) &&
+    /[A-Za-zÄÖÜ]/.test(secondField) &&
+    secondField.length <= 45
+  ) {
+    composer = secondField; // "Title, Composer, …"
+  } else {
+    const von = pre.match(/\bvon\s+([A-ZÄÖÜ][^,]{2,40})/); // "… von Composer"
+    if (von?.[1]) composer = von[1].trim();
+  }
+
+  if (runStart >= 0) {
     const seen = new Set<string>();
-    for (const segment of run.split(/,\s*/)) {
+    for (const segment of meta.slice(runStart).split(/,\s*/)) {
       const parts = segment.split(":");
       if (parts.length < 2) continue;
       const name = (parts.at(-1) ?? "").trim();
