@@ -88,6 +88,17 @@
     "notes": "Adapter implemented (spielplan-html + wikidata backfill). Currently at Schillertheater (Stammhaus renovation). Default /spielplan/ server-renders the upcoming window: performance blocks have data-return-point='{date}-p{id}' + link /spielplan/kalender/{slug}/{id}/ (month pages are JS-paginated, so window-limited for now). Detail page <meta name=description> = 'Title, Composer, … Besetzung: Role: Name, …, Musikalische Leitung: Name, …' → composer = 2nd field, cast+creative = colon-comma run. Title h1 has soft-hyphens."
   },
   {
+    "slug": "deutsche-oper-am-rhein",
+    "name": "Deutsche Oper am Rhein",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "website": "https://www.operamrhein.de",
+    "wikidata": "Q523473",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Same shared German-theatre CMS as Komische Oper (houses/_theater-cms.ts): default /spielplan/ server-renders blocks with data-return-point='{date}-p{id}' + /spielplan/kalender/{slug}/{id}/ links; detail <meta description> = 'Title, Composer, … Besetzung: …'. Company spans Düsseldorf + Duisburg."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",
