@@ -195,6 +195,11 @@
     "composer_slug": "ab-3-jahren"
   },
   {
+    "slug": "abschlusskonzert-der-punkakademie/punkakademie-jede-kann-s",
+    "title": "PUNKAKADEMIE: JEDE KANN’S!",
+    "composer_slug": "abschlusskonzert-der-punkakademie"
+  },
+  {
     "slug": "absprung-v",
     "title": "Absprung V",
     "composer_slug": ""
@@ -265,14 +270,29 @@
     "composer_slug": "astor-piazzolla"
   },
   {
+    "slug": "austausch-fur-ag-leitungen/drinks-drama",
+    "title": "drinks & drama",
+    "composer_slug": "austausch-fur-ag-leitungen"
+  },
+  {
     "slug": "auszuge-aus-werken-von-manuel-penella-moreno-torroba-f-a-barbieri-pablo-luna-u-a/gran-gala-de-zarzuela",
     "title": "Gran Gala de Zarzuela",
     "composer_slug": "auszuge-aus-werken-von-manuel-penella-moreno-torroba-f-a-barbieri-pablo-luna-u-a"
   },
   {
+    "slug": "autorenlesung-und-gesprach/zufluchtsort-mannheim",
+    "title": "Zufluchtsort Mannheim?",
+    "composer_slug": "autorenlesung-und-gesprach"
+  },
+  {
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
     "title": "Mokka-Hits und Milchbar-Träume",
     "composer_slug": "axel-ranisch-und-adam-benzwi"
+  },
+  {
+    "slug": "aydan-mugan/prasentation-club-gelb",
+    "title": "Präsentation Club Gelb",
+    "composer_slug": "aydan-mugan"
   },
   {
     "slug": "backstage-fuhrung",
@@ -295,6 +315,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "ballett-soiree-der-akademie-des-tanzes-mannheim",
+    "title": "Ballett-Soirée der Akademie des Tanzes Mannheim",
+    "composer_slug": ""
+  },
+  {
     "slug": "ballett-werkstatt",
     "title": "Ballett-Werkstatt",
     "composer_slug": ""
@@ -302,6 +327,11 @@
   {
     "slug": "balletthausfuhrung",
     "title": "Balletthausführung",
+    "composer_slug": ""
+  },
+  {
+    "slug": "baustellenfest-am-ntm",
+    "title": "Baustellenfest am NTM",
     "composer_slug": ""
   },
   {
@@ -315,14 +345,29 @@
     "composer_slug": "bedrich-smetana"
   },
   {
+    "slug": "begegnung-der-freunde-und-forderer-des-ntm",
+    "title": "Begegnung der Freunde und Förderer des NTM",
+    "composer_slug": ""
+  },
+  {
     "slug": "benjamin-britten/a-midsummer-night-s-dream",
     "title": "A Midsummer Night’s Dream",
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "bertolt-brecht-text-und-kurt-weill-mus/die-dreigroschenoper",
+    "title": "Die Dreigroschenoper",
+    "composer_slug": "bertolt-brecht-text-und-kurt-weill-mus"
+  },
+  {
     "slug": "between-songs-and-shadows",
     "title": "Between Songs and Shadows",
     "composer_slug": ""
+  },
+  {
+    "slug": "bjorks-homogenic-von-liesa-van-der-aa/hunter",
+    "title": "Hunter",
+    "composer_slug": "bjorks-homogenic-von-liesa-van-der-aa"
   },
   {
     "slug": "blick-hinter-die-kulissen-spezial",
@@ -333,6 +378,11 @@
     "slug": "bohuslav-martinu/the-greek-passion",
     "title": "The Greek Passion",
     "composer_slug": "bohuslav-martinu"
+  },
+  {
+    "slug": "boris-charmatz-terrain-zu-mozarts-requ/10000-gesten",
+    "title": "10000 GESTEN",
+    "composer_slug": "boris-charmatz-terrain-zu-mozarts-requ"
   },
   {
     "slug": "bruche-demokratie-in-zeiten-ihrer-regression",
@@ -375,6 +425,11 @@
     "composer_slug": "choreographie-regie-marcos-morau"
   },
   {
+    "slug": "chorische-performance/festivaleroffnung",
+    "title": "Festivaleröffnung",
+    "composer_slug": "chorische-performance"
+  },
+  {
     "slug": "christina-nilsson-sopran-magnus-svensson-klavier",
     "title": "Christina Nilsson (Sopran) / Magnus Svensson (Klavier)",
     "composer_slug": ""
@@ -400,6 +455,11 @@
     "composer_slug": "claudio-monteverdi"
   },
   {
+    "slug": "claudio-monteverdi/l-orfeo",
+    "title": "L'Orfeo",
+    "composer_slug": "claudio-monteverdi"
+  },
+  {
     "slug": "club-zone-1-schall-und-rau-s-ch",
     "title": "Club Zone #1: Schall und Rau(s)ch",
     "composer_slug": ""
@@ -418,6 +478,21 @@
     "slug": "croissant-mit-omer",
     "title": "Croissant mit Omer",
     "composer_slug": ""
+  },
+  {
+    "slug": "das-kind-und-das-ding",
+    "title": "Das Kind und das Ding",
+    "composer_slug": ""
+  },
+  {
+    "slug": "das-lehrerzimmer",
+    "title": "Das Lehrerzimmer",
+    "composer_slug": ""
+  },
+  {
+    "slug": "das-programm-der-konzertreise-nach-rio/mannheimer-blaserphilharmonie",
+    "title": "Mannheimer Bläserphilharmonie",
+    "composer_slug": "das-programm-der-konzertreise-nach-rio"
   },
   {
     "slug": "der-musiker-und-autor-omer-meir-wellber-ein-portrat",
@@ -470,6 +545,21 @@
     "composer_slug": "die-welt-hinter-den-kulissen-entdecken"
   },
   {
+    "slug": "don-giovanni-justin-bieber-remix",
+    "title": "Don Giovanni (Justin Bieber Remix)",
+    "composer_slug": ""
+  },
+  {
+    "slug": "dr-jekyll-und-mr-hyde/der-seltsame-fall-von-dr-jekyll-und-mr-hyde",
+    "title": "Der seltsame Fall von Dr. Jekyll und Mr. Hyde",
+    "composer_slug": "dr-jekyll-und-mr-hyde"
+  },
+  {
+    "slug": "dramma-lirico-in-vier-teilen/nabucco",
+    "title": "Nabucco",
+    "composer_slug": "dramma-lirico-in-vier-teilen"
+  },
+  {
     "slug": "ebbe-und-flut",
     "title": "Ebbe und Flut",
     "composer_slug": ""
@@ -480,9 +570,19 @@
     "composer_slug": "ein-blick-hinter-die-kulissen"
   },
   {
+    "slug": "ein-gemalde-entsteht/slime-studies",
+    "title": "Slime Studies",
+    "composer_slug": "ein-gemalde-entsteht"
+  },
+  {
     "slug": "ein-generationsubergreifendes-chor-und-theaterprojekt/wertschatze",
     "title": "WERTschätze",
     "composer_slug": "ein-generationsubergreifendes-chor-und-theaterprojekt"
+  },
+  {
+    "slug": "ein-klingender-theaterraum/terz-tonchen-6-monate",
+    "title": "Terz & Tönchen (6+ Monate)",
+    "composer_slug": "ein-klingender-theaterraum"
   },
   {
     "slug": "ein-konzert-zur-forderung-einer-jungen-kreativen-und-demokratischen-zukunft/tanz-auf-dem-vulkan",
@@ -525,6 +625,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "eine-geschichte-in-xiv-lektionen/unsere-klasse",
+    "title": "Unsere Klasse",
+    "composer_slug": "eine-geschichte-in-xiv-lektionen"
+  },
+  {
+    "slug": "eine-hommage-an-mevlude-genc/dinge-uber-leben",
+    "title": "Dinge | über | Leben",
+    "composer_slug": "eine-hommage-an-mevlude-genc"
+  },
+  {
     "slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten",
     "title": "Alles, was wir sein könnten",
     "composer_slug": "eine-wohnzimmeroper"
@@ -545,6 +655,16 @@
     "composer_slug": "elena-kats-chernin"
   },
   {
+    "slug": "emil-und-die-detektive-7",
+    "title": "Emil und die Detektive (7+)",
+    "composer_slug": ""
+  },
+  {
+    "slug": "emily-bronte/sturmhohe",
+    "title": "Sturmhöhe",
+    "composer_slug": "emily-bronte"
+  },
+  {
     "slug": "engelbert-humperdinck/dornroschen",
     "title": "Dornröschen",
     "composer_slug": "engelbert-humperdinck"
@@ -558,6 +678,21 @@
     "slug": "engelbert-humperdinck/konigskinder",
     "title": "Königskinder",
     "composer_slug": "engelbert-humperdinck"
+  },
+  {
+    "slug": "ensemble-in-residence/wooden-elephant",
+    "title": "Wooden Elephant",
+    "composer_slug": "ensemble-in-residence"
+  },
+  {
+    "slug": "ensemble-modern-nach-john-cage/atlas-eclipticalis",
+    "title": "Atlas Eclipticalis",
+    "composer_slug": "ensemble-modern-nach-john-cage"
+  },
+  {
+    "slug": "ergebnis/grundlagenfortbildung-muss-das-ergebnis-immer-eine-auffuhrung-sein",
+    "title": "GRUNDLAGENFORTBILDUNG: Muss das Ergebnis immer eine Aufführung sein?",
+    "composer_slug": "ergebnis"
   },
   {
     "slug": "ernest-chausson/le-roi-arthus",
@@ -590,8 +725,23 @@
     "composer_slug": ""
   },
   {
+    "slug": "fast-ein-musical/slippery-slope",
+    "title": "Slippery Slope",
+    "composer_slug": "fast-ein-musical"
+  },
+  {
     "slug": "fast-forward",
     "title": "FAST FORWARD",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fatih-peker/prasentation-club-grun",
+    "title": "Präsentation Club Grün",
+    "composer_slug": "fatih-peker"
+  },
+  {
+    "slug": "felix-mendelssohn-bartholdy-im-schloss",
+    "title": "Felix Mendelssohn Bartholdy im Schloss",
     "composer_slug": ""
   },
   {
@@ -602,6 +752,21 @@
   {
     "slug": "festakt-der-buhnen",
     "title": "Festakt der Bühnen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "festliche-operngala-mit-synchronfeuerwerk/schloss-in-flammen",
+    "title": "Schloss in Flammen",
+    "composer_slug": "festliche-operngala-mit-synchronfeuerwerk"
+  },
+  {
+    "slug": "film-orpheus",
+    "title": "Film: Orpheus",
+    "composer_slug": ""
+  },
+  {
+    "slug": "film-shakespeare-in-love",
+    "title": "Film: Shakespeare in Love",
     "composer_slug": ""
   },
   {
@@ -630,6 +795,11 @@
     "composer_slug": "francis-poulenc"
   },
   {
+    "slug": "franklin-fuhrung",
+    "title": "Franklin-Führung",
+    "composer_slug": ""
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady",
     "title": "My Fair Lady",
     "composer_slug": "frederick-loewe"
@@ -645,6 +815,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "friedrich-schiller/kabale-und-liebe",
+    "title": "Kabale und Liebe",
+    "composer_slug": "friedrich-schiller"
+  },
+  {
     "slug": "fuhrung",
     "title": "Führung",
     "composer_slug": ""
@@ -657,6 +832,11 @@
   {
     "slug": "fuhrung-durch-die-staatsoper",
     "title": "Führung durch die Staatsoper",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrung-durch-die-werkstatten-des-ntm",
+    "title": "Führung durch die Werkstätten des NTM",
     "composer_slug": ""
   },
   {
@@ -677,6 +857,11 @@
   {
     "slug": "fuhrung-spezial-requisite",
     "title": "Führung Spezial Requisite",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrung-uber-die-spielhausbaustelle",
+    "title": "Führung über die Spielhausbaustelle",
     "composer_slug": ""
   },
   {
@@ -865,6 +1050,11 @@
     "composer_slug": "gordon-kampe"
   },
   {
+    "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5",
+    "title": "Bei der Feuerwehr wird der Kaffee kalt (5+)",
+    "composer_slug": "hannes-huttner-und-gerhard-lahr"
+  },
+  {
     "slug": "hans-werner-henze/el-cimarron",
     "title": "El Cimarrón",
     "composer_slug": "hans-werner-henze"
@@ -880,9 +1070,24 @@
     "composer_slug": ""
   },
   {
+    "slug": "heimatkomplex",
+    "title": "Heimatkomplex",
+    "composer_slug": ""
+  },
+  {
     "slug": "helden",
     "title": "HELDEN",
     "composer_slug": ""
+  },
+  {
+    "slug": "henrik-albrecht/heidi",
+    "title": "Heidi",
+    "composer_slug": "henrik-albrecht"
+  },
+  {
+    "slug": "henrike-iglesias-hempel-urauffuhrung/hall-of-fans-13",
+    "title": "Hall of Fans (13+)",
+    "composer_slug": "henrike-iglesias-hempel-urauffuhrung"
   },
   {
     "slug": "henry-purcell/dido-aeneas",
@@ -898,6 +1103,11 @@
     "slug": "herve-koubi",
     "title": "Hervé Koubi",
     "composer_slug": ""
+  },
+  {
+    "slug": "hinrich-schmidt-henkel-und-sonja-finck/die-freiheit-einer-frau-monique-bricht-aus",
+    "title": "Die Freiheit einer Frau: Monique bricht aus",
+    "composer_slug": "hinrich-schmidt-henkel-und-sonja-finck"
   },
   {
     "slug": "home-vibes-gestalten-im-join-haus",
@@ -920,6 +1130,11 @@
     "composer_slug": "igor-strawinsky"
   },
   {
+    "slug": "in-memoriam",
+    "title": "In Memoriam",
+    "composer_slug": ""
+  },
+  {
     "slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee",
     "title": "Liedmatinee",
     "composer_slug": "ingeborg-bachmann-zum-geburtstag"
@@ -933,6 +1148,11 @@
     "slug": "intermezzo-oper-am-mittag",
     "title": "Intermezzo – Oper am Mittag",
     "composer_slug": ""
+  },
+  {
+    "slug": "isabella-sedlak/mozart-schwarzenegger-hitler",
+    "title": "Mozart. Schwarzenegger. Hitler.",
+    "composer_slug": "isabella-sedlak"
   },
   {
     "slug": "ismael-jordi-tenor-ruben-fernandez-aguirre-klavier",
@@ -970,6 +1190,11 @@
     "composer_slug": "johann-strauss-und-ralph-benatzky"
   },
   {
+    "slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther",
+    "title": "Die Leiden des jungen Werther",
+    "composer_slug": "johann-wolfgang-von-goethe"
+  },
+  {
     "slug": "johannes-martin-kranzle-bariton-hilko-dumno-klavier",
     "title": "Johannes Martin Kränzle / (Bariton) Hilko Dumno (Klavier)",
     "composer_slug": ""
@@ -990,6 +1215,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "kammerakademie",
+    "title": "Kammerakademie",
+    "composer_slug": ""
+  },
+  {
     "slug": "kammerkonzert-9/in-memoriam",
     "title": "In Memoriam",
     "composer_slug": "kammerkonzert-9"
@@ -1003,6 +1233,11 @@
     "slug": "kantinentalk",
     "title": "KantinenTalk",
     "composer_slug": ""
+  },
+  {
+    "slug": "karaokesingen-zu-sinfonischer-begleitung/orchesterkaraoke",
+    "title": "Orchesterkaraoke",
+    "composer_slug": "karaokesingen-zu-sinfonischer-begleitung"
   },
   {
     "slug": "kasalla-nit-esu-laut",
@@ -1055,6 +1290,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "kommando-himmelfahrt-uber-ki-und-den-wun/e-l-i-z-a",
+    "title": "E.L.I.Z.A.",
+    "composer_slug": "kommando-himmelfahrt-uber-ki-und-den-wun"
+  },
+  {
     "slug": "konfetti-im-weltall",
     "title": "Konfetti im Weltall",
     "composer_slug": ""
@@ -1095,13 +1335,28 @@
     "composer_slug": ""
   },
   {
+    "slug": "kunst-der-fuge",
+    "title": "Kunst der Fuge",
+    "composer_slug": ""
+  },
+  {
     "slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge",
     "title": "Der Zar lässt sich fotografieren / Die Kluge",
     "composer_slug": "kurt-weill-carl-orff"
   },
   {
+    "slug": "la-fleur-nach-emmerich-kalman/das-phantom-der-operette",
+    "title": "Das Phantom der Operette",
+    "composer_slug": "la-fleur-nach-emmerich-kalman"
+  },
+  {
     "slug": "lab-alle-an-deck",
     "title": "LAB: Alle an Deck?",
+    "composer_slug": ""
+  },
+  {
+    "slug": "landschaftsmusik",
+    "title": "Landschaftsmusik",
     "composer_slug": ""
   },
   {
@@ -1120,14 +1375,44 @@
     "composer_slug": ""
   },
   {
+    "slug": "let-s-talk-about-schonheit/das-haymatministerium",
+    "title": "Das Haymatministerium",
+    "composer_slug": "let-s-talk-about-schonheit"
+  },
+  {
     "slug": "libretti-lesen",
     "title": "Libretti lesen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "lieblingsort",
+    "title": "Lieblingsort",
+    "composer_slug": ""
+  },
+  {
+    "slug": "liederabend-diana-damrau",
+    "title": "Liederabend Diana Damrau",
     "composer_slug": ""
   },
   {
     "slug": "liedmatinee",
     "title": "Liedmatinee",
     "composer_slug": ""
+  },
+  {
+    "slug": "lissabon/die-nacht-von-lissabon",
+    "title": "Die Nacht von Lissabon",
+    "composer_slug": "lissabon"
+  },
+  {
+    "slug": "lostanzen-auf-der-buhne",
+    "title": "Lostanzen! auf der Bühne",
+    "composer_slug": ""
+  },
+  {
+    "slug": "louis-thuriot-und-ensemblemitgliedern-des/choreografische-werkstatt",
+    "title": "Choreografische Werkstatt",
+    "composer_slug": "louis-thuriot-und-ensemblemitgliedern-des"
   },
   {
     "slug": "louise-alder-sopran-mauro-peter-tenor-joseph-middleton-klavier",
@@ -1140,9 +1425,29 @@
     "composer_slug": "lucia-ronchetti-1963"
   },
   {
+    "slug": "lucia-wunsch/lacrimosa",
+    "title": "Lacrimosa",
+    "composer_slug": "lucia-wunsch"
+  },
+  {
     "slug": "lunchkonzert-musikalische-mittagspausen",
     "title": "Lunchkonzert, Musikalische Mittagspausen",
     "composer_slug": ""
+  },
+  {
+    "slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2",
+    "title": "Die Welt ist rund (2+)",
+    "composer_slug": "manuel-moser-urauffuhrung"
+  },
+  {
+    "slug": "maria-lazar-urauffuhrung/veritas-eine-hexenjagd",
+    "title": "Veritas: Eine Hexenjagd",
+    "composer_slug": "maria-lazar-urauffuhrung"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/wenn-ich-s-nicht-tanzen-kann-fuhl-ich-s-nicht-7",
+    "title": "Wenn ich's nicht tanzen kann, fühl ich's nicht (7+)",
+    "composer_slug": "martin-nachbar-urauffuhrung"
   },
   {
     "slug": "matineekonzert",
@@ -1170,9 +1475,24 @@
     "composer_slug": ""
   },
   {
+    "slug": "mercy-seat",
+    "title": "Mercy Seat",
+    "composer_slug": ""
+  },
+  {
     "slug": "michail-glinka/ruslan-und-ljudmila",
     "title": "Ruslan und Ljudmila",
     "composer_slug": "michail-glinka"
+  },
+  {
+    "slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo",
+    "title": "Miss Sara Jevo",
+    "composer_slug": "milo-cortanovacki-und-sandro-sutalo-ura"
+  },
+  {
+    "slug": "miss-sara-jevo-x-queere-buhne",
+    "title": "Miss Sara Jevo x Queere Bühne",
+    "composer_slug": ""
   },
   {
     "slug": "mit-dem-semperoper-ballett-ins-kino/tanz-film-cranko",
@@ -1180,9 +1500,29 @@
     "composer_slug": "mit-dem-semperoper-ballett-ins-kino"
   },
   {
+    "slug": "mit-luva-dj-set/eroffnungsparty",
+    "title": "Eröffnungsparty",
+    "composer_slug": "mit-luva-dj-set"
+  },
+  {
     "slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "title": "Das Grand Hotel der Gefühle",
     "composer_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a"
+  },
+  {
+    "slug": "mit-raumlabor/hocker-bauen",
+    "title": "Hocker bauen",
+    "composer_slug": "mit-raumlabor"
+  },
+  {
+    "slug": "mit-timor-litzenberger/abschlussparty",
+    "title": "Abschlussparty",
+    "composer_slug": "mit-timor-litzenberger"
+  },
+  {
+    "slug": "mittsommerfeier-im-venezianischen-stil/maskenball",
+    "title": "Maskenball",
+    "composer_slug": "mittsommerfeier-im-venezianischen-stil"
   },
   {
     "slug": "mittsu",
@@ -1190,9 +1530,54 @@
     "composer_slug": ""
   },
   {
+    "slug": "mixed-abled-tanzunterricht",
+    "title": "Mixed-abled Tanzunterricht",
+    "composer_slug": ""
+  },
+  {
+    "slug": "mixed-abled-tanzunterricht-ii",
+    "title": "Mixed-abled Tanzunterricht II",
+    "composer_slug": ""
+  },
+  {
     "slug": "moderierte-kammermusik-in-der-tischlerei/6-tischlereikonzert-quergeister",
     "title": "6. Tischlereikonzert: Quergeister",
     "composer_slug": "moderierte-kammermusik-in-der-tischlerei"
+  },
+  {
+    "slug": "monatlicher-stammtisch-auf-franklin/bar-abend-im-alten-kino-franklin",
+    "title": "Bar-Abend im Alten Kino Franklin",
+    "composer_slug": "monatlicher-stammtisch-auf-franklin"
+  },
+  {
+    "slug": "moritz-simon-geist/mr-808",
+    "title": "MR-808",
+    "composer_slug": "moritz-simon-geist"
+  },
+  {
+    "slug": "moritz-simon-geist/tripods-one",
+    "title": "Tripods One",
+    "composer_slug": "moritz-simon-geist"
+  },
+  {
+    "slug": "mozarts-requiem-die-sinfonie-g-moll/8-akademiekonzert-mozarts-requiem",
+    "title": "8. Akademiekonzert | Mozarts Requiem",
+    "composer_slug": "mozarts-requiem-die-sinfonie-g-moll"
+  },
+  {
+    "slug": "musikalische-reihe-ulrike-stock/baby-rave-fur-babys-und-krabbelkinder",
+    "title": "Baby Rave (für Babys und Krabbelkinder)",
+    "composer_slug": "musikalische-reihe-ulrike-stock"
+  },
+  {
+    "slug": "mythos/kampf-der-titanen",
+    "title": "Kampf der Titanen",
+    "composer_slug": "mythos"
+  },
+  {
+    "slug": "naomi-sanfo-ansorge/denk-jetzt-nicht-an-zitrone-11",
+    "title": "Denk jetzt nicht an Zitrone! (11+)",
+    "composer_slug": "naomi-sanfo-ansorge"
   },
   {
     "slug": "neue-welten",
@@ -1248,6 +1633,26 @@
     "slug": "olga-neuwirth/orlando",
     "title": "Orlando",
     "composer_slug": "olga-neuwirth"
+  },
+  {
+    "slug": "opal-fuhrung",
+    "title": "OPAL-Führung",
+    "composer_slug": ""
+  },
+  {
+    "slug": "open-air-konzert-des-ensemble-in-residence/best-of-wooden-elephant",
+    "title": "Best of Wooden Elephant",
+    "composer_slug": "open-air-konzert-des-ensemble-in-residence"
+  },
+  {
+    "slug": "open-class-i-anfanger-innen",
+    "title": "Open Class I: Anfänger*innen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "title": "Open Class II: Mittelstufe / Fortgeschritten",
+    "composer_slug": ""
   },
   {
     "slug": "open-mic-im-foyer",
@@ -1310,6 +1715,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "opernmelodien-auf-gro-er-reise/konzert-des-internationalen-opernstudios",
+    "title": "Konzert des Internationalen Opernstudios",
+    "composer_slug": "opernmelodien-auf-gro-er-reise"
+  },
+  {
     "slug": "opernworkshop",
     "title": "Opernworkshop",
     "composer_slug": ""
@@ -1318,6 +1728,16 @@
     "slug": "ottorino-respighi/la-fiamma",
     "title": "La fiamma",
     "composer_slug": "ottorino-respighi"
+  },
+  {
+    "slug": "party-im-garten-der-kunste",
+    "title": "Party im Garten der Künste",
+    "composer_slug": ""
+  },
+  {
+    "slug": "passing-by",
+    "title": "Passing by",
+    "composer_slug": ""
   },
   {
     "slug": "peter-i-tschaikowski/mazeppa",
@@ -1340,6 +1760,11 @@
     "composer_slug": "pietro-mascagni"
   },
   {
+    "slug": "play-schultheatertreffen",
+    "title": "PLAY Schultheatertreffen",
+    "composer_slug": ""
+  },
+  {
     "slug": "podiums-shy-diskussion-wie-politisch-kann-muss-sollte-musik-shy-theater-sein",
     "title": "Podiums&shy;diskussion: „Wie politisch kann, muss, sollte Musik&shy;theater sein?“",
     "composer_slug": ""
@@ -1347,6 +1772,11 @@
   {
     "slug": "politische-perspektiven",
     "title": "Politische Perspektiven",
+    "composer_slug": ""
+  },
+  {
+    "slug": "pop-auf-streichinstrumenten",
+    "title": "Pop auf Streichinstrumenten",
     "composer_slug": ""
   },
   {
@@ -1375,9 +1805,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "punkakademie-jede-legt-los",
+    "title": "PUNKAKADEMIE: JEDE LEGT LOS!",
+    "composer_slug": ""
+  },
+  {
     "slug": "ralf-gscheidle/marla-die-maifliege",
     "title": "Marla, die Maifliege",
     "composer_slug": "ralf-gscheidle"
+  },
+  {
+    "slug": "rebecca-fritzsche-nazli-saremi/prasentation-club-indigo",
+    "title": "Präsentation Club Indigo",
+    "composer_slug": "rebecca-fritzsche-nazli-saremi"
   },
   {
     "slug": "richard-strauss/ariadne-auf-naxos",
@@ -1440,6 +1880,11 @@
     "composer_slug": "romantik-uber-den-dachern-der-stadt"
   },
   {
+    "slug": "rosenkranz-guldenstern/ins-kalte-wasser",
+    "title": "Ins kalte Wasser",
+    "composer_slug": "rosenkranz-guldenstern"
+  },
+  {
     "slug": "sacre-chor",
     "title": "Sacre Chor",
     "composer_slug": ""
@@ -1448,6 +1893,11 @@
     "slug": "sara-glojnaric/station-paradiso",
     "title": "Station Paradiso",
     "composer_slug": "sara-glojnaric"
+  },
+  {
+    "slug": "sarah-calortscher-szenische-lesung-und/die-physikerinnen-weit-weg-vom-gleichgewicht",
+    "title": "Die Physikerinnen (weit weg vom Gleichgewicht)",
+    "composer_slug": "sarah-calortscher-szenische-lesung-und"
   },
   {
     "slug": "sasha-waltz/dido-aeneas",
@@ -1480,6 +1930,16 @@
     "composer_slug": "sergei-s-prokofjew"
   },
   {
+    "slug": "serra-al-deen-urauffuhrung/all-my-life-watching-america",
+    "title": "All My Life Watching America",
+    "composer_slug": "serra-al-deen-urauffuhrung"
+  },
+  {
+    "slug": "sezen-aksu/istanbul",
+    "title": "Istanbul",
+    "composer_slug": "sezen-aksu"
+  },
+  {
     "slug": "signaturen",
     "title": "Signaturen",
     "composer_slug": ""
@@ -1510,6 +1970,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "title": "In der magischen Burg",
+    "composer_slug": "sitzkissenkonzert-zur-zauberflote"
+  },
+  {
     "slug": "slow-burn",
     "title": "SLOW BURN",
     "composer_slug": ""
@@ -1535,6 +2000,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "solokonzert-an-der-gitarre/kat-frankie",
+    "title": "Kat Frankie",
+    "composer_slug": "solokonzert-an-der-gitarre"
+  },
+  {
+    "slug": "sommerkonzert-des-kinderchores/viva-la-musica",
+    "title": "Viva la musica",
+    "composer_slug": "sommerkonzert-des-kinderchores"
+  },
+  {
     "slug": "sommerliche-konzerte",
     "title": "Sommerliche Konzerte",
     "composer_slug": ""
@@ -1550,9 +2025,19 @@
     "composer_slug": "spielclub-musiktheater"
   },
   {
+    "slug": "spielen/offener-theatertreff-8-bis-21-jahre",
+    "title": "Offener Theatertreff (8 bis 21 Jahre)",
+    "composer_slug": "spielen"
+  },
+  {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai",
     "title": "Staatskapelle Berlin: Opern-Gastspiel in Shanghai",
     "composer_slug": ""
+  },
+  {
+    "slug": "stephan-thoss/shakespeare-love",
+    "title": "Shakespeare & Love",
+    "composer_slug": "stephan-thoss"
   },
   {
     "slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion",
@@ -1560,14 +2045,44 @@
     "composer_slug": "stina-quagebeur-glen-tetley-goyo-montero"
   },
   {
+    "slug": "studierenden-der-robert-schumann-hochschu/matineekonzert",
+    "title": "Matineekonzert",
+    "composer_slug": "studierenden-der-robert-schumann-hochschu"
+  },
+  {
     "slug": "studio-liebermann",
     "title": "Studio Liebermann",
     "composer_slug": ""
   },
   {
+    "slug": "subbotnik-urauffuhrung/klassiker-ein-remix-15",
+    "title": "Klassiker! – Ein Remix (15+)",
+    "composer_slug": "subbotnik-urauffuhrung"
+  },
+  {
+    "slug": "summer-intensive",
+    "title": "Summer Intensive",
+    "composer_slug": ""
+  },
+  {
+    "slug": "susanne-rieber/prasentation-club-blau",
+    "title": "Präsentation Club Blau",
+    "composer_slug": "susanne-rieber"
+  },
+  {
     "slug": "ta-ta-ta-taaa",
     "title": "TA-TA-TA TAAA!",
     "composer_slug": ""
+  },
+  {
+    "slug": "talk-zu-shakespeare-love",
+    "title": "Talk zu »Shakespeare & Love«",
+    "composer_slug": ""
+  },
+  {
+    "slug": "tanju-girisken-urauffuhrung/mutter-dili-alle-farben-meiner-sprachen-14",
+    "title": "Mutter dili – alle Farben meiner Sprachen (14+)",
+    "composer_slug": "tanju-girisken-urauffuhrung"
   },
   {
     "slug": "tannhauser",
@@ -1585,6 +2100,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "tanzfuchs-produktion-urauffuhrung/federn-federn-2",
+    "title": "Federn federn (2+)",
+    "composer_slug": "tanzfuchs-produktion-urauffuhrung"
+  },
+  {
     "slug": "the-littmann-sessions-eine-pop-gala",
     "title": "The Littmann Sessions: eine Pop-Gala",
     "composer_slug": ""
@@ -1592,6 +2112,11 @@
   {
     "slug": "the-times-are-racing",
     "title": "THE TIMES ARE RACING",
+    "composer_slug": ""
+  },
+  {
+    "slug": "theater-sneak",
+    "title": "Theater-Sneak",
     "composer_slug": ""
   },
   {
@@ -1608,6 +2133,11 @@
     "slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so",
     "title": "So oder so oder so",
     "composer_slug": "tom-smith-heili-schwarz-schutte"
+  },
+  {
+    "slug": "tom-weinberger/wer-darf-hier-mann-sein",
+    "title": "Wer darf hier Mann sein?",
+    "composer_slug": "tom-weinberger"
   },
   {
     "slug": "training-zum-zuschauen",
@@ -1655,9 +2185,19 @@
     "composer_slug": "vincenzo-bellini"
   },
   {
+    "slug": "vocks-de-schwindt/queer-opera-love",
+    "title": "Queer Opera Love",
+    "composer_slug": "vocks-de-schwindt"
+  },
+  {
     "slug": "von-allen-fur-alle/boom-boom",
     "title": "Boom Boom",
     "composer_slug": "von-allen-fur-alle"
+  },
+  {
+    "slug": "waldkonzert-mit-holzblasern",
+    "title": "Waldkonzert mit Holzbläsern",
+    "composer_slug": ""
   },
   {
     "slug": "wandel",
@@ -1667,6 +2207,11 @@
   {
     "slug": "weihnachtskonzert-opernfreunde",
     "title": "Weihnachtskonzert Opernfreunde",
+    "composer_slug": ""
+  },
+  {
+    "slug": "werkschau-der-wald-der-wolf-und-wir",
+    "title": "Werkschau »Der Wald. Der Wolf. Und Wir.«",
     "composer_slug": ""
   },
   {
@@ -1685,9 +2230,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "werner-holzwarth-wolf-erlbruch/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat-4",
+    "title": "Vom kleinen Maulwurf, der wissen wollte, wer ihm auf den Kopf gemacht hat. (4+)",
+    "composer_slug": "werner-holzwarth-wolf-erlbruch"
+  },
+  {
     "slug": "what-a-wonderful-world",
     "title": "What a wonderful world",
     "composer_slug": ""
+  },
+  {
+    "slug": "william-shakespeare/hamlet",
+    "title": "Hamlet",
+    "composer_slug": "william-shakespeare"
   },
   {
     "slug": "wir-bauen-eine-neue-stadt",
@@ -1735,8 +2290,18 @@
     "composer_slug": "wolfgang-fortner"
   },
   {
+    "slug": "wooden-elephant/lemonade-nach-beyonce",
+    "title": "»Lemonade« nach Beyoncé",
+    "composer_slug": "wooden-elephant"
+  },
+  {
     "slug": "workshop-fur-familien",
     "title": "Workshop für Familien",
+    "composer_slug": ""
+  },
+  {
+    "slug": "workshops-mitmach-aktionen-fur-kinder-jugendliche",
+    "title": "Workshops & Mitmach-Aktionen für Kinder & Jugendliche",
     "composer_slug": ""
   },
   {
