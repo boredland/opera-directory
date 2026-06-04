@@ -1,0 +1,34 @@
+[
+  {
+    "id": "oper-dortmund/coco-superstar",
+    "work_slug": "sandra-engelhardt/we-do-opera-coco-superstar",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/coco-superstar/",
+    "creative_team": [
+      {
+        "person_slug": "carlos-vazquez",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-dortmund/nils-karlsson-daeumling",
+    "work_slug": "thierry-tidrow/nils-karlsson-daumling",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/nils-karlsson-daeumling/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-dortmund/wir-we",
+    "work_slug": "sarah-nemtsov-fur-9-solostimmen/we-wir",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/wir-we/",
+    "creative_team": [],
+    "cast": []
+  }
+]

@@ -683,7 +683,7 @@
   },
   {
     "id": "staatstheater-wiesbaden/la-mamma",
-    "work_slug": "komische-oper/la-mamma",
+    "work_slug": "gaetano-donizetti/la-mamma",
     "house_slug": "staatstheater-wiesbaden",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/la-mamma/1127/",
@@ -712,67 +712,67 @@
     "cast": [
       {
         "person_slug": "myriam-lifka",
-        "role_slug": "komische-oper/la-mamma/abendspielleitung"
+        "role_slug": "gaetano-donizetti/la-mamma/abendspielleitung"
       },
       {
         "person_slug": "fabian-jakob-balkhausen",
-        "role_slug": "komische-oper/la-mamma/dichter"
+        "role_slug": "gaetano-donizetti/la-mamma/dichter"
       },
       {
         "person_slug": "jack-lee",
-        "role_slug": "komische-oper/la-mamma/ehemann-der-primadonna"
+        "role_slug": "gaetano-donizetti/la-mamma/ehemann-der-primadonna"
       },
       {
         "person_slug": "sarah-yang",
-        "role_slug": "komische-oper/la-mamma/ihre-tochter"
+        "role_slug": "gaetano-donizetti/la-mamma/ihre-tochter"
       },
       {
         "person_slug": "jonathan-macker",
-        "role_slug": "komische-oper/la-mamma/intendant"
+        "role_slug": "gaetano-donizetti/la-mamma/intendant"
       },
       {
         "person_slug": "petro-pavlo-tkalenko",
-        "role_slug": "komische-oper/la-mamma/komponist"
+        "role_slug": "gaetano-donizetti/la-mamma/komponist"
       },
       {
         "person_slug": "diana-derenbach",
-        "role_slug": "komische-oper/la-mamma/kostumassistenz"
+        "role_slug": "gaetano-donizetti/la-mamma/kostumassistenz"
       },
       {
         "person_slug": "hovhannes-karapetyan",
-        "role_slug": "komische-oper/la-mamma/mamma"
+        "role_slug": "gaetano-donizetti/la-mamma/mamma"
       },
       {
         "person_slug": "tamara-lorenzo-gabeiras",
-        "role_slug": "komische-oper/la-mamma/musikalische-assistenz"
+        "role_slug": "gaetano-donizetti/la-mamma/musikalische-assistenz"
       },
       {
         "person_slug": "hessisches-staatsorchester-wiesbaden",
-        "role_slug": "komische-oper/la-mamma/orchester"
+        "role_slug": "gaetano-donizetti/la-mamma/orchester"
       },
       {
         "person_slug": "inna-fedorii",
-        "role_slug": "komische-oper/la-mamma/primadonna"
+        "role_slug": "gaetano-donizetti/la-mamma/primadonna"
       },
       {
         "person_slug": "thando-zwane",
-        "role_slug": "komische-oper/la-mamma/regisseur"
+        "role_slug": "gaetano-donizetti/la-mamma/regisseur"
       },
       {
         "person_slug": "annike-debus",
-        "role_slug": "komische-oper/la-mamma/sangerin-der-hosenrolle"
+        "role_slug": "gaetano-donizetti/la-mamma/sangerin-der-hosenrolle"
       },
       {
         "person_slug": "natalie-peine",
-        "role_slug": "komische-oper/la-mamma/statisterie"
+        "role_slug": "gaetano-donizetti/la-mamma/statisterie"
       },
       {
         "person_slug": "joshua-sanders",
-        "role_slug": "komische-oper/la-mamma/tenor"
+        "role_slug": "gaetano-donizetti/la-mamma/tenor"
       },
       {
         "person_slug": "oliver-riedmuller",
-        "role_slug": "komische-oper/la-mamma/vermittlung"
+        "role_slug": "gaetano-donizetti/la-mamma/vermittlung"
       }
     ]
   }
