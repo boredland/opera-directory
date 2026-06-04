@@ -180,6 +180,21 @@
     "composer_slug": ""
   },
   {
+    "slug": "ab-14-jahren/open-class-i-anfanger-innen",
+    "title": "Open Class I: Anfänger*innen",
+    "composer_slug": "ab-14-jahren"
+  },
+  {
+    "slug": "ab-14-jahren/open-class-ii-mittelstufe-fortgeschritten",
+    "title": "Open Class II: Mittelstufe / Fortgeschritten",
+    "composer_slug": "ab-14-jahren"
+  },
+  {
+    "slug": "ab-3-jahren/das-kind-und-das-ding",
+    "title": "Das Kind und das Ding",
+    "composer_slug": "ab-3-jahren"
+  },
+  {
     "slug": "absprung-v",
     "title": "Absprung V",
     "composer_slug": ""
@@ -193,6 +208,11 @@
     "slug": "aidas-rivalin",
     "title": "Aidas Rivalin",
     "composer_slug": ""
+  },
+  {
+    "slug": "alban-berg/wozzeck",
+    "title": "Wozzeck",
+    "composer_slug": "alban-berg"
   },
   {
     "slug": "albert-lortzing/zar-und-zimmermann",
@@ -240,6 +260,11 @@
     "composer_slug": "arnold-schonberg-frank-martin"
   },
   {
+    "slug": "astor-piazzolla/maria-de-buenos-aires",
+    "title": "María de Buenos Aires",
+    "composer_slug": "astor-piazzolla"
+  },
+  {
     "slug": "auszuge-aus-werken-von-manuel-penella-moreno-torroba-f-a-barbieri-pablo-luna-u-a/gran-gala-de-zarzuela",
     "title": "Gran Gala de Zarzuela",
     "composer_slug": "auszuge-aus-werken-von-manuel-penella-moreno-torroba-f-a-barbieri-pablo-luna-u-a"
@@ -275,6 +300,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "balletthausfuhrung",
+    "title": "Balletthausführung",
+    "composer_slug": ""
+  },
+  {
+    "slug": "beat-break-believe/the-drop",
+    "title": "The Drop",
+    "composer_slug": "beat-break-believe"
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut",
     "title": "Die verkaufte Braut",
     "composer_slug": "bedrich-smetana"
@@ -287,6 +322,11 @@
   {
     "slug": "between-songs-and-shadows",
     "title": "Between Songs and Shadows",
+    "composer_slug": ""
+  },
+  {
+    "slug": "blick-hinter-die-kulissen-spezial",
+    "title": "Blick hinter die Kulissen – Spezial",
     "composer_slug": ""
   },
   {
@@ -390,6 +430,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "des-kinderchors/sommerkonzert",
+    "title": "Sommerkonzert",
+    "composer_slug": "des-kinderchors"
+  },
+  {
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "title": "Jazz & Lyrics IV: Scheherazade",
     "composer_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei"
@@ -420,9 +465,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "title": "Familienführung",
+    "composer_slug": "die-welt-hinter-den-kulissen-entdecken"
+  },
+  {
     "slug": "ebbe-und-flut",
     "title": "Ebbe und Flut",
     "composer_slug": ""
+  },
+  {
+    "slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
+    "title": "Theaterführung",
+    "composer_slug": "ein-blick-hinter-die-kulissen"
   },
   {
     "slug": "ein-generationsubergreifendes-chor-und-theaterprojekt/wertschatze",
@@ -468,6 +523,11 @@
     "slug": "einblicke-fuhrung-durch-theatergebaude-und-werkstatten",
     "title": "Einblicke, Führung durch Theatergebäude und Werkstätten",
     "composer_slug": ""
+  },
+  {
+    "slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten",
+    "title": "Alles, was wir sein könnten",
+    "composer_slug": "eine-wohnzimmeroper"
   },
   {
     "slug": "einfuhrung-fur-familien-whoosh",
@@ -545,6 +605,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "fokus-jascha-horenstein",
+    "title": "Fokus: Jascha Horenstein",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fokus-musik",
+    "title": "Fokus Musik",
+    "composer_slug": ""
+  },
+  {
     "slug": "fortbildung-fur-lehrer-innen",
     "title": "Fortbildung für Lehrer:innen",
     "composer_slug": ""
@@ -618,6 +688,16 @@
     "slug": "fuhrungen-fur-weiter-shy-fuhrende-schulen",
     "title": "Führungen für weiter&shy;führende Schulen",
     "composer_slug": ""
+  },
+  {
+    "slug": "fur-jugendliche-erwachsene-ab-16-jahre/mixed-abled-tanzunterricht-ii",
+    "title": "Mixed-abled Tanzunterricht II",
+    "composer_slug": "fur-jugendliche-erwachsene-ab-16-jahre"
+  },
+  {
+    "slug": "fur-kinder-bis-einschl-15-jahre/mixed-abled-tanzunterricht",
+    "title": "Mixed-abled Tanzunterricht",
+    "composer_slug": "fur-kinder-bis-einschl-15-jahre"
   },
   {
     "slug": "gaetano-donizetti/l-elisir-d-amore",
@@ -720,6 +800,11 @@
     "composer_slug": "gioachino-rossini"
   },
   {
+    "slug": "gioachino-rossini/la-cenerentola",
+    "title": "La Cenerentola",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/tancredi",
     "title": "Tancredi",
     "composer_slug": "gioachino-rossini"
@@ -732,6 +817,11 @@
   {
     "slug": "giuseppe-verdi/don-carlo",
     "title": "Don Carlo",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/il-trovatore",
+    "title": "Il trovatore",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -830,6 +920,11 @@
     "composer_slug": "igor-strawinsky"
   },
   {
+    "slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee",
+    "title": "Liedmatinee",
+    "composer_slug": "ingeborg-bachmann-zum-geburtstag"
+  },
+  {
     "slug": "inside-out",
     "title": "Inside Out",
     "composer_slug": ""
@@ -845,6 +940,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "italienisches-intermezzo/symphoniker-im-foyer",
+    "title": "Symphoniker im Foyer",
+    "composer_slug": "italienisches-intermezzo"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "title": "Hoffmanns Erzählungen",
     "composer_slug": "jacques-offenbach"
@@ -853,6 +953,11 @@
     "slug": "jacques-offenbach/les-contes-d-hoffmann",
     "title": "Les Contes d’Hoffmann",
     "composer_slug": "jacques-offenbach"
+  },
+  {
+    "slug": "jerry-bock-musik/anatevka",
+    "title": "Anatevka",
+    "composer_slug": "jerry-bock-musik"
   },
   {
     "slug": "johann-strau/die-fledermaus-fur-kinder",
@@ -868,6 +973,11 @@
     "slug": "johannes-martin-kranzle-bariton-hilko-dumno-klavier",
     "title": "Johannes Martin Kränzle / (Bariton) Hilko Dumno (Klavier)",
     "composer_slug": ""
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht",
+    "title": "Endstation Sehnsucht",
+    "composer_slug": "john-neumeier"
   },
   {
     "slug": "junge-choreo-shy-graf-innen",
@@ -955,6 +1065,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "konzertante-opernauffuhrung/die-konigin-von-saba",
+    "title": "Die Königin von Saba",
+    "composer_slug": "konzertante-opernauffuhrung"
+  },
+  {
     "slug": "kostprobe-as-one",
     "title": "Kostprobe As One",
     "composer_slug": ""
@@ -995,6 +1110,11 @@
     "composer_slug": "laura-kaminsky-mark-campbell-kimberly-reed"
   },
   {
+    "slug": "leonard-bernstein-musik/on-the-town",
+    "title": "On the Town",
+    "composer_slug": "leonard-bernstein-musik"
+  },
+  {
     "slug": "let-s-have-a-kiki",
     "title": "Let´s have a Kiki",
     "composer_slug": ""
@@ -1002,6 +1122,11 @@
   {
     "slug": "libretti-lesen",
     "title": "Libretti lesen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "liedmatinee",
+    "title": "Liedmatinee",
     "composer_slug": ""
   },
   {
@@ -1017,6 +1142,11 @@
   {
     "slug": "lunchkonzert-musikalische-mittagspausen",
     "title": "Lunchkonzert, Musikalische Mittagspausen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "matineekonzert",
+    "title": "Matineekonzert",
     "composer_slug": ""
   },
   {
@@ -1155,6 +1285,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "opera-house-tour/backstage-tour-in-english-language",
+    "title": "Backstage Tour in English Language",
+    "composer_slug": "opera-house-tour"
+  },
+  {
     "slug": "opera-next-level",
     "title": "Opera Next Level",
     "composer_slug": ""
@@ -1162,6 +1297,11 @@
   {
     "slug": "opern-werkstatt",
     "title": "Opern-Werkstatt",
+    "composer_slug": ""
+  },
+  {
+    "slug": "opernhausfuhrung",
+    "title": "Opernhausführung",
     "composer_slug": ""
   },
   {
@@ -1215,6 +1355,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "preview-2026-2027",
+    "title": "Preview 2026/2027",
+    "composer_slug": ""
+  },
+  {
     "slug": "proben-shy-besuche-am-vormittag",
     "title": "Proben&shy;besuche am Vormittag",
     "composer_slug": ""
@@ -1242,6 +1387,11 @@
   {
     "slug": "richard-strauss/der-rosenkavalier",
     "title": "Der Rosenkavalier",
+    "composer_slug": "richard-strauss"
+  },
+  {
+    "slug": "richard-strauss/elektra",
+    "title": "Elektra",
     "composer_slug": "richard-strauss"
   },
   {
@@ -1285,6 +1435,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "romantik-uber-den-dachern-der-stadt/skyline-konzert-i",
+    "title": "Skyline Konzert I",
+    "composer_slug": "romantik-uber-den-dachern-der-stadt"
+  },
+  {
     "slug": "sacre-chor",
     "title": "Sacre Chor",
     "composer_slug": ""
@@ -1325,6 +1480,11 @@
     "composer_slug": "sergei-s-prokofjew"
   },
   {
+    "slug": "signaturen",
+    "title": "Signaturen",
+    "composer_slug": ""
+  },
+  {
     "slug": "silvester-shy-konzert",
     "title": "Silvester&shy;konzert",
     "composer_slug": ""
@@ -1338,6 +1498,11 @@
     "slug": "sing-halleluja",
     "title": "\"Sing Halleluja!\"",
     "composer_slug": ""
+  },
+  {
+    "slug": "sing-hoher/junger-dor-chor-on-stage",
+    "title": "Junger DOR-Chor on stage",
+    "composer_slug": "sing-hoher"
   },
   {
     "slug": "sinnes-shy-wandeln",
@@ -1380,9 +1545,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "spielclub-musiktheater/yo-soy-maria-ich-bin-maria",
+    "title": "Yo soy María - Ich bin María",
+    "composer_slug": "spielclub-musiktheater"
+  },
+  {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai",
     "title": "Staatskapelle Berlin: Opern-Gastspiel in Shanghai",
     "composer_slug": ""
+  },
+  {
+    "slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion",
+    "title": "OrgelPassion",
+    "composer_slug": "stina-quagebeur-glen-tetley-goyo-montero"
   },
   {
     "slug": "studio-liebermann",
@@ -1397,6 +1572,11 @@
   {
     "slug": "tannhauser",
     "title": "Tannhäuser",
+    "composer_slug": ""
+  },
+  {
+    "slug": "tanz-fur-menschen-mit-demenz",
+    "title": "Tanz für Menschen mit Demenz",
     "composer_slug": ""
   },
   {
@@ -1425,6 +1605,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so",
+    "title": "So oder so oder so",
+    "composer_slug": "tom-smith-heili-schwarz-schutte"
+  },
+  {
     "slug": "training-zum-zuschauen",
     "title": "Training zum Zuschauen",
     "composer_slug": ""
@@ -1450,6 +1635,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "under-the-greenwood-tree",
+    "title": "„Under the greenwood tree“",
+    "composer_slug": ""
+  },
+  {
     "slug": "utopia",
     "title": "Utopia",
     "composer_slug": ""
@@ -1463,6 +1653,11 @@
     "slug": "vincenzo-bellini/norma",
     "title": "Norma",
     "composer_slug": "vincenzo-bellini"
+  },
+  {
+    "slug": "von-allen-fur-alle/boom-boom",
+    "title": "Boom Boom",
+    "composer_slug": "von-allen-fur-alle"
   },
   {
     "slug": "wandel",
@@ -1542,6 +1737,11 @@
   {
     "slug": "workshop-fur-familien",
     "title": "Workshop für Familien",
+    "composer_slug": ""
+  },
+  {
+    "slug": "workshops-zum-schnuppern-und-mitmachen",
+    "title": "Workshops zum Schnuppern und Mitmachen",
     "composer_slug": ""
   },
   {
