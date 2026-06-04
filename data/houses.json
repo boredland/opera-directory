@@ -132,6 +132,39 @@
     "notes": "Adapter implemented (future + wikidata backfill). Multi-genre Staatstheater on the same cb-event framework as Deutsche Oper Berlin: the calendar reads /de_DE/event.json (paginated ?p=N, filtered from date_from; full param set current_language/keyword/status/location=alle/category=alle/date_from/q/query). Each row has IdEventCluster (production key), Title, ContentCategory (filter to Oper/Musiktheater), OpusInfo ('… von Composer' line), and a structured Ensemble (creative + sung cast, German labels) inline — richer than DOB, no detail fetch needed for credits. But every row of a cluster repeats the run-start date, so individual performance dates come from the detail page /de_DE/programm/{slug}.{id} ('further-event' articles, aria-label 'Weekday, DD. Monat YYYY, HH:MM …'). Future-only → Wikidata backfill. QID was wrong (Q321699 = a French commune); corrected to Q315705 (Opernhaus Hannover building, has the premiere-location link)."
   },
   {
+    "slug": "theater-bremen",
+    "name": "Theater Bremen",
+    "city": "Bremen",
+    "country": "DE",
+    "website": "https://theaterbremen.de",
+    "wikidata": "Q1727243",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). A cb-event house whose /de_DE/event.json 500s for external clients, but the season index /de_DE/programm-next is fully server-rendered: one '.productions' block per show (h1 accordeon-title link + '<p class=info>' opening with the genre line 'Oper … von Composer'). Enumerate the opera blocks there (OPERA_GENRE). Each detail page /de_DE/programm/{slug}.{id} carries the full Besetzung ('<span class=role>Label</span> <span>[<a>]Name') and all performance dates in an 'events-tickets' block ('Weekday, DD. Monat YYYY, HH:MM Uhr', <br>-separated). Canonical host has NO www. Future-only → Wikidata backfill."
+  },
+  {
+    "slug": "aalto-musiktheater-essen",
+    "name": "Aalto-Theater Essen",
+    "city": "Essen",
+    "country": "DE",
+    "website": "https://www.theater-essen.de",
+    "wikidata": "Q300975",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented via shared houses/_schedule-cms.ts (future + wikidata backfill). The Aalto-Theater is the opera house of Theater und Philharmonie Essen. Server-rendered schedule under /programm/: '.performance' cards '<div class=\"performance … js-schedule-element\" id=\"{YYYY-MM-DD}-p{prodId}\">' with a performance__category, a startDate microdata time, and a link /programm/kalender/{slug}/{id}/. The link id is per-PERFORMANCE, so group by slug. Opera = category 'Aalto Musiktheater' — but that bucket also holds guided tours and children's concerts, so the adapter keeps only cards whose detail '<meta description>' names a composer ('… von X' before 'Besetzung:'). Detail meta is the same Title/Composer/Besetzung run as the other CMS houses (reuses parseMeta). Coverage = server-rendered window; deep history via Wikidata."
+  },
+  {
+    "slug": "staatstheater-wiesbaden",
+    "name": "Hessisches Staatstheater Wiesbaden",
+    "city": "Wiesbaden",
+    "country": "DE",
+    "website": "https://www.staatstheater-wiesbaden.de",
+    "wikidata": "Q463782",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented via shared houses/_schedule-cms.ts (future + wikidata backfill). Same schedule-card CMS as Aalto Essen, but the schedule lives under /spielplan/ and opera cards carry the category 'Musiktheater' (categories have a trailing colon). Link id is per-performance → group by slug; non-opera cards filtered by requiring a 'von Composer' in the detail meta. Coverage = server-rendered window; deep history via Wikidata."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",

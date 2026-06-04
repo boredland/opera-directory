@@ -125,7 +125,7 @@ async function buildProduction(
  * "Orlando, Olga Neuwirth, …"), OR it's a subtitle with "… von Composer"
  * (Mannheim: "L'Orfeo, Favola in musica von Claudio Monteverdi, …").
  */
-function parseMeta(
+export function parseMeta(
   meta: string,
   title: string,
 ): { composer: string | null; creative_team: RawCredit[]; cast: RawCredit[] } {

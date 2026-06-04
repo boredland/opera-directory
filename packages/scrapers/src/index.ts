@@ -1,3 +1,4 @@
+import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
@@ -11,6 +12,8 @@ import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
 import { scrapeStaatsoperHamburg } from "./houses/staatsoper-hamburg";
 import { scrapeStaatsoperHannover } from "./houses/staatsoper-hannover";
 import { scrapeStaatsoperStuttgart } from "./houses/staatsoper-stuttgart";
+import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
+import { scrapeTheaterBremen } from "./houses/theater-bremen";
 import type { HouseScraper } from "./types";
 
 export * from "./fetch";
@@ -35,4 +38,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "nationaltheater-mannheim": scrapeNationaltheaterMannheim,
   "oper-leipzig": scrapeOperLeipzig,
   "staatsoper-hannover": scrapeStaatsoperHannover,
+  "theater-bremen": scrapeTheaterBremen,
+  "aalto-musiktheater-essen": scrapeAaltoMusiktheaterEssen,
+  "staatstheater-wiesbaden": scrapeStaatstheaterWiesbaden,
 };
