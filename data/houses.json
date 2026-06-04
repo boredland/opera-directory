@@ -143,6 +143,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). A cb-event house whose /de_DE/event.json 500s for external clients, but the season index /de_DE/programm-next is fully server-rendered: one '.productions' block per show (h1 accordeon-title link + '<p class=info>' opening with the genre line 'Oper … von Composer'). Enumerate the opera blocks there (OPERA_GENRE). Each detail page /de_DE/programm/{slug}.{id} carries the full Besetzung ('<span class=role>Label</span> <span>[<a>]Name') and all performance dates in an 'events-tickets' block ('Weekday, DD. Monat YYYY, HH:MM Uhr', <br>-separated). Canonical host has NO www. Future-only → Wikidata backfill."
   },
   {
+    "slug": "theater-bonn",
+    "name": "Theater Bonn",
+    "city": "Bonn",
+    "country": "DE",
+    "website": "https://www.theater-bonn.de",
+    "wikidata": "Q833954",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Django/Vue SPA over a REST API (base /de/api). /de/api/repertoire/ lists productions with a 'categories' array (filter to 'Oper') and a 'description' whose first <span class=small-caps> is the composer, followed by 'Label: <span class=small-caps>Name</span>' creative pairs. /de/api/events/ lists every performance with the production 'url', date_full (DD.MM.YYYY) and date_time ('HH:MM Uhr') — grouped by url for dates. The ?category= query param is ignored server-side (filtering is client-side on the categories field). No per-production detail endpoint, so sung cast (client-rendered) is left empty. Future-only → Wikidata backfill."
+  },
+  {
     "slug": "oper-dortmund",
     "name": "Oper Dortmund",
     "city": "Dortmund",

@@ -15,6 +15,7 @@ import { scrapeStaatsoperHannover } from "./houses/staatsoper-hannover";
 import { scrapeStaatsoperStuttgart } from "./houses/staatsoper-stuttgart";
 import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
+import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
 import type { HouseScraper } from "./types";
 
@@ -45,4 +46,5 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "staatstheater-wiesbaden": scrapeStaatstheaterWiesbaden,
   "staatstheater-nuernberg": scrapeStaatstheaterNuernberg,
   "oper-dortmund": scrapeOperDortmund,
+  "theater-bonn": scrapeTheaterBonn,
 };
