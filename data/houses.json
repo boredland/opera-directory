@@ -77,6 +77,17 @@
     "notes": "Adapter implemented (spielplan-html + wikidata backfill). Server-rendered on the new domain die-hamburgische-staatsoper.de. Dates from the full calendar /de/kalender (one <li class=event-entry> per night, data-href=/de/programm/{genre}/{id}-{slug} + event__date 'Fr 5.6.26' + time + location); grouped by production. Detail page per production: h1 title, 'Komposition: X' composer, production-infos__item list (label + person, creative + sung cast, German labels). Future-only → Wikidata backfill."
   },
   {
+    "slug": "komische-oper-berlin",
+    "name": "Komische Oper Berlin",
+    "city": "Berlin",
+    "country": "DE",
+    "website": "https://www.komische-oper-berlin.de",
+    "wikidata": "Q687694",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (spielplan-html + wikidata backfill). Currently at Schillertheater (Stammhaus renovation). Default /spielplan/ server-renders the upcoming window: performance blocks have data-return-point='{date}-p{id}' + link /spielplan/kalender/{slug}/{id}/ (month pages are JS-paginated, so window-limited for now). Detail page <meta name=description> = 'Title, Composer, … Besetzung: Role: Name, …, Musikalische Leitung: Name, …' → composer = 2nd field, cast+creative = colon-comma run. Title h1 has soft-hyphens."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",

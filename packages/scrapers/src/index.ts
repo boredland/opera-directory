@@ -1,4 +1,5 @@
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
+import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
 import { scrapeOperFrankfurt } from "./houses/oper-frankfurt";
 import { scrapeOperKoeln } from "./houses/oper-koeln";
@@ -25,4 +26,5 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "deutsche-oper-berlin": scrapeDeutscheOperBerlin,
   "staatsoper-stuttgart": scrapeStaatsoperStuttgart,
   "staatsoper-hamburg": scrapeStaatsoperHamburg,
+  "komische-oper-berlin": scrapeKomischeOperBerlin,
 };
