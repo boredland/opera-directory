@@ -325,6 +325,86 @@
     "name": "Schlagzeug"
   },
   {
+    "slug": "alban-berg/lulu/alwa",
+    "work_slug": "alban-berg/lulu",
+    "name": "Alwa"
+  },
+  {
+    "slug": "alban-berg/lulu/der-maler-der-freier",
+    "work_slug": "alban-berg/lulu",
+    "name": "Der Maler/Der Freier"
+  },
+  {
+    "slug": "alban-berg/lulu/der-medizinalrat-professor",
+    "work_slug": "alban-berg/lulu",
+    "name": "Der Medizinalrat/ Professor"
+  },
+  {
+    "slug": "alban-berg/lulu/der-prinz-ein-kammerdiener-der-marquis",
+    "work_slug": "alban-berg/lulu",
+    "name": "Der Prinz/Ein Kammerdiener/Der Marquis"
+  },
+  {
+    "slug": "alban-berg/lulu/der-theaterdirektor-der-bankier",
+    "work_slug": "alban-berg/lulu",
+    "name": "Der Theaterdirektor/Der Bankier"
+  },
+  {
+    "slug": "alban-berg/lulu/dr-schon-jack",
+    "work_slug": "alban-berg/lulu",
+    "name": "Dr. Schön/Jack"
+  },
+  {
+    "slug": "alban-berg/lulu/ein-diener",
+    "work_slug": "alban-berg/lulu",
+    "name": "Ein Diener"
+  },
+  {
+    "slug": "alban-berg/lulu/ein-journalist",
+    "work_slug": "alban-berg/lulu",
+    "name": "Ein Journalist"
+  },
+  {
+    "slug": "alban-berg/lulu/ein-tierbandiger-rodrigo",
+    "work_slug": "alban-berg/lulu",
+    "name": "Ein Tierbändiger/Rodrigo"
+  },
+  {
+    "slug": "alban-berg/lulu/eine-funfzehnjahrige",
+    "work_slug": "alban-berg/lulu",
+    "name": "Eine Fünfzehnjährige"
+  },
+  {
+    "slug": "alban-berg/lulu/eine-kunstgewerblerin",
+    "work_slug": "alban-berg/lulu",
+    "name": "Eine Kunstgewerblerin"
+  },
+  {
+    "slug": "alban-berg/lulu/eine-theatergarderobiere-ein-gymnasiast-ein-groom",
+    "work_slug": "alban-berg/lulu",
+    "name": "Eine Theatergarderobiere/Ein Gymnasiast/ Ein Groom"
+  },
+  {
+    "slug": "alban-berg/lulu/grafin-geschwitz",
+    "work_slug": "alban-berg/lulu",
+    "name": "Gräfin Geschwitz"
+  },
+  {
+    "slug": "alban-berg/lulu/ihre-mutter",
+    "work_slug": "alban-berg/lulu",
+    "name": "Ihre Mutter"
+  },
+  {
+    "slug": "alban-berg/lulu/lulu",
+    "work_slug": "alban-berg/lulu",
+    "name": "Lulu"
+  },
+  {
+    "slug": "alban-berg/lulu/schigolch",
+    "work_slug": "alban-berg/lulu",
+    "name": "Schigolch"
+  },
+  {
     "slug": "alban-berg/wozzeck/1-handwerksbursch",
     "work_slug": "alban-berg/wozzeck",
     "name": "1. Handwerksbursch"
@@ -535,6 +615,16 @@
     "name": "Unter der Leitung von"
   },
   {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/buhne-video",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Bühne, Video"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/sounddesign",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Sounddesign"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/1-elfe",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "1. Elfe"
@@ -738,6 +828,11 @@
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/szenische-einrichtung",
     "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
     "name": "Szenische Einrichtung"
+  },
+  {
+    "slug": "ballett/rausch/ballett",
+    "work_slug": "ballett/rausch",
+    "name": "Ballett"
   },
   {
     "slug": "beat-break-believe/the-drop/benny",
@@ -958,6 +1053,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream/tytania",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Tytania"
+  },
+  {
+    "slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper/sounddesign",
+    "work_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
+    "name": "Sounddesign"
   },
   {
     "slug": "bertolt-brecht-text-und-kurt-weill-mus/die-dreigroschenoper/brown",
@@ -1238,6 +1338,61 @@
     "slug": "carl-maria-von-weber/der-freischutz-fur-kinder/samiel",
     "work_slug": "carl-maria-von-weber/der-freischutz-fur-kinder",
     "name": "Samiel"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/agathe",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Agathe"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/annchen",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Ännchen"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/buhne-kostume",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Bühne, Kostüme"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/caspar",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Caspar"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/ein-eremit",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Ein Eremit"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/kilian",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kilian"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/kuno",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kuno"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/max",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Max"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/ottokar",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Ottokar"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/prospekte-nach-motiven-von",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Prospekte nach Motiven von"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/video-licht",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Video, Licht"
   },
   {
     "slug": "carl-orff/carmina-burana/chore",
@@ -1800,6 +1955,66 @@
     "name": "Ausstattung"
   },
   {
+    "slug": "ein-fall-fur-figaro/almaviva",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Almaviva"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/angelika-muller",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Angelika Müller"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/basi",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Basi"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/bert-o-muller",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Bert O. Müller"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/berta",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Berta"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/buhne-kostume",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Bühne, Kostüme"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/figaro",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Figaro"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/francesco",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Francesco"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/jugendopernchor",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Jugendopernchor"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/leitung-jugendopernchor",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Leitung Jugendopernchor"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/rosi",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Rosi"
+  },
+  {
+    "slug": "ein-fall-fur-figaro/sounddesign",
+    "work_slug": "ein-fall-fur-figaro",
+    "name": "Sounddesign"
+  },
+  {
     "slug": "ein-generationsubergreifendes-chor-und-theaterprojekt/wertschatze/co-leitung-kinderclub",
     "work_slug": "ein-generationsubergreifendes-chor-und-theaterprojekt/wertschatze",
     "name": "Co-Leitung Kinderclub"
@@ -2270,6 +2485,11 @@
     "name": "Sounddesign"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-und-gretel/buhne-nach-einem-konzept-von-andreas-wilkens",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "name": "Bühne (nach einem Konzept von Andreas Wilkens)"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-und-gretel/die-knusperhexe",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Die Knusperhexe"
@@ -2288,6 +2508,11 @@
     "slug": "engelbert-humperdinck/hansel-und-gretel/hansel",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Hänsel"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-und-gretel/licht-nurnberg",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "name": "Licht (Nürnberg)"
   },
   {
     "slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder",
@@ -3825,6 +4050,11 @@
     "name": "Chöre"
   },
   {
+    "slug": "giacomo-puccini/turandot/chorleitung-kinderchor",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Chorleitung Kinderchor"
+  },
+  {
     "slug": "giacomo-puccini/turandot/ein-mandarin",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Ein Mandarin"
@@ -3880,9 +4110,19 @@
     "name": "Turandot"
   },
   {
+    "slug": "giacomo-puccini/turandot/turandot-double",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Turandot-Double"
+  },
+  {
     "slug": "giacomo-puccini/turandot/zweite-damenstimme",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Zweite Damenstimme"
+  },
+  {
+    "slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel/herrenchor",
+    "work_slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel",
+    "name": "Herrenchor"
   },
   {
     "slug": "gioacchino-rossini/tancredi/amenaide",
@@ -4588,6 +4828,16 @@
     "slug": "giuseppe-verdi/nabucco/anna",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Anna"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/anna-rahel",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Anna / Rahel"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/buhne-und-kostum",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Bühne und Kostüm"
   },
   {
     "slug": "giuseppe-verdi/nabucco/der-oberpriester-des-baal",
@@ -6220,6 +6470,146 @@
     "name": "Tom / Matrose / Ensemble"
   },
   {
+    "slug": "leonard-bernstein/west-side-story/a-rab",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "A-Rab"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/action",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Action"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/anita",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Anita"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/anybodys",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Anybodys"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/baby-john",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Baby John"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/bernardo",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Bernardo"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/big-deal",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Big Deal"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/chino",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Chino"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/consuelo",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Consuelo"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/diesel",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Diesel"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/doc",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Doc"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/graziella",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Graziella"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/indio",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Indio"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/luis",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Luis"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/maria",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Maria"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/minnie",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Minnie"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/nibbles",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Nibbles"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/officer-krupke",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Officer Krupke"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/pepe",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Pepe"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/regie-und-choreographie",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Regie und Choreographie"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/riff",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Riff"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/rosalia",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Rosalia"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/schrank",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Schrank"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/sounddesign",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Sounddesign"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/szenische-neueinstudierung",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Szenische Neueinstudierung"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/teresita",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Teresita"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/tony",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Tony"
+  },
+  {
+    "slug": "leonard-bernstein/west-side-story/velma",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "name": "Velma"
+  },
+  {
     "slug": "liederabend-diana-damrau/klarinette",
     "work_slug": "liederabend-diana-damrau",
     "name": "Klarinette"
@@ -6703,6 +7093,16 @@
     "slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo/musik",
     "work_slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo",
     "name": "Musik"
+  },
+  {
+    "slug": "mischa-spoliansky/alles-schwindel/regie-choreografie",
+    "work_slug": "mischa-spoliansky/alles-schwindel",
+    "name": "Regie, Choreografie"
+  },
+  {
+    "slug": "mischa-spoliansky/alles-schwindel/sounddesign",
+    "work_slug": "mischa-spoliansky/alles-schwindel",
+    "name": "Sounddesign"
   },
   {
     "slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit",
@@ -7840,9 +8240,19 @@
     "name": "Annina"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Baron Ochs auf Lerchenau"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Der Baron Ochs auf Lerchenau"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-bei-der-feldmarschallin-ein-wirt",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Der Haushofmeister bei der Feldmarschallin/ Ein Wirt"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-bei-faninal",
@@ -7853,6 +8263,11 @@
     "slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-der-marschallin-ein-wirt",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Der Haushofmeister der Marschallin / Ein Wirt"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Die Feldmarschallin"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin-furstin-werdenberg",
@@ -7868,6 +8283,11 @@
     "slug": "richard-strauss/der-rosenkavalier/ein-hausknecht",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Ein Hausknecht"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-ein-notar",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Ein Polizeikommissar / Ein Notar"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-notar",
@@ -7888,6 +8308,11 @@
     "slug": "richard-strauss/der-rosenkavalier/eine-modistin",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Eine Modistin"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/einstudierung-kinderopernchor",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Einstudierung Kinderopernchor"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/herr-von-faninal",
@@ -9500,6 +9925,36 @@
     "name": "Trompete"
   },
   {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/buhne-kostume",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Bühne, Kostüme"
+  },
+  {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/jacques",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Jacques"
+  },
+  {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/karl",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Karl"
+  },
+  {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-eisenfra",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Ritter Eisenfraß"
+  },
+  {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-schlagetot",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Ritter Schlagetot"
+  },
+  {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/schwertleite",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "name": "Schwertleite"
+  },
+  {
     "slug": "william-shakespeare/hamlet/fortinbras",
     "work_slug": "william-shakespeare/hamlet",
     "name": "Fortinbras"
@@ -10013,6 +10468,46 @@
     "slug": "wolfgang-amadeus-mozart/idomeneo/oberpriester-des-neptun",
     "work_slug": "wolfgang-amadeus-mozart/idomeneo",
     "name": "Oberpriester des Neptun"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/arminda",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Arminda"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/buhne-kostume",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Bühne, Kostüme"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/cavaliere-ramiro",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Cavaliere Ramiro"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/contino-belfiore",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Contino Belfiore"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/don-anchise",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Don Anchise"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/nardo",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Nardo"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/sandrina",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Sandrina"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/serpetta",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "name": "Serpetta"
   },
   {
     "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/antonio",

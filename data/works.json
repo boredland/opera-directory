@@ -215,6 +215,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "alban-berg/lulu",
+    "title": "Lulu",
+    "composer_slug": "alban-berg"
+  },
+  {
     "slug": "alban-berg/wozzeck",
     "title": "Wozzeck",
     "composer_slug": "alban-berg"
@@ -250,9 +255,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "title": "Jesus Christ Superstar",
+    "composer_slug": "andrew-lloyd-webber"
+  },
+  {
     "slug": "anmeldung-erforderlich-unter/treffpunkt-buhneneingang-fantastisches-kinderzimmer-marchenhafte-figuren-blick-hinter-die-kulissen-mit-ratselrallye-alles-nur-kein-hut-blick-hinter-die-kulissen",
     "title": "Treffpunkt: Bühneneingang : Fantastisches Kinderzimmer : Märchenhafte Figuren : Blick hinter die Kulissen mit Rätselrallye : Alles, nur kein Hut! : Blick hinter die Kulissen",
     "composer_slug": "anmeldung-erforderlich-unter"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra",
+    "title": "Cosa Nostra",
+    "composer_slug": "anno-schreier"
   },
   {
     "slug": "antonin-dvorak/rusalka",
@@ -330,6 +345,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "ballett/rausch",
+    "title": "Rausch",
+    "composer_slug": "ballett"
+  },
+  {
     "slug": "balletthausfuhrung",
     "title": "Balletthausführung",
     "composer_slug": ""
@@ -358,6 +378,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream",
     "title": "A Midsummer Night’s Dream",
     "composer_slug": "benjamin-britten"
+  },
+  {
+    "slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
+    "title": "Die Dreigroschenoper",
+    "composer_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei"
   },
   {
     "slug": "bertolt-brecht-text-und-kurt-weill-mus/die-dreigroschenoper",
@@ -583,6 +608,11 @@
     "slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
     "title": "Theaterführung",
     "composer_slug": "ein-blick-hinter-die-kulissen"
+  },
+  {
+    "slug": "ein-fall-fur-figaro",
+    "title": "Ein Fall für Figaro",
+    "composer_slug": ""
   },
   {
     "slug": "ein-gemalde-entsteht/slime-studies",
@@ -1030,6 +1060,11 @@
     "composer_slug": "giacomo-puccini"
   },
   {
+    "slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel",
+    "title": "La Cenerentola (Das Aschenputtel)",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
     "slug": "gioacchino-rossini/tancredi",
     "title": "Tancredi",
     "composer_slug": "gioacchino-rossini"
@@ -1300,6 +1335,11 @@
     "composer_slug": "john-neumeier"
   },
   {
+    "slug": "jules-massenet/werther",
+    "title": "Werther",
+    "composer_slug": "jules-massenet"
+  },
+  {
     "slug": "junge-choreo-shy-graf-innen",
     "title": "Junge Choreo&shy;graf:innen",
     "composer_slug": ""
@@ -1475,6 +1515,11 @@
     "composer_slug": "leonard-bernstein-musik"
   },
   {
+    "slug": "leonard-bernstein/west-side-story",
+    "title": "West Side Story",
+    "composer_slug": "leonard-bernstein"
+  },
+  {
     "slug": "let-s-have-a-kiki",
     "title": "Let´s have a Kiki",
     "composer_slug": ""
@@ -1598,6 +1643,11 @@
     "slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo",
     "title": "Miss Sara Jevo",
     "composer_slug": "milo-cortanovacki-und-sandro-sutalo-ura"
+  },
+  {
+    "slug": "mischa-spoliansky/alles-schwindel",
+    "title": "Alles Schwindel",
+    "composer_slug": "mischa-spoliansky"
   },
   {
     "slug": "miss-sara-jevo-x-queere-buhne",
@@ -1875,6 +1925,11 @@
     "composer_slug": "pietro-mascagni"
   },
   {
+    "slug": "piraten-fluchen-nicht",
+    "title": "Piraten fluchen nicht",
+    "composer_slug": ""
+  },
+  {
     "slug": "pjotr-tschaikowski/pique-dame",
     "title": "Pique Dame",
     "composer_slug": "pjotr-tschaikowski"
@@ -1957,6 +2012,11 @@
   {
     "slug": "richard-strauss/der-rosenkavalier",
     "title": "Der Rosenkavalier",
+    "composer_slug": "richard-strauss"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau",
+    "title": "Die schweigsame Frau",
     "composer_slug": "richard-strauss"
   },
   {
@@ -2070,6 +2130,11 @@
     "composer_slug": "sebastian-schwab-nach-otfried-preu-ler"
   },
   {
+    "slug": "serenata",
+    "title": "Serenata",
+    "composer_slug": ""
+  },
+  {
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "title": "Die Liebe zu den drei Orangen",
     "composer_slug": "sergei-s-prokofjew"
@@ -2078,6 +2143,11 @@
     "slug": "serra-al-deen-urauffuhrung/all-my-life-watching-america",
     "title": "All My Life Watching America",
     "composer_slug": "serra-al-deen-urauffuhrung"
+  },
+  {
+    "slug": "sevilla-von-gioacchino-rossini/il-barbiere-di-siviglia",
+    "title": "Il barbiere di Siviglia",
+    "composer_slug": "sevilla-von-gioacchino-rossini"
   },
   {
     "slug": "sezen-aksu/istanbul",
@@ -2400,6 +2470,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "title": "Ritter Eisenfraß",
+    "composer_slug": "wiebke-hetmanek-und-johann-casimir-eule"
+  },
+  {
     "slug": "william-shakespeare/hamlet",
     "title": "Hamlet",
     "composer_slug": "william-shakespeare"
@@ -2437,6 +2512,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/idomeneo",
     "title": "Idomeneo",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "title": "La Finta Giardiniera (Die Gärtnerin aus Liebe)",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "staatstheater-nuernberg/alles-schwindel",
+    "work_slug": "mischa-spoliansky/alles-schwindel",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/alles-schwindel/30-01-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "max-renne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "falk-bauer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-freese",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "otto-pichler",
+        "role_slug": "mischa-spoliansky/alles-schwindel/regie-choreografie"
+      },
+      {
+        "person_slug": "stefan-witter",
+        "role_slug": "mischa-spoliansky/alles-schwindel/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/cosa-nostra",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/cosa-nostra/28-11-2026/1900",
+    "creative_team": [
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jens-daniel-herzog",
+        "function": "director"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/der-freischuetz",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/der-freischuetz/12-04-2026/1900",
+    "creative_team": [
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jossi-wieler-sergio-morabito",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julia-gruter",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
+      },
+      {
+        "person_slug": "nina-von-mechow",
+        "role_slug": "carl-maria-von-weber/der-freischutz/buhne-kostume"
+      },
+      {
+        "person_slug": "seokjun-kim",
+        "role_slug": "carl-maria-von-weber/der-freischutz/caspar"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ein-eremit"
+      },
+      {
+        "person_slug": "kellan-dunlap",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kilian"
+      },
+      {
+        "person_slug": "wonyong-kang",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kuno"
+      },
+      {
+        "person_slug": "tristan-blanchet",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ottokar"
+      },
+      {
+        "person_slug": "alekos-hofstetter",
+        "role_slug": "carl-maria-von-weber/der-freischutz/prospekte-nach-motiven-von"
+      },
+      {
+        "person_slug": "voxi-barenklau",
+        "role_slug": "carl-maria-von-weber/der-freischutz/video-licht"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/der-rosenkavalier",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/der-rosenkavalier/27-06-2026/1700",
+    "creative_team": [
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "axel-aust",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-storman",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kai-luczak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anna-rudolph-frauke-loffel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "wilhelm-schwinghammer",
+        "role_slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "kellan-dunlap",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-bei-der-feldmarschallin-ein-wirt"
+      },
+      {
+        "person_slug": "emanoel-velozo",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-bei-faninal"
+      },
+      {
+        "person_slug": "emily-newton",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin"
+      },
+      {
+        "person_slug": "rudiger-krehbiel",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-hausknecht"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-ein-notar"
+      },
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
+      },
+      {
+        "person_slug": "maximilian-vogt",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-tierhandler"
+      },
+      {
+        "person_slug": "dominique-lepeudry",
+        "role_slug": "richard-strauss/der-rosenkavalier/eine-modistin"
+      },
+      {
+        "person_slug": "philipp-roosz",
+        "role_slug": "richard-strauss/der-rosenkavalier/einstudierung-kinderopernchor"
+      },
+      {
+        "person_slug": "jochen-kupfer",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "caroline-ottocan",
+        "role_slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "andromahi-raptis",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie"
+      },
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/die-dreigroschenoper",
+    "work_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-dreigroschenoper/08-05-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "ramses-sigl",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sibylle-gadeke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jens-daniel-herzog",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer-hans-peter-frings",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ulrich-speith-gerald-steuler",
+        "role_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/die-entfuehrung-aus-dem-serail",
+    "work_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-entfuehrung-aus-dem-serail/27-02-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/die-schweigsame-frau",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-schweigsame-frau/30-05-2027/1800",
+    "creative_team": [
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/ein-fall-fuer-figaro",
+    "work_slug": "ein-fall-fur-figaro",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/ein-fall-fuer-figaro/07-06-2026/1700",
+    "creative_team": [
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-brey",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "ein-fall-fur-figaro/almaviva"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "ein-fall-fur-figaro/angelika-muller"
+      },
+      {
+        "person_slug": "seokjun-kim",
+        "role_slug": "ein-fall-fur-figaro/basi"
+      },
+      {
+        "person_slug": "uwe-schenker-primus",
+        "role_slug": "ein-fall-fur-figaro/bert-o-muller"
+      },
+      {
+        "person_slug": "clarissa-maria-undritz",
+        "role_slug": "ein-fall-fur-figaro/berta"
+      },
+      {
+        "person_slug": "elisa-limberg",
+        "role_slug": "ein-fall-fur-figaro/buhne-kostume"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "ein-fall-fur-figaro/figaro"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "ein-fall-fur-figaro/francesco"
+      },
+      {
+        "person_slug": "jugendopernchor-des-staatstheater-nurnberg",
+        "role_slug": "ein-fall-fur-figaro/jugendopernchor"
+      },
+      {
+        "person_slug": "philipp-roosz-irina-roosz",
+        "role_slug": "ein-fall-fur-figaro/leitung-jugendopernchor"
+      },
+      {
+        "person_slug": "sara-setar",
+        "role_slug": "ein-fall-fur-figaro/rosi"
+      },
+      {
+        "person_slug": "federico-gartner-gutierrez-dominic-jahner",
+        "role_slug": "ein-fall-fur-figaro/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/haensel-und-gretel",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/haensel-und-gretel/19-12-2026/1800",
+    "creative_team": [
+      {
+        "person_slug": "philipp-roosz",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabriele-heimann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-baesler",
+        "function": "director"
+      },
+      {
+        "person_slug": "kai-we-ler-wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefan-bolliger",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "harald-thor",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/buhne-nach-einem-konzept-von-andreas-wilkens"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/licht-nurnberg"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/il-barbiere-di-siviglia",
+    "work_slug": "sevilla-von-gioacchino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/il-barbiere-di-siviglia/04-07-2027/1800",
+    "creative_team": [
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nikolaus-habjan",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/jesus-christ-superstar",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/jesus-christ-superstar/23-10-2026/1900",
+    "creative_team": [
+      {
+        "person_slug": "francesc-abos",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jurgen-grimm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aleksandra-kica",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-gergen",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "momme-hinrichs",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/buhne-video"
+      },
+      {
+        "person_slug": "stefan-witter-federico-gartner-gutierrez",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/la-cenerentola-das-aschenputtel",
+    "work_slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/la-cenerentola-das-aschenputtel/13-03-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-haupler",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "justina-klimczyk",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-philipp-gloger",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ingo-bracke",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ben-baur",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chor-des-staatstheater-nurnberg",
+        "role_slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel/herrenchor"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/la-finta-giardiniera-die-gaertnerin-aus-liebe",
+    "work_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/la-finta-giardiniera-die-gaertnerin-aus-liebe/21-03-2026/1900",
+    "creative_team": [
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitte-fassbaender",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "caroline-ottocan",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/arminda"
+      },
+      {
+        "person_slug": "dietrich-von-grebmer",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/buhne-kostume"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/cavaliere-ramiro"
+      },
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/contino-belfiore"
+      },
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/don-anchise"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/nardo"
+      },
+      {
+        "person_slug": "chloe-morgan",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/sandrina"
+      },
+      {
+        "person_slug": "clarissa-maria-undritz",
+        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/serpetta"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/lulu",
+    "work_slug": "alban-berg/lulu",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/lulu/17-05-2026/1800",
+    "creative_team": [
+      {
+        "person_slug": "roland-kluttig",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sibylle-gadeke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jens-daniel-herzog",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer-hans-peter-frings",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "martin-platz",
+        "role_slug": "alban-berg/lulu/alwa"
+      },
+      {
+        "person_slug": "tristan-blanchet",
+        "role_slug": "alban-berg/lulu/der-maler-der-freier"
+      },
+      {
+        "person_slug": "gor-harutyunyan",
+        "role_slug": "alban-berg/lulu/der-medizinalrat-professor"
+      },
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "alban-berg/lulu/der-prinz-ein-kammerdiener-der-marquis"
+      },
+      {
+        "person_slug": "wonyong-kang",
+        "role_slug": "alban-berg/lulu/der-theaterdirektor-der-bankier"
+      },
+      {
+        "person_slug": "simon-neal",
+        "role_slug": "alban-berg/lulu/dr-schon-jack"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "alban-berg/lulu/ein-diener"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "alban-berg/lulu/ein-journalist"
+      },
+      {
+        "person_slug": "georg-festl",
+        "role_slug": "alban-berg/lulu/ein-tierbandiger-rodrigo"
+      },
+      {
+        "person_slug": "clarissa-maria-undritz",
+        "role_slug": "alban-berg/lulu/eine-funfzehnjahrige"
+      },
+      {
+        "person_slug": "laura-hilden",
+        "role_slug": "alban-berg/lulu/eine-kunstgewerblerin"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "alban-berg/lulu/eine-theatergarderobiere-ein-gymnasiast-ein-groom"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "alban-berg/lulu/grafin-geschwitz"
+      },
+      {
+        "person_slug": "anna-bychkova",
+        "role_slug": "alban-berg/lulu/ihre-mutter"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "alban-berg/lulu/lulu"
+      },
+      {
+        "person_slug": "taras-konoshchenko",
+        "role_slug": "alban-berg/lulu/schigolch"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/nabucco",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/nabucco/07-03-2026/1930",
+    "creative_team": [
+      {
+        "person_slug": "fabian-posca",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "enrico-calesso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "immo-karaman",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-holzer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "karl-heinz-kornberger",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kellan-dunlap",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "julija-vasiljeva",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "giuseppe-verdi/nabucco/anna-rahel"
+      },
+      {
+        "person_slug": "okarina-peter-timo-dentler",
+        "role_slug": "giuseppe-verdi/nabucco/buhne-und-kostum"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "giuseppe-verdi/nabucco/der-oberpriester-des-baal"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "sangmin-lee",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/piraten-fluchen-nicht",
+    "work_slug": "piraten-fluchen-nicht",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/piraten-fluchen-nicht/07-11-2026/1700",
+    "creative_team": [
+      {
+        "person_slug": "sungjun-kim",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/rausch",
+    "work_slug": "ballett/rausch",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/rausch/19-09-2026/1800",
+    "creative_team": [
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "flora-miranda",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "roman-fliegel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "staatstheater-nurnberg-ballet-of-difference",
+        "role_slug": "ballett/rausch/ballett"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/rigoletto/04-04-2027/1800",
+    "creative_team": [
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vera-nemirova",
+        "function": "director"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/ritter-eisenfrass",
+    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/ritter-eisenfrass/07-02-2026/1700",
+    "creative_team": [
+      {
+        "person_slug": "otto-itgenshorst",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-haupler",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-van-loock",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "linda-hofmann",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/buhne-kostume"
+      },
+      {
+        "person_slug": "kellan-dunlap",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/jacques"
+      },
+      {
+        "person_slug": "laura-hilden",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/karl"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-eisenfra"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-schlagetot"
+      },
+      {
+        "person_slug": "clarissa-maria-undritz",
+        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/schwertleite"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/serenata",
+    "work_slug": "serenata",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/serenata/20-06-2026/1800",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/tannhaeuser-und-der-saengerkrieg-auf-wartburg",
+    "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/tannhaeuser-und-der-saengerkrieg-auf-wartburg/10-10-2026/1800",
+    "creative_team": [
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "annemarie-bulla",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barbora-horakova-joly",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thilo-ullrich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/tosca/19-06-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jens-daniel-herzog",
+        "function": "director"
+      },
+      {
+        "person_slug": "johann-casimir-eule",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/turandot/24-01-2026/1930",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-eilers",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jan-croonenbroeck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "constanza-meza-lopehandia",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kateryna-sokolova",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "karl-wiedemann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nikolaus-webern",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "ragaa-eldin",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "philipp-roosz",
+        "role_slug": "giacomo-puccini/turandot/chorleitung-kinderchor"
+      },
+      {
+        "person_slug": "chloe-morgan",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "giacomo-puccini/turandot/mandarin"
+      },
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "martin-platz",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "taras-konoshchenko",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "emily-newton",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "stephanie-roser",
+        "role_slug": "giacomo-puccini/turandot/turandot-double"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-nuernberg/werther",
+    "work_slug": "jules-massenet/werther",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/werther/16-01-2027/1900",
+    "creative_team": [
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-nuernberg/west-side-story",
+    "work_slug": "leonard-bernstein/west-side-story",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/west-side-story/07-02-2026/1930",
+    "creative_team": [
+      {
+        "person_slug": "roland-boer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "judith-peter",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "knut-hetzer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "johan-vandamme",
+        "role_slug": "leonard-bernstein/west-side-story/a-rab"
+      },
+      {
+        "person_slug": "tobias-stemmer",
+        "role_slug": "leonard-bernstein/west-side-story/action"
+      },
+      {
+        "person_slug": "laura-panzeri",
+        "role_slug": "leonard-bernstein/west-side-story/anita"
+      },
+      {
+        "person_slug": "laura-robinson",
+        "role_slug": "leonard-bernstein/west-side-story/anybodys"
+      },
+      {
+        "person_slug": "duncan-william-saul",
+        "role_slug": "leonard-bernstein/west-side-story/baby-john"
+      },
+      {
+        "person_slug": "alessio-impedovo",
+        "role_slug": "leonard-bernstein/west-side-story/bernardo"
+      },
+      {
+        "person_slug": "tayler-davis",
+        "role_slug": "leonard-bernstein/west-side-story/big-deal"
+      },
+      {
+        "person_slug": "david-mendez",
+        "role_slug": "leonard-bernstein/west-side-story/chino"
+      },
+      {
+        "person_slug": "giulia-fabris",
+        "role_slug": "leonard-bernstein/west-side-story/consuelo"
+      },
+      {
+        "person_slug": "rhys-george",
+        "role_slug": "leonard-bernstein/west-side-story/diesel"
+      },
+      {
+        "person_slug": "pius-maria-cuppers",
+        "role_slug": "leonard-bernstein/west-side-story/doc"
+      },
+      {
+        "person_slug": "maria-joachimstaller",
+        "role_slug": "leonard-bernstein/west-side-story/graziella"
+      },
+      {
+        "person_slug": "pierpaolo-scida",
+        "role_slug": "leonard-bernstein/west-side-story/indio"
+      },
+      {
+        "person_slug": "andrea-viggiano",
+        "role_slug": "leonard-bernstein/west-side-story/luis"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "leonard-bernstein/west-side-story/maria"
+      },
+      {
+        "person_slug": "clara-maria-determann",
+        "role_slug": "leonard-bernstein/west-side-story/minnie"
+      },
+      {
+        "person_slug": "antoine-banks-sullivan",
+        "role_slug": "leonard-bernstein/west-side-story/nibbles"
+      },
+      {
+        "person_slug": "timothy-hamel",
+        "role_slug": "leonard-bernstein/west-side-story/officer-krupke"
+      },
+      {
+        "person_slug": "david-valls",
+        "role_slug": "leonard-bernstein/west-side-story/pepe"
+      },
+      {
+        "person_slug": "melissa-king",
+        "role_slug": "leonard-bernstein/west-side-story/regie-und-choreographie"
+      },
+      {
+        "person_slug": "lucas-baier",
+        "role_slug": "leonard-bernstein/west-side-story/riff"
+      },
+      {
+        "person_slug": "ellie-van-gele",
+        "role_slug": "leonard-bernstein/west-side-story/rosalia"
+      },
+      {
+        "person_slug": "tobias-link",
+        "role_slug": "leonard-bernstein/west-side-story/schrank"
+      },
+      {
+        "person_slug": "ulrich-speith",
+        "role_slug": "leonard-bernstein/west-side-story/sounddesign"
+      },
+      {
+        "person_slug": "andreas-bongard",
+        "role_slug": "leonard-bernstein/west-side-story/szenische-neueinstudierung"
+      },
+      {
+        "person_slug": "lavinia-kastamoniti",
+        "role_slug": "leonard-bernstein/west-side-story/teresita"
+      },
+      {
+        "person_slug": "tobias-joch",
+        "role_slug": "leonard-bernstein/west-side-story/tony"
+      },
+      {
+        "person_slug": "anneke-brunekreeft",
+        "role_slug": "leonard-bernstein/west-side-story/velma"
+      }
+    ]
+  }
+]
