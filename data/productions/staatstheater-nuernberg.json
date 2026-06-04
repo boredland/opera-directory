@@ -228,7 +228,7 @@
   },
   {
     "id": "staatstheater-nuernberg/die-dreigroschenoper",
-    "work_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-dreigroschenoper/08-05-2027/1900",
@@ -265,7 +265,7 @@
     "cast": [
       {
         "person_slug": "ulrich-speith-gerald-steuler",
-        "role_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper/sounddesign"
+        "role_slug": "kurt-weill/die-dreigroschenoper/sounddesign"
       }
     ]
   },
@@ -311,7 +311,7 @@
   },
   {
     "id": "staatstheater-nuernberg/ein-fall-fuer-figaro",
-    "work_slug": "ein-fall-fur-figaro",
+    "work_slug": "gioacchino-rossini/ein-fall-fur-figaro",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/ein-fall-fuer-figaro/07-06-2026/1700",
@@ -336,51 +336,51 @@
     "cast": [
       {
         "person_slug": "sergei-nikolaev",
-        "role_slug": "ein-fall-fur-figaro/almaviva"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/almaviva"
       },
       {
         "person_slug": "almerija-delic",
-        "role_slug": "ein-fall-fur-figaro/angelika-muller"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/angelika-muller"
       },
       {
         "person_slug": "seokjun-kim",
-        "role_slug": "ein-fall-fur-figaro/basi"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/basi"
       },
       {
         "person_slug": "uwe-schenker-primus",
-        "role_slug": "ein-fall-fur-figaro/bert-o-muller"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/bert-o-muller"
       },
       {
         "person_slug": "clarissa-maria-undritz",
-        "role_slug": "ein-fall-fur-figaro/berta"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/berta"
       },
       {
         "person_slug": "elisa-limberg",
-        "role_slug": "ein-fall-fur-figaro/buhne-kostume"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/buhne-kostume"
       },
       {
         "person_slug": "demian-matushevskyi",
-        "role_slug": "ein-fall-fur-figaro/figaro"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/figaro"
       },
       {
         "person_slug": "hektor-palmer-nordfors",
-        "role_slug": "ein-fall-fur-figaro/francesco"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/francesco"
       },
       {
         "person_slug": "jugendopernchor-des-staatstheater-nurnberg",
-        "role_slug": "ein-fall-fur-figaro/jugendopernchor"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/jugendopernchor"
       },
       {
         "person_slug": "philipp-roosz-irina-roosz",
-        "role_slug": "ein-fall-fur-figaro/leitung-jugendopernchor"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/leitung-jugendopernchor"
       },
       {
         "person_slug": "sara-setar",
-        "role_slug": "ein-fall-fur-figaro/rosi"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/rosi"
       },
       {
         "person_slug": "federico-gartner-gutierrez-dominic-jahner",
-        "role_slug": "ein-fall-fur-figaro/sounddesign"
+        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/sounddesign"
       }
     ]
   },
@@ -429,7 +429,7 @@
   },
   {
     "id": "staatstheater-nuernberg/il-barbiere-di-siviglia",
-    "work_slug": "sevilla-von-gioacchino-rossini/il-barbiere-di-siviglia",
+    "work_slug": "gioacchino-rossini/il-barbiere-di-siviglia",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/il-barbiere-di-siviglia/04-07-2027/1800",
@@ -770,7 +770,7 @@
   },
   {
     "id": "staatstheater-nuernberg/piraten-fluchen-nicht",
-    "work_slug": "piraten-fluchen-nicht",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/piraten-fluchen-nicht/07-11-2026/1700",
@@ -833,7 +833,7 @@
   },
   {
     "id": "staatstheater-nuernberg/ritter-eisenfrass",
-    "work_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
+    "work_slug": "wiebke-hetmanek/ritter-eisenfra",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/ritter-eisenfrass/07-02-2026/1700",
@@ -858,27 +858,27 @@
     "cast": [
       {
         "person_slug": "linda-hofmann",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/buhne-kostume"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/buhne-kostume"
       },
       {
         "person_slug": "kellan-dunlap",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/jacques"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/jacques"
       },
       {
         "person_slug": "laura-hilden",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/karl"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/karl"
       },
       {
         "person_slug": "qinchuan-lan",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-eisenfra"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/ritter-eisenfra"
       },
       {
         "person_slug": "hektor-palmer-nordfors",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/ritter-schlagetot"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/ritter-schlagetot"
       },
       {
         "person_slug": "clarissa-maria-undritz",
-        "role_slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra/schwertleite"
+        "role_slug": "wiebke-hetmanek/ritter-eisenfra/schwertleite"
       }
     ]
   },

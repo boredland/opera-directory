@@ -1075,6 +1075,16 @@
     "composer_slug": "giacomo-puccini"
   },
   {
+    "slug": "gioacchino-rossini/ein-fall-fur-figaro",
+    "title": "Ein Fall für Figaro",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
+    "slug": "gioacchino-rossini/il-barbiere-di-siviglia",
+    "title": "Il barbiere di Siviglia",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
     "slug": "gioacchino-rossini/la-cenerentola-das-aschenputtel",
     "title": "La Cenerentola (Das Aschenputtel)",
     "composer_slug": "gioacchino-rossini"
@@ -1325,6 +1335,11 @@
     "composer_slug": "jerry-bock-musik"
   },
   {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "title": "Piraten fluchen nicht",
+    "composer_slug": "johann-casimir-eule"
+  },
+  {
     "slug": "johann-strau/die-fledermaus-fur-kinder",
     "title": "Die Fledermaus für Kinder",
     "composer_slug": "johann-strau"
@@ -1508,6 +1523,11 @@
     "slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge",
     "title": "Der Zar lässt sich fotografieren / Die Kluge",
     "composer_slug": "kurt-weill-carl-orff"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper",
+    "title": "Die Dreigroschenoper",
+    "composer_slug": "kurt-weill"
   },
   {
     "slug": "la-fleur-nach-emmerich-kalman/das-phantom-der-operette",
@@ -2498,6 +2518,11 @@
     "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
     "title": "Ritter Eisenfraß",
     "composer_slug": "wiebke-hetmanek-und-johann-casimir-eule"
+  },
+  {
+    "slug": "wiebke-hetmanek/ritter-eisenfra",
+    "title": "Ritter Eisenfraß",
+    "composer_slug": "wiebke-hetmanek"
   },
   {
     "slug": "william-shakespeare/hamlet",
