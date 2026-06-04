@@ -128,14 +128,15 @@ async function buildProduction(
   const performances = parsePerformances(html, window);
   if (performances.length === 0) return null;
 
-  const { creative_team, cast } = parseEnsemble(meta.Ensemble ?? []);
   return {
     source_production_id: String(meta.IdEventCluster),
     work_title: meta.Title.trim(),
     composer_name: parseComposer(meta.OpusInfo),
     detail_url: detailUrl,
-    creative_team,
-    cast,
+    // The API Ensemble carries clean sung roles but only the conductor of the
+    // creative team — the full team (director, designers, …) is on the detail page.
+    creative_team: parseCreativeTeam(html),
+    cast: parseCast(meta.Ensemble ?? []),
     performances,
   };
 }
@@ -155,14 +156,11 @@ function parseComposer(opusInfo?: string): string | null {
   );
 }
 
-/** Ensemble rows: { Role: "Musikalische Leitung", Names: '<a class="tuser_name">…</a>, …' }.
- *  German function label → creative team, a sung-role label → cast. Rows with an
- *  empty Role are the institutional chorus/orchestra entries — skipped. */
-function parseEnsemble(ensemble: HannoverEnsembleRow[]): {
-  creative_team: RawCredit[];
-  cast: RawCredit[];
-} {
-  const creative_team: RawCredit[] = [];
+/** Sung cast from the API Ensemble rows: { Role: "Figaro", Names: '<a class="tuser_name">…</a>' }.
+ *  Keep only rows whose label is NOT a creative function (those are sung roles); the
+ *  conductor lands in the creative team from the detail page. Empty-Role rows are the
+ *  institutional chorus/orchestra entries — skipped. */
+function parseCast(ensemble: HannoverEnsembleRow[]): RawCredit[] {
   const cast: RawCredit[] = [];
   const seen = new Set<string>();
   for (const row of ensemble) {
@@ -172,15 +170,42 @@ function parseEnsemble(ensemble: HannoverEnsembleRow[]): {
       const name = stripHtml(nm[1] ?? "")
         .replace(/[,;]+$/, "")
         .trim();
-      const key = `${label}|${name}`;
-      if (!name || seen.has(key)) continue;
-      seen.add(key);
       const credit = normalizeGermanCredit(label, name);
-      if (credit.function) creative_team.push(credit);
-      else cast.push(credit);
+      const key = `${label}|${name}`;
+      if (!name || credit.function || seen.has(key)) continue;
+      seen.add(key);
+      cast.push(credit);
     }
   }
-  return { creative_team, cast };
+  return cast;
+}
+
+/** Full creative team from the detail page's `<span class="person-role">Label:</span>
+ *  <span class="person-names"><a class="tuser_name">Name</a></span>` rows. The page
+ *  lists the same people in per-night blocks (with a trailing colon) and one
+ *  production-level block (without) — we keep only rows whose label maps to a known
+ *  creative function (drops sung roles and house-specific revival-supervision labels),
+ *  deduping the repeats. */
+function parseCreativeTeam(html: string): RawCredit[] {
+  const creative_team: RawCredit[] = [];
+  const seen = new Set<string>();
+  const re =
+    /<span class="person-role\s*">([^<]*)<\/span>\s*<span class="person-names">([\s\S]*?)<\/span>/g;
+  for (const m of html.matchAll(re)) {
+    const label = stripHtml(m[1] ?? "");
+    if (!label) continue;
+    for (const nm of (m[2] ?? "").matchAll(/class="tuser_name"[^>]*>([\s\S]*?)<\/a>/g)) {
+      const name = stripHtml(nm[1] ?? "")
+        .replace(/[,;]+$/, "")
+        .trim();
+      const credit = normalizeGermanCredit(label, name);
+      const key = `${credit.function}|${name}`;
+      if (!name || !credit.function || seen.has(key)) continue;
+      seen.add(key);
+      creative_team.push(credit);
+    }
+  }
+  return creative_team;
 }
 
 /** `<article class="further-event" aria-label="Title Weekday, DD. Monat YYYY,
