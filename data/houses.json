@@ -66,6 +66,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). Nuxt front end over a Django-REST API: /de/api/events/ (DRF page-paginated, ?page=N) returns every announced performance today-forward with production id, writer (composer), start, stage_obj, sold-out/cancelled flags, and cast_objs/productionteam_objs (role_obj.name + person_obj.name, German labels). Group events by production. API is future-only → deep history via Wikidata."
   },
   {
+    "slug": "staatsoper-hamburg",
+    "name": "Staatsoper Hamburg",
+    "city": "Hamburg",
+    "country": "DE",
+    "website": "https://www.die-hamburgische-staatsoper.de",
+    "wikidata": "Q705453",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (spielplan-html + wikidata backfill). Server-rendered on the new domain die-hamburgische-staatsoper.de. Dates from the full calendar /de/kalender (one <li class=event-entry> per night, data-href=/de/programm/{genre}/{id}-{slug} + event__date 'Fr 5.6.26' + time + location); grouped by production. Detail page per production: h1 title, 'Komposition: X' composer, production-infos__item list (label + person, creative + sung cast, German labels). Future-only → Wikidata backfill."
+  },
+  {
     "slug": "wiener-staatsoper",
     "name": "Wiener Staatsoper",
     "city": "Wien",
