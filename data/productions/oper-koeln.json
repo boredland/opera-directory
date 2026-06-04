@@ -1,0 +1,2345 @@
+[
+  {
+    "id": "oper-koeln/47-rotkreuz-gala",
+    "work_slug": "47-rotkreuz-gala",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/47-rotkreuz-gala/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/aidas-rivalin",
+    "work_slug": "aidas-rivalin",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/aidas-rivalin/",
+    "creative_team": [
+      {
+        "person_slug": "theresia-renelt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "arne-boge",
+        "function": "director"
+      },
+      {
+        "person_slug": "rene-michaelsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dorrit-bauerecker",
+        "role_slug": "aidas-rivalin/akkordeon"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "aidas-rivalin/idee"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "aidas-rivalin/mezzosopran"
+      },
+      {
+        "person_slug": "kurt-fuhrmann",
+        "role_slug": "aidas-rivalin/schlagzeug"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt",
+    "work_slug": "oper-fur-die-allerkleinsten/alles-was-klingt",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/alles-was-klingt/",
+    "creative_team": [
+      {
+        "person_slug": "stephanie-sonnenschein",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "oper-fur-die-allerkleinsten/alles-was-klingt/darsteller"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "oper-fur-die-allerkleinsten/alles-was-klingt/darstellerin"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "oper-fur-die-allerkleinsten/alles-was-klingt/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/cosi-fan-tutte",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "oper-koeln",
+    "is_revival": true,
+    "detail_url": "https://www.oper.koeln/de/produktion/cosi-fan-tutte/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andres-orozco-estrada",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tatjana-gurbaca",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ingrid-erb",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "claudia-rohrbach",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "vito-priante",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "florence-losseau",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "ana-maria-labin",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "work_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/das-grand-hotel-der-gefuhle/",
+    "creative_team": [
+      {
+        "person_slug": "samuel-hogarth",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katja-fischer",
+        "function": "director"
+      },
+      {
+        "person_slug": "natalija-stankovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "frederike-prick-hoffmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "niklas-schmutzer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ute-lindenbeck",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "frederik-schauhoff",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
+      },
+      {
+        "person_slug": "elena-plaza-cebrian",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
+      },
+      {
+        "person_slug": "elisabeth-freyhoff",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/orchester"
+      },
+      {
+        "person_slug": "shunyao-li",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was",
+    "work_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/der-konig-verschenkt-was/",
+    "creative_team": [
+      {
+        "person_slug": "rainer-muhlbach",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jens-kilian",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "brigitta-gillessen",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicol-hungsberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jens-kilian",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/claire"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/claire"
+      },
+      {
+        "person_slug": "christoph-seidl",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/der-alte-konig-detlef"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/der-alte-konig-detlef"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/fotograf-diener-tod"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/fotograf-diener-tod"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/jeannette"
+      },
+      {
+        "person_slug": "wonjun-kim",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friederich-aus-dem-westen"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-gunther-aus-dem-osten"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-gunther-aus-dem-osten"
+      },
+      {
+        "person_slug": "lena-geiger",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konigin-elisabeth-aus-dem-suden"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/louis"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/louis"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/der-rosenkavalier/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "felix-bender",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yashi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sandra-pocceschi",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sascha-zauner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "fabien-teigne",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "patrick-zielke",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-bei-faninal"
+      },
+      {
+        "person_slug": "pawe-brozek",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-der-marschallin-ein-wirt"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin-furstin-werdenberg"
+      },
+      {
+        "person_slug": "jing-yang",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "kristi-anna-isene",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "martina-sigl",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "nicolas-boulanger",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-hausknecht"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-notar"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
+      },
+      {
+        "person_slug": "armando-elizondo",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-tierhandler"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "richard-strauss/der-rosenkavalier/eine-modistin"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "marie-eve-signeyrole",
+        "role_slug": "richard-strauss/der-rosenkavalier/inszenierung-videokonzept"
+      },
+      {
+        "person_slug": "claudia-rohrbach",
+        "role_slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin"
+      },
+      {
+        "person_slug": "artjom-korotkov",
+        "role_slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner"
+      },
+      {
+        "person_slug": "josua-guss",
+        "role_slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner"
+      },
+      {
+        "person_slug": "sinhu-kim",
+        "role_slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner"
+      },
+      {
+        "person_slug": "won-min-lee",
+        "role_slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner"
+      },
+      {
+        "person_slug": "bianca-andrew",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "richard-strauss/der-rosenkavalier/orchester"
+      },
+      {
+        "person_slug": "elsa-benoit",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie"
+      },
+      {
+        "person_slug": "statisterie-der-oper-koln",
+        "role_slug": "richard-strauss/der-rosenkavalier/statisterie"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/dido-aeneas",
+    "work_slug": "sasha-waltz/dido-aeneas",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/dido-aeneas/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea",
+    "house_slug": "oper-koeln",
+    "is_revival": true,
+    "detail_url": "https://www.oper.koeln/de/produktion/die-kronung-der-poppea/",
+    "creative_team": [
+      {
+        "person_slug": "alessandro-quarta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "astrid-klein",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ted-huffman",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-cuenca-ruiz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bertrand-couderc",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-worl",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/adaption-buhne"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/amore-valetto"
+      },
+      {
+        "person_slug": "john-heuzenroeder",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/arnalta-nutrice-famigliare-i-damigella"
+      },
+      {
+        "person_slug": "pim-veulings",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/bewegungscoach"
+      },
+      {
+        "person_slug": "giulia-montanari",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/fortuna-drusilla"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/liberto-soldato-ii"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/littore-famigliare-iii"
+      },
+      {
+        "person_slug": "steven-van-der-linden",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/lucano-soldato-i-famigliare-ii"
+      },
+      {
+        "person_slug": "jake-arditti",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/nerone"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/orchester"
+      },
+      {
+        "person_slug": "alberto-miguelez-rouco",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/ottone"
+      },
+      {
+        "person_slug": "tamara-banjesevic",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/poppea"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/seneca"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/virtu-ottavia"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/die-nachtigall",
+    "work_slug": "igor-strawinsky/die-nachtigall",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/die-nachtigall/",
+    "creative_team": [
+      {
+        "person_slug": "rainer-muhlbach",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "darinka-mihajlovic-selena-orb",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "beka-savic",
+        "function": "director"
+      },
+      {
+        "person_slug": "tanja-fasching",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-haberkorn",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "celine-demars",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "igor-strawinsky/die-nachtigall/bonze"
+      },
+      {
+        "person_slug": "noah-mond",
+        "role_slug": "igor-strawinsky/die-nachtigall/bonze"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-fischer-erster-japanischer-gesandter"
+      },
+      {
+        "person_slug": "john-heuzenroeder",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-fischer-erster-japanischer-gesandter"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-fischer-erster-japanischer-gesandter"
+      },
+      {
+        "person_slug": "constantin-motei",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-kaiser"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-tod"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "igor-strawinsky/die-nachtigall/der-tod"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "igor-strawinsky/die-nachtigall/die-kochin"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "igor-strawinsky/die-nachtigall/die-kochin"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "igor-strawinsky/die-nachtigall/die-nachtigall"
+      },
+      {
+        "person_slug": "giulia-montanari",
+        "role_slug": "igor-strawinsky/die-nachtigall/die-nachtigall"
+      },
+      {
+        "person_slug": "rhydian-jenkins",
+        "role_slug": "igor-strawinsky/die-nachtigall/hofling"
+      },
+      {
+        "person_slug": "frederik-schauhoff",
+        "role_slug": "igor-strawinsky/die-nachtigall/kammerherr"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "igor-strawinsky/die-nachtigall/kammerherr"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "igor-strawinsky/die-nachtigall/orchester"
+      },
+      {
+        "person_slug": "julian-schulzki",
+        "role_slug": "igor-strawinsky/die-nachtigall/zweiter-japanischer-gesandter"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/die-verkaufte-braut/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tomas-netopil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "urs-schonebaum",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "caroline-ginet",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomaz-le-gouez",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/co-kostumbildner"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/esmeralda"
+      },
+      {
+        "person_slug": "maximilian-schmitt",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/hans"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/hata-agnes"
+      },
+      {
+        "person_slug": "laurent-pelly",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/inszenierung-und-kostume"
+      },
+      {
+        "person_slug": "tijl-faveyts",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/kezal"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/kruschina"
+      },
+      {
+        "person_slug": "claudia-rohrbach",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/ludmila"
+      },
+      {
+        "person_slug": "selene-zanetti",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/marie"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/micha"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/orchester"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/wenzel"
+      },
+      {
+        "person_slug": "ralf-rachbauer",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/zirkusdirektor"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/die-zauberflote",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "oper-koeln",
+    "is_revival": true,
+    "detail_url": "https://www.oper.koeln/de/produktion/die-zauberflote/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "philipp-von-steinaecker",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-hampe",
+        "function": "director"
+      },
+      {
+        "person_slug": "tanja-fasching",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "german-droghetti",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "thomas-reimer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "claudia-rohrbach",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter"
+      },
+      {
+        "person_slug": "regina-richter",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter"
+      },
+      {
+        "person_slug": "ralf-rachbauer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-priester"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "darko-petrovic",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/adaption-buhne-kostume"
+      },
+      {
+        "person_slug": "tetiana-zhuravel",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/die-konigin-der-nacht"
+      },
+      {
+        "person_slug": "solist-des-knabenchores-der-chorakademie-dortmund",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "chelsea-marilyn-zurfluh",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "matthias-hoffmann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher-1-priester"
+      },
+      {
+        "person_slug": "kieran-carrel",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/drei-meisterwerke",
+    "work_slug": "choreografien-von-jiri-kylian-hans-van-manen-marco-goecke/drei-meisterwerke",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/drei-meisterwerke/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "work_slug": "einfuhrung-fur-familien-whoosh",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/einfuhrung-fur-familien-whoosh/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/eroffnungsfest-der-buhnen",
+    "work_slug": "eroffnungsfest-der-buhnen",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/eroffnungsfest-der-buhnen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/familienfuhrung",
+    "work_slug": "familienfuhrung",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/familienfuhrung/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/fest-der-operette",
+    "work_slug": "fest-der-operette",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/fest-der-operette/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "fest-der-operette/orchester"
+      },
+      {
+        "person_slug": "annette-dasch",
+        "role_slug": "fest-der-operette/solist-innen"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "fest-der-operette/solist-innen"
+      },
+      {
+        "person_slug": "richard-glockner",
+        "role_slug": "fest-der-operette/solist-innen"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "fest-der-operette/solist-innen"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/festakt-der-buhnen",
+    "work_slug": "festakt-der-buhnen",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/festakt-der-buhnen/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andres-orozco-estrada",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "diana-damrau",
+        "role_slug": "festakt-der-buhnen/als-gast"
+      },
+      {
+        "person_slug": "bettina-bottinger",
+        "role_slug": "festakt-der-buhnen/moderation"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "festakt-der-buhnen/orchester"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "claudia-rohrbach",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "emily-hindrichs",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "giulia-montanari",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "insik-choi",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "regina-richter",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      },
+      {
+        "person_slug": "young-woo-kim",
+        "role_slug": "festakt-der-buhnen/solist-innen"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "work_slug": "freikugeln-der-freischutz-in-funf-dimensionen",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/freikugeln-der-freischutz-in-funf-dimensionen/",
+    "creative_team": [
+      {
+        "person_slug": "bradley-wood",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitta-gillessen",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicol-hungsberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ute-lindenbeck",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fang-cai",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/agathe-sangerin"
+      },
+      {
+        "person_slug": "ela-beysun",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/agathe-schauspieler-in"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/annchen"
+      },
+      {
+        "person_slug": "eyk-kauly",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/deaf-visual-sign-regie"
+      },
+      {
+        "person_slug": "manuel-moser",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/dramaturgie-comedia"
+      },
+      {
+        "person_slug": "maximilian-von-ulardt",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/erbforster-kuno-ottokar"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/kaspar"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/max-sanger"
+      },
+      {
+        "person_slug": "rafael-evitan-grombelka",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/max-schauspieler"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/orchester"
+      },
+      {
+        "person_slug": "antonia-kleineidam",
+        "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/tastendienst"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/hoffmanns-erzahlungen/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andres-orozco-estrada",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "director"
+      },
+      {
+        "person_slug": "frederike-prick-hoffmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-a-schmitt-bregenzer-festspiele",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "phoenix",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christof-hetzer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "yves-saelens",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-pitichinaccio-frantz"
+      },
+      {
+        "person_slug": "valentina-mastrangelo",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/antonia-giulietta"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/crespel"
+      },
+      {
+        "person_slug": "valerie-eickhoff",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/die-muse-niklausse-stimme-der-mutter"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann"
+      },
+      {
+        "person_slug": "young-woo-kim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann"
+      },
+      {
+        "person_slug": "insik-choi",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-luther-coppelius-miracle-dappertutto"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael"
+      },
+      {
+        "person_slug": "alina-wunderlin",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-giulietta"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/spalanzani"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/kain-und-abel",
+    "work_slug": "alessandro-scarlatti/kain-und-abel",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/kain-und-abel/",
+    "creative_team": [
+      {
+        "person_slug": "ruben-dubrovsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-reichert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dietrich-w-hilsdorf",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dieter-richter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alina-konig-rannenberg",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/abel"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/adam"
+      },
+      {
+        "person_slug": "tamara-banjesevic",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/eva"
+      },
+      {
+        "person_slug": "xavier-sabata",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/gott"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/kain"
+      },
+      {
+        "person_slug": "soren-leupold",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/laute-theorbe-i"
+      },
+      {
+        "person_slug": "david-bergmuller",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/laute-theorbe-ii"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/orchester"
+      },
+      {
+        "person_slug": "baurzhan-anderzhanov",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/teufel"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/kasalla-nit-esu-laut",
+    "work_slug": "kasalla-nit-esu-laut",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/kasalla-nit-esu-laut/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana",
+    "work_slug": "hans-werner-henze/la-piccola-cubana",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/la-piccola-cubana/",
+    "creative_team": [
+      {
+        "person_slug": "jordi-frances",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vera-pierantoni-giua",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "cecilia-ligorio",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicol-hungsberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gregorio-zurla",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "franziska-junge",
+        "role_slug": "hans-werner-henze/la-piccola-cubana/erzahlerin"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "hans-werner-henze/la-piccola-cubana/fernrohrvermieter-stelzenlaufer-don-alfonso-senator-theaterdirektor"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "hans-werner-henze/la-piccola-cubana/lucile-rosita"
+      },
+      {
+        "person_slug": "emily-hindrichs",
+        "role_slug": "hans-werner-henze/la-piccola-cubana/rachel"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "hans-werner-henze/la-piccola-cubana/rezensent-eusebio-yarini-paco-alberto-federico"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/macbeth",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/macbeth/",
+    "creative_team": [
+      {
+        "person_slug": "chiara-vecchi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuliano-carella",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carla-teti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabio-barettin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christoph-seidl",
+        "role_slug": "giuseppe-verdi/macbeth/arzt"
+      },
+      {
+        "person_slug": "gianluca-buratto",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "chen-tan",
+        "role_slug": "giuseppe-verdi/macbeth/diener"
+      },
+      {
+        "person_slug": "chen-tan",
+        "role_slug": "giuseppe-verdi/macbeth/herold"
+      },
+      {
+        "person_slug": "regina-richter",
+        "role_slug": "giuseppe-verdi/macbeth/kammerfrau-der-lady"
+      },
+      {
+        "person_slug": "daniela-schillaci",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "daniel-luis-de-vicente",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "young-woo-kim",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      },
+      {
+        "person_slug": "guido-sterzl",
+        "role_slug": "giuseppe-verdi/macbeth/morder"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "giuseppe-verdi/macbeth/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/madama-butterfly/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giulio-cilona",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-reichert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sabine-hartmannshenn",
+        "function": "director"
+      },
+      {
+        "person_slug": "frederike-prick-hoffmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "svenja-gottsmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicol-hungsberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frank-philipp-schlo-mann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sua-jo",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "eva-budde",
+        "role_slug": "giacomo-puccini/madama-butterfly/cousine"
+      },
+      {
+        "person_slug": "michael-terada",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-kaiserliche-kommissar"
+      },
+      {
+        "person_slug": "michail-kapadoukakis",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-standesbeamte"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "giacomo-puccini/madama-butterfly/furst-yamadori"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "giacomo-puccini/madama-butterfly/mutter"
+      },
+      {
+        "person_slug": "christoph-seidl",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonze"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "carlos-cardoso",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "grisha-martirosyan",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "vittoria-vimercati",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "areum-lee",
+        "role_slug": "giacomo-puccini/madama-butterfly/tante"
+      },
+      {
+        "person_slug": "sinhu-kim",
+        "role_slug": "giacomo-puccini/madama-butterfly/yakuside"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/marla-die-maifliege",
+    "work_slug": "ralf-gscheidle/marla-die-maifliege",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/marla-die-maifliege/",
+    "creative_team": [
+      {
+        "person_slug": "brigitta-gillessen",
+        "function": "director"
+      },
+      {
+        "person_slug": "tanja-fasching",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ute-lindenbeck",
+        "role_slug": "ralf-gscheidle/marla-die-maifliege/buhne-kostum"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/my-fair-lady",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/my-fair-lady/",
+    "creative_team": [
+      {
+        "person_slug": "giorgio-madia",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bang-in-jung",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "enrico-delamboye",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "renate-schmitzer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dietrich-w-hilsdorf",
+        "function": "director"
+      },
+      {
+        "person_slug": "birgit-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dieter-richter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christoph-seidl",
+        "role_slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle"
+      },
+      {
+        "person_slug": "annika-wiessner",
+        "role_slug": "frederick-loewe/my-fair-lady/choreografische-einstudierung"
+      },
+      {
+        "person_slug": "christoph-westerkamp",
+        "role_slug": "frederick-loewe/my-fair-lady/dritter-obsthandler"
+      },
+      {
+        "person_slug": "zenon-iwan",
+        "role_slug": "frederick-loewe/my-fair-lady/ein-anderer-zuschauer"
+      },
+      {
+        "person_slug": "valmar-saar",
+        "role_slug": "frederick-loewe/my-fair-lady/ein-mann-aus-hoxton"
+      },
+      {
+        "person_slug": "stefan-kohnke",
+        "role_slug": "frederick-loewe/my-fair-lady/ein-mann-aus-selsey"
+      },
+      {
+        "person_slug": "guido-sterzl",
+        "role_slug": "frederick-loewe/my-fair-lady/ein-zuschauer"
+      },
+      {
+        "person_slug": "emily-hindrichs",
+        "role_slug": "frederick-loewe/my-fair-lady/eliza-doolittle"
+      },
+      {
+        "person_slug": "won-min-lee",
+        "role_slug": "frederick-loewe/my-fair-lady/erster-obsthandler"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "frederick-loewe/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "frederick-loewe/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "frederick-loewe/my-fair-lady/harry-lady-boxington"
+      },
+      {
+        "person_slug": "john-heuzenroeder",
+        "role_slug": "frederick-loewe/my-fair-lady/henry-higgins"
+      },
+      {
+        "person_slug": "rhydian-jenkins",
+        "role_slug": "frederick-loewe/my-fair-lady/jamie-lord-boxington"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "frederick-loewe/my-fair-lady/jamie-lord-boxington"
+      },
+      {
+        "person_slug": "eva-budde",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-eynsford-hill"
+      },
+      {
+        "person_slug": "katherine-marriott",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-higgins"
+      },
+      {
+        "person_slug": "elena-maier",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-hopkins"
+      },
+      {
+        "person_slug": "barbara-ochs",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-pearce"
+      },
+      {
+        "person_slug": "christopher-lemmings",
+        "role_slug": "frederick-loewe/my-fair-lady/oberst-pickering"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "frederick-loewe/my-fair-lady/orchester"
+      },
+      {
+        "person_slug": "heiko-kopke",
+        "role_slug": "frederick-loewe/my-fair-lady/vierter-obsthandler"
+      },
+      {
+        "person_slug": "carsten-mainz",
+        "role_slug": "frederick-loewe/my-fair-lady/zweiter-obsthandler"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor",
+    "work_slug": "neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/notte-morricone",
+    "work_slug": "choreographie-regie-marcos-morau/notte-morricone",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/notte-morricone/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "marc-salicru",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/buhnenbild-lichtdesign"
+      },
+      {
+        "person_slug": "marcos-morau",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/choreografie-regie"
+      },
+      {
+        "person_slug": "silvia-delagneau",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/kostumbild"
+      },
+      {
+        "person_slug": "ennio-morricone",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/musik"
+      },
+      {
+        "person_slug": "alex-roser-vatiche",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/sounddesign-zusatzl-originalmusik"
+      },
+      {
+        "person_slug": "ben-meerwein",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/sounddesign-zusatzl-originalmusik"
+      },
+      {
+        "person_slug": "carmina-s-belda",
+        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/texte"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festval",
+    "work_slug": "power-up-demokratie-festval",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/power-up-demokratie-festval/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "work_slug": "publikumsgesprach-plausch-am-buhnenrand",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/publikumsgesprach-plausch-am-buhnenrand/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/reversible-mambo-3xxi",
+    "work_slug": "choreografien-von-annabelle-lopez-ochoa-und-george-cespedes/reversible-mambo-3xxi",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/reversible-mambo-3xxi/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "oper-koeln",
+    "is_revival": true,
+    "detail_url": "https://www.oper.koeln/de/produktion/rigoletto/",
+    "creative_team": [
+      {
+        "person_slug": "nadine-schori",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "matteo-beltrami",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-thalbach",
+        "function": "director"
+      },
+      {
+        "person_slug": "birgit-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ezio-toffolutti",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "yves-saelens",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "maike-raschke",
+        "role_slug": "giuseppe-verdi/rigoletto/die-grafin-ceprano"
+      },
+      {
+        "person_slug": "nam-uk-baik",
+        "role_slug": "giuseppe-verdi/rigoletto/ein-gerichtsdiener"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "giuseppe-verdi/rigoletto/ein-page"
+      },
+      {
+        "person_slug": "enkeleda-kamani",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "regina-richter",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "michael-terada",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-ceprano"
+      },
+      {
+        "person_slug": "christoph-seidl",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-von-monterone"
+      },
+      {
+        "person_slug": "ioan-hotea",
+        "role_slug": "giuseppe-verdi/rigoletto/herzog-von-mantua"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "giuseppe-verdi/rigoletto/orchester"
+      },
+      {
+        "person_slug": "insik-choi",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "william-thomas",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/rusalka",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "oper-koeln",
+    "is_revival": true,
+    "detail_url": "https://www.oper.koeln/de/produktion/rusalka/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "modestas-pitrenas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nadja-loschky",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-kehren",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yvonne-gebauer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicol-hungsberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ulrich-leitner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emily-hindrichs",
+        "role_slug": "antonin-dvorak/rusalka/1-elfe"
+      },
+      {
+        "person_slug": "regina-richter",
+        "role_slug": "antonin-dvorak/rusalka/2-elfe"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "antonin-dvorak/rusalka/3-elfe"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
+        "role_slug": "antonin-dvorak/rusalka/der-heger"
+      },
+      {
+        "person_slug": "johanna-thomsen",
+        "role_slug": "antonin-dvorak/rusalka/der-kuchenjunge"
+      },
+      {
+        "person_slug": "arthur-espiritu",
+        "role_slug": "antonin-dvorak/rusalka/der-prinz"
+      },
+      {
+        "person_slug": "tijl-faveyts",
+        "role_slug": "antonin-dvorak/rusalka/der-wassermann"
+      },
+      {
+        "person_slug": "julia-sporsen",
+        "role_slug": "antonin-dvorak/rusalka/die-fremde-furstin"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "antonin-dvorak/rusalka/ein-jager"
+      },
+      {
+        "person_slug": "ks-dalia-schaechter",
+        "role_slug": "antonin-dvorak/rusalka/jezibaba"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "antonin-dvorak/rusalka/orchester"
+      },
+      {
+        "person_slug": "jessica-muirhead",
+        "role_slug": "antonin-dvorak/rusalka/rusalka"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/siegfried",
+    "work_slug": "richard-wagner/siegfried",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/siegfried/",
+    "creative_team": [
+      {
+        "person_slug": "felix-bender",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mona-ulrich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "paul-georg-dittrich",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephan-steinmetz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lena-schmid",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "pia-dederichs",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "robi-voigt",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "insik-choi",
+        "role_slug": "richard-wagner/siegfried/alberich"
+      },
+      {
+        "person_slug": "trine-m-ller",
+        "role_slug": "richard-wagner/siegfried/brunnhilde"
+      },
+      {
+        "person_slug": "jordan-shanahan",
+        "role_slug": "richard-wagner/siegfried/der-wanderer"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "richard-wagner/siegfried/erda"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "richard-wagner/siegfried/fafner"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "richard-wagner/siegfried/mime"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "richard-wagner/siegfried/orchester"
+      },
+      {
+        "person_slug": "daniel-johansson",
+        "role_slug": "richard-wagner/siegfried/siegfried"
+      },
+      {
+        "person_slug": "lukas-rehm",
+        "role_slug": "richard-wagner/siegfried/video-gaming"
+      },
+      {
+        "person_slug": "giulia-montanari",
+        "role_slug": "richard-wagner/siegfried/waldvogel"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/sing-halleluja",
+    "work_slug": "sing-halleluja",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/sing-halleluja/",
+    "creative_team": [
+      {
+        "person_slug": "michael-kokott",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "work_slug": "soiree-mit-offentlicher-probe",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/soiree-mit-offentlicher-probe/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/tancredi",
+    "work_slug": "gioacchino-rossini/tancredi",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/tancredi/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "george-petrou",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "justina-klimczyk",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-philipp-gloger",
+        "function": "director"
+      },
+      {
+        "person_slug": "claus-spahn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "florian-amort",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-gebhardt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ben-baur",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giuliana-gianfaldoni",
+        "role_slug": "gioacchino-rossini/tancredi/amenaide"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "gioacchino-rossini/tancredi/argirio"
+      },
+      {
+        "person_slug": "lars-marcel-braun",
+        "role_slug": "gioacchino-rossini/tancredi/co-regie"
+      },
+      {
+        "person_slug": "johanna-thomsen",
+        "role_slug": "gioacchino-rossini/tancredi/isaura"
+      },
+      {
+        "person_slug": "ran-arthur-braun",
+        "role_slug": "gioacchino-rossini/tancredi/kampfchoreografie"
+      },
+      {
+        "person_slug": "gabriele-sagona",
+        "role_slug": "gioacchino-rossini/tancredi/orbazzano"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "gioacchino-rossini/tancredi/orchester"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "gioacchino-rossini/tancredi/roggiero"
+      },
+      {
+        "person_slug": "adriana-bastidas-gamboa",
+        "role_slug": "gioacchino-rossini/tancredi/tancredi"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "knaben-und-madchen-der-kolner-dommusik",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "chor-der-oper-koln",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "rustam-samedov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "arne-willimczik",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-kudrna",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lydia-steier",
+        "function": "director"
+      },
+      {
+        "person_slug": "georg-kehren",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-fedin",
+        "role_slug": "giacomo-puccini/turandot/altoum-persicher-prinz"
+      },
+      {
+        "person_slug": "andrea-shin",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "wolfgang-stefan-schwaiger",
+        "role_slug": "giacomo-puccini/turandot/ein-mandarin"
+      },
+      {
+        "person_slug": "gabriela-legun",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "gurzenich-orchester-koln",
+        "role_slug": "giacomo-puccini/turandot/orchester"
+      },
+      {
+        "person_slug": "john-heuzenroeder",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "insik-choi",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "statisterie-der-oper-koln",
+        "role_slug": "giacomo-puccini/turandot/statisterie"
+      },
+      {
+        "person_slug": "lucas-singer",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "daniela-schillaci",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater",
+    "work_slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/wat-e-thiater/",
+    "creative_team": [
+      {
+        "person_slug": "jens-hermes-cedileau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "katrin-bachmann",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "judith-peter",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tom-grasshof",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lajos-wenzel",
+        "role_slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater/buch-regie"
+      },
+      {
+        "person_slug": "thomas-guthoff",
+        "role_slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater/musik-arrangement"
+      },
+      {
+        "person_slug": "bergische-symphoniker-und-westwood-slickers",
+        "role_slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-koeln/weihnachtskonzert-opernfreunde",
+    "work_slug": "weihnachtskonzert-opernfreunde",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/weihnachtskonzert-opernfreunde/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "rainer-muhlbach",
+        "role_slug": "weihnachtskonzert-opernfreunde/musikal-leitung"
+      },
+      {
+        "person_slug": "anna-kelly",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "ferhat-baday",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "geonmuk-lim",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "lana-sophie-westendorf",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      },
+      {
+        "person_slug": "wesley-harrison",
+        "role_slug": "weihnachtskonzert-opernfreunde/opernstudio"
+      }
+    ]
+  }
+]

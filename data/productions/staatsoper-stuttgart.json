@@ -1,0 +1,630 @@
+[
+  {
+    "id": "staatsoper-stuttgart/6-liedkonzert-2025-26",
+    "work_slug": "6-liedkonzert-a-la-francaise-lieder-von-franzosischen-komponisten",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/6-liedkonzert-2025-26/8760/",
+    "creative_team": [
+      {
+        "person_slug": "vlad-iftinca",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "a-la-francaise",
+        "role_slug": "6-liedkonzert-a-la-francaise-lieder-von-franzosischen-komponisten/6-liedkonzert"
+      },
+      {
+        "person_slug": "olivia-johnson",
+        "role_slug": "6-liedkonzert-a-la-francaise-lieder-von-franzosischen-komponisten/mit"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/6-sinfoniekonzert-2025-26",
+    "work_slug": "6-sinfoniekonzert-e-werke-von-gustav-mahler-joseph-haydn-und-alexander-zemlinsky",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/6-sinfoniekonzert-2025-26/8761/",
+    "creative_team": [
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "cornelius-meister",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/7-sinfoniekonzert-2025-26",
+    "work_slug": "7-sinfoniekonzert-werke-von-wolfgang-amadeus-mozart-und-anton-bruckner",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/7-sinfoniekonzert-2025-26/8765/",
+    "creative_team": [
+      {
+        "person_slug": "lothar-zagrosek",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "diana-haller",
+        "role_slug": "7-sinfoniekonzert-werke-von-wolfgang-amadeus-mozart-und-anton-bruckner/sopran"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/argo",
+    "work_slug": "argo",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/argo/10104/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/casanova",
+    "work_slug": "johann-strauss-und-ralph-benatzky/casanova",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/casanova/8533/",
+    "creative_team": [
+      {
+        "person_slug": "cassie-augusta-j-rgensen",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bernhard-moncado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "luka-hauser",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yassu-yabara",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-storman",
+        "function": "director"
+      },
+      {
+        "person_slug": "ingo-gerlach",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "valentin-daumler",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "demian-wohler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maria-theresa-ullrich",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/barberina"
+      },
+      {
+        "person_slug": "matthias-stormer",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/casanova"
+      },
+      {
+        "person_slug": "kai-kluge",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/comedian-harmonists"
+      },
+      {
+        "person_slug": "elmar-gilbertsson",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/costa"
+      },
+      {
+        "person_slug": "florian-hartmann",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/dohna"
+      },
+      {
+        "person_slug": "alma-ruoqi-sun",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/helene"
+      },
+      {
+        "person_slug": "sam-harris",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/hohenfels"
+      },
+      {
+        "person_slug": "luiza-willert",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/laura"
+      },
+      {
+        "person_slug": "kai-kluge",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/menuzzi"
+      },
+      {
+        "person_slug": "stine-marie-fischer",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/trude"
+      },
+      {
+        "person_slug": "elliott-carlton-hines",
+        "role_slug": "johann-strauss-und-ralph-benatzky/casanova/waldstein"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/die-kleine-hexe-2025-26",
+    "work_slug": "die-kleine-hexe-musik-von-sebastian-schwab",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/die-kleine-hexe-2025-26/8724/",
+    "creative_team": [
+      {
+        "person_slug": "verena-silcher",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "yuri-aoki",
+        "role_slug": "die-kleine-hexe-musik-von-sebastian-schwab/cembalo-musikalische-leitung"
+      },
+      {
+        "person_slug": "josefin-feiler",
+        "role_slug": "die-kleine-hexe-musik-von-sebastian-schwab/kleine-hexe"
+      },
+      {
+        "person_slug": "zoe-broneer",
+        "role_slug": "die-kleine-hexe-musik-von-sebastian-schwab/puppenspielerin"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/die-zauberfloete/8689/",
+    "creative_team": [
+      {
+        "person_slug": "bernhard-moncado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "luka-hauser",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-lenz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "diego-leetz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "solisten-des-tolzer-knabenchores",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knaben"
+      },
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/animation"
+      },
+      {
+        "person_slug": "sarastro",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/besetzung"
+      },
+      {
+        "person_slug": "stine-marie-fischer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "carmen-larios-caparros",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "sam-harris",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "alma-ruoqi-sun",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "heinz-gohrig",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "natasha-te-rupe-wilson",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "laura-orueta",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "bjorn-burger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "adam-palka",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "joseph-tancredi",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "maria-theresa-ullrich",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "andrew-bogard",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fokus-sanierung",
+    "work_slug": "einblicke-fokus-sanierung",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fokus-sanierung/8778/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "work_slug": "einblicke-fuhrung-durch-theatergebaude-und-werkstatten",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fuehrung/9509/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/home-vibes",
+    "work_slug": "home-vibes-gestalten-im-join-haus",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/home-vibes/10023/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/il-barbiere-di-siviglia",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/il-barbiere-di-siviglia/8505/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vlad-iftinca",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "beat-fah",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-ross",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-pfuller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giulio-mastrototaro",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/bartolo"
+      },
+      {
+        "person_slug": "jaewoung-lee",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/basilio"
+      },
+      {
+        "person_slug": "laura-orueta",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/berta"
+      },
+      {
+        "person_slug": "charles-sy",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/der-graf-almaviva"
+      },
+      {
+        "person_slug": "bjorn-burger",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
+      },
+      {
+        "person_slug": "jacobo-ochoa",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "claudia-muschio",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/klarkommen",
+    "work_slug": "klarkommen",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/klarkommen/8828/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/libretti-lesen",
+    "work_slug": "libretti-lesen",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/libretti-lesen/9003/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/lunchkonzert",
+    "work_slug": "lunchkonzert-musikalische-mittagspausen",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/lunchkonzert/8597/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/night-songs-relaxed-listening-session",
+    "work_slug": "night-songs-relaxed-listening-session",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/night-songs-relaxed-listening-session/9788/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/open-mic-im-foyer",
+    "work_slug": "open-mic-im-foyer",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/open-mic-im-foyer/9392/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/oper-meets-hiphop-2025-26",
+    "work_slug": "oper-meets-hiphop",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/oper-meets-hiphop-2025-26/8643/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/rikas",
+    "work_slug": "rikas",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/rikas/8644/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/sommerkonzert-26",
+    "work_slug": "sommerliche-konzerte",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/sommerkonzert-26/9149/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/songs-airs-vol-ii-x-join",
+    "work_slug": "songs-airs-vol-ii-x-join",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/songs-airs-vol-ii-x-join/9937/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/station-paradiso",
+    "work_slug": "sara-glojnaric/station-paradiso",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/station-paradiso/8731/",
+    "creative_team": [
+      {
+        "person_slug": "janine-grellscheid",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "peter-rundel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "adrian-stapf",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anika-rutkofsky",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-schmitt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-von-schwanenflugel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christina-schmitt",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "manuela-hartel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josefin-feiler",
+        "role_slug": "sara-glojnaric/station-paradiso/braut"
+      },
+      {
+        "person_slug": "goran-juric",
+        "role_slug": "sara-glojnaric/station-paradiso/busfahrer"
+      },
+      {
+        "person_slug": "loretta-petti",
+        "role_slug": "sara-glojnaric/station-paradiso/kochende-tante-mari-j-a"
+      },
+      {
+        "person_slug": "joseph-tancredi",
+        "role_slug": "sara-glojnaric/station-paradiso/neapolitaner"
+      },
+      {
+        "person_slug": "carole-wilson",
+        "role_slug": "sara-glojnaric/station-paradiso/singende-tante-mari-j-a"
+      },
+      {
+        "person_slug": "paul-hauptmeier",
+        "role_slug": "sara-glojnaric/station-paradiso/sound-design"
+      },
+      {
+        "person_slug": "stine-marie-fischer",
+        "role_slug": "sara-glojnaric/station-paradiso/suditalienische-mutter"
+      },
+      {
+        "person_slug": "martina-mikelic",
+        "role_slug": "sara-glojnaric/station-paradiso/suditalienische-tochter"
+      },
+      {
+        "person_slug": "fanie-antonelou",
+        "role_slug": "sara-glojnaric/station-paradiso/turkische-tochter"
+      },
+      {
+        "person_slug": "matthias-klink",
+        "role_slug": "sara-glojnaric/station-paradiso/turkischer-vater"
+      },
+      {
+        "person_slug": "diana-haller",
+        "role_slug": "sara-glojnaric/station-paradiso/yugo-tochter"
+      },
+      {
+        "person_slug": "andrew-bogard",
+        "role_slug": "sara-glojnaric/station-paradiso/yugo-vater"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/the-littmann-sessions-2025-26",
+    "work_slug": "the-littmann-sessions-eine-pop-gala",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/the-littmann-sessions-2025-26/8591/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/turandot/8675/",
+    "creative_team": [
+      {
+        "person_slug": "ivan-estegneev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "valerio-galli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pascale-martin",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-sophie-mahler",
+        "function": "director"
+      },
+      {
+        "person_slug": "ingo-gerlach",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "valentin-daumler",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "katrin-connan",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "georg-lendorff",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "heinz-gohrig",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "diego-godoy",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "bernhard-moncado",
+        "role_slug": "giacomo-puccini/turandot/chor-kinderchor"
+      },
+      {
+        "person_slug": "esther-dierkes",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "jaewoung-lee",
+        "role_slug": "giacomo-puccini/turandot/mandarin"
+      },
+      {
+        "person_slug": "alberto-robert",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "shigeo-ishino",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "joseph-tancredi",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "adam-palka",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "ewa-vesin",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  }
+]

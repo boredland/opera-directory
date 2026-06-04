@@ -1,0 +1,726 @@
+[
+  {
+    "id": "semperoper-dresden/61859",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/zauberfloete/61859.html",
+    "creative_team": [
+      {
+        "person_slug": "ricarda-regina-ludigkeit",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-hoffmann",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "felix-krieger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giulio-cilona",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marcus-merkel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-zlabinger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dagmar-morell",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "johann-casimir-eule",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "walter-vogelweider",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tolzer-knabenchor",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben"
+      },
+      {
+        "person_slug": "christa-mayer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "ekaterina-chayka-rubinstein",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "michal-doron",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "nicole-chirka",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "elena-gorshunova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "natasha-gesto",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "roxana-incontrera",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "ute-selbig",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "gerald-hupach",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "jurgen-muller",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "simeon-esper",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester"
+      },
+      {
+        "person_slug": "david-roy",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester"
+      },
+      {
+        "person_slug": "metehan-koklu",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester"
+      },
+      {
+        "person_slug": "alina-wunderlin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "alma-ruoqi-sun",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "annija-adamsone",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "jasmin-delfs",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "maria-perlt-gartner",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "aaron-pegram",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "jongwoo-hong",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "simeon-esper",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "timothy-oliver",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "andrea-carroll",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "katharina-konradi",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "liv-redpath",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "louise-mcclelland-jacobsen",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "magdalena-lucjan",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "nikola-hillebrand",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "victoria-randem",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "christiane-hossfeld",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "dalia-medovnikov",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "magdalena-lucjan",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "sofia-savenko",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "bernhard-hansky",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "danylo-matviienko",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "joshua-hopkins",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "michael-nagl",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "sean-michael-plumb",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "anthony-robin-schneider",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "georg-zeppenfeld",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "goran-juric",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "tilmann-ronnebeck",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "tobias-kehrer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "markus-marquardt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "martin-jan-nijhof",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "james-ley",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "johan-krogius",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "mario-lerchenberger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "tomislav-muzek",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "nicole-chirka",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "sabine-brohm",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "stepanka-pucalkova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "winona-martin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "matthias-henneberg",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "metehan-koklu",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "oleksandr-pushniak",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "aaron-pegram",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester"
+      },
+      {
+        "person_slug": "gerald-hupach",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester"
+      },
+      {
+        "person_slug": "jin-yu",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester"
+      },
+      {
+        "person_slug": "simeon-esper",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester"
+      }
+    ]
+  },
+  {
+    "id": "semperoper-dresden/61954",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/aida/61954.html",
+    "creative_team": [
+      {
+        "person_slug": "christopher-tolle",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-hoffmann",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "erik-nielsen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-thalbach",
+        "function": "director"
+      },
+      {
+        "person_slug": "johann-casimir-eule",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ailyn-perez",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "eve-maud-hubeaux",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "oleksandr-pushniak",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "ezio-toffolutti",
+        "role_slug": "giuseppe-verdi/aida/buhne-kostum"
+      },
+      {
+        "person_slug": "alexandros-stavrakakis",
+        "role_slug": "giuseppe-verdi/aida/der-konig"
+      },
+      {
+        "person_slug": "jin-yu",
+        "role_slug": "giuseppe-verdi/aida/ein-bote"
+      },
+      {
+        "person_slug": "magdalena-lucjan",
+        "role_slug": "giuseppe-verdi/aida/eine-tempelsangerin"
+      },
+      {
+        "person_slug": "francesco-meli",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "soloman-howard",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      }
+    ]
+  },
+  {
+    "id": "semperoper-dresden/62376",
+    "work_slug": "ohne-frack-auf-tour",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/ohne-frack-auf-tour-2026/62376.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62699",
+    "work_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/as-one/62699.html",
+    "creative_team": [
+      {
+        "person_slug": "naomi-shamban",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "judith-philipp",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "rahel-thiel",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-luhr",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabian-wendling",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dominika-skrabalova",
+        "role_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one/hannah-older"
+      },
+      {
+        "person_slug": "gabriel-rollinson",
+        "role_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one/hannah-younger"
+      }
+    ]
+  },
+  {
+    "id": "semperoper-dresden/62706",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/carmen/62706.html",
+    "creative_team": [
+      {
+        "person_slug": "claudia-sebastian-bertsch",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "thomas-wilhelm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jonathan-becker",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "dominik-beykirch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lorenzo-passerini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nadja-loschky",
+        "function": "director"
+      },
+      {
+        "person_slug": "benedikt-stampfli",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yvonne-gebauer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "etienne-pluss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lasse-myhr",
+        "role_slug": "georges-bizet/carmen/alter-ego-don-jose"
+      },
+      {
+        "person_slug": "caterina-piva",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "eve-maud-hubeaux",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "simeon-esper",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "attilio-glaser",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "matthew-polenzani",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "tomislav-muzek",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "krzysztof-baczyk",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "neven-crnic",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "dalia-medovnikov",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "jasmin-delfs",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "magdalena-lucjan",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "nicole-chirka",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "winona-martin",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "galina-cheplakova",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "louise-mcclelland-jacobsen",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "marjukka-tepponen",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "danylo-matviienko",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "jin-yu",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "mario-lerchenberger",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "metehan-koklu",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      },
+      {
+        "person_slug": "vladyslav-buialskyi",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "semperoper-dresden/62710",
+    "work_slug": "nino-rota/der-florentiner-hut",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/florentiner-hut/62710.html",
+    "creative_team": [
+      {
+        "person_slug": "jonathan-becker",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniele-squeo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bernd-mottl",
+        "function": "director"
+      },
+      {
+        "person_slug": "dorothee-harpain",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marlene-hahn",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gerald-hupach",
+        "role_slug": "nino-rota/der-florentiner-hut/achille-di-rosalba"
+      },
+      {
+        "person_slug": "valerie-eickhoff",
+        "role_slug": "nino-rota/der-florentiner-hut/anaide"
+      },
+      {
+        "person_slug": "maire-therese-carmack",
+        "role_slug": "nino-rota/der-florentiner-hut/baronin-de-champigny"
+      },
+      {
+        "person_slug": "neven-crnic",
+        "role_slug": "nino-rota/der-florentiner-hut/beaupertuis"
+      },
+      {
+        "person_slug": "friedrich-eggert",
+        "role_slug": "nino-rota/der-florentiner-hut/buhne-licht"
+      },
+      {
+        "person_slug": "martin-jan-nijhof",
+        "role_slug": "nino-rota/der-florentiner-hut/ein-korporal"
+      },
+      {
+        "person_slug": "dalia-medovnikov",
+        "role_slug": "nino-rota/der-florentiner-hut/eine-modistin"
+      },
+      {
+        "person_slug": "frank-blumel",
+        "role_slug": "nino-rota/der-florentiner-hut/eine-wache"
+      },
+      {
+        "person_slug": "hyunkwang-jo",
+        "role_slug": "nino-rota/der-florentiner-hut/eine-wache"
+      },
+      {
+        "person_slug": "rosalia-cid",
+        "role_slug": "nino-rota/der-florentiner-hut/elena"
+      },
+      {
+        "person_slug": "danylo-matviienko",
+        "role_slug": "nino-rota/der-florentiner-hut/emilio"
+      },
+      {
+        "person_slug": "piotr-buszewski",
+        "role_slug": "nino-rota/der-florentiner-hut/fadinard"
+      },
+      {
+        "person_slug": "jongwoo-hong",
+        "role_slug": "nino-rota/der-florentiner-hut/felice"
+      },
+      {
+        "person_slug": "florian-mayer",
+        "role_slug": "nino-rota/der-florentiner-hut/minardi"
+      },
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "nino-rota/der-florentiner-hut/nonancourt"
+      },
+      {
+        "person_slug": "florian-stern",
+        "role_slug": "nino-rota/der-florentiner-hut/onkel-vezinet"
+      }
+    ]
+  },
+  {
+    "id": "semperoper-dresden/62747",
+    "work_slug": "kostprobe-as-one",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/kostprobe-as-one/62747.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62755",
+    "work_slug": "kostprobe-onegin",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/kostprobe-onegin/62755.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62817",
+    "work_slug": "anmeldung-erforderlich-unter/treffpunkt-buhneneingang-fantastisches-kinderzimmer-marchenhafte-figuren-blick-hinter-die-kulissen-mit-ratselrallye-alles-nur-kein-hut-blick-hinter-die-kulissen",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/treffpunkt-bhneneingang/62817.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62918",
+    "work_slug": "mit-dem-semperoper-ballett-ins-kino/tanz-film-cranko",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/tanz-film-cranko/62918.html",
+    "creative_team": [],
+    "cast": []
+  }
+]

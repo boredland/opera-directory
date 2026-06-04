@@ -1,0 +1,5616 @@
+[
+  {
+    "id": "staatsoper-hamburg/ballett-168-ballett-werkstatt",
+    "work_slug": "ballett-werkstatt",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/168-ballett-werkstatt",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-174-matthaeus-passion",
+    "work_slug": "matthaus-passion",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/174-matthaeus-passion",
+    "creative_team": [
+      {
+        "person_slug": "john-neumeier",
+        "function": "choreographer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "matthaus-passion/inszenierung-buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "johann-sebastian-bach",
+        "role_slug": "matthaus-passion/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "matthaus-passion/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1848-the-times-are-racing",
+    "work_slug": "the-times-are-racing",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1848-the-times-are-racing",
+    "creative_team": [
+      {
+        "person_slug": "demis-volpi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hans-van-manen",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "justin-peck",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "pina-bausch",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "roc-fargas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "humberto-leon",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-lempertz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "julia-schinke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bert-dalhuysen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "demis-volpi",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "keso-dekker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gerburg-stoffel",
+        "role_slug": "the-times-are-racing/adaption-buhnenbild"
+      },
+      {
+        "person_slug": "karl-kneidl",
+        "role_slug": "the-times-are-racing/buhnenbild-kostume"
+      },
+      {
+        "person_slug": "breanna-o-mara",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "craig-salstein",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "josephine-ann-endicott",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "jozef-varga",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "rachel-beaujean",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "scott-jennings",
+        "role_slug": "the-times-are-racing/einstudierung"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "the-times-are-racing/ensemble"
+      },
+      {
+        "person_slug": "astor-piazzola",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "benjamin-britten",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "dan-deacon",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "einojuhani-rautavaara",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "gustav-mahler",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "richard-strauss",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "stevan-kovacs-tickmayer",
+        "role_slug": "the-times-are-racing/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "the-times-are-racing/orchester"
+      },
+      {
+        "person_slug": "kerstin-kruger",
+        "role_slug": "the-times-are-racing/rekonstruktion-kostum"
+      },
+      {
+        "person_slug": "benjamin-schalike",
+        "role_slug": "the-times-are-racing/rekonstruktion-licht"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1849-slow-burn",
+    "work_slug": "slow-burn",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1849-slow-burn",
+    "creative_team": [
+      {
+        "person_slug": "aszure-barton",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "william-forsythe",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "luciano-di-martino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-merlin",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michelle-jank",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "carmen-kovacs",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "tanja-ruhl",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michelle-jank",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "tanja-ruhl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jonathan-alsberry",
+        "role_slug": "slow-burn/choreografische-assistenz"
+      },
+      {
+        "person_slug": "jodie-gates",
+        "role_slug": "slow-burn/einstudierung"
+      },
+      {
+        "person_slug": "noah-gelber",
+        "role_slug": "slow-burn/einstudierung"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "slow-burn/ensemble"
+      },
+      {
+        "person_slug": "ambrose-akinmusire",
+        "role_slug": "slow-burn/musik"
+      },
+      {
+        "person_slug": "james-blake",
+        "role_slug": "slow-burn/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "slow-burn/orchester"
+      },
+      {
+        "person_slug": "taylor-labruzzo",
+        "role_slug": "slow-burn/probenassistenz"
+      },
+      {
+        "person_slug": "4-6-26",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "aleix-martinez",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "ana-torrequebrada",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "bruno-garibaldi",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "charlotte-kragh",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "daniele-bonelli",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "evan-l-hirondelle",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "francesco-cortese",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "futaba-ishizaki",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "gabriel-barbosa",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "jack-bruce",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "joao-santana",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "olivia-betteridge",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "paula-iniesta",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "xue-lin",
+        "role_slug": "slow-burn/tanzer-innen"
+      },
+      {
+        "person_slug": "yun-lin",
+        "role_slug": "slow-burn/tanzer-innen"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1905-neue-welten",
+    "work_slug": "neue-welten",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1905-neue-welten",
+    "creative_team": [
+      {
+        "person_slug": "edvin-revazov",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "justin-peck",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "brandon-stirling-baker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jeffrey-gibson",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "verena-hemmerlein",
+        "role_slug": "neue-welten/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "marc-happel",
+        "role_slug": "neue-welten/kostumumsetzung"
+      },
+      {
+        "person_slug": "aaron-copland",
+        "role_slug": "neue-welten/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "neue-welten/orchester"
+      },
+      {
+        "person_slug": "5-12-26",
+        "role_slug": "neue-welten/sanger"
+      },
+      {
+        "person_slug": "9-12-26",
+        "role_slug": "neue-welten/sanger"
+      },
+      {
+        "person_slug": "thomas-hampson",
+        "role_slug": "neue-welten/sanger"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1911-wunderland",
+    "work_slug": "wunderland",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1911-wunderland",
+    "creative_team": [
+      {
+        "person_slug": "alexei-ratmansky",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "2-7-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "20-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "23-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "26-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vello-pahn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "david-szauder",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sebastian-hannak",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "2-7-26",
+        "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "20-6-26",
+        "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "23-6-26",
+        "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "26-6-26",
+        "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "vasily-ratmansky",
+        "role_slug": "wunderland/musikalische-beratung"
+      },
+      {
+        "person_slug": "12-11-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "18-11-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "2-7-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "20-3-27",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "20-6-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "23-6-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "26-6-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "31-10-26",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "wunderland/orchester"
+      },
+      {
+        "person_slug": "philip-feeney",
+        "role_slug": "wunderland/orchestriert-und-arrangiert-von"
+      },
+      {
+        "person_slug": "vivien-arnold",
+        "role_slug": "wunderland/scenario-und-dramaturgie"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1955-fast-forward",
+    "work_slug": "fast-forward",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1955-fast-forward",
+    "creative_team": [
+      {
+        "person_slug": "angelin-preljocaj",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "george-balanchine",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marcos-morau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "xie-xin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "karinska",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "li-kun",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nathalie-sanson",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "gao-jie",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jacques-chatelet",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mark-stanley",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hu-yanjun",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "claudia-de-smet",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "judith-fugate",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "valentin-goniot",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "fast-forward/ensemble"
+      },
+      {
+        "person_slug": "liu-zhonglei",
+        "role_slug": "fast-forward/kunstlerischer-koordinator"
+      },
+      {
+        "person_slug": "antonio-vivaldi",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "ghedaila-tazartes",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "harry-escott",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "peter-tschaikowsky",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "stephane-roy",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "sylvian-wang",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "the-bulgarian-voices-angelite",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "fast-forward/orchester"
+      },
+      {
+        "person_slug": "tu-yuchen",
+        "role_slug": "fast-forward/probenassistentin"
+      },
+      {
+        "person_slug": "clara-aguilar",
+        "role_slug": "fast-forward/sound-design-und-originale-musik"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1970-scirocco",
+    "work_slug": "scirocco",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1970-scirocco",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "winndance",
+        "role_slug": "scirocco/ensemble"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-1974-mittsu",
+    "work_slug": "mittsu",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1974-mittsu",
+    "creative_team": [
+      {
+        "person_slug": "kristina-paulin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "neshama-nashman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "yuka-oishi",
+        "function": "choreographer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "mittsu/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-201-der-nussknacker",
+    "work_slug": "der-nussknacker",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/201-der-nussknacker",
+    "creative_team": [
+      {
+        "person_slug": "1-1-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "16-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "17-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "22-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "27-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jurgen-rose",
+        "role_slug": "der-nussknacker/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "der-nussknacker/choreografie-inszenierung-und-licht"
+      },
+      {
+        "person_slug": "peter-tschaikowsky",
+        "role_slug": "der-nussknacker/musik"
+      },
+      {
+        "person_slug": "1-1-27",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "11-10-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "16-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "17-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "22-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "25-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "27-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "27-12-26",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "der-nussknacker/orchester"
+      },
+      {
+        "person_slug": "sympho-shy-niker-hamburg",
+        "role_slug": "der-nussknacker/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-203-ein-sommernachtstraum",
+    "work_slug": "ein-sommernachts-shy-traum",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/203-ein-sommernachtstraum",
+    "creative_team": [
+      {
+        "person_slug": "john-neumeier",
+        "function": "choreographer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jurgen-rose",
+        "role_slug": "ein-sommernachts-shy-traum/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "ein-sommernachts-shy-traum/inszenierung-und-lichtdesign"
+      },
+      {
+        "person_slug": "felix-mendelssohn-bartholdy",
+        "role_slug": "ein-sommernachts-shy-traum/musik"
+      },
+      {
+        "person_slug": "gyorgy-ligeti",
+        "role_slug": "ein-sommernachts-shy-traum/musik"
+      },
+      {
+        "person_slug": "traditionelle-mechanische-musik",
+        "role_slug": "ein-sommernachts-shy-traum/musik"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-205-erste-schritte",
+    "work_slug": "erste-schritte",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/205-erste-schritte",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-206-nijinsky-gala",
+    "work_slug": "nijinsky-gala",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/206-nijinsky-gala",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "nijinsky-gala/ensemble"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "nijinsky-gala/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-2147484845-absprung-v",
+    "work_slug": "absprung-v",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/2147484845-absprung-v",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-2147484877-romantic-evolution-s",
+    "work_slug": "romantic-evolution-s",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/2147484877-romantic-evolution-s",
+    "creative_team": [
+      {
+        "person_slug": "aleix-martinez",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "august-bournonville",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "4-7-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "markus-lehtinen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lennart-radtke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jesper-kongshaug",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mikael-melbye",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sebastian-kloborg",
+        "role_slug": "romantic-evolution-s/ballettmeister"
+      },
+      {
+        "person_slug": "anne-marie-vessel-schluter",
+        "role_slug": "romantic-evolution-s/ballettmeisterin"
+      },
+      {
+        "person_slug": "aleix-martinez",
+        "role_slug": "romantic-evolution-s/buhnenbild-und-lichtkonzept"
+      },
+      {
+        "person_slug": "vivien-arnold",
+        "role_slug": "romantic-evolution-s/dramaturgische-assistenz"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "romantic-evolution-s/ensemble"
+      },
+      {
+        "person_slug": "kiran-west",
+        "role_slug": "romantic-evolution-s/filmarbeit"
+      },
+      {
+        "person_slug": "17-1-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "17-1-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "18-1-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "25-3-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "8-1-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "9-1-27",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "katja-pieweck",
+        "role_slug": "romantic-evolution-s/gesang"
+      },
+      {
+        "person_slug": "eva-kloborg",
+        "role_slug": "romantic-evolution-s/inszenierung-und-einstudierung"
+      },
+      {
+        "person_slug": "frank-andersen",
+        "role_slug": "romantic-evolution-s/inszenierung-und-einstudierung"
+      },
+      {
+        "person_slug": "arnau-obiols",
+        "role_slug": "romantic-evolution-s/musik"
+      },
+      {
+        "person_slug": "arvo-part",
+        "role_slug": "romantic-evolution-s/musik"
+      },
+      {
+        "person_slug": "herman-severin-l-venskjold",
+        "role_slug": "romantic-evolution-s/musik"
+      },
+      {
+        "person_slug": "peteris-vasks",
+        "role_slug": "romantic-evolution-s/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "romantic-evolution-s/orchester"
+      },
+      {
+        "person_slug": "17-1-27",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "18-1-27",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "25-3-27",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "4-7-26",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "8-1-27",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "9-1-27",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "anton-barakhovsky",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      },
+      {
+        "person_slug": "valeriy-sokolov",
+        "role_slug": "romantic-evolution-s/solo-violine"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-2147484906-counter-balance-creations",
+    "work_slug": "counter-balance-creations",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/2147484906-counter-balance-creations",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-2147484910-sneak-klub",
+    "work_slug": "sneak-klub",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/2147484910-sneak-klub",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-2147484995-werkstatt-der-kreativitaet-xvii",
+    "work_slug": "werkstatt-der-kreativitat-xvii",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/2147484995-werkstatt-der-kreativitaet-xvii",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-296-herve-koubi",
+    "work_slug": "herve-koubi",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/296-herve-koubi",
+    "creative_team": [
+      {
+        "person_slug": "herve-koubi",
+        "function": "choreographer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3047-tanz-fuer-mich",
+    "work_slug": "tanz-fur-mich",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3047-tanz-fuer-mich",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "elisabeth-bell",
+        "role_slug": "tanz-fur-mich/leitung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3048-tanz-fuer-mich",
+    "work_slug": "tanz-fur-mich",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3048-tanz-fuer-mich",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "elisabeth-bell",
+        "role_slug": "tanz-fur-mich/leitung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3049-familien-und-jugendeinfuehrungen",
+    "work_slug": "familien-und-jugendeinfuhrungen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3049-familien-und-jugendeinfuehrungen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3051-kantinentalk",
+    "work_slug": "kantinentalk",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3051-kantinentalk",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3053-balletttester-innen",
+    "work_slug": "ballett-shy-tester-innen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3053-balletttester-innen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3054-ballettinsider-innen",
+    "work_slug": "ballett-shy-insider-innen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3054-ballettinsider-innen",
+    "creative_team": [
+      {
+        "person_slug": "nathalia-schmidt",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3124-fast-forward",
+    "work_slug": "fast-forward",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3124-fast-forward",
+    "creative_team": [
+      {
+        "person_slug": "angelin-preljocaj",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "george-balanchine",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marcos-morau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "xie-xin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "karinska",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "li-kun",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nathalie-sanson",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "gao-jie",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jacques-chatelet",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mark-stanley",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hu-yanjun",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "claudia-de-smet",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "judith-fugate",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "valentin-goniot",
+        "role_slug": "fast-forward/einstudierung"
+      },
+      {
+        "person_slug": "liu-zhonglei",
+        "role_slug": "fast-forward/kunstlerischer-koordinator"
+      },
+      {
+        "person_slug": "antonio-vivaldi",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "ghedaila-tazartes",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "harry-escott",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "peter-tschaikowsky",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "stephane-roy",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "sylvian-wang",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "the-bulgarian-voices-angelite",
+        "role_slug": "fast-forward/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "fast-forward/orchester"
+      },
+      {
+        "person_slug": "tu-yuchen",
+        "role_slug": "fast-forward/probenassistentin"
+      },
+      {
+        "person_slug": "clara-aguilar",
+        "role_slug": "fast-forward/sound-design-und-originale-musik"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3141-inside-out",
+    "work_slug": "inside-out",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3141-inside-out",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3146-eintauchen-ins-ballettzentrum",
+    "work_slug": "eintauchen-ins-ballettzentrum",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3146-eintauchen-ins-ballettzentrum",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-319-a-cinderella-story",
+    "work_slug": "a-cinderella-story",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/319-a-cinderella-story",
+    "creative_team": [
+      {
+        "person_slug": "max-keller",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jurgen-rose",
+        "role_slug": "a-cinderella-story/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "sergej-prokofjew",
+        "role_slug": "a-cinderella-story/musik"
+      },
+      {
+        "person_slug": "13-9-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "14-10-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "15-10-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "15-9-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "16-10-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "17-9-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "18-9-26",
+        "role_slug": "a-cinderella-story/orchester"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "a-cinderella-story/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-329-die-kameliendame",
+    "work_slug": "die-kamelien-shy-dame",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/329-die-kameliendame",
+    "creative_team": [
+      {
+        "person_slug": "markus-lehtinen",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jurgen-rose",
+        "role_slug": "die-kamelien-shy-dame/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "die-kamelien-shy-dame/choreografie-und-inszenierung"
+      },
+      {
+        "person_slug": "micha-bia-k",
+        "role_slug": "die-kamelien-shy-dame/klavier"
+      },
+      {
+        "person_slug": "frederic-chopin",
+        "role_slug": "die-kamelien-shy-dame/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "die-kamelien-shy-dame/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-448-nijinsky",
+    "work_slug": "nijinsky",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/448-nijinsky",
+    "creative_team": [
+      {
+        "person_slug": "john-neumeier",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nathan-brock",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "nijinsky/ensemble"
+      },
+      {
+        "person_slug": "dmitri-schostakowitsch",
+        "role_slug": "nijinsky/musik"
+      },
+      {
+        "person_slug": "frederic-chopin",
+        "role_slug": "nijinsky/musik"
+      },
+      {
+        "person_slug": "nikolai-rimskij-korsakow",
+        "role_slug": "nijinsky/musik"
+      },
+      {
+        "person_slug": "robert-schumann",
+        "role_slug": "nijinsky/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "nijinsky/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-485-die-moewe",
+    "work_slug": "die-mowe",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/485-die-moewe",
+    "creative_team": [
+      {
+        "person_slug": "john-neumeier",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nathan-brock",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "die-mowe/buhnenbild-und-kostume"
+      },
+      {
+        "person_slug": "3-7-26",
+        "role_slug": "die-mowe/ensemble"
+      },
+      {
+        "person_slug": "hamburg-ballett",
+        "role_slug": "die-mowe/ensemble"
+      },
+      {
+        "person_slug": "alexander-skrjabin",
+        "role_slug": "die-mowe/musik"
+      },
+      {
+        "person_slug": "dmitri-schostakowitsch",
+        "role_slug": "die-mowe/musik"
+      },
+      {
+        "person_slug": "evelyn-glennie",
+        "role_slug": "die-mowe/musik"
+      },
+      {
+        "person_slug": "peter-tschaikowsky",
+        "role_slug": "die-mowe/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "die-mowe/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-520-tod-in-venedig",
+    "work_slug": "tod-in-venedig",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/520-tod-in-venedig",
+    "creative_team": [
+      {
+        "person_slug": "john-neumeier",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-schmidt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-schmidt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "tod-in-venedig/choreografie-inszenierung-lichtkonzept"
+      },
+      {
+        "person_slug": "johann-sebastian-bach",
+        "role_slug": "tod-in-venedig/musik"
+      },
+      {
+        "person_slug": "richard-wagner",
+        "role_slug": "tod-in-venedig/musik"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-566-die-kleine-meerjungfrau",
+    "work_slug": "die-kleine-meerjung-shy-frau",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/566-die-kleine-meerjungfrau",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "die-kleine-meerjung-shy-frau/choreografie-und-inszenierung"
+      },
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "die-kleine-meerjung-shy-frau/kostume-und-buhnenbild"
+      },
+      {
+        "person_slug": "lera-auerbach",
+        "role_slug": "die-kleine-meerjung-shy-frau/musik"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "die-kleine-meerjung-shy-frau/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-587-junge-choreograf-innen",
+    "work_slug": "junge-choreo-shy-graf-innen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/587-junge-choreograf-innen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-742-bundesjugendballett",
+    "work_slug": "bundesjugendballett",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/742-bundesjugendballett",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-2147484969-der-musiker-und-autor-omer-meir-wellber-ein-portraet",
+    "work_slug": "der-musiker-und-autor-omer-meir-wellber-ein-portrat",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/2147484969-der-musiker-und-autor-omer-meir-wellber-ein-portraet",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-2147484977-theaternacht-hamburg",
+    "work_slug": "theaternacht-hamburg",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/2147484977-theaternacht-hamburg",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-253-opern-werkstatt",
+    "work_slug": "opern-werkstatt",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/253-opern-werkstatt",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-289-fuehrung-durch-die-staatsoper",
+    "work_slug": "fuhrung-durch-die-staatsoper",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/289-fuehrung-durch-die-staatsoper",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484849-kids-only-3-ich-zieh-aus",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484849-kids-only-3-ich-zieh-aus",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "kids-only-3-ich-zieh-aus/orchester"
+      },
+      {
+        "person_slug": "tobias-schulze",
+        "role_slug": "kids-only-3-ich-zieh-aus/schauspieler"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484884-utopia",
+    "work_slug": "utopia",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484884-utopia",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "malte-arkona",
+        "role_slug": "utopia/moderation"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "utopia/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484911-10-philharmonisches-konzert",
+    "work_slug": "10-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484911-10-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ava-bahari",
+        "role_slug": "10-philharmo-shy-nisches-konzert/violine"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484913-10-philharmonisches-konzert",
+    "work_slug": "10-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484913-10-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hilary-hahn",
+        "role_slug": "10-philharmo-shy-nisches-konzert/violine"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484936-1-kammerkonzert",
+    "work_slug": "1-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484936-1-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "minju-kim",
+        "role_slug": "1-kammer-shy-konzert/fagott"
+      },
+      {
+        "person_slug": "pierluigi-santucci",
+        "role_slug": "1-kammer-shy-konzert/horn"
+      },
+      {
+        "person_slug": "christian-seibold",
+        "role_slug": "1-kammer-shy-konzert/klarinette"
+      },
+      {
+        "person_slug": "katharina-von-held",
+        "role_slug": "1-kammer-shy-konzert/kontrabass"
+      },
+      {
+        "person_slug": "yitong-guo",
+        "role_slug": "1-kammer-shy-konzert/viola"
+      },
+      {
+        "person_slug": "hugo-moinet",
+        "role_slug": "1-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "kostas-malamis",
+        "role_slug": "1-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "olivia-jeremias",
+        "role_slug": "1-kammer-shy-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484937-1-philharmonisches-konzert",
+    "work_slug": "1-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484937-1-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fazil-say",
+        "role_slug": "1-philharmo-shy-nisches-konzert/klavier"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484938-10-philharmonisches-konzert",
+    "work_slug": "10-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484938-10-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "iveta-apkalna",
+        "role_slug": "10-philharmo-shy-nisches-konzert/orgel"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484939-2-kammerkonzert",
+    "work_slug": "2-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484939-2-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "iris-icellioglu",
+        "role_slug": "2-kammer-shy-konzert/viola"
+      },
+      {
+        "person_slug": "bogdan-dumitrascu",
+        "role_slug": "2-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "konradin-seitzer",
+        "role_slug": "2-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "olivia-jeremias",
+        "role_slug": "2-kammer-shy-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484940-2-philharmonisches-konzert",
+    "work_slug": "2-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484940-2-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "bertrand-de-billy",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "truls-m-rk",
+        "role_slug": "2-philharmo-shy-nisches-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484941-3-kammerkonzert",
+    "work_slug": "3-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484941-3-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "anne-von-twardowski",
+        "role_slug": "3-kammer-shy-konzert/klavier"
+      },
+      {
+        "person_slug": "stefan-schafer",
+        "role_slug": "3-kammer-shy-konzert/kontrabass"
+      },
+      {
+        "person_slug": "thomas-ruhl",
+        "role_slug": "3-kammer-shy-konzert/viola"
+      },
+      {
+        "person_slug": "annette-schafer",
+        "role_slug": "3-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "mette-tj-rby-korneliusen",
+        "role_slug": "3-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "saskia-hirschinger",
+        "role_slug": "3-kammer-shy-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484942-3-philharmonisches-konzert",
+    "work_slug": "3-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484942-3-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484943-4-kammerkonzert",
+    "work_slug": "4-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484943-4-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "4-kammer-shy-konzert/bariton"
+      },
+      {
+        "person_slug": "camille-lemonnier",
+        "role_slug": "4-kammer-shy-konzert/klavier"
+      },
+      {
+        "person_slug": "felix-von-werder",
+        "role_slug": "4-kammer-shy-konzert/kontrabass"
+      },
+      {
+        "person_slug": "thomas-ruhl",
+        "role_slug": "4-kammer-shy-konzert/viola"
+      },
+      {
+        "person_slug": "sebastian-deutscher",
+        "role_slug": "4-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "clara-grunwald",
+        "role_slug": "4-kammer-shy-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484944-4-philharmonisches-konzert",
+    "work_slug": "4-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484944-4-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "alexander-soddy",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christian-tetzlaff",
+        "role_slug": "4-philharmo-shy-nisches-konzert/violine"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484945-5-kammerkonzert",
+    "work_slug": "5-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484945-5-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "georgiy-dubko",
+        "role_slug": "5-kammer-shy-konzert/klavier"
+      },
+      {
+        "person_slug": "robert-jacob",
+        "role_slug": "5-kammer-shy-konzert/klavier"
+      },
+      {
+        "person_slug": "brian-barker",
+        "role_slug": "5-kammer-shy-konzert/schlagzeug"
+      },
+      {
+        "person_slug": "fabian-otten",
+        "role_slug": "5-kammer-shy-konzert/schlagzeug"
+      },
+      {
+        "person_slug": "jesper-tj-rby-korneliusen",
+        "role_slug": "5-kammer-shy-konzert/schlagzeug"
+      },
+      {
+        "person_slug": "matthias-schurr",
+        "role_slug": "5-kammer-shy-konzert/schlagzeug"
+      },
+      {
+        "person_slug": "hugo-moinet",
+        "role_slug": "5-kammer-shy-konzert/violine"
+      },
+      {
+        "person_slug": "ryuichi-rainer-suzuki",
+        "role_slug": "5-kammer-shy-konzert/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484946-5-philharmonisches-konzert",
+    "work_slug": "5-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484946-5-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wei-wu",
+        "role_slug": "5-philharmo-shy-nisches-konzert/sheng"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484947-6-kammerkonzert",
+    "work_slug": "6-kammer-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484947-6-kammerkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "jose-silva",
+        "role_slug": "6-kammer-shy-konzert/fagott"
+      },
+      {
+        "person_slug": "manuela-tyllack",
+        "role_slug": "6-kammer-shy-konzert/flote"
+      },
+      {
+        "person_slug": "isaak-seidenberg",
+        "role_slug": "6-kammer-shy-konzert/horn"
+      },
+      {
+        "person_slug": "christian-seibold",
+        "role_slug": "6-kammer-shy-konzert/klarinette"
+      },
+      {
+        "person_slug": "leon-gurvitch",
+        "role_slug": "6-kammer-shy-konzert/klavier"
+      },
+      {
+        "person_slug": "thomas-rohde",
+        "role_slug": "6-kammer-shy-konzert/oboe"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484948-6-philharmonisches-konzert",
+    "work_slug": "6-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484948-6-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "martin-steidler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sonja-lachenmayr",
+        "function": "chorus-master"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jess-dandy",
+        "role_slug": "6-philharmo-shy-nisches-konzert/alt"
+      },
+      {
+        "person_slug": "anja-bihlmaier",
+        "role_slug": "6-philharmo-shy-nisches-konzert/dirigentin"
+      },
+      {
+        "person_slug": "sarah-wegener",
+        "role_slug": "6-philharmo-shy-nisches-konzert/sopran"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484949-7-philharmonisches-konzert",
+    "work_slug": "7-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484949-7-philharmonisches-konzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "eun-sun-kim",
+        "role_slug": "7-philharmo-shy-nisches-konzert/dirigentin"
+      },
+      {
+        "person_slug": "kebyart",
+        "role_slug": "7-philharmo-shy-nisches-konzert/saxophonquartett"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484950-8-philharmonisches-konzert",
+    "work_slug": "8-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484950-8-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "kent-nagano",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-gabler",
+        "role_slug": "8-philharmo-shy-nisches-konzert/sopran"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484951-9-philharmonisches-konzert",
+    "work_slug": "9-philharmo-shy-nisches-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484951-9-philharmonisches-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "midori",
+        "role_slug": "9-philharmo-shy-nisches-konzert/violine"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484952-1-blaues-konzert",
+    "work_slug": "1-blaues-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484952-1-blaues-konzert",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484953-2-blaues-konzert",
+    "work_slug": "2-blaues-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484953-2-blaues-konzert",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484954-3-blaues-konzert",
+    "work_slug": "3-blaues-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484954-3-blaues-konzert",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "janetka-hosco",
+        "role_slug": "3-blaues-konzert/mezzosopran"
+      },
+      {
+        "person_slug": "aloisia-de-nardis",
+        "role_slug": "3-blaues-konzert/sopran"
+      },
+      {
+        "person_slug": "lawrence-power",
+        "role_slug": "3-blaues-konzert/viola"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484955-kammerkonzert-der-orchesterakademie",
+    "work_slug": "kammer-shy-konzert-der-orchester-shy-akademie",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484955-kammerkonzert-der-orchesterakademie",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "akade-shy-mist-in-shy-nen-des-philhar-shy-mo-shy-nischen-staats-shy-orchesters",
+        "role_slug": "kammer-shy-konzert-der-orchester-shy-akademie/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484956-silvesterkonzert",
+    "work_slug": "silvester-shy-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484956-silvesterkonzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "silvester-shy-konzert/dirigent-akkordeon-und-gesang"
+      },
+      {
+        "person_slug": "guy-mintus",
+        "role_slug": "silvester-shy-konzert/jazz-klavier-und-gesang"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484957-between-songs-and-shadows",
+    "work_slug": "between-songs-and-shadows",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484957-between-songs-and-shadows",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "andreas-heise",
+        "role_slug": "between-songs-and-shadows/choreografie-und-tanz"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "between-songs-and-shadows/dirigent-und-akkordeon"
+      },
+      {
+        "person_slug": "valerie-eickhoff",
+        "role_slug": "between-songs-and-shadows/mezzosopran"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484958-ueber-liebe-und-hass",
+    "work_slug": "uber-liebe-und-hass",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484958-ueber-liebe-und-hass",
+    "creative_team": [
+      {
+        "person_slug": "martin-steidler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sonja-lachenmayr",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andrei-bondarenko",
+        "role_slug": "uber-liebe-und-hass/bariton"
+      },
+      {
+        "person_slug": "tobias-kehrer",
+        "role_slug": "uber-liebe-und-hass/bass"
+      },
+      {
+        "person_slug": "krassimira-stoyanova",
+        "role_slug": "uber-liebe-und-hass/sopran"
+      },
+      {
+        "person_slug": "michael-schade",
+        "role_slug": "uber-liebe-und-hass/tenor"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484959-4-blaues-konzert",
+    "work_slug": "4-blaues-konzert",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484959-4-blaues-konzert",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "martynas-levickis",
+        "role_slug": "4-blaues-konzert/akkordeon"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "4-blaues-konzert/dirigent-und-akkordeon"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484960-vier-gewinnt",
+    "work_slug": "vier-gewinnt",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484960-vier-gewinnt",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484961-sinneswandeln",
+    "work_slug": "sinnes-shy-wandeln",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484961-sinneswandeln",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484964-konfetti-im-weltall",
+    "work_slug": "konfetti-im-weltall",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484964-konfetti-im-weltall",
+    "creative_team": [
+      {
+        "person_slug": "henri-christofer-aavik",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484965-wandel",
+    "work_slug": "wandel",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484965-wandel",
+    "creative_team": [
+      {
+        "person_slug": "bertrand-de-billy",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484966-kids-only-1-ich-du-wir",
+    "work_slug": "kids-only-1-ich-du-wir",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484966-kids-only-1-ich-du-wir",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "kids-only-1-ich-du-wir/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484967-kids-only-2-durch-das-wurmloch-hindurch",
+    "work_slug": "kids-only-2-durch-das-wurmloch-hindurch",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484967-kids-only-2-durch-das-wurmloch-hindurch",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "29-11-26",
+        "role_slug": "kids-only-2-durch-das-wurmloch-hindurch/orchester"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "kids-only-2-durch-das-wurmloch-hindurch/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484968-kids-only-3-pssst-streng-geheim",
+    "work_slug": "kids-only-3-pssst-streng-geheim",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484968-kids-only-3-pssst-streng-geheim",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "kids-only-3-pssst-streng-geheim/orchester"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484971-club-zone-1-schall-und-rau-s-ch",
+    "work_slug": "club-zone-1-schall-und-rau-s-ch",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484971-club-zone-1-schall-und-rau-s-ch",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484978-club-zone-2-zurueck-in-die-zukunft",
+    "work_slug": "club-zone-2-zuruck-in-die-zukunft",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484978-club-zone-2-zurueck-in-die-zukunft",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484979-schade-schade-zu-spaet",
+    "work_slug": "schade-schade-zu-spat",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484979-schade-schade-zu-spaet",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484980-ta-ta-ta-taaa",
+    "work_slug": "ta-ta-ta-taaa",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484980-ta-ta-ta-taaa",
+    "creative_team": [
+      {
+        "person_slug": "14-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "15-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "16-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "4-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "5-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "6-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gotz-fuhrmann",
+        "role_slug": "ta-ta-ta-taaa/beethoven"
+      },
+      {
+        "person_slug": "martin-lingnau",
+        "role_slug": "ta-ta-ta-taaa/konzept"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "ta-ta-ta-taaa/konzept"
+      },
+      {
+        "person_slug": "martin-lingnau",
+        "role_slug": "ta-ta-ta-taaa/text-und-inszenierung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484997-what-a-wonderful-world",
+    "work_slug": "what-a-wonderful-world",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484997-what-a-wonderful-world",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "till-bronner",
+        "role_slug": "what-a-wonderful-world/trompete"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484998-klangvolles-musikabenteuer",
+    "work_slug": "klangvolles-musik-shy-abenteuer",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484998-klangvolles-musikabenteuer",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "klangvolles-musik-shy-abenteuer/musikalische-leitung-akkordeon-und-klavier"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-3058-croissant-mit-omer",
+    "work_slug": "croissant-mit-omer",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/3058-croissant-mit-omer",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-3149-croissant-mit-omer",
+    "work_slug": "croissant-mit-omer",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/3149-croissant-mit-omer",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-130-cavalleria-rusticana-pagliacci",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/130-cavalleria-rusticana-pagliacci",
+    "creative_team": [
+      {
+        "person_slug": "priscilla-prueter",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giampaolo-bisanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giancarlo-del-monaco",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksei-isaev",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
+      },
+      {
+        "person_slug": "michael-scott",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/ausstattung"
+      },
+      {
+        "person_slug": "gregory-kunde",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lola"
+      },
+      {
+        "person_slug": "elena-zaremba",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lucia"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
+      },
+      {
+        "person_slug": "jonah-hoskins",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/peppe"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/silvio"
+      },
+      {
+        "person_slug": "aleksei-isaev",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
+        "person_slug": "riccardo-massi",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-138-madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/138-madama-butterfly",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-monta-shy-naro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-lacroix",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vincent-boussard",
+        "function": "director"
+      },
+      {
+        "person_slug": "barbara-weigel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "guido-levi",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vincent-lemaire",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "galina-chepla-shy-kova",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "jurgen-sacher",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "giacomo-puccini/madama-butterfly/il-principe-yamadori"
+      },
+      {
+        "person_slug": "ines-lopez-fernandez",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "giacomo-puccini/madama-butterfly/lo-zio-bonzo"
+      },
+      {
+        "person_slug": "stefano-la-colla",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "kartal-karagedik",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-144-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/144-la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sesto-quatrini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "herbert-barz-murauer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "johannes-erath",
+        "function": "director"
+      },
+      {
+        "person_slug": "francis-husers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annette-julia-kurz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "oleksiy-palchykov",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "ines-lopez-fernandez",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "14-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "16-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "29-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "3-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "5-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "7-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "kady-evanyshyn",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "peter-galliard",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "14-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "16-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "29-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "3-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "5-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "7-1-27",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "andrei-bonda-shy-renko",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "boris-pinkhasovich",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "kang-seo",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "giuseppe-verdi/la-traviata/il-barone-douphol"
+      },
+      {
+        "person_slug": "chao-deng",
+        "role_slug": "giuseppe-verdi/la-traviata/il-dottore-grenvil"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "giuseppe-verdi/la-traviata/il-marchese-d-obigny"
+      },
+      {
+        "person_slug": "yaritza-veliz",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-150-die-walkuere",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/150-die-walkuere",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-schmidt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "claus-guth",
+        "function": "director"
+      },
+      {
+        "person_slug": "hella-bartnig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-bauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christian-schmidt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "allison-oakes",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "richard-wagner/die-walkure/gerhilde"
+      },
+      {
+        "person_slug": "iris-van-wijnen",
+        "role_slug": "richard-wagner/die-walkure/grimgerde"
+      },
+      {
+        "person_slug": "katie-lowe",
+        "role_slug": "richard-wagner/die-walkure/helmwige"
+      },
+      {
+        "person_slug": "ante-jerkunica",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "richard-wagner/die-walkure/ortlinde"
+      },
+      {
+        "person_slug": "aebh-kelly",
+        "role_slug": "richard-wagner/die-walkure/rosswei-e"
+      },
+      {
+        "person_slug": "brigitta-listra",
+        "role_slug": "richard-wagner/die-walkure/schwertleite"
+      },
+      {
+        "person_slug": "vida-mikneviciute",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "nicky-spence",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "richard-wagner/die-walkure/siegrune"
+      },
+      {
+        "person_slug": "katja-pieweck",
+        "role_slug": "richard-wagner/die-walkure/waltraute"
+      },
+      {
+        "person_slug": "derek-welton",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1892-fuehrung-fuer-familien",
+    "work_slug": "fuhrung-fur-familien",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1892-fuehrung-fuer-familien",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1904-ruslan-und-ljudmila",
+    "work_slug": "michail-glinka/ruslan-und-ljudmila",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1904-ruslan-und-ljudmila",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "azim-karimov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katinka-deecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bernd-gallasch",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "janic-bebi",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nicky-spence",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/bajan-finn"
+      },
+      {
+        "person_slug": "alexei-botnarciuc",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/farlaf"
+      },
+      {
+        "person_slug": "natalia-tanasii",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/gorislawa"
+      },
+      {
+        "person_slug": "alexandra-szemeredy",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/inszenierung-buhne-und-kostume"
+      },
+      {
+        "person_slug": "magdolna-parditka",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/inszenierung-buhne-und-kostume"
+      },
+      {
+        "person_slug": "barno-ismatulla-shy-eva",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/ljudmila"
+      },
+      {
+        "person_slug": "brigitta-listra",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/naina"
+      },
+      {
+        "person_slug": "yuriy-mynenko",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/ratmir"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/ruslan"
+      },
+      {
+        "person_slug": "10-12-26",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      },
+      {
+        "person_slug": "29-11-26",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      },
+      {
+        "person_slug": "6-12-26",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      },
+      {
+        "person_slug": "8-12-26",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1907-die-grosse-stille",
+    "work_slug": "die-gro-e-stille",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1907-die-grosse-stille",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lene-schwind",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christopher-ruping",
+        "function": "director"
+      },
+      {
+        "person_slug": "katinka-deecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "malte-ubenauf",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "benedikt-zehm",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jonathan-mertz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hannah-gladstones",
+        "role_slug": "die-gro-e-stille/fagott"
+      },
+      {
+        "person_slug": "minju-kim",
+        "role_slug": "die-gro-e-stille/fagott"
+      },
+      {
+        "person_slug": "christian-seibold",
+        "role_slug": "die-gro-e-stille/klarinette"
+      },
+      {
+        "person_slug": "rupert-wachter",
+        "role_slug": "die-gro-e-stille/klarinette"
+      },
+      {
+        "person_slug": "ana-durlovski",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "damian-rebgetz",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "gregory-kunde",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "kayleigh-decker",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "marie-maidowski",
+        "role_slug": "die-gro-e-stille/mit"
+      },
+      {
+        "person_slug": "alexandre-rodrigues",
+        "role_slug": "die-gro-e-stille/posaune"
+      },
+      {
+        "person_slug": "joao-martinho",
+        "role_slug": "die-gro-e-stille/posaune"
+      },
+      {
+        "person_slug": "jonas-holle",
+        "role_slug": "die-gro-e-stille/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1909-il-barbiere-di-siviglia",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1909-il-barbiere-di-siviglia",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "11-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "13-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "13-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "15-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "15-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "17-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "21-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "26-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "29-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "31-12-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "6-6-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "teresa-riveiro-bohm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barbara-drosihn",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tatjana-gurbaca",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katinka-deecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "klaus-grunberg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "klaus-grunberg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/berta"
+      },
+      {
+        "person_slug": "jonah-hoskins",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/conte-almaviva"
+      },
+      {
+        "person_slug": "11-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "13-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "13-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "15-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "15-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "17-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "21-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "26-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "29-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "31-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "6-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "johannes-martin-kranzle",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "misha-kiria",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-basilio"
+      },
+      {
+        "person_slug": "mattia-olivieri",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
+      },
+      {
+        "person_slug": "11-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "13-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "13-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "15-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "15-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "17-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "21-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "26-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "29-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "31-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "6-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "william-desbiens",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "11-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "13-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "13-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "15-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "15-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "17-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "21-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "26-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "29-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "31-12-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "6-6-26",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "lilly-j-rstad",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "simone-mcintosh",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1935-dido-and-aeneas",
+    "work_slug": "henry-purcell/dido-and-aeneas",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1935-dido-and-aeneas",
+    "creative_team": [
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mona-ulrich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nils-voges-sputnic",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katinka-deecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-wolke",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "henry-purcell/dido-and-aeneas/aeneas"
+      },
+      {
+        "person_slug": "michael-dolle",
+        "role_slug": "henry-purcell/dido-and-aeneas/animationswerkstatt"
+      },
+      {
+        "person_slug": "eliza-boom",
+        "role_slug": "henry-purcell/dido-and-aeneas/belinda"
+      },
+      {
+        "person_slug": "aebh-kelly",
+        "role_slug": "henry-purcell/dido-and-aeneas/dido"
+      },
+      {
+        "person_slug": "karl-uhlenbrock",
+        "role_slug": "henry-purcell/dido-and-aeneas/illustrator"
+      },
+      {
+        "person_slug": "kang-seo",
+        "role_slug": "henry-purcell/dido-and-aeneas/seemann"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1936-macbeth",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1936-macbeth",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "11-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "12-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "16-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "17-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "2-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "20-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "22-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "8-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daniele-squeo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tomas-hanus",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rainer-sellmaier",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tobias-kratzer",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-schmidt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-bauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rainer-sellmaier",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chao-deng",
+        "role_slug": "giuseppe-verdi/macbeth/arzt"
+      },
+      {
+        "person_slug": "11-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "12-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "16-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "17-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "2-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "20-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "22-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "8-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "aleksei-kulagin",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "alexander-vinogradov",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "giuseppe-verdi/macbeth/dame-der-lady-macbeth"
+      },
+      {
+        "person_slug": "ferdinand-muradyan",
+        "role_slug": "giuseppe-verdi/macbeth/diener-des-macbeth-morder"
+      },
+      {
+        "person_slug": "nino-machaidze",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "11-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "12-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "16-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "17-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "2-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "20-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "22-9-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "8-10-26",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "kartal-karagedik",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "simon-keenlyside",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "dovlet-nurgel-shy-diyev",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "giuseppe-verdi/macbeth/malcom"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1937-dornroeschen",
+    "work_slug": "engelbert-humperdinck/dornroschen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1937-dornroeschen",
+    "creative_team": [
+      {
+        "person_slug": "paul-calderone",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "markus-poschner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lane-schafer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-bergmann",
+        "function": "director"
+      },
+      {
+        "person_slug": "christo-shy-pher-warmuth",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "henning-streck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jonas-link",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "brigitta-listra",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "clara-kunzke",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "ines-lopez-fernandez",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "kady-evanyshyn",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "katja-pieweck",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "milena-juhl",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "narea-son",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "pavla-mlcakova",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "veselina-teneva",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
+        "person_slug": "tanzer-innen-der-ballettschule-des-hamburg-ballett",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-weitere-prinzen"
+      },
+      {
+        "person_slug": "jan-koester-talking-animals",
+        "role_slug": "engelbert-humperdinck/dornroschen/animation"
+      },
+      {
+        "person_slug": "franziska-machens",
+        "role_slug": "engelbert-humperdinck/dornroschen/armgart-ihre-mutter"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "engelbert-humperdinck/dornroschen/damonia-13-fee"
+      },
+      {
+        "person_slug": "philipp-ple-mann",
+        "role_slug": "engelbert-humperdinck/dornroschen/der-vogt"
+      },
+      {
+        "person_slug": "oleksiy-palchykov",
+        "role_slug": "engelbert-humperdinck/dornroschen/reinhold-prinz"
+      },
+      {
+        "person_slug": "tim-porath",
+        "role_slug": "engelbert-humperdinck/dornroschen/ringold-ihr-vater"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "engelbert-humperdinck/dornroschen/roschen"
+      },
+      {
+        "person_slug": "nicole-heesters",
+        "role_slug": "engelbert-humperdinck/dornroschen/roschen"
+      },
+      {
+        "person_slug": "johannes-hofmann",
+        "role_slug": "engelbert-humperdinck/dornroschen/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1938-petruschka-l-enfant-et-les-sortileges",
+    "work_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1938-petruschka-l-enfant-et-les-sortileges",
+    "creative_team": [
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "11-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "17-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "20-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "25-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "27-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "7-11-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vitali-alekseenok",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katrin-kath",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "esme-appleton",
+        "function": "director"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "function": "director"
+      },
+      {
+        "person_slug": "henriette-von-schnaken-shy-burg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulrich-lenz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "diego-leetz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pia-leong",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/animation"
+      },
+      {
+        "person_slug": "patricia-nolz",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/das-kind"
+      },
+      {
+        "person_slug": "katarina-bradic",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/die-mutter-teetasse-libelle"
+      },
+      {
+        "person_slug": "esme-appleton",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/konzeption"
+      },
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/konzeption"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/konzeption"
+      },
+      {
+        "person_slug": "jurgen-sacher",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/mr-mathe-teekanne-frosch"
+      },
+      {
+        "person_slug": "slava-volkov",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/patap-der-muskelmann"
+      },
+      {
+        "person_slug": "tiago-alexandre-neta-fonseca",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/petruschka-der-clown"
+      },
+      {
+        "person_slug": "pauliina-rasanen",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/ptitschka-die-akrobatin"
+      },
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/schaferin-fledermaus-eule"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/schaukelstuhl-baum"
+      },
+      {
+        "person_slug": "sarah-aristidou",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/sonne-prinzessin-nachtigall"
+      },
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/uhr-schwarzer-kater"
+      },
+      {
+        "person_slug": "ines-lopez-fernandez",
+        "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/wei-e-katze-eichhornchen-stuhl-schafer"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1940-guillaume-tell",
+    "work_slug": "gioachino-rossini/guillaume-tell",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1940-guillaume-tell",
+    "creative_team": [
+      {
+        "person_slug": "demis-volpi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "susanna-malkki",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rainer-sellmaier",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tobias-kratzer",
+        "function": "director"
+      },
+      {
+        "person_slug": "bettina-bartz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "henriette-von-schnaken-shy-burg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "reinhard-traub",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rainer-sellmaier",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lawrence-brownlee",
+        "role_slug": "gioachino-rossini/guillaume-tell/arnold-melchtal"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "gioachino-rossini/guillaume-tell/gesler"
+      },
+      {
+        "person_slug": "jacques-imbrailo",
+        "role_slug": "gioachino-rossini/guillaume-tell/guillaume-tell"
+      },
+      {
+        "person_slug": "19-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "2-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "24-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "25-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "27-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "30-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "4-3-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "5-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "adriana-bignagni-lesca",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "narea-son",
+        "role_slug": "gioachino-rossini/guillaume-tell/jemmy"
+      },
+      {
+        "person_slug": "chao-deng",
+        "role_slug": "gioachino-rossini/guillaume-tell/leuthold"
+      },
+      {
+        "person_slug": "19-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "2-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "24-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "25-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "27-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "30-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "4-3-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "5-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "emily-richter",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "lisette-oropesa",
+        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "gioachino-rossini/guillaume-tell/rodolphe"
+      },
+      {
+        "person_slug": "19-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "2-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "24-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "25-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "27-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "30-1-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "4-3-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "5-2-27",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "jonah-hoskins",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "gioachino-rossini/guillaume-tell/walther-furst"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1941-studio-liebermann",
+    "work_slug": "studio-liebermann",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1941-studio-liebermann",
+    "creative_team": [
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-schmidt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "studio-liebermann/besetzung"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "studio-liebermann/besetzung"
+      },
+      {
+        "person_slug": "oleksiy-palchykov",
+        "role_slug": "studio-liebermann/besetzung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1944-eugen-onegin",
+    "work_slug": "peter-tschaikowsky/eugen-onegin",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1944-eugen-onegin",
+    "creative_team": [
+      {
+        "person_slug": "ivan-estegneev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "16-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "18-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "21-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "23-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "3-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "6-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "9-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jelena-miletic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bastian-kraft",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katinka-deecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bernd-gallasch",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-baur",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jonas-link",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "margarita-nekrasova",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/filipjewna"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/gremin"
+      },
+      {
+        "person_slug": "katja-pieweck",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/larina"
+      },
+      {
+        "person_slug": "dmitry-korchak",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/lenski"
+      },
+      {
+        "person_slug": "aleksan-shy-dra-meteleva",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/olga"
+      },
+      {
+        "person_slug": "andrei-bondarenko",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/onegin"
+      },
+      {
+        "person_slug": "ferdinand-muradyan",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/saretzki"
+      },
+      {
+        "person_slug": "elena-tsalla-shy-gova",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/tatjana"
+      },
+      {
+        "person_slug": "jurgen-sacher",
+        "role_slug": "peter-tschaikowsky/eugen-onegin/triquet"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-1945-stoertebeker",
+    "work_slug": "gordon-kampe/stortebeker",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/1945-stoertebeker",
+    "creative_team": [
+      {
+        "person_slug": "priscilla-prueter",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "karsten-januschke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "martin-g-berger",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sarah-katharina-karl",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vincent-stefan",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "gordon-kampe/stortebeker/alfie-kunigunde"
+      },
+      {
+        "person_slug": "narea-son",
+        "role_slug": "gordon-kampe/stortebeker/biggi"
+      },
+      {
+        "person_slug": "sophia-euskirchen",
+        "role_slug": "gordon-kampe/stortebeker/clara-storti"
+      },
+      {
+        "person_slug": "chor-der-hamburgischen-staatsoper",
+        "role_slug": "gordon-kampe/stortebeker/die-mannschaft-u-a"
+      },
+      {
+        "person_slug": "the-young-classx-jugendchor",
+        "role_slug": "gordon-kampe/stortebeker/die-schulklasse-u-a"
+      },
+      {
+        "person_slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
+        "role_slug": "gordon-kampe/stortebeker/die-zwerge"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "gordon-kampe/stortebeker/frau-sieghard"
+      },
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "gordon-kampe/stortebeker/jorg-michel"
+      },
+      {
+        "person_slug": "elisabeth-holscheidt",
+        "role_slug": "gordon-kampe/stortebeker/jugendchor"
+      },
+      {
+        "person_slug": "ida-aldrian",
+        "role_slug": "gordon-kampe/stortebeker/seeungeheuer-monster-u-a"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "gordon-kampe/stortebeker/seeungeheuer-monster-u-a"
+      },
+      {
+        "person_slug": "peter-galliard",
+        "role_slug": "gordon-kampe/stortebeker/stortebeker"
+      },
+      {
+        "person_slug": "kady-evanyshyn",
+        "role_slug": "gordon-kampe/stortebeker/wendy"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2008-el-cimarron",
+    "work_slug": "hans-werner-henze/el-cimarron",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2008-el-cimarron",
+    "creative_team": [
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lisa-moro",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "matthias-piro",
+        "function": "director"
+      },
+      {
+        "person_slug": "christo-shy-pher-warmuth",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "siegmund-hildebrandt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lisa-moro",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "janic-bebi",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "hans-werner-henze/el-cimarron/el-cimarron"
+      },
+      {
+        "person_slug": "musiker-in-shy-nen-des-philhar-shy-mo-shy-nischen-staats-shy-orchesters-hamburg",
+        "role_slug": "hans-werner-henze/el-cimarron/flote-gitarre-schlagzeug"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2011-sneak-klub",
+    "work_slug": "sneak-klub",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2011-sneak-klub",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484854-fuehrungen-fuer-kitagruppen-und-grundschulen",
+    "work_slug": "fuhrungen-fur-kita-shy-gruppen-und-grund-shy-schulen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484854-fuehrungen-fuer-kitagruppen-und-grundschulen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484891-schulklassenbesuche-zu-den-generalproben",
+    "work_slug": "schulklassen-shy-besuche-zu-den-generalproben",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484891-schulklassenbesuche-zu-den-generalproben",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484973-meet-the-artists-daniel-kluge",
+    "work_slug": "meet-the-artists-daniel-kluge",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484973-meet-the-artists-daniel-kluge",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "meet-the-artists-daniel-kluge/kunstler"
+      },
+      {
+        "person_slug": "bettina-giese",
+        "role_slug": "meet-the-artists-daniel-kluge/moderatorin"
+      },
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "meet-the-artists-daniel-kluge/sanger-in"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484974-meet-the-artists-juergen-sacher",
+    "work_slug": "meet-the-artists-jurgen-sacher",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484974-meet-the-artists-juergen-sacher",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "jurgen-sacher",
+        "role_slug": "meet-the-artists-jurgen-sacher/kunstler"
+      },
+      {
+        "person_slug": "bettina-giese",
+        "role_slug": "meet-the-artists-jurgen-sacher/moderatorin"
+      },
+      {
+        "person_slug": "jurgen-sacher",
+        "role_slug": "meet-the-artists-jurgen-sacher/sanger-in"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484975-meet-the-artists-hellen-kwon",
+    "work_slug": "meet-the-artists-hellen-kwon",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484975-meet-the-artists-hellen-kwon",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "meet-the-artists-hellen-kwon/kunstlerin"
+      },
+      {
+        "person_slug": "bettina-giese",
+        "role_slug": "meet-the-artists-hellen-kwon/moderatorin"
+      },
+      {
+        "person_slug": "hellen-kwon",
+        "role_slug": "meet-the-artists-hellen-kwon/sanger-in"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484983-probenbesuche-am-vormittag",
+    "work_slug": "proben-shy-besuche-am-vormittag",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484983-probenbesuche-am-vormittag",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484988-fuehrungen-fuer-weiterfuehrende-schulen",
+    "work_slug": "fuhrungen-fur-weiter-shy-fuhrende-schulen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484988-fuehrungen-fuer-weiterfuehrende-schulen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484989-alles-lyrisch",
+    "work_slug": "alles-lyrisch",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484989-alles-lyrisch",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484991-podiumsdiskussion-wie-politisch-kann-muss-sollte-musiktheater-sein",
+    "work_slug": "podiums-shy-diskussion-wie-politisch-kann-muss-sollte-musik-shy-theater-sein",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484991-podiumsdiskussion-wie-politisch-kann-muss-sollte-musiktheater-sein",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-287-alsterspatzenkonzert-wie-lernt-man-fliegen",
+    "work_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/287-alsterspatzenkonzert-wie-lernt-man-fliegen",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "ehemaligen-alsterspatzen",
+        "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/gaste"
+      },
+      {
+        "person_slug": "ella-rosenberg",
+        "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/klavier"
+      },
+      {
+        "person_slug": "priscilla-prueter",
+        "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/leitung"
+      },
+      {
+        "person_slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
+        "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/sanger-innen"
+      },
+      {
+        "person_slug": "clemens-bergemann",
+        "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/unter-der-leitung-von"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-297-konzert-des-internationalen-opernstudios",
+    "work_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/297-konzert-des-internationalen-opernstudios",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "georgiy-dubko",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/klavier"
+      },
+      {
+        "person_slug": "aebh-kelly",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      },
+      {
+        "person_slug": "marie-maidowski",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      },
+      {
+        "person_slug": "william-desbiens",
+        "role_slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios/sanger-innen"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3019-alleine",
+    "work_slug": "alleine",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3019-alleine",
+    "creative_team": [
+      {
+        "person_slug": "sophiemarie-won",
+        "function": "director"
+      },
+      {
+        "person_slug": "michelle-stoop",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "heja-netirk",
+        "role_slug": "alleine/mit"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "alleine/mit"
+      },
+      {
+        "person_slug": "johannes-harneit",
+        "role_slug": "alleine/musikalische-beratung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3021-fortbildung-fuer-lehrer-innen",
+    "work_slug": "fortbildung-fur-lehrer-innen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3021-fortbildung-fuer-lehrer-innen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3022-workshop-fuer-familien",
+    "work_slug": "workshop-fur-familien",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3022-workshop-fuer-familien",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3034-politische-perspektiven",
+    "work_slug": "politische-perspektiven",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3034-politische-perspektiven",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3121-wir-bauen-eine-neue-stadt",
+    "work_slug": "wir-bauen-eine-neue-stadt",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3121-wir-bauen-eine-neue-stadt",
+    "creative_team": [
+      {
+        "person_slug": "10-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "11-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "14-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "15-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "7-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "8-10-26",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "priscilla-prueter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "miranda-simon-abello",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michelle-stoop",
+        "function": "director"
+      },
+      {
+        "person_slug": "maike-graf",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "miranda-simon-abello",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3133-ebbe-und-flut",
+    "work_slug": "ebbe-und-flut",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3133-ebbe-und-flut",
+    "creative_team": [
+      {
+        "person_slug": "daniella-strasfogel",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lisa-futterer",
+        "role_slug": "ebbe-und-flut/ausstattung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3142-lab-alle-an-deck",
+    "work_slug": "lab-alle-an-deck",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3142-lab-alle-an-deck",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "in-operabilities",
+        "role_slug": "lab-alle-an-deck/kunstlerische-leitung"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-3147-let-s-have-a-kiki",
+    "work_slug": "let-s-have-a-kiki",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3147-let-s-have-a-kiki",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-368-la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/368-la-boheme",
+    "creative_team": [
+      {
+        "person_slug": "priscilla-prueter",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "andrew-george",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "keren-kagarlitsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jorge-jara",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "guy-joosten",
+        "function": "director"
+      },
+      {
+        "person_slug": "davy-cunningham",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ferdinand-muradyan",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "andrei-bondarenko",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "narea-son",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "kang-seo",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "won-whi-choi",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-381-tristan-und-isolde",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/381-tristan-und-isolde",
+    "creative_team": [
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marie-luise-strandt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ruth-berghaus",
+        "function": "director"
+      },
+      {
+        "person_slug": "sigrid-neef",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hans-dieter-schaal",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "richard-wagner/tristan-und-isolde/brangane"
+      },
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "richard-wagner/tristan-und-isolde/ein-hirt"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "richard-wagner/tristan-und-isolde/ein-steuermann"
+      },
+      {
+        "person_slug": "14-6-26",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "21-6-26",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "7-6-26",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "allison-oakes",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "catherine-foster",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "franz-josef-selig",
+        "role_slug": "richard-wagner/tristan-und-isolde/konig-marke"
+      },
+      {
+        "person_slug": "christoph-pohl",
+        "role_slug": "richard-wagner/tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "richard-wagner/tristan-und-isolde/melot"
+      },
+      {
+        "person_slug": "marie-luise-strandt",
+        "role_slug": "richard-wagner/tristan-und-isolde/requisiten"
+      },
+      {
+        "person_slug": "dovlet-nurgel-shy-diyev",
+        "role_slug": "richard-wagner/tristan-und-isolde/stimme-eines-jungen-seemanns"
+      },
+      {
+        "person_slug": "samuel-sakker",
+        "role_slug": "richard-wagner/tristan-und-isolde/tristan"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-452-un-ballo-in-maschera",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/452-un-ballo-in-maschera",
+    "creative_team": [
+      {
+        "person_slug": "catharina-luhr",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "12-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "17-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "2-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "6-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "7-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "francesco-ivan-ciampa",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-ranzani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "moidele-bickel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexander-schulin",
+        "function": "director"
+      },
+      {
+        "person_slug": "heinrich-brunke",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "richard-peduzzi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "12-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "17-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "2-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "6-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "7-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "leah-hawkins",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/christiano"
+      },
+      {
+        "person_slug": "12-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "17-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "2-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "6-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "7-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "anthony-ciaramitaro",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "michael-fabiano",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
+      },
+      {
+        "person_slug": "alexey-markov",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/il-conte-di-anckarstrom"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/il-conte-di-horn"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/il-conte-di-ribbing"
+      },
+      {
+        "person_slug": "bernard-giraud",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/mitarbeit-buhne"
+      },
+      {
+        "person_slug": "narea-son",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "12-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "17-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "2-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "6-4-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "7-2-27",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-529-il-turco-in-italia",
+    "work_slug": "gioachino-rossini/il-turco-in-italia",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/529-il-turco-in-italia",
+    "creative_team": [
+      {
+        "person_slug": "jacqueline-davenport",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-lanzillotta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "herbert-barz-murauer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christof-loy",
+        "function": "director"
+      },
+      {
+        "person_slug": "reinhard-traub",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "herbert-barz-murauer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/albazar"
+      },
+      {
+        "person_slug": "marco-filippo-romano",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/don-geronio"
+      },
+      {
+        "person_slug": "levy-sekgapane",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/don-narciso"
+      },
+      {
+        "person_slug": "julie-fuchs",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/donna-fiorilla"
+      },
+      {
+        "person_slug": "andrew-hamilton",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/prosdocimo"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/selim"
+      },
+      {
+        "person_slug": "kady-evanyshyn",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/zaida"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-652-luisa-miller",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/652-luisa-miller",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "henrik-nanasi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gideon-davey",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-homoki",
+        "function": "director"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paul-zoller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kristina-stanek",
+        "role_slug": "giuseppe-verdi/luisa-miller/federica"
+      },
+      {
+        "person_slug": "gabor-bretz",
+        "role_slug": "giuseppe-verdi/luisa-miller/il-conte-di-walter"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "giuseppe-verdi/luisa-miller/laura"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa"
+      },
+      {
+        "person_slug": "pavel-yankovsky",
+        "role_slug": "giuseppe-verdi/luisa-miller/miller"
+      },
+      {
+        "person_slug": "hovhannes-ayvazyan",
+        "role_slug": "giuseppe-verdi/luisa-miller/rodolfo"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "giuseppe-verdi/luisa-miller/un-contadino"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "giuseppe-verdi/luisa-miller/wurm"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-684-le-nozze-di-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/684-le-nozze-di-figaro",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gesine-vollm",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "director"
+      },
+      {
+        "person_slug": "alexander-meier-dorzen-shy-bach",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-hofer-phoenix",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christof-hetzer",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "torge-m-ller",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ferdinand-muradyan",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/antonio"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/barbarina"
+      },
+      {
+        "person_slug": "tigran-martiros-shy-sian",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/basilio"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "kang-seo",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-curzio"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "kartal-karagedik",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/il-conte-d-almaviva"
+      },
+      {
+        "person_slug": "15-4-27",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "17-4-27",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "23-4-27",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "25-4-27",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "julia-kleiter",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "mathilda-sterby",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
+      },
+      {
+        "person_slug": "brigitta-listra",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "marie-maidowski",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-752-don-giovanni",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/752-don-giovanni",
+    "creative_team": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "1-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "19-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "24-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "29-9-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "4-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "7-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "9-10-26",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tohar-gil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kathrin-plath",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-bosse",
+        "function": "director"
+      },
+      {
+        "person_slug": "janina-zell",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kevin-sock",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stephane-laime",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jan-speckenbach",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anne-muller",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/amor-tod"
+      },
+      {
+        "person_slug": "andrzej-filonczyk",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "dovlet-nurgel-shy-diyev",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "angela-brower",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "harf-zimmermann",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/fotografie"
+      },
+      {
+        "person_slug": "1-10-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "19-9-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "24-9-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "29-9-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "4-10-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "7-10-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "9-10-26",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "morris-robinson",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "hubert-kowal-shy-czyk",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "kady-evanyshyn",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-775-lucia-di-lammermoor",
+    "work_slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/775-lucia-di-lammermoor",
+    "creative_team": [
+      {
+        "person_slug": "dustin-klein",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kirsten-dephoff",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "amelie-niermeyer",
+        "function": "director"
+      },
+      {
+        "person_slug": "rainer-karlitschek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-speckenbach",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christian-schmidt",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jan-speckenbach",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aebh-kelly",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/alisa"
+      },
+      {
+        "person_slug": "daniele-squeo",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/dirigat"
+      },
+      {
+        "person_slug": "colin-aikins",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/lord-arturo-bucklaw"
+      },
+      {
+        "person_slug": "alexey-markov",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/lord-enrico-ashton"
+      },
+      {
+        "person_slug": "liv-redpath",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/lucia"
+      },
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/normanno"
+      },
+      {
+        "person_slug": "liang-li",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/raimondo-bidebent"
+      },
+      {
+        "person_slug": "oleksiy-palchykov",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/sir-edgardo-di-ravenswood"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-783-die-entfuehrung-aus-dem-serail",
+    "work_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/783-die-entfuehrung-aus-dem-serail",
+    "creative_team": [
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "keren-kagarlitsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernd-gallasch",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "falko-herold",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/ausstattung"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/ausstattung"
+      },
+      {
+        "person_slug": "dovlet-nurgel-shy-diyev",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/belmonte"
+      },
+      {
+        "person_slug": "alexandra-nowakowski",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/blonde"
+      },
+      {
+        "person_slug": "katharina-konradi",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/konstanze"
+      },
+      {
+        "person_slug": "timo-riihonen",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/osmin"
+      },
+      {
+        "person_slug": "daniel-kluge",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/pedrillo"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-796-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/796-carmen",
+    "creative_team": [
+      {
+        "person_slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "priscilla-prueter",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "chor-der-hamburgischen-staatsoper",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christian-gunther",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "10-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "19-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "28-2-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "31-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "4-4-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "5-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "8-3-27",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jose-luna",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "herbert-fritsch",
+        "function": "director"
+      },
+      {
+        "person_slug": "sabrina-zwach",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "carsten-sander",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "herbert-fritsch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "10-4-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "19-3-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "28-2-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "31-3-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "4-4-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "5-3-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "8-3-27",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "eve-maud-hubeaux",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "stephen-costello",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "10-4-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "19-3-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "28-2-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "31-3-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "4-4-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "5-3-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "8-3-27",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "andrei-bonda-shy-renko",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "erwin-schrott",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "mariana-poltorak",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "aebh-kelly",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "eliza-boom",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "sascha-alexander-todtner",
+        "role_slug": "georges-bizet/carmen/mitarbeit-regie"
+      },
+      {
+        "person_slug": "nicholas-mogg",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "georges-bizet/carmen/orchester"
+      },
+      {
+        "person_slug": "peter-galliard",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  }
+]

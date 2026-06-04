@@ -1,0 +1,2474 @@
+[
+  {
+    "id": "oper-koeln/47-rotkreuz-gala/2026-12-13/11:00",
+    "production_id": "oper-koeln/47-rotkreuz-gala",
+    "date": "2026-12-13",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/aidas-rivalin/2026-06-04/18:00",
+    "production_id": "oper-koeln/aidas-rivalin",
+    "date": "2026-06-04",
+    "time": "18:00",
+    "venue_room": "Theater im Bauturm",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/aidas-rivalin/2026-06-06/20:00",
+    "production_id": "oper-koeln/aidas-rivalin",
+    "date": "2026-06-06",
+    "time": "20:00",
+    "venue_room": "Theater im Bauturm",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/aidas-rivalin/2026-06-07/18:00",
+    "production_id": "oper-koeln/aidas-rivalin",
+    "date": "2026-06-07",
+    "time": "18:00",
+    "venue_room": "Theater im Bauturm",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-23/10:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-23",
+    "time": "10:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-23/11:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-23",
+    "time": "11:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-28/10:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-28",
+    "time": "10:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-28/11:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-28",
+    "time": "11:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-29/15:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-29",
+    "time": "15:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-01-29/16:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-01-29",
+    "time": "16:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-15/10:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-15",
+    "time": "10:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-15/11:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-15",
+    "time": "11:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-16/15:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-16",
+    "time": "15:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-16/16:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-16",
+    "time": "16:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-19/15:00",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-19",
+    "time": "15:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/alles-was-klingt/2027-04-19/16:30",
+    "production_id": "oper-koeln/alles-was-klingt",
+    "date": "2027-04-19",
+    "time": "16:30",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/cosi-fan-tutte/2027-04-10/19:30",
+    "production_id": "oper-koeln/cosi-fan-tutte",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/cosi-fan-tutte/2027-04-15/19:30",
+    "production_id": "oper-koeln/cosi-fan-tutte",
+    "date": "2027-04-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/cosi-fan-tutte/2027-04-24/19:30",
+    "production_id": "oper-koeln/cosi-fan-tutte",
+    "date": "2027-04-24",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/cosi-fan-tutte/2027-05-08/19:30",
+    "production_id": "oper-koeln/cosi-fan-tutte",
+    "date": "2027-05-08",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-03/16:00",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-03",
+    "time": "16:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-08/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-08",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-13/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-13",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-14/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-14",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-16/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-16",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-18/15:00",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-18",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-20/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-20",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-22/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-22",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-25/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-25",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-27/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-27",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-28/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-28",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/das-grand-hotel-der-gefuhle/2027-04-30/11:30",
+    "production_id": "oper-koeln/das-grand-hotel-der-gefuhle",
+    "date": "2027-04-30",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-10/15:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-10",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-11/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-11",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-11/15:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-11",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-14/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-14",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-15/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-15",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-17/15:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-17",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-18/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-18",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-20/18:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-20",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-21/18:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-21",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-25/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-25",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-10-30/18:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-10-30",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-04/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-04",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-05/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-05",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-06/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-06",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-07/15:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-07",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-09/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-09",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-10/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-10",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-12/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-12",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-15/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-15",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-11-19/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-11-19",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-01/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-01",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-09/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-09",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-10/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-10",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-11/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-11",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-14/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-14",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-15/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-15",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-18/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-18",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-21/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-21",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-27/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-27",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-29/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-29",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2026-12-30/15:00",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2026-12-30",
+    "time": "15:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-konig-verschenkt-was/2027-01-02/11:30",
+    "production_id": "oper-koeln/der-konig-verschenkt-was",
+    "date": "2027-01-02",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-09-27/16:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-09-27",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-10-01/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-10-01",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-10-16/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-10-16",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-10-18/16:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-10-18",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-10-24/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-10-24",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-10-31/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-10-31",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-11-13/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-11-13",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-11-29/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-11-29",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-12-12/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-12-12",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/der-rosenkavalier/2026-12-20/18:00",
+    "production_id": "oper-koeln/der-rosenkavalier",
+    "date": "2026-12-20",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/dido-aeneas/2027-07-14/19:30",
+    "production_id": "oper-koeln/dido-aeneas",
+    "date": "2027-07-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/dido-aeneas/2027-07-15/19:30",
+    "production_id": "oper-koeln/dido-aeneas",
+    "date": "2027-07-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-06-20/18:00",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-06-20",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-06-23/19:30",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-06-23",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-07-02/19:30",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-07-02",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-07-08/19:30",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-07-08",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-07-11/18:00",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-07-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-kronung-der-poppea/2027-07-17/19:30",
+    "production_id": "oper-koeln/die-kronung-der-poppea",
+    "date": "2027-07-17",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-05-27/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-05-27",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-05-28/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-05-28",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-05-30/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-05-30",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-03/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-03",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-04/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-04",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-05/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-05",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-09/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-09",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-10/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-10",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-13/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-13",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-15/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-15",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-22/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-22",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-24/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-24",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-25/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-25",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-28/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-28",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-29/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-29",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-06-30/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-06-30",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-06/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-06",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-10/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-10",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-13/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-13",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-14/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-14",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-15/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-15",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-nachtigall/2027-07-18/11:30",
+    "production_id": "oper-koeln/die-nachtigall",
+    "date": "2027-07-18",
+    "time": "11:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-02-28/18:00",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-02-28",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-03-05/19:30",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-03-05",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-03-07/18:00",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-03-07",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-03-13/19:30",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-03-13",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-03-20/19:30",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-03-20",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-03-28/18:00",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-03-28",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-04-16/19:30",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-04-16",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-04-18/16:00",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-04-18",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-verkaufte-braut/2027-04-25/18:00",
+    "production_id": "oper-koeln/die-verkaufte-braut",
+    "date": "2027-04-25",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-13/19:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-13",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-16/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-16",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-18/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-18",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-23/18:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-23",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-25/15:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-25",
+    "time": "15:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-27/15:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-27",
+    "time": "15:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2026-12-29/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2027-01-01/16:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2027-01-01",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2027-02-12/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2027-02-12",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2027-03-14/18:00",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2027-03-14",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2027-03-19/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2027-03-19",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/die-zauberflote/2027-03-27/19:30",
+    "production_id": "oper-koeln/die-zauberflote",
+    "date": "2027-03-27",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/drei-meisterwerke/2026-10-10/19:30",
+    "production_id": "oper-koeln/drei-meisterwerke",
+    "date": "2026-10-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/drei-meisterwerke/2026-10-11/18:00",
+    "production_id": "oper-koeln/drei-meisterwerke",
+    "date": "2026-10-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2026-10-18/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2026-10-18",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2026-10-25/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2026-10-25",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2026-11-07/14:00",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2026-11-07",
+    "time": "14:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2027-04-18/14:00",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2027-04-18",
+    "time": "14:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2027-04-25/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2027-04-25",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2027-06-05/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2027-06-05",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2027-06-13/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2027-06-13",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/einfuhrung-fur-familien-whoosh/2027-07-10/10:30",
+    "production_id": "oper-koeln/einfuhrung-fur-familien-whoosh",
+    "date": "2027-07-10",
+    "time": "10:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/eroffnungsfest-der-buhnen/2026-09-19/12:00",
+    "production_id": "oper-koeln/eroffnungsfest-der-buhnen",
+    "date": "2026-09-19",
+    "time": "12:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/eroffnungsfest-der-buhnen/2026-09-20/11:00",
+    "production_id": "oper-koeln/eroffnungsfest-der-buhnen",
+    "date": "2026-09-20",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2026-10-18/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2026-10-18",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2026-10-25/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2026-10-25",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2026-11-07/12:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2026-11-07",
+    "time": "12:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2027-04-18/12:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2027-04-18",
+    "time": "12:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2027-04-25/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2027-04-25",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2027-06-05/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2027-06-05",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2027-06-13/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2027-06-13",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/familienfuhrung/2027-07-10/14:00",
+    "production_id": "oper-koeln/familienfuhrung",
+    "date": "2027-07-10",
+    "time": "14:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/fest-der-operette/2026-10-04/18:00",
+    "production_id": "oper-koeln/fest-der-operette",
+    "date": "2026-10-04",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/festakt-der-buhnen/2026-09-24/19:00",
+    "production_id": "oper-koeln/festakt-der-buhnen",
+    "date": "2026-09-24",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-23/11:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-23",
+    "time": "11:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-24/11:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-24",
+    "time": "11:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-25/11:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-25",
+    "time": "11:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-26/11:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-26",
+    "time": "11:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-27/11:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-27/15:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-27",
+    "time": "15:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen/2026-06-28/15:00",
+    "production_id": "oper-koeln/freikugeln-der-freischutz-in-funf-dimensionen",
+    "date": "2026-06-28",
+    "time": "15:00",
+    "venue_room": "Comedia Theater ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-11-28/18:00",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-11-28",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-02/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-02",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-04/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-04",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-10/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-17/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-17",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-19/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-19",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-22/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-22",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-26/15:00",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-26",
+    "time": "15:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2026-12-31/18:00",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2026-12-31",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2027-01-03/16:00",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2027-01-03",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2027-02-14/18:00",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2027-02-14",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/hoffmanns-erzahlungen/2027-02-27/19:30",
+    "production_id": "oper-koeln/hoffmanns-erzahlungen",
+    "date": "2027-02-27",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-11-01/18:00",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-11-01",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-11-05/19:30",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-11-05",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-11-08/16:00",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-11-14/19:30",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-11-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-11-27/19:30",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-11-27",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-12-06/18:00",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-12-06",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-12-15/19:30",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-12-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kain-und-abel/2026-12-30/19:30",
+    "production_id": "oper-koeln/kain-und-abel",
+    "date": "2026-12-30",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kasalla-nit-esu-laut/2027-06-28/20:00",
+    "production_id": "oper-koeln/kasalla-nit-esu-laut",
+    "date": "2027-06-28",
+    "time": "20:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kasalla-nit-esu-laut/2027-06-29/20:00",
+    "production_id": "oper-koeln/kasalla-nit-esu-laut",
+    "date": "2027-06-29",
+    "time": "20:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/kasalla-nit-esu-laut/2027-06-30/20:00",
+    "production_id": "oper-koeln/kasalla-nit-esu-laut",
+    "date": "2027-06-30",
+    "time": "20:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-01-18/18:00",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-01-18",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-01-24/18:00",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-01-24",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-01-28/19:30",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-01-28",
+    "time": "19:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-01-30/19:30",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-02-05/19:30",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-02-07/18:00",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-02-07",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-02-12/19:30",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-02-12",
+    "time": "19:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/la-piccola-cubana/2027-02-14/18:00",
+    "production_id": "oper-koeln/la-piccola-cubana",
+    "date": "2027-02-14",
+    "time": "18:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-05-02/18:00",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-05-02",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-05-07/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-05-07",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-05-15/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-05-27/18:00",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-05-27",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-05-30/18:00",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-05-30",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-06-03/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-06-03",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-06-11/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-06-11",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-06-27/16:00",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-06-27",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-07-03/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-07-03",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/macbeth/2027-07-10/19:30",
+    "production_id": "oper-koeln/macbeth",
+    "date": "2027-07-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-06-06/18:00",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-06-06",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-06-10/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-06-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-06-13/18:00",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-06-13",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-06-19/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-06-19",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-06-25/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-06-25",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-07-01/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-07-01",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-07-04/18:00",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-07-04",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-07-09/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-07-09",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-07-16/19:30",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-07-16",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/madama-butterfly/2027-07-18/16:00",
+    "production_id": "oper-koeln/madama-butterfly",
+    "date": "2027-07-18",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/marla-die-maifliege/2026-11-26/11:30",
+    "production_id": "oper-koeln/marla-die-maifliege",
+    "date": "2026-11-26",
+    "time": "11:30",
+    "venue_room": "Gastspiel Oper",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/marla-die-maifliege/2026-11-27/11:30",
+    "production_id": "oper-koeln/marla-die-maifliege",
+    "date": "2026-11-27",
+    "time": "11:30",
+    "venue_room": "Gastspiel Oper",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/marla-die-maifliege/2026-12-02/11:30",
+    "production_id": "oper-koeln/marla-die-maifliege",
+    "date": "2026-12-02",
+    "time": "11:30",
+    "venue_room": "Gastspiel Oper",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/marla-die-maifliege/2026-12-03/11:30",
+    "production_id": "oper-koeln/marla-die-maifliege",
+    "date": "2026-12-03",
+    "time": "11:30",
+    "venue_room": "Gastspiel Oper",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-03-06/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-03-11/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-03-11",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-03-12/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-03-12",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-03-21/18:00",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-03-21",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-03-29/18:00",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-03-29",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-04-03/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-04-03",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-04-11/18:00",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-04-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-04-23/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-04-23",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-05-23/18:00",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-05-23",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-05-29/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-05-29",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-06-08/11:00",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-06-08",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-06-12/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-06-12",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-06-24/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-06-24",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-06-26/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-06-26",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-07-06/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-07-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/my-fair-lady/2027-07-07/19:30",
+    "production_id": "oper-koeln/my-fair-lady",
+    "date": "2027-07-07",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor/2026-06-09/17:30",
+    "production_id": "oper-koeln/neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor",
+    "date": "2026-06-09",
+    "time": "17:30",
+    "venue_room": "Stadtwald",
+    "status": "sold_out"
+  },
+  {
+    "id": "oper-koeln/notte-morricone/2027-02-20/19:30",
+    "production_id": "oper-koeln/notte-morricone",
+    "date": "2027-02-20",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/notte-morricone/2027-02-21/18:00",
+    "production_id": "oper-koeln/notte-morricone",
+    "date": "2027-02-21",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festval/2026-11-16/12:00",
+    "production_id": "oper-koeln/power-up-demokratie-festval",
+    "date": "2026-11-16",
+    "time": "12:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festval/2026-11-17/13:00",
+    "production_id": "oper-koeln/power-up-demokratie-festval",
+    "date": "2026-11-17",
+    "time": "13:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festval/2026-11-18/13:00",
+    "production_id": "oper-koeln/power-up-demokratie-festval",
+    "date": "2026-11-18",
+    "time": "13:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festval/2026-11-20/13:00",
+    "production_id": "oper-koeln/power-up-demokratie-festval",
+    "date": "2026-11-20",
+    "time": "13:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2026-10-18/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2026-10-18",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2026-10-25/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2026-10-25",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2026-11-07/16:00",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2026-11-07",
+    "time": "16:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2027-04-18/16:00",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2027-04-18",
+    "time": "16:00",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2027-04-25/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2027-04-25",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2027-06-05/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2027-06-05",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2027-06-13/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2027-06-13",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand/2027-07-10/12:30",
+    "production_id": "oper-koeln/publikumsgesprach-plausch-am-buhnenrand",
+    "date": "2027-07-10",
+    "time": "12:30",
+    "venue_room": "Kinderoper Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/reversible-mambo-3xxi/2026-11-21/19:30",
+    "production_id": "oper-koeln/reversible-mambo-3xxi",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/reversible-mambo-3xxi/2026-11-22/18:00",
+    "production_id": "oper-koeln/reversible-mambo-3xxi",
+    "date": "2026-11-22",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-03/18:00",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-03",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-07/19:30",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-07",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-17/19:30",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-17",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-23/19:30",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-23",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-25/18:00",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-25",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-10-29/19:30",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-10-29",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-11-06/19:30",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rigoletto/2026-11-15/18:00",
+    "production_id": "oper-koeln/rigoletto",
+    "date": "2026-11-15",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rusalka/2027-05-16/18:00",
+    "production_id": "oper-koeln/rusalka",
+    "date": "2027-05-16",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rusalka/2027-05-22/19:00",
+    "production_id": "oper-koeln/rusalka",
+    "date": "2027-05-22",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rusalka/2027-05-28/19:00",
+    "production_id": "oper-koeln/rusalka",
+    "date": "2027-05-28",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/rusalka/2027-06-05/19:00",
+    "production_id": "oper-koeln/rusalka",
+    "date": "2027-06-05",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-04-04/16:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-04-04",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-04-09/18:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-04-09",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-04-17/17:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-04-17",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-04-29/18:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-04-29",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-05-06/16:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-05-06",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-05-09/17:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-05-09",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/siegfried/2027-05-17/16:00",
+    "production_id": "oper-koeln/siegfried",
+    "date": "2027-05-17",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/sing-halleluja/2026-12-05/18:00",
+    "production_id": "oper-koeln/sing-halleluja",
+    "date": "2026-12-05",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/sing-halleluja/2026-12-06/11:00",
+    "production_id": "oper-koeln/sing-halleluja",
+    "date": "2026-12-06",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2026-06-12/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "venue_room": "StaatenHaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2026-09-22/17:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2026-09-22",
+    "time": "17:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2026-10-27/17:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2026-10-27",
+    "time": "17:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2026-11-19/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2026-11-19",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2027-02-18/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2027-02-18",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2027-03-24/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2027-03-24",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2027-04-27/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2027-04-27",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/soiree-mit-offentlicher-probe/2027-06-01/18:00",
+    "production_id": "oper-koeln/soiree-mit-offentlicher-probe",
+    "date": "2027-06-01",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-06-21/18:00",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-06-23/19:30",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-06-23",
+    "time": "19:30",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-06-25/19:30",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-06-25",
+    "time": "19:30",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-06-28/18:00",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-07-01/19:30",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-07-01",
+    "time": "19:30",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-07-03/19:30",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-07-03",
+    "time": "19:30",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/tancredi/2026-07-05/19:00",
+    "production_id": "oper-koeln/tancredi",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/turandot/2026-06-04/18:00",
+    "production_id": "oper-koeln/turandot",
+    "date": "2026-06-04",
+    "time": "18:00",
+    "venue_room": "StaatenHaus Saal 1",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/turandot/2026-06-07/18:00",
+    "production_id": "oper-koeln/turandot",
+    "date": "2026-06-07",
+    "time": "18:00",
+    "venue_room": "StaatenHaus Saal 1",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-10/18:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-10",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-12/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-12",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-13/19:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-13",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-14/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-15/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-16/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-16",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-17/11:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-17",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-17/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-17",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-19/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-19",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-20/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-20",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-21/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-21",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-22/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-22",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-23/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-23",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-24/11:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-24",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-24/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-24",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-26/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-26",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-27/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-27",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-28/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-28",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-29/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-29",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-31/11:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-31",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-01-31/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-01-31",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-02/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-02",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-03/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-03",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-04/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-04",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-05/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-07/11:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-07",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-07/16:00",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-07",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/wat-e-thiater/2027-02-09/19:30",
+    "production_id": "oper-koeln/wat-e-thiater",
+    "date": "2027-02-09",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/weihnachtskonzert-opernfreunde/2026-12-14/18:00",
+    "production_id": "oper-koeln/weihnachtskonzert-opernfreunde",
+    "date": "2026-12-14",
+    "time": "18:00",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  }
+]

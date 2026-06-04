@@ -1,0 +1,2876 @@
+[
+  {
+    "id": "oper-frankfurt/1-sinfoniekonzert-2",
+    "work_slug": "1-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/1-sinfoniekonzert_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/10-sinfoniekonzert",
+    "work_slug": "10-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/10-sinfoniekonzert/",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-weigle",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/10-sinfoniekonzert-2026-27",
+    "work_slug": "10-sinfoniekonzert-2026-27",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/10-sinfoniekonzert-2026/27/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/2-sinfoniekonzert-2",
+    "work_slug": "2-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/2-sinfoniekonzert_2/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/3-sinfoniekonzert-2",
+    "work_slug": "3-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/3-sinfoniekonzert_2/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/4-sinfoniekonzert-2",
+    "work_slug": "4-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/4-sinfoniekonzert_2/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/5-sinfoniekonzert-2",
+    "work_slug": "5-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/5-sinfoniekonzert_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/6-sinfoniekonzert-2",
+    "work_slug": "6-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/6-sinfoniekonzert_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/7-sinfoniekonzert-2",
+    "work_slug": "7-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/7-sinfoniekonzert_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/8-sinfoniekonzert-2",
+    "work_slug": "8-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/8-sinfoniekonzert_2/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/9-sinfoniekonzert-2026-27",
+    "work_slug": "9-sinfoniekonzert-2026-27",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/9-sinfoniekonzert-2026/27/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/aida-3",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/aida_3/",
+    "creative_team": [
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "pier-giorgio-morandi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "siegfried-zoller",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lydia-steier",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "katharina-schlipf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nombulelo-yende",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "sofija-petrovic",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "iain-macneil",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "giuseppe-verdi/aida/der-konig-von-agypten"
+      },
+      {
+        "person_slug": "kudaibergen-abildin",
+        "role_slug": "giuseppe-verdi/aida/ein-bote"
+      },
+      {
+        "person_slug": "alina-avagyan",
+        "role_slug": "giuseppe-verdi/aida/eine-priesterin"
+      },
+      {
+        "person_slug": "young-woo-kim",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/alcina-2",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/alcina_2/",
+    "creative_team": [
+      {
+        "person_slug": "julia-jones",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "johannes-erath",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bibi-abel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "georg-friedrich-handel/alcina/alcina"
+      },
+      {
+        "person_slug": "katharina-magiera",
+        "role_slug": "georg-friedrich-handel/alcina/bradamante"
+      },
+      {
+        "person_slug": "erik-van-heyningen",
+        "role_slug": "georg-friedrich-handel/alcina/melisso"
+      },
+      {
+        "person_slug": "younji-yi",
+        "role_slug": "georg-friedrich-handel/alcina/morgana"
+      },
+      {
+        "person_slug": "karolina-bengtsson",
+        "role_slug": "georg-friedrich-handel/alcina/oberto"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "georg-friedrich-handel/alcina/oronte"
+      },
+      {
+        "person_slug": "elmar-hauser",
+        "role_slug": "georg-friedrich-handel/alcina/ruggiero"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/backstage-fuehrung",
+    "work_slug": "backstage-fuhrung",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/backstage-fuehrung/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/backstage-fuehrung-fuer-abonnentinnen",
+    "work_slug": "backstage-fuhrung-fur-abonnent-innen",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/backstage-fuehrung-fuer-abonnentinnen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/battaglia-die-frauen-von-palermo",
+    "work_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/battaglia-die-frauen-von-palermo/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michael-wendeberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-kudrna",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "claus-guth",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "heike-vollmer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "juanita-lascarro",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/alte-frau-witwe-eines-mafioso"
+      },
+      {
+        "person_slug": "anna-nekhames",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/eine-junge-frau-letizias-alter-ego"
+      },
+      {
+        "person_slug": "cecelia-hall",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/frau-eines-ermordeten-richters"
+      },
+      {
+        "person_slug": "megumi-kasakawa",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/letizia-battaglia"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/lotse"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/mutter-eines-mordopfers"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo/schwester-eines-raquo-pentito-laquo"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/bluthochzeit",
+    "work_slug": "wolfgang-fortner/bluthochzeit",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/bluthochzeit/",
+    "creative_team": [
+      {
+        "person_slug": "alvaro-corral-matute",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "duncan-ward",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lluc-castells",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alex-olle",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "wolfgang-fortner/bluthochzeit/braut"
+      },
+      {
+        "person_slug": "christian-clau",
+        "role_slug": "wolfgang-fortner/bluthochzeit/brautigam"
+      },
+      {
+        "person_slug": "jonas-muller-dongsu-lee-aleksander-myrling",
+        "role_slug": "wolfgang-fortner/bluthochzeit/drei-gaste-drei-holzfaller"
+      },
+      {
+        "person_slug": "julia-bell-rachel-speirs-svea-verfurth",
+        "role_slug": "wolfgang-fortner/bluthochzeit/drei-madchen"
+      },
+      {
+        "person_slug": "alina-avagyan",
+        "role_slug": "wolfgang-fortner/bluthochzeit/kind"
+      },
+      {
+        "person_slug": "karolina-bengtsson",
+        "role_slug": "wolfgang-fortner/bluthochzeit/kleines-madchen"
+      },
+      {
+        "person_slug": "miko-aj-trabka",
+        "role_slug": "wolfgang-fortner/bluthochzeit/leonardo"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "wolfgang-fortner/bluthochzeit/leonardos-frau"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "wolfgang-fortner/bluthochzeit/magd"
+      },
+      {
+        "person_slug": "aj-glueckert",
+        "role_slug": "wolfgang-fortner/bluthochzeit/mond"
+      },
+      {
+        "person_slug": "claudia-mahnke",
+        "role_slug": "wolfgang-fortner/bluthochzeit/mutter"
+      },
+      {
+        "person_slug": "barbara-zechmeister",
+        "role_slug": "wolfgang-fortner/bluthochzeit/nachbarin"
+      },
+      {
+        "person_slug": "annette-schonmuller",
+        "role_slug": "wolfgang-fortner/bluthochzeit/schwiegermutter"
+      },
+      {
+        "person_slug": "daniela-ziegler",
+        "role_slug": "wolfgang-fortner/bluthochzeit/tod-bettlerin"
+      },
+      {
+        "person_slug": "dietrich-volle",
+        "role_slug": "wolfgang-fortner/bluthochzeit/vater-der-braut"
+      },
+      {
+        "person_slug": "jihun-hong-hubert-schmid",
+        "role_slug": "wolfgang-fortner/bluthochzeit/zwei-burschen"
+      },
+      {
+        "person_slug": "zuzana-petrasova-thalia-azrak",
+        "role_slug": "wolfgang-fortner/bluthochzeit/zwei-madchen"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/brueche",
+    "work_slug": "bruche-demokratie-in-zeiten-ihrer-regression",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/brueche/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/christina-nilsson",
+    "work_slug": "christina-nilsson-sopran-magnus-svensson-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/christina-nilsson/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/cosi-fan-tutte-4",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/cosi-fan-tutte_4/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "takeshi-moriuchi-alden-gatt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bianca-deigner",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mariame-clement",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "etienne-pluss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "kelsey-lauritano",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "andrew-kim",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "matteo-ivan-ra-scaron-ic",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "karolina-bengtsson",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "finn-sagal",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      },
+      {
+        "person_slug": "taehan-kim",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/das-rheingold-3",
+    "work_slug": "richard-wagner/das-rheingold",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/das-rheingold_3/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ingeborg-bernerth",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vera-nemirova",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-krasting",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jens-kilian",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "bibi-abel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "simon-bailey",
+        "role_slug": "richard-wagner/das-rheingold/alberich"
+      },
+      {
+        "person_slug": "miko-aj-trabka",
+        "role_slug": "richard-wagner/das-rheingold/donner"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "richard-wagner/das-rheingold/erda"
+      },
+      {
+        "person_slug": "anthony-robin-schneider",
+        "role_slug": "richard-wagner/das-rheingold/fafner"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "richard-wagner/das-rheingold/fasolt"
+      },
+      {
+        "person_slug": "katharina-magiera",
+        "role_slug": "richard-wagner/das-rheingold/flosshilde"
+      },
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "richard-wagner/das-rheingold/freia"
+      },
+      {
+        "person_slug": "claudia-mahnke",
+        "role_slug": "richard-wagner/das-rheingold/fricka"
+      },
+      {
+        "person_slug": "theo-lebow",
+        "role_slug": "richard-wagner/das-rheingold/froh"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "richard-wagner/das-rheingold/loge"
+      },
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "richard-wagner/das-rheingold/mime"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "richard-wagner/das-rheingold/wellgunde"
+      },
+      {
+        "person_slug": "anna-nekhames",
+        "role_slug": "richard-wagner/das-rheingold/woglinde"
+      },
+      {
+        "person_slug": "nicholas-brownlee",
+        "role_slug": "richard-wagner/das-rheingold/wotan"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/der-triumph",
+    "work_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/der-triumph/",
+    "creative_team": [
+      {
+        "person_slug": "simone-di-felice",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-kastening",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tal-rosner",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/bellezza"
+      },
+      {
+        "person_slug": "katharina-magier",
+        "role_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/disinganno"
+      },
+      {
+        "person_slug": "younji-yi",
+        "role_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/piacere"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/tempo"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/der-zar-die-kluge",
+    "work_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/der-zar/die-kluge/",
+    "creative_team": [
+      {
+        "person_slug": "simone-sandroni",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alvaro-corral-matute",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jiri-rozen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-glarner",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "keith-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "john-bishop",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "boris-kudlicka",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nombulelo-yende",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/angele"
+      },
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-anfuhrer"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-bauer"
+      },
+      {
+        "person_slug": "alfred-reiter",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-begleiter-des-zaren"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-boy"
+      },
+      {
+        "person_slug": "kelsey-lauritano",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-falsche-boy"
+      },
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-falsche-gehilfe"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-gehilfe"
+      },
+      {
+        "person_slug": "alfred-reiter",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-kerkermeister"
+      },
+      {
+        "person_slug": "miko-aj-trabka",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-konig"
+      },
+      {
+        "person_slug": "gerard-schneider",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-mann-mit-dem-esel"
+      },
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-mann-mit-dem-maulesel"
+      },
+      {
+        "person_slug": "domen-krizaj",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/der-zar"
+      },
+      {
+        "person_slug": "juanita-lascarro",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/die-falsche-angele"
+      },
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/die-kluge-tochter-des-bauern"
+      },
+      {
+        "person_slug": "dietrich-volle",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/drei-strolche"
+      },
+      {
+        "person_slug": "iain-macneil",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/drei-strolche"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/drei-strolche"
+      },
+      {
+        "person_slug": "jihun-hong-jonas-muller-lennart-s-kost-andrija-sekulic",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/verschworer"
+      },
+      {
+        "person_slug": "dietrich-volle",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/zwei-kriminalbeamte"
+      },
+      {
+        "person_slug": "iain-macneil",
+        "role_slug": "kurt-weill-carl-orff/der-zar-lasst-sich-fotografieren-die-kluge/zwei-kriminalbeamte"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/dialogues-des-carmelites-2",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/dialogues-des-carmelites_2/",
+    "creative_team": [
+      {
+        "person_slug": "ramses-sigl",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giedre-slekyte",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-sofie-tuma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "claus-guth",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "martina-segna",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alyona-rostovskaya",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/blanche-de-la-force"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/chevalier-de-la-force-beichtvater-des-karmel"
+      },
+      {
+        "person_slug": "judita-nagyova",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/madame-de-croissy"
+      },
+      {
+        "person_slug": "irina-simmes",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/madame-lidoine"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/marquis-de-la-force-monsieur-javelinot-arzt-2-kommissar-offizier-gefangniswarter"
+      },
+      {
+        "person_slug": "bianca-andrew",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/mere-marie-de-l-rsquo-incarnation"
+      },
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/s-ur-constance-de-st-denis"
+      },
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/thierry-diener-1-kommissar"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/die-liebe-zu-den-drei-orangen",
+    "work_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/die-liebe-zu-den-drei-orangen/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "patrick-hahn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksander-myrling",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/farfarello"
+      },
+      {
+        "person_slug": "alyona-rostovskaya",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/fata-morgana"
+      },
+      {
+        "person_slug": "aleksander-myrling",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/herold"
+      },
+      {
+        "person_slug": "alfred-reiter",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/kochin"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/konig-treff"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/leander"
+      },
+      {
+        "person_slug": "ruby-dibble",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/linetta"
+      },
+      {
+        "person_slug": "kelsey-lauritano",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/nicoletta"
+      },
+      {
+        "person_slug": "anna-nekhames",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/ninetta"
+      },
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/pantalon"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/prinz"
+      },
+      {
+        "person_slug": "claudia-ribas",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/prinzessin-clarisse"
+      },
+      {
+        "person_slug": "cecelia-hall",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/smeraldina"
+      },
+      {
+        "person_slug": "theo-lebow",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/truffaldino"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/tschelio"
+      },
+      {
+        "person_slug": "kudaibergen-abildin",
+        "role_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/zeremonienmeister"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/die-nacht-vor-weihnachten-4",
+    "work_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/die-nacht-vor-weihnachten_4/",
+    "creative_team": [
+      {
+        "person_slug": "klevis-elmazaj",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "takeshi-moriuchi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-renzenbrink",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christof-loy",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/burgermeister"
+      },
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/diakon-ossip"
+      },
+      {
+        "person_slug": "barbara-zechmeister",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/frau-mit-gewohnlicher-nase"
+      },
+      {
+        "person_slug": "enkelejda-shkoza",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/frau-mit-violetter-nase"
+      },
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/oksana"
+      },
+      {
+        "person_slug": "aleksander-myrling",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/panas"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/pazjuk"
+      },
+      {
+        "person_slug": "enkelejda-shkoza",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/solocha"
+      },
+      {
+        "person_slug": "andrei-popov",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/teufel"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/tschub"
+      },
+      {
+        "person_slug": "kudaibergen-abildin",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/wakula"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/zarin"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/die-walkuere-3",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/die-walkuere_3/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ingeborg-bernerth",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vera-nemirova",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-krasting",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jens-kilian",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "bibi-abel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aile-asszonyi",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "claudia-mahnke",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "julia-stuart",
+        "role_slug": "richard-wagner/die-walkure/gerhilde"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "richard-wagner/die-walkure/grimgerde"
+      },
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "richard-wagner/die-walkure/helmwige"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "richard-wagner/die-walkure/ortlinde"
+      },
+      {
+        "person_slug": "judita-nagyova",
+        "role_slug": "richard-wagner/die-walkure/rossweisse"
+      },
+      {
+        "person_slug": "katharina-magiera",
+        "role_slug": "richard-wagner/die-walkure/schwertleite"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "marco-jentzsch",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "ruby-dibble",
+        "role_slug": "richard-wagner/die-walkure/siegrune"
+      },
+      {
+        "person_slug": "cecelia-hall",
+        "role_slug": "richard-wagner/die-walkure/waltraute"
+      },
+      {
+        "person_slug": "nicholas-brownlee",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/ein-mann-wie-sie",
+    "work_slug": "ein-mann-wie-sie",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/ein-mann-wie-sie/",
+    "creative_team": [
+      {
+        "person_slug": "polina-shpazhnikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "max-koch",
+        "function": "director"
+      },
+      {
+        "person_slug": "deborah-einspieler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "vincent-krafft",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/familienworkshop",
+    "work_slug": "familienworkshop",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/familienworkshop/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/flavio",
+    "work_slug": "georg-friedrich-handel/flavio",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/flavio/",
+    "creative_team": [
+      {
+        "person_slug": "karsten-januschke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "susanne-uhl",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tilmann-kohler",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "karoly-risz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lubov-karetnikova",
+        "role_slug": "georg-friedrich-handel/flavio/emilia"
+      },
+      {
+        "person_slug": "claudia-ribas",
+        "role_slug": "georg-friedrich-handel/flavio/flavio"
+      },
+      {
+        "person_slug": "iurii-iushkevich",
+        "role_slug": "georg-friedrich-handel/flavio/guido"
+      },
+      {
+        "person_slug": "jarrett-porter",
+        "role_slug": "georg-friedrich-handel/flavio/lotario"
+      },
+      {
+        "person_slug": "kelsey-lauritano",
+        "role_slug": "georg-friedrich-handel/flavio/teodata"
+      },
+      {
+        "person_slug": "andrew-bidlack",
+        "role_slug": "georg-friedrich-handel/flavio/ugone"
+      },
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "georg-friedrich-handel/flavio/vitige"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/friedman-in-der-oper",
+    "work_slug": "friedman-in-der-oper",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/friedman-in-der-oper/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/haensel-und-gretel-5",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/haensel-und-gretel_5/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "alden-gatt-thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "julia-muer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "keith-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "norbert-abels",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "john-bishop",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jason-southgate",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/die-knusperhexe"
+      },
+      {
+        "person_slug": "claudia-mahnke",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib"
+      },
+      {
+        "person_slug": "juanita-lascarro",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib"
+      },
+      {
+        "person_slug": "karolina-bengtsson",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "bianca-andrew",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder"
+      },
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder"
+      },
+      {
+        "person_slug": "ruby-dibble",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/sandmannchen"
+      },
+      {
+        "person_slug": "younji-yi",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/taumannchen"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/happy-new-ears",
+    "work_slug": "happy-new-ears",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/happy-new-ears/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/huw-montague-rendall",
+    "work_slug": "huw-montague-rendall-bariton-carrie-ann-matheson-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/huw-montague-rendall/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/intermezzo-oper-am-mittag",
+    "work_slug": "intermezzo-oper-am-mittag",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/intermezzo-oper-am-mittag/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/ismael-jordi-tenor",
+    "work_slug": "ismael-jordi-tenor-ruben-fernandez-aguirre-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/ismael-jordi-tenor/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/johannes-martin-kraenzle-hilko-dumno",
+    "work_slug": "johannes-martin-kranzle-bariton-hilko-dumno-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/johannes-martin-kraenzle-hilko-dumno/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/kelsey-lauritano",
+    "work_slug": "kelsey-lauritano-mezzosopran-alden-gatt-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/kelsey-lauritano/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/kinderbetreuung",
+    "work_slug": "kinderbetreuung",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/kinderbetreuung/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/klaus-zehelein",
+    "work_slug": "klaus-zehelein-unerhorte-augenblicke",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/klaus-zehelein/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/konzerte-kammermusik",
+    "work_slug": "kammermusik",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/konzerte/kammermusik/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/kostuemwesen-fuehrung",
+    "work_slug": "kostumwesen-fuhrung",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/kostuemwesen-fuehrung/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/kostuemwesen-fuehrung-fuer-abonnentinnen",
+    "work_slug": "kostumwesen-fuhrung-fur-abonnent-innen",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/kostuemwesen-fuehrung-fuer-abonnentinnen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/kristina-mkhitaryan",
+    "work_slug": "kristina-mkhitaryan-sopran-sasha-yankevych-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/kristina-mkhitaryan/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/la-fiamma",
+    "work_slug": "ottorino-respighi/la-fiamma",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/la-fiamma/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-lanzillotta-simone-di-felice",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katrin-lea-tag",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "hans-walter-richter",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hartmut-schorghofer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "daniela-zib",
+        "role_slug": "ottorino-respighi/la-fiamma/agata"
+      },
+      {
+        "person_slug": "claudia-mahnke",
+        "role_slug": "ottorino-respighi/la-fiamma/agnese-di-cervia"
+      },
+      {
+        "person_slug": "ivan-inverardi",
+        "role_slug": "ottorino-respighi/la-fiamma/basilio"
+      },
+      {
+        "person_slug": "matteo-lippi",
+        "role_slug": "ottorino-respighi/la-fiamma/donello"
+      },
+      {
+        "person_slug": "teresa-romano",
+        "role_slug": "ottorino-respighi/la-fiamma/eudossia"
+      },
+      {
+        "person_slug": "nina-tarandek",
+        "role_slug": "ottorino-respighi/la-fiamma/lucilla"
+      },
+      {
+        "person_slug": "nombulelo-yende",
+        "role_slug": "ottorino-respighi/la-fiamma/monica"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "ottorino-respighi/la-fiamma/sabina"
+      },
+      {
+        "person_slug": "chiara-isotton",
+        "role_slug": "ottorino-respighi/la-fiamma/silvana"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/le-postillon-de-lonjumeau-2",
+    "work_slug": "adolphe-adam/le-postillon-de-lonjumeau",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/le-postillon-de-lonjumeau_2/",
+    "creative_team": [
+      {
+        "person_slug": "gabriel-wanka",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "benjamin-reiners",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hans-walter-richter",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jakob-bogensperger",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "barnaby-rea",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/bijou-alcindor"
+      },
+      {
+        "person_slug": "aleksander-myrling",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/bourdon"
+      },
+      {
+        "person_slug": "francesco-demuro",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/chapelou-saint-phar"
+      },
+      {
+        "person_slug": "philippe-jacq",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/louis-xv"
+      },
+      {
+        "person_slug": "teona-todua",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/madeleine-madame-de-latour"
+      },
+      {
+        "person_slug": "jonas-muller",
+        "role_slug": "adolphe-adam/le-postillon-de-lonjumeau/marquis-de-corcy"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/le-roi-arthus",
+    "work_slug": "ernest-chausson/le-roi-arthus",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/le-roi-arthus/",
+    "creative_team": [
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manuel-schmitt",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bernhard-siegl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "ernest-chausson/le-roi-arthus/allan-ein-ritter"
+      },
+      {
+        "person_slug": "domen-krizaj",
+        "role_slug": "ernest-chausson/le-roi-arthus/arthus"
+      },
+      {
+        "person_slug": "sven-hjorleifsson",
+        "role_slug": "ernest-chausson/le-roi-arthus/ein-ackermann"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "ernest-chausson/le-roi-arthus/genievre"
+      },
+      {
+        "person_slug": "thomas-blondelle",
+        "role_slug": "ernest-chausson/le-roi-arthus/lancelot"
+      },
+      {
+        "person_slug": "andrew-kim",
+        "role_slug": "ernest-chausson/le-roi-arthus/lyonnel"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "ernest-chausson/le-roi-arthus/merlin"
+      },
+      {
+        "person_slug": "erik-van-heyningen",
+        "role_slug": "ernest-chausson/le-roi-arthus/mordred"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/louise-alder-mauro-peter",
+    "work_slug": "louise-alder-sopran-mauro-peter-tenor-joseph-middleton-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/louise-alder-mauro-peter/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/macbeth-2",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/macbeth_2/",
+    "creative_team": [
+      {
+        "person_slug": "gal-fefferman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giacomo-sagripanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "doey-luthi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "r-b-schlather",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-winter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "etienne-pluss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jarrett-porter",
+        "role_slug": "giuseppe-verdi/macbeth/arzt"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "giuseppe-verdi/macbeth/banquo"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "giuseppe-verdi/macbeth/banquo"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "giuseppe-verdi/macbeth/banquo"
+      },
+      {
+        "person_slug": "morgan-andrew-king",
+        "role_slug": "giuseppe-verdi/macbeth/diener-morder-herold"
+      },
+      {
+        "person_slug": "julia-stuar",
+        "role_slug": "giuseppe-verdi/macbeth/kammerfrau-der-lady"
+      },
+      {
+        "person_slug": "nombulelo-yende",
+        "role_slug": "giuseppe-verdi/macbeth/kammerfrau-der-lady"
+      },
+      {
+        "person_slug": "signe-heiberg",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "domen-krizaj",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "iain-macneil",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "nicholas-brownlee",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "gerard-schneider",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "kudaibergen-abildin",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "abraham-breton",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/mazeppa",
+    "work_slug": "peter-i-tschaikowski/mazeppa",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/mazeppa/",
+    "creative_team": [
+      {
+        "person_slug": "christiana-stefanou",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "karsten-januschke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matthew-wild",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bibi-abel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mikhail-pirogov",
+        "role_slug": "peter-i-tschaikowski/mazeppa/andrej"
+      },
+      {
+        "person_slug": "kudaibergen-abildin",
+        "role_slug": "peter-i-tschaikowski/mazeppa/betrunkener-kosak"
+      },
+      {
+        "person_slug": "jihun-hong",
+        "role_slug": "peter-i-tschaikowski/mazeppa/iskra"
+      },
+      {
+        "person_slug": "alex-birkus",
+        "role_slug": "peter-i-tschaikowski/mazeppa/kotschubej"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "peter-i-tschaikowski/mazeppa/kotschubej"
+      },
+      {
+        "person_slug": "karolina-maku-a",
+        "role_slug": "peter-i-tschaikowski/mazeppa/ljubow"
+      },
+      {
+        "person_slug": "nombulelo-yende",
+        "role_slug": "peter-i-tschaikowski/mazeppa/maria"
+      },
+      {
+        "person_slug": "petr-sokolov",
+        "role_slug": "peter-i-tschaikowski/mazeppa/mazeppa"
+      },
+      {
+        "person_slug": "jarrett-porter",
+        "role_slug": "peter-i-tschaikowski/mazeppa/orlik"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/oper-extra",
+    "work_slug": "oper-extra",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-extra/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/oper-fuer-kinder-6",
+    "work_slug": "oper-fur-kinder",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-fuer-kinder_6/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/oper-fuer-kinder-7",
+    "work_slug": "oper-fur-kinder",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-fuer-kinder_7/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/oper-im-dialog-2",
+    "work_slug": "oper-im-dialog",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-im-dialog_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/oper-to-go-3",
+    "work_slug": "oper-to-go",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-to-go_3/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/opera-next-level",
+    "work_slug": "opera-next-level",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/opera-next-level/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/opernkarussell-3",
+    "work_slug": "opernkarussell",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/opernkarussell_3/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/opernkarussell-4",
+    "work_slug": "opernkarussell",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/opernkarussell_4/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/opernworkshop",
+    "work_slug": "opernworkshop",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/opernworkshop/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/ottone",
+    "work_slug": "georg-friedrich-handel/ottone",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/ottone/",
+    "creative_team": [
+      {
+        "person_slug": "dustin-klein",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "vaclav-luks",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jetske-mijnssen",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "iurii-iushkevich",
+        "role_slug": "georg-friedrich-handel/ottone/adelberto"
+      },
+      {
+        "person_slug": "jonas-muller",
+        "role_slug": "georg-friedrich-handel/ottone/emireno"
+      },
+      {
+        "person_slug": "paula-murrihy",
+        "role_slug": "georg-friedrich-handel/ottone/gismonda"
+      },
+      {
+        "person_slug": "cecelia-hall",
+        "role_slug": "georg-friedrich-handel/ottone/matilda"
+      },
+      {
+        "person_slug": "yuriy-mynenko",
+        "role_slug": "georg-friedrich-handel/ottone/ottone"
+      },
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "georg-friedrich-handel/ottone/teofane"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/salome-5",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/salome_5/",
+    "creative_team": [
+      {
+        "person_slug": "lothar-koenigs",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "zsolt-horpacsy",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sven-hjorleifsson",
+        "role_slug": "richard-strauss/salome/1-jude"
+      },
+      {
+        "person_slug": "pete-thanapat",
+        "role_slug": "richard-strauss/salome/1-nazarener"
+      },
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "richard-strauss/salome/2-jude"
+      },
+      {
+        "person_slug": "jarrett-porter",
+        "role_slug": "richard-strauss/salome/2-nazarener-cappadozier"
+      },
+      {
+        "person_slug": "andrew-bidlack",
+        "role_slug": "richard-strauss/salome/3-jude"
+      },
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "richard-strauss/salome/4-jude"
+      },
+      {
+        "person_slug": "inho-jeong",
+        "role_slug": "richard-strauss/salome/5-jude"
+      },
+      {
+        "person_slug": "bianca-andrew",
+        "role_slug": "richard-strauss/salome/ein-page-der-herodias"
+      },
+      {
+        "person_slug": "aj-glueckert",
+        "role_slug": "richard-strauss/salome/herodes"
+      },
+      {
+        "person_slug": "zanda-scaron-vede",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "simon-neal",
+        "role_slug": "richard-strauss/salome/jochanaan"
+      },
+      {
+        "person_slug": "gerard-schneider",
+        "role_slug": "richard-strauss/salome/narraboth"
+      },
+      {
+        "person_slug": "inna-klocko",
+        "role_slug": "richard-strauss/salome/salome"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/silvester",
+    "work_slug": "silvesterfeier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/silvester/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/skaterherz",
+    "work_slug": "sebastian-schwab-1993/skaterherz",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/skaterherz/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "lukas-rommelspacher",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "max-koch",
+        "function": "director"
+      },
+      {
+        "person_slug": "deborah-einspieler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "leo-moro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "thilo-ullrich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dietrich-volle",
+        "role_slug": "sebastian-schwab-1993/skaterherz/abe-boyds-gro-vater"
+      },
+      {
+        "person_slug": "andrew-kim",
+        "role_slug": "sebastian-schwab-1993/skaterherz/boyd-bruckmann-skater"
+      },
+      {
+        "person_slug": "philippe-jacq",
+        "role_slug": "sebastian-schwab-1993/skaterherz/doktor-pilas"
+      },
+      {
+        "person_slug": "iurii-iushkevich",
+        "role_slug": "sebastian-schwab-1993/skaterherz/elias-heuziger-ein-herzkranker-junge"
+      },
+      {
+        "person_slug": "juanita-lascarro",
+        "role_slug": "sebastian-schwab-1993/skaterherz/mathilde-heuziger-elias-rsquo-mutter"
+      },
+      {
+        "person_slug": "alina-avagyan",
+        "role_slug": "sebastian-schwab-1993/skaterherz/puck-ein-herzkrankes-madchen"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/sneak-in",
+    "work_slug": "sneak-in",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/sneak-in/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/soiree-des-opernstudios",
+    "work_slug": "soiree-des-opernstudios",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/soiree-des-opernstudios/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/tancredi",
+    "work_slug": "gioachino-rossini/tancredi",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/tancredi/",
+    "creative_team": [
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuliano-carella",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manuel-schmitt",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bernhard-siegl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "gioachino-rossini/tancredi/amenaide"
+      },
+      {
+        "person_slug": "theo-lebow",
+        "role_slug": "gioachino-rossini/tancredi/argirio"
+      },
+      {
+        "person_slug": "ruby-dibble",
+        "role_slug": "gioachino-rossini/tancredi/isaura"
+      },
+      {
+        "person_slug": "clara-kim",
+        "role_slug": "gioachino-rossini/tancredi/loredana"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "gioachino-rossini/tancredi/orbazzano"
+      },
+      {
+        "person_slug": "claudia-ribas",
+        "role_slug": "gioachino-rossini/tancredi/tancredi"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/tancredi-2",
+    "work_slug": "gioachino-rossini/tancredi",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/tancredi_2/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuliano-carella",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manuel-schmitt",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bernhard-siegl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "gioachino-rossini/tancredi/amenaide"
+      },
+      {
+        "person_slug": "theo-lebow",
+        "role_slug": "gioachino-rossini/tancredi/argirio"
+      },
+      {
+        "person_slug": "e",
+        "role_slug": "gioachino-rossini/tancredi/isaura"
+      },
+      {
+        "person_slug": "ruby-dibb",
+        "role_slug": "gioachino-rossini/tancredi/isaura"
+      },
+      {
+        "person_slug": "daniela-zib",
+        "role_slug": "gioachino-rossini/tancredi/loredana"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "gioachino-rossini/tancredi/orbazzano"
+      },
+      {
+        "person_slug": "claudia-ribas",
+        "role_slug": "gioachino-rossini/tancredi/tancredi"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/tannhaeuser-2",
+    "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/tannhaeuser-2/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jonathan-darlington",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "matthew-wild",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "herbert-murauer",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "clemens-walter",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "erik-van-heyningen",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/biterolf"
+      },
+      {
+        "person_slug": "daniela-zib",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/ein-junger-hirt"
+      },
+      {
+        "person_slug": "christina-nilsson",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/elisabeth"
+      },
+      {
+        "person_slug": "jihun-hong-deg",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/heinrich-der-schreiber"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/hermann-landgraf-von-thuringen"
+      },
+      {
+        "person_slug": "jonathan-darlington",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/musiaklische-leitung"
+      },
+      {
+        "person_slug": "dietrich-volle",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/reinmar-von-zweter"
+      },
+      {
+        "person_slug": "marco-jentzsch",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/tannhauser"
+      },
+      {
+        "person_slug": "marina-prudenskaya",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/venus"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/walther-von-der-vogelweide"
+      },
+      {
+        "person_slug": "domen-krizaj",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/wolfram-von-eschenbach"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/the-greek-passion",
+    "work_slug": "bohuslav-martinu/the-greek-passion",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/the-greek-passion/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "matthew-wild",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-hartmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "herbert-murauer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jihun-hong",
+        "role_slug": "bohuslav-martinu/the-greek-passion/andonis"
+      },
+      {
+        "person_slug": "alfred-reiter",
+        "role_slug": "bohuslav-martinu/the-greek-passion/ein-alter-mann"
+      },
+      {
+        "person_slug": "bianca-andrew",
+        "role_slug": "bohuslav-martinu/the-greek-passion/katerina"
+      },
+      {
+        "person_slug": "jarrett-porter",
+        "role_slug": "bohuslav-martinu/the-greek-passion/kostandis"
+      },
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "bohuslav-martinu/the-greek-passion/lenio"
+      },
+      {
+        "person_slug": "aj-glueckert",
+        "role_slug": "bohuslav-martinu/the-greek-passion/manolios"
+      },
+      {
+        "person_slug": "andrew-kim",
+        "role_slug": "bohuslav-martinu/the-greek-passion/michelis"
+      },
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "bohuslav-martinu/the-greek-passion/panais"
+      },
+      {
+        "person_slug": "pete-thanapat",
+        "role_slug": "bohuslav-martinu/the-greek-passion/priester-fotis"
+      },
+      {
+        "person_slug": "kihwan-sim",
+        "role_slug": "bohuslav-martinu/the-greek-passion/priester-grigoris"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "bohuslav-martinu/the-greek-passion/yannakos"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "alvaro-corral-matute",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "simone-di-felice",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-renzenbrink",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-breth",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alexander-koppelmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "alfred-kim",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "erik-van-heyningen",
+        "role_slug": "giacomo-puccini/turandot/ein-mandarin"
+      },
+      {
+        "person_slug": "guanqun-yu",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "magnus-dietrich",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "inho-jeong",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "elza-van-den-heever",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "olesya-golovneva",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/turandot-2",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/turandot_2/",
+    "creative_team": [
+      {
+        "person_slug": "giulio-ferre",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "simone-di-felice",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-renzenbrink",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-breth",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alexander-koppelmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "alfred-kim",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "erik-van-heyningen",
+        "role_slug": "giacomo-puccini/turandot/ein-mandarin"
+      },
+      {
+        "person_slug": "julia-stuart",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "sven-hjorleifsson",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "liviu-holender",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "thomas-faulkner",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "elza-van-den-heever",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "olesya-golovneva",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/un-ballo-in-maschera",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/un-ballo-in-maschera/",
+    "creative_team": [
+      {
+        "person_slug": "manuel-pujol",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "thomas-guggeis-simone-di-felice",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "petra-reinhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-breth",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-enderle",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "guanqun-yu",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "michael-mccown",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ein-richter"
+      },
+      {
+        "person_slug": "anna-nekhames",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "younji-yi-deg",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "miko-aj-trabka",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "matteo-lippi",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/riccardo"
+      },
+      {
+        "person_slug": "pete-thanapat",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/samuel"
+      },
+      {
+        "person_slug": "taehan-kim",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/silvano"
+      },
+      {
+        "person_slug": "inho-jeong",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/tom"
+      },
+      {
+        "person_slug": "emanuela-pascu",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/warten-auf-heute-2",
+    "work_slug": "arnold-schonberg-frank-martin/warten-auf-heute",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/warten-auf-heute_2/",
+    "creative_team": [
+      {
+        "person_slug": "tim-anderson",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sibylle-wallum",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizabeth-reiter",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/ehefrau"
+      },
+      {
+        "person_slug": "sebastian-geyer",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/ehemann"
+      },
+      {
+        "person_slug": "anna-gabler",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/eine-frau"
+      },
+      {
+        "person_slug": "juanita-lascarro",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/freundin"
+      },
+      {
+        "person_slug": "simon-neal",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/jedermann"
+      },
+      {
+        "person_slug": "theo-lebow",
+        "role_slug": "arnold-schonberg-frank-martin/warten-auf-heute/sanger"
+      }
+    ]
+  },
+  {
+    "id": "oper-frankfurt/werkstaetten-fuehrung",
+    "work_slug": "werkstatten-fuhrung",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/werkstaetten-fuehrung/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/werkstaetten-fuehrung-fuer-abonnentinnen",
+    "work_slug": "werkstatten-fuhrung-fur-abonnent-innen",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/werkstaetten-fuehrung-fuer-abonnentinnen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/xabier-anduaga-tenor",
+    "work_slug": "xabier-anduaga-tenor-maciej-pikulski-klavier",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/xabier-anduaga-tenor/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/zaide",
+    "work_slug": "wolfgang-amadeus-mozart/zaide",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/zaide/",
+    "creative_team": [
+      {
+        "person_slug": "george-petrou",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sibylle-wallum",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "mareike-wink",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joachim-klein",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksander-myrling",
+        "role_slug": "wolfgang-amadeus-mozart/zaide/allazim"
+      },
+      {
+        "person_slug": "michael-porter",
+        "role_slug": "wolfgang-amadeus-mozart/zaide/gomatz"
+      },
+      {
+        "person_slug": "pete-thanapat",
+        "role_slug": "wolfgang-amadeus-mozart/zaide/osmin"
+      },
+      {
+        "person_slug": "peter-marsh",
+        "role_slug": "wolfgang-amadeus-mozart/zaide/soliman"
+      },
+      {
+        "person_slug": "karolina-bengtsson",
+        "role_slug": "wolfgang-amadeus-mozart/zaide/zaide"
+      }
+    ]
+  }
+]
