@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { decodeEntities, type FetchContext, renderHtml, stripHtml } from "../fetch";
+import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -11,15 +11,15 @@ import type {
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
- * Staatsoper Stuttgart (`render` strategy).
+ * Staatsoper Stuttgart (`spielplan-html` strategy).
  *
- * The kalender is fully client-rendered with no JSON API or inline state, so
- * this adapter uses the headless renderer (see fetch.ts `renderHtml`). The
- * rendered kalender lists performance links `/spielplan/kalender/{slug}/{id}/`
- * (one per night); each rendered detail page puts the work + composer + date in
- * its `<title>` ("Title, von Composer - DD.MM.YYYY, HH:MM | …") and the cast +
- * creative team as one "Rolle: Name, … , Musikalische Leitung: Name, …" run.
- * We render every performance page (its own date), grouping by slug into one
+ * The kalender LOOKS like a client-rendered SPA, but it's server-rendered and the
+ * JS only rehydrates the display — so plain fetch works (no headless browser).
+ * `/spielplan/kalender/` lists performance links `/spielplan/kalender/{slug}/{id}/`
+ * (one per night); each detail page's `<title>` is "Title, von Composer -
+ * DD.MM.YYYY, HH:MM | …" and its `<meta name="description">` carries the cast +
+ * creative team as one "Rolle: Name, …, Musikalische Leitung: Name, …" run. We
+ * fetch every performance page (its own date), grouping by slug into one
  * production. Future-only → deep history from Wikidata in backfill.
  */
 
@@ -32,20 +32,14 @@ export async function scrapeStaatsoperStuttgart(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
-  const listing = await renderHtml(KALENDER, ctx, {
-    waitForSelector: ".performance__mainrow",
-    waitMs: 2500,
-  });
+  const listing = await fetchHtml(KALENDER, ctx);
   const links = [...new Set(listing.match(/\/spielplan\/kalender\/[a-z0-9-]+\/\d+\//g) ?? [])];
 
   const byProduction = new Map<string, RawProduction>();
   const today = new Date().toISOString().slice(0, 10);
   for (const path of links) {
     try {
-      const detail = await renderHtml(`${BASE}${path}`, ctx, {
-        waitForSelector: "title",
-        waitMs: 800,
-      });
+      const detail = await fetchHtml(`${BASE}${path}`, ctx);
       const parsed = parseDetail(detail);
       if (!parsed) continue;
       if (window.since && parsed.date < window.since) continue;

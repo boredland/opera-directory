@@ -33,12 +33,63 @@ export function proxyFetch(
   return fetch(proxyUrl, { ...init, headers });
 }
 
+// ── Request timing ──────────────────────────────────────────────────────────
+//
+// Network/render time dominates a scrape, so every request is timed. Per-kind
+// totals + the slowest request are summarized by `fetchStatsSummary()` (the
+// runner prints it per house); anything over SLOW_REQUEST_MS is logged inline so
+// a single pathological URL is easy to spot in CI logs.
+
+type RequestKind = "html" | "json" | "render";
+interface KindStat {
+  count: number;
+  ms: number;
+}
+const _stats: Record<RequestKind, KindStat> & {
+  slowest: { url: string; ms: number; kind: string };
+} = {
+  html: { count: 0, ms: 0 },
+  json: { count: 0, ms: 0 },
+  render: { count: 0, ms: 0 },
+  slowest: { url: "", ms: 0, kind: "" },
+};
+const SLOW_REQUEST_MS = Number(process.env.SLOW_REQUEST_MS ?? 5000);
+
+function record(kind: RequestKind, url: string, ms: number): void {
+  const stat = _stats[kind];
+  stat.count++;
+  stat.ms += ms;
+  if (ms > _stats.slowest.ms) _stats.slowest = { url, ms, kind };
+  if (ms >= SLOW_REQUEST_MS) console.warn(`  slow ${kind} ${Math.round(ms)}ms ${url}`);
+}
+
+/** One-line summary of requests made so far (per kind + slowest). */
+export function fetchStatsSummary(): string {
+  const part = (k: RequestKind) =>
+    _stats[k].count ? `${k} ${_stats[k].count}×${Math.round(_stats[k].ms)}ms` : "";
+  const parts = (["html", "json", "render"] as const).map(part).filter(Boolean);
+  const s = _stats.slowest;
+  const slowest = s.url ? ` | slowest ${s.kind} ${Math.round(s.ms)}ms ${s.url}` : "";
+  return `${parts.join(", ") || "no requests"}${slowest}`;
+}
+
+/** Reset the timing accumulator (between houses in an all-in-one run). */
+export function resetFetchStats(): void {
+  _stats.html = { count: 0, ms: 0 };
+  _stats.json = { count: 0, ms: 0 };
+  _stats.render = { count: 0, ms: 0 };
+  _stats.slowest = { url: "", ms: 0, kind: "" };
+}
+
 export async function fetchHtml(url: string, ctx: FetchContext): Promise<string> {
+  const start = performance.now();
   const res = await proxyFetch(url, ctx.proxy, {
     headers: { "User-Agent": ctx.userAgent, "Accept-Language": "de,en;q=0.8" },
   });
   if (!res.ok) throw new Error(`fetch failed: ${url} → ${res.status}`);
-  return res.text();
+  const text = await res.text();
+  record("html", url, performance.now() - start);
+  return text;
 }
 
 /** Fetch and parse JSON — for API strategies (Wikidata SPARQL, Spektrix, Tessitura). */
@@ -47,22 +98,26 @@ export async function fetchJson<T = unknown>(
   ctx: FetchContext,
   accept = "application/json",
 ): Promise<T> {
+  const start = performance.now();
   const res = await proxyFetch(url, ctx.proxy, {
     headers: { "User-Agent": ctx.userAgent, Accept: accept },
   });
   if (!res.ok) throw new Error(`fetch failed: ${url} → ${res.status}`);
-  return res.json() as Promise<T>;
+  const data = (await res.json()) as T;
+  record("json", url, performance.now() - start);
+  return data;
 }
 
 // ── Headless render (last resort for client-rendered SPAs) ──────────────────
 //
 // Most houses are reachable with plain fetch (cheapest) or a discovered JSON API
-// (see scripts/discover-api.mjs). A few (Stuttgart, Komische Oper, Hamburg) draw
-// their spielplan into the DOM entirely client-side with no API or inline state,
-// so the only way to read them is to run their JS. `renderHtml` does that with a
-// single shared headless browser (playwright-core, lazily imported so non-render
-// adapters never load it). Adapters that use it must call `closeBrowser()` when
-// done — `runScrape` does this in a finally.
+// (see scripts/discover-api.mjs) — always try those first; a surprising number of
+// "SPAs" are actually server-rendered and only rehydrate (Stuttgart was one). This
+// is the genuine last resort for houses that truly build the DOM client-side with
+// no API or inline state. `renderHtml` runs their JS in a single shared headless
+// browser (playwright-core, lazily imported so non-render adapters never load it).
+// Adapters that use it must call `closeBrowser()` when done — the runner does this
+// in a finally. No enabled house currently needs it.
 
 // biome-ignore lint/suspicious/noExplicitAny: playwright-core types loaded lazily
 let _browser: any = null;
@@ -72,8 +127,10 @@ let _context: any = null;
 async function ensureContext(userAgent: string) {
   if (_context && _browser?.isConnected()) return _context;
   const { chromium } = await import("playwright-core");
+  // Default to Playwright's own managed Chromium (installed via `playwright
+  // install chromium`); CHROME_PATH overrides it with a system browser if set.
   _browser = await chromium.launch({
-    executablePath: process.env.CHROME_PATH || "/usr/bin/google-chrome-stable",
+    ...(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : {}),
     headless: true,
   });
   _context = await _browser.newContext({ userAgent });
@@ -88,6 +145,7 @@ export async function renderHtml(
   opts: { waitForSelector?: string; waitMs?: number } = {},
 ): Promise<string> {
   for (let attempt = 0; attempt < 2; attempt++) {
+    const start = performance.now();
     const context = await ensureContext(ctx.userAgent);
     // biome-ignore lint/suspicious/noExplicitAny: playwright Page type loaded lazily
     let page: any;
@@ -98,7 +156,9 @@ export async function renderHtml(
         await page.waitForSelector(opts.waitForSelector, { timeout: 10000 }).catch(() => {});
       }
       if (opts.waitMs) await page.waitForTimeout(opts.waitMs);
-      return await page.content();
+      const html = await page.content();
+      record("render", url, performance.now() - start);
+      return html;
     } catch (err) {
       await page?.close().catch(() => {});
       if (attempt === 0 && /closed|crash|disconnect/i.test(String(err))) {

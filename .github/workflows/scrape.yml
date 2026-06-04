@@ -19,6 +19,7 @@ on:
 permissions:
   contents: write
 
+# One whole pipeline run at a time (a manual dispatch won't overlap the nightly cron).
 concurrency:
   group: scrape
   cancel-in-progress: false
@@ -42,11 +43,16 @@ jobs:
           echo "houses=$HOUSES" >> "$GITHUB_OUTPUT"
           echo "matrix: $HOUSES"
 
-  # One runner per house — network/render-bound, isolated, in parallel.
+  # One runner per house — network-bound, isolated, in parallel across houses.
   scrape:
     needs: prepare
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    # One scraper per house at a time: the same house never runs twice at once
+    # (politeness + no artifact clash), while different houses still parallelize.
+    concurrency:
+      group: scrape-${{ matrix.house }}
+      cancel-in-progress: false
     strategy:
       fail-fast: false # a flaky house must not abort the others
       max-parallel: 6
@@ -58,15 +64,10 @@ jobs:
         with:
           bun-version: latest
       - run: bun install --frozen-lockfile
-      - uses: browser-actions/setup-chrome@v1 # for the `render` houses; harmless otherwise
-        id: chrome
-        with:
-          chrome-version: stable
       - name: Scrape ${{ matrix.house }} → raw artifact
         env:
           FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
           FETCH_PROXY_TOKEN: ${{ secrets.FETCH_PROXY_TOKEN }}
-          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
         run: |
           ARGS="${{ matrix.house }}"
           [ "${{ github.event.inputs.backfill }}" = "true" ] && ARGS="$ARGS --backfill"

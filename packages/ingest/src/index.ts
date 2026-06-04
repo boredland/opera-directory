@@ -5,6 +5,7 @@ import {
   closeBrowser,
   DEFAULT_UA,
   type FetchContext,
+  fetchStatsSummary,
   HOUSE_SCRAPERS,
   type HouseScrapeResult,
   type ScrapeWindow,
@@ -87,11 +88,14 @@ export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise
   const scraper = HOUSE_SCRAPERS[slug];
   if (!scraper) throw new Error(`no adapter registered for house "${slug}"`);
   const ctx = makeFetchContext();
+  const start = performance.now();
   try {
     const result = await scraper(ctx, window ?? defaultIncrementalWindow());
     await mkdir(RAW_DIR, { recursive: true });
     await writeFile(join(RAW_DIR, `${slug}.json`), `${JSON.stringify(result, null, 2)}\n`);
-    console.log(`${slug}: ${result.productions.length} productions → raw/${slug}.json`);
+    const secs = ((performance.now() - start) / 1000).toFixed(1);
+    console.log(`${slug}: ${result.productions.length} productions in ${secs}s → raw/${slug}.json`);
+    console.log(`  requests: ${fetchStatsSummary()}`);
   } finally {
     await closeBrowser();
   }

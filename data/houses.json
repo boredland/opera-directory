@@ -50,9 +50,9 @@
     "country": "DE",
     "website": "https://www.staatsoper-stuttgart.de",
     "wikidata": "Q467147",
-    "strategy": "render",
+    "strategy": "spielplan-html",
     "enabled": true,
-    "notes": "Adapter implemented (render strategy + wikidata backfill). Fully client-rendered, no API/inline state → uses the headless renderer. Rendered /spielplan/kalender/ lists /spielplan/kalender/{slug}/{id}/ links (one per night); each rendered detail page's <title> = 'Title, von Composer - DD.MM.YYYY, HH:MM | …' and the cast+creative are one 'Rolle: Name, …, Musikalische Leitung: Name, …' run. Renders every performance page (its own date), grouped by slug. NEEDS a browser at scrape time (CHROME_PATH)."
+    "notes": "Adapter implemented (spielplan-html + wikidata backfill). Looks like an SPA but is server-rendered (JS only rehydrates) → plain fetch, no browser. /spielplan/kalender/ lists /spielplan/kalender/{slug}/{id}/ links (one per night); each detail page's <title> = 'Title, von Composer - DD.MM.YYYY, HH:MM | …' and <meta name=description> carries the cast+creative as one 'Rolle: Name, …, Musikalische Leitung: Name, …' run. Fetch every performance page (its own date), group by slug."
   },
   {
     "slug": "oper-koeln",
