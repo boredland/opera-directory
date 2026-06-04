@@ -218,7 +218,7 @@
     "strategy": "spielplan-html",
     "enabled": false,
     "proxy": true,
-    "notes": "BLOCKED 2026-06: staatstheater.karlsruhe.de returns HTTP 403 to all non-residential clients (direct, public proxies, and r.jina.ai all 403; the www. subdomain doesn't even resolve — use the bare host). Needs the FETCH_PROXY (FlareSolverr + residential IP, CI-only secret) to reach, like bayerische-staatsoper. Recon from the 2025-07 Wayback homepage: production detail pages are /programm/info/{id}/; a spielplan listing exists. proxy:true is pre-set; enabled:false until the proxy can fetch it in CI and the detail structure (composer/cast/dates markup) can be read from real HTML and an adapter written. QID Q552309 (Badisches Staatstheater Karlsruhe, the theatre+opera company)."
+    "notes": "BLOCKED 2026-06: staatstheater.karlsruhe.de hard-403s ALL automated access — confirmed via CI recon that even the FETCH_PROXY (FlareSolverr + residential IP) gets 403 on every path, same outcome as bayerische-staatsoper München. Direct, public proxies, and r.jina.ai also 403; the www. subdomain doesn't resolve (use the bare host). No way to scrape until the block lifts or the proxy gains a working bypass. Recon from the 2025-07 Wayback homepage: production detail pages are /programm/info/{id}/. enabled:false, no adapter. QID Q552309 (Badisches Staatstheater Karlsruhe, the theatre+opera company)."
   },
   {
     "slug": "bayerische-staatsoper",
