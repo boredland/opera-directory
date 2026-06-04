@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import type {
   Performance,
@@ -13,9 +13,17 @@ import { workKey } from "./resolve";
 
 /**
  * The canonical store. Per README §6 the source of truth is committed,
- * git-diff-reviewable JSON under data/ — one normalized file per entity. A
- * derived SQLite/D1 read-copy comes later, only when the performances table
- * outgrows a loadable array; this layer stays JSON.
+ * git-diff-reviewable JSON under data/. A derived SQLite/D1 read-copy comes
+ * later, only when the performances table outgrows a loadable array.
+ *
+ * Layout reflects the two kinds of entity:
+ *   - Cross-house graph (works / persons / roles) — one global file each. These
+ *     are shared by design: one Work "Aida" is staged at many houses, so they
+ *     must NOT be split per house or the dedup graph breaks.
+ *   - House-scoped (productions / performances) — one file per house under
+ *     data/productions/{house}.json and data/performances/{house}.json, so a
+ *     re-scrape of one house produces a small, reviewable diff instead of
+ *     churning a monolith.
  *
  * Everything is keyed by stable id so the pipeline is idempotent: re-running a
  * scrape upserts and converges, never duplicates. Upsert is insert-or-merge and
@@ -23,13 +31,20 @@ import { workKey } from "./resolve";
  * the run that first saw it, which is exactly how history accumulates.
  */
 
-const FILES = {
+/** Global files for the cross-house graph. */
+const SHARED_FILES = {
   works: "works.json",
   persons: "persons.json",
   roles: "roles.json",
-  productions: "productions.json",
-  performances: "performances.json",
 } as const;
+/** Per-house directories for house-scoped entities (one {house}.json each). */
+const PRODUCTIONS_DIR = "productions";
+const PERFORMANCES_DIR = "performances";
+
+/** Productions/performances ids are `${house}/…`, so the house is the first segment. */
+function houseOf(id: string): string {
+  return id.split("/")[0] ?? "unknown";
+}
 
 export class CanonicalStore {
   readonly works = new Map<Slug, Work>();
@@ -45,11 +60,11 @@ export class CanonicalStore {
   static async load(dir: string): Promise<CanonicalStore> {
     const store = new CanonicalStore();
     const [works, persons, roles, productions, performances] = await Promise.all([
-      readArray<Work>(join(dir, FILES.works)),
-      readArray<Person>(join(dir, FILES.persons)),
-      readArray<Role>(join(dir, FILES.roles)),
-      readArray<Production>(join(dir, FILES.productions)),
-      readArray<Performance>(join(dir, FILES.performances)),
+      readArray<Work>(join(dir, SHARED_FILES.works)),
+      readArray<Person>(join(dir, SHARED_FILES.persons)),
+      readArray<Role>(join(dir, SHARED_FILES.roles)),
+      readDir<Production>(join(dir, PRODUCTIONS_DIR)),
+      readDir<Performance>(join(dir, PERFORMANCES_DIR)),
     ]);
     for (const w of works) store.indexWork(w);
     for (const p of persons) store.persons.set(p.slug, p);
@@ -99,24 +114,24 @@ export class CanonicalStore {
   async save(dir: string): Promise<void> {
     await Promise.all([
       writeArray(
-        join(dir, FILES.works),
+        join(dir, SHARED_FILES.works),
         sortBy([...this.works.values()], (w) => w.slug),
       ),
       writeArray(
-        join(dir, FILES.persons),
+        join(dir, SHARED_FILES.persons),
         sortBy([...this.persons.values()], (p) => p.slug),
       ),
       writeArray(
-        join(dir, FILES.roles),
+        join(dir, SHARED_FILES.roles),
         sortBy([...this.roles.values()], (r) => r.slug),
       ),
-      writeArray(
-        join(dir, FILES.productions),
-        sortBy([...this.productions.values()], (p) => p.id),
+      writePerHouse(
+        join(dir, PRODUCTIONS_DIR),
+        [...this.productions.values()],
+        (p) => p.house_slug,
       ),
-      writeArray(
-        join(dir, FILES.performances),
-        sortBy([...this.performances.values()], (p) => p.id),
+      writePerHouse(join(dir, PERFORMANCES_DIR), [...this.performances.values()], (p) =>
+        houseOf(p.production_id),
       ),
     ]);
   }
@@ -169,8 +184,51 @@ async function readArray<T>(path: string): Promise<T[]> {
   }
 }
 
+/** Read every `*.json` in a directory (sorted) and concatenate. Empty if absent. */
+async function readDir<T>(dir: string): Promise<T[]> {
+  let files: string[];
+  try {
+    files = await readdir(dir);
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code === "ENOENT") return [];
+    throw err;
+  }
+  const out: T[] = [];
+  for (const file of files.filter((f) => f.endsWith(".json")).sort()) {
+    out.push(...(await readArray<T>(join(dir, file))));
+  }
+  return out;
+}
+
 async function writeArray<T>(path: string, items: T[]): Promise<void> {
   await writeFile(path, `${JSON.stringify(items.map(clean), null, 2)}\n`);
+}
+
+/** Group items by house and write one sorted `{house}.json` per house. */
+async function writePerHouse<T extends { id: string }>(
+  dir: string,
+  items: T[],
+  houseOfItem: (item: T) => string,
+): Promise<void> {
+  await mkdir(dir, { recursive: true });
+  const byHouse = new Map<string, T[]>();
+  for (const item of items) {
+    const house = houseOfItem(item);
+    let list = byHouse.get(house);
+    if (!list) {
+      list = [];
+      byHouse.set(house, list);
+    }
+    list.push(item);
+  }
+  await Promise.all(
+    [...byHouse].map(([house, list]) =>
+      writeArray(
+        join(dir, `${house}.json`),
+        sortBy(list, (i) => i.id),
+      ),
+    ),
+  );
 }
 
 /** Drop null/undefined scalars so files stay lean; keep arrays and `false`. */
