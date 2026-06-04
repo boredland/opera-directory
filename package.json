@@ -1,0 +1,18 @@
+{
+  "name": "opera-directory",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "scrape": "bun packages/ingest/src/index.ts",
+    "typecheck": "bun --filter '*' typecheck",
+    "lint": "biome check .",
+    "format": "biome format --write ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.0",
+    "@types/bun": "^1.2.0",
+    "typescript": "^5.9.3"
+  }
+}

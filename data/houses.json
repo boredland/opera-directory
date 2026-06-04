@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "oper-frankfurt",
+    "name": "Oper Frankfurt",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "website": "https://oper-frankfurt.de",
+    "wikidata": "Q706558",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Live: /de/spielplan/ (var dates_available spine + repertoire-element cards). Archive: /de/spielplan/archiv/ by season. Detail pages carry Regie/Musikalische Leitung + cast. Reference adapter exists in museumsufer monorepo — port and regroup into productions."
+  },
+  {
+    "slug": "wiener-staatsoper",
+    "name": "Wiener Staatsoper",
+    "city": "Wien",
+    "country": "AT",
+    "website": "https://www.wiener-staatsoper.at",
+    "wikidata": "Q670711",
+    "strategy": "jsonld-event",
+    "enabled": false,
+    "notes": "Excellent archive: the Aufführungsdatenbank covers performances back to 1869. Modern spielplan emits structured JSON; check /en/play-schedule and the backend calendar API."
+  },
+  {
+    "slug": "bayerische-staatsoper",
+    "name": "Bayerische Staatsoper",
+    "city": "München",
+    "country": "DE",
+    "website": "https://www.staatsoper.de",
+    "wikidata": "Q564059",
+    "strategy": "jsonld-event",
+    "enabled": false,
+    "notes": "Spielplan has a JSON-backed calendar. Production pages list full creative team + Besetzung per date."
+  },
+  {
+    "slug": "royal-opera-house",
+    "name": "Royal Opera House",
+    "city": "London",
+    "country": "GB",
+    "website": "https://www.rbo.org.uk",
+    "wikidata": "Q1130408",
+    "strategy": "tessitura-api",
+    "enabled": false,
+    "notes": "Tessitura-backed ticketing; production + performance JSON behind the what's-on pages. Collections/archive site (ROH Collections) covers historical productions."
+  },
+  {
+    "slug": "metropolitan-opera",
+    "name": "Metropolitan Opera",
+    "city": "New York",
+    "country": "US",
+    "website": "https://www.metopera.org",
+    "wikidata": "Q1147642",
+    "strategy": "jsonld-event",
+    "enabled": false,
+    "notes": "MetOpera Database (archives.metopera.org) is a gold-standard public performance archive back to 1883 — prioritize for backfill. Live season has structured calendar JSON."
+  },
+  {
+    "slug": "teatro-alla-scala",
+    "name": "Teatro alla Scala",
+    "city": "Milano",
+    "country": "IT",
+    "website": "https://www.teatroallascala.org",
+    "wikidata": "Q775910",
+    "strategy": "jsonld-event",
+    "enabled": false,
+    "notes": "Archivio storico Ricordi + La Scala's own archive for past seasons. Live cartellone has structured event data."
+  }
+]

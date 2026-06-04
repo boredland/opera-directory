@@ -1,0 +1,35 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # daily 04:00 UTC — opera spielpläne change slowly
+  workflow_dispatch:
+    inputs:
+      houses:
+        description: "Space-separated house slugs to scrape (empty = all enabled)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - name: Run scrape + ingest
+        env:
+          FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
+          FETCH_PROXY_TOKEN: ${{ secrets.FETCH_PROXY_TOKEN }}
+        run: bun run scrape ${{ github.event.inputs.houses }}
+      # TODO(implementer): commit the regenerated canonical store / data export,
+      # mirroring museumsufer's "commit if changed" + push step.
