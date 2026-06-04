@@ -1,7 +1,851 @@
 [
   {
+    "slug": "1-1-27",
+    "name": "1.1.27",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "1-10-26",
+    "name": "1.10.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "10-10-26",
+    "name": "10.10.26 /",
+    "professions": [
+      "childrens-chorus-master"
+    ]
+  },
+  {
+    "slug": "10-12-26",
+    "name": "10.12.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "10-4-27",
+    "name": "10.4.27",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "11-10-26",
+    "name": "11.10.26 /",
+    "professions": [
+      "childrens-chorus-master",
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "11-11-26",
+    "name": "11.11.26 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "11-6-26",
+    "name": "11.6.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "12-11-26",
+    "name": "12.11.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "12-2-27",
+    "name": "12.2.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "12-9-26",
+    "name": "12.9.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "13-12-26",
+    "name": "13.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "13-6-26",
+    "name": "13.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "13-9-26",
+    "name": "13.9.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "14-1-27",
+    "name": "14.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "14-10-26",
+    "name": "14.10.26 /",
+    "professions": [
+      "childrens-chorus-master",
+      "singer"
+    ]
+  },
+  {
+    "slug": "14-2-27",
+    "name": "14.2.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "14-6-26",
+    "name": "14.6.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "15-10-26",
+    "name": "15.10.26",
+    "professions": [
+      "childrens-chorus-master",
+      "singer"
+    ]
+  },
+  {
+    "slug": "15-12-26",
+    "name": "15.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "15-2-27",
+    "name": "15.2.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "15-4-27",
+    "name": "15.4.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "15-6-26",
+    "name": "15.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "15-9-26",
+    "name": "15.9.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "16-1-27",
+    "name": "16.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "16-10-26",
+    "name": "16.10.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "16-12-26",
+    "name": "16.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "16-2-27",
+    "name": "16.2.27",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "16-3-27",
+    "name": "16.3.27",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "16-9-26",
+    "name": "16.9.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-1-27",
+    "name": "17.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-10-26",
+    "name": "17.10.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-11-26",
+    "name": "17.11.26 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "17-12-26",
+    "name": "17.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-2-27",
+    "name": "17.2.27",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-4-27",
+    "name": "17.4.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-6-26",
+    "name": "17.6.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "17-9-26",
+    "name": "17.9.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "18-1-27",
+    "name": "18.1.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "18-11-26",
+    "name": "18.11.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "18-3-27",
+    "name": "18.3.27",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "18-9-26",
+    "name": "18.9.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "19-2-27",
+    "name": "19.2.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "19-3-27",
+    "name": "19.3.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "19-9-26",
+    "name": "19.9.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "2-10-26",
+    "name": "2.10.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "2-2-27",
+    "name": "2.2.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "2-4-27",
+    "name": "2.4.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "2-7-26",
+    "name": "2.7.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "20-10-26",
+    "name": "20.10.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "20-11-26",
+    "name": "20.11.26 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "20-3-27",
+    "name": "20.3.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "20-6-26",
+    "name": "20.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "21-12-26",
+    "name": "21.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "21-2-27",
+    "name": "21.2.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "21-6-26",
+    "name": "21.6.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "22-12-26",
+    "name": "22.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "22-9-26",
+    "name": "22.9.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "23-2-27",
+    "name": "23.2.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "23-4-27",
+    "name": "23.4.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "23-6-26",
+    "name": "23.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "24-1-27",
+    "name": "24.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "24-9-26",
+    "name": "24.9.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "25-11-26",
+    "name": "25.11.26",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "25-12-26",
+    "name": "25.12.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "25-2-27",
+    "name": "25.2.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "25-3-27",
+    "name": "25.3.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "25-4-27",
+    "name": "25.4.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "26-12-26",
+    "name": "26.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "26-6-26",
+    "name": "26.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "27-1-27",
+    "name": "27.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "27-11-26",
+    "name": "27.11.26",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "27-12-26",
+    "name": "27.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "28-2-27",
+    "name": "28.2.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "29-1-27",
+    "name": "29.1.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "29-11-26",
+    "name": "29.11.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "29-12-26",
+    "name": "29.12.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "29-9-26",
+    "name": "29.9.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "3-1-27",
+    "name": "3.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "3-3-27",
+    "name": "3.3.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "3-7-26",
+    "name": "3.7.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "30-1-27",
+    "name": "30.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "31-10-26",
+    "name": "31.10.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "31-12-26",
+    "name": "31.12.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "31-3-27",
+    "name": "31.3.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "4-10-26",
+    "name": "4.10.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "4-3-27",
+    "name": "4.3.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "4-4-27",
+    "name": "4.4.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "4-6-26",
+    "name": "4.6.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "4-7-26",
+    "name": "4.7.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "5-1-27",
+    "name": "5.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "5-12-26",
+    "name": "5.12.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "5-2-27",
+    "name": "5.2.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "5-3-27",
+    "name": "5.3.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "5-4-27",
+    "name": "5.4.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "6-12-26",
+    "name": "6.12.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "6-3-27",
+    "name": "6.3.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "6-4-27",
+    "name": "6.4.27",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "6-6-26",
+    "name": "6.6.26 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "7-1-27",
+    "name": "7.1.27",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "7-10-26",
+    "name": "7.10.26 /",
+    "professions": [
+      "childrens-chorus-master",
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "7-11-26",
+    "name": "7.11.26 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "7-2-27",
+    "name": "7.2.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "7-6-26",
+    "name": "7.6.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "8-1-27",
+    "name": "8.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "8-10-26",
+    "name": "8.10.26 /",
+    "professions": [
+      "childrens-chorus-master",
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "8-12-26",
+    "name": "8.12.26 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "8-3-27",
+    "name": "8.3.27 /",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "9-1-27",
+    "name": "9.1.27 /",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "9-10-26",
+    "name": "9.10.26",
+    "professions": [
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "9-12-26",
+    "name": "9.12.26",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "9-3-27",
+    "name": "9.3.27 /",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "a-la-francaise",
     "name": "À la française",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aaron-copland",
+    "name": "Aaron Copland",
     "professions": [
       "singer"
     ]
@@ -56,8 +900,22 @@
     ]
   },
   {
+    "slug": "adriana-bignagni-lesca",
+    "name": "Adriana Bignagni Lesca",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "adriane-queiroz",
     "name": "Adriane Queiroz",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aebh-kelly",
+    "name": "Aebh Kelly",
     "professions": [
       "singer"
     ]
@@ -91,6 +949,13 @@
     ]
   },
   {
+    "slug": "akade-shy-mist-in-shy-nen-des-philhar-shy-mo-shy-nischen-staats-shy-orchesters",
+    "name": "Akade&shy;mist:in&shy;nen des Philhar&shy;mo&shy;nischen Staats&shy;orchesters",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "albert-lortzing",
     "name": "Albert Lortzing",
     "professions": [
@@ -119,8 +984,23 @@
     ]
   },
   {
+    "slug": "aleix-martinez",
+    "name": "Aleix Martínez",
+    "professions": [
+      "choreographer",
+      "singer"
+    ]
+  },
+  {
     "slug": "alejandro-balinas-vieites",
     "name": "Alejandro Baliñas Vieites",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aleksan-shy-dra-meteleva",
+    "name": "Aleksan&shy;dra Meteleva",
     "professions": [
       "singer"
     ]
@@ -135,6 +1015,20 @@
   {
     "slug": "aleksandra-meteleva",
     "name": "Aleksandra Meteleva",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aleksei-isaev",
+    "name": "Aleksei Isaev",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aleksei-kulagin",
+    "name": "Aleksei Kulagin",
     "professions": [
       "singer"
     ]
@@ -217,6 +1111,13 @@
     ]
   },
   {
+    "slug": "alexander-meier-dorzen-shy-bach",
+    "name": "Alexander Meier-Dörzen&shy;bach",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "alexander-roslavets",
     "name": "Alexander Roslavets",
     "professions": [
@@ -224,10 +1125,24 @@
     ]
   },
   {
+    "slug": "alexander-schulin",
+    "name": "Alexander Schulin",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "alexander-sivaev",
     "name": "Alexander Sivaev",
     "professions": [
       "lighting"
+    ]
+  },
+  {
+    "slug": "alexander-skrjabin",
+    "name": "Alexander Skrjabin",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -245,6 +1160,20 @@
     ]
   },
   {
+    "slug": "alexander-vinogradov",
+    "name": "Alexander Vinogradov",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "alexandra-nowakowski",
+    "name": "Alexandra Nowakowski",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "alexandra-oomens",
     "name": "Alexandra Oomens",
     "professions": [
@@ -252,8 +1181,43 @@
     ]
   },
   {
+    "slug": "alexandra-szemeredy",
+    "name": "Alexandra Szemerédy",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "alexandre-rodrigues",
+    "name": "Alexandre Rodrigues",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "alexandros-stavrakakis",
     "name": "Alexandros Stavrakakis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "alexei-botnarciuc",
+    "name": "Alexei Botnarciuc",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "alexei-ratmansky",
+    "name": "Alexei Ratmansky",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "alexey-markov",
+    "name": "Alexey Markov",
     "professions": [
       "singer"
     ]
@@ -294,6 +1258,13 @@
     ]
   },
   {
+    "slug": "alice-merega-shy-glia",
+    "name": "Alice Merega&shy;glia",
+    "professions": [
+      "chorus-master"
+    ]
+  },
+  {
     "slug": "alina-avagyan",
     "name": "Alina Avagyan",
     "professions": [
@@ -315,9 +1286,31 @@
     ]
   },
   {
+    "slug": "allison-oakes",
+    "name": "Allison Oakes",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "alma-ruoqi-sun",
     "name": "Alma Ruoqi Sun",
     "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "aloisia-de-nardis",
+    "name": "Aloisia De Nardis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
+    "name": "Alsterspatzen – Kinder- und Jugendchor der Hamburgischen Staatsoper",
+    "professions": [
+      "childrens-chorus-master",
       "singer"
     ]
   },
@@ -358,6 +1351,20 @@
     ]
   },
   {
+    "slug": "ambrose-akinmusire",
+    "name": "Ambrose Akinmusire",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "amelie-niermeyer",
+    "name": "Amélie Niermeyer",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "amitai-pati",
     "name": "Amitai Pati",
     "professions": [
@@ -365,8 +1372,22 @@
     ]
   },
   {
+    "slug": "ana-durlovski",
+    "name": "Ana Durlovski",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "ana-maria-labin",
     "name": "Ana Maria Labin",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "ana-torrequebrada",
+    "name": "Ana Torrequebrada",
     "professions": [
       "singer"
     ]
@@ -428,6 +1449,27 @@
     ]
   },
   {
+    "slug": "andreas-heise",
+    "name": "Andreas Heise",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "andreas-hofer-phoenix",
+    "name": "Andreas Hofer (Phoenix)",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "andreas-homoki",
+    "name": "Andreas Homoki",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "andreas-petzoldt",
     "name": "Andreas Petzoldt",
     "professions": [
@@ -437,6 +1479,20 @@
   {
     "slug": "andreas-reinhardt",
     "name": "Andreas Reinhardt",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "andrei-bonda-shy-renko",
+    "name": "Andrei Bonda&shy;renko",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "andrei-bondarenko",
+    "name": "Andrei Bondarenko",
     "professions": [
       "singer"
     ]
@@ -491,6 +1547,13 @@
     ]
   },
   {
+    "slug": "andrew-hamilton",
+    "name": "Andrew Hamilton",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "andrew-kim",
     "name": "Andrew Kim",
     "professions": [
@@ -498,10 +1561,38 @@
     ]
   },
   {
+    "slug": "andrzej-filonczyk",
+    "name": "Andrzej Filonczyk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "angela-brower",
+    "name": "Angela Brower",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "angelin-preljocaj",
+    "name": "Angelin Preljocaj",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "anika-rutkofsky",
     "name": "Anika Rutkofsky",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "anja-bihlmaier",
+    "name": "Anja Bihlmaier",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -516,6 +1607,13 @@
     "name": "Anmeldung erforderlich unter",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "anna-bergmann",
+    "name": "Anna Bergmann",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -590,6 +1688,20 @@
     ]
   },
   {
+    "slug": "anne-marie-vessel-schluter",
+    "name": "Anne-Marie Vessel-Schlüter",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "anne-muller",
+    "name": "Anne Müller",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "anne-pretzsch",
     "name": "Anne Pretzsch",
     "professions": [
@@ -604,6 +1716,13 @@
     ]
   },
   {
+    "slug": "anne-von-twardowski",
+    "name": "Anne von Twardowski",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "annemarie-woods",
     "name": "Annemarie Woods",
     "professions": [
@@ -613,6 +1732,20 @@
   {
     "slug": "annette-dasch",
     "name": "Annette Dasch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "annette-julia-kurz",
+    "name": "Annette Julia Kurz",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "annette-schafer",
+    "name": "Annette Schäfer",
     "professions": [
       "singer"
     ]
@@ -639,6 +1772,13 @@
     ]
   },
   {
+    "slug": "annika-schlicht",
+    "name": "Annika Schlicht",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "annika-wiessner",
     "name": "Annika Wiessner",
     "professions": [
@@ -646,8 +1786,29 @@
     ]
   },
   {
+    "slug": "ante-jerkunica",
+    "name": "Ante Jerkunica",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "anthony-ciaramitaro",
+    "name": "Anthony Ciaramitaro",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "anthony-robin-schneider",
     "name": "Anthony Robin Schneider",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "anton-barakhovsky",
+    "name": "Anton Barakhovsky",
     "professions": [
       "singer"
     ]
@@ -702,6 +1863,13 @@
     ]
   },
   {
+    "slug": "antonio-vivaldi",
+    "name": "Antonio Vivaldi",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "areum-lee",
     "name": "Areum Lee",
     "professions": [
@@ -711,6 +1879,13 @@
   {
     "slug": "armando-elizondo",
     "name": "Armando Elizondo",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "arnau-obiols",
+    "name": "Arnau Obiols",
     "professions": [
       "singer"
     ]
@@ -765,8 +1940,22 @@
     ]
   },
   {
+    "slug": "arvo-part",
+    "name": "Arvo Pärt",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "asahi-wada",
     "name": "Asahi Wada",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "astor-piazzola",
+    "name": "Astor Piazzola",
     "professions": [
       "singer"
     ]
@@ -776,6 +1965,13 @@
     "name": "Astrid Klein",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "aszure-barton",
+    "name": "Aszure Barton",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -793,6 +1989,13 @@
     ]
   },
   {
+    "slug": "august-bournonville",
+    "name": "August Bournonville",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "august-everding",
     "name": "August Everding",
     "professions": [
@@ -807,8 +2010,22 @@
     ]
   },
   {
+    "slug": "ava-bahari",
+    "name": "Ava Bahari",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "axel-kober",
     "name": "Axel Kober",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "azim-karimov",
+    "name": "Azim Karimov",
     "professions": [
       "conductor"
     ]
@@ -828,10 +2045,24 @@
     ]
   },
   {
+    "slug": "barbara-drosihn",
+    "name": "Barbara Drosihn",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "barbara-ochs",
     "name": "Barbara Ochs",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "barbara-weigel",
+    "name": "Barbara Weigel",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -849,6 +2080,13 @@
     ]
   },
   {
+    "slug": "barno-ismatulla-shy-eva",
+    "name": "Barno Ismatulla&shy;eva",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "barrie-kosky",
     "name": "Barrie Kosky",
     "professions": [
@@ -858,6 +2096,13 @@
   {
     "slug": "bartlett-sher",
     "name": "Bartlett Sher",
+    "professions": [
+      "director"
+    ]
+  },
+  {
+    "slug": "bastian-kraft",
+    "name": "Bastian Kraft",
     "professions": [
       "director"
     ]
@@ -912,6 +2157,13 @@
     ]
   },
   {
+    "slug": "benedikt-zehm",
+    "name": "Benedikt Zehm",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "benjamin-bernheim",
     "name": "Benjamin Bernheim",
     "professions": [
@@ -922,7 +2174,8 @@
     "slug": "benjamin-britten",
     "name": "Benjamin Britten",
     "professions": [
-      "composer"
+      "composer",
+      "singer"
     ]
   },
   {
@@ -940,6 +2193,13 @@
     ]
   },
   {
+    "slug": "benjamin-schalike",
+    "name": "Benjamin Schälike",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "bergische-symphoniker-und-westwood-slickers",
     "name": "Bergische Symphoniker und Westwood Slickers",
     "professions": [
@@ -951,6 +2211,20 @@
     "name": "Berliner Jugendlichen",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "bernard-giraud",
+    "name": "Bernard Giraud",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "bernd-gallasch",
+    "name": "Bernd Gallasch",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -983,6 +2257,13 @@
     ]
   },
   {
+    "slug": "bert-dalhuysen",
+    "name": "Bert Dalhuysen",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "bertrand-couderc",
     "name": "Bertrand Couderc",
     "professions": [
@@ -997,8 +2278,22 @@
     ]
   },
   {
+    "slug": "bettina-bartz",
+    "name": "Bettina Bartz",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "bettina-bottinger",
     "name": "Bettina Böttinger",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "bettina-giese",
+    "name": "Bettina Giese",
     "professions": [
       "singer"
     ]
@@ -1053,6 +2348,13 @@
     ]
   },
   {
+    "slug": "bogdan-dumitrascu",
+    "name": "Bogdan Dumitraşcu",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "bohuslav-martinu",
     "name": "Bohuslav Martinů",
     "professions": [
@@ -1067,10 +2369,38 @@
     ]
   },
   {
+    "slug": "boris-pinkhasovich",
+    "name": "Boris Pinkhasovich",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "bradley-wood",
     "name": "Bradley Wood",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "brandon-stirling-baker",
+    "name": "Brandon Stirling Baker",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "breanna-o-mara",
+    "name": "Breanna O'Mara",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "brian-barker",
+    "name": "Brian Barker",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1081,10 +2411,24 @@
     ]
   },
   {
+    "slug": "brigitta-listra",
+    "name": "Brigitta Listra",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "brigitte-reiffenstuel",
     "name": "Brigitte Reiffenstuel",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "bruno-garibaldi",
+    "name": "Bruno Garibaldi",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1130,6 +2474,13 @@
     ]
   },
   {
+    "slug": "camille-lemonnier",
+    "name": "Camille Lemonnier",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "camille-saint-saens",
     "name": "Camille Saint-Saëns",
     "professions": [
@@ -1165,6 +2516,13 @@
     ]
   },
   {
+    "slug": "carlo-monta-shy-naro",
+    "name": "Carlo Monta&shy;naro",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "carlo-rizzi",
     "name": "Carlo Rizzi",
     "professions": [
@@ -1183,6 +2541,13 @@
     "name": "Carmen Artaza",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "carmen-kovacs",
+    "name": "Carmen Kovacs",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -1235,6 +2600,13 @@
     ]
   },
   {
+    "slug": "carsten-sander",
+    "name": "Carsten Sander",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "cassie-augusta-j-rgensen",
     "name": "Cassie Augusta Jørgensen",
     "professions": [
@@ -1246,6 +2618,13 @@
     "name": "Caterina Piva",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "catharina-luhr",
+    "name": "Catharina Lühr",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -1284,8 +2663,22 @@
     ]
   },
   {
+    "slug": "chao-deng",
+    "name": "Chao Deng",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "charles-sy",
     "name": "Charles Sy",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "charlotte-kragh",
+    "name": "Charlotte Kragh",
     "professions": [
       "singer"
     ]
@@ -1322,6 +2715,14 @@
     "slug": "chor-der-deutschen-oper-berlin",
     "name": "Chor der Deutschen Oper Berlin",
     "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "chor-der-hamburgischen-staatsoper",
+    "name": "Chor der Hamburgischen Staatsoper",
+    "professions": [
+      "chorus-master",
       "singer"
     ]
   },
@@ -1368,6 +2769,20 @@
     ]
   },
   {
+    "slug": "christian-gunther",
+    "name": "Christian Günther",
+    "professions": [
+      "chorus-master"
+    ]
+  },
+  {
+    "slug": "christian-lacroix",
+    "name": "Christian Lacroix",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "christian-lindhorst",
     "name": "Christian Lindhorst",
     "professions": [
@@ -1378,6 +2793,7 @@
     "slug": "christian-schmidt",
     "name": "Christian Schmidt",
     "professions": [
+      "costume-designer",
       "set-designer"
     ]
   },
@@ -1386,6 +2802,20 @@
     "name": "Christian Schröder",
     "professions": [
       "dramaturgy"
+    ]
+  },
+  {
+    "slug": "christian-seibold",
+    "name": "Christian Seibold",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "christian-tetzlaff",
+    "name": "Christian Tetzlaff",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1431,6 +2861,13 @@
     ]
   },
   {
+    "slug": "christo-shy-pher-warmuth",
+    "name": "Christo&shy;pher Warmuth",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "christof-hetzer",
     "name": "Christof Hetzer",
     "professions": [
@@ -1442,6 +2879,13 @@
     "name": "Christof Loy",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "christoph-pohl",
+    "name": "Christoph Pohl",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1487,6 +2931,13 @@
     ]
   },
   {
+    "slug": "christopher-ruping",
+    "name": "Christopher Rüping",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "christopher-tolle",
     "name": "Christopher Tölle",
     "professions": [
@@ -1494,8 +2945,29 @@
     ]
   },
   {
+    "slug": "clara-aguilar",
+    "name": "Clara Aguilar",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "clara-grunwald",
+    "name": "Clara Grünwald",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "clara-kim",
     "name": "Clara Kim",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "clara-kunzke",
+    "name": "Clara Kunzke",
     "professions": [
       "singer"
     ]
@@ -1512,6 +2984,13 @@
     "name": "Claude Debussy",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "claudia-de-smet",
+    "name": "Claudia De Smet",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1571,6 +3050,13 @@
     ]
   },
   {
+    "slug": "clemens-bergemann",
+    "name": "Clemens Bergemann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "clemens-bieber",
     "name": "Clemens Bieber",
     "professions": [
@@ -1594,6 +3080,13 @@
   {
     "slug": "cohen-aitchison-dugas",
     "name": "Cohen Aitchison-Dugas",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "colin-aikins",
+    "name": "Colin Aikins",
     "professions": [
       "singer"
     ]
@@ -1624,6 +3117,13 @@
     "name": "Cornelius Meister",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "craig-salstein",
+    "name": "Craig Salstein",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1669,6 +3169,13 @@
     ]
   },
   {
+    "slug": "damian-rebgetz",
+    "name": "Damian Rebgetz",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "damian-szifron",
     "name": "Damián Szifron",
     "professions": [
@@ -1680,6 +3187,13 @@
     "name": "Damiano Michieletto",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "dan-deacon",
+    "name": "Dan Deacon",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1706,6 +3220,13 @@
   {
     "slug": "daniel-johansson",
     "name": "Daniel  Johansson",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "daniel-kluge",
+    "name": "Daniel Kluge",
     "professions": [
       "singer"
     ]
@@ -1739,10 +3260,25 @@
     ]
   },
   {
+    "slug": "daniele-bonelli",
+    "name": "Daniele Bonelli",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "daniele-squeo",
     "name": "Daniele Squeo",
     "professions": [
-      "conductor"
+      "conductor",
+      "singer"
+    ]
+  },
+  {
+    "slug": "daniella-strasfogel",
+    "name": "Daniella Strasfogel",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -1851,6 +3387,20 @@
     ]
   },
   {
+    "slug": "david-szauder",
+    "name": "David Szauder",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
+    "slug": "davy-cunningham",
+    "name": "Davy Cunningham",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "deborah-einspieler",
     "name": "Deborah Einspieler",
     "professions": [
@@ -1862,6 +3412,21 @@
     "name": "Demian Wohler",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "demis-volpi",
+    "name": "Demis Volpi",
+    "professions": [
+      "choreographer",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "derek-welton",
+    "name": "Derek Welton",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -1949,6 +3514,13 @@
     ]
   },
   {
+    "slug": "dmitri-schostakowitsch",
+    "name": "Dmitri Schostakowitsch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "dmitri-tcherniakov",
     "name": "Dmitri Tcherniakov",
     "professions": [
@@ -1959,6 +3531,13 @@
   {
     "slug": "dmitry-ivanchey",
     "name": "Dmitry Ivanchey",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "dmitry-korchak",
+    "name": "Dmitry Korchak",
     "professions": [
       "singer"
     ]
@@ -2020,6 +3599,13 @@
     ]
   },
   {
+    "slug": "dovlet-nurgel-shy-diyev",
+    "name": "Dovlet Nurgel&shy;diyev",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "duncan-ward",
     "name": "Duncan Ward",
     "professions": [
@@ -2055,6 +3641,13 @@
     ]
   },
   {
+    "slug": "edvin-revazov",
+    "name": "Edvin Revazov",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "edward-clug",
     "name": "Edward Clug",
     "professions": [
@@ -2066,6 +3659,13 @@
     "name": "Edward Clug, Katja Wiegand",
     "professions": [
       "dramaturgy"
+    ]
+  },
+  {
+    "slug": "ehemaligen-alsterspatzen",
+    "name": "Ehemaligen Alsterspatzen",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -2097,6 +3697,13 @@
     ]
   },
   {
+    "slug": "einojuhani-rautavaara",
+    "name": "Einojuhani Rautavaara",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "ekaterina-chayka-rubinstein",
     "name": "Ekaterina Chayka-Rubinstein",
     "professions": [
@@ -2106,6 +3713,13 @@
   {
     "slug": "ela-beysun",
     "name": "Ela  Beysun",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "elbenita-kajtazi",
+    "name": "Elbenita Kajtazi",
     "professions": [
       "singer"
     ]
@@ -2146,6 +3760,13 @@
     ]
   },
   {
+    "slug": "elena-tsalla-shy-gova",
+    "name": "Elena Tsalla&shy;gova",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "elena-tsallagova",
     "name": "Elena Tsallagova",
     "professions": [
@@ -2155,6 +3776,13 @@
   {
     "slug": "elena-villalon",
     "name": "Elena Villalón",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "elena-zaremba",
+    "name": "Elena Zaremba",
     "professions": [
       "singer"
     ]
@@ -2174,8 +3802,22 @@
     ]
   },
   {
+    "slug": "elisabeth-bell",
+    "name": "Elisabeth Bell",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "elisabeth-freyhoff",
     "name": "Elisabeth Freyhoff",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "elisabeth-holscheidt",
+    "name": "Elisabeth Hölscheidt",
     "professions": [
       "singer"
     ]
@@ -2188,8 +3830,22 @@
     ]
   },
   {
+    "slug": "eliza-boom",
+    "name": "Eliza Boom",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "elizabeth-reiter",
     "name": "Elizabeth Reiter",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "ella-rosenberg",
+    "name": "Ella Rosenberg",
     "professions": [
       "singer"
     ]
@@ -2253,6 +3909,13 @@
   {
     "slug": "emily-hindrichs",
     "name": "Emily Hindrichs",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "emily-richter",
+    "name": "Emily Richter",
     "professions": [
       "singer"
     ]
@@ -2342,6 +4005,14 @@
     ]
   },
   {
+    "slug": "esme-appleton",
+    "name": "Esme Appleton",
+    "professions": [
+      "director",
+      "singer"
+    ]
+  },
+  {
     "slug": "esther-bialas",
     "name": "Esther Bialas",
     "professions": [
@@ -2364,8 +4035,22 @@
     ]
   },
   {
+    "slug": "eun-sun-kim",
+    "name": "Eun Sun Kim",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "eva-budde",
     "name": "Eva Budde",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "eva-kloborg",
+    "name": "Eva Kloborg",
     "professions": [
       "singer"
     ]
@@ -2378,6 +4063,13 @@
     ]
   },
   {
+    "slug": "evan-l-hirondelle",
+    "name": "Evan L'Hirondelle",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "eve-maud-hubeaux",
     "name": "Eve-Maud Hubeaux",
     "professions": [
@@ -2387,6 +4079,13 @@
   {
     "slug": "evelin-novak",
     "name": "Evelin Novak",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "evelyn-glennie",
+    "name": "Evelyn Glennie",
     "professions": [
       "singer"
     ]
@@ -2435,6 +4134,13 @@
     ]
   },
   {
+    "slug": "fabian-otten",
+    "name": "Fabian Otten",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "fabian-wendling",
     "name": "Fabian Wendling",
     "professions": [
@@ -2470,6 +4176,14 @@
     ]
   },
   {
+    "slug": "falko-herold",
+    "name": "Falko Herold",
+    "professions": [
+      "singer",
+      "video-designer"
+    ]
+  },
+  {
     "slug": "fang-cai",
     "name": "Fang Cai",
     "professions": [
@@ -2491,6 +4205,13 @@
     ]
   },
   {
+    "slug": "fazil-say",
+    "name": "Fazil Say",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "fe-anouk-lowe",
     "name": "Fe Anouk Löwe",
     "professions": [
@@ -2509,6 +4230,27 @@
     "name": "Felix Krieger",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "felix-mendelssohn-bartholdy",
+    "name": "Felix Mendelssohn Bartholdy",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "felix-von-werder",
+    "name": "Felix von Werder",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "ferdinand-muradyan",
+    "name": "Ferdinand Muradyan",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -2582,10 +4324,24 @@
     ]
   },
   {
+    "slug": "francesco-cortese",
+    "name": "Francesco Cortese",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "francesco-demuro",
     "name": "Francesco Demuro",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "francesco-ivan-ciampa",
+    "name": "Francesco Ivan Ciampa",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -2610,6 +4366,13 @@
     ]
   },
   {
+    "slug": "francis-husers",
+    "name": "Francis Hüsers",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "francis-poulenc",
     "name": "Francis Poulenc",
     "professions": [
@@ -2617,10 +4380,24 @@
     ]
   },
   {
+    "slug": "franck-evin",
+    "name": "Franck Evin",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "francois-xavier-roth",
     "name": "François-Xavier Roth",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "frank-andersen",
+    "name": "Frank Andersen",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -2638,6 +4415,13 @@
     ]
   },
   {
+    "slug": "franz-josef-selig",
+    "name": "Franz-Josef Selig",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "franz-peter-david",
     "name": "Franz Peter David",
     "professions": [
@@ -2652,6 +4436,13 @@
     ]
   },
   {
+    "slug": "franziska-machens",
+    "name": "Franziska Machens",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "fred-berndt",
     "name": "Fred Berndt",
     "professions": [
@@ -2661,6 +4452,13 @@
   {
     "slug": "freddie-de-tommaso",
     "name": "Freddie De Tommaso",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "frederic-chopin",
+    "name": "Frédéric Chopin",
     "professions": [
       "singer"
     ]
@@ -2696,6 +4494,27 @@
   {
     "slug": "friedrich-hamel",
     "name": "Friedrich Hamel",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "futaba-ishizaki",
+    "name": "Futaba Ishizaki",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "gabor-bretz",
+    "name": "Gábor Bretz",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "gabriel-barbosa",
+    "name": "Gabriel Barbosa",
     "professions": [
       "singer"
     ]
@@ -2757,10 +4576,24 @@
     ]
   },
   {
+    "slug": "galina-chepla-shy-kova",
+    "name": "Galina Chepla&shy;kova",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "galina-cheplakova",
     "name": "Galina Cheplakova",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "gao-jie",
+    "name": "Gao Jie",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -2820,6 +4653,13 @@
     ]
   },
   {
+    "slug": "george-balanchine",
+    "name": "George Balanchine",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "george-petrou",
     "name": "George Petrou",
     "professions": [
@@ -2831,6 +4671,13 @@
     "name": "Georges Bizet",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "georgiy-dubko",
+    "name": "Georgiy Dubko",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -2850,6 +4697,13 @@
   {
     "slug": "gerard-schneider",
     "name": "Gerard Schneider",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "gerburg-stoffel",
+    "name": "Gerburg Stoffel",
     "professions": [
       "singer"
     ]
@@ -2876,6 +4730,13 @@
     ]
   },
   {
+    "slug": "ghedaila-tazartes",
+    "name": "Ghédaila Tazartés",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "giacomo-puccini",
     "name": "Giacomo Puccini",
     "professions": [
@@ -2890,10 +4751,31 @@
     ]
   },
   {
+    "slug": "giampaolo-bisanti",
+    "name": "Giampaolo Bisanti",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "giancarlo-del-monaco",
+    "name": "Giancarlo del Monaco",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "gianluca-buratto",
     "name": "Gianluca Buratto",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "gideon-davey",
+    "name": "Gideon Davey",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -3010,6 +4892,13 @@
     ]
   },
   {
+    "slug": "gordon-kampe",
+    "name": "Gordon Kampe",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
     "slug": "gotz-friedrich",
     "name": "Götz Friedrich",
     "professions": [
@@ -3017,10 +4906,24 @@
     ]
   },
   {
+    "slug": "gotz-fuhrmann",
+    "name": "Götz Fuhrmann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "gregorio-zurla",
     "name": "Gregorio Zurla",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "gregory-kunde",
+    "name": "Gregory Kunde",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -3045,6 +4948,13 @@
     ]
   },
   {
+    "slug": "guido-levi",
+    "name": "Guido Levi",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "guido-sterzl",
     "name": "Guido Sterzl",
     "professions": [
@@ -3066,6 +4976,34 @@
     ]
   },
   {
+    "slug": "gustav-mahler",
+    "name": "Gustav Mahler",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "guy-joosten",
+    "name": "Guy Joosten",
+    "professions": [
+      "director"
+    ]
+  },
+  {
+    "slug": "guy-mintus",
+    "name": "Guy Mintus",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "gyorgy-ligeti",
+    "name": "György Ligeti",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "gyula-orendt",
     "name": "Gyula Orendt",
     "professions": [
@@ -3080,10 +5018,31 @@
     ]
   },
   {
+    "slug": "hamburg-ballett",
+    "name": "Hamburg Ballett",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "hannah-gladstones",
+    "name": "Hannah Gladstones",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "hannah-muller",
     "name": "Hannah Müller",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "hans-dieter-schaal",
+    "name": "Hans-Dieter Schaal †",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -3098,6 +5057,13 @@
     "name": "Hans Schavernoch",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "hans-van-manen",
+    "name": "Hans van Manen",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -3117,6 +5083,20 @@
   {
     "slug": "hanseong-yun",
     "name": "Hanseong Yun",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "harf-zimmermann",
+    "name": "Harf Zimmermann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "harry-escott",
+    "name": "Harry Escott",
     "professions": [
       "singer"
     ]
@@ -3157,10 +5137,66 @@
     ]
   },
   {
+    "slug": "heinrich-brunke",
+    "name": "Heinrich Brunke",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "heinz-gohrig",
     "name": "Heinz Göhrig",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "heja-netirk",
+    "name": "Hêja Netirk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "hella-bartnig",
+    "name": "Hella Bartnig",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
+    "slug": "hellen-kwon",
+    "name": "Hellen Kwon",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "henning-streck",
+    "name": "Henning Streck",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "henri-christofer-aavik",
+    "name": "Henri Christofer Aavik",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "henriette-von-schnaken-shy-burg",
+    "name": "Henriette von Schnaken&shy;burg",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
+    "slug": "henrik-nanasi",
+    "name": "Henrik Nánási",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -3171,6 +5207,22 @@
     ]
   },
   {
+    "slug": "herbert-barz-murauer",
+    "name": "Herbert Barz-Murauer",
+    "professions": [
+      "costume-designer",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "herbert-fritsch",
+    "name": "Herbert Fritsch",
+    "professions": [
+      "director",
+      "set-designer"
+    ]
+  },
+  {
     "slug": "herbert-murauer",
     "name": "Herbert Murauer",
     "professions": [
@@ -3178,10 +5230,73 @@
     ]
   },
   {
+    "slug": "herman-severin-l-venskjold",
+    "name": "Herman Severin Løvenskjold",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "herve-koubi",
+    "name": "Hervé Koubi",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "hilary-hahn",
+    "name": "Hilary Hahn",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "hovhannes-ayvazyan",
+    "name": "Hovhannes Ayvazyan",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "howard-merlin",
+    "name": "Howard Merlin",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "hoyoon-kim",
     "name": "Hoyoon Kim",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "hu-yanjun",
+    "name": "Hu Yanjun",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "hubert-kowal-shy-czyk",
+    "name": "Hubert Kowal&shy;czyk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "hugo-moinet",
+    "name": "Hugo Moinet",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "humberto-leon",
+    "name": "Humberto Leon",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -3213,6 +5328,13 @@
     ]
   },
   {
+    "slug": "ida-aldrian",
+    "name": "Ida Aldrian",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "iestyn-davies",
     "name": "Iestyn Davies",
     "professions": [
@@ -3231,6 +5353,34 @@
     "name": "Igor Strawinsky",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel",
+    "name": "Igor Strawinsky L´enfant et les sortilèges Oper in zwei Teilen (1925) Komposition: Maurice Ravel",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
+    "slug": "ilia-kazakov",
+    "name": "Ilia Kazakov",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "in-operabilities",
+    "name": "[in]operabilities",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "ines-lopez-fernandez",
+    "name": "Inés López Fernández",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -3311,6 +5461,27 @@
     ]
   },
   {
+    "slug": "iris-icellioglu",
+    "name": "Iris Icellioglu",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "iris-van-wijnen",
+    "name": "Iris van Wijnen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "isaak-seidenberg",
+    "name": "Isaak Seidenberg",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "isabella-homann",
     "name": "Isabella Homann",
     "professions": [
@@ -3346,6 +5517,13 @@
     ]
   },
   {
+    "slug": "iveta-apkalna",
+    "name": "Iveta Apkalna",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "ivo-martin",
     "name": "Ivo Martin",
     "professions": [
@@ -3353,8 +5531,36 @@
     ]
   },
   {
+    "slug": "jack-bruce",
+    "name": "Jack Bruce",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "jacobo-ochoa",
     "name": "Jacobo Ochoa",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jacqueline-davenport",
+    "name": "Jacqueline Davenport",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "jacques-chatelet",
+    "name": "Jacques Chatelet",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "jacques-imbrailo",
+    "name": "Jacques Imbrailo",
     "professions": [
       "singer"
     ]
@@ -3395,6 +5601,13 @@
     ]
   },
   {
+    "slug": "james-blake",
+    "name": "James Blake",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "james-ley",
     "name": "James Ley",
     "professions": [
@@ -3416,6 +5629,13 @@
     ]
   },
   {
+    "slug": "jan-bosse",
+    "name": "Jan Bosse",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "jan-hartmann",
     "name": "Jan Hartmann",
     "professions": [
@@ -3430,6 +5650,13 @@
     ]
   },
   {
+    "slug": "jan-koester-talking-animals",
+    "name": "Jan Koester (Talking Animals)",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "jan-philipp-gloger",
     "name": "Jan Philipp Gloger",
     "professions": [
@@ -3437,10 +5664,39 @@
     ]
   },
   {
+    "slug": "jan-speckenbach",
+    "name": "Jan Speckenbach",
+    "professions": [
+      "lighting",
+      "video-designer"
+    ]
+  },
+  {
+    "slug": "janetka-hosco",
+    "name": "Janetka Hoşco",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "janic-bebi",
+    "name": "Janic Bebi",
+    "professions": [
+      "video-designer"
+    ]
+  },
+  {
     "slug": "janina-capelle",
     "name": "Janina Capelle",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "janina-zell",
+    "name": "Janina Zell",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -3486,6 +5742,20 @@
     ]
   },
   {
+    "slug": "jeffrey-gibson",
+    "name": "Jeffrey Gibson",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "jelena-miletic",
+    "name": "Jelena Miletić",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "jens-hermes-cedileau",
     "name": "Jens Hermes-Cédileau",
     "professions": [
@@ -3503,6 +5773,27 @@
   {
     "slug": "jeremy-bines",
     "name": "Jeremy Bines",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jesper-kongshaug",
+    "name": "Jesper Kongshaug",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "jesper-tj-rby-korneliusen",
+    "name": "Jesper Tjærby Korneliusen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jess-dandy",
+    "name": "Jess Dandy",
     "professions": [
       "singer"
     ]
@@ -3606,6 +5897,27 @@
     ]
   },
   {
+    "slug": "joao-martinho",
+    "name": "João Martinho",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "joao-santana",
+    "name": "João Santana",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jodie-gates",
+    "name": "Jodie Gates",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "joel-allison",
     "name": "Joel Allison",
     "professions": [
@@ -3629,6 +5941,13 @@
   {
     "slug": "johann-eilrich",
     "name": "Johann Eilrich",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "johann-sebastian-bach",
+    "name": "Johann Sebastian Bach",
     "professions": [
       "singer"
     ]
@@ -3662,10 +5981,31 @@
     ]
   },
   {
+    "slug": "johannes-harneit",
+    "name": "Johannes Harneit",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "johannes-hofmann",
+    "name": "Johannes Hofmann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "johannes-leiacker",
     "name": "Johannes Leiacker",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "johannes-martin-kranzle",
+    "name": "Johannes Martin Kränzle",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -3690,6 +6030,36 @@
     ]
   },
   {
+    "slug": "john-neumeier",
+    "name": "John Neumeier",
+    "professions": [
+      "choreographer",
+      "costume-designer",
+      "singer"
+    ]
+  },
+  {
+    "slug": "jonah-hoskins",
+    "name": "Jonah Hoskins",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jonas-holle",
+    "name": "Jonas Holle",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jonas-link",
+    "name": "Jonas Link",
+    "professions": [
+      "video-designer"
+    ]
+  },
+  {
     "slug": "jonas-muller",
     "name": "Jonas Müller",
     "professions": [
@@ -3699,6 +6069,13 @@
   {
     "slug": "jonas-muller-dongsu-lee-aleksander-myrling",
     "name": "Jonas Müller, Dongsu Lee, Aleksander Myrling",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jonathan-alsberry",
+    "name": "Jonathan Alsberry",
     "professions": [
       "singer"
     ]
@@ -3716,6 +6093,13 @@
     "professions": [
       "conductor",
       "singer"
+    ]
+  },
+  {
+    "slug": "jonathan-mertz",
+    "name": "Jonathan Mertz",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -3755,6 +6139,13 @@
     ]
   },
   {
+    "slug": "jorge-jara",
+    "name": "Jorge Jara",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "jose-dario-innella",
     "name": "José Darío Innella",
     "professions": [
@@ -3762,10 +6153,24 @@
     ]
   },
   {
+    "slug": "jose-luna",
+    "name": "José Luna",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "jose-miguel-perez-sierra",
     "name": "José Miguel Pérez-Sierra",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "jose-silva",
+    "name": "José Silva",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -3790,6 +6195,13 @@
     ]
   },
   {
+    "slug": "josephine-ann-endicott",
+    "name": "Josephine Ann Endicott",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "joshua-hopkins",
     "name": "Joshua Hopkins",
     "professions": [
@@ -3804,6 +6216,13 @@
     ]
   },
   {
+    "slug": "jozef-varga",
+    "name": "Jozef Varga",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "juanita-lascarro",
     "name": "Juanita Lascarro",
     "professions": [
@@ -3813,6 +6232,13 @@
   {
     "slug": "judita-nagyova",
     "name": "Judita Nagyová",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "judith-fugate",
+    "name": "Judith Fugate",
     "professions": [
       "singer"
     ]
@@ -3839,6 +6265,13 @@
     ]
   },
   {
+    "slug": "judith-wiemers",
+    "name": "Judith Wiemers",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "julia-bell-rachel-speirs-svea-verfurth",
     "name": "Julia Bell, Rachel Speirs, Svea Verfürth",
     "professions": [
@@ -3853,6 +6286,13 @@
     ]
   },
   {
+    "slug": "julia-kleiter",
+    "name": "Julia Kleiter",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "julia-muer",
     "name": "Julia Müer",
     "professions": [
@@ -3864,6 +6304,13 @@
     "name": "Julia Rösler",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "julia-schinke",
+    "name": "Julia Schinke",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -3897,6 +6344,13 @@
   {
     "slug": "julian-schulzki",
     "name": "Julian Schulzki",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "julie-fuchs",
+    "name": "Julie Fuchs",
     "professions": [
       "singer"
     ]
@@ -3937,10 +6391,38 @@
     ]
   },
   {
+    "slug": "jurgen-rose",
+    "name": "Jürgen Rose",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "jurgen-sacher",
+    "name": "Jürgen Sacher",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "justin-peck",
+    "name": "Justin Peck",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "justina-klimczyk",
     "name": "Justina  Klimczyk",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "kady-evanyshyn",
+    "name": "Kady Evanyshyn",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -3972,6 +6454,13 @@
     ]
   },
   {
+    "slug": "kang-seo",
+    "name": "Kang Seo",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "kangyoon-shine-lee",
     "name": "Kangyoon Shine Lee",
     "professions": [
@@ -3981,6 +6470,27 @@
   {
     "slug": "karin-perk",
     "name": "Karin Perk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "karinska",
+    "name": "Karinska",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
+    "slug": "karl-kneidl",
+    "name": "Karl Kneidl",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "karl-uhlenbrock",
+    "name": "Karl Uhlenbrock",
     "professions": [
       "singer"
     ]
@@ -4014,11 +6524,25 @@
     ]
   },
   {
+    "slug": "kartal-karagedik",
+    "name": "Kartal Karagedik",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "kaspar-glarner",
     "name": "Kaspar Glarner",
     "professions": [
       "costume-designer",
       "set-designer"
+    ]
+  },
+  {
+    "slug": "katarina-bradic",
+    "name": "Katarina Bradić",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -4085,6 +6609,13 @@
     ]
   },
   {
+    "slug": "katharina-von-held",
+    "name": "Katharina von Held",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "katherine-marriott",
     "name": "Katherine Marriott",
     "professions": [
@@ -4099,6 +6630,13 @@
     ]
   },
   {
+    "slug": "kathrin-plath",
+    "name": "Kathrin Plath",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "kathryn-lewek",
     "name": "Kathryn Lewek",
     "professions": [
@@ -4106,10 +6644,31 @@
     ]
   },
   {
+    "slug": "katie-lowe",
+    "name": "Katie Lowe",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "katinka-deecke",
+    "name": "Katinka Deecke",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "katja-fischer",
     "name": "Katja Fischer",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "katja-pieweck",
+    "name": "Katja Pieweck",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -4127,11 +6686,39 @@
     ]
   },
   {
+    "slug": "katrin-kath",
+    "name": "Katrin Kath",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "katrin-lea-tag",
     "name": "Katrin Lea Tag",
     "professions": [
       "costume-designer",
       "set-designer"
+    ]
+  },
+  {
+    "slug": "kayleigh-decker",
+    "name": "Kayleigh Decker",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "kebyart",
+    "name": "Kebyart",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "keith-klein",
+    "name": "Keith Klein",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -4149,10 +6736,45 @@
     ]
   },
   {
+    "slug": "kent-nagano",
+    "name": "Kent Nagano",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "keren-kagarlitsky",
+    "name": "Keren Kagarlitsky",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "keri-lynn-wilson",
     "name": "Keri-Lynn Wilson",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "kerstin-kruger",
+    "name": "Kerstin Krüger",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "keso-dekker",
+    "name": "Keso Dekker",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "kevin-sock",
+    "name": "Kevin Sock",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -4184,10 +6806,32 @@
     ]
   },
   {
+    "slug": "kiran-west",
+    "name": "Kiran West",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "kirsten-dephoff",
+    "name": "Kirsten Dephoff",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "klaus-bruns",
     "name": "Klaus Bruns",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "klaus-grunberg",
+    "name": "Klaus Grünberg",
+    "professions": [
+      "lighting",
+      "set-designer"
     ]
   },
   {
@@ -4212,6 +6856,13 @@
     ]
   },
   {
+    "slug": "konradin-seitzer",
+    "name": "Konradin Seitzer",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "konstanze-lowe",
     "name": "Konstanze Löwe",
     "professions": [
@@ -4219,8 +6870,36 @@
     ]
   },
   {
+    "slug": "kostas-malamis",
+    "name": "Kostas Malamis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "krassimira-stoyanova",
+    "name": "Krassimira Stoyanova",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "kristi-anna-isene",
     "name": "Kristi Anna Isene",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "kristina-paulin",
+    "name": "Kristina Paulin",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "kristina-stanek",
+    "name": "Kristina Stanek",
     "professions": [
       "singer"
     ]
@@ -4296,6 +6975,13 @@
     ]
   },
   {
+    "slug": "lane-schafer",
+    "name": "Lane Schäfer",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "lars-marcel-braun",
     "name": "Lars Marcel Braun",
     "professions": [
@@ -4331,6 +7017,13 @@
     ]
   },
   {
+    "slug": "laura-schmidt",
+    "name": "Laura Schmidt",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "laurent-pelly",
     "name": "Laurent Pelly",
     "professions": [
@@ -4340,6 +7033,27 @@
   {
     "slug": "lauri-vasar",
     "name": "Lauri Vasar",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lawrence-brownlee",
+    "name": "Lawrence Brownlee",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lawrence-power",
+    "name": "Lawrence Power",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "leah-hawkins",
+    "name": "Leah Hawkins",
     "professions": [
       "singer"
     ]
@@ -4359,6 +7073,20 @@
     ]
   },
   {
+    "slug": "lene-schwind",
+    "name": "Lene Schwind",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
+    "slug": "lennart-radtke",
+    "name": "Lennart Radtke",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "leo-kulas",
     "name": "Leo Kulaš",
     "professions": [
@@ -4373,6 +7101,13 @@
     ]
   },
   {
+    "slug": "leon-gurvitch",
+    "name": "Leon Gurvitch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "leonardo-sini",
     "name": "Leonardo Sini",
     "professions": [
@@ -4380,8 +7115,36 @@
     ]
   },
   {
+    "slug": "lera-auerbach",
+    "name": "Lera Auerbach",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "leroy-mokgatle",
     "name": "Leroy Mokgatle",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "levy-sekgapane",
+    "name": "Levy Sekgapane",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "li-kun",
+    "name": "Li Kun",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
+    "slug": "liang-li",
+    "name": "Liang Li",
     "professions": [
       "singer"
     ]
@@ -4396,6 +7159,13 @@
   {
     "slug": "lilit-davtyan",
     "name": "Lilit Davtyan",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lilly-j-rstad",
+    "name": "Lilly Jørstad",
     "professions": [
       "singer"
     ]
@@ -4424,6 +7194,35 @@
   {
     "slug": "lisa-florentine-schmalz-staatsoper24",
     "name": "Lisa Florentine Schmalz / staatsoper24",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lisa-futterer",
+    "name": "Lisa Fütterer",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lisa-moro",
+    "name": "Lisa Moro",
+    "professions": [
+      "costume-designer",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "lisette-oropesa",
+    "name": "Lisette Oropesa",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "liu-zhonglei",
+    "name": "Liu Zhonglei",
     "professions": [
       "singer"
     ]
@@ -4527,6 +7326,13 @@
     ]
   },
   {
+    "slug": "luciano-di-martino",
+    "name": "Luciano Di Martino",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "lucio-gallo",
     "name": "Lucio Gallo",
     "professions": [
@@ -4618,10 +7424,24 @@
     ]
   },
   {
+    "slug": "magdolna-parditka",
+    "name": "Magdolna Parditka",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "magnus-dietrich",
     "name": "Magnus Dietrich",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "maike-graf",
+    "name": "Maike Graf",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -4639,8 +7459,22 @@
     ]
   },
   {
+    "slug": "malte-arkona",
+    "name": "Malte Arkona",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "malte-krasting",
     "name": "Malte Krasting",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
+    "slug": "malte-ubenauf",
+    "name": "Malte Ubenauf",
     "professions": [
       "dramaturgy"
     ]
@@ -4709,6 +7543,20 @@
     ]
   },
   {
+    "slug": "manuela-tyllack",
+    "name": "Manuela Tyllack",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "marc-happel",
+    "name": "Marc Happel",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "marc-minkowski",
     "name": "Marc Minkowski",
     "professions": [
@@ -4737,6 +7585,13 @@
     ]
   },
   {
+    "slug": "marco-filippo-romano",
+    "name": "Marco Filippo Romano",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "marco-jentzsch",
     "name": "Marco Jentzsch",
     "professions": [
@@ -4754,6 +7609,7 @@
     "slug": "marcos-morau",
     "name": "Marcos Morau",
     "professions": [
+      "choreographer",
       "singer"
     ]
   },
@@ -4774,6 +7630,13 @@
   {
     "slug": "margarethe-niebuhr",
     "name": "Margarethe Niebuhr",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "margarita-nekrasova",
+    "name": "Margarita Nekrasova",
     "professions": [
       "singer"
     ]
@@ -4835,6 +7698,13 @@
     ]
   },
   {
+    "slug": "mariana-poltorak",
+    "name": "Mariana Poltorak",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "marie-christin-zeisset",
     "name": "Marie-Christin Zeisset",
     "professions": [
@@ -4844,6 +7714,21 @@
   {
     "slug": "marie-eve-signeyrole",
     "name": "Marie-Ève Signeyrole",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "marie-luise-strandt",
+    "name": "Marie-Luise Strandt",
+    "professions": [
+      "costume-designer",
+      "singer"
+    ]
+  },
+  {
+    "slug": "marie-maidowski",
+    "name": "Marie Maidowski",
     "professions": [
       "singer"
     ]
@@ -4877,6 +7762,13 @@
     ]
   },
   {
+    "slug": "mark-stanley",
+    "name": "Mark Stanley",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "marko-japelj",
     "name": "Marko Japelj",
     "professions": [
@@ -4884,10 +7776,24 @@
     ]
   },
   {
+    "slug": "markus-lehtinen",
+    "name": "Markus Lehtinen",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "markus-marquardt",
     "name": "Markus Marquardt",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "markus-poschner",
+    "name": "Markus Poschner",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -4954,10 +7860,24 @@
     ]
   },
   {
+    "slug": "martin-lingnau",
+    "name": "Martin Lingnau",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "martin-luhr",
     "name": "Martin Lühr",
     "professions": [
       "dramaturgy"
+    ]
+  },
+  {
+    "slug": "martin-steidler",
+    "name": "Martin Steidler",
+    "professions": [
+      "chorus-master"
     ]
   },
   {
@@ -4984,6 +7904,20 @@
   {
     "slug": "martina-sigl",
     "name": "Martina Sigl",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "martynas-levickis",
+    "name": "Martynas Levickis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "mathilda-sterby",
+    "name": "Mathilda Sterby",
     "professions": [
       "singer"
     ]
@@ -5059,10 +7993,38 @@
     ]
   },
   {
+    "slug": "matthias-piro",
+    "name": "Matthias Piro",
+    "professions": [
+      "director"
+    ]
+  },
+  {
+    "slug": "matthias-schurr",
+    "name": "Matthias Schurr",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "matthias-stormer",
     "name": "Matthias Störmer",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "mattia-olivieri",
+    "name": "Mattia Olivieri",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "max-keller",
+    "name": "Max Keller",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -5129,6 +8091,20 @@
     ]
   },
   {
+    "slug": "mette-tj-rby-korneliusen",
+    "name": "Mette Tjærby Korneliusen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "micha-bia-k",
+    "name": "Michał Białk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "michael-bachtadze",
     "name": "Michael Bachtadze",
     "professions": [
@@ -5136,8 +8112,29 @@
     ]
   },
   {
+    "slug": "michael-bauer",
+    "name": "Michael Bauer",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "michael-dimovski",
     "name": "Michael Dimovski",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "michael-dolle",
+    "name": "Michael Dölle",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "michael-fabiano",
+    "name": "Michael Fabiano",
     "professions": [
       "singer"
     ]
@@ -5185,6 +8182,20 @@
     ]
   },
   {
+    "slug": "michael-schade",
+    "name": "Michael Schade",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "michael-scott",
+    "name": "Michael Scott",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "michael-sumuel",
     "name": "Michael Sumuel",
     "professions": [
@@ -5206,6 +8217,13 @@
     ]
   },
   {
+    "slug": "michael-wolke",
+    "name": "Michael Wolke",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "michael-yeargan",
     "name": "Michael Yeargan",
     "professions": [
@@ -5217,6 +8235,13 @@
     "name": "Michael Zlabinger",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "michail-glinka",
+    "name": "Michail Glinka",
+    "professions": [
+      "composer"
     ]
   },
   {
@@ -5234,6 +8259,36 @@
     ]
   },
   {
+    "slug": "michelle-jank",
+    "name": "Michelle Jank",
+    "professions": [
+      "costume-designer",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "michelle-stoop",
+    "name": "Michelle Stoop",
+    "professions": [
+      "director",
+      "dramaturgy"
+    ]
+  },
+  {
+    "slug": "midori",
+    "name": "Midori",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "mikael-melbye",
+    "name": "Mikael Melbye",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "mikhail-pirogov",
     "name": "Mikhail Pirogov",
     "professions": [
@@ -5248,8 +8303,37 @@
     ]
   },
   {
+    "slug": "milena-juhl",
+    "name": "Milena Juhl",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "milko-lazar",
     "name": "Milko Lazar",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "minju-kim",
+    "name": "Minju Kim",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "miranda-simon-abello",
+    "name": "Miranda Simón Abelló",
+    "professions": [
+      "costume-designer",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "misha-kiria",
+    "name": "Misha Kiria",
     "professions": [
       "singer"
     ]
@@ -5294,7 +8378,8 @@
     "name": "Momme Hinrichs",
     "professions": [
       "set-designer",
-      "singer"
+      "singer",
+      "video-designer"
     ]
   },
   {
@@ -5326,9 +8411,24 @@
     ]
   },
   {
+    "slug": "morris-robinson",
+    "name": "Morris Robinson",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "musiker-in-shy-nen-des-philhar-shy-mo-shy-nischen-staats-shy-orchesters-hamburg",
+    "name": "Musiker:in&shy;nen des Philhar&shy;mo&shy;nischen Staats&shy;orchesters Hamburg",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "n-n",
     "name": "N.N.",
     "professions": [
+      "conductor",
       "singer"
     ]
   },
@@ -5368,8 +8468,22 @@
     ]
   },
   {
+    "slug": "narea-son",
+    "name": "Narea Son",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "natalia-skrycka",
     "name": "Natalia Skrycka",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "natalia-tanasii",
+    "name": "Natalia Tanasii",
     "professions": [
       "singer"
     ]
@@ -5396,6 +8510,34 @@
     ]
   },
   {
+    "slug": "nathalia-schmidt",
+    "name": "Nathalia Schmidt",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
+    "slug": "nathalie-sanson",
+    "name": "Nathalie Sanson",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
+    "slug": "nathan-brock",
+    "name": "Nathan Brock",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "neshama-nashman",
+    "name": "Neshama Nashman",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "neven-crnic",
     "name": "Neven Crnić",
     "professions": [
@@ -5414,6 +8556,20 @@
     "name": "Nicholas Carter",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "nicholas-mogg",
+    "name": "Nicholas Mogg",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "nicky-spence",
+    "name": "Nicky Spence",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -5447,6 +8603,13 @@
   {
     "slug": "nicole-chirka",
     "name": "Nicole Chirka",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "nicole-heesters",
+    "name": "Nicole Heesters",
     "professions": [
       "singer"
     ]
@@ -5487,8 +8650,29 @@
     ]
   },
   {
+    "slug": "nikolai-rimskij-korsakow",
+    "name": "Nikolai Rimskij-Korsakow",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "nils-voges-sputnic",
+    "name": "Nils Voges (sputnic)",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "nina-tarandek",
     "name": "Nina Tarandek",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "nino-machaidze",
+    "name": "Nino Machaidze",
     "professions": [
       "singer"
     ]
@@ -5498,6 +8682,13 @@
     "name": "Nino Rota",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "noah-gelber",
+    "name": "Noah Gelber",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -5571,6 +8762,13 @@
     ]
   },
   {
+    "slug": "oleksiy-palchykov",
+    "name": "Oleksiy Palchykov",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "olesya-golovneva",
     "name": "Olesya Golovneva",
     "professions": [
@@ -5585,9 +8783,31 @@
     ]
   },
   {
+    "slug": "olivia-betteridge",
+    "name": "Olivia Betteridge",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "olivia-jeremias",
+    "name": "Olivia Jeremias",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "olivia-johnson",
     "name": "Olivia Johnson",
     "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "omer-meir-wellber",
+    "name": "Omer Meir Wellber",
+    "professions": [
+      "conductor",
       "singer"
     ]
   },
@@ -5658,7 +8878,9 @@
     "slug": "patrick-bannwart",
     "name": "Patrick Bannwart",
     "professions": [
-      "set-designer"
+      "set-designer",
+      "singer",
+      "video-designer"
     ]
   },
   {
@@ -5690,6 +8912,13 @@
     ]
   },
   {
+    "slug": "paul-calderone",
+    "name": "Paul Calderone",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "paul-georg-dittrich",
     "name": "Paul-Georg Dittrich",
     "professions": [
@@ -5718,6 +8947,13 @@
     ]
   },
   {
+    "slug": "paula-iniesta",
+    "name": "Paula Iniesta",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "paula-murrihy",
     "name": "Paula Murrihy",
     "professions": [
@@ -5732,6 +8968,13 @@
     ]
   },
   {
+    "slug": "pauliina-rasanen",
+    "name": "Pauliina Räsänen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "pauline-jacob-staatsoper24",
     "name": "Pauline Jacob / staatsoper24",
     "professions": [
@@ -5741,6 +8984,20 @@
   {
     "slug": "pavel-cernoch",
     "name": "Pavel Černoch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "pavel-yankovsky",
+    "name": "Pavel Yankovsky",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "pavla-mlcakova",
+    "name": "Pavla Mlcakova",
     "professions": [
       "singer"
     ]
@@ -5762,6 +9019,20 @@
   {
     "slug": "pete-thanapat",
     "name": "Pete Thanapat",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "peter-baur",
+    "name": "Peter Baur",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "peter-galliard",
+    "name": "Peter Galliard",
     "professions": [
       "singer"
     ]
@@ -5795,8 +9066,31 @@
     ]
   },
   {
+    "slug": "peter-schmidt",
+    "name": "Peter Schmidt",
+    "professions": [
+      "costume-designer",
+      "set-designer"
+    ]
+  },
+  {
     "slug": "peter-sykora",
     "name": "Peter Sykora",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "peter-tschaikowsky",
+    "name": "Peter Tschaikowsky",
+    "professions": [
+      "composer",
+      "singer"
+    ]
+  },
+  {
+    "slug": "peteris-vasks",
+    "name": "Pēteris Vasks",
     "professions": [
       "singer"
     ]
@@ -5813,6 +9107,20 @@
     "name": "Petra Reinhardt",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+    "name": "Philhar&shy;mo&shy;nisches Staats&shy;orchester Hamburg",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "philip-feeney",
+    "name": "Philip Feeney",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -5841,6 +9149,13 @@
     "name": "Philipp Matthias Kaufmann",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "philipp-ple-mann",
+    "name": "Philipp Pleßmann",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -5879,6 +9194,13 @@
     ]
   },
   {
+    "slug": "pia-leong",
+    "name": "Pia Leong",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "pia-maier-schriever",
     "name": "Pia Maier Schriever",
     "professions": [
@@ -5893,10 +9215,31 @@
     ]
   },
   {
+    "slug": "pierluigi-santucci",
+    "name": "Pierluigi Santucci",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "pietro-mascagni",
+    "name": "Pietro Mascagni",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
     "slug": "pim-veulings",
     "name": "Pim Veulings",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "pina-bausch",
+    "name": "Pina Bausch",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -5911,6 +9254,15 @@
     "name": "Polina Shpazhnikova",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "priscilla-prueter",
+    "name": "Priscilla Prueter",
+    "professions": [
+      "childrens-chorus-master",
+      "conductor",
+      "singer"
     ]
   },
   {
@@ -5935,6 +9287,13 @@
     ]
   },
   {
+    "slug": "rachel-beaujean",
+    "name": "Rachel Beaujean",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "rafa-siwek",
     "name": "Rafał Siwek",
     "professions": [
@@ -5956,11 +9315,26 @@
     ]
   },
   {
+    "slug": "rainer-karlitschek",
+    "name": "Rainer Karlitschek",
+    "professions": [
+      "dramaturgy"
+    ]
+  },
+  {
     "slug": "rainer-muhlbach",
     "name": "Rainer Mühlbach",
     "professions": [
       "conductor",
       "singer"
+    ]
+  },
+  {
+    "slug": "rainer-sellmaier",
+    "name": "Rainer Sellmaier",
+    "professions": [
+      "costume-designer",
+      "set-designer"
     ]
   },
   {
@@ -6027,6 +9401,13 @@
     ]
   },
   {
+    "slug": "reinhard-traub",
+    "name": "Reinhard Traub",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "reinhard-von-der-thannen",
     "name": "Reinhard von der Thannen",
     "professions": [
@@ -6083,17 +9464,33 @@
     ]
   },
   {
+    "slug": "richard-peduzzi",
+    "name": "Richard Peduzzi",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "richard-strauss",
     "name": "Richard Strauss",
     "professions": [
-      "composer"
+      "composer",
+      "singer"
     ]
   },
   {
     "slug": "richard-wagner",
     "name": "Richard Wagner",
     "professions": [
-      "composer"
+      "composer",
+      "singer"
+    ]
+  },
+  {
+    "slug": "robert-jacob",
+    "name": "Robert Jacob",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -6111,6 +9508,13 @@
     ]
   },
   {
+    "slug": "robert-schumann",
+    "name": "Robert Schumann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "roberto-tagliavini",
     "name": "Roberto Tagliavini",
     "professions": [
@@ -6122,6 +9526,13 @@
     "name": "Robi Voigt",
     "professions": [
       "video-designer"
+    ]
+  },
+  {
+    "slug": "roc-fargas",
+    "name": "Roc Fargas",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -6188,6 +9599,13 @@
     ]
   },
   {
+    "slug": "rupert-wachter",
+    "name": "Rupert Wachter",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "rustam-samedov",
     "name": "Rustam Samedov",
     "professions": [
@@ -6202,6 +9620,13 @@
     ]
   },
   {
+    "slug": "ryuichi-rainer-suzuki",
+    "name": "Ryuichi Rainer Suzuki",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "sabine-brohm",
     "name": "Sabine Brohm",
     "professions": [
@@ -6213,6 +9638,13 @@
     "name": "Sabine Hartmannshenn",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "sabrina-zwach",
+    "name": "Sabrina Zwach",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -6234,6 +9666,13 @@
     "name": "Samuel Hogarth",
     "professions": [
       "conductor"
+    ]
+  },
+  {
+    "slug": "samuel-sakker",
+    "name": "Samuel Sakker",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -6265,6 +9704,13 @@
     ]
   },
   {
+    "slug": "sarah-aristidou",
+    "name": "Sarah Aristidou",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "sarah-katharina-karl",
     "name": "Sarah-Katharina Karl",
     "professions": [
@@ -6272,8 +9718,22 @@
     ]
   },
   {
+    "slug": "sarah-wegener",
+    "name": "Sarah Wegener",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "sarastro",
     "name": "Sarastro",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sascha-alexander-todtner",
+    "name": "Sascha-Alexander Todtner",
     "professions": [
       "singer"
     ]
@@ -6294,8 +9754,29 @@
     ]
   },
   {
+    "slug": "saskia-hirschinger",
+    "name": "Saskia Hirschinger",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "scott-jennings",
+    "name": "Scott Jennings",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "sean-michael-plumb",
     "name": "Sean Michael Plumb",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sebastian-deutscher",
+    "name": "Sebastian Deutscher",
     "professions": [
       "singer"
     ]
@@ -6308,10 +9789,24 @@
     ]
   },
   {
+    "slug": "sebastian-hannak",
+    "name": "Sebastian Hannak",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "sebastian-hanusa",
     "name": "Sebastian Hanusa",
     "professions": [
       "dramaturgy"
+    ]
+  },
+  {
+    "slug": "sebastian-kloborg",
+    "name": "Sebastian Kloborg",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -6371,6 +9866,20 @@
     ]
   },
   {
+    "slug": "sergej-prokofjew",
+    "name": "Sergej Prokofjew",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sesto-quatrini",
+    "name": "Sesto Quatrini",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "shigeo-ishino",
     "name": "Shigeo Ishino",
     "professions": [
@@ -6406,10 +9915,24 @@
     ]
   },
   {
+    "slug": "siegmund-hildebrandt",
+    "name": "Siegmund Hildebrandt",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "signe-heiberg",
     "name": "Signe Heiberg",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "sigrid-neef",
+    "name": "Sigrid Neef",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -6476,6 +9999,13 @@
     ]
   },
   {
+    "slug": "simone-mcintosh",
+    "name": "Simone McIntosh",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "simone-sandroni",
     "name": "Simone Sandroni",
     "professions": [
@@ -6492,6 +10022,13 @@
   {
     "slug": "siyabonga-maqungo",
     "name": "Siyabonga Maqungo",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "slava-volkov",
+    "name": "Slava Volkov",
     "professions": [
       "singer"
     ]
@@ -6560,6 +10097,27 @@
     ]
   },
   {
+    "slug": "sonja-lachenmayr",
+    "name": "Sonja Lachenmayr",
+    "professions": [
+      "chorus-master"
+    ]
+  },
+  {
+    "slug": "sophia-euskirchen",
+    "name": "Sophia Euskirchen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sophiemarie-won",
+    "name": "Sophiemarie Won",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "soren-leupold",
     "name": "Sören Leupold",
     "professions": [
@@ -6602,6 +10160,27 @@
     ]
   },
   {
+    "slug": "stefan-schafer",
+    "name": "Stefan Schäfer",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "stefano-la-colla",
+    "name": "Stefano La Colla",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "stefano-ranzani",
+    "name": "Stefano Ranzani",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "stepanka-pucalkova",
     "name": "Štěpánka Pučálková",
     "professions": [
@@ -6623,6 +10202,20 @@
     ]
   },
   {
+    "slug": "stephane-laime",
+    "name": "Stéphane Laimé",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "stephane-roy",
+    "name": "Stéphane Roy",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "stephanie-sonnenschein",
     "name": "Stephanie Sonnenschein",
     "professions": [
@@ -6637,10 +10230,24 @@
     ]
   },
   {
+    "slug": "stephen-costello",
+    "name": "Stephen Costello",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "stephen-watson",
     "name": "Stephen Watson",
     "professions": [
       "lighting"
+    ]
+  },
+  {
+    "slug": "stevan-kovacs-tickmayer",
+    "name": "Stevan Kovacs Tickmayer",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -6665,6 +10272,13 @@
     ]
   },
   {
+    "slug": "susanna-malkki",
+    "name": "Susanna Mälkki",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "susanne-uhl",
     "name": "Susanne Uhl",
     "professions": [
@@ -6675,7 +10289,8 @@
     "slug": "suzanne-andrade",
     "name": "Suzanne Andrade",
     "professions": [
-      "director"
+      "director",
+      "singer"
     ]
   },
   {
@@ -6690,6 +10305,20 @@
     "name": "Svenja Gottsmann",
     "professions": [
       "dramaturgy"
+    ]
+  },
+  {
+    "slug": "sylvian-wang",
+    "name": "Sylvian Wang",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sympho-shy-niker-hamburg",
+    "name": "Sympho&shy;niker Hamburg",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -6742,6 +10371,21 @@
     ]
   },
   {
+    "slug": "tanja-ruhl",
+    "name": "Tanja Rühl",
+    "professions": [
+      "lighting",
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "tanzer-innen-der-ballettschule-des-hamburg-ballett",
+    "name": "Tänzer:innen der Ballettschule des Hamburg Ballett",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "taras-shtonda",
     "name": "Taras Shtonda",
     "professions": [
@@ -6763,6 +10407,13 @@
     ]
   },
   {
+    "slug": "taylor-labruzzo",
+    "name": "Taylor LaBruzzo",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "ted-huffman",
     "name": "Ted Huffman",
     "professions": [
@@ -6774,6 +10425,13 @@
     "name": "Teona Todua",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "teresa-riveiro-bohm",
+    "name": "Teresa Riveiro Böhm",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -6793,6 +10451,20 @@
   {
     "slug": "thaisen-rusch",
     "name": "Thaisen Rusch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "the-bulgarian-voices-angelite",
+    "name": "The Bulgarian Voices Angelite",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "the-young-classx-jugendchor",
+    "name": "The Young ClassX Jugendchor",
     "professions": [
       "singer"
     ]
@@ -6861,10 +10533,24 @@
     ]
   },
   {
+    "slug": "thomas-hampson",
+    "name": "Thomas Hampson",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "thomas-lehman",
     "name": "Thomas Lehman",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "thomas-lempertz",
+    "name": "Thomas Lempertz",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -6877,6 +10563,20 @@
   {
     "slug": "thomas-richter",
     "name": "Thomas Richter",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "thomas-rohde",
+    "name": "Thomas Rohde",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "thomas-ruhl",
+    "name": "Thomas Rühl",
     "professions": [
       "singer"
     ]
@@ -6903,8 +10603,29 @@
     ]
   },
   {
+    "slug": "tiago-alexandre-neta-fonseca",
+    "name": "Tiago Alexandre Neta Fonseca",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "tigran-martiros-shy-sian",
+    "name": "Tigran Martiros&shy;sian",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "tijl-faveyts",
     "name": "Tijl Faveyts",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "till-bronner",
+    "name": "Till Brönner",
     "professions": [
       "singer"
     ]
@@ -6938,6 +10659,20 @@
     ]
   },
   {
+    "slug": "tim-porath",
+    "name": "Tim Porath",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "timo-riihonen",
+    "name": "Timo Riihonen",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "timothy-oliver",
     "name": "Timothy Oliver",
     "professions": [
@@ -6952,6 +10687,13 @@
     ]
   },
   {
+    "slug": "tobias-kratzer",
+    "name": "Tobias Kratzer",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "tobias-loffler",
     "name": "Tobias Löffler",
     "professions": [
@@ -6963,6 +10705,20 @@
     "name": "Tobias Lusser",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "tobias-schulze",
+    "name": "Tobias Schulze",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "tohar-gil",
+    "name": "Tohar Gil",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -6984,6 +10740,13 @@
     "name": "Tom Nicholson",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "tomas-hanus",
+    "name": "Tomáš Hanus",
+    "professions": [
+      "conductor"
     ]
   },
   {
@@ -7022,6 +10785,20 @@
     ]
   },
   {
+    "slug": "torge-m-ller",
+    "name": "Torge Møller",
+    "professions": [
+      "video-designer"
+    ]
+  },
+  {
+    "slug": "traditionelle-mechanische-musik",
+    "name": "Traditionelle mechanische Musik",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "treffpunkt-kassenhalle",
     "name": "Treffpunkt: Kassenhalle",
     "professions": [
@@ -7031,6 +10808,20 @@
   {
     "slug": "trine-m-ller",
     "name": "Trine Møller",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "truls-m-rk",
+    "name": "Truls Mørk",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "tu-yuchen",
+    "name": "Tu Yuchen",
     "professions": [
       "singer"
     ]
@@ -7107,6 +10898,13 @@
     ]
   },
   {
+    "slug": "valentin-goniot",
+    "name": "Valentin Goniot",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "valentina-mastrangelo",
     "name": "Valentina Mastrangelo",
     "professions": [
@@ -7135,6 +10933,13 @@
     ]
   },
   {
+    "slug": "valeriy-sokolov",
+    "name": "Valeriy Sokolov",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "valmar-saar",
     "name": "Valmar Saar",
     "professions": [
@@ -7156,6 +10961,20 @@
     ]
   },
   {
+    "slug": "vasily-ratmansky",
+    "name": "Vasily Ratmansky",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "vello-pahn",
+    "name": "Vello Pähn",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "vera-nemirova",
     "name": "Vera Nemirova",
     "professions": [
@@ -7170,10 +10989,24 @@
     ]
   },
   {
+    "slug": "verena-hemmerlein",
+    "name": "Verena Hemmerlein",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "verena-silcher",
     "name": "Verena Silcher",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "veselina-teneva",
+    "name": "Veselina Teneva",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -7191,8 +11024,29 @@
     ]
   },
   {
+    "slug": "vida-mikneviciute",
+    "name": "Vida Miknevičiūtė",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "vincent-boussard",
+    "name": "Vincent Boussard",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "vincent-krafft",
     "name": "Vincent Krafft",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
+    "slug": "vincent-lemaire",
+    "name": "Vincent Lemaire",
     "professions": [
       "set-designer"
     ]
@@ -7212,6 +11066,13 @@
     ]
   },
   {
+    "slug": "vitali-alekseenok",
+    "name": "Vitali Alekseenok",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "vito-priante",
     "name": "Vito Priante",
     "professions": [
@@ -7221,6 +11082,13 @@
   {
     "slug": "vittoria-vimercati",
     "name": "Vittoria Vimercati",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "vivien-arnold",
+    "name": "Vivien Arnold",
     "professions": [
       "singer"
     ]
@@ -7261,6 +11129,13 @@
     ]
   },
   {
+    "slug": "volker-weinhart",
+    "name": "Volker Weinhart",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "volodymyr-morozov",
     "name": "Volodymyr Morozov",
     "professions": [
@@ -7272,6 +11147,13 @@
     "name": "Walter Vogelweider",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "wei-wu",
+    "name": "Wei Wu",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -7289,6 +11171,20 @@
     ]
   },
   {
+    "slug": "william-desbiens",
+    "name": "William Desbiens",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "william-forsythe",
+    "name": "William Forsythe",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "william-thomas",
     "name": "William Thomas",
     "professions": [
@@ -7300,6 +11196,13 @@
     "name": "Wim Wenders",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "winndance",
+    "name": "WINNDance",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -7345,6 +11248,13 @@
     ]
   },
   {
+    "slug": "won-whi-choi",
+    "name": "Won Whi Choi",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "wonjun-kim",
     "name": "Wonjun Kim",
     "professions": [
@@ -7354,6 +11264,27 @@
   {
     "slug": "xavier-sabata",
     "name": "Xavier Sabata",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "xie-xin",
+    "name": "Xie Xin",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "xue-lin",
+    "name": "Xue Lin",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "yaritza-veliz",
+    "name": "Yaritza Véliz",
     "professions": [
       "singer"
     ]
@@ -7370,6 +11301,13 @@
     "name": "Yassu Yabara",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "yitong-guo",
+    "name": "Yitong Guo",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -7396,6 +11334,27 @@
   {
     "slug": "yujeong-nam",
     "name": "Yujeong Nam",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "yuka-oishi",
+    "name": "Yuka Oishi",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "yulia-matochkina",
+    "name": "Yulia Matochkina",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "yun-lin",
+    "name": "Yun Lin",
     "professions": [
       "singer"
     ]

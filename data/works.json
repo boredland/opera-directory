@@ -1,7 +1,27 @@
 [
   {
+    "slug": "1-blaues-konzert",
+    "title": "1. Blaues Konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "1-kammer-shy-konzert",
+    "title": "1. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "1-philharmo-shy-nisches-konzert",
+    "title": "1. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "1-sinfoniekonzert",
     "title": "1. Sinfoniekonzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "10-philharmo-shy-nisches-konzert",
+    "title": "10. Philharmo&shy;nisches Konzert",
     "composer_slug": ""
   },
   {
@@ -15,13 +35,58 @@
     "composer_slug": ""
   },
   {
+    "slug": "2-blaues-konzert",
+    "title": "2. Blaues Konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "2-kammer-shy-konzert",
+    "title": "2. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "2-philharmo-shy-nisches-konzert",
+    "title": "2. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "2-sinfoniekonzert",
     "title": "2. Sinfoniekonzert",
     "composer_slug": ""
   },
   {
+    "slug": "3-blaues-konzert",
+    "title": "3. Blaues Konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "3-kammer-shy-konzert",
+    "title": "3. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "3-philharmo-shy-nisches-konzert",
+    "title": "3. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "3-sinfoniekonzert",
     "title": "3. Sinfoniekonzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "4-blaues-konzert",
+    "title": "4. Blaues Konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "4-kammer-shy-konzert",
+    "title": "4. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "4-philharmo-shy-nisches-konzert",
+    "title": "4. Philharmo&shy;nisches Konzert",
     "composer_slug": ""
   },
   {
@@ -35,13 +100,33 @@
     "composer_slug": ""
   },
   {
+    "slug": "5-kammer-shy-konzert",
+    "title": "5. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "5-philharmo-shy-nisches-konzert",
+    "title": "5. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "5-sinfoniekonzert",
     "title": "5. Sinfoniekonzert",
     "composer_slug": ""
   },
   {
+    "slug": "6-kammer-shy-konzert",
+    "title": "6. Kammer&shy;konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "6-liedkonzert-a-la-francaise-lieder-von-franzosischen-komponisten",
     "title": "6. Liedkonzert: À la française, Lieder von französischen Komponisten",
+    "composer_slug": ""
+  },
+  {
+    "slug": "6-philharmo-shy-nisches-konzert",
+    "title": "6. Philharmo&shy;nisches Konzert",
     "composer_slug": ""
   },
   {
@@ -55,6 +140,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "7-philharmo-shy-nisches-konzert",
+    "title": "7. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "7-sinfoniekonzert",
     "title": "7. Sinfoniekonzert",
     "composer_slug": ""
@@ -65,13 +155,33 @@
     "composer_slug": ""
   },
   {
+    "slug": "8-philharmo-shy-nisches-konzert",
+    "title": "8. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "8-sinfoniekonzert",
     "title": "8. Sinfoniekonzert",
     "composer_slug": ""
   },
   {
+    "slug": "9-philharmo-shy-nisches-konzert",
+    "title": "9. Philharmo&shy;nisches Konzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "9-sinfoniekonzert-2026-27",
     "title": "9. Sinfoniekonzert 2026/27",
+    "composer_slug": ""
+  },
+  {
+    "slug": "a-cinderella-story",
+    "title": "A Cinderella Story",
+    "composer_slug": ""
+  },
+  {
+    "slug": "absprung-v",
+    "title": "Absprung V",
     "composer_slug": ""
   },
   {
@@ -93,6 +203,21 @@
     "slug": "alessandro-scarlatti/kain-und-abel",
     "title": "Kain und Abel",
     "composer_slug": "alessandro-scarlatti"
+  },
+  {
+    "slug": "alleine",
+    "title": "?Alleine!",
+    "composer_slug": ""
+  },
+  {
+    "slug": "alles-lyrisch",
+    "title": "Alles lyrisch?",
+    "composer_slug": ""
+  },
+  {
+    "slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen",
+    "title": "Alster&shy;spatzen&shy;konzert: Wie lernt man fliegen?",
+    "composer_slug": ""
   },
   {
     "slug": "anmeldung-erforderlich-unter/treffpunkt-buhneneingang-fantastisches-kinderzimmer-marchenhafte-figuren-blick-hinter-die-kulissen-mit-ratselrallye-alles-nur-kein-hut-blick-hinter-die-kulissen",
@@ -130,6 +255,21 @@
     "composer_slug": ""
   },
   {
+    "slug": "ballett-shy-insider-innen",
+    "title": "Ballett&shy;Insider:innen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "ballett-shy-tester-innen",
+    "title": "Ballett&shy;Tester:innen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "ballett-werkstatt",
+    "title": "Ballett-Werkstatt",
+    "composer_slug": ""
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut",
     "title": "Die verkaufte Braut",
     "composer_slug": "bedrich-smetana"
@@ -138,6 +278,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream",
     "title": "A Midsummer Night’s Dream",
     "composer_slug": "benjamin-britten"
+  },
+  {
+    "slug": "between-songs-and-shadows",
+    "title": "Between Songs and Shadows",
+    "composer_slug": ""
   },
   {
     "slug": "bohuslav-martinu/the-greek-passion",
@@ -153,6 +298,11 @@
     "slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater",
     "title": "Wat e Thiater",
     "composer_slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein"
+  },
+  {
+    "slug": "bundesjugendballett",
+    "title": "Bundesjugendballett",
+    "composer_slug": ""
   },
   {
     "slug": "camille-saint-saens/samson-et-dalila",
@@ -205,13 +355,68 @@
     "composer_slug": "claudio-monteverdi"
   },
   {
+    "slug": "club-zone-1-schall-und-rau-s-ch",
+    "title": "Club Zone #1: Schall und Rau(s)ch",
+    "composer_slug": ""
+  },
+  {
+    "slug": "club-zone-2-zuruck-in-die-zukunft",
+    "title": "Club Zone #2: Zurück in die Zukunft",
+    "composer_slug": ""
+  },
+  {
+    "slug": "counter-balance-creations",
+    "title": "Counter Balance Creations",
+    "composer_slug": ""
+  },
+  {
+    "slug": "croissant-mit-omer",
+    "title": "Croissant mit Omer",
+    "composer_slug": ""
+  },
+  {
+    "slug": "der-musiker-und-autor-omer-meir-wellber-ein-portrat",
+    "title": "Der Musiker und Autor Omer Meir Wellber – Ein Porträt",
+    "composer_slug": ""
+  },
+  {
+    "slug": "der-nussknacker",
+    "title": "Der Nussknacker",
+    "composer_slug": ""
+  },
+  {
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "title": "Jazz & Lyrics IV: Scheherazade",
     "composer_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei"
   },
   {
+    "slug": "die-gro-e-stille",
+    "title": "Die große Stille",
+    "composer_slug": ""
+  },
+  {
+    "slug": "die-kamelien-shy-dame",
+    "title": "Die Kamelien&shy;dame",
+    "composer_slug": ""
+  },
+  {
     "slug": "die-kleine-hexe-musik-von-sebastian-schwab",
     "title": "Die kleine Hexe, Musik von Sebastian Schwab",
+    "composer_slug": ""
+  },
+  {
+    "slug": "die-kleine-meerjung-shy-frau",
+    "title": "Die kleine Meerjung&shy;frau",
+    "composer_slug": ""
+  },
+  {
+    "slug": "die-mowe",
+    "title": "Die Möwe",
+    "composer_slug": ""
+  },
+  {
+    "slug": "ebbe-und-flut",
+    "title": "Ebbe und Flut",
     "composer_slug": ""
   },
   {
@@ -235,6 +440,11 @@
     "composer_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren"
   },
   {
+    "slug": "ein-sommernachts-shy-traum",
+    "title": "Ein Sommernachts&shy;traum",
+    "composer_slug": ""
+  },
+  {
     "slug": "ein-sommernachtstraum",
     "title": "Ein Sommernachtstraum",
     "composer_slug": ""
@@ -253,6 +463,16 @@
     "slug": "einfuhrung-fur-familien-whoosh",
     "title": "Einführung für Familien: WHOOSH",
     "composer_slug": ""
+  },
+  {
+    "slug": "eintauchen-ins-ballettzentrum",
+    "title": "Eintauchen ins Ballettzentrum",
+    "composer_slug": ""
+  },
+  {
+    "slug": "engelbert-humperdinck/dornroschen",
+    "title": "Dornröschen",
+    "composer_slug": "engelbert-humperdinck"
   },
   {
     "slug": "engelbert-humperdinck/hansel-und-gretel",
@@ -275,6 +495,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "erste-schritte",
+    "title": "Erste Schritte",
+    "composer_slug": ""
+  },
+  {
+    "slug": "familien-und-jugendeinfuhrungen",
+    "title": "Familien- und Jugendeinführungen",
+    "composer_slug": ""
+  },
+  {
     "slug": "familienfuhrung",
     "title": "Familienführung",
     "composer_slug": ""
@@ -285,6 +515,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "fast-forward",
+    "title": "FAST FORWARD",
+    "composer_slug": ""
+  },
+  {
     "slug": "fest-der-operette",
     "title": "Fest der Operette",
     "composer_slug": ""
@@ -292,6 +527,11 @@
   {
     "slug": "festakt-der-buhnen",
     "title": "Festakt der Bühnen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fortbildung-fur-lehrer-innen",
+    "title": "Fortbildung für Lehrer:innen",
     "composer_slug": ""
   },
   {
@@ -320,8 +560,33 @@
     "composer_slug": ""
   },
   {
+    "slug": "fuhrung-durch-die-staatsoper",
+    "title": "Führung durch die Staatsoper",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrung-fur-familien",
+    "title": "Führung für Familien",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrungen-fur-kita-shy-gruppen-und-grund-shy-schulen",
+    "title": "Führungen für Kita&shy;gruppen und Grund&shy;schulen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrungen-fur-weiter-shy-fuhrende-schulen",
+    "title": "Führungen für weiter&shy;führende Schulen",
+    "composer_slug": ""
+  },
+  {
     "slug": "gaetano-donizetti/l-elisir-d-amore",
     "title": "L’elisir d’amore",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
+    "slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "title": "Lucia di Lammermoor",
     "composer_slug": "gaetano-donizetti"
   },
   {
@@ -395,8 +660,18 @@
     "composer_slug": "gioacchino-rossini"
   },
   {
+    "slug": "gioachino-rossini/guillaume-tell",
+    "title": "Guillaume Tell",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "title": "Il barbiere di Siviglia",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/il-turco-in-italia",
+    "title": "Il turco in Italia",
     "composer_slug": "gioachino-rossini"
   },
   {
@@ -425,6 +700,11 @@
     "composer_slug": "giuseppe-verdi"
   },
   {
+    "slug": "giuseppe-verdi/luisa-miller",
+    "title": "Luisa Miller",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
     "slug": "giuseppe-verdi/macbeth",
     "title": "Macbeth",
     "composer_slug": "giuseppe-verdi"
@@ -443,6 +723,16 @@
     "slug": "giuseppe-verdi/un-ballo-in-maschera",
     "title": "Un ballo in maschera",
     "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "gordon-kampe/stortebeker",
+    "title": "Störtebeker",
+    "composer_slug": "gordon-kampe"
+  },
+  {
+    "slug": "hans-werner-henze/el-cimarron",
+    "title": "El Cimarrón",
+    "composer_slug": "hans-werner-henze"
   },
   {
     "slug": "hans-werner-henze/la-piccola-cubana",
@@ -465,6 +755,16 @@
     "composer_slug": "henry-purcell"
   },
   {
+    "slug": "henry-purcell/dido-and-aeneas",
+    "title": "Dido and Aeneas",
+    "composer_slug": "henry-purcell"
+  },
+  {
+    "slug": "herve-koubi",
+    "title": "Hervé Koubi",
+    "composer_slug": ""
+  },
+  {
     "slug": "home-vibes-gestalten-im-join-haus",
     "title": "Home Vibes - Gestalten im JOiN-Haus!",
     "composer_slug": ""
@@ -475,9 +775,19 @@
     "composer_slug": ""
   },
   {
+    "slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges",
+    "title": "Petruschka & L’enfant et les sortilèges",
+    "composer_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel"
+  },
+  {
     "slug": "igor-strawinsky/die-nachtigall",
     "title": "Die Nachtigall",
     "composer_slug": "igor-strawinsky"
+  },
+  {
+    "slug": "inside-out",
+    "title": "Inside Out",
+    "composer_slug": ""
   },
   {
     "slug": "intermezzo-oper-am-mittag",
@@ -515,8 +825,23 @@
     "composer_slug": ""
   },
   {
+    "slug": "junge-choreo-shy-graf-innen",
+    "title": "Junge Choreo&shy;graf:innen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kammer-shy-konzert-der-orchester-shy-akademie",
+    "title": "Kammer&shy;konzert der Orchester&shy;akademie",
+    "composer_slug": ""
+  },
+  {
     "slug": "kammermusik",
     "title": "Kammermusik",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kantinentalk",
+    "title": "KantinenTalk",
     "composer_slug": ""
   },
   {
@@ -530,8 +855,33 @@
     "composer_slug": ""
   },
   {
+    "slug": "kids-only-1-ich-du-wir",
+    "title": "Kids only #1: Ich. Du. Wir.",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kids-only-2-durch-das-wurmloch-hindurch",
+    "title": "Kids only #2: Durch das Wurmloch hindurch",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kids-only-3-ich-zieh-aus",
+    "title": "Kids only #3: Ich zieh aus!",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kids-only-3-pssst-streng-geheim",
+    "title": "Kids only #3: Pssst ...! Streng geheim!",
+    "composer_slug": ""
+  },
+  {
     "slug": "kinderbetreuung",
     "title": "Kinderbetreuung",
+    "composer_slug": ""
+  },
+  {
+    "slug": "klangvolles-musik-shy-abenteuer",
+    "title": "Klangvolles Musik&shy;abenteuer",
     "composer_slug": ""
   },
   {
@@ -542,6 +892,16 @@
   {
     "slug": "klaus-zehelein-unerhorte-augenblicke",
     "title": "Klaus Zehelein – »Unerhörte Augenblicke«",
+    "composer_slug": ""
+  },
+  {
+    "slug": "konfetti-im-weltall",
+    "title": "Konfetti im Weltall",
+    "composer_slug": ""
+  },
+  {
+    "slug": "konzert-des-inter-shy-na-shy-tionalen-opernstudios",
+    "title": "Konzert des Inter&shy;na&shy;tionalen Opernstudios",
     "composer_slug": ""
   },
   {
@@ -575,9 +935,19 @@
     "composer_slug": "kurt-weill-carl-orff"
   },
   {
+    "slug": "lab-alle-an-deck",
+    "title": "LAB: Alle an Deck?",
+    "composer_slug": ""
+  },
+  {
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
     "title": "As One",
     "composer_slug": "laura-kaminsky-mark-campbell-kimberly-reed"
+  },
+  {
+    "slug": "let-s-have-a-kiki",
+    "title": "Let´s have a Kiki",
+    "composer_slug": ""
   },
   {
     "slug": "libretti-lesen",
@@ -600,6 +970,31 @@
     "composer_slug": ""
   },
   {
+    "slug": "matthaus-passion",
+    "title": "Matthäus-Passion",
+    "composer_slug": ""
+  },
+  {
+    "slug": "meet-the-artists-daniel-kluge",
+    "title": "Meet the Artists: Daniel Kluge",
+    "composer_slug": ""
+  },
+  {
+    "slug": "meet-the-artists-hellen-kwon",
+    "title": "Meet the Artists: Hellen Kwon",
+    "composer_slug": ""
+  },
+  {
+    "slug": "meet-the-artists-jurgen-sacher",
+    "title": "Meet the Artists: Jürgen Sacher",
+    "composer_slug": ""
+  },
+  {
+    "slug": "michail-glinka/ruslan-und-ljudmila",
+    "title": "Ruslan und Ljudmila",
+    "composer_slug": "michail-glinka"
+  },
+  {
     "slug": "mit-dem-semperoper-ballett-ins-kino/tanz-film-cranko",
     "title": "Tanz:Film „Cranko“",
     "composer_slug": "mit-dem-semperoper-ballett-ins-kino"
@@ -610,9 +1005,19 @@
     "composer_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a"
   },
   {
+    "slug": "mittsu",
+    "title": "MITTSU",
+    "composer_slug": ""
+  },
+  {
     "slug": "moderierte-kammermusik-in-der-tischlerei/6-tischlereikonzert-quergeister",
     "title": "6. Tischlereikonzert: Quergeister",
     "composer_slug": "moderierte-kammermusik-in-der-tischlerei"
+  },
+  {
+    "slug": "neue-welten",
+    "title": "NEUE WELTEN",
+    "composer_slug": ""
   },
   {
     "slug": "neuland-die-natur-als-buhne-theaterspiel-teambuilding-outdoor",
@@ -622,6 +1027,16 @@
   {
     "slug": "night-songs-relaxed-listening-session",
     "title": "Night Songs: Relaxed Listening Session",
+    "composer_slug": ""
+  },
+  {
+    "slug": "nijinsky",
+    "title": "Nijinsky",
+    "composer_slug": ""
+  },
+  {
+    "slug": "nijinsky-gala",
+    "title": "Nijinsky-Gala",
     "composer_slug": ""
   },
   {
@@ -690,6 +1105,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "opern-werkstatt",
+    "title": "Opern-Werkstatt",
+    "composer_slug": ""
+  },
+  {
     "slug": "opernkarussell",
     "title": "Opernkarussell",
     "composer_slug": ""
@@ -710,13 +1130,38 @@
     "composer_slug": "peter-i-tschaikowski"
   },
   {
+    "slug": "peter-tschaikowsky/eugen-onegin",
+    "title": "Eugen Onegin",
+    "composer_slug": "peter-tschaikowsky"
+  },
+  {
     "slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was",
     "title": "Der König verschenkt was",
     "composer_slug": "philipp-matthias-kaufmann"
   },
   {
+    "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "title": "Cavalleria Rusticana & Pagliacci",
+    "composer_slug": "pietro-mascagni"
+  },
+  {
+    "slug": "podiums-shy-diskussion-wie-politisch-kann-muss-sollte-musik-shy-theater-sein",
+    "title": "Podiums&shy;diskussion: „Wie politisch kann, muss, sollte Musik&shy;theater sein?“",
+    "composer_slug": ""
+  },
+  {
+    "slug": "politische-perspektiven",
+    "title": "Politische Perspektiven",
+    "composer_slug": ""
+  },
+  {
     "slug": "power-up-demokratie-festval",
     "title": "Power up - Demokratie-Festval",
+    "composer_slug": ""
+  },
+  {
+    "slug": "proben-shy-besuche-am-vormittag",
+    "title": "Proben&shy;besuche am Vormittag",
     "composer_slug": ""
   },
   {
@@ -770,8 +1215,18 @@
     "composer_slug": "richard-wagner"
   },
   {
+    "slug": "richard-wagner/tristan-und-isolde",
+    "title": "Tristan und Isolde",
+    "composer_slug": "richard-wagner"
+  },
+  {
     "slug": "rikas",
     "title": "Rikas",
+    "composer_slug": ""
+  },
+  {
+    "slug": "romantic-evolution-s",
+    "title": "ROMANTIC EVOLUTION/S",
     "composer_slug": ""
   },
   {
@@ -785,6 +1240,21 @@
     "composer_slug": "sasha-waltz"
   },
   {
+    "slug": "schade-schade-zu-spat",
+    "title": "„Schade, schade – zu spät“",
+    "composer_slug": ""
+  },
+  {
+    "slug": "schulklassen-shy-besuche-zu-den-generalproben",
+    "title": "Schulklassen&shy;besuche zu den Generalproben",
+    "composer_slug": ""
+  },
+  {
+    "slug": "scirocco",
+    "title": "Scirocco",
+    "composer_slug": ""
+  },
+  {
     "slug": "sebastian-schwab-1993/skaterherz",
     "title": "Skaterherz",
     "composer_slug": "sebastian-schwab-1993"
@@ -793,6 +1263,11 @@
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "title": "Die Liebe zu den drei Orangen",
     "composer_slug": "sergei-s-prokofjew"
+  },
+  {
+    "slug": "silvester-shy-konzert",
+    "title": "Silvester&shy;konzert",
+    "composer_slug": ""
   },
   {
     "slug": "silvesterfeier",
@@ -805,8 +1280,23 @@
     "composer_slug": ""
   },
   {
+    "slug": "sinnes-shy-wandeln",
+    "title": "Sinnes&shy;wandeln",
+    "composer_slug": ""
+  },
+  {
+    "slug": "slow-burn",
+    "title": "SLOW BURN",
+    "composer_slug": ""
+  },
+  {
     "slug": "sneak-in",
     "title": "Sneak in",
+    "composer_slug": ""
+  },
+  {
+    "slug": "sneak-klub",
+    "title": "Sneak Klub",
     "composer_slug": ""
   },
   {
@@ -835,13 +1325,43 @@
     "composer_slug": ""
   },
   {
+    "slug": "studio-liebermann",
+    "title": "Studio Liebermann",
+    "composer_slug": ""
+  },
+  {
+    "slug": "ta-ta-ta-taaa",
+    "title": "TA-TA-TA TAAA!",
+    "composer_slug": ""
+  },
+  {
     "slug": "tannhauser",
     "title": "Tannhäuser",
     "composer_slug": ""
   },
   {
+    "slug": "tanz-fur-mich",
+    "title": "Tanz für mich",
+    "composer_slug": ""
+  },
+  {
     "slug": "the-littmann-sessions-eine-pop-gala",
     "title": "The Littmann Sessions: eine Pop-Gala",
+    "composer_slug": ""
+  },
+  {
+    "slug": "the-times-are-racing",
+    "title": "THE TIMES ARE RACING",
+    "composer_slug": ""
+  },
+  {
+    "slug": "theaternacht-hamburg",
+    "title": "Theaternacht Hamburg",
+    "composer_slug": ""
+  },
+  {
+    "slug": "tod-in-venedig",
+    "title": "Tod in Venedig",
     "composer_slug": ""
   },
   {
@@ -865,13 +1385,38 @@
     "composer_slug": ""
   },
   {
+    "slug": "uber-liebe-und-hass",
+    "title": "Über Liebe und Hass",
+    "composer_slug": ""
+  },
+  {
+    "slug": "utopia",
+    "title": "Utopia",
+    "composer_slug": ""
+  },
+  {
+    "slug": "vier-gewinnt",
+    "title": "Vier gewinnt",
+    "composer_slug": ""
+  },
+  {
     "slug": "vincenzo-bellini/norma",
     "title": "Norma",
     "composer_slug": "vincenzo-bellini"
   },
   {
+    "slug": "wandel",
+    "title": "Wandel",
+    "composer_slug": ""
+  },
+  {
     "slug": "weihnachtskonzert-opernfreunde",
     "title": "Weihnachtskonzert Opernfreunde",
+    "composer_slug": ""
+  },
+  {
+    "slug": "werkstatt-der-kreativitat-xvii",
+    "title": "Werkstatt der Kreativität XVII",
     "composer_slug": ""
   },
   {
@@ -882,6 +1427,16 @@
   {
     "slug": "werkstatten-fuhrung-fur-abonnent-innen",
     "title": "Werkstätten-Führung für Abonnent*innen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "what-a-wonderful-world",
+    "title": "What a wonderful world",
+    "composer_slug": ""
+  },
+  {
+    "slug": "wir-bauen-eine-neue-stadt",
+    "title": "Wir bauen eine neue Stadt",
     "composer_slug": ""
   },
   {
@@ -897,6 +1452,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "title": "Die Zauberflöte",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "title": "Don Giovanni",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
@@ -918,6 +1478,16 @@
     "slug": "wolfgang-fortner/bluthochzeit",
     "title": "Bluthochzeit",
     "composer_slug": "wolfgang-fortner"
+  },
+  {
+    "slug": "workshop-fur-familien",
+    "title": "Workshop für Familien",
+    "composer_slug": ""
+  },
+  {
+    "slug": "wunderland",
+    "title": "Wunderland",
+    "composer_slug": ""
   },
   {
     "slug": "xabier-anduaga-tenor-maciej-pikulski-klavier",
