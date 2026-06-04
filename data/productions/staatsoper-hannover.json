@@ -7,8 +7,32 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/die-hochzeit-des-figaro.1378408",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mario-hartmuth",
+        "function": "conductor"
+      },
+      {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lydia-steier",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-mutschler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "elana-siberski",
+        "function": "lighting"
       }
     ],
     "cast": [
@@ -66,8 +90,36 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/der-barbier-von-sevilla.1378409",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "piotr-jaworski",
+        "function": "conductor"
+      },
+      {
         "person_slug": "stephan-zilias",
         "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nicola-humpel",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-huebner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "oliver-proske",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -113,8 +165,36 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/die-tote-stadt.1378522",
     "creative_team": [
       {
+        "person_slug": "tatiana-bergh",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "mario-hartmuth",
         "function": "conductor"
+      },
+      {
+        "person_slug": "vanessa-rust",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ilaria-lanzino",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-fornzler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-hickmann",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "max-schweder",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -164,8 +244,32 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/der-troubadour.1378523",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "wolfgang-nagele",
+        "function": "director"
+      },
+      {
+        "person_slug": "anne-do-paco",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lisa-da-ler",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -195,8 +299,36 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/der-troubadour.1397721",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "conductor"
+      },
+      {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "wolfgang-nagele",
+        "function": "director"
+      },
+      {
+        "person_slug": "anne-do-paco",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lisa-da-ler",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -228,7 +360,16 @@
     "house_slug": "staatsoper-hannover",
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/la-boheme.1397722",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "tatiana-bergh",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      }
+    ],
     "cast": [
       {
         "person_slug": "frank-schneiders",
@@ -297,7 +438,12 @@
     "house_slug": "staatsoper-hannover",
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/rigoletto.1397724",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      }
+    ],
     "cast": [
       {
         "person_slug": "jonathan-winell",
@@ -339,7 +485,16 @@
     "house_slug": "staatsoper-hannover",
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/heute-abend-lola-blau.1397725",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "claudia-isabel-martin",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-huebner",
+        "function": "dramaturgy"
+      }
+    ],
     "cast": [
       {
         "person_slug": "carmen-fuggiss",
@@ -355,8 +510,32 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/lohengrin.1397726",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "stephan-zilias",
         "function": "conductor"
+      },
+      {
+        "person_slug": "nathalie-pallandre",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "richard-brunel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ann-christine-mecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-schmidt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anouk-dell-aiera",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -386,8 +565,40 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/don-giovanni.1397727",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "mario-hartmuth",
         "function": "conductor"
+      },
+      {
+        "person_slug": "jelena-miletic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bastian-kraft",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-fornzler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "daniel-menne",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-baur",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jonas-link",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -433,8 +644,32 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/il-viaggio-dante.1399056",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "roland-kluttig",
         "function": "conductor"
+      },
+      {
+        "person_slug": "gesine-vollm",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "yvonne-gebauer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabrice-kebour",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "etienne-pluss",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rocafilm",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -470,6 +705,10 @@
       {
         "person_slug": "hyerim-byun",
         "function": "conductor"
+      },
+      {
+        "person_slug": "anne-do-paco",
+        "function": "dramaturgy"
       }
     ],
     "cast": []
@@ -480,7 +719,16 @@
     "house_slug": "staatsoper-hannover",
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/la-giuditta.1399063",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "arno-lucker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sophia-debus",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -493,6 +741,14 @@
       {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "ruben-michael",
+        "function": "director"
+      },
+      {
+        "person_slug": "arno-lucker",
+        "function": "dramaturgy"
       }
     ],
     "cast": [
@@ -522,8 +778,24 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/pique-dame.1399071",
     "creative_team": [
       {
+        "person_slug": "tatiana-bergh",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "francesco-angelico",
         "function": "conductor"
+      },
+      {
+        "person_slug": "daniel-menne",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-schmidt",
+        "function": "lighting"
       }
     ],
     "cast": [
@@ -577,8 +849,20 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/madama-butterfly.1399476",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "francesco-angelico",
         "function": "conductor"
+      },
+      {
+        "person_slug": "daniel-menne",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
       }
     ],
     "cast": [
@@ -616,8 +900,20 @@
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/la-cenerentola.1399477",
     "creative_team": [
       {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "ann-christine-mecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "holger-klede",
+        "function": "lighting"
       }
     ],
     "cast": [
@@ -645,7 +941,32 @@
     "house_slug": "staatsoper-hannover",
     "is_revival": false,
     "detail_url": "https://staatstheater-hannover.de/de_DE/programm/fidelio-focus-fade.1399478",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-da-rio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "julia-rosler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eva-maria-hockmayr",
+        "function": "director"
+      },
+      {
+        "person_slug": "ann-christine-mecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anne-do-paco",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-schmidt",
+        "function": "lighting"
+      }
+    ],
     "cast": [
       {
         "person_slug": "juhyeon-kim",
@@ -679,6 +1000,10 @@
       {
         "person_slug": "masaru-kumakura",
         "function": "conductor"
+      },
+      {
+        "person_slug": "christian-fornzler",
+        "function": "dramaturgy"
       }
     ],
     "cast": []
