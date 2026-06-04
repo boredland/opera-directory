@@ -1,4 +1,5 @@
 import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
+import { scrapeBadischesStaatstheaterKarlsruhe } from "./houses/badisches-staatstheater-karlsruhe";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
@@ -47,4 +48,5 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "staatstheater-nuernberg": scrapeStaatstheaterNuernberg,
   "oper-dortmund": scrapeOperDortmund,
   "theater-bonn": scrapeTheaterBonn,
+  "badisches-staatstheater-karlsruhe": scrapeBadischesStaatstheaterKarlsruhe,
 };
