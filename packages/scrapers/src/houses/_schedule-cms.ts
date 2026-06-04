@@ -18,6 +18,10 @@ import { parseMeta } from "./_theater-cms";
  * Coverage is the server-rendered window (the schedule extends via JS); deep
  * history comes from Wikidata in backfill.
  */
+/** An opera-genre token in the detail meta — distinguishes staged works from the
+ *  tours and concerts that also sit in the Musiktheater category. */
+const OPERA_GENRE = /\b(oper|operett|singspiel|opéra|opera|musiktheater|dramma|lirico|lyriqu)\b/i;
+
 export function makeScheduleCmsScraper(opts: {
   houseSlug: string;
   baseUrl: string;
@@ -104,17 +108,14 @@ async function buildProduction(
     html.match(/<meta[^>]+name="description"[^>]+content="([^"]*)"/)?.[1] ?? "",
   );
   // The Musiktheater category also carries non-operas (guided tours, children's
-  // concerts). A real work names its composer as "… von Composer" before the
-  // Besetzung run; without one, treat the card as not-an-opera and drop it.
-  const besetzungAt = meta.search(/[A-Za-zÄÖÜ]*[Bb]esetzung:/);
-  const head = besetzungAt >= 0 ? meta.slice(0, besetzungAt) : meta;
-  const composer =
-    head
-      .match(/\bvon\s+([A-ZÄÖÜ][^,]{1,80})/)?.[1]
-      ?.split(/\s+nach\s+|\s+und\s+/i)[0]
-      ?.trim() ?? null;
+  // concerts). Keep only entries whose meta names an opera genre — that drops the
+  // tours/concerts that have no genre token while keeping every staged work.
+  if (!OPERA_GENRE.test(meta)) return null;
+  // parseMeta handles both composer dialects: "Title, Composer, …" (Wiesbaden) and
+  // "Title, … von Composer, …" (Essen). A strict "von" grab would mistake the
+  // librettist ("Carmen, Bizet, Libretto von Meilhac, …") for the composer.
+  const { composer, creative_team, cast } = parseMeta(meta, workTitle);
   if (!composer) return null;
-  const { creative_team, cast } = parseMeta(meta, workTitle);
 
   const seen = new Set<string>();
   const deduped = performances
