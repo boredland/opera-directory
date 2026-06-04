@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
     inputs:
       houses:
-        description: "Space-separated house slugs to scrape (empty = all enabled)"
+        description: "Space-separated house slugs (empty = all enabled in houses.json)"
         required: false
       backfill:
-        description: "Set to 'true' for a deep backfill run (archive + Wikidata)"
+        description: "Set 'true' for a deep backfill run (archive + Wikidata)"
         required: false
         default: "false"
       since:
@@ -24,30 +24,79 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  # Resolve which houses to scrape → a matrix list.
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 5
+    outputs:
+      houses: ${{ steps.set.outputs.houses }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: set
+        run: |
+          if [ -n "${{ github.event.inputs.houses }}" ]; then
+            HOUSES=$(printf '%s\n' ${{ github.event.inputs.houses }} | jq -R . | jq -cs .)
+          else
+            HOUSES=$(jq -c '[.[] | select(.enabled == true) | .slug]' data/houses.json)
+          fi
+          echo "houses=$HOUSES" >> "$GITHUB_OUTPUT"
+          echo "matrix: $HOUSES"
+
+  # One runner per house — network/render-bound, isolated, in parallel.
+  scrape:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    strategy:
+      fail-fast: false # a flaky house must not abort the others
+      max-parallel: 6
+      matrix:
+        house: ${{ fromJSON(needs.prepare.outputs.houses) }}
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
       - run: bun install --frozen-lockfile
-      # Chrome for the `render` strategy houses (Stuttgart, …); harmless otherwise.
-      - uses: browser-actions/setup-chrome@v1
+      - uses: browser-actions/setup-chrome@v1 # for the `render` houses; harmless otherwise
         id: chrome
         with:
           chrome-version: stable
-      - name: Run scrape + ingest
+      - name: Scrape ${{ matrix.house }} → raw artifact
         env:
           FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
           FETCH_PROXY_TOKEN: ${{ secrets.FETCH_PROXY_TOKEN }}
           CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
         run: |
-          ARGS="${{ github.event.inputs.houses }}"
+          ARGS="${{ matrix.house }}"
           [ "${{ github.event.inputs.backfill }}" = "true" ] && ARGS="$ARGS --backfill"
           [ -n "${{ github.event.inputs.since }}" ] && ARGS="$ARGS --since=${{ github.event.inputs.since }}"
-          bun run scrape $ARGS
+          bun run scrape-raw $ARGS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ matrix.house }}
+          path: raw/${{ matrix.house }}.json
+          retention-days: 7
+          if-no-files-found: error
+
+  # Single writer: resolve the union of raw artifacts, commit the canonical store.
+  ingest:
+    needs: scrape
+    if: ${{ always() && !cancelled() }} # run even if some scrape jobs failed
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: raw-*
+          merge-multiple: true
+          path: raw
+      - run: bun run ingest-raw
       - name: Commit regenerated canonical store
         run: |
           git config user.name "github-actions[bot]"

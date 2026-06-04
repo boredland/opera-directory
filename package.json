@@ -3,9 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "scrape": "bun packages/ingest/src/index.ts",
+    "scrape-raw": "bun packages/ingest/src/index.ts scrape-raw",
+    "ingest-raw": "bun packages/ingest/src/index.ts ingest-raw",
     "typecheck": "bun --filter '*' typecheck",
     "lint": "biome check .",
     "format": "biome format --write ."

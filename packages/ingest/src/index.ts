@@ -1,3 +1,4 @@
+import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import type { IsoDate } from "@opera-directory/schema";
 import {
@@ -5,6 +6,7 @@ import {
   DEFAULT_UA,
   type FetchContext,
   HOUSE_SCRAPERS,
+  type HouseScrapeResult,
   type ScrapeWindow,
 } from "@opera-directory/scrapers";
 import { ingestRawProduction } from "./resolve";
@@ -16,16 +18,20 @@ export * from "./store";
 /**
  * The pipeline, end to end:
  *
- *   houses.json ─▶ scrape (per-house adapter) ─▶ normalize (Raw* rows)
- *              ─▶ resolve (link to canonical Work/Person/Role via Wikidata)
- *              ─▶ upsert (idempotent, keyed on the stable-identity rules)
- *              ─▶ persist (committed JSON under data/ — the diff-reviewable
- *                 source of truth; a SQLite/D1 read-copy is derived from it
- *                 later, only when performance-table scale demands it)
+ *   houses.json ─▶ scrape (per-house adapter) ─▶ Raw* rows  (parallelizable)
+ *              ─▶ resolve (link to canonical Work/Person/Role)
+ *              ─▶ upsert  (idempotent, keyed on the stable-identity rules)
+ *              ─▶ persist (committed JSON under data/ — diff-reviewable truth)
  *
- * Idempotency is the whole game: every run re-scrapes future + a rolling window
- * of recent past, and upserts. Re-running must converge, never duplicate. The
- * stable-id rules in @opera-directory/schema are what make that hold.
+ * Two ways to run it:
+ *   - `runScrape` — scrape + resolve + persist in one process (local / simple).
+ *   - `runScrapeRaw` (per house) → `runIngestRaw` (central) — the CI split: each
+ *     house scrapes on its own runner and emits raw/<slug>.json; one ingest job
+ *     then resolves the union. Safe because resolution is DETERMINISTIC — every
+ *     slug is a pure function of the input, so the cross-house graph falls out of
+ *     the union in any order, and a single writer keeps the commit conflict-free.
+ *
+ * Idempotency is the whole game: re-running converges, never duplicates.
  */
 
 export function makeFetchContext(): FetchContext {
@@ -50,13 +56,13 @@ function defaultIncrementalWindow(): ScrapeWindow {
 }
 
 /**
- * `bun run scrape [house-slug …] [--backfill] [--since=YYYY-MM-DD]`
+ * `[house-slug …] [--backfill] [--since=YYYY-MM-DD]`
  *   (no flags)            → incremental: future + last 45 days
  *   --backfill            → walk the full archive (since = null, unbounded)
  *   --backfill --since=X  → walk the archive back to X
  *   --since=X (alone)     → incremental floored at X
  */
-function parseArgs(argv: string[]): { slugs: string[]; window: ScrapeWindow } {
+export function parseArgs(argv: string[]): { slugs: string[]; window: ScrapeWindow } {
   const slugs: string[] = [];
   let backfill = false;
   let since: IsoDate | null = null;
@@ -74,7 +80,39 @@ function parseArgs(argv: string[]): { slugs: string[]; window: ScrapeWindow } {
 }
 
 const DATA_DIR = process.env.DATA_DIR ?? join(process.cwd(), "data");
+const RAW_DIR = process.env.RAW_DIR ?? join(process.cwd(), "raw");
 
+/** Scrape one house and write its raw result to raw/<slug>.json — no resolve. */
+export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise<void> {
+  const scraper = HOUSE_SCRAPERS[slug];
+  if (!scraper) throw new Error(`no adapter registered for house "${slug}"`);
+  const ctx = makeFetchContext();
+  try {
+    const result = await scraper(ctx, window ?? defaultIncrementalWindow());
+    await mkdir(RAW_DIR, { recursive: true });
+    await writeFile(join(RAW_DIR, `${slug}.json`), `${JSON.stringify(result, null, 2)}\n`);
+    console.log(`${slug}: ${result.productions.length} productions → raw/${slug}.json`);
+  } finally {
+    await closeBrowser();
+  }
+}
+
+/** Resolve every raw/<slug>.json into the canonical store and persist once. */
+export async function runIngestRaw(): Promise<void> {
+  const store = await CanonicalStore.load(DATA_DIR);
+  // Sorted for a deterministic merge order → byte-identical commits regardless of
+  // which scrape runner finished first (mergeFill is first-write-wins).
+  const files = (await readdir(RAW_DIR)).filter((f) => f.endsWith(".json")).sort();
+  for (const file of files) {
+    const result = JSON.parse(await readFile(join(RAW_DIR, file), "utf8")) as HouseScrapeResult;
+    for (const raw of result.productions) ingestRawProduction(store, raw, result.house_slug);
+    console.log(`${result.house_slug}: ${result.productions.length} productions resolved`);
+  }
+  await store.save(DATA_DIR);
+  console.log("store:", store.counts());
+}
+
+/** Scrape + resolve + persist in one process (local / all-in-one). */
 export async function runScrape(houseSlugs?: string[], window?: ScrapeWindow): Promise<void> {
   const ctx = makeFetchContext();
   const scrapeWindow = window ?? defaultIncrementalWindow();
@@ -104,6 +142,16 @@ export async function runScrape(houseSlugs?: string[], window?: ScrapeWindow): P
 }
 
 if (import.meta.main) {
-  const { slugs, window } = parseArgs(process.argv.slice(2));
-  await runScrape(slugs, window);
+  const [cmd, ...rest] = process.argv.slice(2);
+  if (cmd === "scrape-raw") {
+    const { slugs, window } = parseArgs(rest);
+    const slug = slugs[0];
+    if (!slug) throw new Error("scrape-raw needs a house slug");
+    await runScrapeRaw(slug, window);
+  } else if (cmd === "ingest-raw") {
+    await runIngestRaw();
+  } else {
+    const { slugs, window } = parseArgs(process.argv.slice(2));
+    await runScrape(slugs, window);
+  }
 }
