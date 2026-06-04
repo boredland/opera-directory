@@ -126,10 +126,10 @@
     "city": "Hannover",
     "country": "DE",
     "website": "https://staatstheater-hannover.de",
-    "wikidata": "Q321699",
-    "strategy": "spielplan-html",
-    "enabled": false,
-    "notes": "RECON DONE, adapter TODO. DOB-family CMS (/de_DE/ paths) but distinct: spielplan at /de_DE/kalender; production detail /de_DE/programm/{slug}.{id} (h1 title, creative as 'Label: <a class=tuser_name>Name'). Dates NOT on detail page → must come from /de_DE/kalender (associate to productions). Composer location TBD (not 'Musik von'/'Komposition' inline). Verify QID Q321699 before enabling."
+    "wikidata": "Q315705",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Multi-genre Staatstheater on the same cb-event framework as Deutsche Oper Berlin: the calendar reads /de_DE/event.json (paginated ?p=N, filtered from date_from; full param set current_language/keyword/status/location=alle/category=alle/date_from/q/query). Each row has IdEventCluster (production key), Title, ContentCategory (filter to Oper/Musiktheater), OpusInfo ('… von Composer' line), and a structured Ensemble (creative + sung cast, German labels) inline — richer than DOB, no detail fetch needed for credits. But every row of a cluster repeats the run-start date, so individual performance dates come from the detail page /de_DE/programm/{slug}.{id} ('further-event' articles, aria-label 'Weekday, DD. Monat YYYY, HH:MM …'). Future-only → Wikidata backfill. QID was wrong (Q321699 = a French commune); corrected to Q315705 (Opernhaus Hannover building, has the premiere-location link)."
   },
   {
     "slug": "wiener-staatsoper",
