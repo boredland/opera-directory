@@ -56,7 +56,28 @@ export interface HouseScrapeResult {
 
 import type { FetchContext } from "./fetch";
 
-export type HouseScraper = (ctx: FetchContext) => Promise<HouseScrapeResult>;
+/**
+ * How far back a single scrape reaches. The same adapter serves two jobs:
+ *
+ *   - "incremental" — the daily scheduled run. Scrape the full announced future
+ *     plus a shallow recent-past refresh (cast substitutions, cancellations and
+ *     corrections land *after* a night is played). Adapters MUST NOT re-walk the
+ *     deep archive in this mode — that would re-fetch decades of seasons nightly.
+ *   - "backfill" — the one-time / occasional deep run. Walk the house's season
+ *     archive as far back as `since`, or as far as the source allows when `since`
+ *     is null. This is where the "big dataset" of past productions comes from.
+ *
+ * `since` is a lower bound on the performance dates an adapter emits or refreshes.
+ * The future leg (the live spielplan) is unaffected by the window — always emit
+ * the complete announced future regardless of mode.
+ */
+export interface ScrapeWindow {
+  mode: "incremental" | "backfill";
+  /** Earliest performance date to include. null = unbounded (deepest archive). */
+  since: IsoDate | null;
+}
+
+export type HouseScraper = (ctx: FetchContext, window: ScrapeWindow) => Promise<HouseScrapeResult>;
 
 /** Registry entry shape mirrored in data/houses.json. */
 export interface HouseSource {
@@ -83,5 +104,7 @@ export type SourceStrategy =
   | "spielplan-html" // bespoke HTML spielplan + archive (like oper-frankfurt)
   | "spektrix-api" // Spektrix ticketing JSON API
   | "tessitura-api" // Tessitura TNEW / REST
+  | "json-api" // a house's own JSON API (e.g. oper-koeln's Django REST backend)
+  | "render" // client-rendered SPA with no API — read via headless render (renderHtml)
   | "wikidata-sparql" // backfill-only: past productions from Wikidata
   | "manual"; // hand-curated seed, no live scrape yet

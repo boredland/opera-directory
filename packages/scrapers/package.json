@@ -10,7 +10,8 @@
   "dependencies": {
     "@opera-directory/schema": "*",
     "dayjs": "^1.11.20",
-    "p-queue": "^9.2.0"
+    "p-queue": "^9.2.0",
+    "playwright-core": "^1.60.0"
   },
   "devDependencies": { "typescript": "^5.9.3" }
 }

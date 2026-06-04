@@ -15,7 +15,10 @@
  *   - Work    → keyed on Wikidata QID when resolvable, else `composer-slug/title-slug`.
  *   - Person  → keyed on Wikidata QID, else `name-slug` (+ disambiguating role).
  *   - House   → curated slug from data/houses.json (never auto-minted).
- *   - Production → `house-slug/work-slug/premiere-season`.
+ *   - Production → `house-slug/work-slug/premiere-season` when the season is
+ *     known (e.g. Wikidata premieres); otherwise `house-slug/source-id`, since a
+ *     live spielplan rarely exposes a premiere season and the house's own stable
+ *     production slug already disambiguates revivals.
  *   - Performance → `production-id/date/time`.
  */
 
@@ -104,6 +107,9 @@ export interface Production {
   synopsis?: string | null;
   /** Creative team — production-level, role keyed (Regie, Bühne, Kostüm, …). */
   creative_team: CreativeCredit[];
+  /** The standing run cast (role → singer). Per-night jump-ins live on
+   *  Performance.cast; this is what a performance inherits when it has none. */
+  cast: CastCredit[];
 }
 
 /** A single dated showing of a production. */

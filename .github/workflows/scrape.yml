@@ -6,30 +6,106 @@ on:
   workflow_dispatch:
     inputs:
       houses:
-        description: "Space-separated house slugs to scrape (empty = all enabled)"
+        description: "Space-separated house slugs (empty = all enabled in houses.json)"
+        required: false
+      backfill:
+        description: "Set 'true' for a deep backfill run (archive + Wikidata)"
+        required: false
+        default: "false"
+      since:
+        description: "Floor date YYYY-MM-DD (optional; bounds backfill / incremental)"
         required: false
 
 permissions:
   contents: write
 
+# One whole pipeline run at a time (a manual dispatch won't overlap the nightly cron).
 concurrency:
   group: scrape
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  # Resolve which houses to scrape → a matrix list.
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 5
+    outputs:
+      houses: ${{ steps.set.outputs.houses }}
+    steps:
+      - uses: actions/checkout@v5
+      - id: set
+        run: |
+          if [ -n "${{ github.event.inputs.houses }}" ]; then
+            HOUSES=$(printf '%s\n' ${{ github.event.inputs.houses }} | jq -R . | jq -cs .)
+          else
+            HOUSES=$(jq -c '[.[] | select(.enabled == true) | .slug]' data/houses.json)
+          fi
+          echo "houses=$HOUSES" >> "$GITHUB_OUTPUT"
+          echo "matrix: $HOUSES"
+
+  # One runner per house — network-bound, isolated, in parallel across houses.
+  scrape:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    # One scraper per house at a time: the same house never runs twice at once
+    # (politeness + no artifact clash), while different houses still parallelize.
+    concurrency:
+      group: scrape-${{ matrix.house }}
+      cancel-in-progress: false
+    strategy:
+      fail-fast: false # a flaky house must not abort the others
+      max-parallel: 6
+      matrix:
+        house: ${{ fromJSON(needs.prepare.outputs.houses) }}
     steps:
       - uses: actions/checkout@v5
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
       - run: bun install --frozen-lockfile
-      - name: Run scrape + ingest
+      - name: Scrape ${{ matrix.house }} → raw artifact
         env:
           FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
           FETCH_PROXY_TOKEN: ${{ secrets.FETCH_PROXY_TOKEN }}
-        run: bun run scrape ${{ github.event.inputs.houses }}
-      # TODO(implementer): commit the regenerated canonical store / data export,
-      # mirroring museumsufer's "commit if changed" + push step.
+        run: |
+          ARGS="${{ matrix.house }}"
+          [ "${{ github.event.inputs.backfill }}" = "true" ] && ARGS="$ARGS --backfill"
+          [ -n "${{ github.event.inputs.since }}" ] && ARGS="$ARGS --since=${{ github.event.inputs.since }}"
+          bun run scrape-raw $ARGS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ matrix.house }}
+          path: raw/${{ matrix.house }}.json
+          retention-days: 7
+          if-no-files-found: error
+
+  # Single writer: resolve the union of raw artifacts, commit the canonical store.
+  ingest:
+    needs: scrape
+    if: ${{ always() && !cancelled() }} # run even if some scrape jobs failed
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: raw-*
+          merge-multiple: true
+          path: raw
+      - run: bun run ingest-raw
+      - name: Commit regenerated canonical store
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
+            git commit -m "data: scrape ${{ github.event.inputs.houses || 'all enabled' }} [skip ci]"
+            git push
+          else
+            echo "no data changes"
+          fi

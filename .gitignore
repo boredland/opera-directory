@@ -7,6 +7,8 @@ dist/
 *.sqlite
 *.sqlite-*
 data/cache/
+# Per-house raw scrape output (CI artifact intermediates; ingest merges them)
+raw/
 
 .env
 .env.*
