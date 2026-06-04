@@ -1,0 +1,192 @@
+[
+  {
+    "id": "theater-bonn/221258",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/tosca/221258",
+    "creative_team": [
+      {
+        "person_slug": "will-humburg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-gatto",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/221261",
+    "work_slug": "daniel-johannes-mayr/nessun-dorma",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/nessun-dorma/221261",
+    "creative_team": [
+      {
+        "person_slug": "daniel-johannes-mayr",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexandra-pape",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/221389",
+    "work_slug": "kehrauskonzert",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/kehrauskonzert/221389",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/225156",
+    "work_slug": "jurgen-grimm/tootsie",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/tootsie/225156",
+    "creative_team": [
+      {
+        "person_slug": "jurgen-grimm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gil-mehmert",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/227934",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/otello/227934",
+    "creative_team": [
+      {
+        "person_slug": "dirk-kaftan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "leo-muscato",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/227935",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/der-freischutz/227935",
+    "creative_team": [
+      {
+        "person_slug": "lothar-koenigs",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "volker-losch",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/227938",
+    "work_slug": "param-vir/awakening",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/awakening/227938",
+    "creative_team": [
+      {
+        "person_slug": "daniel-johannes-mayr",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vasily-barkhatov",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/227939",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/der-barbier-von-sevilla/227939",
+    "creative_team": [
+      {
+        "person_slug": "matthew-wild",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/228751",
+    "work_slug": "pierangelo-valtinoni/die-reise-zu-planet-9",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/die-reise-zu-planet-9/228751",
+    "creative_team": [
+      {
+        "person_slug": "avishay-shalom",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cordula-dauper",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/232436",
+    "work_slug": "oxana-omelchuk/laterna-magica",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/laterna-magica/232436",
+    "creative_team": [
+      {
+        "person_slug": "avishay-shalom",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/241629",
+    "work_slug": "martin-tzonev/stadtteilkonzert",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/stadtteilkonzert/241629",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/241838",
+    "work_slug": "ekaterina-klewitz/dear-evan-hansen",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/dear-evan-hansen/241838",
+    "creative_team": [
+      {
+        "person_slug": "ekaterina-klewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernard-niemeyer",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  }
+]
