@@ -1,0 +1,176 @@
+[
+  {
+    "id": "mainfranken-theater-wuerzburg/fidelio",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "house_slug": "mainfranken-theater-wuerzburg",
+    "is_revival": false,
+    "detail_url": "https://www.mainfrankentheater.de/programm/spielplan/fidelio/2758/",
+    "creative_team": [
+      {
+        "person_slug": "lutz-de-veer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "georg-rootering",
+        "function": "director"
+      },
+      {
+        "person_slug": "berthold-warnecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-lundt",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "don-fernando",
+        "role_slug": "ludwig-van-beethoven/fidelio/besetzung"
+      },
+      {
+        "person_slug": "lukas-noll",
+        "role_slug": "ludwig-van-beethoven/fidelio/buhnen-und-kostumbild"
+      },
+      {
+        "person_slug": "maida-hundeling",
+        "role_slug": "ludwig-van-beethoven/fidelio/dessen-frau-unter-dem-namen-fidelio"
+      },
+      {
+        "person_slug": "milena-arsovska",
+        "role_slug": "ludwig-van-beethoven/fidelio/dessen-tochter"
+      },
+      {
+        "person_slug": "pawel-serafin",
+        "role_slug": "ludwig-van-beethoven/fidelio/einstudierung-des-chors"
+      },
+      {
+        "person_slug": "deuk-young-lee",
+        "role_slug": "ludwig-van-beethoven/fidelio/erster-gefangener"
+      },
+      {
+        "person_slug": "brad-cooper",
+        "role_slug": "ludwig-van-beethoven/fidelio/gefangener"
+      },
+      {
+        "person_slug": "jochen-kupfer",
+        "role_slug": "ludwig-van-beethoven/fidelio/gouverneur"
+      },
+      {
+        "person_slug": "gabriel-fortunas",
+        "role_slug": "ludwig-van-beethoven/fidelio/kerkermeister"
+      },
+      {
+        "person_slug": "leo-hyunho-kim",
+        "role_slug": "ludwig-van-beethoven/fidelio/minister"
+      },
+      {
+        "person_slug": "mathew-habib",
+        "role_slug": "ludwig-van-beethoven/fidelio/pfortner"
+      },
+      {
+        "person_slug": "jakob-mack",
+        "role_slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener"
+      }
+    ]
+  },
+  {
+    "id": "mainfranken-theater-wuerzburg/im-weissen-roessl",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "house_slug": "mainfranken-theater-wuerzburg",
+    "is_revival": false,
+    "detail_url": "https://www.mainfrankentheater.de/programm/spielplan/im-weissen-roessl/2760/",
+    "creative_team": [
+      {
+        "person_slug": "nicola-mascia",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "pawel-serafin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "lutz-de-veer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tristan-braun",
+        "function": "director"
+      },
+      {
+        "person_slug": "berthold-warnecke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-lundt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "valentin-mattka",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josepha-vogelhuber",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/besetzung"
+      },
+      {
+        "person_slug": "laura-faig",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/brieftragerin-jodlerin"
+      },
+      {
+        "person_slug": "hiroe-ito",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/die-reisefuhrerin"
+      },
+      {
+        "person_slug": "jakob-mack",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ein-hochzeitspaar-er"
+      },
+      {
+        "person_slug": "minkyung-kim",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ein-hochzeitspaar-sie"
+      },
+      {
+        "person_slug": "daniel-fiolka",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/fabrikant"
+      },
+      {
+        "person_slug": "adrian-barwinkel",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/kostumbild"
+      },
+      {
+        "person_slug": "paul-henrik-schulte",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/professor-dr-hinzelmann"
+      },
+      {
+        "person_slug": "christian-miebach",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/rechtsanwalt"
+      },
+      {
+        "person_slug": "anneka-ulmer",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/seine-tochter"
+      },
+      {
+        "person_slug": "vero-miller",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/seine-tochter"
+      },
+      {
+        "person_slug": "mathew-habib",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "yong-bae-shin",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/umberto"
+      },
+      {
+        "person_slug": "barbara-scholler",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/wirtin-zum-wei-en-rossl"
+      },
+      {
+        "person_slug": "max-gertsch",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/zahlkellner"
+      }
+    ]
+  }
+]
