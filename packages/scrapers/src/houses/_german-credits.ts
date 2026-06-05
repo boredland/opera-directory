@@ -9,6 +9,7 @@ import type { RawCredit } from "../types";
 export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   "musikalische leitung": "conductor",
   dirigent: "conductor",
+  dirigat: "conductor",
   regie: "director",
   inszenierung: "director",
   bühne: "set-designer",

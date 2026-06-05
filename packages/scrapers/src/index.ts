@@ -15,6 +15,7 @@ import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
 import { scrapeStaatsoperHamburg } from "./houses/staatsoper-hamburg";
 import { scrapeStaatsoperHannover } from "./houses/staatsoper-hannover";
 import { scrapeStaatsoperStuttgart } from "./houses/staatsoper-stuttgart";
+import { scrapeStaatstheaterAmGaertnerplatz } from "./houses/staatstheater-am-gaertnerplatz";
 import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
@@ -51,4 +52,5 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "theater-bonn": scrapeTheaterBonn,
   "badisches-staatstheater-karlsruhe": scrapeBadischesStaatstheaterKarlsruhe,
   "bayerische-staatsoper": scrapeBayerischeStaatsoper,
+  "staatstheater-am-gaertnerplatz": scrapeStaatstheaterAmGaertnerplatz,
 };
