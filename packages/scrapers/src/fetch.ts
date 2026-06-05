@@ -132,8 +132,25 @@ async function ensureContext(userAgent: string) {
   _browser = await chromium.launch({
     ...(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : {}),
     headless: true,
+    args: ["--disable-blink-features=AutomationControlled"],
   });
-  _context = await _browser.newContext({ userAgent });
+  _context = await _browser.newContext({
+    userAgent,
+    locale: "de-DE",
+    timezoneId: "Europe/Berlin",
+    viewport: { width: 1440, height: 900 },
+  });
+  // Stealth: some opera sites (e.g. Bayerische Staatsoper) serve a "maintenance"
+  // fallback to anything that looks like a headless bot. Masking the standard
+  // headless tells (navigator.webdriver, missing window.chrome / plugins) gets the
+  // real page — verified against staatsoper.de.
+  await _context.addInitScript(() => {
+    Object.defineProperty(navigator, "webdriver", { get: () => undefined });
+    Object.defineProperty(navigator, "languages", { get: () => ["de-DE", "de", "en"] });
+    Object.defineProperty(navigator, "plugins", { get: () => [1, 2, 3, 4, 5] });
+    // biome-ignore lint/suspicious/noExplicitAny: minimal chrome shim for bot checks
+    (window as any).chrome = { runtime: {} };
+  });
   return _context;
 }
 

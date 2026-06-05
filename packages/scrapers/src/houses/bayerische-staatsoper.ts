@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchJson, stripHtml } from "../fetch";
+import { type FetchContext, fetchJson, renderHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -55,6 +55,19 @@ export async function scrapeBayerischeStaatsoper(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
+  try {
+    const html = await renderHtml("https://www.staatsoper.de/spielplan", ctx, { waitMs: 6000 });
+    const intermezzo = /INTERMEZZO/i.test(html);
+    const rows = (html.match(/activity-list__content/g) ?? []).length;
+    const operaRows = (html.match(/&quot;name&quot;:&quot;Oper&quot;/g) ?? []).length;
+    console.warn(
+      `münchen-render: chrome=${process.env.CHROME_PATH ?? "managed"} bytes=${html.length} ` +
+        `intermezzo=${intermezzo} rows=${rows} operaFilters=${operaRows}`,
+    );
+  } catch (err) {
+    console.warn(`münchen-render failed: ${err}`);
+  }
+
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);

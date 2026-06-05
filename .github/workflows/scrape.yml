@@ -64,6 +64,8 @@ jobs:
         with:
           bun-version: latest
       - run: bun install --frozen-lockfile
+      - name: Locate Chrome (render-based houses)
+        run: echo "CHROME_PATH=$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || true)" >> "$GITHUB_ENV"
       - name: Scrape ${{ matrix.house }} → raw artifact
         env:
           FETCH_PROXY_URL: ${{ secrets.FETCH_PROXY_URL }}
