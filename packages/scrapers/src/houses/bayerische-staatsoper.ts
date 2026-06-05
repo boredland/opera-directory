@@ -32,6 +32,8 @@ const WIKI_API = `https://de.wikipedia.org/w/api.php?action=parse&page=${WIKI_PA
 /** Bayerische Staatsoper on Wikidata — see data/houses.json. */
 const WIKIDATA_QID = "Q681931";
 
+const DEBUG_ONCE = { n: 0 };
+
 const GERMAN_MONTHS: Record<string, string> = {
   Januar: "01",
   Februar: "02",
@@ -103,6 +105,8 @@ function buildProduction(
 ): RawProduction | null {
   const workTitle = stripHtml(titleHtml.match(/<b[^>]*><a[^>]*>([^<]+)<\/a>/)?.[1] ?? "");
   const date = parseGermanDate(stripHtml(titleHtml));
+  if (DEBUG_ONCE.n++ < 1)
+    console.warn(`münchen build: wt=${JSON.stringify(workTitle)} date=${date} since=${window.since}`);
   if (!workTitle || !date) return null;
   if (window.since && date < window.since) return null;
 
