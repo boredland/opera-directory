@@ -13,8 +13,12 @@ import { normalizeGermanCredit } from "./_german-credits";
 /**
  * Bayerische Staatsoper München.
  *
- * The live site staatsoper.de is a Cloudflare-challenged JS SPA — not reachable
- * by a plain crawler. The historical premiere casts, however, are maintained on
+ * The live site staatsoper.de is locked down hard: a JS-execution challenge (the
+ * fetch-proxy's FlareSolverr solves it via `&solve=1`), but even past that the
+ * origin serves automated clients an "EIN HOFFENTLICH KURZES INTERMEZZO!"
+ * maintenance/bot-fallback page instead of the spielplan (real browsers get the
+ * content). So the live spielplan stays out of reach. The historical premiere
+ * casts, however, are maintained on
  * Wikipedia ("Premierenbesetzungen der Bayerischen Staatsoper ab 2014", covering
  * the 2013/14–2017/18 seasons). We import them: each premiere is a `colspan` title
  * row ("Work, … Musik von Composer / Composer (Musik), DD. Monat YYYY") followed by
@@ -51,8 +55,6 @@ export async function scrapeBayerischeStaatsoper(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
-  await reconLiveViaProxy();
-
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
@@ -69,35 +71,6 @@ export async function scrapeBayerischeStaatsoper(
     }
   }
   return { house_slug: "bayerische-staatsoper", productions };
-}
-
-/** TEMPORARY recon: probe the Cloudflare-protected live spielplan through the
- *  FETCH_PROXY (FlareSolverr) and log its shape so the live adapter can be written.
- *  Builds the proxy from env directly so the Wikipedia fetch above stays un-proxied. */
-async function reconLiveViaProxy(): Promise<void> {
-  const url = process.env.FETCH_PROXY_URL;
-  if (!url) {
-    console.warn("münchen-recon: no FETCH_PROXY_URL (skipping live probe)");
-    return;
-  }
-  // &solve=1 forces the proxy's FlareSolverr path (München's challenge isn't a
-  // small CF page, so the proxy's auto-detect doesn't fire).
-  const target = "https://www.staatsoper.de/spielplan";
-  const proxyUrl = `${url}?url=${encodeURIComponent(target)}&solve=1`;
-  const headers: Record<string, string> = { "User-Agent": "Mozilla/5.0" };
-  if (process.env.FETCH_PROXY_TOKEN) headers.Authorization = `Bearer ${process.env.FETCH_PROXY_TOKEN}`;
-  try {
-    const res = await fetch(proxyUrl, { headers });
-    const body = await res.text();
-    console.warn(`münchen-recon: status=${res.status} bytes=${body.length}`);
-    const counts = ["Spielplan", "Oper", "Premiere", "Uhr", "Vorstellung", "JavaScript", "noscript", "ng-", "v-", "react", "vue", "Nationaltheater"]
-      .map((k) => `${k}=${(body.match(new RegExp(k, "g")) ?? []).length}`);
-    console.warn(`münchen-recon counts: ${counts.join(" ")}`);
-    const main = body.search(/fallback-content/i);
-    console.warn(`münchen-recon fallback: ${stripHtml(body.slice(main, main + 900))}`);
-  } catch (err) {
-    console.warn(`münchen-recon failed: ${err}`);
-  }
 }
 
 function parsePremieres(html: string): RawProduction[] {
