@@ -1,0 +1,514 @@
+[
+  {
+    "id": "anhaltisches-theater-dessau/alma/2026-04-25/15:00",
+    "production_id": "anhaltisches-theater-dessau/alma",
+    "date": "2026-04-25",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/alma/2026-05-03/15:00",
+    "production_id": "anhaltisches-theater-dessau/alma",
+    "date": "2026-05-03",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/ay-amor/2026-04-26/13:00",
+    "production_id": "anhaltisches-theater-dessau/ay-amor",
+    "date": "2026-04-26",
+    "time": "13:00",
+    "venue_room": "Altes Theater/Foyer",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/bajazzo-darf-nicht-platzen/2027-06-04/17:30",
+    "production_id": "anhaltisches-theater-dessau/bajazzo-darf-nicht-platzen",
+    "date": "2027-06-04",
+    "time": "17:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/bajazzo-darf-nicht-platzen/2027-06-06/15:00",
+    "production_id": "anhaltisches-theater-dessau/bajazzo-darf-nicht-platzen",
+    "date": "2027-06-06",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer/2026-05-15/17:30",
+    "production_id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer",
+    "date": "2026-05-15",
+    "time": "17:30",
+    "venue_room": "Altes Theater/Studio",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer/2026-05-16/18:00",
+    "production_id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer",
+    "date": "2026-05-16",
+    "time": "18:00",
+    "venue_room": "Altes Theater/Studio",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer/2026-05-29/18:00",
+    "production_id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer",
+    "date": "2026-05-29",
+    "time": "18:00",
+    "venue_room": "Altes Theater/Studio",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer/2026-06-05/18:00",
+    "production_id": "anhaltisches-theater-dessau/der-elefant-im-weissen-meer",
+    "date": "2026-06-05",
+    "time": "18:00",
+    "venue_room": "Altes Theater/Studio",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2026-10-31/16:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2026-10-31",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2026-11-29/15:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2026-11-29",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2026-12-31/14:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2026-12-31",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2026-12-31/19:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2026-12-31",
+    "time": "19:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2027-01-16/16:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2027-01-16",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2027-02-20/16:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2027-02-20",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2027-04-02/17:30",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2027-04-02",
+    "time": "17:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/die-fledermaus/2027-05-17/14:00",
+    "production_id": "anhaltisches-theater-dessau/die-fledermaus",
+    "date": "2027-05-17",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-10-03/15:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-10-03",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-10-10/15:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-10-10",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-10-16/17:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-10-16",
+    "time": "17:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-10-25/15:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-10-25",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-11-14/16:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-11-14",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2026-12-27/16:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2026-12-27",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/figaros-hochzeit/2027-01-10/16:00",
+    "production_id": "anhaltisches-theater-dessau/figaros-hochzeit",
+    "date": "2027-01-10",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/himmel-und-hoelle/2027-06-18/18:00",
+    "production_id": "anhaltisches-theater-dessau/himmel-und-hoelle",
+    "date": "2027-06-18",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/himmel-und-hoelle/2027-06-20/18:00",
+    "production_id": "anhaltisches-theater-dessau/himmel-und-hoelle",
+    "date": "2027-06-20",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/himmel-und-hoelle/2027-06-26/18:00",
+    "production_id": "anhaltisches-theater-dessau/himmel-und-hoelle",
+    "date": "2027-06-26",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-01-24/15:00",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-01-24",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-01-30/16:00",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-01-30",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-02-14/15:00",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-02-14",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-03-21/15:00",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-03-21",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-04-23/17:30",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-04-23",
+    "time": "17:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-05-16/14:00",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-05-16",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/jenufa/2027-05-28/17:30",
+    "production_id": "anhaltisches-theater-dessau/jenufa",
+    "date": "2027-05-28",
+    "time": "17:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-05-31/15:00",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-05-31",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-10-18/15:00",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-10-18",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-10-24/15:00",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-10-24",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-11-01/16:00",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-11-01",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-11-13/18:30",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-11-13",
+    "time": "18:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/my-fair-lady/2026-12-29/17:00",
+    "production_id": "anhaltisches-theater-dessau/my-fair-lady",
+    "date": "2026-12-29",
+    "time": "17:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/oper-um-11-26/2027-05-11/09:00",
+    "production_id": "anhaltisches-theater-dessau/oper-um-11-26",
+    "date": "2027-05-11",
+    "time": "09:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/oper-um-11-ballett/2026-05-18/09:00",
+    "production_id": "anhaltisches-theater-dessau/oper-um-11-ballett",
+    "date": "2026-05-18",
+    "time": "09:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/soiree-bajazzo-darf-nicht-platzen/2027-05-31/16:15",
+    "production_id": "anhaltisches-theater-dessau/soiree-bajazzo-darf-nicht-platzen",
+    "date": "2027-05-31",
+    "time": "16:15",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/soiree-figaros-hochzeit/2026-09-28/16:15",
+    "production_id": "anhaltisches-theater-dessau/soiree-figaros-hochzeit",
+    "date": "2026-09-28",
+    "time": "16:15",
+    "venue_room": "Großes Haus/Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/soiree-jenufa/2027-01-15/16:15",
+    "production_id": "anhaltisches-theater-dessau/soiree-jenufa",
+    "date": "2027-01-15",
+    "time": "16:15",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/soiree-tom-sawyer/2027-02-19/16:15",
+    "production_id": "anhaltisches-theater-dessau/soiree-tom-sawyer",
+    "date": "2027-02-19",
+    "time": "16:15",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/soiree-turandot/2027-03-30/15:15",
+    "production_id": "anhaltisches-theater-dessau/soiree-turandot",
+    "date": "2027-03-30",
+    "time": "15:15",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/stroeme-des-lebens/2026-06-12/18:00",
+    "production_id": "anhaltisches-theater-dessau/stroeme-des-lebens",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/stroeme-des-lebens/2026-06-14/18:00",
+    "production_id": "anhaltisches-theater-dessau/stroeme-des-lebens",
+    "date": "2026-06-14",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/stroeme-des-lebens/2026-06-20/18:00",
+    "production_id": "anhaltisches-theater-dessau/stroeme-des-lebens",
+    "date": "2026-06-20",
+    "time": "18:00",
+    "venue_room": "Mausoleum im Tierpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-02-27/16:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-02-27",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-03-06/16:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-03-06",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-03-19/18:30",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-03-19",
+    "time": "18:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-04-03/15:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-04-03",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-04-11/14:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-04-11",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-05-09/14:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-05-09",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tom-sawyer/2027-05-22/15:00",
+    "production_id": "anhaltisches-theater-dessau/tom-sawyer",
+    "date": "2027-05-22",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tristan-und-isolde/2026-05-22/15:00",
+    "production_id": "anhaltisches-theater-dessau/tristan-und-isolde",
+    "date": "2026-05-22",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tristan-und-isolde/2026-05-25/14:00",
+    "production_id": "anhaltisches-theater-dessau/tristan-und-isolde",
+    "date": "2026-05-25",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/tristan-und-isolde/2026-05-30/15:00",
+    "production_id": "anhaltisches-theater-dessau/tristan-und-isolde",
+    "date": "2026-05-30",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "past"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/turandot/2027-04-10/17:00",
+    "production_id": "anhaltisches-theater-dessau/turandot",
+    "date": "2027-04-10",
+    "time": "17:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/turandot/2027-04-17/15:00",
+    "production_id": "anhaltisches-theater-dessau/turandot",
+    "date": "2027-04-17",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/turandot/2027-05-02/14:00",
+    "production_id": "anhaltisches-theater-dessau/turandot",
+    "date": "2027-05-02",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "anhaltisches-theater-dessau/turandot/2027-05-23/14:00",
+    "production_id": "anhaltisches-theater-dessau/turandot",
+    "date": "2027-05-23",
+    "time": "14:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  }
+]
