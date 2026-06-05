@@ -1,0 +1,488 @@
+[
+  {
+    "id": "musiktheater-im-revier/2025-26-behind-the-scenes",
+    "work_slug": "behind-the-scenes",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/behind-the-scenes",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "musiktheater-im-revier/2025-26-die-firma",
+    "work_slug": "die-firma",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/die-firma",
+    "creative_team": [
+      {
+        "person_slug": "friederike-brendler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "julian-rybarski",
+        "function": "Komposition"
+      },
+      {
+        "person_slug": "juliane-blum",
+        "function": "Komposition"
+      },
+      {
+        "person_slug": "dominik-hallerbach",
+        "function": "Künstlerische Leitung, Textfassung, Regie"
+      },
+      {
+        "person_slug": "micah-frank",
+        "function": "Produktionsassistenz"
+      },
+      {
+        "person_slug": "jennifer-penz",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "stattwerkstadt",
+        "function": "Stückentwicklung"
+      },
+      {
+        "person_slug": "lennart-miketta",
+        "function": "Team Film"
+      },
+      {
+        "person_slug": "godana-karawanke",
+        "function": "Team Garten"
+      },
+      {
+        "person_slug": "jasmina-vukovic",
+        "function": "Team Logo"
+      },
+      {
+        "person_slug": "somaya-alferdawi",
+        "function": "Team Nähen"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andrea-seefried",
+        "role_slug": "die-firma/beschwerde"
+      },
+      {
+        "person_slug": "edeltraud-papke",
+        "role_slug": "die-firma/beschwerde"
+      },
+      {
+        "person_slug": "julian-rybarski",
+        "role_slug": "die-firma/die-bonitas"
+      },
+      {
+        "person_slug": "juliane-blum",
+        "role_slug": "die-firma/die-bonitas"
+      },
+      {
+        "person_slug": "anhelina-hryshchenko",
+        "role_slug": "die-firma/kantine"
+      },
+      {
+        "person_slug": "regina-czysch",
+        "role_slug": "die-firma/kantine"
+      },
+      {
+        "person_slug": "ricky-an",
+        "role_slug": "die-firma/kantine"
+      },
+      {
+        "person_slug": "susanne-dillner",
+        "role_slug": "die-firma/kantine"
+      },
+      {
+        "person_slug": "kery-felske",
+        "role_slug": "die-firma/labor"
+      },
+      {
+        "person_slug": "matthias-thulke",
+        "role_slug": "die-firma/labor"
+      },
+      {
+        "person_slug": "jessica-winning",
+        "role_slug": "die-firma/marketing"
+      },
+      {
+        "person_slug": "paul-dirks",
+        "role_slug": "die-firma/marketing"
+      },
+      {
+        "person_slug": "estar-halfmann",
+        "role_slug": "die-firma/schatten"
+      },
+      {
+        "person_slug": "godana-karawanke",
+        "role_slug": "die-firma/schatten"
+      },
+      {
+        "person_slug": "rebecca-forster",
+        "role_slug": "die-firma/schatten"
+      },
+      {
+        "person_slug": "jasmina-bulic",
+        "role_slug": "die-firma/werkstatt"
+      },
+      {
+        "person_slug": "katharine-pilgrim",
+        "role_slug": "die-firma/werkstatt"
+      }
+    ]
+  },
+  {
+    "id": "musiktheater-im-revier/2025-26-die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/die-zauberfloete",
+    "creative_team": [
+      {
+        "person_slug": "darius-todtmann",
+        "function": "3D-Artist"
+      },
+      {
+        "person_slug": "lex-rutten",
+        "function": "3D-Artist"
+      },
+      {
+        "person_slug": "balkan-kar-sman",
+        "function": "AI-Artist"
+      },
+      {
+        "person_slug": "felix-meermann",
+        "function": "AI-Artist"
+      },
+      {
+        "person_slug": "martin-miotk",
+        "function": "Bühne und Kostüm"
+      },
+      {
+        "person_slug": "tenald-zace",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alexander-eberle",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "johannes-klumpp",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maximilian-otto",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daniel-molnar",
+        "function": "Creative Coding"
+      },
+      {
+        "person_slug": "dominik-hallerbach",
+        "function": "Digitaldramaturgie"
+      },
+      {
+        "person_slug": "nora-krahl",
+        "function": "director"
+      },
+      {
+        "person_slug": "larissa-wieczorek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "baris-pekcagliyan",
+        "function": "Leitung Digital Arts"
+      },
+      {
+        "person_slug": "patrick-fuchs",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "friederike-brendler",
+        "function": "Outside Eye"
+      },
+      {
+        "person_slug": "fabian-halseband",
+        "function": "Ton"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rebecca-davis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame-dirigent"
+      },
+      {
+        "person_slug": "adam-temple-smith",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter"
+      },
+      {
+        "person_slug": "khanyiso-gwenxane",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter"
+      },
+      {
+        "person_slug": "anastasia-kolabanova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-knabe-wesen"
+      },
+      {
+        "person_slug": "lea-ostgathe",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-knabe-wesen"
+      },
+      {
+        "person_slug": "simon-stricker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-priester"
+      },
+      {
+        "person_slug": "yevhen-rakhmanin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-priester"
+      },
+      {
+        "person_slug": "lina-edlin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame-dirigent"
+      },
+      {
+        "person_slug": "simon-stricker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter"
+      },
+      {
+        "person_slug": "yevhen-rakhmanin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter"
+      },
+      {
+        "person_slug": "luisa-tinoco",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-knabe-wesen"
+      },
+      {
+        "person_slug": "valentina-jurju",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-knabe-wesen"
+      },
+      {
+        "person_slug": "johannes-mang",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-priester"
+      },
+      {
+        "person_slug": "almuth-herbst",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame-dirigent"
+      },
+      {
+        "person_slug": "alexandra-kodes",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knabe-wesen"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knabe-wesen"
+      },
+      {
+        "person_slug": "birgit-klemp",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/alte-frau"
+      },
+      {
+        "person_slug": "yeeun-yeo",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin"
+      },
+      {
+        "person_slug": "ylva-sofia-stenberg",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin"
+      },
+      {
+        "person_slug": "martin-homrich",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "heejin-kim",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "sonja-hebestadt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "tamina-biber",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "sebastian-schiller",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "philipp-kranjc",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "yevhen-rakhmanin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "simon-stricker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "adam-temple-smith",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "khanyiso-gwenxane",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "musiktheater-im-revier/2025-26-ghost-me-if-you-can",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/ghost-me-if-you-can",
+    "creative_team": [
+      {
+        "person_slug": "sabine-kuxdorf",
+        "function": "Access Dramaturgie"
+      },
+      {
+        "person_slug": "joe-bauer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "malin-schlebusch",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "friederike-brendler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "valentin-schwerdfeger",
+        "function": "Künstlerische Leitung"
+      },
+      {
+        "person_slug": "meret-konig",
+        "function": "Künstlerische Leitung / Bühnenbild"
+      },
+      {
+        "person_slug": "laura-zielinski",
+        "function": "Künstlerische Produktionsleitung"
+      },
+      {
+        "person_slug": "patrick-fuchs",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "victoria-stellpflug",
+        "function": "Musikalische Leitung / Komposition"
+      },
+      {
+        "person_slug": "charlie-wyrsch",
+        "function": "Outreach, Outside Eye"
+      },
+      {
+        "person_slug": "yasha-muller",
+        "function": "Outside Ear"
+      },
+      {
+        "person_slug": "sticky-fragments",
+        "function": "Stückentwicklung"
+      },
+      {
+        "person_slug": "dirk-lansing",
+        "function": "Ton"
+      },
+      {
+        "person_slug": "luki-becker",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sandro-hahnel",
+        "role_slug": "victoria-stellpflug/ghost-me-if-you-can/ghost"
+      },
+      {
+        "person_slug": "sergio-augusto",
+        "role_slug": "victoria-stellpflug/ghost-me-if-you-can/parent"
+      },
+      {
+        "person_slug": "daniel-ismaili",
+        "role_slug": "victoria-stellpflug/ghost-me-if-you-can/poltergeist-am-drumset"
+      },
+      {
+        "person_slug": "annika-steinkamp",
+        "role_slug": "victoria-stellpflug/ghost-me-if-you-can/teen"
+      },
+      {
+        "person_slug": "victoria-stellpflug",
+        "role_slug": "victoria-stellpflug/ghost-me-if-you-can/viki-an-der-soundstation"
+      }
+    ]
+  },
+  {
+    "id": "musiktheater-im-revier/2025-26-musikbrunch",
+    "work_slug": "musikbrunch",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/musikbrunch",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "musiktheater-im-revier/2025-26-und-es-leuchteten-die-sterne",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "house_slug": "musiktheater-im-revier",
+    "is_revival": false,
+    "detail_url": "https://musiktheater-im-revier.de/de/performance/2025-26/und-es-leuchteten-die-sterne",
+    "creative_team": [
+      {
+        "person_slug": "veronika-haller",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "alexander-eberle",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuliano-betta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jurgen-reitzler",
+        "function": "Moderation"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sono-yu",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/bariton"
+      },
+      {
+        "person_slug": "yevhen-rakhmanin",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/bass"
+      },
+      {
+        "person_slug": "anke-sieloff",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/mezzosopran"
+      },
+      {
+        "person_slug": "heejin-kim",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/sopran"
+      },
+      {
+        "person_slug": "katherine-allen",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/sopran"
+      },
+      {
+        "person_slug": "adam-temple-smith",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/tenor"
+      },
+      {
+        "person_slug": "khanyiso-gwenxane",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/tenor"
+      },
+      {
+        "person_slug": "xavier-moreno",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/tenor"
+      },
+      {
+        "person_slug": "zicong-han",
+        "role_slug": "giacomo-puccini/und-es-leuchteten-die-sterne/tenor"
+      }
+    ]
+  }
+]

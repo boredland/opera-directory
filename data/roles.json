@@ -2245,6 +2245,41 @@
     "name": "Orchester"
   },
   {
+    "slug": "die-firma/beschwerde",
+    "work_slug": "die-firma",
+    "name": "Beschwerde"
+  },
+  {
+    "slug": "die-firma/die-bonitas",
+    "work_slug": "die-firma",
+    "name": "Die Bonitas"
+  },
+  {
+    "slug": "die-firma/kantine",
+    "work_slug": "die-firma",
+    "name": "Kantine"
+  },
+  {
+    "slug": "die-firma/labor",
+    "work_slug": "die-firma",
+    "name": "Labor"
+  },
+  {
+    "slug": "die-firma/marketing",
+    "work_slug": "die-firma",
+    "name": "Marketing"
+  },
+  {
+    "slug": "die-firma/schatten",
+    "work_slug": "die-firma",
+    "name": "Schatten"
+  },
+  {
+    "slug": "die-firma/werkstatt",
+    "work_slug": "die-firma",
+    "name": "Werkstatt"
+  },
+  {
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/kuratiert-von",
     "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "name": "Kuratiert von"
@@ -2953,6 +2988,16 @@
     "slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer/ysatters-kajsa-bauerin",
     "work_slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "name": "Ysätters-Kajsa / Bäuerin"
+  },
+  {
+    "slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat/gartner",
+    "work_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "name": "gärtner"
+  },
+  {
+    "slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat/maulwurf",
+    "work_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "name": "maulwurf"
   },
   {
     "slug": "emanuel-schikaneder/die-zauberflote/1-dame",
@@ -5240,6 +5285,31 @@
     "name": "Zweite Damenstimme"
   },
   {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne/bariton",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "name": "Bariton"
+  },
+  {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne/bass",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "name": "Bass"
+  },
+  {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne/mezzosopran",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "name": "Mezzosopran"
+  },
+  {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne/sopran",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "name": "Sopran"
+  },
+  {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne/tenor",
+    "work_slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "name": "Tenor"
+  },
+  {
     "slug": "gian-carlo-menotti/the-consul/agent-der-geheimpolizei",
     "work_slug": "gian-carlo-menotti/the-consul",
     "name": "Agent der Geheimpolizei"
@@ -5405,6 +5475,11 @@
     "name": "Tancredi"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/ambrogio",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Ambrogio"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/berta",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Berta"
@@ -5430,6 +5505,11 @@
     "name": "Figaro"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/fiorello-ein-offizier",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Fiorello, Ein Offizier"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/fiorillo",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Fiorillo"
@@ -5443,6 +5523,11 @@
     "slug": "gioachino-rossini/der-barbier-von-sevilla/rosina",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Rosina"
+  },
+  {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/szenische-einstudierung",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Szenische Einstudierung"
   },
   {
     "slug": "gioachino-rossini/guillaume-tell/arnold-melchtal",
@@ -5803,6 +5888,51 @@
     "slug": "giuseppe-verdi/aida/ramfis",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Ramfis"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/azucena",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "azucena"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/conte-di-luna",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "conte di luna"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/ferrando",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "ferrando"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/inez",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "inèz"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/leonora",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "leonora"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/manrico",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "manrico"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/movement-director",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "movement director"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/orchester",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "orchester"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore/ruiz-ein-bote",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "name": "ruiz / ein bote"
   },
   {
     "slug": "giuseppe-verdi/der-troubadour/ferrando",
@@ -7305,6 +7435,81 @@
     "name": "Stimme aus dem Grab"
   },
   {
+    "slug": "james-matthew-barrie/peter-pan/cello",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "cello"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/garcons-de-piste",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "garçons de piste"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/hund-nana-zirkusdirektor-clown",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "hund nana / zirkusdirektor / clown"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/john-darling-slightly-lost-boy-cecco-pirat",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "john darling / slightly (lost boy)/ cecco (pirat)"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/kaptain-hook-curly-lost-boy",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "kaptain hook / curly (lost boy)"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/keyboard",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "keyboard"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/michael-darling-nibs-lost-boy-tiger-lilly",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "michael darling / nibs (lost boy) / tiger lilly"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/mr-darling-starkey-pirat",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "mr. darling / starkey (pirat)"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/mrs-darling-morgan-skylight-pirat",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "mrs. darling / morgan skylight (pirat)"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/peter-pan",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "peter pan"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/theaterpadagogische-betreuung",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "theaterpädagogische betreuung"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/tinkerbell",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "tinkerbell"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/tootles-lost-boy-smee-pirat",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "tootles (lost boy) / smee (pirat)"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/wendy-darling",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "wendy darling"
+  },
+  {
+    "slug": "james-matthew-barrie/peter-pan/zwillinge-lost-boy-bill-jukes-pirat",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "name": "zwillinge (lost boy) / bill jukes (pirat)"
+  },
+  {
     "slug": "jean-philippe-rameau/les-indes-galantes/adario",
     "work_slug": "jean-philippe-rameau/les-indes-galantes",
     "name": "Adario"
@@ -7780,6 +7985,41 @@
     "name": "Wizek | Wazek"
   },
   {
+    "slug": "jules-massenet/manon/beleuchtungsdesign",
+    "work_slug": "jules-massenet/manon",
+    "name": "Beleuchtungsdesign"
+  },
+  {
+    "slug": "jules-massenet/manon/choreografische-mitarbeit",
+    "work_slug": "jules-massenet/manon",
+    "name": "Choreografische Mitarbeit"
+  },
+  {
+    "slug": "jules-massenet/manon/javotte",
+    "work_slug": "jules-massenet/manon",
+    "name": "Javotte"
+  },
+  {
+    "slug": "jules-massenet/manon/lescaut",
+    "work_slug": "jules-massenet/manon",
+    "name": "Lescaut"
+  },
+  {
+    "slug": "jules-massenet/manon/manon-lescaut",
+    "work_slug": "jules-massenet/manon",
+    "name": "Manon Lescaut"
+  },
+  {
+    "slug": "jules-massenet/manon/monsieur-de-bretigny",
+    "work_slug": "jules-massenet/manon",
+    "name": "Monsieur de Bretigny"
+  },
+  {
+    "slug": "jules-massenet/manon/rosette",
+    "work_slug": "jules-massenet/manon",
+    "name": "Rosette"
+  },
+  {
     "slug": "kaija-saariaho/innocence/choreografische-mitarbeit",
     "work_slug": "kaija-saariaho/innocence",
     "name": "Choreografische Mitarbeit"
@@ -7935,6 +8175,21 @@
     "name": "Prinzessin"
   },
   {
+    "slug": "kassandra/kassandra",
+    "work_slug": "kassandra",
+    "name": "kassandra"
+  },
+  {
+    "slug": "kassandra/komposition",
+    "work_slug": "kassandra",
+    "name": "komposition"
+  },
+  {
+    "slug": "kassandra/orchester",
+    "work_slug": "kassandra",
+    "name": "orchester"
+  },
+  {
     "slug": "kids-only-1-ich-du-wir/orchester",
     "work_slug": "kids-only-1-ich-du-wir",
     "name": "Orchester"
@@ -7963,6 +8218,31 @@
     "slug": "klangvolles-musik-shy-abenteuer/musikalische-leitung-akkordeon-und-klavier",
     "work_slug": "klangvolles-musik-shy-abenteuer",
     "name": "Musikalische Leitung, Akkordeon und Klavier"
+  },
+  {
+    "slug": "koloss/jan",
+    "work_slug": "koloss",
+    "name": "jan"
+  },
+  {
+    "slug": "koloss/katja-meduse",
+    "work_slug": "koloss",
+    "name": "katja / meduse"
+  },
+  {
+    "slug": "koloss/kritter-seesterne-koloss",
+    "work_slug": "koloss",
+    "name": "kritter / seesterne / koloss"
+  },
+  {
+    "slug": "koloss/meduses-stimme",
+    "work_slug": "koloss",
+    "name": "meduses stimme"
+  },
+  {
+    "slug": "koloss/musik",
+    "work_slug": "koloss",
+    "name": "musik"
   },
   {
     "slug": "komische-oper/la-mamma/abendspielleitung",
@@ -8260,6 +8540,36 @@
     "name": "Künstlerische Leitung"
   },
   {
+    "slug": "laika/koroljow-mikhaels-vater",
+    "work_slug": "laika",
+    "name": "Koroljow/Mikhaels Vater"
+  },
+  {
+    "slug": "laika/laika-puppenspiel",
+    "work_slug": "laika",
+    "name": "Laika (Puppenspiel)"
+  },
+  {
+    "slug": "laika/mikhael-chruschtschow",
+    "work_slug": "laika",
+    "name": "Mikhael/Chruschtschow"
+  },
+  {
+    "slug": "laika/puppendesign-und-bau",
+    "work_slug": "laika",
+    "name": "Puppendesign und -bau"
+  },
+  {
+    "slug": "laika/valentina-fernsehsprecherin",
+    "work_slug": "laika",
+    "name": "Valentina/Fernsehsprecherin"
+  },
+  {
+    "slug": "laika/yelena-mikhaels-mutter",
+    "work_slug": "laika",
+    "name": "Yelena/Mikhaels Mutter"
+  },
+  {
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one/hannah-older",
     "work_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
     "name": "Hannah Older"
@@ -8415,9 +8725,19 @@
     "name": "Tom / Matrose / Ensemble"
   },
   {
+    "slug": "leonard-bernstein/candide/1-bulgarischer-offizier-gro-inquisitor-inquisitor-1-judge-1-alchemist-vanderdendur-governor-charles-edward-ragotski-croupier-1",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "1. bulgarischer offizier / großinquisitor / inquisitor 1 / judge 1 / alchemist / vanderdendur / governor / charles edward / ragotski / croupier 1"
+  },
+  {
     "slug": "leonard-bernstein/candide/assistenz-live-illustration",
     "work_slug": "leonard-bernstein/candide",
     "name": "Assistenz Live-Illustration"
+  },
+  {
+    "slug": "leonard-bernstein/candide/bear-keeper-inquisitor-3-judge-3-konig-3-zar-iwan-senor2",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "bear-keeper /inquisitor 3 / judge 3 / könig 3: zar iwan / señor2"
   },
   {
     "slug": "leonard-bernstein/candide/candide",
@@ -8425,9 +8745,19 @@
     "name": "Candide"
   },
   {
+    "slug": "leonard-bernstein/candide/candides-kleine-helfer-mann-amp-frau-aus-lissabon-spitzel-1-amp-2-kellner-1-amp-2-kellnerin-matrose-konig-von-eldorado",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "candides kleine helfer/ mann&amp;frau aus lissabon/ spitzel 1&amp;2/ kellner 1&amp;2 / kellnerin / matrose/ könig von eldorado"
+  },
+  {
     "slug": "leonard-bernstein/candide/cunegonde",
     "work_slug": "leonard-bernstein/candide",
     "name": "Cunegonde"
+  },
+  {
+    "slug": "leonard-bernstein/candide/doctor-konig-5-stanislaus",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "doctor / könig 5: stanislaus"
   },
   {
     "slug": "leonard-bernstein/candide/dr-pangloss-martin",
@@ -8455,6 +8785,11 @@
     "name": "Live-Illustration"
   },
   {
+    "slug": "leonard-bernstein/candide/maximilian-captain",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "maximilian / captain"
+  },
+  {
     "slug": "leonard-bernstein/candide/maximilian-captain-inquisitor-ii-judge-ii",
     "work_slug": "leonard-bernstein/candide",
     "name": "Maximilian | Captain | Inquisitor II. | Judge II."
@@ -8465,9 +8800,24 @@
     "name": "Old Lady"
   },
   {
+    "slug": "leonard-bernstein/candide/orchester",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "orchester"
+  },
+  {
+    "slug": "leonard-bernstein/candide/pangloss-martin-cacambo",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "pangloss / martin / cacambo"
+  },
+  {
     "slug": "leonard-bernstein/candide/paquette",
     "work_slug": "leonard-bernstein/candide",
     "name": "Paquette"
+  },
+  {
+    "slug": "leonard-bernstein/candide/voltaire-alter-candide-james-seemann",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "voltaire/ alter candide/ james/ seemann"
   },
   {
     "slug": "leonard-bernstein/west-side-story/a-rab",
@@ -10735,6 +11085,66 @@
     "name": "Promi-Künstler / Ungebildeter Poser / Lift-Boy / Bestatter / Mimì / Pathologischer Patient / Doktor"
   },
   {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Ado Annie Carnes"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ali-hakim",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Ali Hakim"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/andrew-carnes",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Andrew Carnes"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/cord",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Cord"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/curly-mclain",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Curly McLain"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ensemble",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Ensemble"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/fred",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Fred"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/gertie-cummings",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Gertie Cummings"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ike",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Ike"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/jud-fry",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Jud Fry"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/laurey-williams",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Laurey Williams"
+  },
+  {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/will-parker",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "name": "Will Parker"
+  },
+  {
     "slug": "richard-strauss/arabella/adelaide",
     "work_slug": "richard-strauss/arabella",
     "name": "Adelaide"
@@ -12740,6 +13150,31 @@
     "name": "Vítek"
   },
   {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can/ghost",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "name": "Ghost"
+  },
+  {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can/parent",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "name": "Parent"
+  },
+  {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can/poltergeist-am-drumset",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "name": "Poltergeist am Drumset"
+  },
+  {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can/teen",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "name": "Teen"
+  },
+  {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can/viki-an-der-soundstation",
+    "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "name": "ViKI an der Soundstation"
+  },
+  {
     "slug": "vincenzo-bellini/norma/adalgisa",
     "work_slug": "vincenzo-bellini/norma",
     "name": "Adalgisa"
@@ -13405,6 +13840,11 @@
     "name": "1. Dame"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame-dirigent",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "1. Dame / Dirigent"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "1. Geharnischter"
@@ -13420,6 +13860,11 @@
     "name": "1. Knabe"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/1-knabe-wesen",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "1. Knabe / Wesen"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/1-priester",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "1. Priester"
@@ -13428,6 +13873,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "2. Dame"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame-dirigent",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "2. Dame / Dirigent"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter",
@@ -13445,6 +13895,11 @@
     "name": "2. Knabe"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/2-knabe-wesen",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "2. Knabe / Wesen"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/2-priester",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "2. Priester"
@@ -13455,9 +13910,19 @@
     "name": "3. Dame"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame-dirigent",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "3. Dame / Dirigent"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knabe",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "3. Knabe"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knabe-wesen",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "3. Knabe / Wesen"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/3-knaben",
@@ -13473,6 +13938,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/adaption-buhne-kostume",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Adaption Bühne & Kostüme"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/alte-frau",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Alte Frau"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/animation",
@@ -13538,6 +14008,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/kinderchorleitung",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Kinderchorleitung"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Königin"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht",

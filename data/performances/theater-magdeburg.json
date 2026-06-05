@@ -1,0 +1,737 @@
+[
+  {
+    "id": "theater-magdeburg/carmen/2026-12-06/16:00",
+    "production_id": "theater-magdeburg/carmen",
+    "date": "2026-12-06",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/carmen/2026-12-19/18:00",
+    "production_id": "theater-magdeburg/carmen",
+    "date": "2026-12-19",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/carmen/2027-01-09/19:30",
+    "production_id": "theater-magdeburg/carmen",
+    "date": "2027-01-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/carmen/2027-02-19/19:30",
+    "production_id": "theater-magdeburg/carmen",
+    "date": "2027-02-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/carmen/2027-03-06/19:30",
+    "production_id": "theater-magdeburg/carmen",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-09-12/19:30",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-09-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-09-27/16:00",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-09-27",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-10-09/19:30",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-10-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-11-08/16:00",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-11-15/18:00",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-11-15",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2026-12-25/18:00",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2026-12-25",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte/2027-01-02/19:30",
+    "production_id": "theater-magdeburg/cosi-fan-tutte",
+    "date": "2027-01-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/der-barbier-von-sevilla/2026-09-20/18:00",
+    "production_id": "theater-magdeburg/der-barbier-von-sevilla",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/der-barbier-von-sevilla/2026-10-04/16:00",
+    "production_id": "theater-magdeburg/der-barbier-von-sevilla",
+    "date": "2026-10-04",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/der-barbier-von-sevilla/2026-10-18/18:00",
+    "production_id": "theater-magdeburg/der-barbier-von-sevilla",
+    "date": "2026-10-18",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/der-barbier-von-sevilla/2026-10-31/19:30",
+    "production_id": "theater-magdeburg/der-barbier-von-sevilla",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge/2027-02-19/11:00",
+    "production_id": "theater-magdeburg/die-unbedingten-dinge",
+    "date": "2027-02-19",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge/2027-02-20/16:00",
+    "production_id": "theater-magdeburg/die-unbedingten-dinge",
+    "date": "2027-02-20",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge/2027-02-21/11:00",
+    "production_id": "theater-magdeburg/die-unbedingten-dinge",
+    "date": "2027-02-21",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge/2027-03-02/11:00",
+    "production_id": "theater-magdeburg/die-unbedingten-dinge",
+    "date": "2027-03-02",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge/2027-03-14/11:00",
+    "production_id": "theater-magdeburg/die-unbedingten-dinge",
+    "date": "2027-03-14",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-01-23/19:30",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-01-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-01-30/19:30",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-02-05/19:30",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-02-28/18:00",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-02-28",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-04-04/18:00",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-04-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-04-11/18:00",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-04-11",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut/2027-04-25/16:00",
+    "production_id": "theater-magdeburg/die-zarenbraut",
+    "date": "2027-04-25",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/la-boheme/2027-05-01/19:30",
+    "production_id": "theater-magdeburg/la-boheme",
+    "date": "2027-05-01",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/la-boheme/2027-05-09/18:00",
+    "production_id": "theater-magdeburg/la-boheme",
+    "date": "2027-05-09",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/la-boheme/2027-05-15/19:30",
+    "production_id": "theater-magdeburg/la-boheme",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/la-boheme/2027-05-22/19:30",
+    "production_id": "theater-magdeburg/la-boheme",
+    "date": "2027-05-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/la-boheme/2027-06-05/19:30",
+    "production_id": "theater-magdeburg/la-boheme",
+    "date": "2027-06-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/laika/2026-06-09/11:00",
+    "production_id": "theater-magdeburg/laika",
+    "date": "2026-06-09",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/laika/2026-06-10/11:00",
+    "production_id": "theater-magdeburg/laika",
+    "date": "2026-06-10",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-04-10/19:30",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-04-18/18:00",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-04-18",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-04-24/19:30",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-04-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-04-30/19:30",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-04-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-05-08/19:30",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-05-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart/2027-05-21/19:30",
+    "production_id": "theater-magdeburg/mad-king-blaubart",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/manon/2026-06-07/18:00",
+    "production_id": "theater-magdeburg/manon",
+    "date": "2026-06-07",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/neverland/2027-03-18/19:30",
+    "production_id": "theater-magdeburg/neverland",
+    "date": "2027-03-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-11-14/19:30",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-11-14",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-11-21/19:30",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-11-29/16:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-11-29",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-12-23/18:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-12-23",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-12-27/18:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-12-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-12-31/14:30",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-12-31",
+    "time": "14:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2026-12-31/19:30",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2026-12-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-01-10/16:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-01-10",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-02-07/18:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-02-07",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-02-14/18:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-02-14",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-03-05/19:30",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-03-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-03-28/16:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-03-28",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella/2027-03-29/16:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "date": "2027-03-29",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-11/19:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-18/19:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-18",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-19/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-19",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-20/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-20",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-21/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-21",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-24/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-24",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-25/19:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-25",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-25/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-25",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-26/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-26",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-27/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-27",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-06-28/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-06-28",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-01/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-01",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-02/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-02",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-03/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-03",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-04/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-04",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-05/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-05",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-08/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-08",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-09/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-09",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-10/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-10",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-11/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-11",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma/2026-07-12/21:00",
+    "production_id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "date": "2026-07-12",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/turandot/2026-10-17/19:30",
+    "production_id": "theater-magdeburg/turandot",
+    "date": "2026-10-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/turandot/2026-10-25/16:00",
+    "production_id": "theater-magdeburg/turandot",
+    "date": "2026-10-25",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/turandot/2026-10-30/19:30",
+    "production_id": "theater-magdeburg/turandot",
+    "date": "2026-10-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/turandot/2026-11-06/19:30",
+    "production_id": "theater-magdeburg/turandot",
+    "date": "2026-11-06",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/turandot/2026-12-13/16:00",
+    "production_id": "theater-magdeburg/turandot",
+    "date": "2026-12-13",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/2027-03-13/19:30",
+    "production_id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "date": "2027-03-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/2027-03-21/16:00",
+    "production_id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "date": "2027-03-21",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/2027-04-03/19:30",
+    "production_id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "date": "2027-04-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/2027-05-07/19:30",
+    "production_id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "date": "2027-05-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/2027-05-17/18:00",
+    "production_id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "date": "2027-05-17",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-18/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-18",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-19/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-19",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-20/20:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-20",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-23/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-23",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-24/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-24",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-25/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-25",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-26/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-26",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-27/20:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-27",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-06-30/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-06-30",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-01/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-01",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-02/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-02",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-03/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-03",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-04/20:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-04",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-07/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-07",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-08/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-08",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-09/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-09",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-10/21:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-10",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel/2027-07-11/20:00",
+    "production_id": "theater-magdeburg/wie-im-himmel",
+    "date": "2027-07-11",
+    "time": "20:00",
+    "status": "scheduled"
+  }
+]

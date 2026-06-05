@@ -405,6 +405,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "behind-the-scenes",
+    "title": "Behind the Scenes",
+    "composer_slug": ""
+  },
+  {
     "slug": "bela-bartok/herzog-blaubarts-burg",
     "title": "Herzog Blaubarts Burg",
     "composer_slug": "bela-bartok"
@@ -690,6 +695,11 @@
     "composer_slug": "des-kinderchors"
   },
   {
+    "slug": "die-firma",
+    "title": "Die Firma",
+    "composer_slug": ""
+  },
+  {
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "title": "Jazz & Lyrics IV: Scheherazade",
     "composer_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei"
@@ -868,6 +878,11 @@
     "slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "title": "Nils Holgerssons wundersame Abenteuer",
     "composer_slug": "elena-kats-chernin"
+  },
+  {
+    "slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "title": "Vom kleinen Maulwurf, der wissen wollte, wer ihm auf den Kopf gemacht hat",
+    "composer_slug": "elisabeth-naske"
   },
   {
     "slug": "ellen-reid/the-shell-trial",
@@ -1355,6 +1370,11 @@
     "composer_slug": "giacomo-puccini"
   },
   {
+    "slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
+    "title": "Und es leuchteten die Sterne",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
     "slug": "gian-carlo-menotti/the-consul",
     "title": "The Consul",
     "composer_slug": "gian-carlo-menotti"
@@ -1447,6 +1467,11 @@
   {
     "slug": "giuseppe-verdi/der-troubadour",
     "title": "Der Troubadour",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "title": "Der Troubadour (Il trovatore)",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -1675,6 +1700,11 @@
     "composer_slug": "jacques-offenbach"
   },
   {
+    "slug": "james-matthew-barrie/peter-pan",
+    "title": "Peter Pan",
+    "composer_slug": "james-matthew-barrie"
+  },
+  {
     "slug": "jean-philippe-rameau/les-indes-galantes",
     "title": "Les Indes galantes",
     "composer_slug": "jean-philippe-rameau"
@@ -1775,9 +1805,19 @@
     "composer_slug": "joseph-beer"
   },
   {
+    "slug": "jules-massenet/manon",
+    "title": "Manon",
+    "composer_slug": "jules-massenet"
+  },
+  {
     "slug": "jules-massenet/werther",
     "title": "Werther",
     "composer_slug": "jules-massenet"
+  },
+  {
+    "slug": "julien-chavaz/neverland",
+    "title": "Neverland",
+    "composer_slug": "julien-chavaz"
   },
   {
     "slug": "junge-choreo-shy-graf-innen",
@@ -1850,6 +1890,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "kassandra",
+    "title": "Kassandra",
+    "composer_slug": ""
+  },
+  {
+    "slug": "kay-pollak/wie-im-himmel",
+    "title": "Wie im Himmel",
+    "composer_slug": "kay-pollak"
+  },
+  {
     "slug": "kehrauskonzert",
     "title": "Kehrauskonzert",
     "composer_slug": ""
@@ -1902,6 +1952,11 @@
   {
     "slug": "klaus-zehelein-unerhorte-augenblicke",
     "title": "Klaus Zehelein – »Unerhörte Augenblicke«",
+    "composer_slug": ""
+  },
+  {
+    "slug": "koloss",
+    "title": "Koloss",
     "composer_slug": ""
   },
   {
@@ -1992,6 +2047,11 @@
   {
     "slug": "lab-alle-an-deck",
     "title": "LAB: Alle an Deck?",
+    "composer_slug": ""
+  },
+  {
+    "slug": "laika",
+    "title": "Laika",
     "composer_slug": ""
   },
   {
@@ -2390,6 +2450,11 @@
     "composer_slug": "musikalische-reihe-ulrike-stock"
   },
   {
+    "slug": "musikbrunch",
+    "title": "Musikbrunch",
+    "composer_slug": ""
+  },
+  {
     "slug": "musiktheater-im-prafaschismus/deutschland-deutschland-unter-anderem",
     "title": "Deutschland, Deutschland unter anderem",
     "composer_slug": "musiktheater-im-prafaschismus"
@@ -2433,6 +2498,11 @@
     "slug": "nijinsky-gala",
     "title": "Nijinsky-Gala",
     "composer_slug": ""
+  },
+  {
+    "slug": "nikola-huppertz/die-unbedingten-dinge",
+    "title": "Die unbedingten Dinge",
+    "composer_slug": "nikola-huppertz"
   },
   {
     "slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten",
@@ -2670,6 +2740,11 @@
     "composer_slug": "peter-i-tschaikowsky"
   },
   {
+    "slug": "peter-maxwell-davies/mad-king-blaubart",
+    "title": "Mad King Blaubart",
+    "composer_slug": "peter-maxwell-davies"
+  },
+  {
     "slug": "peter-stone-musik/titanic-the-musical-story-und-buch",
     "title": "Titanic The Musical | Story und Buch",
     "composer_slug": "peter-stone-musik"
@@ -2805,6 +2880,11 @@
     "composer_slug": "rebecca-fritzsche-nazli-saremi"
   },
   {
+    "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "title": "Rodgers & Hammerstein’s Oklahoma!",
+    "composer_slug": "richard-rodgers"
+  },
+  {
     "slug": "richard-strauss/arabella",
     "title": "Arabella",
     "composer_slug": "richard-strauss"
@@ -2893,6 +2973,11 @@
     "slug": "robert-oboussier/amphitryon",
     "title": "Amphitryon",
     "composer_slug": "robert-oboussier"
+  },
+  {
+    "slug": "rodgers-hammerstein/rodgers-hammerstein-s-cinderella",
+    "title": "Rodgers & Hammerstein’s Cinderella",
+    "composer_slug": "rodgers-hammerstein"
   },
   {
     "slug": "romantic-evolution-s",
@@ -3325,14 +3410,29 @@
     "composer_slug": ""
   },
   {
+    "slug": "vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "title": "Vacuum Valley. Aufstieg und Fall einer Chipfabrik",
+    "composer_slug": ""
+  },
+  {
     "slug": "vec-makropulos",
     "title": "Věc Makropulos",
+    "composer_slug": ""
+  },
+  {
+    "slug": "vergessene-komponistinnen",
+    "title": "Vergessene Komponistinnen",
     "composer_slug": ""
   },
   {
     "slug": "verschwiegen-und-vergessen",
     "title": "Verschwiegen und Vergessen?",
     "composer_slug": ""
+  },
+  {
+    "slug": "victoria-stellpflug/ghost-me-if-you-can",
+    "title": "Ghost Me, If You Can",
+    "composer_slug": "victoria-stellpflug"
   },
   {
     "slug": "vier-gewinnt",
@@ -3448,6 +3548,11 @@
     "slug": "wir-bauen-eine-neue-stadt",
     "title": "Wir bauen eine neue Stadt",
     "composer_slug": ""
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutt-e",
+    "title": "Così fan tutt*e",
+    "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",

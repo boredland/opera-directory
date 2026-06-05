@@ -1,0 +1,412 @@
+[
+  {
+    "id": "theater-bielefeld/candide",
+    "work_slug": "leonard-bernstein/candide",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/candide",
+    "creative_team": [
+      {
+        "person_slug": "gal-fefferman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "annette-braun",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "wolfgang-nagele",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-herder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thilo-ullrich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lorin-wey",
+        "role_slug": "leonard-bernstein/candide/1-bulgarischer-offizier-gro-inquisitor-inquisitor-1-judge-1-alchemist-vanderdendur-governor-charles-edward-ragotski-croupier-1"
+      },
+      {
+        "person_slug": "moon-soo-park",
+        "role_slug": "leonard-bernstein/candide/bear-keeper-inquisitor-3-judge-3-konig-3-zar-iwan-senor2"
+      },
+      {
+        "person_slug": "andrei-skliarenko",
+        "role_slug": "leonard-bernstein/candide/candide"
+      },
+      {
+        "person_slug": "e-motion",
+        "role_slug": "leonard-bernstein/candide/candides-kleine-helfer-mann-amp-frau-aus-lissabon-spitzel-1-amp-2-kellner-1-amp-2-kellnerin-matrose-konig-von-eldorado"
+      },
+      {
+        "person_slug": "veronika-lee",
+        "role_slug": "leonard-bernstein/candide/cunegonde"
+      },
+      {
+        "person_slug": "bojan-heyn",
+        "role_slug": "leonard-bernstein/candide/doctor-konig-5-stanislaus"
+      },
+      {
+        "person_slug": "tomas-kildisius",
+        "role_slug": "leonard-bernstein/candide/maximilian-captain"
+      },
+      {
+        "person_slug": "alexandra-ionis",
+        "role_slug": "leonard-bernstein/candide/old-lady"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "leonard-bernstein/candide/orchester"
+      },
+      {
+        "person_slug": "evgueniy-alexiev",
+        "role_slug": "leonard-bernstein/candide/pangloss-martin-cacambo"
+      },
+      {
+        "person_slug": "mayan-goldenfeld",
+        "role_slug": "leonard-bernstein/candide/paquette"
+      },
+      {
+        "person_slug": "thomas-wolff",
+        "role_slug": "leonard-bernstein/candide/voltaire-alter-candide-james-seemann"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/der-troubadour-il-trovatore",
+    "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/der-troubadour-il-trovatore",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robin-davis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robin-davis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lorenzo-fioroni",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-herder",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexandra-ionis",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/azucena"
+      },
+      {
+        "person_slug": "todd-boyce",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/conte-di-luna"
+      },
+      {
+        "person_slug": "moon-soo-park",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/ferrando"
+      },
+      {
+        "person_slug": "cornelie-isenburger",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/inez"
+      },
+      {
+        "person_slug": "dusica-bijelic",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/leonora"
+      },
+      {
+        "person_slug": "nenad-cica",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/manrico"
+      },
+      {
+        "person_slug": "nikos-fragkou",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/movement-director"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/orchester"
+      },
+      {
+        "person_slug": "andrei-skliarenko",
+        "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/ruiz-ein-bote"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/kassandra",
+    "work_slug": "kassandra",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/kassandra",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anne-hinrichsen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anne-hinrichsen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nadja-loschky",
+        "function": "director"
+      },
+      {
+        "person_slug": "jon-philipp-von-linden",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christina-huckle",
+        "role_slug": "kassandra/kassandra"
+      },
+      {
+        "person_slug": "mathis-nitschke",
+        "role_slug": "kassandra/komposition"
+      },
+      {
+        "person_slug": "stefan-behrisch",
+        "role_slug": "kassandra/komposition"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "kassandra/orchester"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/koloss",
+    "work_slug": "koloss",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/koloss",
+    "creative_team": [
+      {
+        "person_slug": "felix-berning",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nick-westbrock",
+        "function": "director"
+      },
+      {
+        "person_slug": "ralph-blase",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "constanze-muller",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "katharina-manz",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tomas-kildisius",
+        "role_slug": "koloss/jan"
+      },
+      {
+        "person_slug": "gesa-schermuly",
+        "role_slug": "koloss/katja-meduse"
+      },
+      {
+        "person_slug": "clara-fenchel",
+        "role_slug": "koloss/kritter-seesterne-koloss"
+      },
+      {
+        "person_slug": "hella-drager",
+        "role_slug": "koloss/kritter-seesterne-koloss"
+      },
+      {
+        "person_slug": "marta-wryk",
+        "role_slug": "koloss/meduses-stimme"
+      },
+      {
+        "person_slug": "zara-ali",
+        "role_slug": "koloss/musik"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/peter-pan",
+    "work_slug": "james-matthew-barrie/peter-pan",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/peter-pan",
+    "creative_team": [
+      {
+        "person_slug": "gianni-cuccaro",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "laurenz-wannenmacher",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sandra-maria-paluch",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michael-heicks",
+        "function": "director"
+      },
+      {
+        "person_slug": "kerstin-car",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sascha-vredenburg",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-reerink",
+        "role_slug": "james-matthew-barrie/peter-pan/cello"
+      },
+      {
+        "person_slug": "e-motion",
+        "role_slug": "james-matthew-barrie/peter-pan/garcons-de-piste"
+      },
+      {
+        "person_slug": "christina-huckle",
+        "role_slug": "james-matthew-barrie/peter-pan/hund-nana-zirkusdirektor-clown"
+      },
+      {
+        "person_slug": "georg-bohm",
+        "role_slug": "james-matthew-barrie/peter-pan/john-darling-slightly-lost-boy-cecco-pirat"
+      },
+      {
+        "person_slug": "faris-yuzbas-oglu",
+        "role_slug": "james-matthew-barrie/peter-pan/kaptain-hook-curly-lost-boy"
+      },
+      {
+        "person_slug": "oliver-siegel",
+        "role_slug": "james-matthew-barrie/peter-pan/keyboard"
+      },
+      {
+        "person_slug": "brit-dehler",
+        "role_slug": "james-matthew-barrie/peter-pan/michael-darling-nibs-lost-boy-tiger-lilly"
+      },
+      {
+        "person_slug": "hampus-larsson",
+        "role_slug": "james-matthew-barrie/peter-pan/mr-darling-starkey-pirat"
+      },
+      {
+        "person_slug": "melanie-kreuter",
+        "role_slug": "james-matthew-barrie/peter-pan/mrs-darling-morgan-skylight-pirat"
+      },
+      {
+        "person_slug": "arsalan-naimi",
+        "role_slug": "james-matthew-barrie/peter-pan/peter-pan"
+      },
+      {
+        "person_slug": "martina-breinlinger",
+        "role_slug": "james-matthew-barrie/peter-pan/theaterpadagogische-betreuung"
+      },
+      {
+        "person_slug": "laura-martin-rey",
+        "role_slug": "james-matthew-barrie/peter-pan/tinkerbell"
+      },
+      {
+        "person_slug": "oliver-baierl",
+        "role_slug": "james-matthew-barrie/peter-pan/tootles-lost-boy-smee-pirat"
+      },
+      {
+        "person_slug": "lara-hofmann",
+        "role_slug": "james-matthew-barrie/peter-pan/wendy-darling"
+      },
+      {
+        "person_slug": "isabell-giebeler",
+        "role_slug": "james-matthew-barrie/peter-pan/zwillinge-lost-boy-bill-jukes-pirat"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "work_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
+    "creative_team": [
+      {
+        "person_slug": "anahit-ter-tatshatyan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kati-stubbe",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anja-nicklich",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-herder",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tilman-rose",
+        "role_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat/gartner"
+      },
+      {
+        "person_slug": "mayan-goldenfeld",
+        "role_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat/maulwurf"
+      }
+    ]
+  }
+]

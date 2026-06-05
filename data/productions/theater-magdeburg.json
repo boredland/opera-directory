@@ -1,0 +1,506 @@
+[
+  {
+    "id": "theater-magdeburg/carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20242025/premiere/carmen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/cosi-fan-tutte",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutt-e",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/cosi-fan-tutte/",
+    "creative_team": [
+      {
+        "person_slug": "esther-beisecker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anneliese-neudecker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/der-barbier-von-sevilla",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/der-barbier-von-sevilla/",
+    "creative_team": [
+      {
+        "person_slug": "martin-wagner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "davide-rinaldi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fergus-sheil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "virginie-gervaise",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jean-francois-sivadier",
+        "function": "director"
+      },
+      {
+        "person_slug": "esther-beisecker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "philippe-berthome",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexandre-de-dardel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marcus-kaloff",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/ambrogio"
+      },
+      {
+        "person_slug": "jeanett-neumeister",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/berta"
+      },
+      {
+        "person_slug": "rosha-fitzhowle",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/berta"
+      },
+      {
+        "person_slug": "david-howes",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/doktor-bartolo"
+      },
+      {
+        "person_slug": "johannes-stermann",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/don-basilio"
+      },
+      {
+        "person_slug": "dogukan-kuran",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/figaro"
+      },
+      {
+        "person_slug": "marko-pantelic",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/figaro"
+      },
+      {
+        "person_slug": "olli-rasanen",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/fiorello-ein-offizier"
+      },
+      {
+        "person_slug": "francisco-brito",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva"
+      },
+      {
+        "person_slug": "patrick-kabongo",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva"
+      },
+      {
+        "person_slug": "weronika-rabek",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/rosina"
+      },
+      {
+        "person_slug": "rebecca-sophie-mayr",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/szenische-einstudierung"
+      }
+    ]
+  },
+  {
+    "id": "theater-magdeburg/die-unbedingten-dinge",
+    "work_slug": "nikola-huppertz/die-unbedingten-dinge",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20242025/premiere/die-unbedingten-dinge/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/die-zarenbraut",
+    "work_slug": "nikolai-rimski-korsakow/die-zarenbraut",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/die-zarenbraut/",
+    "creative_team": [
+      {
+        "person_slug": "julien-chavaz",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "eloi-gianini",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "julien-chavaz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "christoph-clausen",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/laika",
+    "work_slug": "laika",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/laika/",
+    "creative_team": [
+      {
+        "person_slug": "tsai-ju-lee",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "felicia-riegel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "annemiek-van-elst",
+        "function": "director"
+      },
+      {
+        "person_slug": "christoph-clausen",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-howes",
+        "role_slug": "laika/koroljow-mikhaels-vater"
+      },
+      {
+        "person_slug": "lutz-gro-mann",
+        "role_slug": "laika/laika-puppenspiel"
+      },
+      {
+        "person_slug": "oliver-huttel",
+        "role_slug": "laika/mikhael-chruschtschow"
+      },
+      {
+        "person_slug": "lutz-gro-mann",
+        "role_slug": "laika/puppendesign-und-bau"
+      },
+      {
+        "person_slug": "weronika-rabek",
+        "role_slug": "laika/valentina-fernsehsprecherin"
+      },
+      {
+        "person_slug": "lrene-cabezuelo",
+        "role_slug": "laika/yelena-mikhaels-mutter"
+      }
+    ]
+  },
+  {
+    "id": "theater-magdeburg/mad-king-blaubart",
+    "work_slug": "peter-maxwell-davies/mad-king-blaubart",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/mad-king-blaubart/",
+    "creative_team": [
+      {
+        "person_slug": "esther-beisecker",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/manon",
+    "work_slug": "jules-massenet/manon",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/manon/",
+    "creative_team": [
+      {
+        "person_slug": "martin-wagner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-bonas",
+        "function": "director"
+      },
+      {
+        "person_slug": "esther-beisecker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thibault-vancraenenbroeck",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "anouar-brissel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lutz-deppe",
+        "role_slug": "jules-massenet/manon/beleuchtungsdesign"
+      },
+      {
+        "person_slug": "federico-zeno-bassanese",
+        "role_slug": "jules-massenet/manon/choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "jeanett-neumeister",
+        "role_slug": "jules-massenet/manon/javotte"
+      },
+      {
+        "person_slug": "marko-pantelic",
+        "role_slug": "jules-massenet/manon/lescaut"
+      },
+      {
+        "person_slug": "anna-malesza-kutny",
+        "role_slug": "jules-massenet/manon/manon-lescaut"
+      },
+      {
+        "person_slug": "mingyu-ahn",
+        "role_slug": "jules-massenet/manon/monsieur-de-bretigny"
+      },
+      {
+        "person_slug": "claire-peron",
+        "role_slug": "jules-massenet/manon/rosette"
+      }
+    ]
+  },
+  {
+    "id": "theater-magdeburg/neverland",
+    "work_slug": "julien-chavaz/neverland",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/neverland/",
+    "creative_team": [
+      {
+        "person_slug": "severine-besson",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "julien-chavaz",
+        "function": "director"
+      },
+      {
+        "person_slug": "christoph-clausen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "meike-kurella",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-cinderella",
+    "work_slug": "rodgers-hammerstein/rodgers-hammerstein-s-cinderella",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/rodgers-hammersteins-cinderella/",
+    "creative_team": [
+      {
+        "person_slug": "daniel-daniela-ojeda-yrureta",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "annika-lu",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "julien-chavaz",
+        "function": "director"
+      },
+      {
+        "person_slug": "christoph-clausen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anneliese-neudecker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/rodgers-hammersteins-oklahoma",
+    "work_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/rodgers-hammersteins-oklahoma/",
+    "creative_team": [
+      {
+        "person_slug": "sabine-arthold",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "martin-wagner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "justus-tennie",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pawe-pop-awski",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lukas-pirmin-wassmann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "erik-petersen",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "dirk-hofacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "belen-edelmann",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes"
+      },
+      {
+        "person_slug": "kara-kemeny",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes"
+      },
+      {
+        "person_slug": "jan-ungar",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ali-hakim"
+      },
+      {
+        "person_slug": "sascha-laue",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/andrew-carnes"
+      },
+      {
+        "person_slug": "fabio-kopf",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/cord"
+      },
+      {
+        "person_slug": "rhys-george",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/cord"
+      },
+      {
+        "person_slug": "nicky-wuchinger",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/curly-mclain"
+      },
+      {
+        "person_slug": "belen-edelmann",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ensemble"
+      },
+      {
+        "person_slug": "dominik-wojtasik",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/fred"
+      },
+      {
+        "person_slug": "jeanett-neumeister",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/gertie-cummings"
+      },
+      {
+        "person_slug": "belen-edelmann",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ike"
+      },
+      {
+        "person_slug": "jenny-gerlich",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ike"
+      },
+      {
+        "person_slug": "alexander-auler",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/jud-fry"
+      },
+      {
+        "person_slug": "sabrina-weckerlin",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/laurey-williams"
+      },
+      {
+        "person_slug": "andrew-chadwick",
+        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/will-parker"
+      }
+    ]
+  },
+  {
+    "id": "theater-magdeburg/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20242025/wiederaufnahme/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "christian-land",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulrike-schroder",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "work_slug": "vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/vacuum-valley-aufstieg-und-fall-einer-chipfabrik/",
+    "creative_team": [
+      {
+        "person_slug": "pawe-pop-awski",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christoph-clausen",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-magdeburg/wie-im-himmel",
+    "work_slug": "kay-pollak/wie-im-himmel",
+    "house_slug": "theater-magdeburg",
+    "is_revival": false,
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/wie-im-himmel/",
+    "creative_team": [
+      {
+        "person_slug": "justus-tennie",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulrike-schroder",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  }
+]
