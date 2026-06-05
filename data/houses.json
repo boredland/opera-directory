@@ -648,5 +648,71 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Theater & Philharmonie Thüringen (Gera+Altenburg). TYPO3 tx_theatre, server-rendered, no proxy. /stuecke-konzerte/musiktheater/ lists play-list-item links 'stuecke-konzerte/{slug}-{uid}/'; walk the current season (default) + each seasonUid URL in the dropdown (decode &amp;). Detail: <h2> title, p.subheading '{genre} von {Composer}' (drop /musical/), event-head--item bold heading 'Wd DD. Mon YYYY · HH:MM · {Venue} {City}' (· = U+00B7, German month, Gera/Altenburg in venue string; strip trailing Premiere/Wiederaufnahme), ul.actors '<span class=role>label</span><a>name</a>' → normalizeGermanCredit (creative) else sung cast (skip 'Ensembles'/blank). Past-only productions render 0 dates → skipped. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-luebeck",
+    "name": "Theater Lübeck",
+    "city": "Lübeck",
+    "country": "DE",
+    "website": "https://www.theaterluebeck.de",
+    "wikidata": "Q2415873",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "SSR, no proxy. NB domain is theaterluebeck.de (NO hyphen; the hyphenated one is dead). Sparte page /start/musiktheater.html → produktionen/{slug}_{season}.html?m=90. h1.search-keywords title; composer from header fs-3 'Oper von X' (composerFromText; some genres freeform → just require a composer, sparte page is the opera gate). Termine: div.termin fs-4 'Wd DD/MM/YY · HH.MM Uhr' (2-digit year, · =&middot;, time HH.MM) + venue. Besetzung rows fw-bold label + a/span name; classify each via normalizeGermanCredit (function→creative else cast role). Bound the cast region at <div id=belowCast> (page re-renders cast per date below it). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-muenster",
+    "name": "Theater Münster",
+    "city": "Münster",
+    "country": "DE",
+    "website": "https://www.theater-muenster.com",
+    "wikidata": "Q2415904",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "SSR (Vue wrapper only hydrates — not a real SPA), no proxy. Calendar /spielplan/kalender?category=1&date=YYYY-MM (1=Musiktheater); iterate months. Build perfs from div.tm-performance rows (dayNumber + requested month/year → ISO date, performanceTime, location, productionName>a → /produktionen/{slug}-{id}.html). Detail: tm-autoProductionTitleModule__headline title + __author 'Oper … von X' (composerFromText, +English 'by X' fallback for Britten etc.); cast/creative from tm-person grid (__name + __category) via normalizeGermanCredit. Drop galas (no composer) + musicals. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-koblenz",
+    "name": "Theater Koblenz",
+    "city": "Koblenz",
+    "country": "DE",
+    "website": "https://theater-koblenz.de",
+    "wikidata": "Q2415831",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "WordPress, open theme JSON endpoint (the wp/v2 lock is irrelevant). GET /wp-json/leporello/v1/items with NO params (params 500). Filter item.segment.label=='Musiktheater'; group by permalink; date = days[].date + item.startTime; composer from subtitle first '·' segment (composerFromText). Cast/creative from detail page .s-cast__employees (.s-cast__role-label + .s-cast__role-person) via normalizeGermanCredit. Future-only → Wikidata backfill. Apex host (www 301s)."
+  },
+  {
+    "slug": "theater-trier",
+    "name": "Theater Trier",
+    "city": "Trier",
+    "country": "DE",
+    "website": "https://www.theater-trier.de",
+    "wikidata": "Q2415967",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Custom PHP CMS, SSR; use www. host (apex is parked). Productions /programm/index.html cards with class sparte-15 (Musiktheater) → h3>a title + '<p>Oper von X</p>' subtitle (composerFromText; require composer to drop mis-tagged concerts) + /produktionen/{slug}.html?m=47. Dates from Kalender AJAX /spielplan/index.html?ajax=1&filterSparte=15&… cursor-paginated via letzterTermin, ends on literal 'ende erreicht.'; rows carry date-DDMMYY (year) + time + produktion-NNN/slug. Cast/creative on detail .function_person (span.function+span.person). Multi rate-limit (x-ws-ratelimit) → polite. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "stadttheater-giessen",
+    "name": "Stadttheater Gießen",
+    "city": "Gießen",
+    "country": "DE",
+    "website": "https://stadttheater-giessen.de",
+    "wikidata": "Q2328206",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "ProcessWire, JSON AJAX. GET /de/ajax/?action=load_items&selectedCategory[]=1040&selectedMonth=M&selectedYear=Y with REQUIRED header X-Requested-With: XMLHttpRequest (else returns HTML) — built via proxyFetch with the header, not fetchJson. 1040=Musiktheater; iterate months. date = requested year + 'DD.' from item.date (no year in string); composer from excerpt first '|' segment (composerFromText); filter category contains Musiktheater + require composer + drop musicals. Cast/creative from detail /de/veranstaltungen/stuecke/{slug}/ Besetzung accordion (label text node + /de/personen/ links) via normalizeGermanCredit. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "gerhart-hauptmann-theater-goerlitz",
+    "name": "Gerhart-Hauptmann-Theater Görlitz-Zittau",
+    "city": "Görlitz",
+    "country": "DE",
+    "website": "https://www.g-h-t.de",
+    "wikidata": "Q1441837",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "BLUEPAGE CMS, SSR, no proxy; plays in Görlitz + Zittau. One page /de/spielplan-musiktheater/ (whole season) — div.entry per performance: a.link.idx>span title; DATE is in the detail href /de/spielplan-musiktheater/{slug}/{YYYY-MM-DD}/{id}/ (already ISO); <em> '{genre} von {Composer}' (composerFromGenre: take before first '|' then composerFromText); trailing div pipe-split 'HH:MM Uhr | {Venue City} | duration'. Opera filter: <em> matches oper/operette/opéra/rockoper, drop Konzert/Silvesterrevue/Work-in-Progress/Kinder. Group by slug. Cast/creative from detail accordion .besetzung .box_txt (first=cast role, rest=creative; strip &shy; + alt-cast '(date)' notes) via normalizeGermanCredit. Future/season → Wikidata backfill."
   }
 ]
