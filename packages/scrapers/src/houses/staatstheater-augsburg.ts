@@ -2,6 +2,7 @@ import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchJson } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { composerFromText } from "./_german-credits";
 
 /**
  * Staatstheater Augsburg (`json-api` strategy).
@@ -17,13 +18,15 @@ const VIEW =
   "https://staatstheater-augsburg.de/theater-augsburg/_design/spieltermine/_view/by_datum_public_2";
 /** Staatstheater Augsburg on Wikidata — see data/houses.json. */
 const WIKIDATA_QID = "Q1441463";
-const OPERA = /\b(Oper|Operette|Musiktheater|Spieloper)\b/i;
+/** Augsburg files opera under the genre code "MT" (Musiktheater). */
+const OPERA = /^(MT|Oper|Operette|Musiktheater)$/i;
 
 interface AugsburgDoc {
   sorte?: string;
   thea_genre?: string;
   thea_titel?: string;
   thea_autor?: string;
+  thea_kurztext1?: string;
   beginn?: string;
   thea_link?: string;
   thea_ort?: string;
@@ -45,7 +48,7 @@ export async function scrapeStaatstheaterAugsburg(
     const bySlug = new Map<string, { doc: AugsburgDoc; perfs: RawPerformance[] }>();
     for (const row of res.rows ?? []) {
       const d = row.doc;
-      if (!d || d.sorte !== "spieltermin" || !OPERA.test(d.thea_genre ?? "")) continue;
+      if (!d || d.sorte !== "spieltermin" || !OPERA.test((d.thea_genre ?? "").trim())) continue;
       const slug = d.thea_link;
       const iso = d.beginn?.match(/(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})/);
       if (!slug || !iso) continue;
@@ -71,7 +74,7 @@ export async function scrapeStaatstheaterAugsburg(
       productions.push({
         source_production_id: slug,
         work_title: doc.thea_titel.trim(),
-        composer_name: doc.thea_autor?.trim() || null,
+        composer_name: composerFromText(doc.thea_kurztext1 ?? "") ?? doc.thea_autor?.trim() ?? null,
         detail_url: `https://staatstheater-augsburg.de/${slug}`,
         performances: perfs,
       });

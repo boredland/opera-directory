@@ -2,6 +2,7 @@ import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { composerFromText } from "./_german-credits";
 
 /**
  * Theater Freiburg (`json-api` / cb-event strategy).
@@ -73,10 +74,7 @@ export async function scrapeTheaterFreiburg(
       productions.push({
         source_production_id: slug,
         work_title: stripHtml(e.Title),
-        composer_name:
-          stripHtml(e.OpusInfoShort ?? "")
-            .match(/\bvon\s+([A-ZÄÖÜ][^,]+?)(?:\s+nach\b|,|$)/)?.[1]
-            ?.trim() || null,
+        composer_name: composerFromText(stripHtml(e.OpusInfoShort ?? "")),
         detail_url: `${BASE}/de_DE/programm/${slug}`,
         performances: perfs,
       });

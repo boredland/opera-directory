@@ -34,6 +34,24 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   sound: "sound-designer",
 };
 
+/**
+ * Pull a composer name out of a free-text credit line like "Oper von Georges Bizet",
+ * "Dramma lirico in vier Akten von Verdi", "Familienoper von X nach Y" or
+ * "… mit Musik von Richard Wagner und Kindern". Prefers an explicit "Musik von",
+ * then a bare "von", and trims the trailing nach/und/mit/für/Libretto/life-dates noise.
+ */
+export function composerFromText(text: string): string | null {
+  const t = text.replace(/\s+/g, " ").trim();
+  const m = t.match(/Musik von\s+([A-ZÄÖÜ].*)/) ?? t.match(/\bvon\s+([A-ZÄÖÜ].*)/);
+  if (!m?.[1]) return null;
+  const name = m[1]
+    .split(/\s+(?:nach|und|mit|für|frei nach|Libretto|Text|u\.\s?a\.)\b/i)[0]
+    ?.split(/[,(;:/]/)[0]
+    ?.replace(/\s+\d.*$/, "") // drop "1893" / "ab 14 Jahren"
+    .trim();
+  return name && name.length >= 3 && name.length <= 50 ? name : null;
+}
+
 /** Map a printed label + name to a creative credit (mapped function) or a sung role. */
 export function normalizeGermanCredit(rawLabel: string, name: string): RawCredit {
   const label = rawLabel.trim().replace(/:\s*$/, "");

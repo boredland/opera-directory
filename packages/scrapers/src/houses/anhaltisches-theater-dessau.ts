@@ -2,6 +2,7 @@ import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { composerFromText } from "./_german-credits";
 
 /**
  * Anhaltisches Theater Dessau (`json-api` strategy).
@@ -86,8 +87,8 @@ export async function scrapeAnhaltischesTheaterDessau(
 /** The composer is the "… von {Composer}" line among stueck_l1/stueck_l2. */
 function parseComposer(t: Termin): string | null {
   for (const line of [t.stueck_l1, t.stueck_l2, t.untertitel]) {
-    const m = stripHtml(line ?? "").match(/\bvon\s+([A-ZÄÖÜ][^,]+?)(?:\s+nach\b|,|$)/);
-    if (m?.[1]) return m[1].trim();
+    const c = composerFromText(stripHtml(line ?? ""));
+    if (c) return c;
   }
   return null;
 }

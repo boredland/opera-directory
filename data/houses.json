@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "staatstheater-cottbus",
+    "name": "Staatstheater Cottbus",
+    "city": "Cottbus",
+    "country": "DE",
+    "website": "https://www.staatstheater-cottbus.de",
+    "wikidata": "Q113482229",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Custom 'visioncontent' CMS, server-rendered. /de/spielplan.html: one performance row per '<div id=article_{slug} class=event-table>' with fulldate (ISO), event-time, event-location, event-division (genre — keep Musiktheater; the ?rubrik= param does NOT filter server-side), title <h3 class=title>, composer in <div class=subtitle> ('… von X'). Grouped by slug; parsed by splitting on the article marker."
+  },
+  {
     "slug": "oper-chemnitz",
     "name": "Oper Chemnitz",
     "city": "Chemnitz",
