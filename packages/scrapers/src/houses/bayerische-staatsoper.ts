@@ -85,7 +85,10 @@ function parsePremieres(html: string, window: ScrapeWindow): RawProduction[] {
     const titleCell = rows[i]?.match(/<td[^>]*\bcolspan="\d+"[^>]*>([\s\S]*?)<\/td>/);
     if (!titleCell?.[1]) continue;
     titles++;
-    if (!firstTitle) firstTitle = stripHtml(titleCell[1]).slice(0, 90);
+    if (!firstTitle) {
+      const wt = titleCell[1].match(/<b[^>]*><a[^>]*>([^<]+)<\/a>/)?.[1];
+      firstTitle = `work=${JSON.stringify(wt)} date=${parseGermanDate(stripHtml(titleCell[1]))}`;
+    }
     const prod = buildProduction(titleCell[1], rows[i + 1] ?? "", window);
     if (prod) out.push(prod);
   }
