@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
+import { type FetchContext, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -24,8 +24,11 @@ import { normalizeGermanCredit } from "./_german-credits";
  * Cloudflare-solving fetch path).
  */
 
-const WIKI_URL =
-  "https://de.wikipedia.org/wiki/Premierenbesetzungen_der_Bayerischen_Staatsoper_ab_2014";
+const WIKI_PAGE = "Premierenbesetzungen_der_Bayerischen_Staatsoper_ab_2014";
+const WIKI_URL = `https://de.wikipedia.org/wiki/${WIKI_PAGE}`;
+// The rendered wiki page stubs non-browser clients (GitHub Actions got an empty
+// body); the action API is the bot-supported path and returns the article HTML.
+const WIKI_API = `https://de.wikipedia.org/w/api.php?action=parse&page=${WIKI_PAGE}&prop=text&formatversion=2&format=json`;
 /** Bayerische Staatsoper on Wikidata — see data/houses.json. */
 const WIKIDATA_QID = "Q681931";
 
@@ -50,8 +53,8 @@ export async function scrapeBayerischeStaatsoper(
 ): Promise<HouseScrapeResult> {
   const productions: RawProduction[] = [];
   try {
-    const html = await fetchHtml(WIKI_URL, ctx);
-    productions.push(...parsePremieres(html, window));
+    const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
+    productions.push(...parsePremieres(res.parse?.text ?? "", window));
   } catch (err) {
     console.warn("bayerische-staatsoper: wikipedia import failed:", err);
   }
