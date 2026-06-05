@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "nationaltheater-weimar",
+    "name": "Deutsches Nationaltheater Weimar",
+    "city": "Weimar",
+    "country": "DE",
+    "website": "https://www.dnt-weimar.de",
+    "wikidata": "Q600939",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Custom PHP CMS; spielplan JS-rendered but backed by a monthly AJAX endpoint /ext/ajax/spielplan_ajax.php?month=YYYY-MM → {date:[event]}. Each event: stu_pid (production id), stu_titel, ter_datum, filter_tags (cat-3=Oper). Walk current+12 months, group by stu_pid; composer from each detail page (stueck-detail.php?SID=, '… von Composer')."
+  },
+  {
     "slug": "staatstheater-mainz",
     "name": "Staatstheater Mainz",
     "city": "Mainz",
