@@ -760,5 +760,16 @@
     "enabled": true,
     "proxy": true,
     "notes": "Nuxt SPA — data only in window.__NUXT__ (not SSR DOM). Instead of eval-ing that blob in CI, render via the fetch-proxy (proxy:true → fetchRendered runs the SPA in the proxy's Chromium; no remote-JS eval in our pipeline). /spielplan render: rows pair stueck-detail '… / {Sparte}' with a stueck-teaser /spielplan/stuecke/{slug} link → keep Musiktheater. Detail render (strip <script>): h1 title, '… von {Composer}' subtitle (composerFromText), Termine b.stueck-date 'DD/MM/YY' + HH.MM Uhr time, cast/creative '<span class=mr-1>{label}</span> <a person><b>{name}</b></a>' → normalizeGermanCredit. Windowed (current-month-forward) + future-only → Wikidata backfill. Renders are slow → few productions."
+  },
+  {
+    "slug": "theater-kiel",
+    "name": "Opernhaus Kiel",
+    "city": "Kiel",
+    "country": "DE",
+    "website": "https://theater-kiel.de",
+    "wikidata": "Q737243",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Listing-only — composer & cast NOT obtainable. Detail pages /spielplan/produktionen/{slug}.html 301 every non-interactive client straight to the homepage (location: https://theater-kiel.de/ — verified for plain fetch, browser-UA, Referer, cookie, ?ajax=1 AND the proxy's stealth render, which follows the redirect onto 'Startseite'); the block is a session-bound server redirect, not JS, so render can't crack it. So NO proxy. Listing AJAX /spielplan/spielplan.html?ajax=1&offset={n} works direct (crawler UA): one month of SSR rows per offset, walk offset 0.. until body is 'ende erreicht.'. Opera rows carry class sparte-4 (over-broad — also tours/café/chamber) + produktion-{id} + date-{DDMMYY}; keep only rows whose label div (<div class=fw-bold>Oper|Operette</div>) is exactly Oper/Operette and drop non-work titles (Führung/Operncafé/Streichquartett/Lounge/Einführung/Matinee) plus the musicals/revue Kiel files under the same sparte (West Side Story/La Cage aux Folles/Melodien für Millionen — denylisted by hand, no composer to filter them). Title+slug in the following <div class='fs-4 heading fw-bold'><a href=./produktionen/{slug}.html>; venue+time '<span>{venue}</span> | HH.MM Uhr'. work_title only → composer resolved from the work entity / cross-house merge; cast unavailable. Future/season → Wikidata backfill (Q737243)."
   }
 ]

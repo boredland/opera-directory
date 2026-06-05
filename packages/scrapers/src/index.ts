@@ -51,6 +51,7 @@ import { scrapeTheaterFreiburg } from "./houses/theater-freiburg";
 import { scrapeTheaterHagen } from "./houses/theater-hagen";
 import { scrapeTheaterHeidelberg } from "./houses/theater-heidelberg";
 import { scrapeTheaterHof } from "./houses/theater-hof";
+import { scrapeTheaterKiel } from "./houses/theater-kiel";
 import { scrapeTheaterKoblenz } from "./houses/theater-koblenz";
 import { scrapeTheaterKrefeldMoenchengladbach } from "./houses/theater-krefeld-moenchengladbach";
 import { scrapeTheaterLuebeck } from "./houses/theater-luebeck";
@@ -141,4 +142,5 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "theater-trier": scrapeTheaterTrier,
   "stadttheater-giessen": scrapeStadttheaterGiessen,
   "gerhart-hauptmann-theater-goerlitz": scrapeGerhartHauptmannTheaterGoerlitz,
+  "theater-kiel": scrapeTheaterKiel,
 };
