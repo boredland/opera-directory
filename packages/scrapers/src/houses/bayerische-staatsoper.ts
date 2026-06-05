@@ -75,15 +75,15 @@ export async function scrapeBayerischeStaatsoper(
 }
 
 function parsePremieres(html: string, window: ScrapeWindow): RawProduction[] {
+  // Scan all <tr> rows directly (no per-table match): a colspan row is a production
+  // title, the following row its Dirigent/Regie/Sängerinnen/Sänger detail.
   const out: RawProduction[] = [];
-  for (const table of html.match(/<table[^>]*wikitable[\s\S]*?<\/table>/g) ?? []) {
-    const rows = table.split(/<tr[^>]*>/).slice(1);
-    for (let i = 0; i < rows.length; i++) {
-      const titleCell = rows[i]?.match(/<td[^>]*colspan="\d+"[^>]*>([\s\S]*?)<\/td>/);
-      if (!titleCell?.[1]) continue;
-      const prod = buildProduction(titleCell[1], rows[i + 1] ?? "", window);
-      if (prod) out.push(prod);
-    }
+  const rows = html.split(/<tr[^>]*>/).slice(1);
+  for (let i = 0; i < rows.length; i++) {
+    const titleCell = rows[i]?.match(/<td[^>]*\bcolspan="\d+"[^>]*>([\s\S]*?)<\/td>/);
+    if (!titleCell?.[1]) continue;
+    const prod = buildProduction(titleCell[1], rows[i + 1] ?? "", window);
+    if (prod) out.push(prod);
   }
   return out;
 }
