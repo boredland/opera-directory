@@ -228,7 +228,8 @@
     "wikidata": "Q318058",
     "strategy": "render",
     "enabled": true,
-    "notes": "Adapter implemented (render + wikidata backfill). Munich's second opera house. The spielplan /de/spielplan/index.html is JS-rendered (fetchRendered → proxy stealth render). Each performance is a '<div class=\"… vorstellung performance produktion-{pid} … date-{DDMMYY} sparte-{n} …\">' linking to /de/produktionen/{slug}.html; sparte- class = genre (14=Oper, 2=Operette kept; 3=Musical, 4=Ballett, 5=Konzert, 33=Opernstudio dropped). One render gives the full season's dates (grouped by slug). Each server-rendered detail page: h1 title, composer ('… Musik von X Libretto …'), Besetzung as 'function_person' rows (<span class=function>Label</span><span class=person><a>Name</a> / …>; creative + sung cast, German labels incl. 'Dirigat'). Future-only → Wikidata backfill."
+    "proxy": true,
+    "notes": "Adapter implemented (render + wikidata backfill). Munich's second opera house. NOTE proxy:true — gaertnerplatztheater.de refuses the CI datacenter IP ('Unable to connect'), so the detail-page fetchHtml calls must go through the proxy (the spielplan render already does via fetchRendered). The spielplan /de/spielplan/index.html is JS-rendered (fetchRendered → proxy stealth render). Each performance is a '<div class=\"… vorstellung performance produktion-{pid} … date-{DDMMYY} sparte-{n} …\">' linking to /de/produktionen/{slug}.html; sparte- class = genre (14=Oper, 2=Operette kept; 3=Musical, 4=Ballett, 5=Konzert, 33=Opernstudio dropped). One render gives the full season's dates (grouped by slug). Each server-rendered detail page: h1 title, composer ('… Musik von X Libretto …'), Besetzung as 'function_person' rows (<span class=function>Label</span><span class=person><a>Name</a> / …>; creative + sung cast, German labels incl. 'Dirigat'). Future-only → Wikidata backfill."
   },
   {
     "slug": "bayerische-staatsoper",

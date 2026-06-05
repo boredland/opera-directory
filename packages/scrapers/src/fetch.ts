@@ -81,10 +81,15 @@ export function resetFetchStats(): void {
   _stats.slowest = { url: "", ms: 0, kind: "" };
 }
 
+/** Per-request hard cap so a refused/black-holed host fails fast instead of hanging
+ *  the whole job (a datacenter-IP-blocked host once burned the 20-min CI budget). */
+const FETCH_TIMEOUT_MS = Number(process.env.FETCH_TIMEOUT_MS ?? 30000);
+
 export async function fetchHtml(url: string, ctx: FetchContext): Promise<string> {
   const start = performance.now();
   const res = await proxyFetch(url, ctx.proxy, {
     headers: { "User-Agent": ctx.userAgent, "Accept-Language": "de,en;q=0.8" },
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
   });
   if (!res.ok) throw new Error(`fetch failed: ${url} → ${res.status}`);
   const text = await res.text();
@@ -101,6 +106,7 @@ export async function fetchJson<T = unknown>(
   const start = performance.now();
   const res = await proxyFetch(url, ctx.proxy, {
     headers: { "User-Agent": ctx.userAgent, Accept: accept },
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
   });
   if (!res.ok) throw new Error(`fetch failed: ${url} → ${res.status}`);
   const data = (await res.json()) as T;
@@ -175,7 +181,7 @@ export async function fetchRendered(
       const headers: Record<string, string> = { "User-Agent": ctx.userAgent };
       if (process.env.FETCH_PROXY_TOKEN)
         headers.Authorization = `Bearer ${process.env.FETCH_PROXY_TOKEN}`;
-      const res = await fetch(target, { headers });
+      const res = await fetch(target, { headers, signal: AbortSignal.timeout(90000) });
       if (!res.ok) throw new Error(`render proxy → ${res.status}`);
       const text = await res.text();
       record("render", url, performance.now() - start);
