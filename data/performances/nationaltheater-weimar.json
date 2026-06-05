@@ -1,0 +1,681 @@
+[
+  {
+    "id": "nationaltheater-weimar/3513/2026-12-03/10:00",
+    "production_id": "nationaltheater-weimar/3513",
+    "date": "2026-12-03",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3513/2026-12-06/16:00",
+    "production_id": "nationaltheater-weimar/3513",
+    "date": "2026-12-06",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3513/2026-12-07/10:00",
+    "production_id": "nationaltheater-weimar/3513",
+    "date": "2026-12-07",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3513/2026-12-16/10:00",
+    "production_id": "nationaltheater-weimar/3513",
+    "date": "2026-12-16",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3513/2026-12-23/18:00",
+    "production_id": "nationaltheater-weimar/3513",
+    "date": "2026-12-23",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-06-12/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-06-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-06-26/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-06-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-09-26/20:00",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-09-26",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-10-11/16:00",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-10-11",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-10-23/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-10-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-11-07/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2026-12-15/14:00",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2026-12-15",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2027-01-24/18:00",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2027-01-24",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2027-03-05/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2027-03-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3698/2027-04-29/19:30",
+    "production_id": "nationaltheater-weimar/3698",
+    "date": "2027-04-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-09-10/19:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-09-10",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-09-25/19:30",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-09-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-10-18/16:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-10-18",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-10-24/19:30",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-10-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-11-08/16:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-11-08",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2026-12-27/18:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2026-12-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2027-01-02/18:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2027-01-02",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2027-02-14/16:00",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2027-02-14",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2027-03-12/19:30",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2027-03-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3699/2027-04-24/19:30",
+    "production_id": "nationaltheater-weimar/3699",
+    "date": "2027-04-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3720/2026-09-16/19:00",
+    "production_id": "nationaltheater-weimar/3720",
+    "date": "2026-09-16",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3720/2026-09-17/19:00",
+    "production_id": "nationaltheater-weimar/3720",
+    "date": "2026-09-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3721/2026-06-19/19:30",
+    "production_id": "nationaltheater-weimar/3721",
+    "date": "2026-06-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3721/2027-04-30/19:30",
+    "production_id": "nationaltheater-weimar/3721",
+    "date": "2027-04-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3721/2027-05-16/18:00",
+    "production_id": "nationaltheater-weimar/3721",
+    "date": "2027-05-16",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3721/2027-06-05/19:30",
+    "production_id": "nationaltheater-weimar/3721",
+    "date": "2027-06-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-06-06/15:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-06-06",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-06-18/10:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-06-18",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-06-26/10:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-06-26",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-06-27/11:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-09-06/15:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-09-06",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-09-07/10:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-09-07",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-09-20/15:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-09-20",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3726/2026-09-21/10:00",
+    "production_id": "nationaltheater-weimar/3726",
+    "date": "2026-09-21",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3727/2026-06-14/18:00",
+    "production_id": "nationaltheater-weimar/3727",
+    "date": "2026-06-14",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3727/2026-07-02/19:30",
+    "production_id": "nationaltheater-weimar/3727",
+    "date": "2026-07-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3727/2026-10-09/19:30",
+    "production_id": "nationaltheater-weimar/3727",
+    "date": "2026-10-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3727/2026-11-13/19:30",
+    "production_id": "nationaltheater-weimar/3727",
+    "date": "2026-11-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3880/2026-10-02/18:00",
+    "production_id": "nationaltheater-weimar/3880",
+    "date": "2026-10-02",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3881/2027-05-29/19:30",
+    "production_id": "nationaltheater-weimar/3881",
+    "date": "2027-05-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3881/2027-06-03/19:30",
+    "production_id": "nationaltheater-weimar/3881",
+    "date": "2027-06-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3881/2027-06-18/19:30",
+    "production_id": "nationaltheater-weimar/3881",
+    "date": "2027-06-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3881/2027-06-27/16:00",
+    "production_id": "nationaltheater-weimar/3881",
+    "date": "2027-06-27",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2026-10-31/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2026-11-05/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2026-11-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2026-11-22/16:00",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2026-11-22",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2026-12-18/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2026-12-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2026-12-29/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-01-08/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-01-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-01-17/16:00",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-01-17",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-02-26/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-02-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-03-29/18:00",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-03-29",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-04-09/19:30",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-04-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3885/2027-05-23/16:00",
+    "production_id": "nationaltheater-weimar/3885",
+    "date": "2027-05-23",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2026-11-28/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2026-11-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2026-12-04/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2026-12-04",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2026-12-12/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2026-12-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2026-12-28/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2026-12-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-01-07/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-01-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-01-23/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-01-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-02-05/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-03-06/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-04-01/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-04-01",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3887/2027-05-21/19:30",
+    "production_id": "nationaltheater-weimar/3887",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-01-30/19:30",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-02-07/16:00",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-02-07",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-02-19/19:30",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-02-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-02-28/16:00",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-02-28",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-03-13/19:30",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-03-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-04-02/19:30",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-04-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3893/2027-05-14/19:30",
+    "production_id": "nationaltheater-weimar/3893",
+    "date": "2027-05-14",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3911/2027-04-17/19:30",
+    "production_id": "nationaltheater-weimar/3911",
+    "date": "2027-04-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3911/2027-05-09/16:00",
+    "production_id": "nationaltheater-weimar/3911",
+    "date": "2027-05-09",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-09-05/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-09-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-09-18/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-09-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-10-04/18:00",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-10-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-10-17/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-10-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-11-21/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-12-10/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2026-12-26/18:00",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2026-12-26",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2027-01-14/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2027-01-14",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3913/2027-02-13/19:30",
+    "production_id": "nationaltheater-weimar/3913",
+    "date": "2027-02-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3915/2027-03-20/16:00",
+    "production_id": "nationaltheater-weimar/3915",
+    "date": "2027-03-20",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3915/2027-03-26/16:00",
+    "production_id": "nationaltheater-weimar/3915",
+    "date": "2027-03-26",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3915/2027-04-11/16:00",
+    "production_id": "nationaltheater-weimar/3915",
+    "date": "2027-04-11",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3915/2027-05-06/16:00",
+    "production_id": "nationaltheater-weimar/3915",
+    "date": "2027-05-06",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3915/2027-06-13/16:00",
+    "production_id": "nationaltheater-weimar/3915",
+    "date": "2027-06-13",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3926/2026-11-26/19:30",
+    "production_id": "nationaltheater-weimar/3926",
+    "date": "2026-11-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/3930/2027-03-25/10:00",
+    "production_id": "nationaltheater-weimar/3930",
+    "date": "2027-03-25",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/4007/2027-06-25/19:30",
+    "production_id": "nationaltheater-weimar/4007",
+    "date": "2027-06-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/4022/2026-06-13/20:00",
+    "production_id": "nationaltheater-weimar/4022",
+    "date": "2026-06-13",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "nationaltheater-weimar/4029/2027-01-24/11:00",
+    "production_id": "nationaltheater-weimar/4029",
+    "date": "2027-01-24",
+    "time": "11:00",
+    "status": "scheduled"
+  }
+]
