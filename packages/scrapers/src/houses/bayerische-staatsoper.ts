@@ -86,14 +86,12 @@ async function reconLiveViaProxy(): Promise<void> {
       headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "de,en;q=0.8" },
     });
     const body = await res.text();
-    const markers = ["Intermezzo", "challenge", "__cf", "turnstile", "enable JavaScript", "Bayerische Staatsoper", "_app", "__NUXT", "__NEXT", "window.", "/api", "graphql", "dat/", "Spielplan", "Vorstellung"]
+    const vendors = ["__cf_chl_opt", "cf-chl_", "cf_chl", "challenge-platform", "Just a moment", "cf-browser-verification", "_Incapsula_", "Incapsula", "Imperva", "distil", "Akamai", "_abck", "ak_bmsc", "/_sec/", "px-captcha", "perimeterx", "datadome", "DataDome"]
       .filter((m) => body.includes(m));
-    console.warn(`münchen-recon: status=${res.status} bytes=${body.length} markers=[${markers.join(",")}]`);
-    const apis = [...new Set(body.match(/(https?:\/\/[a-z0-9.-]+)?\/[a-z0-9/_-]*(?:api|graphql|rest|\.json|calendar|events?)[a-z0-9/_?=.&-]*/gi) ?? [])];
-    console.warn(`münchen-recon api-candidates(${apis.length}): ${apis.slice(0, 12).join(" | ").slice(0, 400)}`);
-    const scripts = [...new Set(body.match(/src="[^"]+\.js[^"]*"/g) ?? [])];
-    console.warn(`münchen-recon scripts(${scripts.length}): ${scripts.slice(0, 8).join(" ").slice(0, 400)}`);
-    console.warn(`münchen-recon mid: ${body.slice(2000, 2400).replace(/\s+/g, " ")}`);
+    console.warn(`münchen-recon: status=${res.status} bytes=${body.length} vendors=[${vendors.join(",")}]`);
+    console.warn(`münchen-recon head: ${body.slice(0, 220).replace(/\s+/g, " ")}`);
+    const title = body.match(/<title>([^<]*)<\/title>/)?.[1];
+    console.warn(`münchen-recon title="${title}" metas=${(body.match(/<meta /g) ?? []).length}`);
   } catch (err) {
     console.warn(`münchen-recon failed: ${err}`);
   }
