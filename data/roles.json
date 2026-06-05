@@ -970,6 +970,11 @@
     "name": "Demetrius"
   },
   {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream/einstudierung-cantus-juvenum",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "name": "Einstudierung Cantus Juvenum"
+  },
+  {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/flute",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Flute"
@@ -983,6 +988,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream/hermia",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Hermia"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream/hippolita",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "name": "Hippolita"
   },
   {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/hippolyta",
@@ -1053,6 +1063,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream/tytania",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Tytania"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream/vermittlung",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "name": "Vermittlung"
   },
   {
     "slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper/sounddesign",
@@ -5160,9 +5175,19 @@
     "name": "Borsa"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/der-herzog-von-mantua",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Der Herzog von Mantua"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/die-grafin-ceprano",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Die Gräfin Ceprano"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/die-grafin-page",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Die Gräfin / Page"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/ein-gerichtsdiener",
@@ -5205,6 +5230,11 @@
     "name": "Graf Monterone"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/graf-von-ceprano-ein-gerichtsdiener",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Graf von Ceprano / Ein Gerichtsdiener"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/graf-von-monterone",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Graf von Monterone"
@@ -5225,6 +5255,16 @@
     "name": "Marullo"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/mitarbeit-chor",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Mitarbeit Chor"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/mitarbeit-konzeption",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Mitarbeit Konzeption"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/monterone",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Monterone"
@@ -5243,6 +5283,11 @@
     "slug": "giuseppe-verdi/rigoletto/sparafucile",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Sparafucile"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/vermittlung",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Vermittlung"
   },
   {
     "slug": "giuseppe-verdi/un-ballo-in-maschera/amelia",
@@ -6173,6 +6218,56 @@
     "slug": "john-neumeier/endstation-sehnsucht/pianist",
     "work_slug": "john-neumeier/endstation-sehnsucht",
     "name": "Pianist"
+  },
+  {
+    "slug": "jonathan-dove/itch/bob-evert-kinch",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Bob Evert / Kinch"
+  },
+  {
+    "slug": "jonathan-dove/itch/cake-berghahn",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Cake / Berghahn"
+  },
+  {
+    "slug": "jonathan-dove/itch/itchingham-lofte",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Itchingham Lofte"
+  },
+  {
+    "slug": "jonathan-dove/itch/jack-lofte",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Jack Lofte"
+  },
+  {
+    "slug": "jonathan-dove/itch/jude-roshanna",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Jude / Roshanna"
+  },
+  {
+    "slug": "jonathan-dove/itch/nathaniel-flowerdew",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Nathaniel Flowerdew"
+  },
+  {
+    "slug": "jonathan-dove/itch/nicholas-lofte",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Nicholas Lofte"
+  },
+  {
+    "slug": "jonathan-dove/itch/regie-licht",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Regie & Licht"
+  },
+  {
+    "slug": "jonathan-dove/itch/vermittlung",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Vermittlung"
+  },
+  {
+    "slug": "jonathan-dove/itch/watkins",
+    "work_slug": "jonathan-dove/itch",
+    "name": "Watkins"
   },
   {
     "slug": "kaija-saariaho/innocence/choreografische-mitarbeit",
@@ -8550,9 +8645,19 @@
     "name": "Zerbinetta"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/adelige-waisen",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Adelige Waisen"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/annina",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Annina"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/baron-ochs",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Baron Ochs"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau",
@@ -8588,6 +8693,11 @@
     "slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin-furstin-werdenberg",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Die Feldmarschallin Fürstin Werdenberg"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/dramaturgie-karlsruhe",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Dramaturgie (Karlsruhe)"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen",
@@ -8630,6 +8740,16 @@
     "name": "Einstudierung Kinderopernchor"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/faninal",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Faninal"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/hausknecht",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Hausknecht"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/herr-von-faninal",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Herr von Faninal"
@@ -8640,14 +8760,64 @@
     "name": "Inszenierung & Videokonzept"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/italienischer-sanger",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Italienischer Sänger"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Jungfer Marianne Leitmetzerin"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/kellner",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Kellner"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/kommisar-notar",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Kommisar / Notar"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/lakaien",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Lakaien"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Lakaien der Marschallin / Vier Kellner"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/leitmetzerin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Leitmetzerin"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/lerchenauer",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Lerchenauer"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/marschallin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Marschallin"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/mitarbeit-chor",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Mitarbeit Chor"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/mitarbeit-kostum",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Mitarbeit Kostüm"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/modistin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Modistin"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/octavian",
@@ -8670,9 +8840,19 @@
     "name": "Statisterie"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/tierhandler",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Tierhändler"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/valzacchi",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Valzacchi"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/wirt-haushofmeister-matschallin-haushofmeister-faninal",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Wirt / Haushofmeister Matschallin / Haushofmeister Faninal"
   },
   {
     "slug": "richard-strauss/elektra/1-magd",
