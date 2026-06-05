@@ -615,5 +615,38 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "TYPO3 + jweiland events2, server-rendered, no proxy. Overview /spielplan/oper-und-operette.html lists one link per production (sentinel eventDetail/1970-01-01_0100/{slug}.html). Detail: <h1> title, <h2 class=fontsize4> '{genre} von {Composer} | …' (composerFromText; drop 'Musical' + require composer to filter the revues/musicals on the overview), 'Alle Termine' accordion <dt>…DD.MM.YYYY</dt><dd>…Beginn: HH:MM…</dd> (incl PAST dates → status by date), JSON-LD Event location.name = venue, free-text Besetzung 'role <a><strong>NAME</strong></a>' rows → creative+cast. Text has soft hyphens U+00AD (stripped). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-hof",
+    "name": "Theater Hof",
+    "city": "Hof",
+    "country": "DE",
+    "website": "https://www.theater-hof.de",
+    "wikidata": "Q2415806",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3, server-rendered, no proxy. /spielplan/stueckuebersicht lists the whole season as div.stueck-item; the genre <i> in h6.stueck-subheader is the opera marker (keep EXACTLY 'Oper'/'Operette' — 'Ein komisches Oratorium', 'Musiktheater für Kinder' etc. are out). Detail /spielplan/stuecke/detail/{slug}: <h1> title (ALL CAPS), infobox-author '<i>{genre}</i> VON {Composer}' (strip leading 'VON '), termine-grid termin-item 'DD.MM.YYYY, <span>HH:MM Uhr</span>' (explicit year) + .location venue (touring — varies), info-ensemble einteilung-1=creative (German labels) / einteilung-0=cast (role→singer) / einteilung-2=ensembles(skip). NB CSS typo class 'steuck-title'. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "landestheater-coburg",
+    "name": "Landestheater Coburg",
+    "city": "Coburg",
+    "country": "DE",
+    "website": "https://landestheater-coburg.de",
+    "wikidata": "Q1802662",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Kirby CMS, server-rendered, no proxy. Section index /programm/musiktheater → /programm/musiktheater/{slug}. Detail: <h1> title, page-header-subtitle '{genre} von {Composer}' (composerFromText; drop /musical/), section-besetzung text-table-entry '<p>Name</p><p>(Label)</p>' = creative team ONLY (no singer cast published; map labels, keep unknown verbatim). Termine: span.date 'DD.MM.' (NO year → infer this-year-else-next; upcoming-only) + data-time 'HH:MM Uhr' + data-location venue. Future-only → Wikidata backfill."
+  },
+  {
+    "slug": "theater-altenburg-gera",
+    "name": "Theater Altenburg-Gera",
+    "city": "Gera",
+    "country": "DE",
+    "website": "https://theater-altenburg-gera.de",
+    "wikidata": "Q2415675",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Theater & Philharmonie Thüringen (Gera+Altenburg). TYPO3 tx_theatre, server-rendered, no proxy. /stuecke-konzerte/musiktheater/ lists play-list-item links 'stuecke-konzerte/{slug}-{uid}/'; walk the current season (default) + each seasonUid URL in the dropdown (decode &amp;). Detail: <h2> title, p.subheading '{genre} von {Composer}' (drop /musical/), event-head--item bold heading 'Wd DD. Mon YYYY · HH:MM · {Venue} {City}' (· = U+00B7, German month, Gera/Altenburg in venue string; strip trailing Premiere/Wiederaufnahme), ul.actors '<span class=role>label</span><a>name</a>' → normalizeGermanCredit (creative) else sung cast (skip 'Ensembles'/blank). Past-only productions render 0 dates → skipped. Future/season → Wikidata backfill."
   }
 ]

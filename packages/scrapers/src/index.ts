@@ -5,6 +5,7 @@ import { scrapeBayerischeStaatsoper } from "./houses/bayerische-staatsoper";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
+import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
 import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
@@ -36,6 +37,7 @@ import { scrapeStaatstheaterRegensburg } from "./houses/staatstheater-regensburg
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeStadttheaterBremerhaven } from "./houses/stadttheater-bremerhaven";
 import { scrapeTheaterAachen } from "./houses/theater-aachen";
+import { scrapeTheaterAltenburgGera } from "./houses/theater-altenburg-gera";
 import { scrapeTheaterBielefeld } from "./houses/theater-bielefeld";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
@@ -43,6 +45,7 @@ import { scrapeTheaterErfurt } from "./houses/theater-erfurt";
 import { scrapeTheaterFreiburg } from "./houses/theater-freiburg";
 import { scrapeTheaterHagen } from "./houses/theater-hagen";
 import { scrapeTheaterHeidelberg } from "./houses/theater-heidelberg";
+import { scrapeTheaterHof } from "./houses/theater-hof";
 import { scrapeTheaterKrefeldMoenchengladbach } from "./houses/theater-krefeld-moenchengladbach";
 import { scrapeTheaterMagdeburg } from "./houses/theater-magdeburg";
 import { scrapeTheaterNordhausen } from "./houses/theater-nordhausen";
@@ -115,4 +118,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "theater-vorpommern": scrapeTheaterVorpommern,
   "theater-plauen-zwickau": scrapeTheaterPlauenZwickau,
   "theater-pforzheim": scrapeTheaterPforzheim,
+  "theater-hof": scrapeTheaterHof,
+  "landestheater-coburg": scrapeLandestheaterCoburg,
+  "theater-altenburg-gera": scrapeTheaterAltenburgGera,
 };
