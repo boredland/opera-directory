@@ -155,8 +155,6 @@ async function ensureContext(userAgent: string) {
   return _context;
 }
 
-/** Load a page in a headless browser and return its rendered HTML after JS runs.
- *  Retries once if the shared browser has crashed (relaunches it). */
 /**
  * Get a page's *rendered* HTML, for JS-rendered SPAs (and sites that serve a
  * bot-fallback to non-browser clients). Prefers the fetch-proxy's stealth render
@@ -189,6 +187,8 @@ export async function fetchRendered(
   return renderHtml(url, ctx, { waitMs: opts.waitMs });
 }
 
+/** Load a page in a local headless browser and return its rendered HTML after JS
+ *  runs. Retries once if the shared browser has crashed (relaunches it). */
 export async function renderHtml(
   url: string,
   ctx: FetchContext,
