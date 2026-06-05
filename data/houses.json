@@ -253,6 +253,28 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "staatstheater-kassel",
+    "name": "Staatstheater Kassel",
+    "city": "Kassel",
+    "country": "DE",
+    "website": "https://www.staatstheater-kassel.de",
+    "wikidata": "Q579534",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Nuxt SPA over a public Strapi GraphQL backend (backend.staatstheater-kassel.de/graphql; the HTML frontend is an empty shell). POST an 'events' query joining Play→Production; filter Play.Section_1=='Musiktheater'; composer=Production.Writer; date=Event.StartDate (UTC ISO). Grouped by Play.Slug."
+  },
+  {
+    "slug": "mainfranken-theater-wuerzburg",
+    "name": "Mainfranken Theater Würzburg",
+    "city": "Würzburg",
+    "country": "DE",
+    "website": "https://www.mainfrankentheater.de",
+    "wikidata": "Q1885618",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). spiritec WebCMS, server-rendered. /programm/spielplan/ '.performance' cards (id={YYYY-MM-DD}-p{id}, data-day-token, schema.org startDate) link /programm/spielplan/{slug}/{id}/; card id is per-performance → group by slug. Detail <meta description> is the shared 'Title, Oper von Composer, Besetzung: Role: Name' run → keep opera genres + reuse parseMeta for composer+cast."
+  },
+  {
     "slug": "theater-erfurt",
     "name": "Theater Erfurt",
     "city": "Erfurt",
