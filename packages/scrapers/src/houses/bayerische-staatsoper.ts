@@ -90,13 +90,12 @@ async function reconLiveViaProxy(): Promise<void> {
     const res = await fetch(proxyUrl, { headers });
     const body = await res.text();
     console.warn(`münchen-recon: status=${res.status} bytes=${body.length}`);
-    const dates = (body.match(/\d{1,2}\.\d{1,2}\.\d{4}/g) ?? []).length;
-    const jsonld = (body.match(/ld\+json/g) ?? []).length;
-    console.warn(`münchen-recon: dates=${dates} jsonld=${jsonld} dataAttr=${(body.match(/data-[a-z-]+=/g) ?? []).length}`);
-    const linkpats = [...new Set((body.match(/(?:href|data-href)="\/[a-z][a-z0-9/_-]*"/gi) ?? []).map((s) => s.replace(/\d+/g, "N")))];
-    console.warn(`münchen-recon linkpats(${linkpats.length}): ${linkpats.slice(0, 18).join(" ").slice(0, 500)}`);
-    const cls = [...new Set((body.match(/class="[a-z][a-z0-9_-]*(?:event|production|spielplan|veranstaltung|teaser|calendar|termin)[a-z0-9_-]*"/gi) ?? []))];
-    console.warn(`münchen-recon classes: ${cls.slice(0, 14).join(" ").slice(0, 500)}`);
+    const scripts = [...new Set(body.match(/<script[^>]+src="[^"]+"/g) ?? [])].map((s) => s.match(/src="([^"]+)"/)?.[1]);
+    console.warn(`münchen-recon scripts(${scripts.length}): ${scripts.slice(0, 10).join(" ").slice(0, 500)}`);
+    const apis = [...new Set(body.match(/["'`](?:https?:\/\/[a-z0-9.-]+)?\/[a-z0-9/_.-]*(?:api|graphql|\.json|ajax|index\.php\?[a-z]|dat\/|rest)[a-z0-9/_?=.&-]*["'`]/gi) ?? [])];
+    console.warn(`münchen-recon apis(${apis.length}): ${apis.slice(0, 12).join(" ").slice(0, 500)}`);
+    const dataAttrs = [...new Set((body.match(/data-[a-z-]+="[^"]{0,40}"/g) ?? []).map((s) => s.replace(/\d+/g, "N")))];
+    console.warn(`münchen-recon dataAttrs: ${dataAttrs.slice(0, 16).join(" ").slice(0, 500)}`);
   } catch (err) {
     console.warn(`münchen-recon failed: ${err}`);
   }
