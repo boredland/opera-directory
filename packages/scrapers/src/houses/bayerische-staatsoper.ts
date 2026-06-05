@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchJson, stripHtml } from "../fetch";
+import { type FetchContext, fetchJson, proxyFetch, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -51,6 +51,8 @@ export async function scrapeBayerischeStaatsoper(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
+  await reconLiveViaProxy();
+
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
@@ -67,6 +69,37 @@ export async function scrapeBayerischeStaatsoper(
     }
   }
   return { house_slug: "bayerische-staatsoper", productions };
+}
+
+/** TEMPORARY recon: probe the Cloudflare-protected live spielplan through the
+ *  FETCH_PROXY (FlareSolverr) and log its shape so the live adapter can be written.
+ *  Builds the proxy from env directly so the Wikipedia fetch above stays un-proxied. */
+async function reconLiveViaProxy(): Promise<void> {
+  const url = process.env.FETCH_PROXY_URL;
+  if (!url) {
+    console.warn("münchen-recon: no FETCH_PROXY_URL (skipping live probe)");
+    return;
+  }
+  const proxy = { url, token: process.env.FETCH_PROXY_TOKEN };
+  for (const path of ["/spielplan", "/spielplan/oper", "/en/play-schedule"]) {
+    try {
+      const res = await proxyFetch(`https://www.staatsoper.de${path}`, proxy, {
+        headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "de,en;q=0.8" },
+      });
+      const body = await res.text();
+      const cf = /cf_chl|challenge-platform|Just a moment/.test(body);
+      const links = [...new Set(body.match(/\/(?:spielplan|stuecke|produktion)[a-z0-9/_-]*\.?\d*/gi) ?? [])];
+      console.warn(
+        `münchen-recon ${path}: status=${res.status} bytes=${body.length} cf=${cf} ` +
+          `dates=${(body.match(/\d{1,2}\.\d{1,2}\.\d{4}/g) ?? []).length} ` +
+          `jsonld=${(body.match(/ld\+json/g) ?? []).length} links=${links.length}`,
+      );
+      console.warn(`münchen-recon ${path} head: ${body.slice(0, 160).replace(/\s+/g, " ")}`);
+      if (links.length) console.warn(`münchen-recon ${path} links: ${links.slice(0, 6).join(" ")}`);
+    } catch (err) {
+      console.warn(`münchen-recon ${path} failed: ${err}`);
+    }
+  }
 }
 
 function parsePremieres(html: string): RawProduction[] {
