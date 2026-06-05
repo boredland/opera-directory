@@ -157,6 +157,38 @@ async function ensureContext(userAgent: string) {
 
 /** Load a page in a headless browser and return its rendered HTML after JS runs.
  *  Retries once if the shared browser has crashed (relaunches it). */
+/**
+ * Get a page's *rendered* HTML, for JS-rendered SPAs (and sites that serve a
+ * bot-fallback to non-browser clients). Prefers the fetch-proxy's stealth render
+ * (`?render=1`) — a real Chromium on the proxy's residential IP with the anti-bot
+ * tells masked, so the scraper itself needs no browser. Falls back to a local
+ * headless render when no proxy is configured (dev) or the proxy render fails.
+ */
+export async function fetchRendered(
+  url: string,
+  ctx: FetchContext,
+  opts: { waitMs?: number } = {},
+): Promise<string> {
+  const proxyUrl = process.env.FETCH_PROXY_URL;
+  if (proxyUrl) {
+    const start = performance.now();
+    try {
+      const target = `${proxyUrl}?url=${encodeURIComponent(url)}&render=1&wait=${opts.waitMs ?? 6000}`;
+      const headers: Record<string, string> = { "User-Agent": ctx.userAgent };
+      if (process.env.FETCH_PROXY_TOKEN)
+        headers.Authorization = `Bearer ${process.env.FETCH_PROXY_TOKEN}`;
+      const res = await fetch(target, { headers });
+      if (!res.ok) throw new Error(`render proxy → ${res.status}`);
+      const text = await res.text();
+      record("render", url, performance.now() - start);
+      return text;
+    } catch (err) {
+      console.warn(`fetchRendered: proxy render failed (${err}); falling back to local render`);
+    }
+  }
+  return renderHtml(url, ctx, { waitMs: opts.waitMs });
+}
+
 export async function renderHtml(
   url: string,
   ctx: FetchContext,

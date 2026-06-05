@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchJson, renderHtml, stripHtml } from "../fetch";
+import { type FetchContext, fetchJson, fetchRendered, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -57,10 +57,11 @@ export async function scrapeBayerischeStaatsoper(
 ): Promise<HouseScrapeResult> {
   const productions: RawProduction[] = [];
 
-  // Live spielplan: a stealth headless render gets the real page (a plain fetch or a
-  // non-stealth headless browser is served the "Intermezzo" bot-fallback).
+  // Live spielplan: a stealth render gets the real page (a plain fetch or a
+  // non-stealth headless browser is served the "Intermezzo" bot-fallback). fetchRendered
+  // uses the proxy's residential stealth Chromium (no browser needed in our CI).
   try {
-    const html = await renderHtml("https://www.staatsoper.de/spielplan", ctx, { waitMs: 6000 });
+    const html = await fetchRendered("https://www.staatsoper.de/spielplan", ctx, { waitMs: 6000 });
     if (/INTERMEZZO/i.test(html)) console.warn("bayerische-staatsoper: live got the bot-fallback");
     else productions.push(...parseSpielplan(html, window));
   } catch (err) {
