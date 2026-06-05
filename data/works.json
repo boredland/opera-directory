@@ -305,6 +305,11 @@
     "composer_slug": "astor-piazzolla"
   },
   {
+    "slug": "atlantis-von-viktor-ullmann/der-kaiser",
+    "title": "Der Kaiser",
+    "composer_slug": "atlantis-von-viktor-ullmann"
+  },
+  {
     "slug": "austausch-fur-ag-leitungen/drinks-drama",
     "title": "drinks & drama",
     "composer_slug": "austausch-fur-ag-leitungen"
@@ -463,6 +468,11 @@
     "slug": "bruche-demokratie-in-zeiten-ihrer-regression",
     "title": "Brüche – Demokratie in Zeiten ihrer Regression",
     "composer_slug": ""
+  },
+  {
+    "slug": "bruno-franceschini/picobello-ahoi",
+    "title": "Picobello, ahoi!",
+    "composer_slug": "bruno-franceschini"
   },
   {
     "slug": "buhnenspielgemeinschaft-cacilia-wolkenburg-im-kolner-manner-gesang-verein/wat-e-thiater",
@@ -920,6 +930,11 @@
     "composer_slug": "eure-platze-auf-der-buhne"
   },
   {
+    "slug": "falstaff-giuseppe-verdi-1893",
+    "title": "Falstaff Giuseppe Verdi (1893)",
+    "composer_slug": ""
+  },
+  {
     "slug": "familien-und-jugendeinfuhrungen",
     "title": "Familien- und Jugendeinführungen",
     "composer_slug": ""
@@ -1217,6 +1232,11 @@
   {
     "slug": "georg-kreisler/heute-abend-lola-blau",
     "title": "Heute Abend: Lola Blau",
+    "composer_slug": "georg-kreisler"
+  },
+  {
+    "slug": "georg-kreisler/heute-abend-lola-blau-musical",
+    "title": "Heute Abend: Lola Blau Musical",
     "composer_slug": "georg-kreisler"
   },
   {
@@ -1655,6 +1675,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "john-adams/doctor-atomic",
+    "title": "Doctor Atomic",
+    "composer_slug": "john-adams"
+  },
+  {
     "slug": "john-du-prez-eric-idle/monty-python-s-spamalot",
     "title": "Monty Python’s Spamalot",
     "composer_slug": "john-du-prez-eric-idle"
@@ -2055,6 +2080,11 @@
     "composer_slug": "martin-tzonev"
   },
   {
+    "slug": "mary-finsterer/antarctica-de",
+    "title": "Antarctica (DE)",
+    "composer_slug": "mary-finsterer"
+  },
+  {
     "slug": "matineekonzert",
     "title": "Matineekonzert",
     "composer_slug": ""
@@ -2108,6 +2138,11 @@
     "slug": "miss-sara-jevo-x-queere-buhne",
     "title": "Miss Sara Jevo x Queere Bühne",
     "composer_slug": ""
+  },
+  {
+    "slug": "missy-mazzoli/breaking-the-waves",
+    "title": "Breaking the Waves",
+    "composer_slug": "missy-mazzoli"
   },
   {
     "slug": "missy-mazzoli/the-listeners",
@@ -2415,6 +2450,11 @@
     "composer_slug": "opernmelodien-auf-gro-er-reise"
   },
   {
+    "slug": "opernnacht-auf-dem-gutenbergplatz",
+    "title": "Opernnacht auf dem Gutenbergplatz",
+    "composer_slug": ""
+  },
+  {
     "slug": "opernworkshop",
     "title": "Opernworkshop",
     "composer_slug": ""
@@ -2465,6 +2505,16 @@
     "composer_slug": "paul-hindemith-und-robert-seitz"
   },
   {
+    "slug": "paul-johannes-kirschner/meanwhile-ua-nach-dem-comic",
+    "title": "Meanwhile (UA) nach dem Comic",
+    "composer_slug": "paul-johannes-kirschner"
+  },
+  {
+    "slug": "penzance-von-william-schwenck-gilbert/die-piraten",
+    "title": "Die Piraten",
+    "composer_slug": "penzance-von-william-schwenck-gilbert"
+  },
+  {
     "slug": "peter-i-tschaikowski/mazeppa",
     "title": "Mazeppa",
     "composer_slug": "peter-i-tschaikowski"
@@ -2475,9 +2525,19 @@
     "composer_slug": "peter-i-tschaikowsky"
   },
   {
+    "slug": "peter-stone-musik/titanic-the-musical-story-und-buch",
+    "title": "Titanic The Musical | Story und Buch",
+    "composer_slug": "peter-stone-musik"
+  },
+  {
     "slug": "peter-tschaikowsky/eugen-onegin",
     "title": "Eugen Onegin",
     "composer_slug": "peter-tschaikowsky"
+  },
+  {
+    "slug": "philip-glass/in-der-strafkolonie",
+    "title": "In der Strafkolonie",
+    "composer_slug": "philip-glass"
   },
   {
     "slug": "philip-glass/la-belle-et-la-bete-br-die-schone-und-das-biest",
