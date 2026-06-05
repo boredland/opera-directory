@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "saarlaendisches-staatstheater",
+    "name": "Saarländisches Staatstheater",
+    "city": "Saarbrücken",
+    "country": "DE",
+    "website": "https://www.staatstheater.saarland",
+    "wikidata": "Q208805",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). TYPO3, server-rendered. /produktionen links every production as /detail/{slug} (all divisions; sparte filter is client-side). Fetch each detail, keep those whose <title> is 'Title | Musiktheater | …'; h1 title, subtitle 'Oper/Operette von Composer' (composerFromText), Termine dates as plain DD.MM.YYYY. ~74 detail fetches (filtered to opera)."
+  },
+  {
     "slug": "staatstheater-kassel",
     "name": "Staatstheater Kassel",
     "city": "Kassel",
