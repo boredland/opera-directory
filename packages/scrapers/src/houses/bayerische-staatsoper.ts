@@ -93,8 +93,8 @@ async function reconLiveViaProxy(): Promise<void> {
     const counts = ["Spielplan", "Oper", "Premiere", "Uhr", "Vorstellung", "JavaScript", "noscript", "ng-", "v-", "react", "vue", "Nationaltheater"]
       .map((k) => `${k}=${(body.match(new RegExp(k, "g")) ?? []).length}`);
     console.warn(`münchen-recon counts: ${counts.join(" ")}`);
-    const main = body.search(/<main|role="main"|id="content"|id="main"|class="[^"]*content[^"]*main/i);
-    console.warn(`münchen-recon mainAt=${main} sample=${body.slice(main, main + 500).replace(/\s+/g, " ")}`);
+    const main = body.search(/fallback-content/i);
+    console.warn(`münchen-recon fallback: ${stripHtml(body.slice(main, main + 900))}`);
   } catch (err) {
     console.warn(`münchen-recon failed: ${err}`);
   }
