@@ -1,0 +1,570 @@
+[
+  {
+    "id": "staatstheater-augsburg/carmen/2026-06-14/16:00",
+    "production_id": "staatstheater-augsburg/carmen",
+    "date": "2026-06-14",
+    "time": "16:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/carmen/2026-07-02/17:30",
+    "production_id": "staatstheater-augsburg/carmen",
+    "date": "2026-07-02",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-01-23/18:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-01-23",
+    "time": "18:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-01-28/18:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-01-28",
+    "time": "18:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-02-07/14:00",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-02-07",
+    "time": "14:00",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-03-03/18:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-03-03",
+    "time": "18:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-03-10/18:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-03-10",
+    "time": "18:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-04-10/17:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-04-10",
+    "time": "17:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-04-16/17:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-04-16",
+    "time": "17:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-04-27/17:30",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-04-27",
+    "time": "17:30",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-menschliche-stille/2027-07-11/16:00",
+    "production_id": "staatstheater-augsburg/die-menschliche-stille",
+    "date": "2027-07-11",
+    "time": "16:00",
+    "venue_room": "brechtbühne im Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-09-18/17:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-09-18",
+    "time": "17:00",
+    "venue_room": "Theater Winterthur",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-09-20/12:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-09-20",
+    "time": "12:30",
+    "venue_room": "Theater Winterthur",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-09-23/17:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-09-23",
+    "time": "17:00",
+    "venue_room": "Theater Winterthur",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-09-24/17:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-09-24",
+    "time": "17:00",
+    "venue_room": "Theater Winterthur",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-09-26/17:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-09-26",
+    "time": "17:00",
+    "venue_room": "Theater Winterthur",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-10-10/17:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-10-10",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-10-15/17:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-10-15",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-10-25/17:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-10-25",
+    "time": "17:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-11-20/18:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-11-20",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-12-04/18:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-12-04",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2026-12-19/18:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2026-12-19",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2027-01-17/14:00",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2027-01-17",
+    "time": "14:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/die-verwandlung/2027-02-03/18:30",
+    "production_id": "staatstheater-augsburg/die-verwandlung",
+    "date": "2027-02-03",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/haensel-und-gretel/2026-11-11/09:00",
+    "production_id": "staatstheater-augsburg/haensel-und-gretel",
+    "date": "2026-11-11",
+    "time": "09:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/haensel-und-gretel/2026-11-15/14:00",
+    "production_id": "staatstheater-augsburg/haensel-und-gretel",
+    "date": "2026-11-15",
+    "time": "14:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/haensel-und-gretel/2026-12-01/18:30",
+    "production_id": "staatstheater-augsburg/haensel-und-gretel",
+    "date": "2026-12-01",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/haensel-und-gretel/2026-12-25/17:00",
+    "production_id": "staatstheater-augsburg/haensel-und-gretel",
+    "date": "2026-12-25",
+    "time": "17:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla/2027-05-23/16:00",
+    "production_id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla",
+    "date": "2027-05-23",
+    "time": "16:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla/2027-06-01/17:30",
+    "production_id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla",
+    "date": "2027-06-01",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla/2027-06-11/17:30",
+    "production_id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla",
+    "date": "2027-06-11",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla/2027-07-09/17:30",
+    "production_id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla",
+    "date": "2027-07-09",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla/2027-07-17/17:30",
+    "production_id": "staatstheater-augsburg/il-barbiere-di-siviglia-der-barbier-von-sevilla",
+    "date": "2027-07-17",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-03-20/18:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-03-20",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-03-27/18:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-03-27",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-04-15/17:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-04-15",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-05-30/16:00",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-05-30",
+    "time": "16:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-06-22/17:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-06-22",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-07-14/17:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-07-14",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis/2027-07-30/17:30",
+    "production_id": "staatstheater-augsburg/iphigenie-en-aulide-iphigenie-in-aulis",
+    "date": "2027-07-30",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2026-06-17/17:30",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2026-06-17",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2026-06-28/13:00",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2026-06-28",
+    "time": "13:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2026-11-22/17:00",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2026-11-22",
+    "time": "17:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2026-11-29/17:00",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2026-11-29",
+    "time": "17:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2026-12-27/17:00",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2026-12-27",
+    "time": "17:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest/2027-01-07/18:30",
+    "production_id": "staatstheater-augsburg/la-belle-et-la-bete-die-schoene-und-das-biest",
+    "date": "2027-01-07",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-01-30/18:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-01-30",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-02-12/18:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-02-12",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-03-05/18:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-03-05",
+    "time": "18:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-04-11/13:00",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-04-11",
+    "time": "13:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-05-02/16:00",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-05-02",
+    "time": "16:00",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-06-03/17:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-06-03",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-06-30/17:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-06-30",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/luisa-miller/2027-07-28/17:30",
+    "production_id": "staatstheater-augsburg/luisa-miller",
+    "date": "2027-07-28",
+    "time": "17:30",
+    "venue_room": "martini-Park",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-06-27/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-06-27",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-04/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-04",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-05/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-05",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-07/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-07",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-08/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-08",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-10/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-10",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-12/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-12",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-18/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-18",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-19/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-19",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-22/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-22",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-23/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-23",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-24/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-24",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-25/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-25",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-28/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-28",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-29/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-29",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-30/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-30",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-augsburg/monty-pythons-spamalot/2026-07-31/18:30",
+    "production_id": "staatstheater-augsburg/monty-pythons-spamalot",
+    "date": "2026-07-31",
+    "time": "18:30",
+    "venue_room": "Sommerbühne am Gaswerk",
+    "status": "scheduled"
+  }
+]
