@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "staatstheater-darmstadt",
+    "name": "Staatstheater Darmstadt",
+    "city": "Darmstadt",
+    "country": "DE",
+    "website": "https://www.staatstheater-darmstadt.de",
+    "wikidata": "Q2325343",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Custom webfactory CMS, server-rendered. /spielplan/ '<article class=termin>' rows: termin__anchor → /veranstaltungen/{slug}.{id}/, <h3 class=termin__title>, <time datetime> (ISO), venue span, termin__details first line = genre+composer ('Oper von X'). Keep opera genres (Oper/Operette/Kammeroper/Familienoper/Musiktheater/Kurzopern); composer via composerFromText. Grouped by slug; windowed coverage."
+  },
+  {
     "slug": "oper-halle",
     "name": "Oper Halle",
     "city": "Halle",
