@@ -264,6 +264,28 @@
     "notes": "Adapter implemented (future + wikidata backfill). TYPO3, server-rendered. /programm/musiktheater/{premieren,repertoire} link opera as /produktion/{slug}. Detail: title in '<div class=production-title-large><h3>' (the page h1/<title> are generic 'Produktion'), composer in 'von Composer' subtitle (composerFromText), performances as production-eventlist-item ('.production-eventlist-date' alternates 'Wd DD.MM.YYYY' then 'HH:MM')."
   },
   {
+    "slug": "staatstheater-regensburg",
+    "name": "Theater Regensburg",
+    "city": "Regensburg",
+    "country": "DE",
+    "website": "https://www.staatstheater-regensburg.de",
+    "wikidata": "Q1609618",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Flat-file calendar CMS shared with Theater Aachen via houses/_calendar-cms.ts. Spielplan is client-filtered (no links in static HTML); months come server-rendered from spielplan/musiktheater.html?ajax=1&offset={n} (offset 0=current month, +1/month; August summer break = empty month). Each performance row carries date-{DDMMYY} + sparte-{n} (18=Musiktheater) + produktionen/{slug}.html + 'HH.MM Uhr'. Detail page: title <h1>, composer 'Musik von X' (composerFromText), Besetzung = text-uppercase label + personen/ name links. Rebranded from theaterregensburg.de (301-redirects)."
+  },
+  {
+    "slug": "theater-aachen",
+    "name": "Theater Aachen",
+    "city": "Aachen",
+    "country": "DE",
+    "website": "https://www.theateraachen.de",
+    "wikidata": "Q118434104",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Flat-file calendar CMS shared with Theater Regensburg via houses/_calendar-cms.ts. Months from de/spielplan/musiktheater.html?ajax=1&offset={n}; each performance row has date-{DDMMYY} + sparte-{n} (4=Musiktheater) + produktionen/{slug}.html + 'HH:MM Uhr'. Detail page (de/produktionen/{slug}.html): title <h1>, composer = '… von {Composer}' subtitle after h1 (composerFromText), Besetzung = fw-semibold label + personen/ name links (scoped Besetzung→Termine). Some performances play in Theater Heerlen (NL)."
+  },
+  {
     "slug": "nationaltheater-weimar",
     "name": "Deutsches Nationaltheater Weimar",
     "city": "Weimar",

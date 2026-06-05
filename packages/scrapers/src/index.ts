@@ -29,7 +29,9 @@ import { scrapeStaatstheaterDarmstadt } from "./houses/staatstheater-darmstadt";
 import { scrapeStaatstheaterKassel } from "./houses/staatstheater-kassel";
 import { scrapeStaatstheaterMainz } from "./houses/staatstheater-mainz";
 import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
+import { scrapeStaatstheaterRegensburg } from "./houses/staatstheater-regensburg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
+import { scrapeTheaterAachen } from "./houses/theater-aachen";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
 import { scrapeTheaterErfurt } from "./houses/theater-erfurt";
@@ -81,4 +83,6 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "staatstheater-mainz": scrapeStaatstheaterMainz,
   "nationaltheater-weimar": scrapeNationaltheaterWeimar,
   "staatstheater-braunschweig": scrapeStaatstheaterBraunschweig,
+  "staatstheater-regensburg": scrapeStaatstheaterRegensburg,
+  "theater-aachen": scrapeTheaterAachen,
 };

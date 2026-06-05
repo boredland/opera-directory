@@ -18,6 +18,7 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   "bühne & kostüme": "set-designer",
   "bühne & video": "set-designer",
   "bühne und video": "set-designer",
+  ausstattung: "set-designer",
   kostüme: "costume-designer",
   kostüm: "costume-designer",
   licht: "lighting",
