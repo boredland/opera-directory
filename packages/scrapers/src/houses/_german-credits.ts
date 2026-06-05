@@ -10,6 +10,7 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   "musikalische leitung": "conductor",
   dirigent: "conductor",
   dirigat: "conductor",
+  vorstellungsdirigat: "conductor",
   regie: "director",
   inszenierung: "director",
   bühne: "set-designer",
@@ -40,12 +41,19 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
 /**
  * Pull a composer name out of a free-text credit line like "Oper von Georges Bizet",
  * "Dramma lirico in vier Akten von Verdi", "Familienoper von X nach Y" or
- * "… mit Musik von Richard Wagner und Kindern". Prefers an explicit "Musik von",
- * then a bare "von", and trims the trailing nach/und/mit/für/Libretto/life-dates noise.
+ * "… mit Musik von Richard Wagner und Kindern" or, where the role is tagged after
+ * the name, "von Bertolt Brecht (Text) und Kurt Weill (Musik)". Prefers a "{Name}
+ * (Musik)" tag, then an explicit "Musik von", then a bare "von", and trims the
+ * trailing nach/und/mit/für/Libretto/life-dates noise.
  */
 export function composerFromText(text: string): string | null {
   const t = text.replace(/\s+/g, " ").trim();
-  const m = t.match(/Musik von\s+([A-ZÄÖÜ].*)/) ?? t.match(/\bvon\s+([A-ZÄÖÜ].*)/);
+  // "[^,()]+?" can't cross a paren, so this won't start inside a preceding
+  // "{Librettist} (Text)" — it locks onto the name right before "(Musik)".
+  const m =
+    t.match(/([A-ZÄÖÜ][^,()]+?)\s*\(Musik\)/) ??
+    t.match(/Musik von\s+([A-ZÄÖÜ].*)/) ??
+    t.match(/\bvon\s+([A-ZÄÖÜ].*)/);
   if (!m?.[1]) return null;
   const name = m[1]
     // cut at the next credit/clause — these can be space-separated ("Verdi nach …")
