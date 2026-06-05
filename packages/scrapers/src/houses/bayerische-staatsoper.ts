@@ -90,12 +90,11 @@ async function reconLiveViaProxy(): Promise<void> {
     const res = await fetch(proxyUrl, { headers });
     const body = await res.text();
     console.warn(`münchen-recon: status=${res.status} bytes=${body.length}`);
-    const scripts = [...new Set(body.match(/<script[^>]+src="[^"]+"/g) ?? [])].map((s) => s.match(/src="([^"]+)"/)?.[1]);
-    console.warn(`münchen-recon scripts(${scripts.length}): ${scripts.slice(0, 10).join(" ").slice(0, 500)}`);
-    const apis = [...new Set(body.match(/["'`](?:https?:\/\/[a-z0-9.-]+)?\/[a-z0-9/_.-]*(?:api|graphql|\.json|ajax|index\.php\?[a-z]|dat\/|rest)[a-z0-9/_?=.&-]*["'`]/gi) ?? [])];
-    console.warn(`münchen-recon apis(${apis.length}): ${apis.slice(0, 12).join(" ").slice(0, 500)}`);
-    const dataAttrs = [...new Set((body.match(/data-[a-z-]+="[^"]{0,40}"/g) ?? []).map((s) => s.replace(/\d+/g, "N")))];
-    console.warn(`münchen-recon dataAttrs: ${dataAttrs.slice(0, 16).join(" ").slice(0, 500)}`);
+    const counts = ["Spielplan", "Oper", "Premiere", "Uhr", "Vorstellung", "JavaScript", "noscript", "ng-", "v-", "react", "vue", "Nationaltheater"]
+      .map((k) => `${k}=${(body.match(new RegExp(k, "g")) ?? []).length}`);
+    console.warn(`münchen-recon counts: ${counts.join(" ")}`);
+    const main = body.search(/<main|role="main"|id="content"|id="main"|class="[^"]*content[^"]*main/i);
+    console.warn(`münchen-recon mainAt=${main} sample=${body.slice(main, main + 500).replace(/\s+/g, " ")}`);
   } catch (err) {
     console.warn(`münchen-recon failed: ${err}`);
   }
