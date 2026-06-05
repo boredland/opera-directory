@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "staatstheater-braunschweig",
+    "name": "Staatstheater Braunschweig",
+    "city": "Braunschweig",
+    "country": "DE",
+    "website": "https://staatstheater-braunschweig.de",
+    "wikidata": "Q884234",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). TYPO3, server-rendered. /programm/musiktheater/{premieren,repertoire} link opera as /produktion/{slug}. Detail: title in '<div class=production-title-large><h3>' (the page h1/<title> are generic 'Produktion'), composer in 'von Composer' subtitle (composerFromText), performances as production-eventlist-item ('.production-eventlist-date' alternates 'Wd DD.MM.YYYY' then 'HH:MM')."
+  },
+  {
     "slug": "nationaltheater-weimar",
     "name": "Deutsches Nationaltheater Weimar",
     "city": "Weimar",

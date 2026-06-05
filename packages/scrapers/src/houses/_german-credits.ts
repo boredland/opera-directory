@@ -49,6 +49,9 @@ export function composerFromText(text: string): string | null {
     // or concatenated with no space ("TschaikowskyLibretto …") in stripped markup.
     .split(/\s+(?:nach|und|mit|für|frei nach|u\.\s?a\.)\b/i)[0]
     ?.split(/Libretto|Text von|Choreograf|Inszenierung|Regie\b|Musikalische/)[0]
+    // a German article/verb after the name marks the start of prose (the name
+    // particles von/van/de/di are NOT in this list, so "Carl Maria von Weber" survives).
+    ?.split(/\s+(?:die|der|das|dem|ein|eine|einem|inszeniert|erzählt|wird|in der|auf der)\b/)[0]
     ?.split(/[,(;:/]/)[0]
     ?.replace(/\s+\d.*$/, "") // drop "1893" / "ab 14 Jahren"
     .trim();
