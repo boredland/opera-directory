@@ -45,7 +45,10 @@ export function composerFromText(text: string): string | null {
   const m = t.match(/Musik von\s+([A-ZÄÖÜ].*)/) ?? t.match(/\bvon\s+([A-ZÄÖÜ].*)/);
   if (!m?.[1]) return null;
   const name = m[1]
-    .split(/\s+(?:nach|und|mit|für|frei nach|Libretto|Text|u\.\s?a\.)\b/i)[0]
+    // cut at the next credit/clause — these can be space-separated ("Verdi nach …")
+    // or concatenated with no space ("TschaikowskyLibretto …") in stripped markup.
+    .split(/\s+(?:nach|und|mit|für|frei nach|u\.\s?a\.)\b/i)[0]
+    ?.split(/Libretto|Text von|Choreograf|Inszenierung|Regie\b|Musikalische/)[0]
     ?.split(/[,(;:/]/)[0]
     ?.replace(/\s+\d.*$/, "") // drop "1893" / "ab 14 Jahren"
     .trim();

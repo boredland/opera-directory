@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "theater-erfurt",
+    "name": "Theater Erfurt",
+    "city": "Erfurt",
+    "country": "DE",
+    "website": "https://www.theater-erfurt.de",
+    "wikidata": "Q2415749",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Craft CMS, server-rendered. Opera index /programm/musiktheater links every opera as /stuecke/{slug}. Each detail page: h1 title, composer in '… Musik von X …' subtitle (markup concatenates without spaces, so composerFromText cuts at Libretto/Regie/etc.), dates as <time datetime=YYYY-MM-DD> in .dates-cards (time-of-day not in the date attr). Enumerate slugs from the index, fetch each detail."
+  },
+  {
     "slug": "staatstheater-darmstadt",
     "name": "Staatstheater Darmstadt",
     "city": "Darmstadt",
