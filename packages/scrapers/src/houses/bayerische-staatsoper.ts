@@ -81,24 +81,21 @@ async function reconLiveViaProxy(): Promise<void> {
     return;
   }
   const proxy = { url, token: process.env.FETCH_PROXY_TOKEN };
-  for (const path of ["/spielplan", "/spielplan/oper", "/en/play-schedule"]) {
-    try {
-      const res = await proxyFetch(`https://www.staatsoper.de${path}`, proxy, {
-        headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "de,en;q=0.8" },
-      });
-      const body = await res.text();
-      const cf = /cf_chl|challenge-platform|Just a moment/.test(body);
-      const links = [...new Set(body.match(/\/(?:spielplan|stuecke|produktion)[a-z0-9/_-]*\.?\d*/gi) ?? [])];
-      console.warn(
-        `münchen-recon ${path}: status=${res.status} bytes=${body.length} cf=${cf} ` +
-          `dates=${(body.match(/\d{1,2}\.\d{1,2}\.\d{4}/g) ?? []).length} ` +
-          `jsonld=${(body.match(/ld\+json/g) ?? []).length} links=${links.length}`,
-      );
-      console.warn(`münchen-recon ${path} head: ${body.slice(0, 160).replace(/\s+/g, " ")}`);
-      if (links.length) console.warn(`münchen-recon ${path} links: ${links.slice(0, 6).join(" ")}`);
-    } catch (err) {
-      console.warn(`münchen-recon ${path} failed: ${err}`);
-    }
+  try {
+    const res = await proxyFetch("https://www.staatsoper.de/spielplan", proxy, {
+      headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "de,en;q=0.8" },
+    });
+    const body = await res.text();
+    const markers = ["Intermezzo", "challenge", "__cf", "turnstile", "enable JavaScript", "Bayerische Staatsoper", "_app", "__NUXT", "__NEXT", "window.", "/api", "graphql", "dat/", "Spielplan", "Vorstellung"]
+      .filter((m) => body.includes(m));
+    console.warn(`münchen-recon: status=${res.status} bytes=${body.length} markers=[${markers.join(",")}]`);
+    const apis = [...new Set(body.match(/(https?:\/\/[a-z0-9.-]+)?\/[a-z0-9/_-]*(?:api|graphql|rest|\.json|calendar|events?)[a-z0-9/_?=.&-]*/gi) ?? [])];
+    console.warn(`münchen-recon api-candidates(${apis.length}): ${apis.slice(0, 12).join(" | ").slice(0, 400)}`);
+    const scripts = [...new Set(body.match(/src="[^"]+\.js[^"]*"/g) ?? [])];
+    console.warn(`münchen-recon scripts(${scripts.length}): ${scripts.slice(0, 8).join(" ").slice(0, 400)}`);
+    console.warn(`münchen-recon mid: ${body.slice(2000, 2400).replace(/\s+/g, " ")}`);
+  } catch (err) {
+    console.warn(`münchen-recon failed: ${err}`);
   }
 }
 
