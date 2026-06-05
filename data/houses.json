@@ -538,5 +538,38 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Custom CMS, server-rendered, no proxy. /de/sparten/142-musiktheater lists /de/produktionen/{id}-{slug}. Detail: h1 title; composer from article-production__subtitle 'von {X}' (composerFromText); genre blacklist (musical/liedsoiree/liederabend/comedy/revue/gala) + required composer drop non-opera. Performances: calendar-item aria-label '… DD-MM-YYYY {title}' (→ ISO) + a '{HH:MM} → {HH:MM} Uhr' time and the next <p> venue. Credits: preview-pople-list role label (normalizeGermanCredit → creative, else sung cast) + linked names. WARNING: the site only renders a ~2-month rolling window (query params ignored), so productions outside it show zero dates and are skipped → needs recurring runs for full-season coverage; Wikidata backfill for history."
+  },
+  {
+    "slug": "theater-osnabrueck",
+    "name": "Theater Osnabrück",
+    "city": "Osnabrück",
+    "country": "DE",
+    "website": "https://www.theater-osnabrueck.de",
+    "wikidata": "Q2415927",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Server-rendered, no proxy. /spielplan/ is one page holding the whole season as mod-teaser--kalender blocks, one per performance, with data-sp-* attributes: data-sp-sparte (keep Oper/Operette), data-sp-stueck (title), data-sp-day (DD-MM-YYYY), data-sp-ort (venue), an h3 '{genre} von {Composer}' (composerFromText) and 'Beginn: HH:MM'. Group performances by the numeric id in their /veranstaltung/{slug}/{id}/{perfId} link. Detail page's 'Team & Besetzung' accordion lists 'Label: Name' lines → cast (character roles) + creative (German labels via normalizeGermanCredit); skip work-credit labels (Komponist/Libretto). Required composer drops the Operngala. Future/season-only → Wikidata backfill."
+  },
+  {
+    "slug": "stadttheater-bremerhaven",
+    "name": "Stadttheater Bremerhaven",
+    "city": "Bremerhaven",
+    "country": "DE",
+    "website": "https://stadttheaterbremerhaven.de",
+    "wikidata": "Q1355204",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3, server-rendered, no proxy. Sparte filter is a query param: /spielplan/?kategorie=Musiktheater returns the whole opera season in one page (NO per-row marker; do NOT combine with &monat — yields 0). Rows link to /{slug}/ detail pages: h1 title, an '{genre} von {Composer}' subtitle right after it (composerFromText; required → drops the no-composer 'Gold!'), termin blocks 'DD.MM.YYYY um HH:MM Uhr', and a mitwirkende creative team (all creative — no sung cast published; unknown labels kept verbatim, 'N. N.' skipped). Venue from the listing row 'HH:MM Uhr // {venue}'. Future/season-only → Wikidata backfill."
+  },
+  {
+    "slug": "volkstheater-rostock",
+    "name": "Volkstheater Rostock",
+    "city": "Rostock",
+    "country": "DE",
+    "website": "https://www.volkstheater-rostock.de",
+    "wikidata": "Q1805969",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "spiritec CMS, no proxy. Spielplan fed by /callbacks/getschedule.json?filter=musiktheater/&loadForwardFrom={YYYY-MM-01} — one month of performance HTML per call (schema.org Microdata <meta itemprop=startDate> + /spielplan/monatsplan/musiktheater/{slug}/{perfId}/ link); walk ~14 months forward, group by slug. The 'musiktheater' sparte is MIXED (musical/dance/song) → fetch each detail and keep only when production__author reads 'Oper/Operette … von {Composer}' (composerFromText), excluding musical/tanztheater. Detail: h1 title, crew__item creative team (no sung cast). Future/season-only → Wikidata backfill."
   }
 ]
