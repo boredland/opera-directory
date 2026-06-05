@@ -54,6 +54,7 @@ export async function scrapeBayerischeStaatsoper(
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
+    if (!res.parse?.text) console.warn(`münchen: API response keys=${JSON.stringify(res).slice(0, 200)}`);
     productions.push(...parsePremieres(res.parse?.text ?? "", window));
   } catch (err) {
     console.warn("bayerische-staatsoper: wikipedia import failed:", err);
