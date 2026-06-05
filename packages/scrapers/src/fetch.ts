@@ -145,11 +145,12 @@ async function ensureContext(userAgent: string) {
   // headless tells (navigator.webdriver, missing window.chrome / plugins) gets the
   // real page — verified against staatsoper.de.
   await _context.addInitScript(() => {
-    Object.defineProperty(navigator, "webdriver", { get: () => undefined });
-    Object.defineProperty(navigator, "languages", { get: () => ["de-DE", "de", "en"] });
-    Object.defineProperty(navigator, "plugins", { get: () => [1, 2, 3, 4, 5] });
-    // biome-ignore lint/suspicious/noExplicitAny: minimal chrome shim for bot checks
-    (window as any).chrome = { runtime: {} };
+    // biome-ignore lint/suspicious/noExplicitAny: this closure runs in the browser, not Node
+    const g: any = globalThis;
+    Object.defineProperty(g.navigator, "webdriver", { get: () => undefined });
+    Object.defineProperty(g.navigator, "languages", { get: () => ["de-DE", "de", "en"] });
+    Object.defineProperty(g.navigator, "plugins", { get: () => [1, 2, 3, 4, 5] });
+    g.chrome = { runtime: {} };
   });
   return _context;
 }

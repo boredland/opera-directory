@@ -13,19 +13,19 @@ import { normalizeGermanCredit } from "./_german-credits";
 /**
  * Bayerische Staatsoper München.
  *
- * The live site staatsoper.de is locked down hard: a JS-execution challenge (the
- * fetch-proxy's FlareSolverr solves it via `&solve=1`), but even past that the
- * origin serves automated clients an "EIN HOFFENTLICH KURZES INTERMEZZO!"
- * maintenance/bot-fallback page instead of the spielplan (real browsers get the
- * content). So the live spielplan stays out of reach. The historical premiere
- * casts, however, are maintained on
- * Wikipedia ("Premierenbesetzungen der Bayerischen Staatsoper ab 2014", covering
- * the 2013/14–2017/18 seasons). We import them: each premiere is a `colspan` title
- * row ("Work, … Musik von Composer / Composer (Musik), DD. Monat YYYY") followed by
- * a 4-column detail row (Dirigent·Chorleiter | Regie·Ausstattung·Licht |
- * Sängerinnen | Sänger), where each person is `<a>Name</a> <small><i>Role</i></small>`.
- * Wikidata (P1191) backfills further premieres. Live spielplan TODO (needs a
- * Cloudflare-solving fetch path).
+ * staatsoper.de serves a JS-execution challenge and, past it, an "EIN HOFFENTLICH
+ * KURZES INTERMEZZO!" bot-fallback to anything that looks headless. A STEALTH
+ * headless render (renderHtml masks navigator.webdriver / window.chrome / plugins)
+ * gets the real page — verified from both a residential IP and the CI runner. Three
+ * data sources, combined:
+ *   1. Live spielplan — render /spielplan, parse the `.activity-list__row` entries
+ *      (genre filtered to Oper; slug + date + time from the /stuecke/ URL; title +
+ *      composer + venue from the row). Cast isn't in the listing.
+ *   2. Historical premiere casts (2013/14–2017/18) from the Wikipedia list
+ *      "Premierenbesetzungen der Bayerischen Staatsoper ab 2014": a `colspan` title
+ *      row ("Work, … Musik von Composer / Composer (Musik), DD. Monat YYYY") + a
+ *      4-column Dirigent·Chorleiter | Regie | Sängerinnen | Sänger detail row.
+ *   3. Wikidata (P1191) backfill (in backfill mode).
  */
 
 const WIKI_PAGE = "Premierenbesetzungen_der_Bayerischen_Staatsoper_ab_2014";
@@ -55,20 +55,19 @@ export async function scrapeBayerischeStaatsoper(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
+  const productions: RawProduction[] = [];
+
+  // Live spielplan: a stealth headless render gets the real page (a plain fetch or a
+  // non-stealth headless browser is served the "Intermezzo" bot-fallback).
   try {
     const html = await renderHtml("https://www.staatsoper.de/spielplan", ctx, { waitMs: 6000 });
-    const intermezzo = /INTERMEZZO/i.test(html);
-    const rows = (html.match(/activity-list__content/g) ?? []).length;
-    const operaRows = (html.match(/&quot;name&quot;:&quot;Oper&quot;/g) ?? []).length;
-    console.warn(
-      `münchen-render: chrome=${process.env.CHROME_PATH ?? "managed"} bytes=${html.length} ` +
-        `intermezzo=${intermezzo} rows=${rows} operaFilters=${operaRows}`,
-    );
+    if (/INTERMEZZO/i.test(html)) console.warn("bayerische-staatsoper: live got the bot-fallback");
+    else productions.push(...parseSpielplan(html, window));
   } catch (err) {
-    console.warn(`münchen-render failed: ${err}`);
+    console.warn("bayerische-staatsoper: live render failed:", err);
   }
 
-  const productions: RawProduction[] = [];
+  // Historical premiere casts (2013/14–2017/18) from the Wikipedia list.
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
     productions.push(...parsePremieres(res.parse?.text ?? ""));
@@ -84,6 +83,74 @@ export async function scrapeBayerischeStaatsoper(
     }
   }
   return { house_slug: "bayerische-staatsoper", productions };
+}
+
+/**
+ * Live spielplan (stealth-rendered): `.activity-list__row` per performance. Each row's
+ * `data-schedule-filter` carries the genre `type` (keep "Oper"); the content anchor
+ * `/stuecke/{slug}/{YYYY-MM-DD}-{HHMM}-{id}` gives slug + date + time; the row has the
+ * title (`<span class="h3">`), composer (first `<p>` in the toggle) and venue
+ * ("HH.MM Uhr | Venue"). Grouped by slug. Cast isn't in the listing (would need each
+ * detail page) — left to the Wikipedia premieres / future enrichment. Coverage is the
+ * rendered window (the list lazy-loads further on scroll).
+ */
+function parseSpielplan(html: string, window: ScrapeWindow): RawProduction[] {
+  const today = new Date().toISOString().slice(0, 10);
+  const byslug = new Map<
+    string,
+    { title: string; composer: string | null; venue: string | null; perfs: RawPerformance[] }
+  >();
+
+  for (const row of html.split(/class="activity-list__row"/).slice(1)) {
+    const head = row.slice(0, 700);
+    if (!/&quot;name&quot;:&quot;Oper&quot;/.test(head)) continue; // genre filter
+    const link = row.match(
+      /href="\/stuecke\/([a-z0-9-]+)\/(\d{4}-\d{2}-\d{2})-(\d{2})(\d{2})-\d+"/,
+    );
+    if (!link) continue;
+    const [, slug, date, hh, mm] = link;
+    if (!slug || !date) continue;
+    if (window.since && date < window.since) continue;
+
+    let entry = byslug.get(slug);
+    if (!entry) {
+      entry = {
+        title: stripHtml(row.match(/<span class="h3">([\s\S]*?)<\/span>/)?.[1] ?? ""),
+        composer: stripHtml(row.match(/toggle__content"><p>([^<]*)</)?.[1] ?? "") || null,
+        venue: stripHtml(row.match(/Uhr\s*\|\s*([^<]+)<\/span>/)?.[1] ?? "") || null,
+        perfs: [],
+      };
+      byslug.set(slug, entry);
+    }
+    entry.perfs.push({
+      date: date as IsoDate,
+      time: `${hh}:${mm}`,
+      venue_room: entry.venue,
+      status: date < today ? "past" : "scheduled",
+    });
+  }
+
+  const out: RawProduction[] = [];
+  for (const [slug, e] of byslug) {
+    if (!e.title || e.perfs.length === 0) continue;
+    const seen = new Set<string>();
+    const perfs = e.perfs
+      .filter((p) => {
+        const k = `${p.date}|${p.time ?? ""}`;
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      })
+      .sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+    out.push({
+      source_production_id: `live/${slug}`,
+      work_title: e.title,
+      composer_name: e.composer,
+      detail_url: `https://www.staatsoper.de/stuecke/${slug}`,
+      performances: perfs,
+    });
+  }
+  return out;
 }
 
 function parsePremieres(html: string): RawProduction[] {
