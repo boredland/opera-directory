@@ -380,6 +380,11 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "bernd-alois-zimmermann/die-soldaten",
+    "title": "Die Soldaten",
+    "composer_slug": "bernd-alois-zimmermann"
+  },
+  {
     "slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
     "title": "Die Dreigroschenoper",
     "composer_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei"
@@ -442,6 +447,11 @@
   {
     "slug": "carl-maria-von-weber/der-freischutz-fur-kinder",
     "title": "Der Freischütz für Kinder",
+    "composer_slug": "carl-maria-von-weber"
+  },
+  {
+    "slug": "carl-maria-von-weber/oberon-konig-der-elfen",
+    "title": "Oberon, König der Elfen",
     "composer_slug": "carl-maria-von-weber"
   },
   {
@@ -550,6 +560,11 @@
     "composer_slug": "das-programm-der-konzertreise-nach-rio"
   },
   {
+    "slug": "der-feurige-engel",
+    "title": "Der feurige Engel",
+    "composer_slug": ""
+  },
+  {
     "slug": "der-musiker-und-autor-omer-meir-wellber-ein-portrat",
     "title": "Der Musiker und Autor Omer Meir Wellber – Ein Porträt",
     "composer_slug": ""
@@ -590,6 +605,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "die-meistersinger-von-nurnberg",
+    "title": "Die Meistersinger von Nürnberg",
+    "composer_slug": ""
+  },
+  {
     "slug": "die-mowe",
     "title": "Die Möwe",
     "composer_slug": ""
@@ -598,6 +618,11 @@
     "slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
     "title": "Familienführung",
     "composer_slug": "die-welt-hinter-den-kulissen-entdecken"
+  },
+  {
+    "slug": "dmitri-schostakowitsch/lady-macbeth-von-mzensk",
+    "title": "Lady Macbeth von Mzensk",
+    "composer_slug": "dmitri-schostakowitsch"
   },
   {
     "slug": "don-giovanni-justin-bieber-remix",
@@ -895,6 +920,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "franz-schreker/die-gezeichneten",
+    "title": "Die Gezeichneten",
+    "composer_slug": "franz-schreker"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady",
     "title": "My Fair Lady",
     "composer_slug": "frederick-loewe"
@@ -913,6 +943,11 @@
     "slug": "friedrich-schiller/kabale-und-liebe",
     "title": "Kabale und Liebe",
     "composer_slug": "friedrich-schiller"
+  },
+  {
+    "slug": "fromental-halevy/la-juive",
+    "title": "La Juive",
+    "composer_slug": "fromental-halevy"
   },
   {
     "slug": "fuhrung",
@@ -990,6 +1025,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/la-favorite",
+    "title": "La Favorite",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/la-mamma",
     "title": "La Mamma!",
     "composer_slug": "gaetano-donizetti"
@@ -1055,6 +1095,11 @@
     "composer_slug": "georges-bizet"
   },
   {
+    "slug": "giacomo-puccini/il-trittico",
+    "title": "Il trittico",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme",
     "title": "La bohème",
     "composer_slug": "giacomo-puccini"
@@ -1083,6 +1128,11 @@
     "slug": "giacomo-puccini/turandot",
     "title": "Turandot",
     "composer_slug": "giacomo-puccini"
+  },
+  {
+    "slug": "gian-carlo-menotti/the-consul",
+    "title": "The Consul",
+    "composer_slug": "gian-carlo-menotti"
   },
   {
     "slug": "gioacchino-rossini/ein-fall-fur-figaro",
@@ -1127,6 +1177,16 @@
   {
     "slug": "gioachino-rossini/la-cenerentola",
     "title": "La Cenerentola",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/le-comte-ory",
+    "title": "Le comte Ory",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/semiramide",
+    "title": "Semiramide",
     "composer_slug": "gioachino-rossini"
   },
   {
@@ -1338,6 +1398,11 @@
     "slug": "jacques-offenbach/les-contes-d-hoffmann",
     "title": "Les Contes d’Hoffmann",
     "composer_slug": "jacques-offenbach"
+  },
+  {
+    "slug": "jean-philippe-rameau/les-indes-galantes",
+    "title": "Les Indes galantes",
+    "composer_slug": "jean-philippe-rameau"
   },
   {
     "slug": "jerry-bock-musik/anatevka",
@@ -1640,6 +1705,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "lucia-di-lammermoor",
+    "title": "Lucia di Lammermoor",
+    "composer_slug": ""
+  },
+  {
     "slug": "lucia-ronchetti-1963/battaglia-die-frauen-von-palermo",
     "title": "Battaglia – Die Frauen von Palermo",
     "composer_slug": "lucia-ronchetti-1963"
@@ -1657,6 +1727,11 @@
   {
     "slug": "lunchkonzert-musikalische-mittagspausen",
     "title": "Lunchkonzert, Musikalische Mittagspausen",
+    "composer_slug": ""
+  },
+  {
+    "slug": "manon-lescaut",
+    "title": "Manon Lescaut",
     "composer_slug": ""
   },
   {
@@ -1702,6 +1777,11 @@
   {
     "slug": "meet-the-artists-jurgen-sacher",
     "title": "Meet the Artists: Jürgen Sacher",
+    "composer_slug": ""
+  },
+  {
+    "slug": "mefistofele",
+    "title": "Mefistofele",
     "composer_slug": ""
   },
   {
@@ -2100,6 +2180,11 @@
     "composer_slug": "rebecca-fritzsche-nazli-saremi"
   },
   {
+    "slug": "richard-strauss/arabella",
+    "title": "Arabella",
+    "composer_slug": "richard-strauss"
+  },
+  {
     "slug": "richard-strauss/ariadne-auf-naxos",
     "title": "Ariadne auf Naxos",
     "composer_slug": "richard-strauss"
@@ -2107,6 +2192,11 @@
   {
     "slug": "richard-strauss/der-rosenkavalier",
     "title": "Der Rosenkavalier",
+    "composer_slug": "richard-strauss"
+  },
+  {
+    "slug": "richard-strauss/die-frau-ohne-schatten",
+    "title": "Die Frau ohne Schatten",
     "composer_slug": "richard-strauss"
   },
   {
@@ -2142,6 +2232,11 @@
   {
     "slug": "richard-wagner/siegfried",
     "title": "Siegfried",
+    "composer_slug": "richard-wagner"
+  },
+  {
+    "slug": "richard-wagner/tannhauser",
+    "title": "Tannhäuser",
     "composer_slug": "richard-wagner"
   },
   {
@@ -2340,6 +2435,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "south-pole",
+    "title": "South Pole",
+    "composer_slug": ""
+  },
+  {
     "slug": "spielclub-musiktheater/yo-soy-maria-ich-bin-maria",
     "title": "Yo soy María - Ich bin María",
     "composer_slug": "spielclub-musiktheater"
@@ -2490,6 +2590,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "umberto-giordano/andrea-chenier",
+    "title": "Andrea Chénier",
+    "composer_slug": "umberto-giordano"
+  },
+  {
+    "slug": "un-ballo-in-maschera",
+    "title": "Un ballo in maschera",
+    "composer_slug": ""
+  },
+  {
     "slug": "under-the-greenwood-tree",
     "title": "„Under the greenwood tree“",
     "composer_slug": ""
@@ -2502,6 +2612,11 @@
   {
     "slug": "utopia",
     "title": "Utopia",
+    "composer_slug": ""
+  },
+  {
+    "slug": "vec-makropulos",
+    "title": "Věc Makropulos",
     "composer_slug": ""
   },
   {
@@ -2632,6 +2747,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/idomeneo",
     "title": "Idomeneo",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito",
+    "title": "La clemenza di Tito",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
