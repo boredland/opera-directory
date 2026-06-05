@@ -1,26 +1,33 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchHtml, proxyFetch, stripHtml } from "../fetch";
-import type { HouseScrapeResult, RawCredit, RawProduction, ScrapeWindow } from "../types";
+import { decodeEntities, type FetchContext, fetchHtml, proxyFetch, stripHtml } from "../fetch";
+import type {
+  HouseScrapeResult,
+  RawCredit,
+  RawPerformance,
+  RawProduction,
+  ScrapeWindow,
+} from "../types";
 
 /**
- * Metropolitan Opera — archive importer (gold-standard public DB, back to 1883).
+ * Metropolitan Opera — two sources, one per leg of the timeline:
  *
- * The MetOpera Database (archives.metopera.org) is performance-centric: a JSP app
- * where `search.jsp?date_start=&date_end=` returns every performance in a window
- * (one response per season, no paging), and `record.jsp?dockey=` carries the full
- * cast + creative team + composer for one performance.
+ *   - Announced future (both modes): the live current + next season off
+ *     metopera.org (see "Live season" below).
+ *   - Deep archive (backfill only): the MetOpera Database, the gold-standard
+ *     public DB back to 1883 (see "Archive" below).
  *
- * We turn that into our production-centric model cheaply:
+ * Archive. archives.metopera.org is performance-centric: `search.jsp?date_start=
+ * &date_end=` returns every performance in a window (one response per season, no
+ * paging), and `record.jsp?dockey=` carries the full cast + creative + composer
+ * for one performance. We fold that into our production-centric model cheaply:
  *   1. Walk season by season (cheap list): CID, work title, date, venue, and the
  *      "New Production" flag that marks the start of a staging.
  *   2. Group performances into productions — a New Production (or a work's first
  *      appearance in the walked range) opens one; later performances attach.
  *   3. Fetch record.jsp ONCE per production (its premiere) for cast/creative/
  *      composer — they're production-level, so one fetch covers the whole run.
- *
- * Backfill-only: this is deep history. The Met's *current* season is better taken
- * live (jsonld-event, TODO); an incremental run here is a no-op. A full 1883→today
- * import is a long one-off — bound it with `--since` (e.g. `--backfill --since=1990-01-01`).
+ * It's deep history, so only the backfill run walks it (incremental would re-fetch
+ * decades nightly); bound a full import with `--since` (e.g. `--since=1990-01-01`).
  */
 
 const SEARCH_URL = "https://archives.metopera.org/MetOperaSearch/search.jsp";
@@ -31,22 +38,193 @@ export async function scrapeMetropolitanOpera(
   ctx: FetchContext,
   window: ScrapeWindow,
 ): Promise<HouseScrapeResult> {
-  if (window.mode !== "backfill") {
-    console.warn("metropolitan-opera: archive is backfill-only; incremental run is a no-op");
-    return { house_slug: "metropolitan-opera", productions: [] };
+  const productions: RawProduction[] = [];
+
+  // Announced future — always emit it, regardless of window/mode.
+  try {
+    productions.push(...(await scrapeLiveSeasons(ctx)));
+  } catch (err) {
+    console.warn("metropolitan-opera: live season scrape failed:", err);
   }
 
-  const rows = await walkSeasons(ctx, window);
-  const productions = groupIntoProductions(rows, window);
-  for (const prod of productions) {
-    try {
-      await enrichFromRecord(ctx, prod);
-    } catch (err) {
-      console.warn(`metropolitan-opera: record ${prod.source_production_id} failed:`, err);
+  // Deep archive — backfill only; an incremental run must not re-walk it.
+  if (window.mode === "backfill") {
+    const rows = await walkSeasons(ctx, window);
+    const archived = groupIntoProductions(rows, window);
+    for (const prod of archived) {
+      try {
+        await enrichFromRecord(ctx, prod);
+      } catch (err) {
+        console.warn(`metropolitan-opera: record ${prod.source_production_id} failed:`, err);
+      }
     }
+    productions.push(...archived);
   }
+
   return { house_slug: "metropolitan-opera", productions };
 }
+
+// ── Live current + next season (metopera.org) ────────────────────────────────
+//
+// The archive only holds performed nights; the announced future lives on
+// metopera.org. Each season has an index grid (/season/{slug}/) linking its
+// productions, and every production page carries one hidden JSON blob
+// (`#hdnCastMembers`) seeding an Angular cast widget: the conductor + sung cast
+// and, per person, the exact local-time (ET) dates they perform. So one fetch per
+// production yields title, composer, cast, conductor and the full date list.
+//
+// The grid also lists concerts and recitals (a Mahler symphony, a song recital).
+// We keep only stagings, detected by the presence of a named character role —
+// concerts bill their singers as "Soloist", or list none at all.
+
+const LIVE_BASE = "https://www.metopera.org";
+
+interface LiveCastMember {
+  name?: string;
+  bioPageLink?: string;
+  numberlessRole?: string;
+  role?: string;
+  performanceDates?: string[];
+}
+
+async function scrapeLiveSeasons(ctx: FetchContext): Promise<RawProduction[]> {
+  const today = new Date().toISOString().slice(0, 10);
+  const out: RawProduction[] = [];
+
+  for (const season of currentSeasonSlugs()) {
+    let slugs: string[];
+    try {
+      slugs = parseSeasonIndex(await fetchHtml(`${LIVE_BASE}/season/${season}/`, ctx), season);
+    } catch (err) {
+      console.warn(`metropolitan-opera: season index ${season} failed:`, err);
+      continue;
+    }
+    let kept = 0;
+    for (const slug of slugs) {
+      try {
+        const html = await fetchHtml(`${LIVE_BASE}/season/${season}/${slug}/`, ctx);
+        const prod = parseLiveProduction(html, season, slug, today);
+        if (prod) {
+          out.push(prod);
+          kept++;
+        }
+      } catch (err) {
+        console.warn(`metropolitan-opera: live ${season}/${slug} failed:`, err);
+      }
+    }
+    console.log(
+      `metropolitan-opera: live ${season} → ${kept}/${slugs.length} grid items are operas`,
+    );
+  }
+  return out;
+}
+
+/** The current season plus the next: US seasons start in September, so before
+ *  then we're still in the {Y-1}/{Y} season. Slug form "2025-26-season". */
+function currentSeasonSlugs(): string[] {
+  const now = new Date();
+  const start = now.getUTCMonth() >= 8 ? now.getUTCFullYear() : now.getUTCFullYear() - 1;
+  const slug = (s: number) => `${s}-${String((s + 1) % 100).padStart(2, "0")}-season`;
+  return [slug(start), slug(start + 1)];
+}
+
+/** Production cards on the season index link to /season/{slug}/{prod}/ — one path
+ *  segment past the season root (so the root itself, ABT and special-presentation
+ *  paths, which sit under different segments, are excluded). */
+function parseSeasonIndex(html: string, season: string): string[] {
+  const slugs = new Set<string>();
+  const re = new RegExp(`href="/season/${escapeRegex(season)}/([^"/]+)/"`, "g");
+  for (const m of html.matchAll(re)) if (m[1]) slugs.add(m[1]);
+  return [...slugs];
+}
+
+function parseLiveProduction(
+  html: string,
+  season: string,
+  slug: string,
+  today: string,
+): RawProduction | null {
+  const cast: RawCredit[] = [];
+  const creative: RawCredit[] = [];
+  const seenCast = new Set<string>();
+  const seenCreative = new Set<string>();
+  const dates = new Set<string>();
+
+  for (const m of parseCastMembers(html)) {
+    const name = stripHtml(m.name ?? "");
+    const role = (m.numberlessRole ?? m.role ?? "").trim();
+    if (!name) continue;
+    for (const d of m.performanceDates ?? []) dates.add(d);
+
+    const fn = LIVE_CREATIVE[role.toLowerCase()];
+    if (fn) {
+      const key = `${fn}|${name}`;
+      if (!seenCreative.has(key)) {
+        seenCreative.add(key);
+        creative.push({ function: fn, name });
+      }
+    } else if (role && role !== "Soloist") {
+      const key = `${role}|${name}`;
+      if (!seenCast.has(key)) {
+        seenCast.add(key);
+        cast.push({ role, name });
+      }
+    }
+  }
+
+  // No named character role ⇒ a concert/recital sharing the season grid, not a
+  // staging. Skip it.
+  if (cast.length === 0) return null;
+
+  const performances: RawPerformance[] = [...dates]
+    .map((d): RawPerformance | null => {
+      const [date, time] = d.split("T");
+      if (!date) return null;
+      return {
+        date: date as IsoDate,
+        time: time ? time.slice(0, 5) : null,
+        status: date < today ? "past" : "scheduled",
+      };
+    })
+    .filter((p): p is RawPerformance => p !== null)
+    .sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+
+  const title = stripHtml(html.match(/pdp-hero-box-text">([\s\S]*?)<\/h1>/)?.[1] ?? "");
+  const composer = stripHtml(html.match(/pdp-hero-box-composer">([^<]*)</)?.[1] ?? "") || null;
+  if (!title || performances.length === 0) return null;
+
+  return {
+    source_production_id: `met-live/${season}/${slug}`,
+    work_title: title,
+    composer_name: composer,
+    detail_url: `${LIVE_BASE}/season/${season}/${slug}/`,
+    creative_team: creative,
+    cast,
+    performances,
+  };
+}
+
+/** The cast widget is seeded from a single hidden input whose HTML-encoded value
+ *  is the JSON array; the value attribute precedes the id in the tag. */
+function parseCastMembers(html: string): LiveCastMember[] {
+  const idIdx = html.indexOf('id="hdnCastMembers"');
+  if (idIdx < 0) return [];
+  const start = html.lastIndexOf("<input", idIdx);
+  const raw =
+    start < 0 ? null : (html.slice(start, idIdx).match(/value="([\s\S]*?)"/)?.[1] ?? null);
+  if (!raw) return [];
+  try {
+    return JSON.parse(decodeEntities(raw)) as LiveCastMember[];
+  } catch {
+    return [];
+  }
+}
+
+/** The only production-team function the live blob carries (director/designers
+ *  aren't structured on the page); everything else in it is sung cast. */
+const LIVE_CREATIVE: Record<string, string> = {
+  conductor: "conductor",
+};
 
 // ── Season walk + result-list parsing ───────────────────────────────────────
 

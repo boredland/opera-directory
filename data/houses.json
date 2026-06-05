@@ -359,9 +359,8 @@
     "website": "https://www.staatstheater.saarland",
     "wikidata": "Q208805",
     "strategy": "spielplan-html",
-    "enabled": false,
-    "proxy": true,
-    "notes": "PARKED: adapter implemented but /detail/ pages 403 in bursts even through the proxy's residential IP — an anti-bot rate-limit trips after the first few of the ~74 detail fetches (the /produktionen index is fine). Needs a gentler approach (per-request delays / a session cookie / render mode) or a different data source. TYPO3, server-rendered. /produktionen links every production as /detail/{slug} (all divisions; sparte filter is client-side). Fetch each detail, keep those whose <title> is 'Title | Musiktheater | …'; h1 title, subtitle 'Oper/Operette von Composer' (composerFromText), Termine dates as plain DD.MM.YYYY. ~74 detail fetches (filtered to opera)."
+    "enabled": true,
+    "notes": "TYPO3, single direct fetch of /produktionen (no proxy needed). Was PARKED on an anti-bot 403 rate-limit — the old design fetched all ~74 /detail/{slug} pages and tripped it. Fixed by parsing the index ALONE: each card carries <h2> title, teaser '{genre} von {Composer}' (composerFromText, which now also reads a '{Name} (Musik)' tag, e.g. Dreigroschenoper → Weill), sparte + venue (<b> after the map-marker icon), and a collapsed #allEvents-{id} block listing each upcoming perf as <span class=singleEventDate><b>{Weekday}, {DD}. {Mon},</b> {HH:MM} Uhr</span> + an eventim ticket link. Opera filter: teaser contains 'oper' (drops Musical/Schauspiel/Ballett). Dates are yearless + upcoming-only → infer year (this year, else next). Future-only → Wikidata backfill. NB seasonal: between seasons the index shows few/no upcoming opera dates (e.g. June 2026 → 2). Split on '<div class=\"singleEvent' NOT 'class=\"singleEvent' (would also split the inner singleEventDate span)."
   },
   {
     "slug": "staatstheater-kassel",
@@ -482,8 +481,8 @@
     "website": "https://www.metopera.org",
     "wikidata": "Q10583424",
     "strategy": "jsonld-event",
-    "enabled": false,
-    "notes": "Archive importer IMPLEMENTED (backfill-only): houses/metropolitan-opera.ts walks archives.metopera.org season by season (search.jsp date_start/date_end, one response per season), groups performances into productions on the 'New Production' flag, and enriches each from record.jsp (cast + creative team + composer). Full 1883→today is a long one-off — bound with --since. Live current season (jsonld-event from metopera.org calendar JSON) is still TODO; incremental runs here are a no-op. enabled:false so it stays out of the nightly run."
+    "enabled": true,
+    "notes": "Two sources in houses/metropolitan-opera.ts. LIVE (both modes, no proxy): the current + next season off metopera.org — derive the season slugs from today (US seasons start Sept), read each /season/{slug}/ grid for production slugs, then one fetch per production page. Each carries a hidden #hdnCastMembers JSON (the Angular cast widget seed): composer (.pdp-hero-box-composer), title (.pdp-hero-box-text), conductor + sung cast, and per-person local-time (ET) performanceDates — union = the full run. The grid also lists concerts/recitals (Mahler symphony, song recital); kept only if there's a named character role (concerts bill singers as 'Soloist' or none). Director/designers aren't structured on the live page — only conductor; full creative comes from the archive/merge. ARCHIVE (backfill only): walks archives.metopera.org season by season (search.jsp date_start/date_end), groups on the 'New Production' flag, enriches each from record.jsp (full cast+creative+composer). Full 1883→today is a long one-off — bound with --since."
   },
   {
     "slug": "teatro-alla-scala",
@@ -495,5 +494,49 @@
     "strategy": "jsonld-event",
     "enabled": false,
     "notes": "Archivio storico Ricordi + La Scala's own archive for past seasons. Live cartellone has structured event data."
+  },
+  {
+    "slug": "oper-wuppertal",
+    "name": "Oper Wuppertal",
+    "city": "Wuppertal",
+    "country": "DE",
+    "website": "https://www.oper-wuppertal.de",
+    "wikidata": "Q2595154",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Opera arm of the Wuppertaler Bühnen. Spielplan pages are a JS shell over a c4c.it API Platform/Hydra backend (api.wb.c4c.it) — hit directly, no proxy. Branch 1 = Oper (2 Schauspiel, 6 Tanztheater Pina Bausch excluded). GET /api/performances?production.branch.id=1&startDateTime[after]={since} (paged 30/page, Accept application/ld+json), group by nested production.@id. Title + composer from production.shortDescription 'von {X}' (composerFromText). The Oper branch also lists non-works (quiz/film/gala/intro) which carry no composer → requiring one filters them. No cast/creative exposed anywhere → future-only + Wikidata backfill."
+  },
+  {
+    "slug": "theater-hagen",
+    "name": "Theater Hagen",
+    "city": "Hagen",
+    "country": "DE",
+    "website": "https://www.theaterhagen.de",
+    "wikidata": "Q546897",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3, server-rendered, no proxy. Musiktheater sparte listing /stueckekonzerte/theaterhagen/musiktheater/ → li.play-list-item (h2 title, 'Genre von Composer' subtitle, /veranstaltung/{slug}-{id}/0/show/Play/ link); current vs next season split by the #next-season anchor. Opera filter on the subtitle genre (oper/operette/musiktheater; drops musical/rock/show), with a detail-page work-info fallback for a composer-only double-bill subtitle (Cavalleria/Pagliacci). Detail: ul.termine-cards <h3> 'Wd. DD. MM. / HH:MM Uhr' (YEAR not in text → derived from the season: month>=8 → start year else +1), venue on the line after </h3></a>; div.besetzung span.role+span.actor (German labels via normalizeGermanCredit → creative, else sung cast). Future/season-only → Wikidata backfill."
+  },
+  {
+    "slug": "theater-krefeld-moenchengladbach",
+    "name": "Theater Krefeld und Mönchengladbach",
+    "city": "Krefeld",
+    "country": "DE",
+    "website": "https://theater-kr-mg.de",
+    "wikidata": "Q1626214",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Gemeinschaftstheater of both cities. WordPress, server-rendered, no proxy (WP REST exposes productions but with empty bodies → use HTML). /sparte/musiktheater/ lists detail links /spielplan/{slug}/ (exclude /spielplan/spielzeit/). Detail: h1.production-header__title; composer from first production-header__subtitle-item '// Musik von {X}' (composerFromText); branch must contain 'Musiktheater'; genre blacklist (musical/oratorium/konzert/gala) + required composer drop non-opera. Performances: time.date[datetime='YYYY-MM-DD HH:MM'] + performance__location venue (Krefeld and MG venues intermix). Cast/creative: member-teaser under Leitung (creative) / Besetzung (cast) divisions; a Leitung label unknown to the German map is still kept as a creative function. Detail pages render only upcoming → Wikidata backfill for history."
+  },
+  {
+    "slug": "theater-heidelberg",
+    "name": "Theater und Orchester Heidelberg",
+    "city": "Heidelberg",
+    "country": "DE",
+    "website": "https://www.theaterheidelberg.de",
+    "wikidata": "Q2415680",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Custom CMS, server-rendered, no proxy. /de/sparten/142-musiktheater lists /de/produktionen/{id}-{slug}. Detail: h1 title; composer from article-production__subtitle 'von {X}' (composerFromText); genre blacklist (musical/liedsoiree/liederabend/comedy/revue/gala) + required composer drop non-opera. Performances: calendar-item aria-label '… DD-MM-YYYY {title}' (→ ISO) + a '{HH:MM} → {HH:MM} Uhr' time and the next <p> venue. Credits: preview-pople-list role label (normalizeGermanCredit → creative, else sung cast) + linked names. WARNING: the site only renders a ~2-month rolling window (query params ignored), so productions outside it show zero dates and are skipped → needs recurring runs for full-season coverage; Wikidata backfill for history."
   }
 ]
