@@ -736,5 +736,17 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "TYPO3 SSR. NB canonical host is staatstheater.de (the oldenburgisches-staatstheater.de domain is parked). /kalender is SSR but windowed to ONE month; it embeds the season's month links '/kalender?monat=MMYYYY&cHash=…' (cHash required) → follow them. Each day = <a data-date='YYYYMMDD'> then auffuehrung blocks: /programm/musiktheater/… link (opera sparte) + <h2><a> title + p.uhrzeit time + '<p>von {Composer}</p>' + .spielort venue. Group by detail slug; drop /musical/. Detail page Besetzung block: <p> 'Label: <strong>Name</strong> / <strong>…</strong><br>…' → normalizeGermanCredit (creative else cast role). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "landestheater-detmold",
+    "name": "Landestheater Detmold",
+    "city": "Detmold",
+    "country": "DE",
+    "website": "https://www.landestheater-detmold.de",
+    "wikidata": "Q1802664",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Touring Landestheater (Detmold + guest venues Paderborn/Bad Oeynhausen/…). **proxy:true** — robots.txt is Disallow:/, so this is a deliberate maintainer decision to crawl it via the fetch-proxy. Django SSR. Full-season index /de/programm/stuecke → cards with data-listfilters containing 'musiktheater' + a 'venue' label (Oper/Operette keep, Musical drop) → /de/programm/{slug}/{id}. Detail: h1 title (strip U+00AD soft-hyphens), .subtitle '{genre} von {Composer} | …' (composerFromText on first '|' segment), .cast-list (cast-list-item-instrument label + -artist name → normalizeGermanCredit creative/cast), .stage-play-list-item perfs (.day/.month NO year → infer chronologically; .time; per-perf .location venue). Future/season → Wikidata backfill."
   }
 ]
