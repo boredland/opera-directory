@@ -220,6 +220,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). NOTE the host: the hyphenated www.staatstheater-karlsruhe.de works fine; the karlsruhe.de subdomain (staatstheater.karlsruhe.de) hard-403s — earlier 'blocked' verdict was the wrong domain. Server-rendered. Opera season list /programm/oper/spielplan/ links each production as programm/info/{id}/. Detail page: h1 title, '<h2 class=h4>{genre} von {Composer}</h2>' subtitle, a Besetzung <table> of '<tr><td><b>Label</b></td><td><a>Name</a></td></tr>' rows (creative + sung cast, German labels; institutional rows dropped), and a 'Termine' section of '<b>{Weekday}, {DD.MM.}</b>, {HH:MM}' (year omitted → inferred from jquery_calendar_start_date season anchor). Future-only → Wikidata backfill."
   },
   {
+    "slug": "oper-chemnitz",
+    "name": "Oper Chemnitz",
+    "city": "Chemnitz",
+    "country": "DE",
+    "website": "https://www.theater-chemnitz.de",
+    "wikidata": "Q315578",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Opera house of Die Theater Chemnitz; server-rendered. /spielplan/ lists one '<section class=cc_event>' per performance: cc_hllink → /spielplan/detailseite/{slug}/{id}, title <h2>, composer in <h3> 'genre von X', genre in <div class=cc_type> (keep Musiktheater/Oper/Operette/Zeitgenössische Oper; require a composer to drop Führungen), date/time/venue in cc_date/cc_time/cc_loc. Grouped by slug. Cast not in the listing. Coverage = ~current-month window; deep history via Wikidata."
+  },
+  {
     "slug": "staatstheater-am-gaertnerplatz",
     "name": "Staatstheater am Gärtnerplatz",
     "city": "München",
