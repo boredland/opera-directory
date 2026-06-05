@@ -213,12 +213,11 @@
     "name": "Badisches Staatstheater Karlsruhe",
     "city": "Karlsruhe",
     "country": "DE",
-    "website": "https://staatstheater.karlsruhe.de",
+    "website": "https://www.staatstheater-karlsruhe.de",
     "wikidata": "Q552309",
     "strategy": "spielplan-html",
-    "enabled": false,
-    "proxy": true,
-    "notes": "BLOCKED 2026-06: staatstheater.karlsruhe.de hard-403s ALL automated access — confirmed via CI recon that even the FETCH_PROXY (FlareSolverr + residential IP) gets 403 on every path, same outcome as bayerische-staatsoper München. Direct, public proxies, and r.jina.ai also 403; the www. subdomain doesn't resolve (use the bare host). No way to scrape until the block lifts or the proxy gains a working bypass. Recon from the 2025-07 Wayback homepage: production detail pages are /programm/info/{id}/. enabled:false, no adapter. QID Q552309 (Badisches Staatstheater Karlsruhe, the theatre+opera company)."
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). NOTE the host: the hyphenated www.staatstheater-karlsruhe.de works fine; the karlsruhe.de subdomain (staatstheater.karlsruhe.de) hard-403s — earlier 'blocked' verdict was the wrong domain. Server-rendered. Opera season list /programm/oper/spielplan/ links each production as programm/info/{id}/. Detail page: h1 title, '<h2 class=h4>{genre} von {Composer}</h2>' subtitle, a Besetzung <table> of '<tr><td><b>Label</b></td><td><a>Name</a></td></tr>' rows (creative + sung cast, German labels; institutional rows dropped), and a 'Termine' section of '<b>{Weekday}, {DD.MM.}</b>, {HH:MM}' (year omitted → inferred from jquery_calendar_start_date season anchor). Future-only → Wikidata backfill."
   },
   {
     "slug": "bayerische-staatsoper",
