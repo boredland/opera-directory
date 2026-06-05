@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "work_slug": "richard-strauss/ariadne-auf-naxos",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/ariadne-auf-naxos.html",
+    "creative_team": [
+      {
+        "person_slug": "michael-balke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "christoph-wagner-trenkwitz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide",
+    "work_slug": "candide",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/candide.html",
+    "creative_team": [
+      {
+        "person_slug": "anthony-bramall",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniel-c-schindler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rainer-sinell",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "raphael-kurig",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "thomas-mahnecke",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "adam-cooper",
+        "role_slug": "candide/regie-und-choreografie"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/der-besuch-der-alten-dame.html",
+    "creative_team": [
+      {
+        "person_slug": "michael-balke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernhard-stegbauer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nikolaus-habjan",
+        "function": "director"
+      },
+      {
+        "person_slug": "karin-bohnert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "paul-grilj",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "heike-vollmer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ill"
+      },
+      {
+        "person_slug": "frances-lucey",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-frau"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-sohn"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-tochter"
+      },
+      {
+        "person_slug": "jeremy-boulton",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/arzt"
+      },
+      {
+        "person_slug": "thomas-mcgowan",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorsteher"
+      },
+      {
+        "person_slug": "wolfgang-ablinger-sperrhacke",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/burgermeister"
+      },
+      {
+        "person_slug": "norbert-ernst",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/butler"
+      },
+      {
+        "person_slug": "sophie-rennert",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/claire-zachanassian"
+      },
+      {
+        "person_slug": "thomas-hohenberger",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/eine-stimme"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/erste-frau"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/helmesberger"
+      },
+      {
+        "person_slug": "paul-schweinester",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/hofbauer"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/koby"
+      },
+      {
+        "person_slug": "alg-n-ozcan",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/kondukteur"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/lehrer"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/loby"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/pfarrer"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/polizist"
+      },
+      {
+        "person_slug": "soffi-povo",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenbau"
+      },
+      {
+        "person_slug": "angelo-konzett",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspieler-dame-panther"
+      },
+      {
+        "person_slug": "manuela-linshalm",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspielerin-dame"
+      },
+      {
+        "person_slug": "ricarda-regina-ludigkeit",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/staging-und-szenische-mitarbeit"
+      },
+      {
+        "person_slug": "holger-ohlmann",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/zugfuhrer-kameramann"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/zweite-frau"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/der-graf-von-luxemburg.html",
+    "creative_team": [
+      {
+        "person_slug": "alex-frei",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daria-kornysheva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-lund",
+        "function": "director"
+      },
+      {
+        "person_slug": "christoph-wagner-trenkwitz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jurgen-franz-kirner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/angele-didier"
+      },
+      {
+        "person_slug": "peter-neustifter",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/armand-brissard"
+      },
+      {
+        "person_slug": "erwin-windegger",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/furst-basil-basilowitsch"
+      },
+      {
+        "person_slug": "dagmar-hellberg",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/grafin-mathilde-von-luxemburg"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/juliette-vermont"
+      },
+      {
+        "person_slug": "gregor-reinhold",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/pawel-von-pawlowitsch-portier-des-hotel-pain-regieassistent"
+      },
+      {
+        "person_slug": "alexander-franzen",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/pelegrin-schaffner-theaterdirektor"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/rene-graf-von-luxemburg"
+      },
+      {
+        "person_slug": "jeremy-boulton",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "work_slug": "gaetano-donizetti/der-liebestrank",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/der-liebestrank.html",
+    "creative_team": [
+      {
+        "person_slug": "kerstin-ried",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "eduardo-browne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "frank-lichtenberg",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dirk-schmeding",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "martina-segna",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-fledermaus",
+    "work_slug": "johann-strauss/die-fledermaus",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/die-fledermaus.html",
+    "creative_team": [
+      {
+        "person_slug": "karl-alfred-schreiner",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "fedora-wesseler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "rainer-sinell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/die-landstreicher.html",
+    "creative_team": [
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dorothee-joisten",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christiane-lutz",
+        "function": "director"
+      },
+      {
+        "person_slug": "karin-bohnert",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christian-tabakoff",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/buhne-video"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/die-reise-nach-reims.html",
+    "creative_team": [
+      {
+        "person_slug": "kerstin-ried",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "enrico-lombardi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "britta-leonhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dirk-schmeding",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "robert-schweer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/die-zauberfloete.html",
+    "creative_team": [
+      {
+        "person_slug": "ricarda-regina-ludigkeit",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "eduardo-browne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-balke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "fedora-wesseler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kai-luczak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "meike-ebert",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "raphael-kurig",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "work_slug": "drei-manner-im-schnee",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/drei-maenner-im-schnee.html",
+    "creative_team": [
+      {
+        "person_slug": "adam-cooper",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "andreas-partilla",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dagmar-morell",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rainer-sinell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "work_slug": "wolfgang-amadeus-mozart/figaros-hochzeit",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/figaros-hochzeit.html",
+    "creative_team": [
+      {
+        "person_slug": "karl-alfred-schreiner",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thomas-kaiser",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "fedora-wesseler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-hortner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "raphael-kurig",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/fuerst-igor",
+    "work_slug": "furst-igor",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/fuerst-igor.html",
+    "creative_team": [
+      {
+        "person_slug": "karl-alfred-schreiner",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ruben-dubrovsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "renee-listerdal",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "roland-schwab",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-hortner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "piero-vinciguerra",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-teschner",
+        "role_slug": "furst-igor/choreografische-mitarbeit"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel",
+    "work_slug": "hansel-und-gretel",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/haensel.html",
+    "creative_team": [
+      {
+        "person_slug": "corinna-niemeyer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eduardo-browne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-balke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "herrmann-soherr",
+        "role_slug": "hansel-und-gretel/buhne-kostume"
+      },
+      {
+        "person_slug": "peter-kertz",
+        "role_slug": "hansel-und-gretel/regie-nach"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/la-traviata.html",
+    "creative_team": [
+      {
+        "person_slug": "alex-frei",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "anne-hinrichsen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ruben-dubrovsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "isabel-ostermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-hortner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stephan-von-wedel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lucian-krasznec",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "ann-katrin-naidu",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "anna-agathonos",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "jeremy-boulton",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "thomas-mcgowan",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "aran-matsuda",
+        "role_slug": "giuseppe-verdi/la-traviata/diener-bei-flora"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
+      },
+      {
+        "person_slug": "robson-bueno-tavares",
+        "role_slug": "giuseppe-verdi/la-traviata/ein-bote"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "anna-tetruashvili",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "mathias-hausmann",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "alg-n-ozcan",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "holger-ohlmann",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres"
+      },
+      {
+        "person_slug": "jennifer-o-loughlin",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "sophia-theodorides",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lakme",
+    "work_slug": "leo-delibes/lakme",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/lakme.html",
+    "creative_team": [
+      {
+        "person_slug": "sebastien-rouland",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thomas-kaiser",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "karin-bohnert",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-kreuselberg",
+        "role_slug": "leo-delibes/lakme/staging"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lustige-witwe",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/lustige-witwe.html",
+    "creative_team": [
+      {
+        "person_slug": "adam-cooper",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "andras-borbely-t",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rainer-sinell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/roessl.html",
+    "creative_team": [
+      {
+        "person_slug": "karl-alfred-schreiner",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jakob-bogensperger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "wieland-muller-haslinger",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rainer-sinell",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/buhne-kostume"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "work_slug": "charles-gounod/romeo-und-julia",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/romeo-und-julia.html",
+    "creative_team": [
+      {
+        "person_slug": "karl-alfred-schreiner",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ruben-dubrovsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "herbert-fottinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "karin-bohnert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "walter-vogelweider",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti",
+    "work_slug": "trouble-in-tahiti",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/trouble-in-tahiti.html",
+    "creative_team": [
+      {
+        "person_slug": "oleg-ptashnikov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fleur-snow",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-alexander-rinz",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/waldmeister",
+    "work_slug": "johann-strauss/waldmeister",
+    "house_slug": "staatstheater-am-gaertnerplatz",
+    "is_revival": false,
+    "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/waldmeister.html",
+    "creative_team": [
+      {
+        "person_slug": "michael-brandstatter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uta-meenen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "karin-bohnert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-hortner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "walter-vogelweider",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "johann-strauss/waldmeister/botho-wendt-forststudent"
+      },
+      {
+        "person_slug": "ricarda-regina-ludigkeit",
+        "role_slug": "johann-strauss/waldmeister/choreografie-und-co-regie"
+      },
+      {
+        "person_slug": "robert-meyer",
+        "role_slug": "johann-strauss/waldmeister/christof-heffele-amtshauptmann"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "johann-strauss/waldmeister/danner-stadtrat"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "johann-strauss/waldmeister/erasmus-friedrich-muller-professor-der-botanik"
+      },
+      {
+        "person_slug": "alexander-paul-findewirth",
+        "role_slug": "johann-strauss/waldmeister/erich-ein-forststudent-freund-von-botho"
+      },
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "johann-strauss/waldmeister/freda-deren-tochter-studentin"
+      },
+      {
+        "person_slug": "ilia-staple",
+        "role_slug": "johann-strauss/waldmeister/freda-deren-tochter-studentin"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "johann-strauss/waldmeister/jeanne-paulines-privatsekretarin"
+      },
+      {
+        "person_slug": "regina-schorg",
+        "role_slug": "johann-strauss/waldmeister/malvine-seine-frau"
+      },
+      {
+        "person_slug": "erwin-windegger",
+        "role_slug": "johann-strauss/waldmeister/martin-hausmeister-sebastian-diener-zwillingsbruder"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "johann-strauss/waldmeister/pauline-garlandt-sangerin"
+      },
+      {
+        "person_slug": "riccarda-schonerstedt",
+        "role_slug": "johann-strauss/waldmeister/regina-eine-kollegin-paulines"
+      },
+      {
+        "person_slug": "daniel-gutmann",
+        "role_slug": "johann-strauss/waldmeister/tymoleon-gerius-oberforstrat-mit-freda-verlobt"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "johann-strauss/waldmeister/tymoleon-gerius-oberforstrat-mit-freda-verlobt"
+      }
+    ]
+  }
+]

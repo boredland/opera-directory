@@ -440,6 +440,11 @@
     "composer_slug": "camille-saint-saens"
   },
   {
+    "slug": "candide",
+    "title": "Candide",
+    "composer_slug": ""
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz",
     "title": "Der Freischütz",
     "composer_slug": "carl-maria-von-weber"
@@ -455,9 +460,19 @@
     "composer_slug": "carl-maria-von-weber"
   },
   {
+    "slug": "carl-michael-ziehrer/die-landstreicher",
+    "title": "Die Landstreicher",
+    "composer_slug": "carl-michael-ziehrer"
+  },
+  {
     "slug": "carl-orff/carmina-burana",
     "title": "Carmina Burana",
     "composer_slug": "carl-orff"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia",
+    "title": "Romeo und Julia",
+    "composer_slug": "charles-gounod"
   },
   {
     "slug": "choreografien-von-annabelle-lopez-ochoa-und-george-cespedes/reversible-mambo-3xxi",
@@ -638,6 +653,11 @@
     "slug": "dramma-lirico-in-vier-teilen/nabucco",
     "title": "Nabucco",
     "composer_slug": "dramma-lirico-in-vier-teilen"
+  },
+  {
+    "slug": "drei-manner-im-schnee",
+    "title": "Drei Männer im Schnee",
+    "composer_slug": ""
   },
   {
     "slug": "ebbe-und-flut",
@@ -920,6 +940,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "franz-lehar/der-graf-von-luxemburg",
+    "title": "Der Graf von Luxemburg",
+    "composer_slug": "franz-lehar"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe",
+    "title": "Die lustige Witwe",
+    "composer_slug": "franz-lehar"
+  },
+  {
     "slug": "franz-schreker/die-gezeichneten",
     "title": "Die Gezeichneten",
     "composer_slug": "franz-schreker"
@@ -1018,6 +1048,16 @@
     "slug": "fur-kinder-bis-einschl-15-jahre/mixed-abled-tanzunterricht",
     "title": "Mixed-abled Tanzunterricht",
     "composer_slug": "fur-kinder-bis-einschl-15-jahre"
+  },
+  {
+    "slug": "furst-igor",
+    "title": "Fürst Igor",
+    "composer_slug": ""
+  },
+  {
+    "slug": "gaetano-donizetti/der-liebestrank",
+    "title": "Der Liebestrank",
+    "composer_slug": "gaetano-donizetti"
   },
   {
     "slug": "gaetano-donizetti/l-elisir-d-amore",
@@ -1160,6 +1200,11 @@
     "composer_slug": "gioachino-rossini"
   },
   {
+    "slug": "gioachino-rossini/die-reise-nach-reims",
+    "title": "Die Reise nach Reims",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/guillaume-tell",
     "title": "Guillaume Tell",
     "composer_slug": "gioachino-rossini"
@@ -1260,6 +1305,11 @@
     "composer_slug": "gordon-kampe"
   },
   {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "title": "Der Besuch der alten Dame",
+    "composer_slug": "gottfried-von-einem"
+  },
+  {
     "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5",
     "title": "Bei der Feuerwehr wird der Kaffee kalt (5+)",
     "composer_slug": "hannes-huttner-und-gerhard-lahr"
@@ -1273,6 +1323,11 @@
     "slug": "hans-werner-henze/la-piccola-cubana",
     "title": "La Piccola Cubana",
     "composer_slug": "hans-werner-henze"
+  },
+  {
+    "slug": "hansel-und-gretel",
+    "title": "Hänsel und Gretel",
+    "composer_slug": ""
   },
   {
     "slug": "happy-new-ears",
@@ -1423,6 +1478,16 @@
     "slug": "johann-strauss-und-ralph-benatzky/casanova",
     "title": "Casanova",
     "composer_slug": "johann-strauss-und-ralph-benatzky"
+  },
+  {
+    "slug": "johann-strauss/die-fledermaus",
+    "title": "Die Fledermaus",
+    "composer_slug": "johann-strauss"
+  },
+  {
+    "slug": "johann-strauss/waldmeister",
+    "title": "Waldmeister",
+    "composer_slug": "johann-strauss"
   },
   {
     "slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther",
@@ -1643,6 +1708,11 @@
     "slug": "lauschkonzert",
     "title": "Lauschkonzert",
     "composer_slug": ""
+  },
+  {
+    "slug": "leo-delibes/lakme",
+    "title": "Lakmé",
+    "composer_slug": "leo-delibes"
   },
   {
     "slug": "leonard-bernstein-musik/on-the-town",
@@ -2170,6 +2240,11 @@
     "composer_slug": "ralph-benatzky-robert-gilbert"
   },
   {
+    "slug": "ralph-benatzky/im-wei-en-rossl",
+    "title": "Im weißen Rössl",
+    "composer_slug": "ralph-benatzky"
+  },
+  {
     "slug": "raquel-garcia-tomas/ich-ich-ich",
     "title": "Ich, ich, ich!",
     "composer_slug": "raquel-garcia-tomas"
@@ -2585,6 +2660,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "trouble-in-tahiti",
+    "title": "Trouble in Tahiti",
+    "composer_slug": ""
+  },
+  {
     "slug": "uber-liebe-und-hass",
     "title": "Über Liebe und Hass",
     "composer_slug": ""
@@ -2742,6 +2822,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/don-giovanni",
     "title": "Don Giovanni",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/figaros-hochzeit",
+    "title": "Figaros Hochzeit",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {

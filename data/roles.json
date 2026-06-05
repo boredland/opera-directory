@@ -1485,6 +1485,11 @@
     "name": "Zweiter Philister"
   },
   {
+    "slug": "candide/regie-und-choreografie",
+    "work_slug": "candide",
+    "name": "Regie und Choreografie"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz-fur-kinder/annchen",
     "work_slug": "carl-maria-von-weber/der-freischutz-fur-kinder",
     "name": "Ännchen"
@@ -1618,6 +1623,11 @@
     "slug": "carl-maria-von-weber/oberon-konig-der-elfen/zwei-der-drei-pucks",
     "work_slug": "carl-maria-von-weber/oberon-konig-der-elfen",
     "name": "Zwei der drei Pucks"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/buhne-video",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Bühne / Video"
   },
   {
     "slug": "carl-orff/carmina-burana/chore",
@@ -3525,6 +3535,51 @@
     "name": "Thierry, Diener / 1. Kommissar"
   },
   {
+    "slug": "franz-lehar/der-graf-von-luxemburg/angele-didier",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Angèle Didier"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/armand-brissard",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Armand Brissard"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/furst-basil-basilowitsch",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Fürst Basil Basilowitsch"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/grafin-mathilde-von-luxemburg",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Gräfin Mathilde von Luxemburg"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/juliette-vermont",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Juliette Vermont"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/pawel-von-pawlowitsch-portier-des-hotel-pain-regieassistent",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Pawel von Pawlowitsch / Portier des Hotel Pain / Regieassistent"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/pelegrin-schaffner-theaterdirektor",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Pélegrin / Schaffner / Theaterdirektor"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/rene-graf-von-luxemburg",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "René Graf von Luxemburg"
+  },
+  {
+    "slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "name": "Sergej Mentschikoff / Portier des Grandhotels"
+  },
+  {
     "slug": "franz-schreker/die-gezeichneten/alviano-salvago",
     "work_slug": "franz-schreker/die-gezeichneten",
     "name": "Alviano Salvago"
@@ -3903,6 +3958,11 @@
     "slug": "fromental-halevy/la-juive/ruggiero",
     "work_slug": "fromental-halevy/la-juive",
     "name": "Ruggiero"
+  },
+  {
+    "slug": "furst-igor/choreografische-mitarbeit",
+    "work_slug": "furst-igor",
+    "name": "Choreografische Mitarbeit"
   },
   {
     "slug": "gaetano-donizetti/l-elisir-d-amore/belcore",
@@ -5770,6 +5830,21 @@
     "name": "Baron Douphol"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/diener-bei-flora",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Diener bei Flora"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/doktor-grenvil",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Doktor Grenvil"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/ein-bote",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Ein Bote"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/einstudierung-chor",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Einstudierung Chor"
@@ -5813,6 +5888,11 @@
     "slug": "giuseppe-verdi/la-traviata/marquis-d-obigny",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Marquis d'Obigny"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Vicomte Gastone de Létorières"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/violetta-valery",
@@ -6335,6 +6415,131 @@
     "name": "Wendy"
   },
   {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ill",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Alfred Ill"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-frau",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Alfred Ills Frau"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-sohn",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Alfred Ills Sohn"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-tochter",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Alfred Ills Tochter"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/arzt",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Arzt"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorsteher",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Bahnhofsvorsteher"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/burgermeister",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Bürgermeister"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/butler",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Butler"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/claire-zachanassian",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Claire Zachanassian"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/eine-stimme",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Eine Stimme"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/erste-frau",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Erste Frau"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/helmesberger",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Helmesberger"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/hofbauer",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Hofbauer"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/koby",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Koby"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/kondukteur",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Kondukteur"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/lehrer",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Lehrer"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/loby",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Loby"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/pfarrer",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Pfarrer"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/polizist",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Polizist"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenbau",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Puppenbau"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspieler-dame-panther",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Puppenspieler (Dame, Panther)"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspielerin-dame",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Puppenspielerin (Dame)"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/staging-und-szenische-mitarbeit",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Staging und szenische Mitarbeit"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/zugfuhrer-kameramann",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Zugführer / Kameramann"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/zweite-frau",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Zweite Frau"
+  },
+  {
     "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5/kunst-vermittlung",
     "work_slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5",
     "name": "Kunst & Vermittlung"
@@ -6383,6 +6588,16 @@
     "slug": "hans-werner-henze/la-piccola-cubana/rezensent-eusebio-yarini-paco-alberto-federico",
     "work_slug": "hans-werner-henze/la-piccola-cubana",
     "name": "Rezensent / Eusebio / Yarini / Paco / Alberto / Federico"
+  },
+  {
+    "slug": "hansel-und-gretel/buhne-kostume",
+    "work_slug": "hansel-und-gretel",
+    "name": "Bühne / Kostüme"
+  },
+  {
+    "slug": "hansel-und-gretel/regie-nach",
+    "work_slug": "hansel-und-gretel",
+    "name": "Regie nach"
   },
   {
     "slug": "henri-meilhac/carmen/abendspielleitung",
@@ -7150,6 +7365,71 @@
     "name": "Waldstein"
   },
   {
+    "slug": "johann-strauss/waldmeister/botho-wendt-forststudent",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Botho Wendt, Forststudent"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/choreografie-und-co-regie",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Choreografie und Co-Regie"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/christof-heffele-amtshauptmann",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Christof Heffele, Amtshauptmann"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/danner-stadtrat",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Danner, Stadtrat"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/erasmus-friedrich-muller-professor-der-botanik",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Erasmus Friedrich Müller, Professor der Botanik"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/erich-ein-forststudent-freund-von-botho",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Erich, ein Forststudent, Freund von Botho"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/freda-deren-tochter-studentin",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Freda, deren Tochter, Studentin"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/jeanne-paulines-privatsekretarin",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Jeanne, Paulines Privatsekretärin"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/malvine-seine-frau",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Malvine, seine Frau"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/martin-hausmeister-sebastian-diener-zwillingsbruder",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Martin, Hausmeister / Sebastian, Diener - Zwillingsbrüder"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/pauline-garlandt-sangerin",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Pauline Garlandt, Sängerin"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/regina-eine-kollegin-paulines",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Regina, eine Kollegin Paulines"
+  },
+  {
+    "slug": "johann-strauss/waldmeister/tymoleon-gerius-oberforstrat-mit-freda-verlobt",
+    "work_slug": "johann-strauss/waldmeister",
+    "name": "Tymoleon Gerius. Oberforstrat, mit Freda verlobt"
+  },
+  {
     "slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther/kunst-vermittlung",
     "work_slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther",
     "name": "Kunst & Vermittlung"
@@ -7688,6 +7968,11 @@
     "slug": "lauschkonzert/orchester",
     "work_slug": "lauschkonzert",
     "name": "Orchester"
+  },
+  {
+    "slug": "leo-delibes/lakme/staging",
+    "work_slug": "leo-delibes/lakme",
+    "name": "Staging"
   },
   {
     "slug": "leonard-bernstein-musik/on-the-town/balletttanzerin-ensemble",
@@ -9633,6 +9918,11 @@
     "slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl/zusatzchor",
     "work_slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl",
     "name": "Zusatzchor"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/buhne-kostume",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Bühne / Kostüme"
   },
   {
     "slug": "raquel-garcia-tomas/ich-ich-ich/dr-giovanni-tempesta-zen-guru",

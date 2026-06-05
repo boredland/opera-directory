@@ -1,0 +1,885 @@
+[
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-06-02/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-06-02",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-06-18/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-06-18",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-06-25/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-06-25",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-07-01/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-07-01",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-07-04/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-07-04",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-07-11/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-07-11",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-07-14/",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-07-14",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide/2027-06-24/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/candide",
+    "date": "2027-06-24",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide/2027-06-26/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/candide",
+    "date": "2027-06-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide/2027-06-27/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/candide",
+    "date": "2027-06-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide/2027-07-09/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/candide",
+    "date": "2027-07-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/candide/2027-07-10/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/candide",
+    "date": "2027-07-10",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-06-17/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-06-17",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-07-03/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-07-03",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-07-05/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-07-05",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-07-08/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-07-08",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-07-23/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-07-23",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-12-06/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-12-06",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-12-11/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-12-11",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-12-15/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-12-15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame/2026-12-19/",
+    "production_id": "staatstheater-am-gaertnerplatz/der-besuch-der-alten-dame",
+    "date": "2026-12-19",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2026-06-20/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2026-06-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2026-06-28/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2026-07-02/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2026-07-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2027-01-06/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2027-01-06",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2027-01-09/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2027-01-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2027-01-10/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2027-01-10",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2027-01-15/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2027-01-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg/2027-01-17/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/der-graf-von-luxemburg",
+    "date": "2027-01-17",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank/2027-03-11/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "date": "2027-03-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank/2027-03-13/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "date": "2027-03-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank/2027-03-20/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "date": "2027-03-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank/2027-04-08/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "date": "2027-04-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/der-liebestrank/2027-04-10/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/der-liebestrank",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-fledermaus/2027-04-22/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-fledermaus",
+    "date": "2027-04-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-fledermaus/2027-04-25/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-fledermaus",
+    "date": "2027-04-25",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-fledermaus/2027-05-20/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-fledermaus",
+    "date": "2027-05-20",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-fledermaus/2027-05-22/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-fledermaus",
+    "date": "2027-05-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-11-04/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-11-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-11-20/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-11-22/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-11-22",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-11-29/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-11-29",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-12-05/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-12-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2026-12-12/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2026-12-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2027-01-19/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2027-01-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2027-01-23/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2027-01-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2027-01-27/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2027-01-27",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-landstreicher/2027-01-30/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-landstreicher",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-09-30/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-09-30",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-10-16/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-10-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-10-18/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-10-18",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-10-24/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-10-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-10-29/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-10-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-10-31/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-11-05/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-11-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-12-04/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-12-04",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-12-18/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-12-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-12-21/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-12-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims/2026-12-28/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/die-reise-nach-reims",
+    "date": "2026-12-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-10-22/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-10-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-10-25/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-10-25",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-11-01/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-11-01",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-11-08/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-11-08",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-11-13/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-11-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-12-26/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-12-26",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2026-12-29/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2026-12-29",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2027-01-03/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2027-01-03",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/die-zauberfloete/2027-02-27/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
+    "date": "2027-02-27",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee/2026-11-25/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "date": "2026-11-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee/2026-11-26/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "date": "2026-11-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee/2026-12-30/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "date": "2026-12-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee/2026-12-31/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "date": "2026-12-31",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee/2027-01-02/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
+    "date": "2027-01-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit/2027-02-04/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "date": "2027-02-04",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit/2027-02-06/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "date": "2027-02-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit/2027-02-08/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "date": "2027-02-08",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit/2027-02-14/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "date": "2027-02-14",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit/2027-02-19/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
+    "date": "2027-02-19",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/fuerst-igor/2027-04-30/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/fuerst-igor",
+    "date": "2027-04-30",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/fuerst-igor/2027-05-02/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/fuerst-igor",
+    "date": "2027-05-02",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/fuerst-igor/2027-05-05/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/fuerst-igor",
+    "date": "2027-05-05",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/fuerst-igor/2027-05-07/19:00",
+    "production_id": "staatstheater-am-gaertnerplatz/fuerst-igor",
+    "date": "2027-05-07",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-09/10:30",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-09",
+    "time": "10:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-10/10:30",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-10",
+    "time": "10:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-16/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-16",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-17/10:30",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-17",
+    "time": "10:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-22/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-22",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-23/10:30",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-23",
+    "time": "10:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/haensel/2026-12-25/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/haensel",
+    "date": "2026-12-25",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-06-11/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-06-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-06-13/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-07-10/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-07-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-07-16/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-07-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-09-20/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-09-27/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-09-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2026-10-02/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2026-10-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2027-01-14/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2027-01-14",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2027-01-16/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2027-01-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2027-01-22/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2027-01-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/la-traviata/2027-01-24/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/la-traviata",
+    "date": "2027-01-24",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lakme/2027-03-27/",
+    "production_id": "staatstheater-am-gaertnerplatz/lakme",
+    "date": "2027-03-27",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lakme/2027-03-29/",
+    "production_id": "staatstheater-am-gaertnerplatz/lakme",
+    "date": "2027-03-29",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lakme/2027-04-04/",
+    "production_id": "staatstheater-am-gaertnerplatz/lakme",
+    "date": "2027-04-04",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lustige-witwe/2027-03-18/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/lustige-witwe",
+    "date": "2027-03-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lustige-witwe/2027-03-21/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/lustige-witwe",
+    "date": "2027-03-21",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lustige-witwe/2027-03-24/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/lustige-witwe",
+    "date": "2027-03-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/lustige-witwe/2027-03-28/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/lustige-witwe",
+    "date": "2027-03-28",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl/2027-05-26/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/roessl",
+    "date": "2027-05-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl/2027-05-27/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/roessl",
+    "date": "2027-05-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl/2027-06-05/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/roessl",
+    "date": "2027-06-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl/2027-06-12/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/roessl",
+    "date": "2027-06-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/roessl/2027-06-13/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/roessl",
+    "date": "2027-06-13",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-02-17/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-02-17",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-03-05/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-03-05",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-03-07/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-03-07",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-03-10/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-03-10",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-03-12/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-03-12",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-03-14/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-03-14",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-04-11/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-04-11",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-04-21/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-04-21",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-07-17/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-07-17",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-07-24/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-07-24",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-07-28/",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-07-28",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti/2027-07-08/",
+    "production_id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti",
+    "date": "2027-07-08",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti/2027-07-11/",
+    "production_id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti",
+    "date": "2027-07-11",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti/2027-07-14/",
+    "production_id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti",
+    "date": "2027-07-14",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti/2027-07-16/",
+    "production_id": "staatstheater-am-gaertnerplatz/trouble-in-tahiti",
+    "date": "2027-07-16",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/waldmeister/2026-07-09/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/waldmeister",
+    "date": "2026-07-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/waldmeister/2026-07-11/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/waldmeister",
+    "date": "2026-07-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/waldmeister/2026-07-17/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/waldmeister",
+    "date": "2026-07-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/waldmeister/2026-07-18/19:30",
+    "production_id": "staatstheater-am-gaertnerplatz/waldmeister",
+    "date": "2026-07-18",
+    "time": "19:30",
+    "status": "scheduled"
+  }
+]
