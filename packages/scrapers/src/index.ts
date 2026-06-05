@@ -6,7 +6,9 @@ import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
+import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
+import { scrapeMusiktheaterImRevier } from "./houses/musiktheater-im-revier";
 import { scrapeNationaltheaterMannheim } from "./houses/nationaltheater-mannheim";
 import { scrapeNationaltheaterWeimar } from "./houses/nationaltheater-weimar";
 import { scrapeOperChemnitz } from "./houses/oper-chemnitz";
@@ -32,10 +34,12 @@ import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
 import { scrapeStaatstheaterRegensburg } from "./houses/staatstheater-regensburg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeTheaterAachen } from "./houses/theater-aachen";
+import { scrapeTheaterBielefeld } from "./houses/theater-bielefeld";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
 import { scrapeTheaterErfurt } from "./houses/theater-erfurt";
 import { scrapeTheaterFreiburg } from "./houses/theater-freiburg";
+import { scrapeTheaterMagdeburg } from "./houses/theater-magdeburg";
 import type { HouseScraper } from "./types";
 
 export * from "./fetch";
@@ -85,4 +89,8 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "staatstheater-braunschweig": scrapeStaatstheaterBraunschweig,
   "staatstheater-regensburg": scrapeStaatstheaterRegensburg,
   "theater-aachen": scrapeTheaterAachen,
+  "musiktheater-im-revier": scrapeMusiktheaterImRevier,
+  "theater-magdeburg": scrapeTheaterMagdeburg,
+  "theater-bielefeld": scrapeTheaterBielefeld,
+  "mecklenburgisches-staatstheater": scrapeMecklenburgischesStaatstheater,
 };

@@ -286,6 +286,50 @@
     "notes": "Adapter implemented (future + wikidata backfill). Flat-file calendar CMS shared with Theater Regensburg via houses/_calendar-cms.ts. Months from de/spielplan/musiktheater.html?ajax=1&offset={n}; each performance row has date-{DDMMYY} + sparte-{n} (4=Musiktheater) + produktionen/{slug}.html + 'HH:MM Uhr'. Detail page (de/produktionen/{slug}.html): title <h1>, composer = '… von {Composer}' subtitle after h1 (composerFromText), Besetzung = fw-semibold label + personen/ name links (scoped Besetzung→Termine). Some performances play in Theater Heerlen (NL)."
   },
   {
+    "slug": "musiktheater-im-revier",
+    "name": "Musiktheater im Revier",
+    "city": "Gelsenkirchen",
+    "country": "DE",
+    "website": "https://musiktheater-im-revier.de",
+    "wikidata": "Q1666920",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Next.js (mirtuell.net CMS), state inline in __NEXT_DATA__. Discover opera via genre-filtered month calendars /de/calendars/{YYYY}/{MM}/opera (pageProps.events[].mediators[0].performance → saison.name+slug); walk ~18 months. Detail page /de/performance/{saison}/{slug}: pageProps.performance.name (title), data.occassion.subHead 'Oper von X' (composer via composerFromText), mediator.events[].date (ISO, time portion is local curtain; T00:00 = no time), mediator.castItems (data.type 2=creative function, 1=sung role; person fullName). Canonical host NO www (www 308-redirects)."
+  },
+  {
+    "slug": "theater-magdeburg",
+    "name": "Theater Magdeburg",
+    "city": "Magdeburg",
+    "country": "DE",
+    "website": "https://www.theater-magdeburg.de",
+    "wikidata": "Q1521622",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). TYPO3. Musiktheater index /inszenierungen/musiktheater/ → cards (<strong> title, <p class=utitel> 'Genre von Composer', detail link /inszenierungen/musiktheater/sz-{season}/{group}/{slug}/). Dates from /spielplan/spielplan/ schema.org MusicEvent JSON-LD (startDate + production url, full season one page) matched to a production by url-prefix. Detail page: creative+cast as <i>Label</i><a href=/menschen/>Name</a> pairs (classify via normalizeGermanCredit)."
+  },
+  {
+    "slug": "theater-bielefeld",
+    "name": "Theater Bielefeld",
+    "city": "Bielefeld",
+    "country": "DE",
+    "website": "https://www.buo-bielefeld.de/theater",
+    "wikidata": "Q2415721",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). theater-bielefeld.de 301s to buo-bielefeld.de (Bühnen & Orchester). TYPO3. Whole Musiktheater 'Gesang' sparte kept (genre free-text 'Dramma lirico'/'Comic Operetta' too inconsistent to filter): listing /theater/aktuelle-spielzeit/gesang → cards link /{theater,philharmoniker}/veranstaltung/{slug}. Detail: <h1 class=font-extrabold> title, <h2 class=font-extralight> composer (nulled on philharmoniker subtitle pages), dates as font-bold DD.MM.YYYY + font-light HH:MM (rendered twice mobile+desktop → de-duped), cast via /person/ aria-label='Name, role'. Productions with no upcoming dates are skipped."
+  },
+  {
+    "slug": "mecklenburgisches-staatstheater",
+    "name": "Mecklenburgisches Staatstheater Schwerin",
+    "city": "Schwerin",
+    "country": "DE",
+    "website": "https://www.mecklenburgisches-staatstheater.de",
+    "wikidata": "Q1915756",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Contao. Dates from /kalendarium.html rows (class carries sparte 'musiktheater'); date+time+slug from the onclick link programm/{slug}/am/{DD}-{Monat}-{YYYY}-um-{HH}-{MM}.html. ONLY current+next month published → re-scrape monthly. Detail programm/{slug}.html (ce_mst2021_produktion): <h1> title, data-tso=L1 '… von Composer' subtitle (has nested empty <span class=label>), Besetzung <div class=line><div class=role>Label</div><a href=mensch/>Name</a> (creative + cast). Currently only ~1 upcoming MT production."
+  },
+  {
     "slug": "nationaltheater-weimar",
     "name": "Deutsches Nationaltheater Weimar",
     "city": "Weimar",
