@@ -405,6 +405,11 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "benjamin-britten/peter-grimes",
+    "title": "Peter Grimes",
+    "composer_slug": "benjamin-britten"
+  },
+  {
     "slug": "bernd-alois-zimmermann/die-soldaten",
     "title": "Die Soldaten",
     "composer_slug": "bernd-alois-zimmermann"
@@ -565,6 +570,11 @@
     "composer_slug": "claudio-monteverdi"
   },
   {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "title": "Die Krönung der Poppea (L'incoronazione di Poppea)",
+    "composer_slug": "claudio-monteverdi"
+  },
+  {
     "slug": "claudio-monteverdi/l-incoronazione-di-poppea",
     "title": "L’incoronazione di Poppea",
     "composer_slug": "claudio-monteverdi"
@@ -688,6 +698,11 @@
     "slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
     "title": "Familienführung",
     "composer_slug": "die-welt-hinter-den-kulissen-entdecken"
+  },
+  {
+    "slug": "die-zauberhafte-kommode",
+    "title": "Die zauberhafte Kommode",
+    "composer_slug": ""
   },
   {
     "slug": "dmitri-schostakowitsch/lady-macbeth-von-mzensk",
@@ -1595,6 +1610,11 @@
     "composer_slug": "johann-strau-sohn"
   },
   {
+    "slug": "johann-strau/die-fledermaus",
+    "title": "Die Fledermaus",
+    "composer_slug": "johann-strau"
+  },
+  {
     "slug": "johann-strau/die-fledermaus-fur-kinder",
     "title": "Die Fledermaus für Kinder",
     "composer_slug": "johann-strau"
@@ -1860,6 +1880,11 @@
     "composer_slug": "laura-kaminsky-mark-campbell-kimberly-reed"
   },
   {
+    "slug": "laura-kaminsky/lucidity",
+    "title": "Lucidity",
+    "composer_slug": "laura-kaminsky"
+  },
+  {
     "slug": "lauschkonzert",
     "title": "Lauschkonzert",
     "composer_slug": ""
@@ -1883,6 +1908,11 @@
     "slug": "leonard-bernstein/west-side-story",
     "title": "West Side Story",
     "composer_slug": "leonard-bernstein"
+  },
+  {
+    "slug": "leonard-evers/gold",
+    "title": "Gold!",
+    "composer_slug": "leonard-evers"
   },
   {
     "slug": "leos-janacek/jenufa-jeji-pastorkyna",
@@ -2060,6 +2090,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "missy-mazzoli/the-listeners",
+    "title": "The Listeners",
+    "composer_slug": "missy-mazzoli"
+  },
+  {
     "slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest",
     "title": "Abschlusskonzert Stadtfest",
     "composer_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie"
@@ -2088,6 +2123,11 @@
     "slug": "mit-timor-litzenberger/abschlussparty",
     "title": "Abschlussparty",
     "composer_slug": "mit-timor-litzenberger"
+  },
+  {
+    "slug": "mitch-leigh/der-mann-von-la-mancha",
+    "title": "Der Mann von La Mancha",
+    "composer_slug": "mitch-leigh"
   },
   {
     "slug": "mittsommerfeier-im-venezianischen-stil/maskenball",
@@ -2370,6 +2410,11 @@
     "composer_slug": "peter-i-tschaikowski"
   },
   {
+    "slug": "peter-i-tschaikowsky/eugen-onegin",
+    "title": "Eugen Onegin",
+    "composer_slug": "peter-i-tschaikowsky"
+  },
+  {
     "slug": "peter-tschaikowsky/eugen-onegin",
     "title": "Eugen Onegin",
     "composer_slug": "peter-tschaikowsky"
@@ -2380,9 +2425,19 @@
     "composer_slug": "philip-glass"
   },
   {
+    "slug": "philip-glass/les-enfants-terribles",
+    "title": "Les Enfants terribles",
+    "composer_slug": "philip-glass"
+  },
+  {
     "slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was",
     "title": "Der König verschenkt was",
     "composer_slug": "philipp-matthias-kaufmann"
+  },
+  {
+    "slug": "pierangelo-valtinoni/alice-im-wunderland",
+    "title": "Alice im Wunderland",
+    "composer_slug": "pierangelo-valtinoni"
   },
   {
     "slug": "pierangelo-valtinoni/die-reise-zu-planet-9",
@@ -2928,6 +2983,11 @@
     "slug": "uber-liebe-und-hass",
     "title": "Über Liebe und Hass",
     "composer_slug": ""
+  },
+  {
+    "slug": "udo-zimmermann/wei-e-rose",
+    "title": "Weiße Rose",
+    "composer_slug": "udo-zimmermann"
   },
   {
     "slug": "umberto-giordano/andrea-chenier",
