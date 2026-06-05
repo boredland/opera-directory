@@ -220,6 +220,39 @@
     "notes": "Adapter implemented (future + wikidata backfill). NOTE the host: the hyphenated www.staatstheater-karlsruhe.de works fine; the karlsruhe.de subdomain (staatstheater.karlsruhe.de) hard-403s — earlier 'blocked' verdict was the wrong domain. Server-rendered. Opera season list /programm/oper/spielplan/ links each production as programm/info/{id}/. Detail page: h1 title, '<h2 class=h4>{genre} von {Composer}</h2>' subtitle, a Besetzung <table> of '<tr><td><b>Label</b></td><td><a>Name</a></td></tr>' rows (creative + sung cast, German labels; institutional rows dropped), and a 'Termine' section of '<b>{Weekday}, {DD.MM.}</b>, {HH:MM}' (year omitted → inferred from jquery_calendar_start_date season anchor). Future-only → Wikidata backfill."
   },
   {
+    "slug": "staatstheater-augsburg",
+    "name": "Staatstheater Augsburg",
+    "city": "Augsburg",
+    "country": "DE",
+    "website": "https://staatstheater-augsburg.de",
+    "wikidata": "Q1441463",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Vue SPA over a public CouchDB view: _design/spieltermine/_view/by_datum_public_2?include_docs=true&startkey=\"YYYY-MM-DD\" returns one doc per performance (sorte=spieltermin) with thea_genre (filter Oper/Operette/Musiktheater), thea_titel, thea_autor (composer), beginn (ISO), thea_link (slug), thea_ort. Grouped by slug."
+  },
+  {
+    "slug": "anhaltisches-theater-dessau",
+    "name": "Anhaltisches Theater Dessau",
+    "city": "Dessau",
+    "country": "DE",
+    "website": "https://anhaltisches-theater.de",
+    "wikidata": "Q118583186",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Vite SPA over a custom JSON API: /api/termine returns a flat array of all performances with genre (keep Oper/Operette/Musical), titel, stueck_l1/stueck_l2 (form+composer lines → composer from 'von X'), beginn (ISO), ort, stueck_kuerzel (slug). Grouped by slug."
+  },
+  {
+    "slug": "theater-freiburg",
+    "name": "Theater Freiburg",
+    "city": "Freiburg",
+    "country": "DE",
+    "website": "https://theater.freiburg.de",
+    "wikidata": "Q1727716",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
+  },
+  {
     "slug": "oper-chemnitz",
     "name": "Oper Chemnitz",
     "city": "Chemnitz",

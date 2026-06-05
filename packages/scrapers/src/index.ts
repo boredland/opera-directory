@@ -1,4 +1,5 @@
 import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
+import { scrapeAnhaltischesTheaterDessau } from "./houses/anhaltisches-theater-dessau";
 import { scrapeBadischesStaatstheaterKarlsruhe } from "./houses/badisches-staatstheater-karlsruhe";
 import { scrapeBayerischeStaatsoper } from "./houses/bayerische-staatsoper";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
@@ -17,10 +18,12 @@ import { scrapeStaatsoperHamburg } from "./houses/staatsoper-hamburg";
 import { scrapeStaatsoperHannover } from "./houses/staatsoper-hannover";
 import { scrapeStaatsoperStuttgart } from "./houses/staatsoper-stuttgart";
 import { scrapeStaatstheaterAmGaertnerplatz } from "./houses/staatstheater-am-gaertnerplatz";
+import { scrapeStaatstheaterAugsburg } from "./houses/staatstheater-augsburg";
 import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
+import { scrapeTheaterFreiburg } from "./houses/theater-freiburg";
 import type { HouseScraper } from "./types";
 
 export * from "./fetch";
@@ -55,4 +58,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "bayerische-staatsoper": scrapeBayerischeStaatsoper,
   "staatstheater-am-gaertnerplatz": scrapeStaatstheaterAmGaertnerplatz,
   "oper-chemnitz": scrapeOperChemnitz,
+  "staatstheater-augsburg": scrapeStaatstheaterAugsburg,
+  "anhaltisches-theater-dessau": scrapeAnhaltischesTheaterDessau,
+  "theater-freiburg": scrapeTheaterFreiburg,
 };
