@@ -1,0 +1,42 @@
+[
+  {
+    "id": "oper-chemnitz/cabaret/2026-06-10/19:30",
+    "production_id": "oper-chemnitz/cabaret",
+    "date": "2026-06-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus - Saal",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-chemnitz/der-fliegende-hollaender/2026-06-13/19:30",
+    "production_id": "oper-chemnitz/der-fliegende-hollaender",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "venue_room": "Opernhaus - Saal",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-chemnitz/der-vogelhaendler/2026-06-14/18:00",
+    "production_id": "oper-chemnitz/der-vogelhaendler",
+    "date": "2026-06-14",
+    "time": "18:00",
+    "venue_room": "Opernhaus - Saal",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-chemnitz/don-giovanni/2026-06-05/19:30",
+    "production_id": "oper-chemnitz/don-giovanni",
+    "date": "2026-06-05",
+    "time": "19:30",
+    "venue_room": "Opernhaus - Saal",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-chemnitz/rummelplatz/2026-06-06/19:30",
+    "production_id": "oper-chemnitz/rummelplatz",
+    "date": "2026-06-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus - Saal",
+    "status": "scheduled"
+  }
+]
