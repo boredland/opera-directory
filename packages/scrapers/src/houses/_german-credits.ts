@@ -61,7 +61,7 @@ export function composerFromText(text: string): string | null {
   const name = m[1]
     // cut at the next credit/clause — these can be space-separated ("Verdi nach …")
     // or concatenated with no space ("TschaikowskyLibretto …") in stripped markup.
-    .split(/\s+(?:nach|und|mit|für|frei nach|u\.\s?a\.)\b/i)[0]
+    .split(/\s+(?:nach|und|mit|für|frei nach|basierend|u\.\s?a\.)\b/i)[0]
     ?.split(/Libretto|Text von|Choreograf|Inszenierung|Regie\b|Musikalische/)[0]
     // a German article/verb after the name marks the start of prose (the name
     // particles von/van/de/di are NOT in this list, so "Carl Maria von Weber" survives).

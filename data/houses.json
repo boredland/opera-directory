@@ -571,5 +571,49 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "spiritec CMS, no proxy. Spielplan fed by /callbacks/getschedule.json?filter=musiktheater/&loadForwardFrom={YYYY-MM-01} — one month of performance HTML per call (schema.org Microdata <meta itemprop=startDate> + /spielplan/monatsplan/musiktheater/{slug}/{perfId}/ link); walk ~14 months forward, group by slug. The 'musiktheater' sparte is MIXED (musical/dance/song) → fetch each detail and keep only when production__author reads 'Oper/Operette … von {Composer}' (composerFromText), excluding musical/tanztheater. Detail: h1 title, crew__item creative team (no sung cast). Future/season-only → Wikidata backfill."
+  },
+  {
+    "slug": "theater-nordhausen",
+    "name": "Theater Nordhausen",
+    "city": "Nordhausen",
+    "country": "DE",
+    "website": "https://theater-nordhausen.de",
+    "wikidata": "Q46810062",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Contao CMS, server-rendered, no proxy. /spielplan one page; each performance <li> has data-sparten — keep 'musiktheater'. Productions → /musiktheater/{slug} detail: title <h2 class='titel'> (SINGLE quotes), composer from <p class=utitel> '{genre} von {X}' (composerFromText), dates in div.details_kalender <li> (data-title '…-DD-MM-YYYY' + .time + .ort venue/guest house), besetzung <dl> where <dt class=spacer> splits creative (German labels) from sung roles. Drop 'oper-hautnah' preview slugs, galas (no composer), musicals (utitel 'Musical'). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-vorpommern",
+    "name": "Theater Vorpommern",
+    "city": "Stralsund",
+    "country": "DE",
+    "website": "https://www.theater-vorpommern.de",
+    "wikidata": "Q2415981",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Server-rendered (Stralsund/Greifswald/Putbus), no proxy. Sparte filter is an AJAX endpoint /de/updateSpielplan?f3=Musiktheater → opera card fragment with /de/programm/{slug} links (full page has no per-item sparte marker). Detail: <h1> title, first 'lead list-unstyled' <li> '{genre} von {Composer}' (composerFromText; can't key on 'oper' — Don Giovanni is 'Dramma giocoso'; use a genre blacklist musical/kinderoper/schauspiel/ballett/tanz/konzert/sicht + required composer). Perfs: li.venue-item data-location venue + 'Wd DD.MM.YYYY / HH:MM Uhr'. Creative = the <p> before the bes2 <h3>, cast = the <p> after it; both 'Label <a /de/ensemble/>Name</a>' rows, alternating casts give several <a> per label. Future-only → Wikidata backfill."
+  },
+  {
+    "slug": "theater-plauen-zwickau",
+    "name": "Theater Plauen-Zwickau",
+    "city": "Zwickau",
+    "country": "DE",
+    "website": "https://www.theater-plauen-zwickau.de",
+    "wikidata": "Q15452771",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Custom PHP CMS, server-rendered, no proxy. /spielplan/ one page of div.event rows; class carries the sparte token ('musiktheater') + city-N. Row a.title (class 'title no-transl') href spielplan.php?seite=0&id={id} = production id; title before .subtitle div, subtitle '{genre} von {Composer}' (composerFromText; drop 'Musical'), complete_date DD.MM.YYYY, time 'HH:MM Uhr', location.mobile venue. Group performances by id from the listing. Detail spielplan.php?seite=0&id={id}: <h2 …>Besetzung</h2> then '<strong>label</strong> <a class=employee>Name</a>' rows → creative (German labels) + sung roles (empty for revivals with no published cast). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-pforzheim",
+    "name": "Theater Pforzheim",
+    "city": "Pforzheim",
+    "country": "DE",
+    "website": "https://www.theater-pforzheim.de",
+    "wikidata": "Q2328283",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3 + jweiland events2, server-rendered, no proxy. Overview /spielplan/oper-und-operette.html lists one link per production (sentinel eventDetail/1970-01-01_0100/{slug}.html). Detail: <h1> title, <h2 class=fontsize4> '{genre} von {Composer} | …' (composerFromText; drop 'Musical' + require composer to filter the revues/musicals on the overview), 'Alle Termine' accordion <dt>…DD.MM.YYYY</dt><dd>…Beginn: HH:MM…</dd> (incl PAST dates → status by date), JSON-LD Event location.name = venue, free-text Besetzung 'role <a><strong>NAME</strong></a>' rows → creative+cast. Text has soft hyphens U+00AD (stripped). Future/season → Wikidata backfill."
   }
 ]
