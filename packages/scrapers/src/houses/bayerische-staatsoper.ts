@@ -79,12 +79,17 @@ function parsePremieres(html: string, window: ScrapeWindow): RawProduction[] {
   // title, the following row its Dirigent/Regie/Sängerinnen/Sänger detail.
   const out: RawProduction[] = [];
   const rows = html.split(/<tr[^>]*>/).slice(1);
+  let titles = 0;
+  let firstTitle = "";
   for (let i = 0; i < rows.length; i++) {
     const titleCell = rows[i]?.match(/<td[^>]*\bcolspan="\d+"[^>]*>([\s\S]*?)<\/td>/);
     if (!titleCell?.[1]) continue;
+    titles++;
+    if (!firstTitle) firstTitle = stripHtml(titleCell[1]).slice(0, 90);
     const prod = buildProduction(titleCell[1], rows[i + 1] ?? "", window);
     if (prod) out.push(prod);
   }
+  console.warn(`münchen: rows=${rows.length} titleRows=${titles} built=${out.length} first="${firstTitle}"`);
   return out;
 }
 
