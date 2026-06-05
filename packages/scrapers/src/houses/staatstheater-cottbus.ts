@@ -39,22 +39,20 @@ export async function scrapeStaatstheaterCottbus(
     // Split on the per-row marker; each chunk runs until the next article.
     const chunks = html.split(/<div id="article_/).slice(1);
     for (const chunk of chunks) {
-      const slug = chunk.match(/^([a-z0-9-]+)"/)?.[1];
-      if (!slug) continue;
       const division = stripHtml(chunk.match(/event-division">([\s\S]*?)<\/span>/)?.[1] ?? "");
       if (!/Musiktheater/i.test(division)) continue;
-      const date = chunk.match(/fulldate">\s*(\d{4}-\d{2}-\d{2})/)?.[1] as IsoDate | undefined;
-      if (!date) continue;
+      // slug from the clean link; date is the id suffix "{slug_with_underscores}_{YYYY-MM-DD}".
+      const slug = chunk.match(/artikel-([a-z0-9-]+)\.html/)?.[1];
+      const date = chunk.match(/^[a-z0-9_]+_(\d{4}-\d{2}-\d{2})"/)?.[1] as IsoDate | undefined;
+      if (!slug || !date) continue;
       if (window.since && date < window.since) continue;
       const time = chunk.match(/event-time">\s*(\d{1,2}[:.]\d{2})/)?.[1]?.replace(".", ":") ?? null;
 
       let entry = bySlug.get(slug);
       if (!entry) {
-        const subtitle = stripHtml(
-          chunk.match(/class="subtitle">([\s\S]*?)<\/(?:div|p|h\d)>/)?.[1] ?? "",
-        );
+        const subtitle = stripHtml(chunk.match(/class="subtitle">([\s\S]*?)<\/div>/)?.[1] ?? "");
         entry = {
-          title: stripHtml(chunk.match(/class="title">([\s\S]*?)<\/h3>/)?.[1] ?? ""),
+          title: stripHtml(chunk.match(/class="title[^"]*"[^>]*>([\s\S]*?)<\/h3>/)?.[1] ?? ""),
           composer: composerFromText(subtitle),
           venue: stripHtml(chunk.match(/event-location">([\s\S]*?)<\/span>/)?.[1] ?? "") || null,
           perfs: [],

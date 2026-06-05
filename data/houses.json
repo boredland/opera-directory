@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "oper-halle",
+    "name": "Oper Halle",
+    "city": "Halle",
+    "country": "DE",
+    "website": "https://www.buehnen-halle.de",
+    "wikidata": "Q113485171",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Django CMS, server-rendered. /de/program?genre=oper filters to opera server-side. Each '<li class=event-item>': title <a class=event-title><span class=h2>, date as plain text 'Mi, 10.06.2026, 19:30 Uhr', location, link /de/program/{slug}/{id} (one per performance). Grouped by slug; composer fetched from the detail page subtitle ('… von X')."
+  },
+  {
     "slug": "staatstheater-cottbus",
     "name": "Staatstheater Cottbus",
     "city": "Cottbus",
