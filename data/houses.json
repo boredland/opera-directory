@@ -226,10 +226,9 @@
     "country": "DE",
     "website": "https://www.staatsoper.de",
     "wikidata": "Q681931",
-    "strategy": "jsonld-event",
-    "enabled": false,
-    "proxy": true,
-    "notes": "BLOCKED 2026-06: staatsoper.de returns HTTP 403 + full-page 'Ein hoffentlich kurzes Intermezzo!' maintenance banner — confirmed genuine maintenance (still 403 via the fetch-proxy with a residential IP + FlareSolverr, so not a datacenter-IP/bot block). Retry later. proxy:true pre-set in case it blocks bots once back. When live: spielplan has a JSON-backed calendar; production pages list full creative team + Besetzung per date."
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented from WIKIPEDIA (the maintenance is over, but staatsoper.de is now a Cloudflare-challenged JS SPA — cf_chl/challenge-platform — so the live spielplan needs a Cloudflare-solving fetch path, TODO). Historical premiere casts come from the Wikipedia list 'Premierenbesetzungen der Bayerischen Staatsoper ab 2014' (covers 2013/14–2017/18, 30 premieres): each is a colspan title row ('Work, … Musik von Composer / Composer (Musik) / von Librettist und Composer, DD. Monat YYYY') + a 4-column detail row (Dirigent·Chorleiter | Regie·Ausstattung·Licht | Sängerinnen | Sänger) of '<a>Name</a> <small><i>Role</i></small>'. ~8 well-known works omit the composer in the source → null, filled by the cross-house merge. Wikidata (P1191) backfills further premieres."
   },
   {
     "slug": "royal-opera-house",
