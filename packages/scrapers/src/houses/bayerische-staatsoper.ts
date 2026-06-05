@@ -1,5 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import { type FetchContext, fetchJson, proxyFetch, stripHtml } from "../fetch";
+import { type FetchContext, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,
@@ -80,11 +80,14 @@ async function reconLiveViaProxy(): Promise<void> {
     console.warn("münchen-recon: no FETCH_PROXY_URL (skipping live probe)");
     return;
   }
-  const proxy = { url, token: process.env.FETCH_PROXY_TOKEN };
+  // &solve=1 forces the proxy's FlareSolverr path (München's challenge isn't a
+  // small CF page, so the proxy's auto-detect doesn't fire).
+  const target = "https://www.staatsoper.de/spielplan";
+  const proxyUrl = `${url}?url=${encodeURIComponent(target)}&solve=1`;
+  const headers: Record<string, string> = { "User-Agent": "Mozilla/5.0" };
+  if (process.env.FETCH_PROXY_TOKEN) headers.Authorization = `Bearer ${process.env.FETCH_PROXY_TOKEN}`;
   try {
-    const res = await proxyFetch("https://www.staatsoper.de/spielplan", proxy, {
-      headers: { "User-Agent": "Mozilla/5.0", "Accept-Language": "de,en;q=0.8" },
-    });
+    const res = await fetch(proxyUrl, { headers });
     const body = await res.text();
     const vendors = ["__cf_chl_opt", "cf-chl_", "cf_chl", "challenge-platform", "Just a moment", "cf-browser-verification", "_Incapsula_", "Incapsula", "Imperva", "distil", "Akamai", "_abck", "ak_bmsc", "/_sec/", "px-captcha", "perimeterx", "datadome", "DataDome"]
       .filter((m) => body.includes(m));
