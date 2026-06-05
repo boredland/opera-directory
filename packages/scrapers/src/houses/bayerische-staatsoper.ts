@@ -54,8 +54,12 @@ export async function scrapeBayerischeStaatsoper(
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
-    if (!res.parse?.text) console.warn(`münchen: API response keys=${JSON.stringify(res).slice(0, 200)}`);
-    productions.push(...parsePremieres(res.parse?.text ?? "", window));
+    const text = res.parse?.text ?? "";
+    console.warn(
+      `münchen: text=${text.length}b wikitable=${(text.match(/wikitable/g) ?? []).length} ` +
+        `colspan=${(text.match(/<td[^>]*colspan="\d+"[^>]*>/g) ?? []).length} head=${text.slice(0, 80)}`,
+    );
+    productions.push(...parsePremieres(text, window));
   } catch (err) {
     console.warn("bayerische-staatsoper: wikipedia import failed:", err);
   }
