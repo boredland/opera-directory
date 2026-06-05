@@ -32,8 +32,6 @@ const WIKI_API = `https://de.wikipedia.org/w/api.php?action=parse&page=${WIKI_PA
 /** Bayerische Staatsoper on Wikidata — see data/houses.json. */
 const WIKIDATA_QID = "Q681931";
 
-const DEBUG_ONCE = { n: 0 };
-
 const GERMAN_MONTHS: Record<string, string> = {
   Januar: "01",
   Februar: "02",
@@ -56,12 +54,7 @@ export async function scrapeBayerischeStaatsoper(
   const productions: RawProduction[] = [];
   try {
     const res = await fetchJson<{ parse?: { text?: string } }>(WIKI_API, ctx);
-    const text = res.parse?.text ?? "";
-    console.warn(
-      `münchen: text=${text.length}b wikitable=${(text.match(/wikitable/g) ?? []).length} ` +
-        `colspan=${(text.match(/<td[^>]*colspan="\d+"[^>]*>/g) ?? []).length} head=${text.slice(0, 80)}`,
-    );
-    productions.push(...parsePremieres(text, window));
+    productions.push(...parsePremieres(res.parse?.text ?? ""));
   } catch (err) {
     console.warn("bayerische-staatsoper: wikipedia import failed:", err);
   }
@@ -76,39 +69,26 @@ export async function scrapeBayerischeStaatsoper(
   return { house_slug: "bayerische-staatsoper", productions };
 }
 
-function parsePremieres(html: string, window: ScrapeWindow): RawProduction[] {
+function parsePremieres(html: string): RawProduction[] {
   // Scan all <tr> rows directly (no per-table match): a colspan row is a production
   // title, the following row its Dirigent/Regie/Sängerinnen/Sänger detail.
   const out: RawProduction[] = [];
   const rows = html.split(/<tr[^>]*>/).slice(1);
-  let titles = 0;
-  let firstTitle = "";
   for (let i = 0; i < rows.length; i++) {
     const titleCell = rows[i]?.match(/<td[^>]*\bcolspan="\d+"[^>]*>([\s\S]*?)<\/td>/);
     if (!titleCell?.[1]) continue;
-    titles++;
-    if (!firstTitle) {
-      const wt = titleCell[1].match(/<b[^>]*><a[^>]*>([^<]+)<\/a>/)?.[1];
-      firstTitle = `work=${JSON.stringify(wt)} date=${parseGermanDate(stripHtml(titleCell[1]))}`;
-    }
-    const prod = buildProduction(titleCell[1], rows[i + 1] ?? "", window);
+    const prod = buildProduction(titleCell[1], rows[i + 1] ?? "");
     if (prod) out.push(prod);
   }
-  console.warn(`münchen: rows=${rows.length} titleRows=${titles} built=${out.length} first="${firstTitle}"`);
   return out;
 }
 
-function buildProduction(
-  titleHtml: string,
-  detailRow: string,
-  window: ScrapeWindow,
-): RawProduction | null {
+function buildProduction(titleHtml: string, detailRow: string): RawProduction | null {
   const workTitle = stripHtml(titleHtml.match(/<b[^>]*><a[^>]*>([^<]+)<\/a>/)?.[1] ?? "");
   const date = parseGermanDate(stripHtml(titleHtml));
-  if (DEBUG_ONCE.n++ < 1)
-    console.warn(`münchen build: wt=${JSON.stringify(workTitle)} date=${date} since=${window.since}`);
+  // No `since` filter: this is a fixed, curated historical list (30 premieres), cheap
+  // to re-emit on every run; the store merge keeps it idempotent.
   if (!workTitle || !date) return null;
-  if (window.since && date < window.since) return null;
 
   const cells = [...detailRow.matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((m) => m[1] ?? "");
   const creative_team = [
