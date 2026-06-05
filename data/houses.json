@@ -261,7 +261,8 @@
     "wikidata": "Q208805",
     "strategy": "spielplan-html",
     "enabled": true,
-    "notes": "Adapter implemented (future + wikidata backfill). TYPO3, server-rendered. /produktionen links every production as /detail/{slug} (all divisions; sparte filter is client-side). Fetch each detail, keep those whose <title> is 'Title | Musiktheater | …'; h1 title, subtitle 'Oper/Operette von Composer' (composerFromText), Termine dates as plain DD.MM.YYYY. ~74 detail fetches (filtered to opera)."
+    "proxy": true,
+    "notes": "Adapter implemented (future + wikidata backfill). proxy:true — the /detail/ pages 403 the CI datacenter IP (the index is fine), so route via the proxy's residential IP. TYPO3, server-rendered. /produktionen links every production as /detail/{slug} (all divisions; sparte filter is client-side). Fetch each detail, keep those whose <title> is 'Title | Musiktheater | …'; h1 title, subtitle 'Oper/Operette von Composer' (composerFromText), Termine dates as plain DD.MM.YYYY. ~74 detail fetches (filtered to opera)."
   },
   {
     "slug": "staatstheater-kassel",
