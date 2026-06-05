@@ -405,6 +405,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "bela-bartok/herzog-blaubarts-burg",
+    "title": "Herzog Blaubarts Burg",
+    "composer_slug": "bela-bartok"
+  },
+  {
     "slug": "benjamin-britten/a-midsummer-night-s-dream",
     "title": "A Midsummer Night’s Dream",
     "composer_slug": "benjamin-britten"
@@ -607,6 +612,11 @@
   {
     "slug": "club-zone-2-zuruck-in-die-zukunft",
     "title": "Club Zone #2: Zurück in die Zukunft",
+    "composer_slug": ""
+  },
+  {
+    "slug": "come-from-away",
+    "title": "Come From Away",
     "composer_slug": ""
   },
   {
@@ -880,6 +890,11 @@
     "composer_slug": "emily-bronte"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin",
+    "title": "Die Csárdásfürstin",
+    "composer_slug": "emmerich-kalman"
+  },
+  {
     "slug": "engelbert-humperdinck/dornroschen",
     "title": "Dornröschen",
     "composer_slug": "engelbert-humperdinck"
@@ -1070,6 +1085,11 @@
     "composer_slug": "franz-schreker"
   },
   {
+    "slug": "frederick-loewe-buch/my-fair-lady",
+    "title": "My Fair Lady",
+    "composer_slug": "frederick-loewe-buch"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady",
     "title": "My Fair Lady",
     "composer_slug": "frederick-loewe"
@@ -1180,6 +1200,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "title": "L’elisir d’amore / Der Liebestrank",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/la-favorite",
     "title": "La Favorite",
     "composer_slug": "gaetano-donizetti"
@@ -1230,6 +1255,11 @@
     "composer_slug": "georg-friedrich-handel"
   },
   {
+    "slug": "georg-friedrich-handel/furioso",
+    "title": "Furioso",
+    "composer_slug": "georg-friedrich-handel"
+  },
+  {
     "slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
     "title": "Giulio Cesare in Egitto",
     "composer_slug": "georg-friedrich-handel"
@@ -1273,6 +1303,11 @@
     "slug": "gerd-natschinski/mein-freund-bunbury",
     "title": "Mein Freund Bunbury",
     "composer_slug": "gerd-natschinski"
+  },
+  {
+    "slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
+    "title": "Suor Angelica",
+    "composer_slug": "giacomo-puccini-aus-il-trittico"
   },
   {
     "slug": "giacomo-puccini-d/la-boheme",
@@ -1725,9 +1760,19 @@
     "composer_slug": "jonathan-dove-und-alasdair-middleton-eine-kooperation-mit-der-hochschule-fur-musik-freiburg"
   },
   {
+    "slug": "jonathan-dove/der-geheime-garten",
+    "title": "Der geheime Garten",
+    "composer_slug": "jonathan-dove"
+  },
+  {
     "slug": "jonathan-dove/itch",
     "title": "Itch",
     "composer_slug": "jonathan-dove"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit",
+    "title": "Polnische Hochzeit",
+    "composer_slug": "joseph-beer"
   },
   {
     "slug": "jules-massenet/werther",
@@ -1788,6 +1833,16 @@
     "slug": "karaokesingen-zu-sinfonischer-begleitung/orchesterkaraoke",
     "title": "Orchesterkaraoke",
     "composer_slug": "karaokesingen-zu-sinfonischer-begleitung"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea",
+    "title": "Król Roger (REA)",
+    "composer_slug": "karol-szymanowski"
+  },
+  {
+    "slug": "karola-obermuller/malina",
+    "title": "Malina",
+    "composer_slug": "karola-obermuller"
   },
   {
     "slug": "kasalla-nit-esu-laut",
@@ -1970,14 +2025,29 @@
     "composer_slug": "lee-hoiby-francis-poulenc"
   },
   {
+    "slug": "lempicka",
+    "title": "Lempicka",
+    "composer_slug": ""
+  },
+  {
     "slug": "leo-delibes/lakme",
     "title": "Lakmé",
     "composer_slug": "leo-delibes"
   },
   {
+    "slug": "leonard-bernstein-broadway-revival/candide",
+    "title": "Candide",
+    "composer_slug": "leonard-bernstein-broadway-revival"
+  },
+  {
     "slug": "leonard-bernstein-musik/on-the-town",
     "title": "On the Town",
     "composer_slug": "leonard-bernstein-musik"
+  },
+  {
+    "slug": "leonard-bernstein/candide",
+    "title": "Candide",
+    "composer_slug": "leonard-bernstein"
   },
   {
     "slug": "leonard-bernstein/west-side-story",
@@ -2115,6 +2185,11 @@
     "composer_slug": "manuel-moser-urauffuhrung"
   },
   {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "title": "Charlie und die Schokoladenfabrik",
+    "composer_slug": "marc-shaiman-gesangstexte-von-scott-wittman"
+  },
+  {
     "slug": "maria-lazar-urauffuhrung/veritas-eine-hexenjagd",
     "title": "Veritas: Eine Hexenjagd",
     "composer_slug": "maria-lazar-urauffuhrung"
@@ -2133,6 +2208,11 @@
     "slug": "mary-finsterer/antarctica-de",
     "title": "Antarctica (DE)",
     "composer_slug": "mary-finsterer"
+  },
+  {
+    "slug": "mason-bates/the-r-evolution-of-steve-jobs",
+    "title": "The (R)evolution of Steve Jobs",
+    "composer_slug": "mason-bates"
   },
   {
     "slug": "matineekonzert",
@@ -2570,6 +2650,11 @@
     "composer_slug": "paul-johannes-kirschner"
   },
   {
+    "slug": "paul-moravec/the-shining-eea",
+    "title": "The Shining (EEA)",
+    "composer_slug": "paul-moravec"
+  },
+  {
     "slug": "penzance-von-william-schwenck-gilbert/die-piraten",
     "title": "Die Piraten",
     "composer_slug": "penzance-von-william-schwenck-gilbert"
@@ -2633,6 +2718,11 @@
     "slug": "piraten-fluchen-nicht",
     "title": "Piraten fluchen nicht",
     "composer_slug": ""
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "title": "Eugen Onegin",
+    "composer_slug": "pjotr-iljitsch-tschaikowsky"
   },
   {
     "slug": "pjotr-tschaikowski/pique-dame",
@@ -3135,9 +3225,19 @@
     "composer_slug": "thierry-tidrow"
   },
   {
+    "slug": "thomas-ades/powder-her-face",
+    "title": "Powder Her Face",
+    "composer_slug": "thomas-ades"
+  },
+  {
     "slug": "tod-in-venedig",
     "title": "Tod in Venedig",
     "composer_slug": ""
+  },
+  {
+    "slug": "tom-kitt-buch/next-to-normal",
+    "title": "Next to Normal",
+    "composer_slug": "tom-kitt-buch"
   },
   {
     "slug": "tom-sawyer",

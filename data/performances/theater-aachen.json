@@ -1,0 +1,555 @@
+[
+  {
+    "id": "theater-aachen/candide/2027-06-26/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-06-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/candide/2027-07-01/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-07-01",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/candide/2027-07-03/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-07-03",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/candide/2027-07-09/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-07-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/candide/2027-07-13/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-07-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/candide/2027-07-17/19:00",
+    "production_id": "theater-aachen/candide",
+    "date": "2027-07-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2026-12-05/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2026-12-05",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2026-12-13/17:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2026-12-13",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2026-12-18/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2026-12-18",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2026-12-23/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2026-12-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-01-09/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-01-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-01-31/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-01-31",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-03-07/17:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-03-07",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-03-14/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-03-14",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-03-29/17:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-03-29",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-04-04/17:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-04-04",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-04-14/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-04-14",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-05-02/17:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-05-02",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin/2027-05-15/19:00",
+    "production_id": "theater-aachen/die-csrdsfuerstin",
+    "date": "2027-05-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-10-10/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-10-10",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-10-15/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-10-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-10-30/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-10-30",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-11-07/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-11-22/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-11-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-12-11/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-12-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2026-12-27/17:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2026-12-27",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2027-01-02/19:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2027-01-02",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-carlo/2027-01-17/17:00",
+    "production_id": "theater-aachen/don-carlo",
+    "date": "2027-01-17",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-04-10/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-04-10",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-04-16/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-04-16",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-04-22/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-04-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-04-30/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-04-30",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-05-17/17:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-05-17",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-05-30/17:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-05-30",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-06-11/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-06-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-07-02/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-07-02",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-07-06/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-07-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/don-giovanni/2027-07-16/19:00",
+    "production_id": "theater-aachen/don-giovanni",
+    "date": "2027-07-16",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/eugen-onegin/2026-06-10/20:00",
+    "production_id": "theater-aachen/eugen-onegin",
+    "date": "2026-06-10",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/eugen-onegin/2026-06-14/17:00",
+    "production_id": "theater-aachen/eugen-onegin",
+    "date": "2026-06-14",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-06-06/17:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-06-06",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-06-13/17:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-06-13",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-06-27/17:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-06-27",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-06-30/19:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-06-30",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-07-04/17:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-07-04",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-07-14/19:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-07-14",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/furioso/2027-07-18/17:00",
+    "production_id": "theater-aachen/furioso",
+    "date": "2027-07-18",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg/2026-06-17/19:00",
+    "production_id": "theater-aachen/herzog-blaubarts-burg",
+    "date": "2026-06-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg/2026-06-21/17:00",
+    "production_id": "theater-aachen/herzog-blaubarts-burg",
+    "date": "2026-06-21",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg/2026-06-28/17:00",
+    "production_id": "theater-aachen/herzog-blaubarts-burg",
+    "date": "2026-06-28",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg/2026-07-11/19:00",
+    "production_id": "theater-aachen/herzog-blaubarts-burg",
+    "date": "2026-07-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg/2026-07-15/19:00",
+    "production_id": "theater-aachen/herzog-blaubarts-burg",
+    "date": "2026-07-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2026-10-25/19:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2026-10-25",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2026-11-08/19:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2026-11-29/17:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2026-11-29",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2026-12-19/19:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2026-12-19",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2026-12-25/17:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2026-12-25",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2027-01-22/19:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2027-01-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank/2027-02-11/19:00",
+    "production_id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "date": "2027-02-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/malina/2026-06-06/19:00",
+    "production_id": "theater-aachen/malina",
+    "date": "2026-06-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/malina/2026-06-25/19:00",
+    "production_id": "theater-aachen/malina",
+    "date": "2026-06-25",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/oper-1-24-25/2026-06-26/19:00",
+    "production_id": "theater-aachen/oper-1-24-25",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/oper-1-24-25/2026-07-02/19:00",
+    "production_id": "theater-aachen/oper-1-24-25",
+    "date": "2026-07-02",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/oper-1-24-25/2026-07-09/19:00",
+    "production_id": "theater-aachen/oper-1-24-25",
+    "date": "2026-07-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-06-07/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-06-07",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-06-13/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-06-13",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-06-20/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-06-24/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-07-01/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-07-01",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/suor-angelica/2026-07-05/20:00",
+    "production_id": "theater-aachen/suor-angelica",
+    "date": "2026-07-05",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-02-07/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-02-07",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-02-21/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-02-21",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-02-28/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-02-28",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-03-09/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-03-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-03-27/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-03-27",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-04-18/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-04-18",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-05-09/17:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-05-09",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-05-13/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-05-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs/2027-06-10/19:00",
+    "production_id": "theater-aachen/the-revolution-of-steve-jobs",
+    "date": "2027-06-10",
+    "time": "19:00",
+    "status": "scheduled"
+  }
+]

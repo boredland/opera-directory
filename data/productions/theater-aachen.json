@@ -1,0 +1,507 @@
+[
+  {
+    "id": "theater-aachen/candide",
+    "work_slug": "leonard-bernstein-broadway-revival/candide",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/candide.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-aachen/die-csrdsfuerstin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/die-csrdsfuerstin.html",
+    "creative_team": [
+      {
+        "person_slug": "jula-reindell",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-aachen/don-carlo",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/don-carlo.html",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "elena-tzavara",
+        "role_slug": "giuseppe-verdi/don-carlo/regie-und-buhne"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/don-giovanni",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/don-giovanni.html",
+    "creative_team": [
+      {
+        "person_slug": "rahel-thiel",
+        "function": "director"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "judith-philipp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-aachen/eugen-onegin",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/eugen-onegin.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-einarsson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christopher-ward",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "verena-stoiber",
+        "function": "director"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yannik-funken",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "clara-hertel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jorge-ruvalcaba",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/eugen-onegin"
+      },
+      {
+        "person_slug": "ekaterina-chekmareva",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/filipjewna-amme"
+      },
+      {
+        "person_slug": "manuel-winckhler",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/gremin"
+      },
+      {
+        "person_slug": "pawel-lawreszuk",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/gremin"
+      },
+      {
+        "person_slug": "vasilis-tsanaktsidis",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/hauptmann"
+      },
+      {
+        "person_slug": "irina-popova",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/larina"
+      },
+      {
+        "person_slug": "angel-macias",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/lenski"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/olga"
+      },
+      {
+        "person_slug": "stefan-hagendorn",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/saretzkij"
+      },
+      {
+        "person_slug": "larisa-akbari",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/tatjana"
+      },
+      {
+        "person_slug": "hans-schaapkens",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/triquet"
+      },
+      {
+        "person_slug": "dmytro-trach",
+        "role_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/vorsanger"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/furioso",
+    "work_slug": "georg-friedrich-handel/furioso",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/furioso.html",
+    "creative_team": [
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sophie-du-vinage",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-aachen/herzog-blaubarts-burg",
+    "work_slug": "bela-bartok/herzog-blaubarts-burg",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/herzog-blaubarts-burg.html",
+    "creative_team": [
+      {
+        "person_slug": "christopher-ward",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulrich-wilker",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marcell-bakonyi",
+        "role_slug": "bela-bartok/herzog-blaubarts-burg/blaubart"
+      },
+      {
+        "person_slug": "irina-popova",
+        "role_slug": "bela-bartok/herzog-blaubarts-burg/judith"
+      },
+      {
+        "person_slug": "clara-hinterberger",
+        "role_slug": "bela-bartok/herzog-blaubarts-burg/szenische-einrichtung-und-abendspielleitung"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/lelisir-damore-der-liebestrank",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/lelisir-damore-der-liebestrank.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-einarsson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chanmin-chung",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sandra-munchow",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-wilker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yannik-funken",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gabriel-insignares",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jelena-rakic",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/adina"
+      },
+      {
+        "person_slug": "laia-valles",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/adina"
+      },
+      {
+        "person_slug": "jorge-ruvalcaba",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/belcore"
+      },
+      {
+        "person_slug": "sungwoo-hwang",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/dulcamara"
+      },
+      {
+        "person_slug": "evelyn-grunwald",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/gianetta"
+      },
+      {
+        "person_slug": "angel-macias",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/malina",
+    "work_slug": "karola-obermuller/malina",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/malina.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-einarsson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chanmin-chung",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franziska-angerer",
+        "function": "director"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yannik-funken",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pia-dederichs",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "fabio-stoll",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "larisa-akbari",
+        "role_slug": "karola-obermuller/malina/ich"
+      },
+      {
+        "person_slug": "micah-schroeder",
+        "role_slug": "karola-obermuller/malina/ivan"
+      },
+      {
+        "person_slug": "karola-obermuller",
+        "role_slug": "karola-obermuller/malina/komposition"
+      },
+      {
+        "person_slug": "peter-gilbert",
+        "role_slug": "karola-obermuller/malina/komposition"
+      },
+      {
+        "person_slug": "tina-hartmann",
+        "role_slug": "karola-obermuller/malina/libretto"
+      },
+      {
+        "person_slug": "valer-sabadus",
+        "role_slug": "karola-obermuller/malina/malina"
+      },
+      {
+        "person_slug": "elli-neubert",
+        "role_slug": "karola-obermuller/malina/mitarbeit-regie"
+      },
+      {
+        "person_slug": "angel-macias",
+        "role_slug": "karola-obermuller/malina/prinz"
+      },
+      {
+        "person_slug": "jelena-rakic",
+        "role_slug": "karola-obermuller/malina/prinzessin"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/oper-1-24-25",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/oper-1-24-25.html",
+    "creative_team": [
+      {
+        "person_slug": "janine-grellscheid",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alexander-einarsson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andre-callegaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kerstin-hagele",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "isabelle-becker",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yannik-funken",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "pawel-lawreszuk",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/alfred-doolittle"
+      },
+      {
+        "person_slug": "amy-schillings",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/blumenmadchen"
+      },
+      {
+        "person_slug": "hans-schaapkens",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/cockneys"
+      },
+      {
+        "person_slug": "sungwoo-hwang",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/cockneys"
+      },
+      {
+        "person_slug": "vasilis-tsanaktsidis",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/cockneys"
+      },
+      {
+        "person_slug": "wonhong-kim",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/cockneys"
+      },
+      {
+        "person_slug": "stephen-owen",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/colonel-pickering"
+      },
+      {
+        "person_slug": "clare-tunney",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/eliza-doolittle"
+      },
+      {
+        "person_slug": "marcel-oleniecki",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "ronan-collett",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/henry-higgins"
+      },
+      {
+        "person_slug": "amy-schillings",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-eynsford-hill"
+      },
+      {
+        "person_slug": "corinna-heller",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-eynsford-hill"
+      },
+      {
+        "person_slug": "kathleen-renish",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-higgins"
+      },
+      {
+        "person_slug": "anna-jussen",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-pearce-wirtin"
+      },
+      {
+        "person_slug": "jennifer-tan",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-pearce-wirtin"
+      },
+      {
+        "person_slug": "elena-tzavara",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/regie-und-buhne"
+      },
+      {
+        "person_slug": "dmytro-trach",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/servants"
+      },
+      {
+        "person_slug": "eva-diederix",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/servants"
+      },
+      {
+        "person_slug": "sungwoo-hwang",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/servants"
+      },
+      {
+        "person_slug": "woo-sung-kang",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/servants"
+      },
+      {
+        "person_slug": "hans-schaapkens",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/zoltan-kapathy"
+      },
+      {
+        "person_slug": "stefan-hagendorn",
+        "role_slug": "frederick-loewe-buch/my-fair-lady/zoltan-kapathy"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/suor-angelica",
+    "work_slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/suor-angelica.html",
+    "creative_team": [
+      {
+        "person_slug": "ramona-bartsch",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-wilker",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anastasia-patsakidou",
+        "role_slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa"
+      }
+    ]
+  },
+  {
+    "id": "theater-aachen/the-revolution-of-steve-jobs",
+    "work_slug": "mason-bates/the-r-evolution-of-steve-jobs",
+    "house_slug": "theater-aachen",
+    "is_revival": false,
+    "detail_url": "https://www.theateraachen.de/de/produktionen/the-revolution-of-steve-jobs.html",
+    "creative_team": [
+      {
+        "person_slug": "tristan-braun",
+        "function": "director"
+      },
+      {
+        "person_slug": "jemma-woolmore",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  }
+]

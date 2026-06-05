@@ -1,0 +1,968 @@
+[
+  {
+    "id": "staatstheater-regensburg/alcina",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/alcina.html",
+    "creative_team": [
+      {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manuel-schmitt",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "julia-berndt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "georg-friedrich-handel/alcina/alcina"
+      },
+      {
+        "person_slug": "polina-artsis",
+        "role_slug": "georg-friedrich-handel/alcina/bradamante"
+      },
+      {
+        "person_slug": "ben-weishaupt",
+        "role_slug": "georg-friedrich-handel/alcina/cembalo"
+      },
+      {
+        "person_slug": "ji-woo-lee",
+        "role_slug": "georg-friedrich-handel/alcina/cembalo"
+      },
+      {
+        "person_slug": "jonas-atwood",
+        "role_slug": "georg-friedrich-handel/alcina/melisso"
+      },
+      {
+        "person_slug": "scarlett-pulwey",
+        "role_slug": "georg-friedrich-handel/alcina/morgana"
+      },
+      {
+        "person_slug": "ben-weishaupt",
+        "role_slug": "georg-friedrich-handel/alcina/orgel"
+      },
+      {
+        "person_slug": "ji-woo-lee",
+        "role_slug": "georg-friedrich-handel/alcina/orgel"
+      },
+      {
+        "person_slug": "paolo-troian",
+        "role_slug": "georg-friedrich-handel/alcina/orgel"
+      },
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "georg-friedrich-handel/alcina/oronte"
+      },
+      {
+        "person_slug": "antonia-crames",
+        "role_slug": "georg-friedrich-handel/alcina/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "josepha-kersten",
+        "role_slug": "georg-friedrich-handel/alcina/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "rahel-brede",
+        "role_slug": "georg-friedrich-handel/alcina/ruggiero"
+      },
+      {
+        "person_slug": "johann-bruderl",
+        "role_slug": "georg-friedrich-handel/alcina/theorbe"
+      },
+      {
+        "person_slug": "oleg-chukhlieb",
+        "role_slug": "georg-friedrich-handel/alcina/theorbe"
+      },
+      {
+        "person_slug": "armand-fauchere",
+        "role_slug": "georg-friedrich-handel/alcina/violoncello"
+      },
+      {
+        "person_slug": "tomasz-skweres",
+        "role_slug": "georg-friedrich-handel/alcina/violoncello"
+      },
+      {
+        "person_slug": "yong-jun-lee",
+        "role_slug": "georg-friedrich-handel/alcina/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/candide-4",
+    "work_slug": "leonard-bernstein/candide",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/candide-4.html",
+    "creative_team": [
+      {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "john-spencer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "florian-toperngpong",
+        "role_slug": "leonard-bernstein/candide/assistenz-live-illustration"
+      },
+      {
+        "person_slug": "lotta-stein",
+        "role_slug": "leonard-bernstein/candide/assistenz-live-illustration"
+      },
+      {
+        "person_slug": "sofia-seidl",
+        "role_slug": "leonard-bernstein/candide/assistenz-live-illustration"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "leonard-bernstein/candide/candide"
+      },
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "leonard-bernstein/candide/cunegonde"
+      },
+      {
+        "person_slug": "sophie-bareis",
+        "role_slug": "leonard-bernstein/candide/cunegonde"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "leonard-bernstein/candide/dr-pangloss-martin"
+      },
+      {
+        "person_slug": "michael-heuberger",
+        "role_slug": "leonard-bernstein/candide/erzahler"
+      },
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "leonard-bernstein/candide/inquisitor-i-judge-i-governor-vanderdendur-ragotski"
+      },
+      {
+        "person_slug": "roman-ruslan-soltys",
+        "role_slug": "leonard-bernstein/candide/inquisitor-iii-judge-iii-croupier"
+      },
+      {
+        "person_slug": "florian-toperngpong",
+        "role_slug": "leonard-bernstein/candide/live-illustration"
+      },
+      {
+        "person_slug": "robert-nippoldt",
+        "role_slug": "leonard-bernstein/candide/live-illustration"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "leonard-bernstein/candide/maximilian-captain-inquisitor-ii-judge-ii"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "leonard-bernstein/candide/old-lady"
+      },
+      {
+        "person_slug": "scarlett-pulwey",
+        "role_slug": "leonard-bernstein/candide/paquette"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/charlie-und-die-schokoladenfabrik",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/charlie-und-die-schokoladenfabrik.html",
+    "creative_team": [
+      {
+        "person_slug": "yvonne-braschke",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "lucia-birzer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulrich-wiggers",
+        "function": "director"
+      },
+      {
+        "person_slug": "marie-julius",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulrich-wiggers",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "vincent-treftz",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/augustus-gier"
+      },
+      {
+        "person_slug": "felix-rabas",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/charlie-bucket"
+      },
+      {
+        "person_slug": "maria-magdalena-fleck",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/cherry"
+      },
+      {
+        "person_slug": "amelie-stangelmayer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "anja-kempa",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "annika-stohr",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "johanna-wittmann",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "mathilde-godin",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "mia-geitner",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "olivia-ramsteiner",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen"
+      },
+      {
+        "person_slug": "maria-mucha",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-bucket"
+      },
+      {
+        "person_slug": "esther-baar",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-gier"
+      },
+      {
+        "person_slug": "fabiana-locke",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-glotzer"
+      },
+      {
+        "person_slug": "beata-marti",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-grun"
+      },
+      {
+        "person_slug": "christiana-wimber",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandma-georgina"
+      },
+      {
+        "person_slug": "andrea-dohnicht-pruditsch",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandma-josephine"
+      },
+      {
+        "person_slug": "david-holz",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandpa-george"
+      },
+      {
+        "person_slug": "tom-zahner",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandpa-joe"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/herr-beauregarde"
+      },
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/herr-snob"
+      },
+      {
+        "person_slug": "malte-flierenbaum",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/jerry"
+      },
+      {
+        "person_slug": "fabiana-locke",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/kauende-divas"
+      },
+      {
+        "person_slug": "maria-mucha",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/kauende-divas"
+      },
+      {
+        "person_slug": "monika-schweighofer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/kauende-divas"
+      },
+      {
+        "person_slug": "christian-rosprim",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/mike-glotzer"
+      },
+      {
+        "person_slug": "tomas-stitilis",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "christian-rosprim",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/schuhplattler"
+      },
+      {
+        "person_slug": "fabiana-locke",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/schuhplattler"
+      },
+      {
+        "person_slug": "friederike-bauer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/schuhplattler"
+      },
+      {
+        "person_slug": "monika-schweighofer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/schuhplattler"
+      },
+      {
+        "person_slug": "malte-flierenbaum",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/umpalumpas"
+      },
+      {
+        "person_slug": "maria-mucha",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/umpalumpas"
+      },
+      {
+        "person_slug": "vincent-treftz",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/umpalumpas"
+      },
+      {
+        "person_slug": "monika-schweighofer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/veruca-snob"
+      },
+      {
+        "person_slug": "friederike-bauer",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/violet-beauregarde"
+      },
+      {
+        "person_slug": "alejandro-nicolas-firlei-fernandez",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/willy-wonka"
+      },
+      {
+        "person_slug": "thomas-lackinger",
+        "role_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/wirtsleute"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/come-from-away",
+    "work_slug": "come-from-away",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/come-from-away.html",
+    "creative_team": [
+      {
+        "person_slug": "gabriel-pitoni",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "maximilian-spielvogel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "benedict-kutzer",
+        "role_slug": "come-from-away/bodhran"
+      },
+      {
+        "person_slug": "marco-beck",
+        "role_slug": "come-from-away/drums"
+      },
+      {
+        "person_slug": "oliver-horeth",
+        "role_slug": "come-from-away/e-bass"
+      },
+      {
+        "person_slug": "sven-faller",
+        "role_slug": "come-from-away/e-bass"
+      },
+      {
+        "person_slug": "alona-khlevna",
+        "role_slug": "come-from-away/fiddle"
+      },
+      {
+        "person_slug": "kristina-kerestey",
+        "role_slug": "come-from-away/fiddle"
+      },
+      {
+        "person_slug": "robert-prill",
+        "role_slug": "come-from-away/gitarre"
+      },
+      {
+        "person_slug": "andreas-kowalewitz",
+        "role_slug": "come-from-away/keyboard"
+      },
+      {
+        "person_slug": "malte-weyland",
+        "role_slug": "come-from-away/mandoline"
+      },
+      {
+        "person_slug": "benedikt-dreher",
+        "role_slug": "come-from-away/whistle"
+      },
+      {
+        "person_slug": "lars-pfeiffer",
+        "role_slug": "come-from-away/whistle"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/der-geheime-garten",
+    "work_slug": "jonathan-dove/der-geheime-garten",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/der-geheime-garten.html",
+    "creative_team": [
+      {
+        "person_slug": "tom-woods",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "director"
+      },
+      {
+        "person_slug": "jakob-robert-schepers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sven-stratmann",
+        "role_slug": "jonathan-dove/der-geheime-garten/videodesign"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/krl-roger",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/krl-roger.html",
+    "creative_team": [
+      {
+        "person_slug": "gmd-stefan-veselka",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-regensburg/lempicka",
+    "work_slug": "lempicka",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/lempicka.html",
+    "creative_team": [
+      {
+        "person_slug": "gabriel-pitoni",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "sven-stratmann",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-regensburg/les-contes-dhoffmann",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/les-contes-dhoffmann.html",
+    "creative_team": [
+      {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tom-woods",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "juana-ines-cano-restrepo",
+        "function": "director"
+      },
+      {
+        "person_slug": "adrian-barwinkel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-regensburg/next-to-normal",
+    "work_slug": "tom-kitt-buch/next-to-normal",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/next-to-normal.html",
+    "creative_team": [
+      {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-ribitzki",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefan-rieckhoff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-regensburg/polnische-hochzeit-2",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/polnische-hochzeit-2.html",
+    "creative_team": [
+      {
+        "person_slug": "gabriel-pitoni",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "director"
+      },
+      {
+        "person_slug": "marie-julius",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "maximilian-spielvogel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "barbara-b-blaschke",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "sven-stratmann",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "seymur-karimov",
+        "role_slug": "joseph-beer/polnische-hochzeit/baron-mietek-oginsky"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "joseph-beer/polnische-hochzeit/casimir-von-kawietzky"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "joseph-beer/polnische-hochzeit/graf-boleslav-zagorsky"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "joseph-beer/polnische-hochzeit/graf-staschek-zagorsky"
+      },
+      {
+        "person_slug": "roger-krebs",
+        "role_slug": "joseph-beer/polnische-hochzeit/hauptmann-korossoff"
+      },
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "joseph-beer/polnische-hochzeit/jadja"
+      },
+      {
+        "person_slug": "sophie-bareis",
+        "role_slug": "joseph-beer/polnische-hochzeit/jadja"
+      },
+      {
+        "person_slug": "gabriel-kahler",
+        "role_slug": "joseph-beer/polnische-hochzeit/joseph-beer"
+      },
+      {
+        "person_slug": "lotte",
+        "role_slug": "joseph-beer/polnische-hochzeit/lotte"
+      },
+      {
+        "person_slug": "oolong",
+        "role_slug": "joseph-beer/polnische-hochzeit/lotte"
+      },
+      {
+        "person_slug": "jonas-atwood",
+        "role_slug": "joseph-beer/polnische-hochzeit/stani"
+      },
+      {
+        "person_slug": "theodora-varga",
+        "role_slug": "joseph-beer/polnische-hochzeit/stasi"
+      },
+      {
+        "person_slug": "rahel-brede",
+        "role_slug": "joseph-beer/polnische-hochzeit/suza"
+      },
+      {
+        "person_slug": "felix-rabas",
+        "role_slug": "joseph-beer/polnische-hochzeit/wizek-wazek"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/powder-her-face",
+    "work_slug": "thomas-ades/powder-her-face",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/powder-her-face.html",
+    "creative_team": [
+      {
+        "person_slug": "gmd-stefan-veselka",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ekat-cordes",
+        "function": "director"
+      },
+      {
+        "person_slug": "jakob-robert-schepers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alexander-naumann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-regensburg/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/rigoletto.html",
+    "creative_team": [
+      {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tom-woods",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carlos-wagner",
+        "function": "director"
+      },
+      {
+        "person_slug": "marie-julius",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christophe-ouvrard",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "giuseppe-verdi/rigoletto/duca"
+      },
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "sophie-bareis",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "svetlana-krutschinin",
+        "role_slug": "giuseppe-verdi/rigoletto/giovana"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "giuseppe-verdi/rigoletto/giovana"
+      },
+      {
+        "person_slug": "mert-oztaner",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-ceprano-gerichtsdiener"
+      },
+      {
+        "person_slug": "selena-altar",
+        "role_slug": "giuseppe-verdi/rigoletto/grafin-ceprano-ein-page"
+      },
+      {
+        "person_slug": "rahel-brede",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "jonas-atwood",
+        "role_slug": "giuseppe-verdi/rigoletto/monterone"
+      },
+      {
+        "person_slug": "roger-krebs",
+        "role_slug": "giuseppe-verdi/rigoletto/monterone"
+      },
+      {
+        "person_slug": "antonia-crames",
+        "role_slug": "giuseppe-verdi/rigoletto/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "tomas-stitilis",
+        "role_slug": "giuseppe-verdi/rigoletto/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "seymur-karimov",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "jonas-atwood",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      },
+      {
+        "person_slug": "roger-krebs",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-regensburg/the-shining",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/the-shining.html",
+    "creative_team": [
+      {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-stefan-veselka",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barbara-b-blaschke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "paul-moravec/the-shining-eea/bill-watson"
+      },
+      {
+        "person_slug": "sam-madwar",
+        "role_slug": "paul-moravec/the-shining-eea/buhne-videodesign"
+      },
+      {
+        "person_slug": "alejandro-nicolas-firlei-fernandez",
+        "role_slug": "paul-moravec/the-shining-eea/crooner"
+      },
+      {
+        "person_slug": "luke-sebo",
+        "role_slug": "paul-moravec/the-shining-eea/danny-torrance"
+      },
+      {
+        "person_slug": "vitus-heumuller",
+        "role_slug": "paul-moravec/the-shining-eea/danny-torrance"
+      },
+      {
+        "person_slug": "luke-sebo",
+        "role_slug": "paul-moravec/the-shining-eea/danny-torrance-schatten"
+      },
+      {
+        "person_slug": "vitus-heumuller",
+        "role_slug": "paul-moravec/the-shining-eea/danny-torrance-schatten"
+      },
+      {
+        "person_slug": "george-kounoupias",
+        "role_slug": "paul-moravec/the-shining-eea/delbert-grady"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "paul-moravec/the-shining-eea/derwent"
+      },
+      {
+        "person_slug": "aubrey-allicock",
+        "role_slug": "paul-moravec/the-shining-eea/dick-hallorann"
+      },
+      {
+        "person_slug": "opernchor",
+        "role_slug": "paul-moravec/the-shining-eea/ghost-chorus-voices-chorus"
+      },
+      {
+        "person_slug": "luisa-jurgensen-leni-eggelsberger-marlene-mathy-sarah-winter-clara-mirwald",
+        "role_slug": "paul-moravec/the-shining-eea/grady-girls"
+      },
+      {
+        "person_slug": "carl-rumstadt",
+        "role_slug": "paul-moravec/the-shining-eea/jack-torrance"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "paul-moravec/the-shining-eea/lloyd"
+      },
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "paul-moravec/the-shining-eea/lloyd"
+      },
+      {
+        "person_slug": "paul-rodewald",
+        "role_slug": "paul-moravec/the-shining-eea/lover"
+      },
+      {
+        "person_slug": "david-holz-mert-oztaner-jong-il-park-kyungpyo-park-christian-schossig-arpad-vulkan",
+        "role_slug": "paul-moravec/the-shining-eea/mafia-guys"
+      },
+      {
+        "person_slug": "seymur-karimov",
+        "role_slug": "paul-moravec/the-shining-eea/mark-torrance"
+      },
+      {
+        "person_slug": "sophie-bareis",
+        "role_slug": "paul-moravec/the-shining-eea/mrs-grady"
+      },
+      {
+        "person_slug": "rahel-brede",
+        "role_slug": "paul-moravec/the-shining-eea/mrs-massey"
+      },
+      {
+        "person_slug": "monika-huttche",
+        "role_slug": "paul-moravec/the-shining-eea/naked-lady-with-rotten-flesh"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "paul-moravec/the-shining-eea/party-guest-in-dog-mask"
+      },
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "paul-moravec/the-shining-eea/ranger"
+      },
+      {
+        "person_slug": "tomas-stitilis",
+        "role_slug": "paul-moravec/the-shining-eea/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "paul-moravec/the-shining-eea/senator"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "paul-moravec/the-shining-eea/stuart-ullmann"
+      },
+      {
+        "person_slug": "theodora-varga",
+        "role_slug": "paul-moravec/the-shining-eea/wendy-torrance"
+      }
+    ]
+  }
+]

@@ -1000,6 +1000,21 @@
     "name": "Moderation"
   },
   {
+    "slug": "bela-bartok/herzog-blaubarts-burg/blaubart",
+    "work_slug": "bela-bartok/herzog-blaubarts-burg",
+    "name": "Blaubart"
+  },
+  {
+    "slug": "bela-bartok/herzog-blaubarts-burg/judith",
+    "work_slug": "bela-bartok/herzog-blaubarts-burg",
+    "name": "Judith"
+  },
+  {
+    "slug": "bela-bartok/herzog-blaubarts-burg/szenische-einrichtung-und-abendspielleitung",
+    "work_slug": "bela-bartok/herzog-blaubarts-burg",
+    "name": "Szenische Einrichtung und Abendspielleitung"
+  },
+  {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/bottom",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Bottom"
@@ -1913,6 +1928,46 @@
     "slug": "claudio-monteverdi/l-orfeo/statisterie",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Statisterie"
+  },
+  {
+    "slug": "come-from-away/bodhran",
+    "work_slug": "come-from-away",
+    "name": "Bodhrán"
+  },
+  {
+    "slug": "come-from-away/drums",
+    "work_slug": "come-from-away",
+    "name": "Drums"
+  },
+  {
+    "slug": "come-from-away/e-bass",
+    "work_slug": "come-from-away",
+    "name": "E-Bass"
+  },
+  {
+    "slug": "come-from-away/fiddle",
+    "work_slug": "come-from-away",
+    "name": "Fiddle"
+  },
+  {
+    "slug": "come-from-away/gitarre",
+    "work_slug": "come-from-away",
+    "name": "Gitarre"
+  },
+  {
+    "slug": "come-from-away/keyboard",
+    "work_slug": "come-from-away",
+    "name": "Keyboard"
+  },
+  {
+    "slug": "come-from-away/mandoline",
+    "work_slug": "come-from-away",
+    "name": "Mandoline"
+  },
+  {
+    "slug": "come-from-away/whistle",
+    "work_slug": "come-from-away",
+    "name": "Whistle"
   },
   {
     "slug": "das-lehrerzimmer/ali",
@@ -3675,6 +3730,71 @@
     "name": "Senatoren"
   },
   {
+    "slug": "frederick-loewe-buch/my-fair-lady/alfred-doolittle",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Alfred Doolittle"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/blumenmadchen",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Blumenmädchen"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/cockneys",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Cockneys"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/colonel-pickering",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Colonel Pickering"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/eliza-doolittle",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Eliza Doolittle"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/freddy-eynsford-hill",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Freddy Eynsford-Hill"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/henry-higgins",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Henry Higgins"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/mrs-eynsford-hill",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Mrs. Eynsford-Hill"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/mrs-higgins",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Mrs. Higgins"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/mrs-pearce-wirtin",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Mrs. Pearce / Wirtin"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/regie-und-buhne",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Regie und Bühne"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/servants",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Servants"
+  },
+  {
+    "slug": "frederick-loewe-buch/my-fair-lady/zoltan-kapathy",
+    "work_slug": "frederick-loewe-buch/my-fair-lady",
+    "name": "Zoltan Kapathy"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Alfred P. Doolittle"
@@ -3965,6 +4085,31 @@
     "name": "Choreografische Mitarbeit"
   },
   {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/adina",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "name": "Adina"
+  },
+  {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/belcore",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "name": "Belcore"
+  },
+  {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/dulcamara",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "name": "Dulcamara"
+  },
+  {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/gianetta",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "name": "Gianetta"
+  },
+  {
+    "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/nemorino",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "name": "Nemorino"
+  },
+  {
     "slug": "gaetano-donizetti/l-elisir-d-amore/belcore",
     "work_slug": "gaetano-donizetti/l-elisir-d-amore",
     "name": "Belcore"
@@ -4180,6 +4325,11 @@
     "name": "Bradamante"
   },
   {
+    "slug": "georg-friedrich-handel/alcina/cembalo",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Cembalo"
+  },
+  {
     "slug": "georg-friedrich-handel/alcina/melisso",
     "work_slug": "georg-friedrich-handel/alcina",
     "name": "Melisso"
@@ -4195,14 +4345,34 @@
     "name": "Oberto"
   },
   {
+    "slug": "georg-friedrich-handel/alcina/orgel",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Orgel"
+  },
+  {
     "slug": "georg-friedrich-handel/alcina/oronte",
     "work_slug": "georg-friedrich-handel/alcina",
     "name": "Oronte"
   },
   {
+    "slug": "georg-friedrich-handel/alcina/regieassistenz-abendspielleitung",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Regieassistenz & Abendspielleitung"
+  },
+  {
     "slug": "georg-friedrich-handel/alcina/ruggiero",
     "work_slug": "georg-friedrich-handel/alcina",
     "name": "Ruggiero"
+  },
+  {
+    "slug": "georg-friedrich-handel/alcina/theorbe",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Theorbe"
+  },
+  {
+    "slug": "georg-friedrich-handel/alcina/violoncello",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Violoncello"
   },
   {
     "slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/bellezza",
@@ -4548,6 +4718,11 @@
     "slug": "georges-bizet/les-pecheurs-de-perles/zurga",
     "work_slug": "georges-bizet/les-pecheurs-de-perles",
     "name": "Zurga"
+  },
+  {
+    "slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa",
+    "work_slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
+    "name": "Suor Genovieffa"
   },
   {
     "slug": "giacomo-puccini/il-trittico/giorgetta",
@@ -5690,6 +5865,11 @@
     "name": "Prinzessin Eboli"
   },
   {
+    "slug": "giuseppe-verdi/don-carlo/regie-und-buhne",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "name": "Regie und Bühne"
+  },
+  {
     "slug": "giuseppe-verdi/don-carlo/rodrigo-marquis-von-posa",
     "work_slug": "giuseppe-verdi/don-carlo",
     "name": "Rodrigo, Marquis von Posa"
@@ -6180,6 +6360,11 @@
     "name": "Die Gräfin / Page"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/duca",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Duca"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/ein-gerichtsdiener",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Ein Gerichtsdiener"
@@ -6200,6 +6385,11 @@
     "name": "Gilda"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/giovana",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Giovana"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/giovanna",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Giovanna"
@@ -6215,6 +6405,11 @@
     "name": "Graf Ceprano, Ein Gerichtsdiener"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/graf-ceprano-gerichtsdiener",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Graf Ceprano | Gerichtsdiener"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/graf-monterone",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Graf Monterone"
@@ -6228,6 +6423,11 @@
     "slug": "giuseppe-verdi/rigoletto/graf-von-monterone",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Graf von Monterone"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/grafin-ceprano-ein-page",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Gräfin Ceprano | Ein Page"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/herzog-von-mantua",
@@ -6263,6 +6463,11 @@
     "slug": "giuseppe-verdi/rigoletto/orchester",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Orchester"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/regieassistenz-abendspielleitung",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Regieassistenz & Abendspielleitung"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/rigoletto",
@@ -7460,6 +7665,11 @@
     "name": "Pianist"
   },
   {
+    "slug": "jonathan-dove/der-geheime-garten/videodesign",
+    "work_slug": "jonathan-dove/der-geheime-garten",
+    "name": "Videodesign"
+  },
+  {
     "slug": "jonathan-dove/itch/bob-evert-kinch",
     "work_slug": "jonathan-dove/itch",
     "name": "Bob Evert / Kinch"
@@ -7508,6 +7718,66 @@
     "slug": "jonathan-dove/itch/watkins",
     "work_slug": "jonathan-dove/itch",
     "name": "Watkins"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/baron-mietek-oginsky",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Baron Mietek Oginsky"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/casimir-von-kawietzky",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Casimir von Kawietzky"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/graf-boleslav-zagorsky",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Graf Boleslav Zagorsky"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/graf-staschek-zagorsky",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Graf Staschek Zagorsky"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/hauptmann-korossoff",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Hauptmann Korossoff"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/jadja",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Jadja"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/joseph-beer",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Joseph Beer"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/lotte",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Lotte"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/stani",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Stani"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/stasi",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Stasi"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/suza",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Suza"
+  },
+  {
+    "slug": "joseph-beer/polnische-hochzeit/wizek-wazek",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Wizek | Wazek"
   },
   {
     "slug": "kaija-saariaho/innocence/choreografische-mitarbeit",
@@ -7623,6 +7893,46 @@
     "slug": "karaokesingen-zu-sinfonischer-begleitung/orchesterkaraoke/orchester",
     "work_slug": "karaokesingen-zu-sinfonischer-begleitung/orchesterkaraoke",
     "name": "Orchester"
+  },
+  {
+    "slug": "karola-obermuller/malina/ich",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Ich"
+  },
+  {
+    "slug": "karola-obermuller/malina/ivan",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Ivan"
+  },
+  {
+    "slug": "karola-obermuller/malina/komposition",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Komposition"
+  },
+  {
+    "slug": "karola-obermuller/malina/libretto",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Libretto"
+  },
+  {
+    "slug": "karola-obermuller/malina/malina",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Malina"
+  },
+  {
+    "slug": "karola-obermuller/malina/mitarbeit-regie",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Mitarbeit Regie"
+  },
+  {
+    "slug": "karola-obermuller/malina/prinz",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Prinz"
+  },
+  {
+    "slug": "karola-obermuller/malina/prinzessin",
+    "work_slug": "karola-obermuller/malina",
+    "name": "Prinzessin"
   },
   {
     "slug": "kids-only-1-ich-du-wir/orchester",
@@ -8103,6 +8413,61 @@
     "slug": "leonard-bernstein-musik/on-the-town/tom-matrose-ensemble",
     "work_slug": "leonard-bernstein-musik/on-the-town",
     "name": "Tom / Matrose / Ensemble"
+  },
+  {
+    "slug": "leonard-bernstein/candide/assistenz-live-illustration",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Assistenz Live-Illustration"
+  },
+  {
+    "slug": "leonard-bernstein/candide/candide",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Candide"
+  },
+  {
+    "slug": "leonard-bernstein/candide/cunegonde",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Cunegonde"
+  },
+  {
+    "slug": "leonard-bernstein/candide/dr-pangloss-martin",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Dr. Pangloss | Martin"
+  },
+  {
+    "slug": "leonard-bernstein/candide/erzahler",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Erzähler"
+  },
+  {
+    "slug": "leonard-bernstein/candide/inquisitor-i-judge-i-governor-vanderdendur-ragotski",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Inquisitor I. | Judge I. | Governor | Vanderdendur | Ragotski"
+  },
+  {
+    "slug": "leonard-bernstein/candide/inquisitor-iii-judge-iii-croupier",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Inquisitor III. | Judge III. | Croupier"
+  },
+  {
+    "slug": "leonard-bernstein/candide/live-illustration",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Live-Illustration"
+  },
+  {
+    "slug": "leonard-bernstein/candide/maximilian-captain-inquisitor-ii-judge-ii",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Maximilian | Captain | Inquisitor II. | Judge II."
+  },
+  {
+    "slug": "leonard-bernstein/candide/old-lady",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Old Lady"
+  },
+  {
+    "slug": "leonard-bernstein/candide/paquette",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Paquette"
   },
   {
     "slug": "leonard-bernstein/west-side-story/a-rab",
@@ -8653,6 +9018,126 @@
     "slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2/regiehospitanz",
     "work_slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2",
     "name": "Regiehospitanz"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/augustus-gier",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Augustus Gier"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/charlie-bucket",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Charlie Bucket"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/cherry",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Cherry"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/eichhornchen",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Eichhörnchen"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-bucket",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Frau Bucket"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-gier",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Frau Gier"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-glotzer",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Frau Glotzer"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/frau-grun",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Frau Grün"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandma-georgina",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Grandma Georgina"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandma-josephine",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Grandma Josephine"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandpa-george",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Grandpa George"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/grandpa-joe",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Grandpa Joe"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/herr-beauregarde",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Herr Beauregarde"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/herr-snob",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Herr Snob"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/jerry",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Jerry"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/kauende-divas",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Kauende Divas"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/mike-glotzer",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Mike Glotzer"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/regieassistenz-abendspielleitung",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Regieassistenz & Abendspielleitung"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/schuhplattler",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Schuhplattler"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/umpalumpas",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "UmpaLumpas"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/veruca-snob",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Veruca Snob"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/violet-beauregarde",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Violet Beauregarde"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/willy-wonka",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Willy Wonka"
+  },
+  {
+    "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/wirtsleute",
+    "work_slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
+    "name": "Wirtsleute"
   },
   {
     "slug": "maria-lazar-urauffuhrung/veritas-eine-hexenjagd/abendbesetzung",
@@ -9650,6 +10135,126 @@
     "name": "Knot on Hands"
   },
   {
+    "slug": "paul-moravec/the-shining-eea/bill-watson",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Bill Watson"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/buhne-videodesign",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Bühne & Videodesign"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/crooner",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Crooner"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/danny-torrance",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Danny Torrance"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/danny-torrance-schatten",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Danny Torrance (Schatten)"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/delbert-grady",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Delbert Grady"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/derwent",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Derwent"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/dick-hallorann",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Dick Hallorann"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/ghost-chorus-voices-chorus",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Ghost Chorus, Voices Chorus"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/grady-girls",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Grady Girls"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/jack-torrance",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Jack Torrance"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/lloyd",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Lloyd"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/lover",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Lover"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/mafia-guys",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Mafia Guys"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/mark-torrance",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Mark Torrance"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/mrs-grady",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Mrs Grady"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/mrs-massey",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Mrs Massey"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/naked-lady-with-rotten-flesh",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Naked Lady With Rotten Flesh"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/party-guest-in-dog-mask",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Party Guest in Dog Mask"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/ranger",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Ranger"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/regieassistenz-abendspielleitung",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Regieassistenz & Abendspielleitung"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/senator",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Senator"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/stuart-ullmann",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Stuart Ullmann"
+  },
+  {
+    "slug": "paul-moravec/the-shining-eea/wendy-torrance",
+    "work_slug": "paul-moravec/the-shining-eea",
+    "name": "Wendy Torrance"
+  },
+  {
     "slug": "peter-i-tschaikowski/mazeppa/andrej",
     "work_slug": "peter-i-tschaikowski/mazeppa",
     "name": "Andrej"
@@ -9833,6 +10438,61 @@
     "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu",
     "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
     "name": "Turiddu"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/eugen-onegin",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Eugen Onegin"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/filipjewna-amme",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Filipjewna, Amme"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/gremin",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Gremin"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/hauptmann",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Hauptmann"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/larina",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Larina"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/lenski",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Lenski"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/olga",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Olga"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/saretzkij",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Saretzkij"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/tatjana",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Tatjana"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/triquet",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Triquet"
+  },
+  {
+    "slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin/vorsanger",
+    "work_slug": "pjotr-iljitsch-tschaikowsky/eugen-onegin",
+    "name": "Vorsänger"
   },
   {
     "slug": "pjotr-tschaikowski/pique-dame/der-festordner",
