@@ -10,9 +10,11 @@ import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
 import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
+import { scrapeMittelsaechsischesTheater } from "./houses/mittelsaechsisches-theater";
 import { scrapeMusiktheaterImRevier } from "./houses/musiktheater-im-revier";
 import { scrapeNationaltheaterMannheim } from "./houses/nationaltheater-mannheim";
 import { scrapeNationaltheaterWeimar } from "./houses/nationaltheater-weimar";
+import { scrapeOldenburgischesStaatstheater } from "./houses/oldenburgisches-staatstheater";
 import { scrapeOperChemnitz } from "./houses/oper-chemnitz";
 import { scrapeOperDortmund } from "./houses/oper-dortmund";
 import { scrapeOperFrankfurt } from "./houses/oper-frankfurt";
@@ -127,6 +129,8 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "theater-hof": scrapeTheaterHof,
   "landestheater-coburg": scrapeLandestheaterCoburg,
   "theater-altenburg-gera": scrapeTheaterAltenburgGera,
+  "mittelsaechsisches-theater": scrapeMittelsaechsischesTheater,
+  "oldenburgisches-staatstheater": scrapeOldenburgischesStaatstheater,
   "theater-luebeck": scrapeTheaterLuebeck,
   "theater-muenster": scrapeTheaterMuenster,
   "theater-koblenz": scrapeTheaterKoblenz,

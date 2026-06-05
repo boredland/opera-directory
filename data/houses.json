@@ -714,5 +714,27 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "BLUEPAGE CMS, SSR, no proxy; plays in Görlitz + Zittau. One page /de/spielplan-musiktheater/ (whole season) — div.entry per performance: a.link.idx>span title; DATE is in the detail href /de/spielplan-musiktheater/{slug}/{YYYY-MM-DD}/{id}/ (already ISO); <em> '{genre} von {Composer}' (composerFromGenre: take before first '|' then composerFromText); trailing div pipe-split 'HH:MM Uhr | {Venue City} | duration'. Opera filter: <em> matches oper/operette/opéra/rockoper, drop Konzert/Silvesterrevue/Work-in-Progress/Kinder. Group by slug. Cast/creative from detail accordion .besetzung .box_txt (first=cast role, rest=creative; strip &shy; + alt-cast '(date)' notes) via normalizeGermanCredit. Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "mittelsaechsisches-theater",
+    "name": "Mittelsächsisches Theater",
+    "city": "Freiberg",
+    "country": "DE",
+    "website": "https://www.mittelsaechsisches-theater.de",
+    "wikidata": "Q1695492",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "TYPO3, no proxy; plays Freiberg/Döbeln + Seebühne Kriebstein. POST /?type=777 {categories:{'2':true},offset} (2=Musiktheater; paginate offset+20; body is JSON but Content-Type text/html → parse text). Item: title, subTitle '{genre} von {Composer}' (composerFromText; drop /musical/), date 'DD.MM.YYYY HH:MM:SS', time, room (city/venue), detailUri /spielplan/{slug}-{id} (id per-performance → group by slug). Detail .avatar cards: avatar__name (name) THEN avatar__position (label) within one avatar__info → normalizeGermanCredit (creative else cast role). Seasonally thin (summer = 1 operette). Future-only → Wikidata backfill."
+  },
+  {
+    "slug": "oldenburgisches-staatstheater",
+    "name": "Oldenburgisches Staatstheater",
+    "city": "Oldenburg",
+    "country": "DE",
+    "website": "https://staatstheater.de",
+    "wikidata": "Q2018731",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3 SSR. NB canonical host is staatstheater.de (the oldenburgisches-staatstheater.de domain is parked). /kalender is SSR but windowed to ONE month; it embeds the season's month links '/kalender?monat=MMYYYY&cHash=…' (cHash required) → follow them. Each day = <a data-date='YYYYMMDD'> then auffuehrung blocks: /programm/musiktheater/… link (opera sparte) + <h2><a> title + p.uhrzeit time + '<p>von {Composer}</p>' + .spielort venue. Group by detail slug; drop /musical/. Detail page Besetzung block: <p> 'Label: <strong>Name</strong> / <strong>…</strong><br>…' → normalizeGermanCredit (creative else cast role). Future/season → Wikidata backfill."
   }
 ]
