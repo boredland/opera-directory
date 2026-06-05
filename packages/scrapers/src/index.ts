@@ -61,6 +61,7 @@ import { scrapeTheaterOsnabrueck } from "./houses/theater-osnabrueck";
 import { scrapeTheaterPforzheim } from "./houses/theater-pforzheim";
 import { scrapeTheaterPlauenZwickau } from "./houses/theater-plauen-zwickau";
 import { scrapeTheaterTrier } from "./houses/theater-trier";
+import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
 import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
 import type { HouseScraper } from "./types";
@@ -133,6 +134,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "mittelsaechsisches-theater": scrapeMittelsaechsischesTheater,
   "oldenburgisches-staatstheater": scrapeOldenburgischesStaatstheater,
   "landestheater-detmold": scrapeLandestheaterDetmold,
+  "theater-ulm": scrapeTheaterUlm,
   "theater-luebeck": scrapeTheaterLuebeck,
   "theater-muenster": scrapeTheaterMuenster,
   "theater-koblenz": scrapeTheaterKoblenz,

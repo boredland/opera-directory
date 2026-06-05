@@ -748,5 +748,17 @@
     "enabled": true,
     "proxy": true,
     "notes": "Touring Landestheater (Detmold + guest venues Paderborn/Bad Oeynhausen/…). **proxy:true** — robots.txt is Disallow:/, so this is a deliberate maintainer decision to crawl it via the fetch-proxy. Django SSR. Full-season index /de/programm/stuecke → cards with data-listfilters containing 'musiktheater' + a 'venue' label (Oper/Operette keep, Musical drop) → /de/programm/{slug}/{id}. Detail: h1 title (strip U+00AD soft-hyphens), .subtitle '{genre} von {Composer} | …' (composerFromText on first '|' segment), .cast-list (cast-list-item-instrument label + -artist name → normalizeGermanCredit creative/cast), .stage-play-list-item perfs (.day/.month NO year → infer chronologically; .time; per-perf .location venue). Future/season → Wikidata backfill."
+  },
+  {
+    "slug": "theater-ulm",
+    "name": "Theater Ulm",
+    "city": "Ulm",
+    "country": "DE",
+    "website": "https://www.theater-ulm.de",
+    "wikidata": "Q1235650",
+    "strategy": "render",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Nuxt SPA — data only in window.__NUXT__ (not SSR DOM). Instead of eval-ing that blob in CI, render via the fetch-proxy (proxy:true → fetchRendered runs the SPA in the proxy's Chromium; no remote-JS eval in our pipeline). /spielplan render: rows pair stueck-detail '… / {Sparte}' with a stueck-teaser /spielplan/stuecke/{slug} link → keep Musiktheater. Detail render (strip <script>): h1 title, '… von {Composer}' subtitle (composerFromText), Termine b.stueck-date 'DD/MM/YY' + HH.MM Uhr time, cast/creative '<span class=mr-1>{label}</span> <a person><b>{name}</b></a>' → normalizeGermanCredit. Windowed (current-month-forward) + future-only → Wikidata backfill. Renders are slow → few productions."
   }
 ]
