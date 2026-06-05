@@ -771,5 +771,73 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Listing-only — composer & cast NOT obtainable. Detail pages /spielplan/produktionen/{slug}.html 301 every non-interactive client straight to the homepage (location: https://theater-kiel.de/ — verified for plain fetch, browser-UA, Referer, cookie, ?ajax=1 AND the proxy's stealth render, which follows the redirect onto 'Startseite'); the block is a session-bound server redirect, not JS, so render can't crack it. So NO proxy. Listing AJAX /spielplan/spielplan.html?ajax=1&offset={n} works direct (crawler UA): one month of SSR rows per offset, walk offset 0.. until body is 'ende erreicht.'. Opera rows carry class sparte-4 (over-broad — also tours/café/chamber) + produktion-{id} + date-{DDMMYY}; keep only rows whose label div (<div class=fw-bold>Oper|Operette</div>) is exactly Oper/Operette and drop non-work titles (Führung/Operncafé/Streichquartett/Lounge/Einführung/Matinee) plus the musicals/revue Kiel files under the same sparte (West Side Story/La Cage aux Folles/Melodien für Millionen — denylisted by hand, no composer to filter them). Title+slug in the following <div class='fs-4 heading fw-bold'><a href=./produktionen/{slug}.html>; venue+time '<span>{venue}</span> | HH.MM Uhr'. work_title only → composer resolved from the work entity / cross-house merge; cast unavailable. Future/season → Wikidata backfill (Q737243)."
+  },
+  {
+    "slug": "theater-fuer-niedersachsen",
+    "name": "Theater für Niedersachsen",
+    "city": "Hildesheim",
+    "country": "DE",
+    "website": "https://tfn-online.de",
+    "wikidata": "Q1371061",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TYPO3 tx_theatrefehi, server-rendered, no proxy. Touring Landestheater (plays guest venues across Lower Saxony — Neumünster, Emden, …). Season index /programm/ (302→/programm/programm-{YY}-{YY}) lists one .productionteaser per production with detail link /programm/produktion/{slug}; its season-switcher links every announced season (/programm/programm-*) which we all walk. Index teasers carry NO genre, so each opera is decided on its detail page: title in .productionview-title-text (leading drop-cap fragment wrapped in <i>…&hairsp;</i> — strip the tag + &hairsp;/&shy; WITHOUT a separator or the word splits), genre+composer in .productionview-teasersubline ('Oper/Operette … von {Composer}'), filtered with ^(oper|operette|musikdrama|singspiel) to drop concerts/musicals/Schauspiel/Tanz/'Musiktheater-Solo' cabarets; composer via composerFromText. Dates from .eventcard blocks: .eventcard-date DD.MM.YY (2-digit→20YY), .eventcard-time HH:MM, .eventcard-location 'City: Hall' (tour venue → venue_room). Cast in .mb-2 rows pairing .production-casts-role (German label → creative via map else sung role; trailing '_' stripped) with .production-casts-name (trailing '/' or '*' alt-cast markers stripped). Detail pages render ONLY future dates → history from Wikidata backfill (Q1371061, thin)."
+  },
+  {
+    "slug": "landesbuehnen-sachsen",
+    "name": "Landesbühnen Sachsen",
+    "city": "Radebeul",
+    "country": "DE",
+    "website": "https://www.landesbuehnen-sachsen.de",
+    "wikidata": "Q1802153",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "json-api: WordPress + custom 'lbs-gersoft' spielplan plugin. Whole spielplan loads via POST /wp-admin/admin-ajax.php (action=lbs_get_spielplan, no nonce; body showfilter=1&stueckguid=&ortguid=&projectguid=&kollegenguid=&abo=&limit=&filtervars=) → one flat JSON row per performance: Datum (DD.MM.YYYY), Von (HH:MM), Stueck, UTitel genre/author line ('Romantische Oper von Carl Maria von Weber'), per-perf Location venue, stueckGUID (production key), StueckLink (/spielzeit/{slug}), findetStatt (1=takes place). Group by stueckGUID; keep Oper/Operette/Singspiel UTitel that yield a composer; fetch each /spielzeit/{slug}/ detail (SSR, trailing-slash redirect) for cast: ul.lbs_besetzung rows of lbs_besetzung_rolle (German label) + lbs_besetzung_name (one or more <br>-joined alternates). Touring — venue varies per perf (Radebeul Stammhaus, open-air Felsenbühne Rathen, guest towns Meißen/Bad Elster/Hellerau). Spielplan is AJAX-only (the /spielplan/ page ships no events) → uses proxyFetch with a POST body (fetchHtml/fetchJson are GET-only). NON_OPERA guard drops Musical/Familienmusical/Rocktheater. Backfill Wikidata Q1802153."
+  },
+  {
+    "slug": "theater-lueneburg",
+    "name": "Theater Lüneburg",
+    "city": "Lüneburg",
+    "country": "DE",
+    "website": "https://www.theater-lueneburg.de",
+    "wikidata": "Q2415852",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "json-api (Neos CMS, no proxy). The musiktheater sparte page /spielplan/musiktheater is a shell — its schedule comes from a data-replace AJAX endpoint /api/performances?documentNode[__contextNodePath]=…&productionType=…&tag=…; read that attribute at runtime (contextNodePath + productionType GUID are environment-specific — never hardcode), drop the tag filter for the whole season. Each <article class=Performance> row carries title, a '{genre} von {Composer}' subtitle, a venue+date line ('{Room} - {Wd} {D}. {Monat} um HH:MM Uhr'), a Premiere tag, and a ProductionLink detail slug; group by slug. Year from the row's data-selector-value ('2025-October') with a rollover bump when the German venue month wraps past the bucket month; day+month from the venue line (authoritative). Gate on the genre word (Oper/Opera/Musikdrama/Singspiel, never Musical) + required composer. Cast+creative on the detail page as uniform <div class=Cast> rows. House persistently misspells 'Inszenierung' as 'Inzenierung' (patched locally → director). 00:00 = placeholder time → null. Future-only repertoire → Wikidata backfill (Q2415852)."
+  },
+  {
+    "slug": "pfalztheater-kaiserslautern",
+    "name": "Pfalztheater Kaiserslautern",
+    "city": "Kaiserslautern",
+    "country": "DE",
+    "website": "https://pfalztheater.de",
+    "wikidata": "Q1344445",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "WordPress, server-rendered, no proxy. Per-production detail pages (/unsere-stuecke/{slug}/) have no DOM date list (#shows is JS-filled, empty on fetch). The calendar theme exposes a load-more endpoint wp-content/themes/PT-Theme/inc/load-more-entries-kalender.php?entries=N&filter=&datefilter=DD.MM.YYYY+-+DD.MM.YYYY&premiere=off that SSRs the whole announced future as flat div.single-activity rows (one per night: title, a '{genre} von {COMPOSER}' span.writer, German 'DD. Monat YYYY' date + 'HH:MM Uhr' + venue, detail slug, 'Ausverkauft' when sold out). Pull all rows in one request (entries=1000, no datefilter) and regroup by slug; query again with a recent-past datefilter for incremental. Genre gate keeps Oper/Operette/Opern, drops Rockoper/musical/song/tanz/schauspiel; composer (composerFromText) still required (composer alone won't drop 'Rockoper von ANDREW LLOYD WEBBER' — ALL-CAPS composer names). Per opera, fetch detail once for div.actors Besetzung ('<span>LABEL</span> <a><strong>NAME</strong></a>' rows, alternates split by '<span>|</span>', '<br><br>' between creative + sung roles). Touring Landesbühne — venues vary (Großes Haus, guest stages like Theater Heilbronn). Deep past → Wikidata backfill (Q1344445)."
+  },
+  {
+    "slug": "staatstheater-meiningen",
+    "name": "Südthüringisches Staatstheater Meiningen",
+    "city": "Meiningen",
+    "country": "DE",
+    "website": "https://www.staatstheater-meiningen.de",
+    "wikidata": "Q486132",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "proxy": true,
+    "notes": "spielplan-html, bespoke CMS, no JSON-LD, proxy:true (broken TLS chain to datacenter IPs — direct fetch fails cert verification, error 60). Canonical host staatstheater-meiningen.de; das-meininger-theater.de + meininger-staatstheater.de alias to it. Per-season production index /premieren/{YYYY-YY}.html (current+next, e.g. 2025-26, 2026-27) links every show as /produktionen/{slug}.html; index isn't genre-tagged so each detail is fetched. First <p> after <h1> is the work-type+composer line — kept only when it matches a music-theatre marker (Oper/Operette/Dramma giocoso|per musica|lirico/Opera seria|buffa/Tragédie lyrique/Singspiel/Bühnenfestspiel/Lyrische Komödie…) AND yields a composer, dropping Schauspiel/Musical/Ballett/Puppenspiel/concerts. Split on <br> and pass only the first line to composerFromText (avoids librettist bleed). Dates in ul.performances > li.terminlist (.day DD.MM.YY 2-digit year→20YY, .time, .location, .red Wiederaufnahme flag); creative team .regieteam, cast .besetzung as span.function+span.person (future premieres legitimately have empty Besetzung). Future/repertoire only → Wikidata Q486132 backfill."
+  },
+  {
+    "slug": "schleswig-holsteinisches-landestheater",
+    "name": "Schleswig-Holsteinisches Landestheater",
+    "city": "Rendsburg",
+    "country": "DE",
+    "website": "https://www.sh-landestheater.de",
+    "wikidata": "Q776404",
+    "strategy": "render",
+    "enabled": true,
+    "proxy": true,
+    "notes": "render (Stagenet CMS, proxy:true — plain fetch of the spielplan returns the empty SPA shell). Spielplan /spielplan/index.html is one client-rendered list of every dated performance for the announced seasons; spielplanfilter.js only shows/hides rows via CSS classes (sparte-37=Musiktheater, ort-NN=town, date-DDMMYY where YY is Date.getYear()-based→20YY), so a single headless render yields the whole future. Keep sparte-37 rows, group by production slug, take the start of the 'HH.MM–HH.MM Uhr' time and the ort-NN town (Flensburg/Rendsburg/Schleswig/Heide/Husum/… — touring). Composer + creative + cast come from the static /produktionen/{slug}.html page (plain fetch; the spielplan's ./produktionen/ links resolve against the page's site-root <base href>; the /spielplan/produktionen/ path 404s): genre/composer descriptor ('Oper in … von {Composer}') in a text node, credit rows <span class=fw-bold>Label:</span> … <a title=Name>. Require a composer and drop Musical (filters musicals/concerts/junges-theater that also tag Musiktheater). Slavic háček named entities (š/ž/č/ř e.g. Janáček) missing from fetch.ts decodeEntities → repaired with a local EXTRA_ENTITIES map. Future-only → Wikidata Q776404 backfill (currently 0 rows)."
   }
 ]

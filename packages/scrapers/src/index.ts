@@ -6,6 +6,7 @@ import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptmann-theater-goerlitz";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
+import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
 import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
 import { scrapeLandestheaterDetmold } from "./houses/landestheater-detmold";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
@@ -23,7 +24,9 @@ import { scrapeOperHalle } from "./houses/oper-halle";
 import { scrapeOperKoeln } from "./houses/oper-koeln";
 import { scrapeOperLeipzig } from "./houses/oper-leipzig";
 import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
+import { scrapePfalztheaterKaiserslautern } from "./houses/pfalztheater-kaiserslautern";
 import { scrapeSaarlaendischesStaatstheater } from "./houses/saarlaendisches-staatstheater";
+import { scrapeSchleswigHolsteinischesLandestheater } from "./houses/schleswig-holsteinisches-landestheater";
 import { scrapeSemperoperDresden } from "./houses/semperoper-dresden";
 import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
 import { scrapeStaatsoperHamburg } from "./houses/staatsoper-hamburg";
@@ -36,6 +39,7 @@ import { scrapeStaatstheaterCottbus } from "./houses/staatstheater-cottbus";
 import { scrapeStaatstheaterDarmstadt } from "./houses/staatstheater-darmstadt";
 import { scrapeStaatstheaterKassel } from "./houses/staatstheater-kassel";
 import { scrapeStaatstheaterMainz } from "./houses/staatstheater-mainz";
+import { scrapeStaatstheaterMeiningen } from "./houses/staatstheater-meiningen";
 import { scrapeStaatstheaterNuernberg } from "./houses/staatstheater-nuernberg";
 import { scrapeStaatstheaterRegensburg } from "./houses/staatstheater-regensburg";
 import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
@@ -48,6 +52,7 @@ import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
 import { scrapeTheaterErfurt } from "./houses/theater-erfurt";
 import { scrapeTheaterFreiburg } from "./houses/theater-freiburg";
+import { scrapeTheaterFuerNiedersachsen } from "./houses/theater-fuer-niedersachsen";
 import { scrapeTheaterHagen } from "./houses/theater-hagen";
 import { scrapeTheaterHeidelberg } from "./houses/theater-heidelberg";
 import { scrapeTheaterHof } from "./houses/theater-hof";
@@ -55,6 +60,7 @@ import { scrapeTheaterKiel } from "./houses/theater-kiel";
 import { scrapeTheaterKoblenz } from "./houses/theater-koblenz";
 import { scrapeTheaterKrefeldMoenchengladbach } from "./houses/theater-krefeld-moenchengladbach";
 import { scrapeTheaterLuebeck } from "./houses/theater-luebeck";
+import { scrapeTheaterLueneburg } from "./houses/theater-lueneburg";
 import { scrapeTheaterMagdeburg } from "./houses/theater-magdeburg";
 import { scrapeTheaterMuenster } from "./houses/theater-muenster";
 import { scrapeTheaterNordhausen } from "./houses/theater-nordhausen";
@@ -143,4 +149,10 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "stadttheater-giessen": scrapeStadttheaterGiessen,
   "gerhart-hauptmann-theater-goerlitz": scrapeGerhartHauptmannTheaterGoerlitz,
   "theater-kiel": scrapeTheaterKiel,
+  "theater-fuer-niedersachsen": scrapeTheaterFuerNiedersachsen,
+  "landesbuehnen-sachsen": scrapeLandesbuehnenSachsen,
+  "theater-lueneburg": scrapeTheaterLueneburg,
+  "pfalztheater-kaiserslautern": scrapePfalztheaterKaiserslautern,
+  "staatstheater-meiningen": scrapeStaatstheaterMeiningen,
+  "schleswig-holsteinisches-landestheater": scrapeSchleswigHolsteinischesLandestheater,
 };
