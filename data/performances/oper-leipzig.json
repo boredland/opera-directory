@@ -1,5 +1,12 @@
 [
   {
+    "id": "oper-leipzig/abschlusskonzert-stadtfest-5/2026-06-07/15:00",
+    "production_id": "oper-leipzig/abschlusskonzert-stadtfest-5",
+    "date": "2026-06-07",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -112,6 +119,27 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/lauschkonzert-591/2026-06-07/10:00",
+    "production_id": "oper-leipzig/lauschkonzert-591",
+    "date": "2026-06-07",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/lauschkonzert-591/2026-11-19/09:30",
+    "production_id": "oper-leipzig/lauschkonzert-591",
+    "date": "2026-11-19",
+    "time": "09:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/lauschkonzert-591/2026-11-19/10:30",
+    "production_id": "oper-leipzig/lauschkonzert-591",
+    "date": "2026-11-19",
+    "time": "10:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/unterwelten-828/2026-06-04/18:00",
     "production_id": "oper-leipzig/unterwelten-828",
     "date": "2026-06-04",
@@ -129,6 +157,20 @@
     "id": "oper-leipzig/unterwelten-828/2026-06-05/18:00",
     "production_id": "oper-leipzig/unterwelten-828",
     "date": "2026-06-05",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/unterwelten-828/2026-06-05/20:00",
+    "production_id": "oper-leipzig/unterwelten-828",
+    "date": "2026-06-05",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/unterwelten-828/2026-06-07/18:00",
+    "production_id": "oper-leipzig/unterwelten-828",
+    "date": "2026-06-07",
     "time": "18:00",
     "status": "scheduled"
   }

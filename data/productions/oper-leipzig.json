@@ -1,5 +1,72 @@
 [
   {
+    "id": "oper-leipzig/abschlusskonzert-stadtfest-5",
+    "work_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/abschlusskonzert-stadtfest/5",
+    "creative_team": [
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "frank-schmutzler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ballett-der-musikalischen-komodie",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/ballett"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/orchester"
+      },
+      {
+        "person_slug": "andreas-rainer",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "jeffery-krueger",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "johann-zumbult",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "michael-raschle",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "milko-milev",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "radoslaw-rydlewski",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
+      },
+      {
+        "person_slug": "da-yung-cho",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
+      },
+      {
+        "person_slug": "friederike-meinke",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
+      },
+      {
+        "person_slug": "mirjam-neururer",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
+      },
+      {
+        "person_slug": "nora-lentner",
+        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/eurydike-795",
     "work_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike",
     "house_slug": "oper-leipzig",
@@ -308,6 +375,29 @@
     "detail_url": "https://www.oper-leipzig.de/de/programm/kostprobe-musikalische-komodie/627",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "oper-leipzig/lauschkonzert-591",
+    "work_slug": "lauschkonzert",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/lauschkonzert/591",
+    "creative_team": [
+      {
+        "person_slug": "samuel-emanuel",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "romy-sarakacianis",
+        "role_slug": "lauschkonzert/moderation"
+      },
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "lauschkonzert/orchester"
+      }
+    ]
   },
   {
     "id": "oper-leipzig/unterwelten-828",

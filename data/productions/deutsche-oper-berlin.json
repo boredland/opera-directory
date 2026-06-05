@@ -221,6 +221,133 @@
     ]
   },
   {
+    "id": "deutsche-oper-berlin/a-midsummer-night-s-dream-17822853",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/a-midsummer-night-s-dream.17822853",
+    "creative_team": [
+      {
+        "person_slug": "christian-lindhorst",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "sam-pinkleton",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "dalia-stasevska",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ted-huffman",
+        "function": "director"
+      },
+      {
+        "person_slug": "d-m-wood",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marsha-ginsberg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-guetti",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/bottom"
+      },
+      {
+        "person_slug": "kinderchor-der-deutschen-oper-berlin",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/chore"
+      },
+      {
+        "person_slug": "ran-arthur-braun",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/choreografie-puck"
+      },
+      {
+        "person_slug": "selina-sophie-nusse",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/cobweb"
+      },
+      {
+        "person_slug": "tom-nicholson",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/demetrius"
+      },
+      {
+        "person_slug": "kangyoon-shine-lee",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/flute"
+      },
+      {
+        "person_slug": "maria-vasilevskaya",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/helena"
+      },
+      {
+        "person_slug": "stephanie-wake-edwards",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/hermia"
+      },
+      {
+        "person_slug": "lucy-baker",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/hippolyta"
+      },
+      {
+        "person_slug": "thomas-cilluffo",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/lysander"
+      },
+      {
+        "person_slug": "ella-williamson",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/moth"
+      },
+      {
+        "person_slug": "sara-audibussio",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/mustardseed"
+      },
+      {
+        "person_slug": "iestyn-davies",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/oberon"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/orchester"
+      },
+      {
+        "person_slug": "mathilda-carl",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/peaseblossom"
+      },
+      {
+        "person_slug": "jami-reid-quarrell",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/puck"
+      },
+      {
+        "person_slug": "jared-werlein",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/quince"
+      },
+      {
+        "person_slug": "jorg-schorner",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/snout"
+      },
+      {
+        "person_slug": "joel-allison",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/snug"
+      },
+      {
+        "person_slug": "benjamin-dickerson",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/starveling"
+      },
+      {
+        "person_slug": "padraic-rowan",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/theseus"
+      },
+      {
+        "person_slug": "alexandra-oomens",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/tytania"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-berlin/carmen-17824986",
     "work_slug": "georges-bizet/carmen",
     "house_slug": "deutsche-oper-berlin",
