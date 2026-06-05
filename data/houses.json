@@ -253,6 +253,17 @@
     "notes": "Adapter implemented (future + wikidata backfill). cb-event house; spielplan JS-rendered but backed by /de_DE/event.json?m=calendar_events&fields[category]=musictheater&p=N → {Results:[{Events:[…]}],IsLastPage}. Each Event: Title, DateTimeAtom (ISO), TimeLocation (time+venue), OpusInfoShort ('Form von Composer'), Slug (/de_DE/programm/{slug}.{id}). Grouped by slug. (Plain event.json without a fields[category] returns 500.)"
   },
   {
+    "slug": "staatstheater-mainz",
+    "name": "Staatstheater Mainz",
+    "city": "Mainz",
+    "country": "DE",
+    "website": "https://www.staatstheater-mainz.com",
+    "wikidata": "Q317908",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Adapter implemented (future + wikidata backfill). Kirby CMS, server-rendered. Opera section /veranstaltungen/oper-{YY-YY} (walk current+next season) links productions as /veranstaltungen/oper-{YY-YY}/{slug}. Detail: '<div class=headline>{Title} von {Composer} ({year})</div>' (title before ' von ', composer via composerFromText), TERMINE plain DD.MM.YYYY dates (since-floored to drop stray historic refs)."
+  },
+  {
     "slug": "saarlaendisches-staatstheater",
     "name": "Saarländisches Staatstheater",
     "city": "Saarbrücken",
