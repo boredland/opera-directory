@@ -178,5 +178,28 @@
     "production_id": "bayerische-staatsoper/2017-12-17-il-trittico",
     "date": "2017-12-17",
     "status": "past"
+  },
+  {
+    "id": "bayerische-staatsoper/live-carmen/2026-06-16/19:00",
+    "production_id": "bayerische-staatsoper/live-carmen",
+    "date": "2026-06-16",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-die-walkuere/2026-06-25/17:00",
+    "production_id": "bayerische-staatsoper/live-die-walkuere",
+    "date": "2026-06-25",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-turandot/2026-06-06/19:30",
+    "production_id": "bayerische-staatsoper/live-turandot",
+    "date": "2026-06-06",
+    "time": "19:30",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
   }
 ]

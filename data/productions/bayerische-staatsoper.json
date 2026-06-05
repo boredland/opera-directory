@@ -1994,5 +1994,32 @@
         "role_slug": "giacomo-puccini/il-trittico/un-venditore-di-canzonette"
       }
     ]
+  },
+  {
+    "id": "bayerische-staatsoper/live-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/carmen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-die-walkuere",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/die-walkuere",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/turandot",
+    "creative_team": [],
+    "cast": []
   }
 ]
