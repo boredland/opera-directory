@@ -883,5 +883,77 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Bespoke server-rendered CMS (no proxy; ubs-schwedt.de is dead). Spielplan at /ubs/page/110/; the 'Oper & Operette' category is the server-side filter /ubs/page/110/filter/137438953472/ — one <table> of <tr> rows, each with a td.day (<span class='daynum'>DD</span> + 'Month YYYY' German date) + a content <td> with span.title, span.descr and span.spbottom (<b>HH:MM Uhr</b>, {venue}, {price}); staged works link to /ubs/article/{id}/. Group by article id; require a composer read off the DETAIL body's 'Musik von …' / 'Oper „…“ von …' line (the generic leading 'von' picks up the librettist/playwright — Faust's descr yields Goethe not Gounod), which drops the operetta-revue galas + coffee-concert series and keeps only staged opera/operetta. Predominantly operetta/musical/Schauspiel house — opera presence is thin (~1 staged work/season). Detail pages carry no structured cast/creative → those arrays empty (acceptable). Title uses a house wrapper (Uckeroper „Faust“) → extract the quoted work name. Future-only → Wikidata backfill (Q1393858)."
+  },
+  {
+    "slug": "bayreuther-festspiele",
+    "name": "Bayreuther Festspiele",
+    "city": "Bayreuth",
+    "country": "DE",
+    "website": "https://www.bayreuther-festspiele.de",
+    "wikidata": "Q157596",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (Richard-Wagner opera festival on the Grünen Hügel; seasonal, late-Jul–Aug, one edition at a time — live leg sees only the current edition). WordPress + WPBakery, no event JSON-LD. Spielplan /programm/spielplan/ is the authoritative flat dated list (ul.fsdb__performances rows: --datetime 'Wochentag, DD. Monat YYYY, HH:MM Uhr' + link /programm/auffuehrungen/{slug}/ + an --info venue note); group rows by slug into one production each. Each detail page fetched for composer/cast/creative and kept only if it has a 'Besetzung {year}' block with a 'Musikalische Leitung' line (the opera gate — drops the IX. Symphonie concert, open-airs, installations). Composer defaults to Richard Wagner unless the page tags 'Komposition:' (only non-Wagner case, e.g. Bernhard Lang's 'Brünnhilde brennt'). Per-night casting encoded as 'Singer (date), Singer (date)' in one role line. **Wikidata backfill uses the Festspielhaus BUILDING Q329133, NOT the festival entity Q157596 (which has no production relations)** → yields the 1876 Ring + 1882 Parsifal world premieres via P4647. proxy:false."
+  },
+  {
+    "slug": "bregenzer-festspiele",
+    "name": "Bregenzer Festspiele",
+    "city": "Bregenz",
+    "country": "AT",
+    "website": "https://bregenzerfestspiele.com",
+    "wikidata": "Q694891",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — lake-stage opera ('Spiel auf dem See', Seebühne) on Lake Constance + Festspielhaus / Theater am Kornmarkt / Werkstattbühne opera; seasonal (~Jul–Aug), one edition at a time, site empty off-season → live = current edition, past via Wikidata (Q694891, thin). Next.js front end over Drupal, no JSON-LD. Opera leg = /de/musiktheater/{slug}, enumerated from /sitemap.xml (concerts/Schauspiel/'Musik & Poesie' live under other paths → dropped). Each detail kept only if it yields a composer (the <h2> under the work <h1>). **Dates+cast are NOT in the SSR HTML — they ride in the RSC payload (self.__next_f.push([1,\"…\"]) chunks; concat + JSON-unescape, do NOT latin1-reinterpret)**: the 'Termine' accordion is one <p> per (month,time) with comma-listed day tokens expanded against that line's month/year/time; venue = the Spielort in the PREMIERE infotext (split on <br> BEFORE stripHtml); credits = <p class=small>Label<br><strong>Name</strong></p> (alternating casts comma-listed). proxy:false."
+  },
+  {
+    "slug": "salzburger-festspiele",
+    "name": "Salzburger Festspiele",
+    "city": "Salzburg",
+    "country": "AT",
+    "website": "https://www.salzburgerfestspiele.at",
+    "wikidata": "Q256443",
+    "strategy": "json-api",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — major mixed-arts summer festival (+ small Whitsun/Pfingsten edition), OPER-filtered, current-edition live + full Wikidata/archive backfill. Vue SPA over a JSON API at /vue/calendar/de/… (POST). POST /programmes returns every production grouped by genre ('OPER','KONZERT','SCHAUSPIEL',…) with title, composer (header/headerEntities), location (Großes Festspielhaus/Haus für Mozart/Felsenreitschule…), first_event/last_event, id (=arrangement_id) — **keep the OPER group ONLY** (drops all concerts, drama incl. Jedermann, Ouverture-spirituelle sacred concerts). POST /events lists the live window's performances with arrangement_id↔programme_id, UTC start. GET /programme/{arrangement_id}/{programme_id} → one production's works (composer=author), cast.leading_team (German labels) + cast.cast (role→singer). Live leg drives off /events (its OPER arrangements = current edition) + per-production detail; backfill walks the full /programmes OPER list (→1921) using first/last_event dates, then Wikidata (Q256443). **Times are UTC → convert to Europe/Vienna; the season field is an opaque id, NOT chronological (date off first_event); programmes id is arrangement_id but the detail endpoint also needs programme_id (only /events has it).** proxy:false."
+  },
+  {
+    "slug": "arena-di-verona",
+    "name": "Arena di Verona Opera Festival",
+    "city": "Verona",
+    "country": "IT",
+    "website": "https://www.arena.it",
+    "wikidata": "Q1185941",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — open-air Roman-amphitheatre opera festival, one edition/year (~Jun–Sep), empty in winter → live = current edition only. ProcessWire CMS, English mirror at /en/. Programme /en/arena-verona-opera-festival/events/ is a per-day calendar (<div class=day data-day=YYYY-MM-DD> → <li class=bh-calendarShow data-filter-type=OPERA> with title, detail URL, time); group performances by detail URL into productions. **Composer + credits come off the Italian/English detail-page DOM, NOT the German credit map**: composer from <span class=label>Music</span>, creative team from <p class=spacer-bottom-1> blocks + the lead Direttore row; Italian/English labels (Direttore/Conductor, Regia/Direction, Scene/Set, Costumi/Costumes, Luci/Lighting, Coreografia/Choreography, Maestro del Coro/Chorus Master) mapped in-adapter, incl. combined single-artist labels (Stefano Poda 'Direction, set design, Costumes, Lighting, Choreography'). **data-filter-type=OPERA is noisy (galas/cantatas/ballets tagged OPERA) → opera decided on detail: require a composer AND a sung cast of named character roles** (drops Carmina Burana, Zorba, Bolle galas). Two distinct Aida stagings (Zeffirelli /aida/, Poda /aida-2023/) emerge separately by detail URL. Wikidata backfill QID Q1185941 (festival, NOT building Q641556) wired but currently 0 rows. proxy:false."
+  },
+  {
+    "slug": "rossini-opera-festival-pesaro",
+    "name": "Rossini Opera Festival",
+    "city": "Pesaro",
+    "country": "IT",
+    "website": "https://www.rossinioperafestival.it",
+    "wikidata": "Q1592865",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — Rossini-only, Pesaro; one edition staged each August, site empty of programme off-season → live = current edition only. WordPress + WPML. Index /archivio/stagione-{YEAR}/ (adapter probes thisYear,+1,-1) links every programme item as /archivio/stagione-{YEAR}/{slug}/. Detail pages SSR; the work's article sits in the contenuto…</aside> block (the 'CONTENUTO COLONNA' comment is NOT the content end — slice from 'contenuto' to </aside>). **Filter to staged opera via a dramatic-genre marker on the description line (Dramma giocoso/Farsa comica/Tragédie lyrique/Burletta per musica…)** — drops Stabat Mater (sacred), Flórez gala, Concerti di belcanto/Rossinimania (concerts), Festival Giovane. **Composer defaults to Gioachino Rossini — the 'di {name}' after the genre is the LIBRETTIST not composer; only explicit 'Musica di {X}' overrides.** Dates in <div class=dataOpera> '{days} {month-it} ore HH.MM' (per-date times possible); venue <li class=luogoOpera> (Teatro Rossini/Auditorium Scavolini/Vitrifrigo Arena). Credits 'Label <b>NAME</b>' rows; <h2>Interpreti</h2> splits creative (Italian labels mapped in-adapter) from sung cast. NO deep archive (index surfaces only current edition); Wikidata Q1592865 has 0 linked productions → backfill empty. proxy:false."
+  },
+  {
+    "slug": "glyndebourne-festival",
+    "name": "Glyndebourne Festival",
+    "city": "Lewes",
+    "country": "GB",
+    "website": "https://www.glyndebourne.com",
+    "wikidata": "Q203348",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — English country-house opera (Lewes, East Sussex): the summer Festival (~May–Aug) + a separate autumn season; one edition at a time, empty in winter → live = current edition, past via Wikidata (Q203348, sparse). WordPress/CloudFront — **CloudFront 403s the crawler UA, so the adapter sends a browser User-Agent (UA-block, not IP → no proxy)**. Section hubs /festival/ + /autumn/ link to /events/{slug}/ detail pages parsed from HTML (only Yoast JSON-LD, no schema.org Event). **Composer = the English byline in heroBanner__hero__date ('{Composer} • {range}'), NOT German composerFromText** (trailing 'and librettist …' stripped). Creative team/cast in <h2>Creative team|Cast includes</h2> blocks of <p>Label<br><span class=castHigher>Name</span></p>; English labels (Conductor/Music Director, Director/Revival/Associate Director, Set/Costume/Lighting/Video/Projection Designer, Choreographer/Movement Director, Fight Director, Chorus Director, Dramaturg) mapped in-adapter; multi-name spans split on <br>; unmapped labels in the Creative block are dropped (never leak to cast). Dates from subheader--small lists each paired with the following 'Opera starts: H.MMpm'; year inferred from the hero range. **Opera filter = composer byline present AND a Director credit** (drops Beethoven 9, Christmas concerts, iPlayer listings). proxy:false."
   }
 ]

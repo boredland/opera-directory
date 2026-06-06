@@ -1,10 +1,14 @@
 import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
 import { scrapeAnhaltischesTheaterDessau } from "./houses/anhaltisches-theater-dessau";
+import { scrapeArenaDiVerona } from "./houses/arena-di-verona";
 import { scrapeBadischesStaatstheaterKarlsruhe } from "./houses/badisches-staatstheater-karlsruhe";
 import { scrapeBayerischeStaatsoper } from "./houses/bayerische-staatsoper";
+import { scrapeBayreutherFestspiele } from "./houses/bayreuther-festspiele";
+import { scrapeBregenzerFestspiele } from "./houses/bregenzer-festspiele";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptmann-theater-goerlitz";
+import { scrapeGlyndebourneFestival } from "./houses/glyndebourne-festival";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
 import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
@@ -26,7 +30,9 @@ import { scrapeOperKoeln } from "./houses/oper-koeln";
 import { scrapeOperLeipzig } from "./houses/oper-leipzig";
 import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
 import { scrapePfalztheaterKaiserslautern } from "./houses/pfalztheater-kaiserslautern";
+import { scrapeRossiniOperaFestivalPesaro } from "./houses/rossini-opera-festival-pesaro";
 import { scrapeSaarlaendischesStaatstheater } from "./houses/saarlaendisches-staatstheater";
+import { scrapeSalzburgerFestspiele } from "./houses/salzburger-festspiele";
 import { scrapeSchleswigHolsteinischesLandestheater } from "./houses/schleswig-holsteinisches-landestheater";
 import { scrapeSemperoperDresden } from "./houses/semperoper-dresden";
 import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
@@ -163,4 +169,10 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "theater-rudolstadt": scrapeTheaterRudolstadt,
   "theater-neubrandenburg-neustrelitz": scrapeTheaterNeubrandenburgNeustrelitz,
   "uckermaerkische-buehnen-schwedt": scrapeUckermaerkischeBuehnenSchwedt,
+  "bayreuther-festspiele": scrapeBayreutherFestspiele,
+  "bregenzer-festspiele": scrapeBregenzerFestspiele,
+  "salzburger-festspiele": scrapeSalzburgerFestspiele,
+  "arena-di-verona": scrapeArenaDiVerona,
+  "rossini-opera-festival-pesaro": scrapeRossiniOperaFestivalPesaro,
+  "glyndebourne-festival": scrapeGlyndebourneFestival,
 };
