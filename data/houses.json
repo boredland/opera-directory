@@ -839,5 +839,49 @@
     "enabled": true,
     "proxy": true,
     "notes": "render (Stagenet CMS, proxy:true — plain fetch of the spielplan returns the empty SPA shell). Spielplan /spielplan/index.html is one client-rendered list of every dated performance for the announced seasons; spielplanfilter.js only shows/hides rows via CSS classes (sparte-37=Musiktheater, ort-NN=town, date-DDMMYY where YY is Date.getYear()-based→20YY), so a single headless render yields the whole future. Keep sparte-37 rows, group by production slug, take the start of the 'HH.MM–HH.MM Uhr' time and the ort-NN town (Flensburg/Rendsburg/Schleswig/Heide/Husum/… — touring). Composer + creative + cast come from the static /produktionen/{slug}.html page (plain fetch; the spielplan's ./produktionen/ links resolve against the page's site-root <base href>; the /spielplan/produktionen/ path 404s): genre/composer descriptor ('Oper in … von {Composer}') in a text node, credit rows <span class=fw-bold>Label:</span> … <a title=Name>. Require a composer and drop Musical (filters musicals/concerts/junges-theater that also tag Musiktheater). Slavic háček named entities (š/ž/č/ř e.g. Janáček) missing from fetch.ts decodeEntities → repaired with a local EXTRA_ENTITIES map. Future-only → Wikidata Q776404 backfill (currently 0 rows)."
+  },
+  {
+    "slug": "landestheater-niederbayern",
+    "name": "Landestheater Niederbayern",
+    "city": "Landshut",
+    "country": "DE",
+    "website": "https://www.landestheater-niederbayern.de",
+    "wikidata": "Q1802667",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "spielplan-html; WordPress + 'shmtheme' theatre theme, fully server-rendered, no usable JSON-LD. Touring house — performances carry per-night town/venue (Landshut/Passau/Straubing/Bad Birnbach/Deggendorf/Osterhofen/Regensburg). Index /spielplan/ is one page split into sparte sections by <h2 id=…>; music-theatre filter is the id='oper-operette' section (bounded by the next sparte heading), linking shows as /event/{slug}/. Detail: <h1> title, p.shmtheme_content__post_untertitel work-type line ('Dramma giocoso/Operette/Bühnenweihfestspiel von …', gated on composerFromText), .shmtheme_single_event__kreativteam members (__member__function label + __member__name) = creative, .shmtheme_person_teaser singer carousel (__title name + __tatigkeiten role, rendered TWICE desktop+mobile → dedupe by role|name) = cast. Dates: .shmtheme_single_event__termine groups .shmtheme_single_termin (data-cancelled, .location, .time 'HH:MM Uhr') under __termine__header date headers ('Freitag, 12. Juni 2026') — lists only UPCOMING nights, so already-played productions fall back to per-city premiere dates in the .zusatzinfos 'Premiere' block ('Landshut, 02.04.2026'). Future/repertoire only → Wikidata backfill (Q1802667). NB Q1802664 is Detmold — don't confuse."
+  },
+  {
+    "slug": "theater-rudolstadt",
+    "name": "Theater Rudolstadt",
+    "city": "Rudolstadt",
+    "country": "DE",
+    "website": "https://schiller-theater.de",
+    "wikidata": "Q2415942",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Schiller Theater Rudolstadt / Thüringer Landestheater Rudolstadt (home of the Thüringer Symphoniker), spielplan-html, WordPress SSR, no proxy — canonical host schiller-theater.de (theater-rudolstadt.de 301s to it). Drama-heavy house that also stages Oper/Operette. Spielplan /programm/spielplan/?datum=YYYY-MM paginates by month: each day is an <a name='day_N'> block (<h3><strong>DD</strong></h3>, month/year from the URL param) whose event rows link /stueck/{slug}/, print a <p class='mb-2'>{genre} von {Composer}</p> line + a 'HH:MM Uhr … <br>{Venue}' line — the genre line both gates (music-theatre marker) and yields the composer. Group by slug (scope month parse to .spielplan-content — footer .footer-boxes repeat unrelated shows); detail page fetched once for the 'Mitwirkende' collapser (anchor on the <h4>Mitwirkende</h4> heading — press reviews are an earlier collapser): creative <p> of 'Label: Name<br>…' then cast <p> of 'Role: Singer<br>…', drop the trailing 'Es spielen:'/'Mit:' orchestra/chorus row. Walks ~2 months back through one season ahead (extends to window.since in backfill); unpublished future months return nothing → Wikidata backfill (Q2415942, thin). A spielzeitarchiv (?szid=, back to 2008/09) exists if archive backfill is ever wanted."
+  },
+  {
+    "slug": "theater-neubrandenburg-neustrelitz",
+    "name": "Theater und Orchester Neubrandenburg/Neustrelitz",
+    "city": "Neubrandenburg",
+    "country": "DE",
+    "website": "https://tog.de",
+    "wikidata": "Q15444405",
+    "strategy": "render",
+    "enabled": true,
+    "notes": "render. WordPress (custom 'projekte' post type), branded 'Landestheater Mecklenburg' in the Eventim shop; canonical host tog.de (theater-und-orchester.de 301s to it). Two-city company (Neubrandenburger Philharmonie + Landestheater Neustrelitz). Discover productions from the static /musiktheater/ page (/projekte/{slug}/ links — plain fetch, no render). Each detail page IS the production, read via fetchRendered (the calendar is JS-injected; fetchRendered uses the env proxy in CI): <h1> title, a <h2> '{Genre} von {Composer}' subtitle right after it (NOT the first <p> — that's 'Text von …' the librettist), an <aside id='kredits'> Besetzung (sung cast 'Rolle: Name' rows then a creative-team <p> of mapped 'Label: Name', alternating casts joined by ' / '), and a spielplan_filter of spielplan_bloc rows carrying date (DD.MM.YYYY), time, venue/town (Neubrandenburg, Neustrelitz, open-air Schlossgarten Neustrelitz) + PREMIERE/wenige-Karten status. Galas/concerts/musicals dropped via genre blacklist + required composer. venue_room captures town. Upstream: the JS calendar only carries currently-bookable (Eventim) dates, so announced-but-not-on-sale productions render an empty calendar and are skipped until dated. Future-only → Wikidata backfill (Q15444405)."
+  },
+  {
+    "slug": "uckermaerkische-buehnen-schwedt",
+    "name": "Uckermärkische Bühnen Schwedt",
+    "city": "Schwedt/Oder",
+    "country": "DE",
+    "website": "https://www.theater-schwedt.de",
+    "wikidata": "Q1393858",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Bespoke server-rendered CMS (no proxy; ubs-schwedt.de is dead). Spielplan at /ubs/page/110/; the 'Oper & Operette' category is the server-side filter /ubs/page/110/filter/137438953472/ — one <table> of <tr> rows, each with a td.day (<span class='daynum'>DD</span> + 'Month YYYY' German date) + a content <td> with span.title, span.descr and span.spbottom (<b>HH:MM Uhr</b>, {venue}, {price}); staged works link to /ubs/article/{id}/. Group by article id; require a composer read off the DETAIL body's 'Musik von …' / 'Oper „…“ von …' line (the generic leading 'von' picks up the librettist/playwright — Faust's descr yields Goethe not Gounod), which drops the operetta-revue galas + coffee-concert series and keeps only staged opera/operetta. Predominantly operetta/musical/Schauspiel house — opera presence is thin (~1 staged work/season). Detail pages carry no structured cast/creative → those arrays empty (acceptable). Title uses a house wrapper (Uckeroper „Faust“) → extract the quoted work name. Future-only → Wikidata backfill (Q1393858)."
   }
 ]

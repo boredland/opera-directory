@@ -22,6 +22,8 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   "inszenierung und bühne": "director",
   "inszenierung + bühne": "director",
   "inszenierung, bühne": "director",
+  "regie & ausstattung": "director",
+  "regie und ausstattung": "director",
   bühne: "set-designer",
   bühnenbild: "set-designer",
   "bühne und kostüme": "set-designer",
@@ -53,6 +55,8 @@ export const GERMAN_CREDIT_LABELS: Record<string, string> = {
   chorleitung: "chorus-master",
   kinderchor: "childrens-chorus-master",
   video: "video-designer",
+  videodesign: "video-designer",
+  videoprojektionen: "video-designer",
   sound: "sound-designer",
 };
 

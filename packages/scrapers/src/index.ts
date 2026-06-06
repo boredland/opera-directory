@@ -9,6 +9,7 @@ import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
 import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
 import { scrapeLandestheaterDetmold } from "./houses/landestheater-detmold";
+import { scrapeLandestheaterNiederbayern } from "./houses/landestheater-niederbayern";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
 import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
@@ -63,13 +64,16 @@ import { scrapeTheaterLuebeck } from "./houses/theater-luebeck";
 import { scrapeTheaterLueneburg } from "./houses/theater-lueneburg";
 import { scrapeTheaterMagdeburg } from "./houses/theater-magdeburg";
 import { scrapeTheaterMuenster } from "./houses/theater-muenster";
+import { scrapeTheaterNeubrandenburgNeustrelitz } from "./houses/theater-neubrandenburg-neustrelitz";
 import { scrapeTheaterNordhausen } from "./houses/theater-nordhausen";
 import { scrapeTheaterOsnabrueck } from "./houses/theater-osnabrueck";
 import { scrapeTheaterPforzheim } from "./houses/theater-pforzheim";
 import { scrapeTheaterPlauenZwickau } from "./houses/theater-plauen-zwickau";
+import { scrapeTheaterRudolstadt } from "./houses/theater-rudolstadt";
 import { scrapeTheaterTrier } from "./houses/theater-trier";
 import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
+import { scrapeUckermaerkischeBuehnenSchwedt } from "./houses/uckermaerkische-buehnen-schwedt";
 import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
 import type { HouseScraper } from "./types";
 
@@ -155,4 +159,8 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "pfalztheater-kaiserslautern": scrapePfalztheaterKaiserslautern,
   "staatstheater-meiningen": scrapeStaatstheaterMeiningen,
   "schleswig-holsteinisches-landestheater": scrapeSchleswigHolsteinischesLandestheater,
+  "landestheater-niederbayern": scrapeLandestheaterNiederbayern,
+  "theater-rudolstadt": scrapeTheaterRudolstadt,
+  "theater-neubrandenburg-neustrelitz": scrapeTheaterNeubrandenburgNeustrelitz,
+  "uckermaerkische-buehnen-schwedt": scrapeUckermaerkischeBuehnenSchwedt,
 };
