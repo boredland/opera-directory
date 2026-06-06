@@ -490,6 +490,11 @@
     "name": "Hauptmann"
   },
   {
+    "slug": "alban-berg/wozzeck/kinder-und-jugendchor",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Kinder- und Jugendchor"
+  },
+  {
     "slug": "alban-berg/wozzeck/margret",
     "work_slug": "alban-berg/wozzeck",
     "name": "Margret"
@@ -498,6 +503,11 @@
     "slug": "alban-berg/wozzeck/marie",
     "work_slug": "alban-berg/wozzeck",
     "name": "Marie"
+  },
+  {
+    "slug": "alban-berg/wozzeck/maries-knabe",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Maries Knabe"
   },
   {
     "slug": "alban-berg/wozzeck/orchester",
@@ -670,14 +680,259 @@
     "name": "Unter der Leitung von"
   },
   {
+    "slug": "andrew-lloyd-webber/cats-young-actors-edition/inszenierung-choreografie",
+    "work_slug": "andrew-lloyd-webber/cats-young-actors-edition",
+    "name": "Inszenierung, Choreografie"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/andreas-priester",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Andreas/Priester"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/badische-philharmonie-pforzheim-musikalische-leitung",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Badische Philharmonie Pforzheim Musikalische Leitung"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/bartholomaus-priester",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Bartholomäus/Priester"
+  },
+  {
     "slug": "andrew-lloyd-webber/jesus-christ-superstar/buhne-video",
     "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
     "name": "Bühne, Video"
   },
   {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/frau-am-feuer",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Frau am Feuer"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/hannas",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Hannas"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/hannas-hohepriester",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Hannas, Hohepriester"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/herodes",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Herodes"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/herodes-konig-von-judaa",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Herodes, König von Judäa"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/inspizient",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Inspizient"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/jacobus-der-altere",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Jacobus der Ältere"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/jesus-von-nazareth",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Jesus von Nazareth"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/judas-ischariot",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Judas Ischariot"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/kaiphas-hohepriester",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Kaiphas, Hohepriester"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/kajaphas",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Kajaphas"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/maria-magdalena",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Maria Magdalena"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/musikalische-assistenz",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Musikalische Assistenz"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/musikalische-einstudierung",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/neue-lausitzer-philharmonie",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Neue Lausitzer Philharmonie"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/petrus",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Petrus"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/pontius-pilatus",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Pontius Pilatus"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/pontius-pilatus-prafekt-von-judaa",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Pontius Pilatus, präfekt von Judäa"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/priester-1-solo-aus-der-meute",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Priester 1/Solo aus der Meute"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/priester-2",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Priester 2"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/priester-3-alter-mann",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Priester 3/Alter Mann"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/regieassistent",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Regieassistent"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/regiehospitanz",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Regiehospitanz"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-petrus",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Simon Petrus"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-zelotes",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Simon Zelotes"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/soufflage",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Soufflage"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/soul-girls",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Soul-Girls"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/soulgirl",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Soulgirl"
+  },
+  {
     "slug": "andrew-lloyd-webber/jesus-christ-superstar/sounddesign",
     "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
     "name": "Sounddesign"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/theaterpadagogik",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Theaterpädagogik"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/thomas-priester",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Thomas/Priester"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/verantwortlicher-buhnenmeister",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Verantwortlicher Bühnenmeister"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/anne-frank",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Anne Frank"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/auguste-van-pels",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Auguste van Pels"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/ausstattungsassistenz",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Ausstattungsassistenz"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/beleuchtung",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Beleuchtung"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/buhnenmeister",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Bühnenmeister"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/fotos",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Fotos"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/inspizienz",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Inspizienz"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/musikalische-einstudierung",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/otto-frank",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Otto Frank"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/peter-van-pels",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Peter van Pels"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/regieassistenz-und-abendspielleitung",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Regieassistenz und Abendspielleitung"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/studienleiter",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Studienleiter"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/theatervermittlung",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Theatervermittlung"
+  },
+  {
+    "slug": "anno-schreier/peter-van-pels/ton",
+    "work_slug": "anno-schreier/peter-van-pels",
+    "name": "Ton"
   },
   {
     "slug": "antonin-dvorak/rusalka/1-elfe",
@@ -768,6 +1023,46 @@
     "slug": "arnold-schonberg-frank-martin/warten-auf-heute/sanger",
     "work_slug": "arnold-schonberg-frank-martin/warten-auf-heute",
     "name": "Sänger"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/der-piratenkonig",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Der Piratenkönig"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/edith",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Edith"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/frederic",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Frederic"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/generalmajor-stanley",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Generalmajor Stanley"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/kate",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Kate"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/mabel",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Mabel"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/ruth",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Ruth"
+  },
+  {
+    "slug": "arthur-sullivan/die-piraten-von-penzance/samuel",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "name": "Samuel"
   },
   {
     "slug": "astor-piazzolla/maria-de-buenos-aires/bandoneon",
@@ -883,6 +1178,16 @@
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/szenische-einrichtung",
     "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
     "name": "Szenische Einrichtung"
+  },
+  {
+    "slug": "babykonzert-musikalische-komodie/krokodil-konrad",
+    "work_slug": "babykonzert-musikalische-komodie",
+    "name": "Krokodil Konrad"
+  },
+  {
+    "slug": "babykonzert-musikalische-komodie/orchester",
+    "work_slug": "babykonzert-musikalische-komodie",
+    "name": "Orchester"
   },
   {
     "slug": "ballett/rausch/ballett",
@@ -1013,6 +1318,81 @@
     "slug": "bela-bartok/herzog-blaubarts-burg/szenische-einrichtung-und-abendspielleitung",
     "work_slug": "bela-bartok/herzog-blaubarts-burg",
     "name": "Szenische Einrichtung und Abendspielleitung"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/demetrius-ebenfalls-liebhaber-der-hermia",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Demetrius, ebenfalls Liebhaber der Hermia"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/flaut-der-balgeflicker",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Flaut, der Bälgeflicker"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/helena-in-demetrius-verliebt",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Helena, in Demetrius verliebt"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/hermia-in-lysander-verliebt",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Hermia, in Lysander verliebt"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/lysander-liebhaber-der-hermia",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Lysander, Liebhaber der Hermia"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/oberon-konig-der-elfen",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Oberon, König der Elfen"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/peter-squenz-der-zimmermann",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Peter Squenz, der Zimmermann"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/puck-ein-elfe",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Puck, ein Elfe"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/schlucker-der-schneider",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Schlucker, der Schneider"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/schnauz-der-kesselflicker",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Schnauz, der Kesselflicker"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/schnock-der-schreiner",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Schnock, der Schreiner"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/spinnweb-bohnenblute-senfsamen-motte-kinderchor",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Spinnweb, Bohnenblüte, Senfsamen, Motte, Kinderchor"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/theseus-herzog-von-athen",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Theseus, Herzog von Athen"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/titania-konigin-der-elfen",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Titania, Königin der Elfen"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum/zettel-der-weber",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
+    "name": "Zettel, der Weber"
   },
   {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/bottom",
@@ -1485,9 +1865,24 @@
     "name": "Erster Philister"
   },
   {
+    "slug": "camille-saint-saens/samson-et-dalila/high-priest-of-dagon",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "name": "High Priest of Dagon"
+  },
+  {
     "slug": "camille-saint-saens/samson-et-dalila/oberpriester-des-dagon",
     "work_slug": "camille-saint-saens/samson-et-dalila",
     "name": "Oberpriester des Dagon"
+  },
+  {
+    "slug": "camille-saint-saens/samson-et-dalila/old-hebrew",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "name": "Old Hebrew"
+  },
+  {
+    "slug": "camille-saint-saens/samson-et-dalila/samson",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "name": "Samson"
   },
   {
     "slug": "camille-saint-saens/samson-et-dalila/szenische-einstudierung-spielleitung",
@@ -1540,6 +1935,36 @@
     "name": "Samiel"
   },
   {
+    "slug": "carl-maria-von-weber/der-freischutz/1-brautjungfer",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "1. Brautjungfer"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/1-jager",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "1. Jäger"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/2-brautjungfer",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "2. Brautjungfer"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/2-jager",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "2. Jäger"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/3-brautjungfer",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "3. Brautjungfer"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/4-brautjungfer",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "4. Brautjungfer"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz/agathe",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Agathe"
@@ -1560,9 +1985,34 @@
     "name": "Caspar"
   },
   {
+    "slug": "carl-maria-von-weber/der-freischutz/ein-apokalyptischer-reiter",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Ein apokalyptischer Reiter"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz/ein-eremit",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Ein Eremit"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/eremit",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Eremit"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/es-spielt-die",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Es spielt die"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/kaspar",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kaspar"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/kaspar-killian",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kaspar, Killian"
   },
   {
     "slug": "carl-maria-von-weber/der-freischutz/kilian",
@@ -1573,6 +2023,11 @@
     "slug": "carl-maria-von-weber/der-freischutz/kuno",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Kuno"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/kuno-ottokar",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kuno, Ottokar"
   },
   {
     "slug": "carl-maria-von-weber/der-freischutz/max",
@@ -1590,9 +2045,24 @@
     "name": "Prospekte nach Motiven von"
   },
   {
+    "slug": "carl-maria-von-weber/der-freischutz/samiel",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Samiel"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/umsetzung",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Umsetzung"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz/video-licht",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Video, Licht"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/wirtin",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Wirtin"
   },
   {
     "slug": "carl-maria-von-weber/oberon-konig-der-elfen/eine-der-drei-pucks",
@@ -1640,9 +2110,149 @@
     "name": "Zwei der drei Pucks"
   },
   {
+    "slug": "carl-maria-von-weber/silvana/albert-von-cleeburg",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Albert von Cleeburg"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/edeldamen-edelknappen-ritter-jager-und-reisige",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Edeldamen, Edelknappen, Ritter, Jäger und Reisige"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/fust-von-grimmbach-rudolphs-lehnsmann",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Fust von Grimmbach, Rudolphs Lehnsmann"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/graf-adelhart",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Graf Adelhart"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/graf-rudolph-von-helfenstein",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Graf Rudolph von Helfenstein"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/hugo-in-adelharts-diensten",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Hugo, in Adelharts Diensten"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/klara-mechthildes-zofe",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Klara, Mechthildes Zofe"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/komparserie",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Komparserie"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/krips-rudolphs-knappe",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Krips, Rudolphs Knappe"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/kurt-cleeburgs-knappe",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Kurt, Cleeburgs Knappe"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/mechthilde-mathilde-seine-tochter",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Mechthilde (Mathilde), seine Tochter"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/silvana-das-waldmadchen",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Silvana, das Waldmädchen"
+  },
+  {
+    "slug": "carl-maria-von-weber/silvana/ulrich-ihr-pflegevater",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "name": "Ulrich, ihr Pflegevater"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/anna",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Anna"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/august-fliederbusch",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "August Fliederbusch"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/bertha-fliederbusch",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Bertha Fliederbusch"
+  },
+  {
     "slug": "carl-michael-ziehrer/die-landstreicher/buhne-video",
     "work_slug": "carl-michael-ziehrer/die-landstreicher",
     "name": "Bühne / Video"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/frau-leitgeb",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Frau Leitgeb"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/furst-adolar-gilka",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Fürst Adolar Gilka"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/gratwohl",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Gratwohl"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/kampel",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Kampel"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/lachlan-mccracken",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Lachlan McCracken"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/leitgeb",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Leitgeb"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/mimi-tanzerin",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Mimi, Tänzerin"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/mucki-von-rodenstein",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Mucki von Rodenstein"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/roland",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Roland"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/rudi-von-muggenhein",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Rudi von Muggenhein"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/sepp",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Sepp"
+  },
+  {
+    "slug": "carl-michael-ziehrer/die-landstreicher/stober",
+    "work_slug": "carl-michael-ziehrer/die-landstreicher",
+    "name": "Stöber"
   },
   {
     "slug": "carl-orff/carmina-burana/chore",
@@ -1658,6 +2268,61 @@
     "slug": "carl-orff/carmina-burana/orchester",
     "work_slug": "carl-orff/carmina-burana",
     "name": "Orchester"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/capulet",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Capulet"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/der-herzog-von-verona",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Der Herzog von Verona"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/frere-laurent",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Frère Laurent"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/gertrude",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Gertrude"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/gregorio",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Grégorio"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/juliette",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Juliette"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/mercutio",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Mercutio"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/paris",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Paris"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/romeo-montaigu",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Roméo Montaigu"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/stephano",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Stéphano"
+  },
+  {
+    "slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/tybalt",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "name": "Tybalt"
   },
   {
     "slug": "choreographie-regie-marcos-morau/notte-morricone/buhnenbild-lichtdesign",
@@ -1748,6 +2413,66 @@
     "slug": "claude-debussy/pelleas-et-melisande/yniold",
     "work_slug": "claude-debussy/pelleas-et-melisande",
     "name": "Yniold"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/amore",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Amore"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/arnalta",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Arnalta"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/drusilla",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Drusilla"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/littore",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Littore"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/lucano",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Lucano"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/nerone",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Nerone"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/nutrice",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Nutrice"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/ottavia",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Ottavia"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/ottone",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Ottone"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/poppea",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Poppea"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/seneca",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Seneca"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea/valetto",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea-l-incoronazione-di-poppea",
+    "name": "Valetto"
   },
   {
     "slug": "claudio-monteverdi/die-kronung-der-poppea/adaption-buhne",
@@ -2375,6 +3100,46 @@
     "name": "Orchester"
   },
   {
+    "slug": "die-kleine-zauberflote/2-dame",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "2. Dame"
+  },
+  {
+    "slug": "die-kleine-zauberflote/3-dame",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "3. Dame"
+  },
+  {
+    "slug": "die-kleine-zauberflote/monostatos",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Monostatos"
+  },
+  {
+    "slug": "die-kleine-zauberflote/padagogik",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Pädagogik"
+  },
+  {
+    "slug": "die-kleine-zauberflote/pamina",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Pamina"
+  },
+  {
+    "slug": "die-kleine-zauberflote/papageno",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Papageno"
+  },
+  {
+    "slug": "die-kleine-zauberflote/sarastro",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Sarastro"
+  },
+  {
+    "slug": "die-kleine-zauberflote/tamino",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Tamino"
+  },
+  {
     "slug": "die-meistersinger-von-nurnberg/augustin-moser",
     "work_slug": "die-meistersinger-von-nurnberg",
     "name": "Augustin Moser"
@@ -2990,6 +3755,46 @@
     "name": "Ysätters-Kajsa / Bäuerin"
   },
   {
+    "slug": "elena-langer/the-lion-s-face/doktor",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Doktor"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/mr-d-patient",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Mr D, Patient"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/mr-d-patient-2",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Mr D, Patient 2"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/mrs-d-seine-frau",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Mrs. D., seine Frau"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/pflegerin",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Pflegerin"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/puppenbau",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Puppenbau"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/stimme-des-jungen",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Stimme des Jungen"
+  },
+  {
+    "slug": "elena-langer/the-lion-s-face/tochter-der-pflegerin",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "name": "Tochter der Pflegerin"
+  },
+  {
     "slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat/gartner",
     "work_slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
     "name": "gärtner"
@@ -3158,6 +3963,251 @@
     "slug": "emily-bronte/sturmhohe/schwester-3-heathcliff",
     "work_slug": "emily-bronte/sturmhohe",
     "name": "Schwester 3 / Heathcliff"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Anhilte, seine Frau"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/ausstattungsassistenz",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Ausstattungsassistenz"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/beleuchtung",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Beleuchtung"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/blondine",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Blondine"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/buhnenmeister",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Bühnenmeister"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/choreographische-assistenz-dancecaptain",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Choreographische Assistenz, Dancecaptain"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/edwin-beider-sohn",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Edwin, beider Sohn"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/es-spielt-die",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Es spielt die"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/eugen-von-rohnsdorff",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Eugen von Rohnsdorff"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/feri-bacsi",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Feri Bácsi"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/feri-von-kerekes-genannt-feribacsi",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Feri von Kerekes, genannt Feribacsi"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/furst-leopold-maria",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Fürst Leopold Maria"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/furst-lippert-weylersheim",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Fürst Lippert-Weylersheim"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancianu",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Graf Boni Kánciánu"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancsianu",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Graf Boni Kancsianu"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/groom",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Groom"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/hector",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Héctor"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/kavaliere",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Kavaliere"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/kiss-notar",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Kiss, Notar"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/komtesse-stasi",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Komtesse Stasi"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/komtesse-stasi-nichte-des-fursten",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Komtesse Stasi, Nichte des Fürsten"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/lnspizienz",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "lnspizienz"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/macgrave-botschafter",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "MacGrave, Botschafter"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/madis",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Mädis"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/musikalische-einstudierung",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/oberleutnant-von-rohnsdorff",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Oberleutnant von Rohnsdorff"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/regieassistenz-und-abendspielleitung",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Regieassistenz und Abendspielleitung"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/studienleiter",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Studienleiter"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Sylva Varescu"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/tanzpaar",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Tanzpaar"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/theatervermittlung",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Theatervermittlung"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/tilla",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Tilla"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/ton",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Ton"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/6-boys-bei-sandor",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "6 Boys bei Sandor"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/baby-steel",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Baby Steel"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/daisy-vanderbilt",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Daisy Vanderbilt"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/der-produzent-benjamin-lloyd-der-haushofmeister",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Der Produzent / Benjamin Lloyd / Der Haushofmeister"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/dolly-astor",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Dolly Astor"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/edith-rockefeller",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Edith Rockefeller"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/graf-bojatzowitsch-tihanyi",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Graf Bojatzowitsch / Tihanyi"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/graf-ernesto",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Graf Ernesto"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/james-jacques-bondy",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "James Jacques Bondy"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/kuppi-mihaly",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Kuppi Mihaly"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/lilian-ford",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Lilian Ford"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/marquis-perolin-kompoty",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Marquis Perolin / Kompoty"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/mary-lloyd",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Mary Lloyd"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/maud-carnegie",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Maud Carnegie"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/prinzessin-rosemarie",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Prinzessin Rosemarie"
+  },
+  {
+    "slug": "emmerich-kalman/die-herzogin-von-chicago/sandor-boris",
+    "work_slug": "emmerich-kalman/die-herzogin-von-chicago",
+    "name": "Sandor Boris"
   },
   {
     "slug": "engelbert-humperdinck/dornroschen/12-feen",
@@ -3600,9 +4650,29 @@
     "name": "Blanche de la Force"
   },
   {
+    "slug": "francis-poulenc/dialogues-des-carmelites/blanche-seine-tochter",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Blanche, seine Tochter"
+  },
+  {
     "slug": "francis-poulenc/dialogues-des-carmelites/chevalier-de-la-force-beichtvater-des-karmel",
     "work_slug": "francis-poulenc/dialogues-des-carmelites",
     "name": "Chevalier de la Force / Beichtvater des Karmel"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/der-beichtvater-des-karmel",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Der Beichtvater des Karmel"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/der-chevalier-sein-sohn",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Der Chevalier, sein Sohn"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/der-marquis-de-la-force",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Der Marquis de la Force"
   },
   {
     "slug": "francis-poulenc/dialogues-des-carmelites/madame-de-croissy",
@@ -3610,9 +4680,19 @@
     "name": "Madame de Croissy"
   },
   {
+    "slug": "francis-poulenc/dialogues-des-carmelites/madame-de-croissy-priorin",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Madame de Croissy, Priorin"
+  },
+  {
     "slug": "francis-poulenc/dialogues-des-carmelites/madame-lidoine",
     "work_slug": "francis-poulenc/dialogues-des-carmelites",
     "name": "Madame Lidoine"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/madame-lidoine-neue-priorin",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Madame Lidoine, neue Priorin"
   },
   {
     "slug": "francis-poulenc/dialogues-des-carmelites/marquis-de-la-force-monsieur-javelinot-arzt-2-kommissar-offizier-gefangniswarter",
@@ -3625,14 +4705,44 @@
     "name": "Mère Marie de l&rsquo;incarnation"
   },
   {
+    "slug": "francis-poulenc/dialogues-des-carmelites/mutter-jeanne",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Mutter Jeanne"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/mutter-marie-novizenmeisterin",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Mutter Marie, Novizenmeisterin"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/offizier-kerkermeister-thierry-m-javelinot",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Offizier / Kerkermeister / Thierry / M. Javelinot"
+  },
+  {
     "slug": "francis-poulenc/dialogues-des-carmelites/s-ur-constance-de-st-denis",
     "work_slug": "francis-poulenc/dialogues-des-carmelites",
     "name": "Sœur Constance de St. Denis"
   },
   {
+    "slug": "francis-poulenc/dialogues-des-carmelites/schwester-constance-novizin",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Schwester Constance, Novizin"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/schwester-mathilde",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Schwester Mathilde"
+  },
+  {
     "slug": "francis-poulenc/dialogues-des-carmelites/thierry-diener-1-kommissar",
     "work_slug": "francis-poulenc/dialogues-des-carmelites",
     "name": "Thierry, Diener / 1. Kommissar"
+  },
+  {
+    "slug": "francis-poulenc/dialogues-des-carmelites/zwei-kommissare",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "name": "Zwei Kommissare"
   },
   {
     "slug": "franz-lehar/der-graf-von-luxemburg/angele-didier",
@@ -3678,6 +4788,76 @@
     "slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels",
     "work_slug": "franz-lehar/der-graf-von-luxemburg",
     "name": "Sergej Mentschikoff / Portier des Grandhotels"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/baron-mirko-zeta-pontevedrinischer-gesandter-in-paris",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Baron Mirko Zeta, pontevedrinischer Gesandter in Paris"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/bogdanowitsch-pontevedrinischer-konsul",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Bogdanowitsch, pontevedrinischer Konsul"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/camille-de-rosillon",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Camille de Rosillon"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/graf-danilo-danilowitsch-gesandtschaftssekretar-kavallerieleutnant-i-r",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Graf Danilo Danilowitsch, Gesandtschaftssekretär, Kavallerieleutnant i.R."
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/hanna-glawari",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Hanna Glawari"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/kromow-pontevedrinischer-gesandtschaftsrat",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Kromow, pontevedrinischer Gesandtschaftsrat"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/njegus-kanzlist-bei-der-pontevedrinischen-gesandtschaft",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Njegus, Kanzlist bei der pontevedrinischen Gesandtschaft"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/olga-seine-frau",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Olga, seine Frau"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/praskowia-seine-frau",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Praškowia, seine Frau"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/pritschitsch-pontevedrinischer-oberst-in-pension",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Pritschitsch, pontevedrinischer Oberst in Pension"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/raoul-de-st-brioche",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Raoul de St. Brioche"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/sylviane-seine-frau",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Sylviane, seine Frau"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/valencienne-seine-frau",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Valencienne, seine Frau"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/vicomte-cascada",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Vicomte Cascada"
   },
   {
     "slug": "franz-schreker/die-gezeichneten/alviano-salvago",
@@ -3890,6 +5070,11 @@
     "name": "Freddy Eynsford-Hill"
   },
   {
+    "slug": "frederick-loewe/my-fair-lady/harry",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Harry"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady/harry-lady-boxington",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Harry / Lady Boxington"
@@ -3898,6 +5083,11 @@
     "slug": "frederick-loewe/my-fair-lady/henry-higgins",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Henry Higgins"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/jamie",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Jamie"
   },
   {
     "slug": "frederick-loewe/my-fair-lady/jamie-lord-boxington",
@@ -3925,6 +5115,11 @@
     "name": "Mrs. Pearce"
   },
   {
+    "slug": "frederick-loewe/my-fair-lady/oberst-hugh-pickering",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Oberst Hugh Pickering"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady/oberst-pickering",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Oberst Pickering"
@@ -3933,6 +5128,11 @@
     "slug": "frederick-loewe/my-fair-lady/orchester",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Orchester"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/prof-henry-higgins",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Prof. Henry Higgins"
   },
   {
     "slug": "frederick-loewe/my-fair-lady/vierter-obsthandler",
@@ -4130,6 +5330,26 @@
     "name": "Choreografische Mitarbeit"
   },
   {
+    "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego/catrina",
+    "work_slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Catrina"
+  },
+  {
+    "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego/diego",
+    "work_slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Diego"
+  },
+  {
+    "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego/frida",
+    "work_slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Frida"
+  },
+  {
+    "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego/leonardo",
+    "work_slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Leonardo"
+  },
+  {
     "slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/adina",
     "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
     "name": "Adina"
@@ -4208,6 +5428,31 @@
     "slug": "gaetano-donizetti/la-favorite/leonor-de-guzman",
     "work_slug": "gaetano-donizetti/la-favorite",
     "name": "Léonor de Guzman"
+  },
+  {
+    "slug": "gaetano-donizetti/la-fille-du-regiment/duchess-of-krakenthorp",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "name": "Duchess of Krakenthorp"
+  },
+  {
+    "slug": "gaetano-donizetti/la-fille-du-regiment/marie",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "name": "Marie"
+  },
+  {
+    "slug": "gaetano-donizetti/la-fille-du-regiment/marquise-of-berkenfield",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "name": "Marquise of Berkenfield"
+  },
+  {
+    "slug": "gaetano-donizetti/la-fille-du-regiment/sulpice",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "name": "Sulpice"
+  },
+  {
+    "slug": "gaetano-donizetti/la-fille-du-regiment/tonio",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "name": "Tonio"
   },
   {
     "slug": "gaetano-donizetti/la-mamma/abendspielleitung",
@@ -4330,6 +5575,31 @@
     "name": "Sir Edgardo di Ravenswood"
   },
   {
+    "slug": "gaetano-donizetti/maria-stuarda/cecil",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "name": "Cecil"
+  },
+  {
+    "slug": "gaetano-donizetti/maria-stuarda/elisabetta",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "name": "Elisabetta"
+  },
+  {
+    "slug": "gaetano-donizetti/maria-stuarda/leicester",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "name": "Leicester"
+  },
+  {
+    "slug": "gaetano-donizetti/maria-stuarda/maria-stuarda",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "name": "Maria Stuarda"
+  },
+  {
+    "slug": "gaetano-donizetti/maria-stuarda/talbot",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "name": "Talbot"
+  },
+  {
     "slug": "gaspare-spontini/la-vestale/cinna",
     "work_slug": "gaspare-spontini/la-vestale",
     "name": "Cinna"
@@ -4358,6 +5628,21 @@
     "slug": "gaspare-spontini/la-vestale/un-consul",
     "work_slug": "gaspare-spontini/la-vestale",
     "name": "Un Consul"
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/marilyn",
+    "work_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart",
+    "name": "Marilyn"
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/rehearsal-director-u-a",
+    "work_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart",
+    "name": "Rehearsal Director u.a."
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/the-tritones",
+    "work_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart",
+    "name": "The Tritones"
   },
   {
     "slug": "georg-friedrich-handel/alcina/alcina",
@@ -4635,6 +5920,11 @@
     "name": "Alter Ego Don José"
   },
   {
+    "slug": "georges-bizet/carmen/buhnenbildassistenz",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Bühnenbildassistenz"
+  },
+  {
     "slug": "georges-bizet/carmen/carmen",
     "work_slug": "georges-bizet/carmen",
     "name": "Carmen"
@@ -4660,9 +5950,24 @@
     "name": "Dancairo"
   },
   {
+    "slug": "georges-bizet/carmen/dancairo-schmuggler",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Dancairo, Schmuggler"
+  },
+  {
     "slug": "georges-bizet/carmen/don-jose",
     "work_slug": "georges-bizet/carmen",
     "name": "Don José"
+  },
+  {
+    "slug": "georges-bizet/carmen/don-jose-sergeant",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Don José, Sergeant"
+  },
+  {
+    "slug": "georges-bizet/carmen/einstudierung-kinderchor",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Einstudierung Kinderchor"
   },
   {
     "slug": "georges-bizet/carmen/escamillo",
@@ -4670,14 +5975,34 @@
     "name": "Escamillo"
   },
   {
+    "slug": "georges-bizet/carmen/escamillo-torero",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Escamillo, Torero"
+  },
+  {
     "slug": "georges-bizet/carmen/frasquita",
     "work_slug": "georges-bizet/carmen",
     "name": "Frasquita"
   },
   {
+    "slug": "georges-bizet/carmen/frasquita-zigeunerin",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Frasquita, Zigeunerin"
+  },
+  {
+    "slug": "georges-bizet/carmen/inspizienz",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Inspizienz"
+  },
+  {
     "slug": "georges-bizet/carmen/inszenierung-nach",
     "work_slug": "georges-bizet/carmen",
     "name": "Inszenierung nach"
+  },
+  {
+    "slug": "georges-bizet/carmen/kampf-choreografie",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Kampf-Choreografie"
   },
   {
     "slug": "georges-bizet/carmen/kinder-und-jugendchor",
@@ -4690,9 +6015,24 @@
     "name": "Kostümassistenz"
   },
   {
+    "slug": "georges-bizet/carmen/le-dancaire-morales",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Le Dancaïre / Moralès"
+  },
+  {
+    "slug": "georges-bizet/carmen/le-remendado",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Le Remendado"
+  },
+  {
     "slug": "georges-bizet/carmen/lillas-pastia",
     "work_slug": "georges-bizet/carmen",
     "name": "Lillas Pastia"
+  },
+  {
+    "slug": "georges-bizet/carmen/manuelita",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Manuelitá"
   },
   {
     "slug": "georges-bizet/carmen/mercedes",
@@ -4700,9 +6040,19 @@
     "name": "Mercédès"
   },
   {
+    "slug": "georges-bizet/carmen/mercedes-zigeunerin",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Mercédés, Zigeunerin"
+  },
+  {
     "slug": "georges-bizet/carmen/micaela",
     "work_slug": "georges-bizet/carmen",
     "name": "Micaëla"
+  },
+  {
+    "slug": "georges-bizet/carmen/micaela-bauernmadchen",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Micaela, Bauernmädchen"
   },
   {
     "slug": "georges-bizet/carmen/mitarbeit-regie",
@@ -4715,9 +6065,19 @@
     "name": "Moralès"
   },
   {
+    "slug": "georges-bizet/carmen/morales-sergeant",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Moralés, Sergeant"
+  },
+  {
     "slug": "georges-bizet/carmen/musikalische-assistenz",
     "work_slug": "georges-bizet/carmen",
     "name": "Musikalische Assistenz"
+  },
+  {
+    "slug": "georges-bizet/carmen/musikalische-einstudierung",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Musikalische Einstudierung"
   },
   {
     "slug": "georges-bizet/carmen/orchester",
@@ -4725,14 +6085,44 @@
     "name": "Orchester"
   },
   {
+    "slug": "georges-bizet/carmen/regieassistenz",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Regieassistenz"
+  },
+  {
     "slug": "georges-bizet/carmen/remendado",
     "work_slug": "georges-bizet/carmen",
     "name": "Remendado"
   },
   {
+    "slug": "georges-bizet/carmen/remendado-schmuggler",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Remendado, Schmuggler"
+  },
+  {
+    "slug": "georges-bizet/carmen/soufflage",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Soufflage"
+  },
+  {
+    "slug": "georges-bizet/carmen/sprachcoaching",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Sprachcoaching"
+  },
+  {
     "slug": "georges-bizet/carmen/statisterie",
     "work_slug": "georges-bizet/carmen",
     "name": "Statisterie"
+  },
+  {
+    "slug": "georges-bizet/carmen/studienleitung",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Studienleitung"
+  },
+  {
+    "slug": "georges-bizet/carmen/verantwortlicher-buhnenmeister",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Verantwortlicher Bühnenmeister"
   },
   {
     "slug": "georges-bizet/carmen/vermittlung",
@@ -4743,6 +6133,11 @@
     "slug": "georges-bizet/carmen/zuniga",
     "work_slug": "georges-bizet/carmen",
     "name": "Zuniga"
+  },
+  {
+    "slug": "georges-bizet/carmen/zuniga-leutnant",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Zuniga, Leutnant"
   },
   {
     "slug": "georges-bizet/les-pecheurs-de-perles/einstudierung-chor",
@@ -4805,6 +6200,11 @@
     "name": "Un venditore di canzonette"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/alcindor",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Alcindor"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/alcindoro",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Alcindoro"
@@ -4865,6 +6265,11 @@
     "name": "Parpignol"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/projektchor",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Projektchor"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/rodolfo",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Rodolfo"
@@ -4873,6 +6278,11 @@
     "slug": "giacomo-puccini/la-boheme/schaunard",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Schaunard"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/sergeant",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Sergeant"
   },
   {
     "slug": "giacomo-puccini/la-boheme/sergeant-der-zollwache",
@@ -5130,6 +6540,11 @@
     "name": "Angelotti"
   },
   {
+    "slug": "giacomo-puccini/tosca/baron-scarpia",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Baron Scarpia"
+  },
+  {
     "slug": "giacomo-puccini/tosca/buhne-kostume",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Bühne, Kostüme"
@@ -5140,9 +6555,29 @@
     "name": "Cavaradossi"
   },
   {
+    "slug": "giacomo-puccini/tosca/cesare-angelotti",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Cesare Angelotti"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/der-mesner",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Der Mesner"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/ein-hirtenmadchen",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Ein Hirtenmädchen"
+  },
+  {
     "slug": "giacomo-puccini/tosca/einstudierung-chor",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Einstudierung Chor"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/floria-tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Floria Tosca"
   },
   {
     "slug": "giacomo-puccini/tosca/kerkermeister",
@@ -5155,6 +6590,11 @@
     "name": "Kinderchorleitung"
   },
   {
+    "slug": "giacomo-puccini/tosca/mario-cavaradossi",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Mario Cavaradossi"
+  },
+  {
     "slug": "giacomo-puccini/tosca/mesner",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Mesner"
@@ -5163,6 +6603,11 @@
     "slug": "giacomo-puccini/tosca/orchester",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Orchester"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/sacristan",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Sacristan"
   },
   {
     "slug": "giacomo-puccini/tosca/sagrestano",
@@ -5223,6 +6668,11 @@
     "slug": "giacomo-puccini/turandot/ein-mandarin",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Ein Mandarin"
+  },
+  {
+    "slug": "giacomo-puccini/turandot/emperor",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Emperor"
   },
   {
     "slug": "giacomo-puccini/turandot/erste-damenstimme",
@@ -5530,6 +6980,86 @@
     "name": "Szenische Einstudierung"
   },
   {
+    "slug": "gioachino-rossini/die-reise-nach-reims/antonio",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Antonio"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/corinna",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Corinna"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/delia",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Delia"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/don-alvaro",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Don Alvaro"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/don-luigino",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Don Luigino"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/don-profondo",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Don Profondo"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/don-prudenzio",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Don Prudenzio"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/il-barone-di-trombonok",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Il Barone di Trombonok"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/il-cavaliere-belfiore",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Il Cavaliere Belfiore"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/il-conte-di-libenskof",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Il Conte di Libenskof"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/la-contessa-di-folleville",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "La Contessa di Folleville"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/la-marchesa-melibea",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "La Marchesa Melibea"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/lord-sidney",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Lord Sidney"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/madama-cortese",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Madama Cortese"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/maddalena-modestina",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Maddalena/Modestina"
+  },
+  {
+    "slug": "gioachino-rossini/die-reise-nach-reims/zefirino-gelsomino",
+    "work_slug": "gioachino-rossini/die-reise-nach-reims",
+    "name": "Zefirino/Gelsomino"
+  },
+  {
     "slug": "gioachino-rossini/guillaume-tell/arnold-melchtal",
     "work_slug": "gioachino-rossini/guillaume-tell",
     "name": "Arnold Melchtal"
@@ -5595,6 +7125,16 @@
     "name": "Walther Furst"
   },
   {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/ambrogio",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Ambrogio"
+  },
+  {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/badische-philharmonie-pforzheim-musikalische-leitung",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Badische Philharmonie Pforzheim Musikalische Leitung"
+  },
+  {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/bartolo",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "name": "Bartolo"
@@ -5640,9 +7180,19 @@
     "name": "Fiorello"
   },
   {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/marzeline",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Marzeline"
+  },
+  {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "name": "Rosina"
+  },
+  {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/theaterpadagogik",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Theaterpädagogik"
   },
   {
     "slug": "gioachino-rossini/il-turco-in-italia/albazar",
@@ -5835,6 +7385,61 @@
     "name": "Tancredi"
   },
   {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/arnold-melcthal",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Arnold Melcthal"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/gesler",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Gesler"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/guillaume-tell",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Guillaume Tell"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/hedwige",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Hedwige"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/jemmy",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Jemmy"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/leuthold",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Leuthold"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mathilde",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Mathilde"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mit",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Mit"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/rodolphe",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Rodolphe"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/ruodi",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Ruodi"
+  },
+  {
+    "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/walter-furst-melcthal",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "name": "Walter Furst / Melcthal"
+  },
+  {
     "slug": "giuseppe-verdi/aida/aida",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Aida"
@@ -5878,6 +7483,11 @@
     "slug": "giuseppe-verdi/aida/eine-tempelsangerin",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Eine Tempelsängerin"
+  },
+  {
+    "slug": "giuseppe-verdi/aida/king",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "King"
   },
   {
     "slug": "giuseppe-verdi/aida/radames",
@@ -6130,9 +7740,24 @@
     "name": "Alfredo Germont"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/alfredo-germont-sta",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Alfredo Germont StA"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/annina",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Annina"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/annina-violettas-dienerin",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Annina, Violettas Dienerin"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/baron-douphal",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Baron Douphal"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/baron-douphol",
@@ -6145,6 +7770,11 @@
     "name": "Diener bei Flora"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/doktor-crenvil",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Doktor Crenvil"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/doktor-grenvil",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Doktor Grenvil"
@@ -6155,14 +7785,49 @@
     "name": "Ein Bote"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/ein-diener-bei-flora",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Ein Diener bei Flora"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/ein-diener-floras",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Ein Diener Floras"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/ein-kommissionar",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Ein Kommissionär"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/einstudierung-chor",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Einstudierung Chor"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/erika-friedhofsgartnerin",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Erika, Friedhofsgärtnerin"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/flora-bervoix",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Flora Bervoix"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/gaston",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Gaston"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/gaston-vicomte-von-letorieres",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Gaston, Vicomte von Létorières"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/gaston-vicomte-von-letorieres-joseph-diener-violettas",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Gaston, Vicomte von Létorières, Joseph, Diener Violettas"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/gastone",
@@ -6173,6 +7838,11 @@
     "slug": "giuseppe-verdi/la-traviata/giorgio-germont",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Giorgio Germont"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/giorgio-germont-sein-vater",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Giorgio Germont, sein Vater"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/giuseppe",
@@ -6195,9 +7865,24 @@
     "name": "Il Marchese d'Obigny"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/joseph-diener-violettas",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Joseph, Diener Violettas"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/marquis-d-obgny",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Marquis d'Obgny"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/marquis-d-obigny",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Marquis d'Obigny"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/marquis-von-obigny",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Marquis von Obigny"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres",
@@ -6380,6 +8065,11 @@
     "name": "Hohepriester des Baal"
   },
   {
+    "slug": "giuseppe-verdi/nabucco/inspizient",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Inspizient"
+  },
+  {
     "slug": "giuseppe-verdi/nabucco/ismaele",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Ismaele"
@@ -6400,9 +8090,24 @@
     "name": "Junger Ismaele"
   },
   {
+    "slug": "giuseppe-verdi/nabucco/musikalische-einstudierung",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/musikalische-leitung-dirigat",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Musikalische Leitung & Dirigat"
+  },
+  {
     "slug": "giuseppe-verdi/nabucco/nabucco",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Nabucco"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/oberpriester",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Oberpriester"
   },
   {
     "slug": "giuseppe-verdi/nabucco/orchester",
@@ -6410,9 +8115,24 @@
     "name": "Orchester"
   },
   {
+    "slug": "giuseppe-verdi/nabucco/regieassistent",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Regieassistent"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/soufflage",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Soufflage"
+  },
+  {
     "slug": "giuseppe-verdi/nabucco/szenische-einstudierung-spielleitung",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Szenische Einstudierung, Spielleitung"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/verantwortlicher-buhnenmeister",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Verantwortlicher Bühnenmeister"
   },
   {
     "slug": "giuseppe-verdi/nabucco/zaccaria",
@@ -6430,6 +8150,21 @@
     "name": "Besetzung"
   },
   {
+    "slug": "giuseppe-verdi/otello/cassio",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Cassio"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/desdemona",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Desdemona"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/desdemonda",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Desdemonda"
+  },
+  {
     "slug": "giuseppe-verdi/otello/ein-edler-venezianer",
     "work_slug": "giuseppe-verdi/otello",
     "name": "ein edler Venezianer"
@@ -6440,6 +8175,16 @@
     "name": "Ein Herold"
   },
   {
+    "slug": "giuseppe-verdi/otello/emilia",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Emilia"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/es-spielt-die",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Es spielt die"
+  },
+  {
     "slug": "giuseppe-verdi/otello/fahnrich",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Fähnrich"
@@ -6448,6 +8193,16 @@
     "slug": "giuseppe-verdi/otello/hauptmann",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Hauptmann"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/iago",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Iago"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/jago",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Jago"
   },
   {
     "slug": "giuseppe-verdi/otello/jagos-frau",
@@ -6465,14 +8220,39 @@
     "name": "Montano"
   },
   {
+    "slug": "giuseppe-verdi/otello/otello",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Otello"
+  },
+  {
     "slug": "giuseppe-verdi/otello/otellos-frau",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Otellos Frau"
   },
   {
+    "slug": "giuseppe-verdi/otello/rodrigo",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Rodrigo"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/borsa",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Borsa"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/borsa-hofling",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Borsa, Höfling"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/conte-ceprano-hofling",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Conte Ceprano, Höfling"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/contessa-ceprano",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Contessa Ceprano"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/der-herzog-von-mantua",
@@ -6495,6 +8275,11 @@
     "name": "Duca"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/duca-di-mantova",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Duca di Mantova"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/ein-gerichtsdiener",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Ein Gerichtsdiener"
@@ -6515,6 +8300,11 @@
     "name": "Gilda"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/gilda-dessen-tochter",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Gilda, dessen Tochter"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/giovana",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Giovana"
@@ -6523,6 +8313,11 @@
     "slug": "giuseppe-verdi/rigoletto/giovanna",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Giovanna"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/giovanna-gildas-gesellschafterin",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Giovanna, Gildas Gesellschafterin"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/graf-ceprano",
@@ -6570,9 +8365,24 @@
     "name": "Maddalena"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/maddalena-seine-schwester",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Maddalena, seine Schwester"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/marullo",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Marullo"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/marullo-hofling",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Marullo, Höfling"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/mit",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Mit"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/mitarbeit-chor",
@@ -6605,9 +8415,24 @@
     "name": "Rigoletto"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/rigoletto-sein-hofnarr",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Rigoletto, sein Hofnarr"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/sparafucile",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Sparafucile"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/sparafucile-meuchelmorder",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Sparafucile, Meuchelmörder"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/usciere",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Usciere"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/vermittlung",
@@ -6775,6 +8600,11 @@
     "name": "Arzt"
   },
   {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorstand",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Bahnhofsvorstand"
+  },
+  {
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorsteher",
     "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
     "name": "Bahnhofsvorsteher"
@@ -6860,9 +8690,19 @@
     "name": "Puppenspielerin (Dame)"
   },
   {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/roby",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Roby"
+  },
+  {
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/staging-und-szenische-mitarbeit",
     "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
     "name": "Staging und szenische Mitarbeit"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/toby",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Toby"
   },
   {
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/zugfuhrer-kameramann",
@@ -6873,6 +8713,11 @@
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/zweite-frau",
     "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
     "name": "Zweite Frau"
+  },
+  {
+    "slug": "grigori-frid/das-tagebuch-der-anne-frank/anne-frank",
+    "work_slug": "grigori-frid/das-tagebuch-der-anne-frank",
+    "name": "Anne Frank"
   },
   {
     "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5/kunst-vermittlung",
@@ -7260,6 +9105,16 @@
     "name": "Zweiter Japanischer Gesandter"
   },
   {
+    "slug": "igor-strawinsky/the-rake-s-progress/choreografische-szenische-mitarbeit",
+    "work_slug": "igor-strawinsky/the-rake-s-progress",
+    "name": "Choreografische & szenische Mitarbeit"
+  },
+  {
+    "slug": "igor-strawinsky/the-rake-s-progress/musikalische-einstudierung",
+    "work_slug": "igor-strawinsky/the-rake-s-progress",
+    "name": "Musikalische Einstudierung"
+  },
+  {
     "slug": "in-mir-singt-ein-lied/1-pianist",
     "work_slug": "in-mir-singt-ein-lied",
     "name": "1. Pianist"
@@ -7313,6 +9168,61 @@
     "slug": "italienisches-intermezzo/symphoniker-im-foyer/violoncello",
     "work_slug": "italienisches-intermezzo/symphoniker-im-foyer",
     "name": "Violoncello"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/andres-cochenille-franz-pitichinaccio",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Andres / Cochenille / Franz / Pitichinaccio"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/antonia",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Antonia"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/antonias-mutter",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Antonias Mutter"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/crespel",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Crespel"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/die-muse-niklas",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Die Muse / Niklas"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/giulietta",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Giulietta"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/hermann-schlemihl",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Hermann / Schlemihl"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/hoffmann",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Hoffmann"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/lindorf-coppelius-dr-mirakel-dapertutto",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Lindorf / Coppelius / Dr. Mirakel / Dapertutto"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/nathanael-spalanzani",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Nathanael / Spalanzani"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/olympia",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
+    "name": "Olympia"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-pitichinaccio-frantz",
@@ -7433,6 +9343,146 @@
     "slug": "jacques-offenbach/les-contes-d-hoffmann/stimme-aus-dem-grab",
     "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
     "name": "Stimme aus dem Grab"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-der-unterwelt/regie-und-buhne",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "name": "Regie und Bühne"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/betreuung-projektchor",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Betreuung Projektchor"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/inszenierung-und-raum",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Inszenierung und Raum"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/mac",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Mac"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/sally-misha-emil",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Sally/Misha/Emil"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/schauspieler",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Schauspieler"
+  },
+  {
+    "slug": "jake-heggie/bevor-es-ganz-dunkel-wird/theaterpadagogik",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "name": "Theaterpädagogik"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/5-solo-inmates",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "5 Solo-Inmates"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/a-mother",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "A Mother"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/anthony-de-rocher-a-paralegal-sprecher",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Anthony de Rocher / A Paralegal (Sprecher)"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/father-grenville",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Father Grenville"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/first-prison-guard-motor-cop",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "First Prison Guard / Motor Cop"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/george-benton",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "George Benton"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/herren-des-extrachores",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Herren des Extrachores"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/howard-boucher",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Howard Boucher"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/jade-boucher",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Jade Boucher"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/joseph-de-rocher",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Joseph de Rocher"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/kitty-hart",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Kitty Hart"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/mrs-charlton",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Mrs. Charlton"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/mrs-patrick-de-rocher",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Mrs. Patrick de Rocher"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/older-brother",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Older Brother"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/owen-hart",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Owen Hart"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/second-prison-guard",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Second Prison Guard"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/sister-catherine",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Sister Catherine"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/sister-helen-prejean",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Sister Helen Prejean"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/sister-lilliane",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Sister Lilliane"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/sister-rose",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Sister Rose"
+  },
+  {
+    "slug": "jake-heggie/dead-man-walking/younger-brother",
+    "work_slug": "jake-heggie/dead-man-walking",
+    "name": "Younger Brother"
   },
   {
     "slug": "james-matthew-barrie/peter-pan/cello",
@@ -7700,6 +9750,31 @@
     "name": "Zweite Frau"
   },
   {
+    "slug": "johann-sebastian-bach/johannes-passion/",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "name": "__________"
+  },
+  {
+    "slug": "johann-sebastian-bach/johannes-passion/ballett-hagen",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "name": "Ballett Hagen"
+  },
+  {
+    "slug": "johann-sebastian-bach/johannes-passion/elevinnen-in-der-spielzeit-2026-27",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "name": "Elevinnen in der Spielzeit 2026/27"
+  },
+  {
+    "slug": "johann-sebastian-bach/johannes-passion/mit",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "name": "Mit"
+  },
+  {
+    "slug": "johann-sebastian-bach/johannes-passion/regieassistenz-abendspielleitung",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "name": "Regieassistenz / Abendspielleitung"
+  },
+  {
     "slug": "johann-strau/die-fledermaus-fur-kinder/einstudierung-jugendchor",
     "work_slug": "johann-strau/die-fledermaus-fur-kinder",
     "name": "Einstudierung Jugendchor"
@@ -7718,6 +9793,21 @@
     "slug": "johann-strau/die-fledermaus-fur-kinder/schuldirektor-frank",
     "work_slug": "johann-strau/die-fledermaus-fur-kinder",
     "name": "Schuldirektor Frank"
+  },
+  {
+    "slug": "johann-strau/die-fledermaus/",
+    "work_slug": "johann-strau/die-fledermaus",
+    "name": "__________"
+  },
+  {
+    "slug": "johann-strau/die-fledermaus/mit",
+    "work_slug": "johann-strau/die-fledermaus",
+    "name": "Mit"
+  },
+  {
+    "slug": "johann-strau/die-fledermaus/regieassistenz-abendspielleitung",
+    "work_slug": "johann-strau/die-fledermaus",
+    "name": "Regieassistenz / Abendspielleitung"
   },
   {
     "slug": "johann-strauss-und-ralph-benatzky/casanova/barberina",
@@ -7773,6 +9863,71 @@
     "slug": "johann-strauss-und-ralph-benatzky/casanova/waldstein",
     "work_slug": "johann-strauss-und-ralph-benatzky/casanova",
     "name": "Waldstein"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/balais-backer",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Balais, Bäcker"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/bonhomme-gutsbesitzer",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Bonhomme, Gutsbesitzer"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/calais-schneider",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Calais, Schneider"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/captaine-robert",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Captaine Robert"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/chalais-schuster",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Chalais, Schuster"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/comtesse-mathilde-de-nevers",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Comtesse Mathilde de Nevers"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/ein-hauptmann-des-herzogs-von-braunschweig",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Ein Hauptmann des Herzogs von Braunschweig"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/ernestine-volkssangerin",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Ernestine, Volkssängerin"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/jaquino-karikaturist",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Jaquino, Karikaturist"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/mit",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Mit"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/oberst-furieux",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Oberst Furieux"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/sergeant-pandore",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Sergeant Pandore"
+  },
+  {
+    "slug": "johann-strauss/die-gottin-der-vernunft/susette-kammermadchen-der-comtesse",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "name": "Susette, Kammermädchen der Comtesse"
   },
   {
     "slug": "johann-strauss/waldmeister/botho-wendt-forststudent",
@@ -7848,6 +10003,96 @@
     "slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther/werther",
     "work_slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther",
     "name": "Werther"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/agrippa",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Agrippa"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/antony",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Antony"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/caesar",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Caesar"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/charmian",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Charmian"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/choreografische-mitarbeit",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Choreografische Mitarbeit"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/cleopatra",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Cleopatra"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/enobarbus",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Enobarbus"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/eros",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Eros"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/iras",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Iras"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/lepidus",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Lepidus"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/live-bildschnitt",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Live-Bildschnitt"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/live-kamera",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Live-Kamera"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/maecenas",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Maecenas"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/octavia",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Octavia"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/scarus",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Scarus"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/tanzer-innen",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Tänzer:innen"
+  },
+  {
+    "slug": "john-adams/antony-and-cleopatra/theaterpadagogik",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "name": "Theaterpädagogik"
+  },
+  {
+    "slug": "john-cranko/onegin/choreografie-inszenierung",
+    "work_slug": "john-cranko/onegin",
+    "name": "Choreografie & Inszenierung"
   },
   {
     "slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie",
@@ -7990,9 +10235,29 @@
     "name": "Beleuchtungsdesign"
   },
   {
+    "slug": "jules-massenet/manon/chevalier-des-grieux",
+    "work_slug": "jules-massenet/manon",
+    "name": "Chevalier des Grieux"
+  },
+  {
     "slug": "jules-massenet/manon/choreografische-mitarbeit",
     "work_slug": "jules-massenet/manon",
     "name": "Choreografische Mitarbeit"
+  },
+  {
+    "slug": "jules-massenet/manon/comte-des-grieux",
+    "work_slug": "jules-massenet/manon",
+    "name": "Comte des Grieux"
+  },
+  {
+    "slug": "jules-massenet/manon/de-bretigny",
+    "work_slug": "jules-massenet/manon",
+    "name": "de Brétigny"
+  },
+  {
+    "slug": "jules-massenet/manon/guillot-de-morfontaine",
+    "work_slug": "jules-massenet/manon",
+    "name": "Guillot de Morfontaine"
   },
   {
     "slug": "jules-massenet/manon/javotte",
@@ -8003,6 +10268,11 @@
     "slug": "jules-massenet/manon/lescaut",
     "work_slug": "jules-massenet/manon",
     "name": "Lescaut"
+  },
+  {
+    "slug": "jules-massenet/manon/manon",
+    "work_slug": "jules-massenet/manon",
+    "name": "Manon"
   },
   {
     "slug": "jules-massenet/manon/manon-lescaut",
@@ -8018,6 +10288,71 @@
     "slug": "jules-massenet/manon/rosette",
     "work_slug": "jules-massenet/manon",
     "name": "Rosette"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/alexia",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Alexia"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/anton",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Anton"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/bride",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Bride"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/bridegroom",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Bridegroom"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/father-in-law",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Father-In-Law"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/iris",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Iris"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/jeronimo",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Jerónimo"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/lily",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Lily"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/marketa",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Markéta"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/mother-in-law",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Mother-In-Law"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/priest",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Priest"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/teacher",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Teacher"
+  },
+  {
+    "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/waitress",
+    "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
+    "name": "Waitress"
   },
   {
     "slug": "kaija-saariaho/innocence/choreografische-mitarbeit",
@@ -8135,6 +10470,41 @@
     "name": "Orchester"
   },
   {
+    "slug": "karol-szymanowski/krol-roger-rea/der-erzbischof",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Der Erzbischof"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/der-hirte",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "der Hirte"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/diakonissin",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Diakonissin"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/edrisi-tenor-solo",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Edrisi | Tenor Solo"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/roger-ii",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Roger II"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/roxane",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Roxane"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/solo-sopran",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Solo Sopran"
+  },
+  {
     "slug": "karola-obermuller/malina/ich",
     "work_slug": "karola-obermuller/malina",
     "name": "Ich"
@@ -8190,6 +10560,101 @@
     "name": "orchester"
   },
   {
+    "slug": "kay-kuntze/der-weg-des-orpheus/charon",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Charon"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/eurydike",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Eurydike"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/orpheus",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Orpheus"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/sinnlosigkeit",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Sinnlosigkeit"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/sisyphos",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Sisyphos"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/verganglichkeit",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Vergänglichkeit"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/vergnugen",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Vergnügen"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/versagen",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Versagen"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/wagemut",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Wagemut"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/wehmut",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Wehmut"
+  },
+  {
+    "slug": "kay-kuntze/der-weg-des-orpheus/zerberus",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "name": "Zerberus"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/anna-s-rensen",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Anna Sørensen"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/father-palmer",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Father Palmer"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/jonathan-dale",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Jonathan Dale"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/lt-audebert",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Lt. Audebert"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/lt-gordon",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Lt. Gordon"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/lt-horstmayer",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Lt. Horstmayer"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/nikolaus-sprink",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Nikolaus Sprink"
+  },
+  {
+    "slug": "kevin-puts-libretto-by-mark-campbell/silent-night/ponchel",
+    "work_slug": "kevin-puts-libretto-by-mark-campbell/silent-night",
+    "name": "Ponchel"
+  },
+  {
     "slug": "kids-only-1-ich-du-wir/orchester",
     "work_slug": "kids-only-1-ich-du-wir",
     "name": "Orchester"
@@ -8218,6 +10683,21 @@
     "slug": "klangvolles-musik-shy-abenteuer/musikalische-leitung-akkordeon-und-klavier",
     "work_slug": "klangvolles-musik-shy-abenteuer",
     "name": "Musikalische Leitung, Akkordeon und Klavier"
+  },
+  {
+    "slug": "knut-winkmann/lapskaos/inszenierung-buhne-kostume",
+    "work_slug": "knut-winkmann/lapskaos",
+    "name": "Inszenierung, Bühne & Kostüme"
+  },
+  {
+    "slug": "knut-winkmann/lapskaos/mit",
+    "work_slug": "knut-winkmann/lapskaos",
+    "name": "Mit"
+  },
+  {
+    "slug": "knut-winkmann/lapskaos/musikalische-leitung-arrangements",
+    "work_slug": "knut-winkmann/lapskaos",
+    "name": "Musikalische Leitung & Arrangements"
   },
   {
     "slug": "koloss/jan",
@@ -8820,6 +11300,31 @@
     "name": "voltaire/ alter candide/ james/ seemann"
   },
   {
+    "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/dinah-trouble-in-tahiti",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "name": "Dinah (Trouble in Tahiti)"
+  },
+  {
+    "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/herzog-blaubart-herzog-blaubarts-burg",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "name": "Herzog Blaubart (Herzog Blaubarts Burg)"
+  },
+  {
+    "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/judith-herzog-blaubarts-burg",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "name": "Judith (Herzog Blaubarts Burg)"
+  },
+  {
+    "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/sam-trouble-in-tahiti",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "name": "Sam (Trouble in Tahiti)"
+  },
+  {
+    "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/trio-trouble-in-tahiti",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "name": "Trio (Trouble in Tahiti)"
+  },
+  {
     "slug": "leonard-bernstein/west-side-story/a-rab",
     "work_slug": "leonard-bernstein/west-side-story",
     "name": "A-Rab"
@@ -8958,6 +11463,46 @@
     "slug": "leonard-bernstein/west-side-story/velma",
     "work_slug": "leonard-bernstein/west-side-story",
     "name": "Velma"
+  },
+  {
+    "slug": "leos-janacek/das-schlaue-fuchslein/choreographie-und-szenische-mitarbeit",
+    "work_slug": "leos-janacek/das-schlaue-fuchslein",
+    "name": "Choreographie und szenische Mitarbeit"
+  },
+  {
+    "slug": "leos-janacek/das-schlaue-fuchslein/inszenierung-buhne-und-kostume",
+    "work_slug": "leos-janacek/das-schlaue-fuchslein",
+    "name": "Inszenierung, Bühne und Kostüme"
+  },
+  {
+    "slug": "leos-janacek/die-sache-makropulos-vec-makropulos/",
+    "work_slug": "leos-janacek/die-sache-makropulos-vec-makropulos",
+    "name": "__________"
+  },
+  {
+    "slug": "leos-janacek/die-sache-makropulos-vec-makropulos/mit",
+    "work_slug": "leos-janacek/die-sache-makropulos-vec-makropulos",
+    "name": "Mit"
+  },
+  {
+    "slug": "leos-janacek/jenufa/jenufa",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Jenufa"
+  },
+  {
+    "slug": "leos-janacek/jenufa/kostelnicka",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Kostelnicka"
+  },
+  {
+    "slug": "leos-janacek/jenufa/laca",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Laca"
+  },
+  {
+    "slug": "leos-janacek/jenufa/steva",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Števa"
   },
   {
     "slug": "liederabend-diana-damrau/klarinette",
@@ -9235,6 +11780,11 @@
     "name": "Rocco"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/alte-leonore",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Alte Leonore"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/besetzung",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Besetzung"
@@ -9255,6 +11805,16 @@
     "name": "dessen Tochter"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/don-fernando",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Don Fernando"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/don-pizarro",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Don Pizarro"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/einstudierung-des-chors",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Einstudierung des Chors"
@@ -9263,6 +11823,11 @@
     "slug": "ludwig-van-beethoven/fidelio/erster-gefangener",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Erster Gefangener"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/florestan",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Florestan"
   },
   {
     "slug": "ludwig-van-beethoven/fidelio/gefangener",
@@ -9275,9 +11840,24 @@
     "name": "Gouverneur"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/jaquino",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Jaquino"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/kerkermeister",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Kerkermeister"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/leonore",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Leonore"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/marzelline",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Marzelline"
   },
   {
     "slug": "ludwig-van-beethoven/fidelio/minister",
@@ -9290,9 +11870,129 @@
     "name": "Pförtner"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/rocco",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Rocco"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/szenische-einrichtung",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Szenische Einrichtung"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Zweiter Gefangener"
+  },
+  {
+    "slug": "luigi-cherubini/medea/creonte",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Creonte"
+  },
+  {
+    "slug": "luigi-cherubini/medea/giasone",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Giasone"
+  },
+  {
+    "slug": "luigi-cherubini/medea/glauce",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Glauce"
+  },
+  {
+    "slug": "luigi-cherubini/medea/medea",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Medea"
+  },
+  {
+    "slug": "luigi-cherubini/medea/neris",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Neris"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/andres",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Andres"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/doktor",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Doktor"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/ein-madchen",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Ein Mädchen"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/erster-burger",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Erster Bürger"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/hauptmann",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Hauptmann"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/jude",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Jude*"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/kinder-und-jugendchor-des-oldenburgischen-staatstheaters",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Kinder- und Jugendchor des Oldenburgischen Staatstheaters"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/margaret-alte-frau",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Margaret / alte Frau"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/marie",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Marie"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/maries-kinder",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Maries Kinder"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/oldenburgisches-staatsorchester",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Oldenburgisches Staatsorchester"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/opernchor-des-oldenburgischen-staatstheaters",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Opernchor des Oldenburgischen Staatstheaters"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/sopran",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Sopran"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/studienleitung",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Studienleitung"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/tambourmajor",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Tambourmajor"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/wozzeck",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Wozzeck"
+  },
+  {
+    "slug": "manfred-gurlitt/wozzeck/zweiter-burger",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "name": "Zweiter Bürger"
   },
   {
     "slug": "manon-lescaut/comandante",
@@ -9565,6 +12265,41 @@
     "name": "Regiehospitanz"
   },
   {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/gerhard",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Gerhard"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/joe-kavalier",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Joe Kavalier"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/rosa-saks",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Rosa Saks"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/sam-clay",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Sam Clay"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/sarah-kavalier",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Sarah Kavalier"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/sheldon-anapol",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Sheldon Anapol"
+  },
+  {
+    "slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay/tracy-bacon",
+    "work_slug": "mason-bates-libretto-by-gene-scheer-based-on-the-book-by-michael-chabon/the-amazing-adventures-of-kavalier-clay",
+    "name": "Tracy Bacon"
+  },
+  {
     "slug": "matthaus-passion/inszenierung-buhnenbild-und-kostume",
     "work_slug": "matthaus-passion",
     "name": "Inszenierung, Bühnenbild und Kostüme"
@@ -9578,6 +12313,101 @@
     "slug": "matthaus-passion/orchester",
     "work_slug": "matthaus-passion",
     "name": "Orchester"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/concepcion",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Concepcion"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/das-alte-mannchen-der-laubfrosch",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Das alte Männchen / Der Laubfrosch"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/das-eichhornchen",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Das Eichhörnchen"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/das-feuer-die-prinzessin-die-nachtigall",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Das Feuer / Die Prinzessin / Die Nachtigall"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/das-kind",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Das Kind"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/der-sessel-der-baum",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Der Sessel / Der Baum"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/die-bergere-die-eule",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Die Bergère / Die Eule"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/die-fledermaus",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Die Fledermaus"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/die-katze",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Die Katze"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/die-standuhr-der-kater",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Die Standuhr / Der Kater"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/die-wedgwood-teekanne",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Die Wedgwood-Teekanne"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/don-inigo-gomez",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Don Inigo Gomez"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/ein-schafer",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Ein Schäfer"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/eine-schaferin",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Eine Schäferin"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/gonzalve",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Gonzalve"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/mutter-chinesische-tasse-libelle",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Mutter, Chinesische Tasse, Libelle"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/ramiro",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Ramiro"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/torquemada",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Torquemada"
+  },
+  {
+    "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole/vier-tiere",
+    "work_slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
+    "name": "Vier Tiere"
   },
   {
     "slug": "meet-the-artists-daniel-kluge/kunstler",
@@ -9763,6 +12593,51 @@
     "slug": "mischa-spoliansky/alles-schwindel/sounddesign",
     "work_slug": "mischa-spoliansky/alles-schwindel",
     "name": "Sounddesign"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/bevins",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Bevins"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/lincoln",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Lincoln"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/miss-elise-traynor",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Miss Elise Traynor"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/mr-baron",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Mr. Baron"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/mrs-baron",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Mrs. Baron"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/mrs-francis-hodge",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Mrs. Francis Hodge"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/reverend",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Reverend"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/thomas-havens",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Thomas Havens"
+  },
+  {
+    "slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo/vollman",
+    "work_slug": "missy-mazzoli-libretto-by-royce-vavrek/lincoln-in-the-bardo",
+    "name": "Vollman"
   },
   {
     "slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/ballett",
@@ -10485,6 +13360,41 @@
     "name": "Knot on Hands"
   },
   {
+    "slug": "paul-abraham/ball-im-savoy/archibald-pomerol",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Archibald / Pomérol"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/aristide-de-faublas",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Aristide de Faublas"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/celestin-formant",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Célestin Formant"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/daisy-parker",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Daisy Parker"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/la-tangolita",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "La Tangolita"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/madeleine-de-faublas",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Madeleine de Faublas"
+  },
+  {
+    "slug": "paul-abraham/ball-im-savoy/mustapha-bei",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "name": "Mustapha Bei"
+  },
+  {
     "slug": "paul-moravec/the-shining-eea/bill-watson",
     "work_slug": "paul-moravec/the-shining-eea",
     "name": "Bill Watson"
@@ -10735,9 +13645,94 @@
     "name": "Orchester"
   },
   {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "__________"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/der-kleine-prinz",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Der kleine Prinz"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/der-konig-die-schlange-passant",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Der König/Die Schlange/Passant"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/der-pilot-als-kind",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Der Pilot als Kind"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/der-vater-der-geschaftsmann",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Der Vater/Der Geschäftsmann"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/die-rose-die-eitle-die-mutter",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Die Rose/Die Eitle/Die Mutter"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/fuchs-passantin",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Fuchs/Passantin"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/pilot",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Pilot"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/puppenspiel",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Puppenspiel"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/regieassistenz-abendspielleitung",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Regieassistenz / Abendspielleitung"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/szen-einstudierung",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "szen. Einstudierung"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci",
+    "name": "__________"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/mit-cavalleria-rusticana",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci",
+    "name": "Mit (Cavalleria Rusticana)"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/mit-i-pagliacci",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci",
+    "name": "Mit (I Pagliacci)"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/1-bauer",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "name": "1. Bauer"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/2-bauer",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "name": "2. Bauer"
+  },
+  {
     "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio",
     "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
     "name": "Alfio"
+  },
+  {
+    "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio-silvio",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "name": "Alfio/Silvio"
   },
   {
     "slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/ausstattung",
@@ -10900,6 +13895,36 @@
     "name": "Moderation"
   },
   {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/eugene-onegin",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Eugene Onegin"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/filippyevna",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Filippyevna"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/lenski",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Lenski"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/olga",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Olga"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/prince-gremin",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Prince Gremin"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/eugene-onegin/tatiana",
+    "work_slug": "pyotr-ilyich-tchaikovsky/eugene-onegin",
+    "name": "Tatiana"
+  },
+  {
     "slug": "ralf-gscheidle/marla-die-maifliege/buhne-kostum",
     "work_slug": "ralf-gscheidle/marla-die-maifliege",
     "name": "Bühne & Kostüm"
@@ -11005,9 +14030,19 @@
     "name": "Bühne / Kostüme"
   },
   {
+    "slug": "ralph-benatzky/im-wei-en-rossl/chordirektor",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Chordirektor"
+  },
+  {
     "slug": "ralph-benatzky/im-wei-en-rossl/die-reisefuhrerin",
     "work_slug": "ralph-benatzky/im-wei-en-rossl",
     "name": "Die Reiseführerin"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Dr. Otto Siedler"
   },
   {
     "slug": "ralph-benatzky/im-wei-en-rossl/ein-hochzeitspaar-er",
@@ -11025,9 +14060,44 @@
     "name": "Fabrikant"
   },
   {
+    "slug": "ralph-benatzky/im-wei-en-rossl/horsemaster",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Horsemaster"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/josepha-vogelhuber",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Josepha Vogelhuber"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Klärchen, seine Tochter"
+  },
+  {
     "slug": "ralph-benatzky/im-wei-en-rossl/kostumbild",
     "work_slug": "ralph-benatzky/im-wei-en-rossl",
     "name": "Kostümbild"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/leopold-brandmeyer",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Leopold Brandmeyer"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/ottilie-seine-tochter",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Ottilie, seine Tochter"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/piccolo",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Piccolo"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/prof-dr-hinzelmann",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Prof. Dr. Hinzelmann"
   },
   {
     "slug": "ralph-benatzky/im-wei-en-rossl/professor-dr-hinzelmann",
@@ -11055,6 +14125,16 @@
     "name": "Umberto"
   },
   {
+    "slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-giesecke-exzellenz",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Wilhelm Giesecke / Exzellenz"
+  },
+  {
+    "slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-gisecke-exzellenz",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "name": "Wilhelm Gisecke / Exzellenz"
+  },
+  {
     "slug": "ralph-benatzky/im-wei-en-rossl/wirtin-zum-wei-en-rossl",
     "work_slug": "ralph-benatzky/im-wei-en-rossl",
     "name": "Wirtin zum \"Weißen Rössl\""
@@ -11063,6 +14143,26 @@
     "slug": "ralph-benatzky/im-wei-en-rossl/zahlkellner",
     "work_slug": "ralph-benatzky/im-wei-en-rossl",
     "name": "Zahlkellner"
+  },
+  {
+    "slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
+    "name": "__________"
+  },
+  {
+    "slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/mit",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
+    "name": "Mit"
+  },
+  {
+    "slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/regieassistenz-abendspielleitung",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
+    "name": "Regieassistenz / Abendspielleitung"
+  },
+  {
+    "slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/szen-einstudierung",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
+    "name": "szen. Einstudierung"
   },
   {
     "slug": "raquel-garcia-tomas/ich-ich-ich/dr-giovanni-tempesta-zen-guru",
@@ -11083,6 +14183,56 @@
     "slug": "raquel-garcia-tomas/ich-ich-ich/promi-kunstler-ungebildeter-poser-lift-boy-bestatter-mimi-pathologischer-patient-doktor",
     "work_slug": "raquel-garcia-tomas/ich-ich-ich",
     "name": "Promi-Künstler / Ungebildeter Poser / Lift-Boy / Bestatter / Mimì / Pathologischer Patient / Doktor"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/die-erinnerung",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Die Erinnerung"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/ein-montecchio-bernabo",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Ein Montecchio / Bernabò"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/ein-nachtwachter",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Ein Nachtwächter"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/eine-frau",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Eine Frau"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/giulietta-capuleto",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Giulietta Capuleto"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/gregorio-ein-capuleto",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Gregorio, ein Capuleto"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/isabella-giuliettas-vertraute",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Isabella, Giuliettas Vertraute"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/romeo-montecchio",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Romeo Montecchio"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/sansone-ein-capuleto",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Sansone, ein Capuleto"
+  },
+  {
+    "slug": "riccardo-zandonai/romeo-und-julia/tebaldo-capuleto-giuliettas-cousin",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "name": "Tebaldo Capuleto, Giuliettas Cousin"
   },
   {
     "slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes",
@@ -11145,14 +14295,34 @@
     "name": "Will Parker"
   },
   {
+    "slug": "richard-strauss/arabella/5-pagen",
+    "work_slug": "richard-strauss/arabella",
+    "name": "5 Pagen"
+  },
+  {
     "slug": "richard-strauss/arabella/adelaide",
     "work_slug": "richard-strauss/arabella",
     "name": "Adelaide"
   },
   {
+    "slug": "richard-strauss/arabella/adelaide-seine-frau",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Adelaide, seine Frau"
+  },
+  {
     "slug": "richard-strauss/arabella/arabella",
     "work_slug": "richard-strauss/arabella",
     "name": "Arabella"
+  },
+  {
+    "slug": "richard-strauss/arabella/arabella-seine-tochter",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Arabella, seine Tochter"
+  },
+  {
+    "slug": "richard-strauss/arabella/begleiterin-der-arabella",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Begleiterin der Arabella"
   },
   {
     "slug": "richard-strauss/arabella/die-fiakermilli",
@@ -11175,6 +14345,11 @@
     "name": "Eine Kartenaufschlägerin"
   },
   {
+    "slug": "richard-strauss/arabella/fiakermilli",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Fiakermilli"
+  },
+  {
     "slug": "richard-strauss/arabella/graf-dominik",
     "work_slug": "richard-strauss/arabella",
     "name": "Graf Dominik"
@@ -11195,9 +14370,24 @@
     "name": "Graf Waldner"
   },
   {
+    "slug": "richard-strauss/arabella/graf-waldner-rittermeister-a-d",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Graf Waldner, Rittermeister a. D."
+  },
+  {
+    "slug": "richard-strauss/arabella/groom-kellner",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Groom, Kellner"
+  },
+  {
     "slug": "richard-strauss/arabella/jankel",
     "work_slug": "richard-strauss/arabella",
     "name": "Jankel"
+  },
+  {
+    "slug": "richard-strauss/arabella/jankel-diener-des-mandryka",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Jankel, Diener des Mandryka"
   },
   {
     "slug": "richard-strauss/arabella/mandryka",
@@ -11210,14 +14400,34 @@
     "name": "Matteo"
   },
   {
+    "slug": "richard-strauss/arabella/matteo-jageroffizier",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Matteo, Jägeroffizier"
+  },
+  {
+    "slug": "richard-strauss/arabella/waldner",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Waldner"
+  },
+  {
     "slug": "richard-strauss/arabella/welko",
     "work_slug": "richard-strauss/arabella",
     "name": "Welko"
   },
   {
+    "slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Welko, Leibhusar des Mandryka"
+  },
+  {
     "slug": "richard-strauss/arabella/zdenka",
     "work_slug": "richard-strauss/arabella",
     "name": "Zdenka"
+  },
+  {
+    "slug": "richard-strauss/arabella/zdenka-seine-tochter",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Zdenka, seine Tochter"
   },
   {
     "slug": "richard-strauss/ariadne-auf-naxos/brighella",
@@ -11320,6 +14530,16 @@
     "name": "Baron Ochs auf Lerchenau"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/buhnenbildassistenz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Bühnenbildassistenz"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/buhnenbildhospitanz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Bühnenbildhospitanz"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Der Baron Ochs auf Lerchenau"
@@ -11350,14 +14570,29 @@
     "name": "Die Feldmarschallin Fürstin Werdenberg"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/dirigat-und-neuorchestrierung-buhnenmusik",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Dirigat und Neuorchestrierung Bühnenmusik"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/dramaturgie-karlsruhe",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Dramaturgie (Karlsruhe)"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/dramaturgiehospitanz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Dramaturgiehospitanz"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Drei adelige Waisen"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Drei adlige Waisen"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/ein-hausknecht",
@@ -11395,9 +14630,19 @@
     "name": "Einstudierung Kinderopernchor"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/faktotum-im-hause-werdenberg",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Faktotum im Hause Werdenberg"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/faninal",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Faninal"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/haushofmeister-bei-der-marschallin-haushofmeister-bei-faninal",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Haushofmeister bei der Marschallin, Haushofmeister bei Faninal"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/hausknecht",
@@ -11410,9 +14655,19 @@
     "name": "Herr von Faninal"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/inspizienz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Inspizienz"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/inszenierung-videokonzept",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Inszenierung & Videokonzept"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/italian-singer",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Italian Singer"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/italienischer-sanger",
@@ -11425,6 +14680,11 @@
     "name": "Jungfer Marianne Leitmetzerin"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin-modistin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Jungfer Marianne Leitmetzerin, Modistin"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/kellner",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Kellner"
@@ -11433,6 +14693,16 @@
     "slug": "richard-strauss/der-rosenkavalier/kommisar-notar",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Kommisar / Notar"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/kostumassistenz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Kostümassistenz"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/kostumhospitanz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Kostümhospitanz"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/lakaien",
@@ -11448,6 +14718,11 @@
     "slug": "richard-strauss/der-rosenkavalier/leitmetzerin",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Leitmetzerin"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/leopold",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Leopold"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/lerchenauer",
@@ -11475,9 +14750,24 @@
     "name": "Modistin"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/musikalische-einstudierung",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/notar-polizeikommissar",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Notar, Polizeikommissar"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/octavian",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Octavian"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/octavian-genannt-quinquin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Octavian, genannt Quinquin"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/orchester",
@@ -11485,14 +14775,44 @@
     "name": "Orchester"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/regieassistenz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Regieassistenz"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/regieassistenz-und-abendspielleitung",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Regieassistenz und Abendspielleitung"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/regiehospitanz",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Regiehospitanz"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/sanger",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Sänger"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/sophie",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Sophie"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/sophie-seine-tochter",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Sophie, seine Tochter"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/statisterie",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Statisterie"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/studienleitung",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Studienleitung"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/tierhandler",
@@ -11503,6 +14823,16 @@
     "slug": "richard-strauss/der-rosenkavalier/valzacchi",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Valzacchi"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Vier Lakaien, Vier Kellner"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/wirt",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Wirt"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/wirt-haushofmeister-matschallin-haushofmeister-faninal",
@@ -11680,6 +15010,11 @@
     "name": "Video-Art"
   },
   {
+    "slug": "richard-strauss/salome/",
+    "work_slug": "richard-strauss/salome",
+    "name": "__________"
+  },
+  {
     "slug": "richard-strauss/salome/1-jude",
     "work_slug": "richard-strauss/salome",
     "name": "1. Jude"
@@ -11720,9 +15055,39 @@
     "name": "Bühne, Kostüme"
   },
   {
+    "slug": "richard-strauss/salome/dritter-jude",
+    "work_slug": "richard-strauss/salome",
+    "name": "Dritter Jude"
+  },
+  {
     "slug": "richard-strauss/salome/ein-page-der-herodias",
     "work_slug": "richard-strauss/salome",
     "name": "Ein Page der Herodias"
+  },
+  {
+    "slug": "richard-strauss/salome/ein-sklave",
+    "work_slug": "richard-strauss/salome",
+    "name": "Ein Sklave"
+  },
+  {
+    "slug": "richard-strauss/salome/erster-jude",
+    "work_slug": "richard-strauss/salome",
+    "name": "Erster Jude"
+  },
+  {
+    "slug": "richard-strauss/salome/erster-nazarener-ein-cappadocier",
+    "work_slug": "richard-strauss/salome",
+    "name": "Erster Nazarener / Ein Cappadocier"
+  },
+  {
+    "slug": "richard-strauss/salome/erster-soldat",
+    "work_slug": "richard-strauss/salome",
+    "name": "Erster Soldat"
+  },
+  {
+    "slug": "richard-strauss/salome/funfter-jude",
+    "work_slug": "richard-strauss/salome",
+    "name": "Fünfter Jude"
   },
   {
     "slug": "richard-strauss/salome/herodes",
@@ -11733,6 +15098,11 @@
     "slug": "richard-strauss/salome/herodias",
     "work_slug": "richard-strauss/salome",
     "name": "Herodias"
+  },
+  {
+    "slug": "richard-strauss/salome/inspizienz",
+    "work_slug": "richard-strauss/salome",
+    "name": "Inspizienz"
   },
   {
     "slug": "richard-strauss/salome/jochanaan",
@@ -11755,9 +15125,34 @@
     "name": "Page der Herodias"
   },
   {
+    "slug": "richard-strauss/salome/regieassistenz-abendspielleitung",
+    "work_slug": "richard-strauss/salome",
+    "name": "Regieassistenz / Abendspielleitung"
+  },
+  {
     "slug": "richard-strauss/salome/salome",
     "work_slug": "richard-strauss/salome",
     "name": "Salome"
+  },
+  {
+    "slug": "richard-strauss/salome/vierter-jude",
+    "work_slug": "richard-strauss/salome",
+    "name": "Vierter Jude"
+  },
+  {
+    "slug": "richard-strauss/salome/zweiter-jude",
+    "work_slug": "richard-strauss/salome",
+    "name": "Zweiter Jude"
+  },
+  {
+    "slug": "richard-strauss/salome/zweiter-nazarener",
+    "work_slug": "richard-strauss/salome",
+    "name": "Zweiter Nazarener"
+  },
+  {
+    "slug": "richard-strauss/salome/zweiter-soldat",
+    "work_slug": "richard-strauss/salome",
+    "name": "Zweiter Soldat"
   },
   {
     "slug": "richard-wagner/das-rheingold/alberich",
@@ -11923,6 +15318,36 @@
     "slug": "richard-wagner/lohengrin/ortrud-seine-gemahlin",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Ortrud, seine Gemahlin"
+  },
+  {
+    "slug": "richard-wagner/parsifal/amfortas",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Amfortas"
+  },
+  {
+    "slug": "richard-wagner/parsifal/gurnemanz",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Gurnemanz"
+  },
+  {
+    "slug": "richard-wagner/parsifal/klingsor",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Klingsor"
+  },
+  {
+    "slug": "richard-wagner/parsifal/kundry",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Kundry"
+  },
+  {
+    "slug": "richard-wagner/parsifal/parsifal",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Parsifal"
+  },
+  {
+    "slug": "richard-wagner/parsifal/titurel",
+    "work_slug": "richard-wagner/parsifal",
+    "name": "Titurel"
   },
   {
     "slug": "richard-wagner/siegfried/alberich",
@@ -12105,6 +15530,11 @@
     "name": "Isolde"
   },
   {
+    "slug": "richard-wagner/tristan-und-isolde/king-marke",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "name": "King Marke"
+  },
+  {
     "slug": "richard-wagner/tristan-und-isolde/konig-marke",
     "work_slug": "richard-wagner/tristan-und-isolde",
     "name": "König Marke"
@@ -12188,6 +15618,31 @@
     "slug": "romantic-evolution-s/solo-violine",
     "work_slug": "romantic-evolution-s",
     "name": "Solo-Violine"
+  },
+  {
+    "slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/beppo-harlekin",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "name": "Beppo / Harlekin"
+  },
+  {
+    "slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/canio-bajazzo",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "name": "Canio / Bajazzo"
+  },
+  {
+    "slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/nedda-colombine",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "name": "Nedda / Colombine"
+  },
+  {
+    "slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/silvio",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "name": "Silvio"
+  },
+  {
+    "slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/tonio-taddeo",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "name": "Tonio / Taddeo"
   },
   {
     "slug": "sacre-chor/bariton",
@@ -12655,6 +16110,61 @@
     "name": "Orchester"
   },
   {
+    "slug": "stewart-wallace/harvey-milk-reimagined/anne-kronenberg-mama",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Anne Kronenberg / Mama"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/closet-lover-jack",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Closet Lover Jack"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/dan-white",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Dan White"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/dianne-feinstein-hooker",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Dianne Feinstein / Hooker"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/george-moscone-horst-teamster",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "George Moscone / Horst / Teamster"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/harvey-milk",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Harvey Milk"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/henrietta-wong",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Henrietta Wong"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/scott-smith",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Scott Smith"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/the-messenger",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "The Messenger"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/three-news-reporters",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Three News Reporters"
+  },
+  {
+    "slug": "stewart-wallace/harvey-milk-reimagined/young-harvey",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "name": "Young Harvey"
+  },
+  {
     "slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion/6-paare",
     "work_slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion",
     "name": "6 Paare"
@@ -12815,6 +16325,46 @@
     "name": "Regieassistenz"
   },
   {
+    "slug": "the-gershwins/porgy-and-bess/bess",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Bess"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/clara",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Clara"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/crown",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Crown"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/jake",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Jake"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/maria",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Maria"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/porgy",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Porgy"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/serena",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Serena"
+  },
+  {
+    "slug": "the-gershwins/porgy-and-bess/sportin-life",
+    "work_slug": "the-gershwins/porgy-and-bess",
+    "name": "Sportin' Life"
+  },
+  {
     "slug": "the-times-are-racing/adaption-buhnenbild",
     "work_slug": "the-times-are-racing",
     "name": "Adaption Bühnenbild"
@@ -12855,6 +16405,11 @@
     "name": "Rekonstruktion Licht"
   },
   {
+    "slug": "thierry-tidrow/kirsas-musik/buhne-kostum",
+    "work_slug": "thierry-tidrow/kirsas-musik",
+    "name": "Bühne & Kostüm"
+  },
+  {
     "slug": "tod-in-venedig/choreografie-inszenierung-lichtkonzept",
     "work_slug": "tod-in-venedig",
     "name": "Choreografie, Inszenierung, Lichtkonzept"
@@ -12883,6 +16438,11 @@
     "slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/libretto-dramaturgie",
     "work_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so",
     "name": "Libretto/Dramaturgie"
+  },
+  {
+    "slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/pianist",
+    "work_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so",
+    "name": "Pianist"
   },
   {
     "slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/seifenblase",
@@ -12980,14 +16540,29 @@
     "name": "Gräfin von Coigny"
   },
   {
+    "slug": "umberto-giordano/andrea-chenier/incredibile",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "name": "Incredibile"
+  },
+  {
     "slug": "umberto-giordano/andrea-chenier/incroyable",
     "work_slug": "umberto-giordano/andrea-chenier",
     "name": "Incroyable"
   },
   {
+    "slug": "umberto-giordano/andrea-chenier/la-bersi",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "name": "La Bersi"
+  },
+  {
     "slug": "umberto-giordano/andrea-chenier/la-mulatta-bersi",
     "work_slug": "umberto-giordano/andrea-chenier",
     "name": "La mulatta Bersi"
+  },
+  {
+    "slug": "umberto-giordano/andrea-chenier/maddalena",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "name": "Maddalena"
   },
   {
     "slug": "umberto-giordano/andrea-chenier/maddalena-di-coigny",
@@ -13173,6 +16748,46 @@
     "slug": "victoria-stellpflug/ghost-me-if-you-can/viki-an-der-soundstation",
     "work_slug": "victoria-stellpflug/ghost-me-if-you-can",
     "name": "ViKI an der Soundstation"
+  },
+  {
+    "slug": "vincenzo-bellini/i-puritani/elvira-walton",
+    "work_slug": "vincenzo-bellini/i-puritani",
+    "name": "Elvira Walton"
+  },
+  {
+    "slug": "vincenzo-bellini/i-puritani/giorgio-walton",
+    "work_slug": "vincenzo-bellini/i-puritani",
+    "name": "Giorgio Walton"
+  },
+  {
+    "slug": "vincenzo-bellini/i-puritani/lord-arturo-talbot",
+    "work_slug": "vincenzo-bellini/i-puritani",
+    "name": "Lord Arturo Talbot"
+  },
+  {
+    "slug": "vincenzo-bellini/i-puritani/riccardo-forth",
+    "work_slug": "vincenzo-bellini/i-puritani",
+    "name": "Riccardo Forth"
+  },
+  {
+    "slug": "vincenzo-bellini/la-sonnambula/amina",
+    "work_slug": "vincenzo-bellini/la-sonnambula",
+    "name": "Amina"
+  },
+  {
+    "slug": "vincenzo-bellini/la-sonnambula/elvino",
+    "work_slug": "vincenzo-bellini/la-sonnambula",
+    "name": "Elvino"
+  },
+  {
+    "slug": "vincenzo-bellini/la-sonnambula/lisa",
+    "work_slug": "vincenzo-bellini/la-sonnambula",
+    "name": "Lisa"
+  },
+  {
+    "slug": "vincenzo-bellini/la-sonnambula/rodolfo",
+    "work_slug": "vincenzo-bellini/la-sonnambula",
+    "name": "Rodolfo"
   },
   {
     "slug": "vincenzo-bellini/norma/adalgisa",
@@ -13695,6 +17310,11 @@
     "name": "Guglielmo"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/inspizienz",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Inspizienz"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/inszenierung-video",
     "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
     "name": "Inszenierung & Video"
@@ -13710,9 +17330,24 @@
     "name": "Kostümassistenz"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/kostumhospitanz",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Kostümhospitanz"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-einstudierung",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Musikalische Einstudierung"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-einstudierung-chor",
     "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
     "name": "Musikalische Einstudierung Chor"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musiktheaterpadagogik",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Musiktheaterpädagogik"
   },
   {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/orchester",
@@ -13738,6 +17373,11 @@
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/statisterie",
     "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
     "name": "Statisterie"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/studienleitung",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Studienleitung"
   },
   {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/vermittlung",
@@ -13990,6 +17630,11 @@
     "name": "Dritte Dame"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/dritter-knabe",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Dritter Knabe"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Erste Dame"
@@ -14000,9 +17645,19 @@
     "name": "Erster Geharnischter"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-knabe",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Erster Knabe"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Erster Priester"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/inspizienz",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Inspizienz"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/kinderchorleitung",
@@ -14025,6 +17680,11 @@
     "name": "Monostatos"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/musikalische-einstudierung",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Musikalische Einstudierung"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Orchester"
@@ -14043,6 +17703,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Papageno"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/regieassistenz-abendspielleitung",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Regieassistenz / Abendspielleitung"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro",
@@ -14088,6 +17753,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Zweiter Geharnischter"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Zweiter Knabe"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester",
@@ -14143,6 +17813,11 @@
     "slug": "wolfgang-amadeus-mozart/don-giovanni/masetto",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "name": "Masetto"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni/the-commendatore",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "name": "The Commendatore"
   },
   {
     "slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina",
@@ -14328,6 +18003,41 @@
     "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna",
     "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
     "name": "Susanna"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/monostatos",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Monostatos"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/pamina",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Pamina"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/papageno",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Papageno"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/queen-of-the-night",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Queen of the Night"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/sarastro",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Sarastro"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/speaker",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Speaker"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation/tamino",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute-holiday-presentation",
+    "name": "Tamino"
   },
   {
     "slug": "wolfgang-amadeus-mozart/zaide/allazim",

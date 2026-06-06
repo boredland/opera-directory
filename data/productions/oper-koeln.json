@@ -315,6 +315,10 @@
     "detail_url": "https://www.oper.koeln/de/produktion/der-rosenkavalier/",
     "creative_team": [
       {
+        "person_slug": "knaben-und-madchen-der-kolner-dommusik",
+        "function": "childrens-chorus-master"
+      },
+      {
         "person_slug": "chor-der-oper-koln",
         "function": "chorus-master"
       },
@@ -1578,6 +1582,10 @@
     "detail_url": "https://www.oper.koeln/de/produktion/my-fair-lady/",
     "creative_team": [
       {
+        "person_slug": "annika-wiessner",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "giorgio-madia",
         "function": "choreographer"
       },
@@ -1618,10 +1626,6 @@
       {
         "person_slug": "christoph-seidl",
         "role_slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle"
-      },
-      {
-        "person_slug": "annika-wiessner",
-        "role_slug": "frederick-loewe/my-fair-lady/choreografische-einstudierung"
       },
       {
         "person_slug": "christoph-westerkamp",
@@ -1724,7 +1728,12 @@
     "house_slug": "oper-koeln",
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/notte-morricone/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "silvia-delagneau",
+        "function": "costume-designer"
+      }
+    ],
     "cast": [
       {
         "person_slug": "marc-salicru",
@@ -1733,10 +1742,6 @@
       {
         "person_slug": "marcos-morau",
         "role_slug": "choreographie-regie-marcos-morau/notte-morricone/choreografie-regie"
-      },
-      {
-        "person_slug": "silvia-delagneau",
-        "role_slug": "choreographie-regie-marcos-morau/notte-morricone/kostumbild"
       },
       {
         "person_slug": "ennio-morricone",

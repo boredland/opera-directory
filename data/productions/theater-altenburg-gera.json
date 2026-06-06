@@ -1,0 +1,550 @@
+[
+  {
+    "id": "theater-altenburg-gera/arabella-1902",
+    "work_slug": "richard-strauss/arabella",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/arabella-1902/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "benita-roth",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rene-gruner",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-rieger",
+        "role_slug": "richard-strauss/arabella/5-pagen"
+      },
+      {
+        "person_slug": "rita-lucia-schneider",
+        "role_slug": "richard-strauss/arabella/adelaide-seine-frau"
+      },
+      {
+        "person_slug": "anne-preu",
+        "role_slug": "richard-strauss/arabella/arabella-seine-tochter"
+      },
+      {
+        "person_slug": "kathrin-rieger-loeck",
+        "role_slug": "richard-strauss/arabella/begleiterin-der-arabella"
+      },
+      {
+        "person_slug": "julia-gromball",
+        "role_slug": "richard-strauss/arabella/die-fiakermilli"
+      },
+      {
+        "person_slug": "andreas-veit",
+        "role_slug": "richard-strauss/arabella/ein-zimmerkellner"
+      },
+      {
+        "person_slug": "franziska-weber",
+        "role_slug": "richard-strauss/arabella/eine-kartenaufschlagerin"
+      },
+      {
+        "person_slug": "jaeyoung-lee",
+        "role_slug": "richard-strauss/arabella/graf-dominik"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "richard-strauss/arabella/graf-elemer"
+      },
+      {
+        "person_slug": "kai-wefer",
+        "role_slug": "richard-strauss/arabella/graf-lamoral"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "richard-strauss/arabella/graf-waldner-rittermeister-a-d"
+      },
+      {
+        "person_slug": "statisterie",
+        "role_slug": "richard-strauss/arabella/groom-kellner"
+      },
+      {
+        "person_slug": "michael-schmortte",
+        "role_slug": "richard-strauss/arabella/jankel-diener-des-mandryka"
+      },
+      {
+        "person_slug": "alejandro-larraga-schleske",
+        "role_slug": "richard-strauss/arabella/mandryka"
+      },
+      {
+        "person_slug": "jongwoo-kim",
+        "role_slug": "richard-strauss/arabella/matteo-jageroffizier"
+      },
+      {
+        "person_slug": "roman-koshmanov",
+        "role_slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka"
+      },
+      {
+        "person_slug": "natalie-image",
+        "role_slug": "richard-strauss/arabella/zdenka-seine-tochter"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/arabella-2191",
+    "work_slug": "richard-strauss/arabella",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/arabella-2191/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "benita-roth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-rieger",
+        "role_slug": "richard-strauss/arabella/5-pagen"
+      },
+      {
+        "person_slug": "rita-lucia-schneider",
+        "role_slug": "richard-strauss/arabella/adelaide-seine-frau"
+      },
+      {
+        "person_slug": "anne-preu",
+        "role_slug": "richard-strauss/arabella/arabella-seine-tochter"
+      },
+      {
+        "person_slug": "kathrin-rieger-loeck",
+        "role_slug": "richard-strauss/arabella/begleiterin-der-arabella"
+      },
+      {
+        "person_slug": "julia-gromball",
+        "role_slug": "richard-strauss/arabella/die-fiakermilli"
+      },
+      {
+        "person_slug": "andreas-veit",
+        "role_slug": "richard-strauss/arabella/ein-zimmerkellner"
+      },
+      {
+        "person_slug": "franziska-weber",
+        "role_slug": "richard-strauss/arabella/eine-kartenaufschlagerin"
+      },
+      {
+        "person_slug": "jaeyoung-lee",
+        "role_slug": "richard-strauss/arabella/graf-dominik"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "richard-strauss/arabella/graf-elemer"
+      },
+      {
+        "person_slug": "kai-wefer",
+        "role_slug": "richard-strauss/arabella/graf-lamoral"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "richard-strauss/arabella/graf-waldner-rittermeister-a-d"
+      },
+      {
+        "person_slug": "statisterie",
+        "role_slug": "richard-strauss/arabella/groom-kellner"
+      },
+      {
+        "person_slug": "michael-schmortte",
+        "role_slug": "richard-strauss/arabella/jankel-diener-des-mandryka"
+      },
+      {
+        "person_slug": "alejandro-larraga-schleske",
+        "role_slug": "richard-strauss/arabella/mandryka"
+      },
+      {
+        "person_slug": "jongwoo-kim",
+        "role_slug": "richard-strauss/arabella/matteo-jageroffizier"
+      },
+      {
+        "person_slug": "roman-koshmanov",
+        "role_slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka"
+      },
+      {
+        "person_slug": "natalie-image",
+        "role_slug": "richard-strauss/arabella/zdenka-seine-tochter"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/cats-young-actors-edition-2153",
+    "work_slug": "andrew-lloyd-webber/cats-young-actors-edition",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/cats-young-actors-edition-2153/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bernadette-nieslony",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "stefan-haufe",
+        "role_slug": "andrew-lloyd-webber/cats-young-actors-edition/inszenierung-choreografie"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/cavalleria-rusticana-pagliacci-2196",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/cavalleria-rusticana-pagliacci-2196/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-wicklein",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-fischer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "juan-camillo-yepes-acevedo",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/1-bauer"
+      },
+      {
+        "person_slug": "raoni-hybner-de-barros",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/2-bauer"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio-silvio"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
+        "person_slug": "franziska-weber",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lola"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lucia"
+      },
+      {
+        "person_slug": "anne-preu",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/peppe"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/der-weg-des-orpheus-1898",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/der-weg-des-orpheus-1898/",
+    "creative_team": [
+      {
+        "person_slug": "laura-bruna-rubio",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andrea-eisensee",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "peter-prautsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/charon"
+      },
+      {
+        "person_slug": "aiste-stankeviciute",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/eurydike"
+      },
+      {
+        "person_slug": "kai-wefer",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/orpheus"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/sinnlosigkeit"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/sisyphos"
+      },
+      {
+        "person_slug": "christopher-breust",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/verganglichkeit"
+      },
+      {
+        "person_slug": "patricia-felsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/vergnugen"
+      },
+      {
+        "person_slug": "melis-teichert",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/versagen"
+      },
+      {
+        "person_slug": "julia-gromball",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/wagemut"
+      },
+      {
+        "person_slug": "lys-schubert",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/wehmut"
+      },
+      {
+        "person_slug": "peter-prautsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/zerberus"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/der-weg-des-orpheus-2194",
+    "work_slug": "kay-kuntze/der-weg-des-orpheus",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/der-weg-des-orpheus-2194/",
+    "creative_team": [
+      {
+        "person_slug": "laura-bruna-rubio",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andrea-eisensee",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "peter-prautsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/charon"
+      },
+      {
+        "person_slug": "aiste-stankeviciute",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/eurydike"
+      },
+      {
+        "person_slug": "kai-wefer",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/orpheus"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/sinnlosigkeit"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/sisyphos"
+      },
+      {
+        "person_slug": "christopher-breust",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/verganglichkeit"
+      },
+      {
+        "person_slug": "patricia-felsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/vergnugen"
+      },
+      {
+        "person_slug": "melis-teichert",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/versagen"
+      },
+      {
+        "person_slug": "julia-gromball",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/wagemut"
+      },
+      {
+        "person_slug": "lys-schubert",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/wehmut"
+      },
+      {
+        "person_slug": "peter-prautsch",
+        "role_slug": "kay-kuntze/der-weg-des-orpheus/zerberus"
+      }
+    ]
+  },
+  {
+    "id": "theater-altenburg-gera/joseph-suess-2163",
+    "work_slug": "detlev-glanert/joseph-su",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/joseph-suess-2163/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kay-kuntze",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-fischer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-altenburg-gera/la-traviata-2156",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/la-traviata-2156/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-ruben-gazarian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elena-maria-artisi",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "chor-des-rutheneums",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-altenburg-gera/neues-vom-tage-2160",
+    "work_slug": "paul-hindemith/neues-vom-tage",
+    "house_slug": "theater-altenburg-gera",
+    "is_revival": false,
+    "detail_url": "https://theater-altenburg-gera.de/stuecke-konzerte/neues-vom-tage-2160/",
+    "creative_team": [
+      {
+        "person_slug": "judith-bothe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christopher-vazan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernd-mottl",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-peter-larsen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "friedrich-eggert",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

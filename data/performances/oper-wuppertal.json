@@ -1,0 +1,657 @@
+[
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-07-04/19:30",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-07-04",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385421"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-07-16/14:00",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-07-16",
+    "time": "14:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385422"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-07-19/16:00",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-07-19",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385420"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-10-11/18:00",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-10-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535604"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-10-18/19:30",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-10-18",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542431"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-11-21/19:30",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542433"
+  },
+  {
+    "id": "oper-wuppertal/1316-der-florentiner-hut/2026-12-31/19:30",
+    "production_id": "oper-wuppertal/1316-der-florentiner-hut",
+    "date": "2026-12-31",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2554891"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-04-25/18:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-04-25",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535880"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-05-02/16:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-05-02",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545299"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-05-09/19:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-05-09",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545300"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-06-04/19:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-06-04",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545302"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-06-09/14:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-06-09",
+    "time": "14:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545303"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-06-18/19:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-06-18",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545304"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-07-02/19:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-07-02",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545305"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-07-11/18:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-07-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545306"
+  },
+  {
+    "id": "oper-wuppertal/1490-carmen/2027-07-17/19:00",
+    "production_id": "oper-wuppertal/1490-carmen",
+    "date": "2027-07-17",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2545307"
+  },
+  {
+    "id": "oper-wuppertal/das-licht-auf-der-piazza/2026-05-09/19:30",
+    "production_id": "oper-wuppertal/das-licht-auf-der-piazza",
+    "date": "2026-05-09",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "past",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2392659"
+  },
+  {
+    "id": "oper-wuppertal/das-licht-auf-der-piazza/2026-05-15/19:30",
+    "production_id": "oper-wuppertal/das-licht-auf-der-piazza",
+    "date": "2026-05-15",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "past",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385409"
+  },
+  {
+    "id": "oper-wuppertal/das-licht-auf-der-piazza/2026-07-05/18:00",
+    "production_id": "oper-wuppertal/das-licht-auf-der-piazza",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385410"
+  },
+  {
+    "id": "oper-wuppertal/das-licht-auf-der-piazza/2026-07-18/19:30",
+    "production_id": "oper-wuppertal/das-licht-auf-der-piazza",
+    "date": "2026-07-18",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2392660"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-02-27/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-02-27",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535738"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-03-06/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544878"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-04-09/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-04-09",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544879"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-04-18/16:00",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-04-18",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544880"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-04-27/14:00",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-04-27",
+    "time": "14:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544881"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-05-14/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-05-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544882"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-06-06/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-06-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544885"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-06-27/18:00",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-06-27",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544886"
+  },
+  {
+    "id": "oper-wuppertal/die-fledermaus/2027-07-10/19:30",
+    "production_id": "oper-wuppertal/die-fledermaus",
+    "date": "2027-07-10",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544887"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-11-28/19:30",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-11-28",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535649"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-05/18:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-05",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543679"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-20/16:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-20",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543681"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-21/09:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-21",
+    "time": "09:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543682"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-21/11:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-21",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543683"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-22/09:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-22",
+    "time": "09:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543684"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2026-12-22/11:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2026-12-22",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543685"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-01-08/19:30",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-01-08",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543686"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-01-31/16:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-01-31",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543687"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-02-14/19:30",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-02-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543689"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-03-13/18:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-03-13",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543690"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-04-30/09:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-04-30",
+    "time": "09:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543691"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-04-30/11:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-04-30",
+    "time": "11:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543692"
+  },
+  {
+    "id": "oper-wuppertal/die-prinzessin-auf-der-erbse/2027-05-15/18:00",
+    "production_id": "oper-wuppertal/die-prinzessin-auf-der-erbse",
+    "date": "2027-05-15",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2543693"
+  },
+  {
+    "id": "oper-wuppertal/hansel-und-gretel/2026-09-12/18:00",
+    "production_id": "oper-wuppertal/hansel-und-gretel",
+    "date": "2026-09-12",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535586"
+  },
+  {
+    "id": "oper-wuppertal/hansel-und-gretel/2026-10-25/16:00",
+    "production_id": "oper-wuppertal/hansel-und-gretel",
+    "date": "2026-10-25",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542415"
+  },
+  {
+    "id": "oper-wuppertal/hansel-und-gretel/2026-11-29/16:00",
+    "production_id": "oper-wuppertal/hansel-und-gretel",
+    "date": "2026-11-29",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542416"
+  },
+  {
+    "id": "oper-wuppertal/hansel-und-gretel/2026-12-12/18:00",
+    "production_id": "oper-wuppertal/hansel-und-gretel",
+    "date": "2026-12-12",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542417"
+  },
+  {
+    "id": "oper-wuppertal/il-barbiere-di-siviglia/2026-06-11/18:00",
+    "production_id": "oper-wuppertal/il-barbiere-di-siviglia",
+    "date": "2026-06-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2532128"
+  },
+  {
+    "id": "oper-wuppertal/otello/2026-10-31/19:30",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535698"
+  },
+  {
+    "id": "oper-wuppertal/otello/2026-11-07/19:30",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2026-11-07",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542782"
+  },
+  {
+    "id": "oper-wuppertal/otello/2026-12-11/19:30",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2026-12-11",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542784"
+  },
+  {
+    "id": "oper-wuppertal/otello/2026-12-27/18:00",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2026-12-27",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542785"
+  },
+  {
+    "id": "oper-wuppertal/otello/2027-01-29/19:30",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2027-01-29",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542786"
+  },
+  {
+    "id": "oper-wuppertal/otello/2027-02-21/16:00",
+    "production_id": "oper-wuppertal/otello",
+    "date": "2027-02-21",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2542787"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-02-06/19:30",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-02-06",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535877"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-02-12/19:30",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-02-12",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544919"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-02-19/19:30",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-02-19",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544920"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-03-07/18:00",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-03-07",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544922"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-03-14/19:30",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-03-14",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544923"
+  },
+  {
+    "id": "oper-wuppertal/prism/2027-04-17/19:30",
+    "production_id": "oper-wuppertal/prism",
+    "date": "2027-04-17",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544924"
+  },
+  {
+    "id": "oper-wuppertal/the-lodger/2026-06-13/19:30",
+    "production_id": "oper-wuppertal/the-lodger",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2385417"
+  },
+  {
+    "id": "oper-wuppertal/the-lodger/2026-07-12/18:00",
+    "production_id": "oper-wuppertal/the-lodger",
+    "date": "2026-07-12",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2392669"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-03-19/19:30",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-03-19",
+    "time": "19:30",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2535879"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-03-21/16:00",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-03-21",
+    "time": "16:00",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544960"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-04-10/19:30",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544961"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-04-17/19:30",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-04-17",
+    "time": "19:30",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544962"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-04-24/19:30",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-04-24",
+    "time": "19:30",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544963"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-06-01/18:00",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-06-01",
+    "time": "18:00",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-06-02/11:00",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-06-02",
+    "time": "11:00",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-wuppertal/these-girls-have-demons/2027-06-05/19:30",
+    "production_id": "oper-wuppertal/these-girls-have-demons",
+    "date": "2027-06-05",
+    "time": "19:30",
+    "venue_room": "Theater am Engelsgarten",
+    "status": "scheduled",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2544966"
+  },
+  {
+    "id": "oper-wuppertal/tuffi/2026-05-10/16:00",
+    "production_id": "oper-wuppertal/tuffi",
+    "date": "2026-05-10",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "past",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2398944"
+  },
+  {
+    "id": "oper-wuppertal/tuffi/2026-05-14/15:00",
+    "production_id": "oper-wuppertal/tuffi",
+    "date": "2026-05-14",
+    "time": "15:00",
+    "venue_room": "Opernhaus",
+    "status": "past",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2401020"
+  },
+  {
+    "id": "oper-wuppertal/tuffi/2026-05-14/18:00",
+    "production_id": "oper-wuppertal/tuffi",
+    "date": "2026-05-14",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "past",
+    "ticket_url": "https://wuppertaler-buehnen.reservix.de/p/reservix/event/2401021"
+  }
+]

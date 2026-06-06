@@ -1,0 +1,235 @@
+[
+  {
+    "id": "theater-koblenz/antony-and-cleopatra",
+    "work_slug": "john-adams/antony-and-cleopatra",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/antony-and-cleopatra/",
+    "creative_team": [
+      {
+        "person_slug": "lorenz-ho",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "enrico-delamboye",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernhard-hulfenhaus",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "markus-dietze",
+        "function": "director"
+      },
+      {
+        "person_slug": "franziska-hansen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "julia-kaindl",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bodo-demelius",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "georg-lendorff",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nico-wouterse",
+        "role_slug": "john-adams/antony-and-cleopatra/agrippa"
+      },
+      {
+        "person_slug": "andrew-finden",
+        "role_slug": "john-adams/antony-and-cleopatra/antony"
+      },
+      {
+        "person_slug": "tobias-haaks",
+        "role_slug": "john-adams/antony-and-cleopatra/caesar"
+      },
+      {
+        "person_slug": "tabita-iwamoto",
+        "role_slug": "john-adams/antony-and-cleopatra/charmian"
+      },
+      {
+        "person_slug": "andreas-heise",
+        "role_slug": "john-adams/antony-and-cleopatra/choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "danielle-rohr",
+        "role_slug": "john-adams/antony-and-cleopatra/cleopatra"
+      },
+      {
+        "person_slug": "christoph-plessers",
+        "role_slug": "john-adams/antony-and-cleopatra/enobarbus"
+      },
+      {
+        "person_slug": "nando-zickgraf",
+        "role_slug": "john-adams/antony-and-cleopatra/eros"
+      },
+      {
+        "person_slug": "haruna-yamazaki",
+        "role_slug": "john-adams/antony-and-cleopatra/iras"
+      },
+      {
+        "person_slug": "jongmin-lim",
+        "role_slug": "john-adams/antony-and-cleopatra/lepidus"
+      },
+      {
+        "person_slug": "britta-bischof",
+        "role_slug": "john-adams/antony-and-cleopatra/live-bildschnitt"
+      },
+      {
+        "person_slug": "thiemo-hehl",
+        "role_slug": "john-adams/antony-and-cleopatra/live-kamera"
+      },
+      {
+        "person_slug": "jongmin-lim",
+        "role_slug": "john-adams/antony-and-cleopatra/maecenas"
+      },
+      {
+        "person_slug": "haruna-yamazaki",
+        "role_slug": "john-adams/antony-and-cleopatra/octavia"
+      },
+      {
+        "person_slug": "marco-kilian",
+        "role_slug": "john-adams/antony-and-cleopatra/scarus"
+      },
+      {
+        "person_slug": "astrid-tinel",
+        "role_slug": "john-adams/antony-and-cleopatra/tanzer-innen"
+      },
+      {
+        "person_slug": "julia-schutt",
+        "role_slug": "john-adams/antony-and-cleopatra/theaterpadagogik"
+      }
+    ]
+  },
+  {
+    "id": "theater-koblenz/bevor-es-ganz-dunkel-wird",
+    "work_slug": "jake-heggie/bevor-es-ganz-dunkel-wird",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/bevor-es-ganz-dunkel-wird/",
+    "creative_team": [
+      {
+        "person_slug": "karsten-huschke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carolin-quirmbach",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-wahlberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefanie-rubensaal",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wolfram-hartleif",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/betreuung-projektchor"
+      },
+      {
+        "person_slug": "heiko-hentschel",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/inszenierung-und-raum"
+      },
+      {
+        "person_slug": "andrew-finden",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/mac"
+      },
+      {
+        "person_slug": "haruna-yamazaki",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/sally-misha-emil"
+      },
+      {
+        "person_slug": "david-prosenc",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/schauspieler"
+      },
+      {
+        "person_slug": "julia-schutt",
+        "role_slug": "jake-heggie/bevor-es-ganz-dunkel-wird/theaterpadagogik"
+      }
+    ]
+  },
+  {
+    "id": "theater-koblenz/fidelio",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/fidelio/",
+    "creative_team": [
+      {
+        "person_slug": "lorenz-ho",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marcus-merkel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andreas-wahlberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-reif",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ksch-tatjana-holbing",
+        "role_slug": "ludwig-van-beethoven/fidelio/alte-leonore"
+      },
+      {
+        "person_slug": "christoph-plessers",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-fernando"
+      },
+      {
+        "person_slug": "nico-wouterse",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-pizarro"
+      },
+      {
+        "person_slug": "sebastian-haake",
+        "role_slug": "ludwig-van-beethoven/fidelio/erster-gefangener"
+      },
+      {
+        "person_slug": "tobias-haaks",
+        "role_slug": "ludwig-van-beethoven/fidelio/florestan"
+      },
+      {
+        "person_slug": "piotr-gryniewicki",
+        "role_slug": "ludwig-van-beethoven/fidelio/jaquino"
+      },
+      {
+        "person_slug": "adreana-kraschewski",
+        "role_slug": "ludwig-van-beethoven/fidelio/leonore"
+      },
+      {
+        "person_slug": "hannah-beutler",
+        "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
+      },
+      {
+        "person_slug": "jongmin-lim",
+        "role_slug": "ludwig-van-beethoven/fidelio/rocco"
+      },
+      {
+        "person_slug": "johannes-dorr",
+        "role_slug": "ludwig-van-beethoven/fidelio/szenische-einrichtung"
+      },
+      {
+        "person_slug": "marco-killian",
+        "role_slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener"
+      }
+    ]
+  }
+]

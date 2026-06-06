@@ -1,0 +1,471 @@
+[
+  {
+    "id": "theater-fuer-niedersachsen/cinderella-1",
+    "work_slug": "alma-deutscher/cinderella",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Oper von Alma Deutscher Libretto von der Komponistin Deutsche Erstaufführung in deutscher Sprache mit deutschen Übertiteln",
+    "detail_url": "https://tfn-online.de/programm/produktion/cinderella-1",
+    "creative_team": [
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefano-de-laurenzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "beatrice-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "beata-kornatowska",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-fuer-niedersachsen/die-dorfkomtesse",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Operette von Rachel Danziger van Embden Libretto von Erich Urban und Alexander Sigmund Pordes-Milo in deutscher Sprache mit deutschen Übertiteln",
+    "detail_url": "https://tfn-online.de/programm/produktion/die-dorfkomtesse",
+    "creative_team": [
+      {
+        "person_slug": "katharina-glas",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "esther-hilsberg-schaarmann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oliver-pauli",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-bruchhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-fuer-niedersachsen/die-goettin-der-vernunft",
+    "work_slug": "johann-strauss/die-gottin-der-vernunft",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Operette in drei Akten von Johann Strauss Libretto von Alfred Maria Willner und Bernhard Buchbinder Hildesheimer Fassung von Christian von Götz, Samuel C. Zinsli und Ensemble in deutscher Sprache mit deutschen Übertiteln zum 200. Geburtstag von Johann Strauss",
+    "detail_url": "https://tfn-online.de/programm/produktion/die-goettin-der-vernunft",
+    "creative_team": [
+      {
+        "person_slug": "katharina-glas",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "florian-ziemen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "amelie-muller",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christian-von-gotz",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "xin-pan",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/balais-backer"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/bonhomme-gutsbesitzer"
+      },
+      {
+        "person_slug": "anne-anderson",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/calais-schneider"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/captaine-robert"
+      },
+      {
+        "person_slug": "steffi-fischer",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/chalais-schuster"
+      },
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/comtesse-mathilde-de-nevers"
+      },
+      {
+        "person_slug": "jan-niclas-rohde",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/ein-hauptmann-des-herzogs-von-braunschweig"
+      },
+      {
+        "person_slug": "torben-kirchner",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/ein-hauptmann-des-herzogs-von-braunschweig"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/ernestine-volkssangerin"
+      },
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/jaquino-karikaturist"
+      },
+      {
+        "person_slug": "jan-kammerer",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/jaquino-karikaturist"
+      },
+      {
+        "person_slug": "jugendchor-des-tfn",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/mit"
+      },
+      {
+        "person_slug": "opernchor-des-tfn",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/mit"
+      },
+      {
+        "person_slug": "tfn-philharmonie",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/mit"
+      },
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/oberst-furieux"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/sergeant-pandore"
+      },
+      {
+        "person_slug": "marlene-mesa",
+        "role_slug": "johann-strauss/die-gottin-der-vernunft/susette-kammermadchen-der-comtesse"
+      }
+    ]
+  },
+  {
+    "id": "theater-fuer-niedersachsen/harvey-milk",
+    "work_slug": "stewart-wallace/harvey-milk-reimagined",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Oper in zwei Akten von Stewart Wallace Libretto von Michael Korie Deutsche Erstaufführung in englischer Sprache mit deutschen Übertiteln",
+    "detail_url": "https://tfn-online.de/programm/produktion/harvey-milk",
+    "creative_team": [
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sergei-kiselev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vincent-stefan",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-miotk",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/anne-kronenberg-mama"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/closet-lover-jack"
+      },
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/dan-white"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/dianne-feinstein-hooker"
+      },
+      {
+        "person_slug": "mario-klein",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/george-moscone-horst-teamster"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/george-moscone-horst-teamster"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/harvey-milk"
+      },
+      {
+        "person_slug": "xia-wang",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/henrietta-wong"
+      },
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/scott-smith"
+      },
+      {
+        "person_slug": "farrukh-pirov",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/the-messenger"
+      },
+      {
+        "person_slug": "atsushi-okumura",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/three-news-reporters"
+      },
+      {
+        "person_slug": "jesper-mikkelsen",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/three-news-reporters"
+      },
+      {
+        "person_slug": "xin-pan",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/three-news-reporters"
+      },
+      {
+        "person_slug": "benedikt-weber",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/young-harvey"
+      },
+      {
+        "person_slug": "georg-sammler",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/young-harvey"
+      },
+      {
+        "person_slug": "julian-naruhn",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/young-harvey"
+      },
+      {
+        "person_slug": "oceane-wuttke",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/young-harvey"
+      },
+      {
+        "person_slug": "ophelie-wuttke",
+        "role_slug": "stewart-wallace/harvey-milk-reimagined/young-harvey"
+      }
+    ]
+  },
+  {
+    "id": "theater-fuer-niedersachsen/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Oper in drei Akten von Giuseppe Verdi Libretto von Francesco Maria Piave nach dem Schauspiel le roi s’amuse von Victor Hugo in italienischer Sprache mit deutschen Übertiteln",
+    "detail_url": "https://tfn-online.de/programm/produktion/rigoletto",
+    "creative_team": [
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefano-de-laurenzi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "florian-ziemen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "shira-szabady",
+        "function": "director"
+      },
+      {
+        "person_slug": "sebastian-ellrich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa-hofling"
+      },
+      {
+        "person_slug": "chun-ding",
+        "role_slug": "giuseppe-verdi/rigoletto/conte-ceprano-hofling"
+      },
+      {
+        "person_slug": "teaseop-kim",
+        "role_slug": "giuseppe-verdi/rigoletto/conte-ceprano-hofling"
+      },
+      {
+        "person_slug": "laura-romero-arias",
+        "role_slug": "giuseppe-verdi/rigoletto/contessa-ceprano"
+      },
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "giuseppe-verdi/rigoletto/duca-di-mantova"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda-dessen-tochter"
+      },
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna-gildas-gesellschafterin"
+      },
+      {
+        "person_slug": "diogenes-randes-farias",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-monterone"
+      },
+      {
+        "person_slug": "teaseop-kim",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-monterone"
+      },
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena-seine-schwester"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo-hofling"
+      },
+      {
+        "person_slug": "extrachor-des-tfn",
+        "role_slug": "giuseppe-verdi/rigoletto/mit"
+      },
+      {
+        "person_slug": "opernchor-des-tfn",
+        "role_slug": "giuseppe-verdi/rigoletto/mit"
+      },
+      {
+        "person_slug": "tfn-philharmonie",
+        "role_slug": "giuseppe-verdi/rigoletto/mit"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto-sein-hofnarr"
+      },
+      {
+        "person_slug": "diogenes-randes-farias",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile-meuchelmorder"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile-meuchelmorder"
+      },
+      {
+        "person_slug": "daniel-chopov",
+        "role_slug": "giuseppe-verdi/rigoletto/usciere"
+      }
+    ]
+  },
+  {
+    "id": "theater-fuer-niedersachsen/viel-laerm-um-nichts",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Oper von Charles Villiers Stanford Libretto von Julian Sturgis nach der Komödie much ado about nothing von William Shakespeare in deutscher Sprache mit deutschen Übertiteln",
+    "detail_url": "https://tfn-online.de/programm/produktion/viel-laerm-um-nichts",
+    "creative_team": [
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sergei-kiselev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matthias-von-stegmann",
+        "function": "director"
+      },
+      {
+        "person_slug": "simon-lima-holdsworth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-fuer-niedersachsen/wilhelm-tell-guillaume-tell",
+    "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
+    "house_slug": "theater-fuer-niedersachsen",
+    "is_revival": false,
+    "presentation_note": "Oper in vier Akten von Gioachino Rossini Libretto von Étienne de Jouy und Hippolyte Bis nach dem Schauspiel wilhelm tell von Friedrich Schiller in französischer Sprache mit Übertiteln in einfacher Sprache",
+    "detail_url": "https://tfn-online.de/programm/produktion/wilhelm-tell-guillaume-tell",
+    "creative_team": [
+      {
+        "person_slug": "achim-falkenhausen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "moritz-haakh",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "isabel-ostermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "lars-linnhoff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/arnold-melcthal"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/gesler"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/guillaume-tell"
+      },
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "juline-florentino",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/jemmy"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/leuthold"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "extrachor-des-tfn",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mit"
+      },
+      {
+        "person_slug": "opernchor-des-tfn",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mit"
+      },
+      {
+        "person_slug": "tfn-philharmonie",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/mit"
+      },
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/rodolphe"
+      },
+      {
+        "person_slug": "leilei-xie",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/ruodi"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/walter-furst-melcthal"
+      }
+    ]
+  }
+]

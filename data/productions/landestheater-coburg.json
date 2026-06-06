@@ -1,0 +1,70 @@
+[
+  {
+    "id": "landestheater-coburg/l-elisir-d-amore",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore",
+    "house_slug": "landestheater-coburg",
+    "is_revival": false,
+    "detail_url": "https://landestheater-coburg.de/programm/musiktheater/l-elisir-d-amore",
+    "creative_team": [
+      {
+        "person_slug": "ben-koster",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "david-preil",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lea-willeke",
+        "function": "director"
+      },
+      {
+        "person_slug": "andre-sievers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-rehfeld",
+        "function": "Lichtregie"
+      },
+      {
+        "person_slug": "bina-zinsmeister",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "landestheater-coburg/salome",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "landestheater-coburg",
+    "is_revival": false,
+    "detail_url": "https://landestheater-coburg.de/programm/musiktheater/salome",
+    "creative_team": [
+      {
+        "person_slug": "kevin-o-day",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "dietger-holm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gerhard-gollnhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "neil-barry-moss",
+        "function": "director"
+      },
+      {
+        "person_slug": "andre-sievers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "juliane-langin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

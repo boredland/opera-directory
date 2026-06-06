@@ -1,0 +1,499 @@
+[
+  {
+    "id": "staatstheater-meiningen/castor-et-pollux",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": true,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/castor-et-pollux.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "verena-hemmerlein",
+        "function": "Co-Bühnenbildnerin"
+      },
+      {
+        "person_slug": "christopher-moulds",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christopher-vazan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nina-lepilina",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "adriana-altaras",
+        "function": "director"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sir-tony-cragg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/das-rheingold",
+    "work_slug": "richard-wagner/das-rheingold",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": true,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/das-rheingold.html",
+    "creative_team": [
+      {
+        "person_slug": "gmd-killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulduz-ashraf-gandomi",
+        "function": "Persönliche Regieassistenz"
+      },
+      {
+        "person_slug": "markus-lupertz",
+        "function": "Regie, Bühne, Kostüme"
+      },
+      {
+        "person_slug": "almut-echtler",
+        "function": "Umsetzung Kostüme, Ausstattungsassistenz"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/der-freischuetz",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/der-freischuetz.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kens-lui",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "noori-cho",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "philipp-m-krenn",
+        "function": "director"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "walter-schutze",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "philipp-weber",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lena-kutzner-emma-mcnairy",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "monika-reinhard-hannah-gries",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
+      },
+      {
+        "person_slug": "sam-taskinen-selcuk-hakan-tirasoglu",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ein-eremit"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "carl-maria-von-weber/der-freischutz/es-spielt-die"
+      },
+      {
+        "person_slug": "mark-hightower-shin-taniguchi",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kaspar-killian"
+      },
+      {
+        "person_slug": "tomasz-wija",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kuno-ottokar"
+      },
+      {
+        "person_slug": "isaac-lee",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
+      },
+      {
+        "person_slug": "nicola-lembach",
+        "role_slug": "carl-maria-von-weber/der-freischutz/samiel"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-meiningen/die-csrdsfuerstin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": true,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/die-csrdsfuerstin.html",
+    "creative_team": [
+      {
+        "person_slug": "tamas-mester",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kens-lui",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "roman-david-rothenaicher-christopher-vazan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uschi-haug",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dominik-wilgenbus",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-engel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elke-buchner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau"
+      },
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-beider-sohn"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/es-spielt-die"
+      },
+      {
+        "person_slug": "tomasz-wija-mark-hightower",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-bacsi"
+      },
+      {
+        "person_slug": "matthias-herold",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/furst-lippert-weylersheim"
+      },
+      {
+        "person_slug": "tobias-glagau-johannes-mooser",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancianu"
+      },
+      {
+        "person_slug": "yannik-schiller",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/groom"
+      },
+      {
+        "person_slug": "hans-gebhardt-yannik-schiller-raphael-hering-sang-seon-won-mikko-jarviluoto-tarik-akman-andreas-kalmbach-matthias-richter",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/kavaliere"
+      },
+      {
+        "person_slug": "silvio-wild",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/kiss-notar"
+      },
+      {
+        "person_slug": "monika-reinhard-hannah-gries",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/komtesse-stasi"
+      },
+      {
+        "person_slug": "matthias-richter",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/macgrave-botschafter"
+      },
+      {
+        "person_slug": "sylvia-hofmann-rosica-vogel-sophia-oertel-yerim-park-dana-hinz-anna-theresa-torgersen-aisling-mccarthy",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/madis"
+      },
+      {
+        "person_slug": "steffen-kollner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/oberleutnant-von-rohnsdorff"
+      },
+      {
+        "person_slug": "dara-hobbs-emma-mcnairy",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+      },
+      {
+        "person_slug": "elena-zanato-antonia-selow-andrea-de-marzo-balazs-szijarto",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/tanzpaar"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-meiningen/falstaff",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/falstaff.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vivien-hohnholz",
+        "function": "director"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "walter-schutze",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/flavio-re-de-longobardi",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/flavio-re-de-longobardi.html",
+    "creative_team": [
+      {
+        "person_slug": "camille-delaforge",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "corina-gramosteanu",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "max-emanuel-cencic",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-terwald",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "helmut-sturmer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/henry-viii",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/henry-viii.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andrea-schraad",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-kriegenburg",
+        "function": "Regie, Bühne"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/historia-von-d-johann-fausten",
+    "work_slug": "alfred-schnittke/historia-von-d-johann-fausten",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/historia-von-d-johann-fausten.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "julia-rosler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eva-maria-hockmayr",
+        "function": "director"
+      },
+      {
+        "person_slug": "matthias-heilmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michele-taborelli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/la-clemenza-di-tito",
+    "work_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/la-clemenza-di-tito.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "Regie, Bühne, Kostüme"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-meiningen/otello",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": true,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/otello.html",
+    "creative_team": [
+      {
+        "person_slug": "roman-david-rothenaicher",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gmd-killian-farrell-christopher-vazan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "Regie, Bühne, Kostüme"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "giuseppe-verdi/otello/cassio"
+      },
+      {
+        "person_slug": "emma-mcnairy",
+        "role_slug": "giuseppe-verdi/otello/desdemonda"
+      },
+      {
+        "person_slug": "marianne-schechtel-tamta-tarielashvili",
+        "role_slug": "giuseppe-verdi/otello/emilia"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "giuseppe-verdi/otello/es-spielt-die"
+      },
+      {
+        "person_slug": "shin-taniguchi",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "selcuk-hakan-tirasoglu",
+        "role_slug": "giuseppe-verdi/otello/lodovico"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "giuseppe-verdi/otello/montano"
+      },
+      {
+        "person_slug": "isaac-lee-owen-metsileng",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "giuseppe-verdi/otello/rodrigo"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-meiningen/riemannoper",
+    "work_slug": "tom-johnson/riemannoper",
+    "house_slug": "staatstheater-meiningen",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-meiningen.de/produktionen/riemannoper.html",
+    "creative_team": [
+      {
+        "person_slug": "zoe-wagner",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "freya-golitz",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "virginia-breitenstein",
+        "function": "Musikalische Leitung, Klavier, Akkordeon, Ukulele"
+      },
+      {
+        "person_slug": "linda-siegismund",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

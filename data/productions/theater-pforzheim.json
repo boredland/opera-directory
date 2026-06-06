@@ -1,0 +1,224 @@
+[
+  {
+    "id": "theater-pforzheim/der-zwerg-le-sacre-du-printemps",
+    "work_slug": "alexander-von-zemlinsky/der-zwerg-le-sacre-du-printemps",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/der-zwerg-le-sacre-du-printemps.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-pforzheim/il-barbiere-di-siviglia",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/il-barbiere-di-siviglia.html",
+    "creative_team": [
+      {
+        "person_slug": "johannes-berndt",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-mertens",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jon-goldsworthy",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/ambrogio"
+      },
+      {
+        "person_slug": "michael-pichler",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/badische-philharmonie-pforzheim-musikalische-leitung"
+      },
+      {
+        "person_slug": "lukas-schmid-wedekind",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/bartolo"
+      },
+      {
+        "person_slug": "stefan-stoll",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/bartolo"
+      },
+      {
+        "person_slug": "leopold-bier",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/conte-almaviva"
+      },
+      {
+        "person_slug": "aleksandar-stefanoski",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-basilio"
+      },
+      {
+        "person_slug": "daniel-nicholson",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
+      },
+      {
+        "person_slug": "johan-roussey",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
+      },
+      {
+        "person_slug": "franziska-tiedtke",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/marzeline"
+      },
+      {
+        "person_slug": "jina-choi",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/marzeline"
+      },
+      {
+        "person_slug": "cecilia-pastawski",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "lou-denes",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "julia-maschke",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/theaterpadagogik"
+      }
+    ]
+  },
+  {
+    "id": "theater-pforzheim/jesus-christ-superstar",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/jesus-christ-superstar.html",
+    "creative_team": [
+      {
+        "person_slug": "mar-rodriguez-valverde",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "johannes-berndt",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "markus-hertel",
+        "function": "director"
+      },
+      {
+        "person_slug": "carlo-mertens",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "steven-koop",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "karel-pajer",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/andreas-priester"
+      },
+      {
+        "person_slug": "philipp-haag",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/badische-philharmonie-pforzheim-musikalische-leitung"
+      },
+      {
+        "person_slug": "steffen-fichtner",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/bartholomaus-priester"
+      },
+      {
+        "person_slug": "dirk-konnerth",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/hannas-hohepriester"
+      },
+      {
+        "person_slug": "philipp-werner",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/herodes-konig-von-judaa"
+      },
+      {
+        "person_slug": "jon-geoffrey-goldsworthy",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/jacobus-der-altere"
+      },
+      {
+        "person_slug": "gunnar-frietsch",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/jesus-von-nazareth"
+      },
+      {
+        "person_slug": "santiago-burgi",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/jesus-von-nazareth"
+      },
+      {
+        "person_slug": "lilian-huynen",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/judas-ischariot"
+      },
+      {
+        "person_slug": "markus-wessiack",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/kaiphas-hohepriester"
+      },
+      {
+        "person_slug": "elisandra-melian",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/maria-magdalena"
+      },
+      {
+        "person_slug": "joanna-lissai",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/maria-magdalena"
+      },
+      {
+        "person_slug": "felipe-rojas",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/pontius-pilatus-prafekt-von-judaa"
+      },
+      {
+        "person_slug": "bernhard-meindl",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-petrus"
+      },
+      {
+        "person_slug": "ingo-wagner",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-zelotes"
+      },
+      {
+        "person_slug": "dorothee-bohnisch",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soulgirl"
+      },
+      {
+        "person_slug": "franziska-fait",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soulgirl"
+      },
+      {
+        "person_slug": "sophia-klemisch",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soulgirl"
+      },
+      {
+        "person_slug": "julia-maschke",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/theaterpadagogik"
+      },
+      {
+        "person_slug": "aleksandar-stefanoski",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/thomas-priester"
+      },
+      {
+        "person_slug": "lukas-schmid-wedekind",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/thomas-priester"
+      }
+    ]
+  },
+  {
+    "id": "theater-pforzheim/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/la-boheme.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-pforzheim/le-nozze-di-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/le-nozze-di-figaro.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-pforzheim/rusalka-1",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "theater-pforzheim",
+    "is_revival": false,
+    "detail_url": "https://www.theater-pforzheim.de/veranstaltungen/ansicht-veranstaltungen/event/eventDetail/1970-01-01_0100/rusalka-1.html",
+    "creative_team": [],
+    "cast": []
+  }
+]

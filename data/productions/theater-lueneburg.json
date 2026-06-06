@@ -1,0 +1,88 @@
+[
+  {
+    "id": "theater-lueneburg/der-freischuetz",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "theater-lueneburg",
+    "premiere_date": "2026-11-07",
+    "is_revival": false,
+    "detail_url": "https://www.theater-lueneburg.de/der-freischuetz",
+    "creative_team": [
+      {
+        "person_slug": "gaudens-bieri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "julia-debus",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michael-wallner",
+        "function": "director"
+      },
+      {
+        "person_slug": "heinz-hauser",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "malte-schurau",
+        "role_slug": "carl-maria-von-weber/der-freischutz/umsetzung"
+      }
+    ]
+  },
+  {
+    "id": "theater-lueneburg/die-fledermaus",
+    "work_slug": "johann-strau/die-fledermaus",
+    "house_slug": "theater-lueneburg",
+    "premiere_date": "2027-06-19",
+    "is_revival": false,
+    "detail_url": "https://www.theater-lueneburg.de/die-fledermaus",
+    "creative_team": [
+      {
+        "person_slug": "olaf-schmidt",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gaudens-bieri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "friedrich-von-mansberg",
+        "function": "director"
+      },
+      {
+        "person_slug": "barbara-bloch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-lueneburg/haensel-und-gretel",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "theater-lueneburg",
+    "premiere_date": "2027-04-30",
+    "is_revival": false,
+    "detail_url": "https://www.theater-lueneburg.de/haensel-und-gretel",
+    "creative_team": [
+      {
+        "person_slug": "elsine-haugstad",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "julia-debus",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "niklas-heinecke",
+        "function": "director"
+      },
+      {
+        "person_slug": "simone-anton-bunting",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

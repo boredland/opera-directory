@@ -1,0 +1,24 @@
+[
+  {
+    "id": "theater-lueneburg/der-freischuetz/2026-11-07/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2026-11-07",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/die-fledermaus/2027-06-19/",
+    "production_id": "theater-lueneburg/die-fledermaus",
+    "date": "2027-06-19",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/haensel-und-gretel/2027-04-30/",
+    "production_id": "theater-lueneburg/haensel-und-gretel",
+    "date": "2027-04-30",
+    "venue_room": "T.3",
+    "status": "scheduled"
+  }
+]

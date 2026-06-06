@@ -1,0 +1,538 @@
+[
+  {
+    "id": "landesbuehnen-sachsen/5397e783-8add-4833-8f36-7eee8cd309ca",
+    "work_slug": "carl-maria-von-weber/silvana",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Romantische Oper von Carl Maria von Weber",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/silvana/",
+    "creative_team": [
+      {
+        "person_slug": "florian-merz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hans-peter-preu",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "director"
+      },
+      {
+        "person_slug": "gisela-zurner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aljaz-vesel",
+        "role_slug": "carl-maria-von-weber/silvana/albert-von-cleeburg"
+      },
+      {
+        "person_slug": "kay-frenzel",
+        "role_slug": "carl-maria-von-weber/silvana/albert-von-cleeburg"
+      },
+      {
+        "person_slug": "chor-der-landesbuhnen-sachsen",
+        "role_slug": "carl-maria-von-weber/silvana/edeldamen-edelknappen-ritter-jager-und-reisige"
+      },
+      {
+        "person_slug": "reuben-scott",
+        "role_slug": "carl-maria-von-weber/silvana/fust-von-grimmbach-rudolphs-lehnsmann"
+      },
+      {
+        "person_slug": "stefan-glause",
+        "role_slug": "carl-maria-von-weber/silvana/fust-von-grimmbach-rudolphs-lehnsmann"
+      },
+      {
+        "person_slug": "hojin-chung",
+        "role_slug": "carl-maria-von-weber/silvana/graf-adelhart"
+      },
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "carl-maria-von-weber/silvana/graf-adelhart"
+      },
+      {
+        "person_slug": "anton-kuzenok",
+        "role_slug": "carl-maria-von-weber/silvana/graf-rudolph-von-helfenstein"
+      },
+      {
+        "person_slug": "ludwig-obst",
+        "role_slug": "carl-maria-von-weber/silvana/graf-rudolph-von-helfenstein"
+      },
+      {
+        "person_slug": "hans-udo-vogler",
+        "role_slug": "carl-maria-von-weber/silvana/hugo-in-adelharts-diensten"
+      },
+      {
+        "person_slug": "stephanie-atanasov",
+        "role_slug": "carl-maria-von-weber/silvana/klara-mechthildes-zofe"
+      },
+      {
+        "person_slug": "andreas-werner",
+        "role_slug": "carl-maria-von-weber/silvana/komparserie"
+      },
+      {
+        "person_slug": "daniel-kassube",
+        "role_slug": "carl-maria-von-weber/silvana/komparserie"
+      },
+      {
+        "person_slug": "jonathan-loos",
+        "role_slug": "carl-maria-von-weber/silvana/komparserie"
+      },
+      {
+        "person_slug": "julian-hecht",
+        "role_slug": "carl-maria-von-weber/silvana/komparserie"
+      },
+      {
+        "person_slug": "marcel-bohm",
+        "role_slug": "carl-maria-von-weber/silvana/komparserie"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "carl-maria-von-weber/silvana/krips-rudolphs-knappe"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "carl-maria-von-weber/silvana/krips-rudolphs-knappe"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "carl-maria-von-weber/silvana/kurt-cleeburgs-knappe"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "carl-maria-von-weber/silvana/kurt-cleeburgs-knappe"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "carl-maria-von-weber/silvana/mechthilde-mathilde-seine-tochter"
+      },
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "carl-maria-von-weber/silvana/mechthilde-mathilde-seine-tochter"
+      },
+      {
+        "person_slug": "hannah-hupfauer",
+        "role_slug": "carl-maria-von-weber/silvana/silvana-das-waldmadchen"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "carl-maria-von-weber/silvana/ulrich-ihr-pflegevater"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/8ee96024-b64f-47d4-a396-5c83f6cb6566",
+    "work_slug": "elena-langer/the-lion-s-face",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Oper von Elena Langer",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/the-lions-face/",
+    "creative_team": [
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kai-anne-schuhmacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "linda-tiebel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "elena-langer/the-lion-s-face/doktor"
+      },
+      {
+        "person_slug": "seth-cardillo-tietze",
+        "role_slug": "elena-langer/the-lion-s-face/mr-d-patient"
+      },
+      {
+        "person_slug": "christoph-levermann",
+        "role_slug": "elena-langer/the-lion-s-face/mr-d-patient-2"
+      },
+      {
+        "person_slug": "antigone-papoulkas",
+        "role_slug": "elena-langer/the-lion-s-face/mrs-d-seine-frau"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "elena-langer/the-lion-s-face/pflegerin"
+      },
+      {
+        "person_slug": "sophie-klussmann",
+        "role_slug": "elena-langer/the-lion-s-face/pflegerin"
+      },
+      {
+        "person_slug": "frieda-kirch-kristin-schneidenbach",
+        "role_slug": "elena-langer/the-lion-s-face/puppenbau"
+      },
+      {
+        "person_slug": "marieke-chinow",
+        "role_slug": "elena-langer/the-lion-s-face/puppenbau"
+      },
+      {
+        "person_slug": "jakob-klein-solist-der-dresdner-kapellknaben",
+        "role_slug": "elena-langer/the-lion-s-face/stimme-des-jungen"
+      },
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "elena-langer/the-lion-s-face/tochter-der-pflegerin"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/afa9b6c2-6bb4-4cc7-8232-17053d6fcd1a",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Singspiel von Ralph Benatzky",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/im-weissen-roessl/",
+    "creative_team": [
+      {
+        "person_slug": "karolina-dieter",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "thomas-glaser",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manuel-schobel",
+        "function": "director"
+      },
+      {
+        "person_slug": "marlit-mosler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
+      },
+      {
+        "person_slug": "kay-frenzel",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
+      },
+      {
+        "person_slug": "antje-kahn",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/josepha-vogelhuber"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "greta-hermens",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "tonja-gold",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/leopold-brandmeyer"
+      },
+      {
+        "person_slug": "andreas-sauerzapf",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/leopold-brandmeyer"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ottilie-seine-tochter"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ottilie-seine-tochter"
+      },
+      {
+        "person_slug": "sandra-naleppa",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/piccolo"
+      },
+      {
+        "person_slug": "fred-bonitz",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/prof-dr-hinzelmann"
+      },
+      {
+        "person_slug": "florian-neubauer",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "kay-frenzel",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "marcus-sandmann",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "andreas-pannach",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-giesecke-exzellenz"
+      },
+      {
+        "person_slug": "holger-uwe-thews",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-giesecke-exzellenz"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/cfc2bb21-1911-480b-8ec8-ddc95793e76f",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Singspiel von Ralph Benatzky",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/im-weissen-roessl-2/",
+    "creative_team": [
+      {
+        "person_slug": "karolina-dieter",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manuel-schobel",
+        "function": "director"
+      },
+      {
+        "person_slug": "klaus-peter-fischer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marlit-mosler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "daniele-pilato",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/chordirektor"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
+      },
+      {
+        "person_slug": "eva-reuther",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/horsemaster"
+      },
+      {
+        "person_slug": "inola-link",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/horsemaster"
+      },
+      {
+        "person_slug": "antje-kahn",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/josepha-vogelhuber"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "tonja-gold",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/leopold-brandmeyer"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ottilie-seine-tochter"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ottilie-seine-tochter"
+      },
+      {
+        "person_slug": "sandra-naleppa",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/piccolo"
+      },
+      {
+        "person_slug": "fred-bonitz",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/prof-dr-hinzelmann"
+      },
+      {
+        "person_slug": "florian-neubauer",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "jannik-harneit",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "marcus-sandmann",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
+      },
+      {
+        "person_slug": "andreas-pannach",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-gisecke-exzellenz"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/dea707c7-1741-4ada-aafa-7b9020ca71df",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Romantische Oper von Carl Maria von Weber",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/der-freischuetz/",
+    "creative_team": [
+      {
+        "person_slug": "till-nau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniele-pilato",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "hans-peter-preu",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manuel-schobel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ruth-heynen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anja-furthmann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nanami-chiba",
+        "role_slug": "carl-maria-von-weber/der-freischutz/1-brautjungfer"
+      },
+      {
+        "person_slug": "reuben-scott",
+        "role_slug": "carl-maria-von-weber/der-freischutz/1-jager"
+      },
+      {
+        "person_slug": "aleksandra-chebotar",
+        "role_slug": "carl-maria-von-weber/der-freischutz/2-brautjungfer"
+      },
+      {
+        "person_slug": "stefan-glause",
+        "role_slug": "carl-maria-von-weber/der-freischutz/2-jager"
+      },
+      {
+        "person_slug": "ausra-pruselaityte",
+        "role_slug": "carl-maria-von-weber/der-freischutz/3-brautjungfer"
+      },
+      {
+        "person_slug": "franziska-ernst",
+        "role_slug": "carl-maria-von-weber/der-freischutz/4-brautjungfer"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "maraike-schroter",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "menna-cazel",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
+      },
+      {
+        "person_slug": "holger-kahl",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ein-apokalyptischer-reiter"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "carl-maria-von-weber/der-freischutz/eremit"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "carl-maria-von-weber/der-freischutz/eremit"
+      },
+      {
+        "person_slug": "insu-hwang",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kaspar"
+      },
+      {
+        "person_slug": "johannes-stermann",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kaspar"
+      },
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kaspar"
+      },
+      {
+        "person_slug": "reuben-scott",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kilian"
+      },
+      {
+        "person_slug": "wolf-dieter-goock",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kuno"
+      },
+      {
+        "person_slug": "ido-beit-halachmi",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
+      },
+      {
+        "person_slug": "kay-frenzel",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ottokar"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ottokar"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "carl-maria-von-weber/der-freischutz/samiel"
+      },
+      {
+        "person_slug": "freya-wohlgemuth",
+        "role_slug": "carl-maria-von-weber/der-freischutz/wirtin"
+      },
+      {
+        "person_slug": "lucia-marie-kubowski",
+        "role_slug": "carl-maria-von-weber/der-freischutz/wirtin"
+      }
+    ]
+  }
+]

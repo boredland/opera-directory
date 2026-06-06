@@ -442,6 +442,29 @@
     ]
   },
   {
+    "id": "semperoper-dresden/62703",
+    "work_slug": "john-cranko/onegin",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/onegin-ballett/62703.html",
+    "creative_team": [
+      {
+        "person_slug": "robert-houssart",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "simon-hewett",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "john-cranko",
+        "role_slug": "john-cranko/onegin/choreografie-inszenierung"
+      }
+    ]
+  },
+  {
     "id": "semperoper-dresden/62706",
     "work_slug": "georges-bizet/carmen",
     "house_slug": "semperoper-dresden",

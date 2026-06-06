@@ -74,6 +74,10 @@
       {
         "person_slug": "georg-holzer",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nina-von-mechow",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -84,10 +88,6 @@
       {
         "person_slug": "veronika-loy",
         "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
-      },
-      {
-        "person_slug": "nina-von-mechow",
-        "role_slug": "carl-maria-von-weber/der-freischutz/buhne-kostume"
       },
       {
         "person_slug": "seokjun-kim",
@@ -331,6 +331,10 @@
       {
         "person_slug": "thomas-schlegel",
         "function": "lighting"
+      },
+      {
+        "person_slug": "elisa-limberg",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -353,10 +357,6 @@
       {
         "person_slug": "clarissa-maria-undritz",
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/berta"
-      },
-      {
-        "person_slug": "elisa-limberg",
-        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/buhne-kostume"
       },
       {
         "person_slug": "demian-matushevskyi",
@@ -561,16 +561,16 @@
       {
         "person_slug": "thomas-schlegel",
         "function": "lighting"
+      },
+      {
+        "person_slug": "dietrich-von-grebmer",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "caroline-ottocan",
         "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/arminda"
-      },
-      {
-        "person_slug": "dietrich-von-grebmer",
-        "role_slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe/buhne-kostume"
       },
       {
         "person_slug": "corinna-scheurle",
@@ -727,6 +727,10 @@
       {
         "person_slug": "karl-heinz-kornberger",
         "function": "lighting"
+      },
+      {
+        "person_slug": "okarina-peter-timo-dentler",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -741,10 +745,6 @@
       {
         "person_slug": "veronika-loy",
         "role_slug": "giuseppe-verdi/nabucco/anna-rahel"
-      },
-      {
-        "person_slug": "okarina-peter-timo-dentler",
-        "role_slug": "giuseppe-verdi/nabucco/buhne-und-kostum"
       },
       {
         "person_slug": "qinchuan-lan",
@@ -853,13 +853,13 @@
       {
         "person_slug": "christian-van-loock",
         "function": "lighting"
+      },
+      {
+        "person_slug": "linda-hofmann",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "linda-hofmann",
-        "role_slug": "wiebke-hetmanek/ritter-eisenfra/buhne-kostume"
-      },
       {
         "person_slug": "kellan-dunlap",
         "role_slug": "wiebke-hetmanek/ritter-eisenfra/jacques"

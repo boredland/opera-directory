@@ -1884,7 +1884,12 @@
     "house_slug": "oper-frankfurt",
     "is_revival": false,
     "detail_url": "https://oper-frankfurt.de/de/spielplan/oper-extra/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "katharina-kastening",
+        "function": "director"
+      }
+    ],
     "cast": []
   },
   {

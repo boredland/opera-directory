@@ -1,0 +1,60 @@
+[
+  {
+    "id": "theater-ulm/die-meistersinger-von-nuernberg",
+    "work_slug": "richard-wagner/die-meistersinger-von-nurnberg",
+    "house_slug": "theater-ulm",
+    "is_revival": false,
+    "detail_url": "https://www.theater-ulm.de/spielplan/stuecke/die-meistersinger-von-nuernberg",
+    "creative_team": [
+      {
+        "person_slug": "nikolaus-henseler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-felix-bender",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eva-maria-weber",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kay-metzger",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-christian-katzschmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "felix-goldbeck",
+        "function": "Inspizienz"
+      },
+      {
+        "person_slug": "marcus-denk",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "giovanni-piana",
+        "function": "Musikalische Einstudierung"
+      },
+      {
+        "person_slug": "nikolai-petersen",
+        "function": "Nachdirigat und Studienleitung"
+      },
+      {
+        "person_slug": "laura-pflaum",
+        "function": "Regieassistenz & Abendspielleitung"
+      },
+      {
+        "person_slug": "petra-mollerus",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "uta-gerdum",
+        "function": "Soufflage"
+      }
+    ],
+    "cast": []
+  }
+]

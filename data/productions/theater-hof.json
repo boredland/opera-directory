@@ -1,0 +1,120 @@
+[
+  {
+    "id": "theater-hof/marilyn-forever-twice-through-the-heart",
+    "work_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart",
+    "house_slug": "theater-hof",
+    "is_revival": false,
+    "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/marilyn-forever-/-twice-through-the-heart",
+    "creative_team": [
+      {
+        "person_slug": "michael-falk",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "florian-hackspiel",
+        "function": "director"
+      },
+      {
+        "person_slug": "alena-pardatscher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jurgen-burger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annett-lausberg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "annina-olivia-battaglia",
+        "role_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/marilyn"
+      },
+      {
+        "person_slug": "andrii-chakov",
+        "role_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/rehearsal-director-u-a"
+      },
+      {
+        "person_slug": "markus-gruber",
+        "role_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/the-tritones"
+      }
+    ]
+  },
+  {
+    "id": "theater-hof/romeo-und-julia",
+    "work_slug": "riccardo-zandonai/romeo-und-julia",
+    "house_slug": "theater-hof",
+    "is_revival": false,
+    "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/romeo-und-julia",
+    "creative_team": [
+      {
+        "person_slug": "aylin-kaip",
+        "function": "Bühne, Video & Kostüme"
+      },
+      {
+        "person_slug": "ruben-hawer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "peter-kattermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lothar-krause",
+        "function": "director"
+      },
+      {
+        "person_slug": "alena-pardatscher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "henry-paul-rehberg",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "stefanie-rhaue",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/die-erinnerung"
+      },
+      {
+        "person_slug": "thilo-andersson",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/ein-montecchio-bernabo"
+      },
+      {
+        "person_slug": "micha-rudzinski",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/ein-nachtwachter"
+      },
+      {
+        "person_slug": "annina-olivia-battaglia",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/eine-frau"
+      },
+      {
+        "person_slug": "inga-lisa-lehr",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/giulietta-capuleto"
+      },
+      {
+        "person_slug": "markus-gruber",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/gregorio-ein-capuleto"
+      },
+      {
+        "person_slug": "annina-olivia-battaglia",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/isabella-giuliettas-vertraute"
+      },
+      {
+        "person_slug": "minseok-kim",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/romeo-montecchio"
+      },
+      {
+        "person_slug": "micha-rudzinski",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/sansone-ein-capuleto"
+      },
+      {
+        "person_slug": "andrii-chakov",
+        "role_slug": "riccardo-zandonai/romeo-und-julia/tebaldo-capuleto-giuliettas-cousin"
+      }
+    ]
+  }
+]

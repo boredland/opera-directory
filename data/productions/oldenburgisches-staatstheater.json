@@ -1,0 +1,109 @@
+[
+  {
+    "id": "oldenburgisches-staatstheater/wozzeck",
+    "work_slug": "manfred-gurlitt/wozzeck",
+    "house_slug": "oldenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://staatstheater.de/programm/musiktheater/spielzeit-25/26/wozzeck",
+    "creative_team": [
+      {
+        "person_slug": "vito-cristofaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "georg-heckel",
+        "function": "director"
+      },
+      {
+        "person_slug": "anna-neudert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "steff-flachsenhaar",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "okarina-peter",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "timo-dentler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "seumas-begg",
+        "role_slug": "manfred-gurlitt/wozzeck/andres"
+      },
+      {
+        "person_slug": "johannes-leander-maas",
+        "role_slug": "manfred-gurlitt/wozzeck/doktor"
+      },
+      {
+        "person_slug": "clara-capperucci-charlotte-rabbels",
+        "role_slug": "manfred-gurlitt/wozzeck/ein-madchen"
+      },
+      {
+        "person_slug": "volker-rohnert",
+        "role_slug": "manfred-gurlitt/wozzeck/erster-burger"
+      },
+      {
+        "person_slug": "aksel-daveyan",
+        "role_slug": "manfred-gurlitt/wozzeck/hauptmann"
+      },
+      {
+        "person_slug": "chanhee-cho",
+        "role_slug": "manfred-gurlitt/wozzeck/hauptmann"
+      },
+      {
+        "person_slug": "benjamin-park",
+        "role_slug": "manfred-gurlitt/wozzeck/jude"
+      },
+      {
+        "person_slug": "kinder-und-jugendchor-des-oldenburgischen-staatstheaters",
+        "role_slug": "manfred-gurlitt/wozzeck/kinder-und-jugendchor-des-oldenburgischen-staatstheaters"
+      },
+      {
+        "person_slug": "dorothee-bienert",
+        "role_slug": "manfred-gurlitt/wozzeck/margaret-alte-frau"
+      },
+      {
+        "person_slug": "stephanie-hershaw",
+        "role_slug": "manfred-gurlitt/wozzeck/marie"
+      },
+      {
+        "person_slug": "jakob-heckel-denys-salo",
+        "role_slug": "manfred-gurlitt/wozzeck/maries-kinder"
+      },
+      {
+        "person_slug": "oldenburgisches-staatsorchester",
+        "role_slug": "manfred-gurlitt/wozzeck/oldenburgisches-staatsorchester"
+      },
+      {
+        "person_slug": "opernchor-des-oldenburgischen-staatstheaters",
+        "role_slug": "manfred-gurlitt/wozzeck/opernchor-des-oldenburgischen-staatstheaters"
+      },
+      {
+        "person_slug": "xueli-zhou",
+        "role_slug": "manfred-gurlitt/wozzeck/sopran"
+      },
+      {
+        "person_slug": "paul-plummer",
+        "role_slug": "manfred-gurlitt/wozzeck/studienleitung"
+      },
+      {
+        "person_slug": "ks-paul-brady",
+        "role_slug": "manfred-gurlitt/wozzeck/tambourmajor"
+      },
+      {
+        "person_slug": "arthur-bruce",
+        "role_slug": "manfred-gurlitt/wozzeck/wozzeck"
+      },
+      {
+        "person_slug": "sandro-monti",
+        "role_slug": "manfred-gurlitt/wozzeck/zweiter-burger"
+      }
+    ]
+  }
+]

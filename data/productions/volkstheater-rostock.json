@@ -1,0 +1,54 @@
+[
+  {
+    "id": "volkstheater-rostock/die-fledermaus",
+    "work_slug": "johann-strauss/die-fledermaus",
+    "house_slug": "volkstheater-rostock",
+    "is_revival": false,
+    "detail_url": "https://www.volkstheater-rostock.de/spielplan/monatsplan/musiktheater/die-fledermaus/",
+    "creative_team": [
+      {
+        "person_slug": "keith-chin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "svetlomir-zlatkov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-preu",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ron-zimmering",
+        "function": "director"
+      },
+      {
+        "person_slug": "ute-radler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "volkstheater-rostock/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "volkstheater-rostock",
+    "is_revival": false,
+    "detail_url": "https://www.volkstheater-rostock.de/spielplan/monatsplan/musiktheater/rigoletto/",
+    "creative_team": [
+      {
+        "person_slug": "svetlomir-zlatkov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-poewe",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-horn",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

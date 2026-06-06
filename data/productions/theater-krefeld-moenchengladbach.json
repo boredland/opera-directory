@@ -1,0 +1,385 @@
+[
+  {
+    "id": "theater-krefeld-moenchengladbach/der-bajazzo",
+    "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/der-bajazzo/",
+    "creative_team": [
+      {
+        "person_slug": "michael-preiser",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giovanni-conti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "karine-van-hercke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "francois-de-carpentries",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-aistleitner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "siegfried-e-mayer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/beppo-harlekin"
+      },
+      {
+        "person_slug": "aldo-di-toro",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/canio-bajazzo"
+      },
+      {
+        "person_slug": "sofia-poulopoulou",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/nedda-colombine"
+      },
+      {
+        "person_slug": "sophie-witte",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/nedda-colombine"
+      },
+      {
+        "person_slug": "jeconiah-retulla",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/silvio"
+      },
+      {
+        "person_slug": "rafael-bruck",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/silvio"
+      },
+      {
+        "person_slug": "johannes-schwarsky",
+        "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/tonio-taddeo"
+      }
+    ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/herzog-blaubarts-burg-aerger-in-tahiti/",
+    "creative_team": [
+      {
+        "person_slug": "luca-villa",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "sebastian-engel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "petra-luisa-meyer",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-wendholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulrike-aistleitner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anna-worl",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "wicke-naujoks",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gabriela-kuhn",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/dinah-trouble-in-tahiti"
+      },
+      {
+        "person_slug": "johannes-schwarsky",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/herzog-blaubart-herzog-blaubarts-burg"
+      },
+      {
+        "person_slug": "eva-maria-gunschmann",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/judith-herzog-blaubarts-burg"
+      },
+      {
+        "person_slug": "margarita-vilsone",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/judith-herzog-blaubarts-burg"
+      },
+      {
+        "person_slug": "timothy-sharp",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/sam-trouble-in-tahiti"
+      },
+      {
+        "person_slug": "bettina-schaeffer",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/trio-trouble-in-tahiti"
+      },
+      {
+        "person_slug": "jeanne-jansen",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/trio-trouble-in-tahiti"
+      },
+      {
+        "person_slug": "jeconiah-retulla",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/trio-trouble-in-tahiti"
+      },
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg/trio-trouble-in-tahiti"
+      }
+    ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "luca-villa",
+        "function": "Choreografische Mirtarbeit"
+      },
+      {
+        "person_slug": "michael-preiser",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mihkel-kutson",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "raphaela-rose",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dennis-krau",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-aistleitner",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-peter",
+        "role_slug": "giacomo-puccini/la-boheme/alcindor"
+      },
+      {
+        "person_slug": "hayk-deinyan",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "matthias-wippich",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "rafael-bruck",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "sofia-poulopoulou",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "sophie-witte",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "markus-heinrich",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "woongyi-lee",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "jeconiah-retulla",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "bondo-gogia",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant"
+      },
+      {
+        "person_slug": "chanyang-choi",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant"
+      }
+    ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/la-traviata/",
+    "creative_team": [
+      {
+        "person_slug": "michael-preiser",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mihkel-kutson",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tatjana-ivschina",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michiel-dijkema",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-wendholz",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "woongyi-lee",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "lisa-kaltenmeier-kahraman",
+        "role_slug": "giuseppe-verdi/la-traviata/annina-violettas-dienerin"
+      },
+      {
+        "person_slug": "jeconiah-retulla",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "rafael-bruck",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "matthias-wippich",
+        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
+      },
+      {
+        "person_slug": "bettina-schaeffer",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "eva-maria-gunschmann",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "giuseppe-verdi/la-traviata/gaston-vicomte-von-letorieres"
+      },
+      {
+        "person_slug": "johannes-schwarsky",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont-sein-vater"
+      },
+      {
+        "person_slug": "gereon-grundmann",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
+      },
+      {
+        "person_slug": "hayk-deinyan",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
+      },
+      {
+        "person_slug": "sofia-poulopoulou",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/romeo-und-julia",
+    "work_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/romeo-und-julia/",
+    "creative_team": [
+      {
+        "person_slug": "michael-preiser",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mihkel-kutson",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marie-luise-otto",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-e-inger",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-wendholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "benita-roth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hayk-deinyan",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/capulet"
+      },
+      {
+        "person_slug": "chanyang-choi",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/der-herzog-von-verona"
+      },
+      {
+        "person_slug": "matthias-wippich",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/frere-laurent"
+      },
+      {
+        "person_slug": "eva-maria-gunschmann",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/gertrude"
+      },
+      {
+        "person_slug": "gereon-grundmann",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/gregorio"
+      },
+      {
+        "person_slug": "sophie-witte",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/juliette"
+      },
+      {
+        "person_slug": "jeconiah-retulla",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/mercutio"
+      },
+      {
+        "person_slug": "rafael-bruck",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/paris"
+      },
+      {
+        "person_slug": "bryan-lopez-gonzalez",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/romeo-montaigu"
+      },
+      {
+        "person_slug": "bettina-schaeffer",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/stephano"
+      },
+      {
+        "person_slug": "susanne-seefing",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/stephano"
+      },
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "charles-gounod/romeo-und-julia-romeo-et-juliette/tybalt"
+      }
+    ]
+  }
+]

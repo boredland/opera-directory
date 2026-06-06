@@ -258,6 +258,10 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "dmitri-tcherniakov",
+        "function": "director"
+      },
+      {
         "person_slug": "gleb-filshtinsky",
         "function": "lighting"
       }
@@ -278,10 +282,6 @@
       {
         "person_slug": "vladislav-sulimsky",
         "role_slug": "nikolai-rimski-korsakow/die-zarenbraut/grjasnoj"
-      },
-      {
-        "person_slug": "dmitri-tcherniakov",
-        "role_slug": "nikolai-rimski-korsakow/die-zarenbraut/inszenierung-buhne"
       },
       {
         "person_slug": "aigul-akhmetshina",
@@ -1062,16 +1062,16 @@
       {
         "person_slug": "eike-gramss",
         "function": "director"
+      },
+      {
+        "person_slug": "peter-sykora",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "stefan-pop",
         "role_slug": "giacomo-puccini/madama-butterfly/benjamin-franklin-pinkerton"
-      },
-      {
-        "person_slug": "peter-sykora",
-        "role_slug": "giacomo-puccini/madama-butterfly/buhne-kostume"
       },
       {
         "person_slug": "gerhard-polifka",
@@ -1316,16 +1316,16 @@
       {
         "person_slug": "ruth-berghaus",
         "function": "director"
+      },
+      {
+        "person_slug": "hartmut-meyer",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "david-ostrek",
         "role_slug": "claude-debussy/pelleas-et-melisande/arzt-hirte"
-      },
-      {
-        "person_slug": "hartmut-meyer",
-        "role_slug": "claude-debussy/pelleas-et-melisande/buhne-kostume"
       },
       {
         "person_slug": "dani-juris",
@@ -1442,13 +1442,13 @@
       {
         "person_slug": "stefan-bolliger",
         "function": "lighting"
+      },
+      {
+        "person_slug": "reinhard-von-der-thannen",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "reinhard-von-der-thannen",
-        "role_slug": "richard-strauss/salome/buhne-kostume"
-      },
       {
         "person_slug": "stephan-rugamer",
         "role_slug": "richard-strauss/salome/herodes"
@@ -1669,16 +1669,16 @@
       {
         "person_slug": "gleb-filshtinsky",
         "function": "lighting"
+      },
+      {
+        "person_slug": "kristine-jurjane",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "arttu-kataja",
         "role_slug": "giacomo-puccini/tosca/angelotti"
-      },
-      {
-        "person_slug": "kristine-jurjane",
-        "role_slug": "giacomo-puccini/tosca/buhne-kostume"
       },
       {
         "person_slug": "benjamin-bernheim",

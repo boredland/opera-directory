@@ -2329,16 +2329,16 @@
       {
         "person_slug": "giancarlo-del-monaco",
         "function": "director"
+      },
+      {
+        "person_slug": "michael-scott",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "aleksei-isaev",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
-      },
-      {
-        "person_slug": "michael-scott",
-        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/ausstattung"
       },
       {
         "person_slug": "gregory-kunde",
@@ -3449,11 +3449,11 @@
         "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
       },
       {
-        "person_slug": "mariana-poltorak",
+        "person_slug": "malgorzata-bak",
         "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
       },
       {
-        "person_slug": "milena-juhl",
+        "person_slug": "mariana-poltorak",
         "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
       },
       {
@@ -4459,14 +4459,13 @@
       {
         "person_slug": "daniella-strasfogel",
         "function": "director"
-      }
-    ],
-    "cast": [
+      },
       {
         "person_slug": "lisa-futterer",
-        "role_slug": "ebbe-und-flut/ausstattung"
+        "function": "set-designer"
       }
-    ]
+    ],
+    "cast": []
   },
   {
     "id": "staatsoper-hamburg/oper-3142-lab-alle-an-deck",
@@ -5232,6 +5231,10 @@
         "function": "chorus-master"
       },
       {
+        "person_slug": "daniele-squeo",
+        "function": "conductor"
+      },
+      {
         "person_slug": "kirsten-dephoff",
         "function": "costume-designer"
       },
@@ -5260,10 +5263,6 @@
       {
         "person_slug": "aebh-kelly",
         "role_slug": "gaetano-donizetti/lucia-di-lammermoor/alisa"
-      },
-      {
-        "person_slug": "daniele-squeo",
-        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/dirigat"
       },
       {
         "person_slug": "colin-aikins",
@@ -5316,6 +5315,14 @@
       },
       {
         "person_slug": "falko-herold",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "falko-herold",
         "function": "video-designer"
       },
       {
@@ -5324,14 +5331,6 @@
       }
     ],
     "cast": [
-      {
-        "person_slug": "falko-herold",
-        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/ausstattung"
-      },
-      {
-        "person_slug": "patrick-bannwart",
-        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/ausstattung"
-      },
       {
         "person_slug": "dovlet-nurgel-shy-diyev",
         "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/belmonte"

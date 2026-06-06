@@ -9,11 +9,20 @@
     "cast": []
   },
   {
+    "id": "oper-halle/cafe-international",
+    "work_slug": "cafe-international",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/cafe-international/256432",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/handel-lounge",
     "work_slug": "handel-lounge",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276982",
+    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276984",
     "creative_team": [],
     "cast": []
   },
@@ -67,7 +76,7 @@
     "work_slug": "georg-friedrich-handel/rinaldo",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/rinaldo/248709",
+    "detail_url": "https://www.buehnen-halle.de/de/program/rinaldo/248710",
     "creative_team": [],
     "cast": []
   },

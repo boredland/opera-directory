@@ -490,6 +490,10 @@
     "detail_url": "https://www.staatstheater-regensburg.de/produktionen/krl-roger.html",
     "creative_team": [
       {
+        "person_slug": "lucia-birzer",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "gmd-stefan-veselka",
         "function": "conductor"
       },
@@ -502,11 +506,44 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "wanja-ostrower",
+        "function": "lighting"
+      },
+      {
         "person_slug": "kristopher-kempf",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "roger-krebs",
+        "role_slug": "karol-szymanowski/krol-roger-rea/der-erzbischof"
+      },
+      {
+        "person_slug": "martin-enger-holm",
+        "role_slug": "karol-szymanowski/krol-roger-rea/der-hirte"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "karol-szymanowski/krol-roger-rea/diakonissin"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "karol-szymanowski/krol-roger-rea/edrisi-tenor-solo"
+      },
+      {
+        "person_slug": "seymur-karimov",
+        "role_slug": "karol-szymanowski/krol-roger-rea/roger-ii"
+      },
+      {
+        "person_slug": "theodora-varga",
+        "role_slug": "karol-szymanowski/krol-roger-rea/roxane"
+      },
+      {
+        "person_slug": "julia-zhukovska",
+        "role_slug": "karol-szymanowski/krol-roger-rea/solo-sopran"
+      }
+    ]
   },
   {
     "id": "staatstheater-regensburg/lempicka",

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "theater-heidelberg/12447-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "theater-heidelberg",
+    "is_revival": false,
+    "detail_url": "https://www.theaterheidelberg.de/de/produktionen/12447-carmen",
+    "creative_team": [
+      {
+        "person_slug": "florian-daniel",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "dietger-holm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dietger-holm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "junyoung-kim",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anja-kuhnhold",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-schumann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-rehfeld",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anna-sophia-blersch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marie-paul",
+        "role_slug": "georges-bizet/carmen/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "zlata-khershberg-reith",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "jaesung-kim",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "ipca-ramanovic",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "theresa-immerz",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "katharina-von-zadow",
+        "role_slug": "georges-bizet/carmen/inspizienz"
+      },
+      {
+        "person_slug": "lena-eibl",
+        "role_slug": "georges-bizet/carmen/kostumassistenz"
+      },
+      {
+        "person_slug": "james-young",
+        "role_slug": "georges-bizet/carmen/le-dancaire-morales"
+      },
+      {
+        "person_slug": "joao-terleira",
+        "role_slug": "georges-bizet/carmen/le-remendado"
+      },
+      {
+        "person_slug": "sophie-melbinger",
+        "role_slug": "georges-bizet/carmen/manuelita"
+      },
+      {
+        "person_slug": "amber-fasquelle",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "indre-pelakauskaite",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "junyoung-kim-nanami-yamane-manon-parmentier-hanna-klose",
+        "role_slug": "georges-bizet/carmen/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "georg-zahn",
+        "role_slug": "georges-bizet/carmen/regieassistenz"
+      },
+      {
+        "person_slug": "manon-parmentier",
+        "role_slug": "georges-bizet/carmen/sprachcoaching"
+      },
+      {
+        "person_slug": "hanna-klose",
+        "role_slug": "georges-bizet/carmen/studienleitung"
+      },
+      {
+        "person_slug": "xiangnan-yao",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "theater-heidelberg/17285-der-rosenkavalier",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "theater-heidelberg",
+    "is_revival": false,
+    "detail_url": "https://www.theaterheidelberg.de/de/produktionen/17285-der-rosenkavalier",
+    "creative_team": [
+      {
+        "person_slug": "florian-daniel",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mino-marani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mino-marani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "britta-leonhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-schwalbach",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-schumann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ralf-kabrhel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anne-neuser",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "zlata-khershberg-reith",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "elena-schiebel",
+        "role_slug": "richard-strauss/der-rosenkavalier/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "lisa-valero-ribes",
+        "role_slug": "richard-strauss/der-rosenkavalier/buhnenbildhospitanz"
+      },
+      {
+        "person_slug": "ks-wilfried-staber",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "signe-heiberg",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin-furstin-werdenberg"
+      },
+      {
+        "person_slug": "florian-daniel",
+        "role_slug": "richard-strauss/der-rosenkavalier/dirigat-und-neuorchestrierung-buhnenmusik"
+      },
+      {
+        "person_slug": "johanna-podkowa",
+        "role_slug": "richard-strauss/der-rosenkavalier/dramaturgiehospitanz"
+      },
+      {
+        "person_slug": "barbara-dorothea-link",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "manuela-sonntag",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "nelly-palmer",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "nora-kazemieh",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "sophia-damaris",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "ulrike-machill",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adlige-waisen"
+      },
+      {
+        "person_slug": "susanne-schyns",
+        "role_slug": "richard-strauss/der-rosenkavalier/faktotum-im-hause-werdenberg"
+      },
+      {
+        "person_slug": "gergely-nemeti",
+        "role_slug": "richard-strauss/der-rosenkavalier/haushofmeister-bei-der-marschallin-haushofmeister-bei-faninal"
+      },
+      {
+        "person_slug": "james-young",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "katharina-von-zadow",
+        "role_slug": "richard-strauss/der-rosenkavalier/inspizienz"
+      },
+      {
+        "person_slug": "indre-pelakauskaite",
+        "role_slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin-modistin"
+      },
+      {
+        "person_slug": "hannah-schafer",
+        "role_slug": "richard-strauss/der-rosenkavalier/kostumassistenz"
+      },
+      {
+        "person_slug": "chen-hsuan-wu",
+        "role_slug": "richard-strauss/der-rosenkavalier/kostumhospitanz"
+      },
+      {
+        "person_slug": "anselm-staber",
+        "role_slug": "richard-strauss/der-rosenkavalier/leopold"
+      },
+      {
+        "person_slug": "emilia-staber",
+        "role_slug": "richard-strauss/der-rosenkavalier/leopold"
+      },
+      {
+        "person_slug": "hanna-klose-junyoung-kim-manon-parmentier-nanami-yamane-paul-breyer",
+        "role_slug": "richard-strauss/der-rosenkavalier/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "thando-zwane",
+        "role_slug": "richard-strauss/der-rosenkavalier/notar-polizeikommissar"
+      },
+      {
+        "person_slug": "amber-fasquelle",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian-genannt-quinquin"
+      },
+      {
+        "person_slug": "leonie-kristin-brauns",
+        "role_slug": "richard-strauss/der-rosenkavalier/regieassistenz"
+      },
+      {
+        "person_slug": "maurice-bohlke",
+        "role_slug": "richard-strauss/der-rosenkavalier/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "ricky-rosch",
+        "role_slug": "richard-strauss/der-rosenkavalier/regiehospitanz"
+      },
+      {
+        "person_slug": "jaesung-kim",
+        "role_slug": "richard-strauss/der-rosenkavalier/sanger"
+      },
+      {
+        "person_slug": "theresa-immerz",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie-seine-tochter"
+      },
+      {
+        "person_slug": "hanna-klose-nanami-yamane",
+        "role_slug": "richard-strauss/der-rosenkavalier/studienleitung"
+      },
+      {
+        "person_slug": "adrien-mechler",
+        "role_slug": "richard-strauss/der-rosenkavalier/tierhandler"
+      },
+      {
+        "person_slug": "santiago-burgi",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      },
+      {
+        "person_slug": "benjamin-choi",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "sang-hoon-lee",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "woo-kyung-shin",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "xiangnan-yao",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "ks-winfrid-mikus",
+        "role_slug": "richard-strauss/der-rosenkavalier/wirt"
+      }
+    ]
+  },
+  {
+    "id": "theater-heidelberg/17286-cos-fan-tutte",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "theater-heidelberg",
+    "is_revival": false,
+    "detail_url": "https://www.theaterheidelberg.de/de/produktionen/17286-cos-fan-tutte",
+    "creative_team": [
+      {
+        "person_slug": "florian-daniel",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "clemens-flick",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "clemens-flick",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "magdalena-fuchsberger",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-schumann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ralph-schanz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "monika-biegler",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "christian-wei-enberger",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chantal-navina-mathes-djamilja-brandt",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "theresa-immerz",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "james-young",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "amber-fasquelle",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "joao-terleira",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "indre-pelakauskaite",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "luvuyo-mbundu",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      },
+      {
+        "person_slug": "georg-zahn",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/inspizienz"
+      },
+      {
+        "person_slug": "lilli-maya-farber",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/kostumassistenz"
+      },
+      {
+        "person_slug": "annika-morcinczyk",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/kostumhospitanz"
+      },
+      {
+        "person_slug": "junyoung-kim-manon-parmentier-nanami-yamane-paul-breyer-sebastian-camano-saavedra",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "annabelle-ruth",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musiktheaterpadagogik"
+      },
+      {
+        "person_slug": "maurice-bohlke",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/regieassistenz"
+      },
+      {
+        "person_slug": "nanami-yamane",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/studienleitung"
+      }
+    ]
+  }
+]

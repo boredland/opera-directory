@@ -1,0 +1,650 @@
+[
+  {
+    "id": "theater-kiel/alcina/2027-05-08/19:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-05-08",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-05-14/19:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-05-14",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-05-22/19:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-05-22",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-05-29/19:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-05-29",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-06-06/18:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-06-06",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-06-10/19:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-06-10",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/alcina/2027-06-13/18:00",
+    "production_id": "theater-kiel/alcina",
+    "date": "2027-06-13",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/atman/2026-10-04/11:00",
+    "production_id": "theater-kiel/atman",
+    "date": "2026-10-04",
+    "time": "11:00",
+    "venue_room": "Kabinett Schloss",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/babbel/2027-04-18/13:00",
+    "production_id": "theater-kiel/babbel",
+    "date": "2027-04-18",
+    "time": "13:00",
+    "venue_room": "1. Foyer Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/don-pasquale/2026-07-10/19:00",
+    "production_id": "theater-kiel/don-pasquale",
+    "date": "2026-07-10",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-07-04/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-07-08/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-07-08",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-07-12/18:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-07-12",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-09-20/18:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-10-02/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-10-02",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-10-10/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-10-10",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-10-17/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-10-17",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-10-30/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-10-30",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2026-11-22/16:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2026-11-22",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2027-01-07/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2027-01-07",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/idomeneo/2027-02-27/19:00",
+    "production_id": "theater-kiel/idomeneo",
+    "date": "2027-02-27",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-forza-del-destino/2026-06-06/19:00",
+    "production_id": "theater-kiel/la-forza-del-destino",
+    "date": "2026-06-06",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-forza-del-destino/2026-07-05/18:00",
+    "production_id": "theater-kiel/la-forza-del-destino",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-forza-del-destino/2026-07-09/19:00",
+    "production_id": "theater-kiel/la-forza-del-destino",
+    "date": "2026-07-09",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-01-30/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-01-30",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-02-05/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-02-05",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-02-20/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-02-20",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-03-20/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-03-20",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-03-28/18:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-03-28",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-04-04/18:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-04-04",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-04-17/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-04-17",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-04-25/16:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-04-25",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-05-12/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-05-12",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/la-traviata/2027-06-04/19:00",
+    "production_id": "theater-kiel/la-traviata",
+    "date": "2027-06-04",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/lelisir-damore/2026-06-07/18:00",
+    "production_id": "theater-kiel/lelisir-damore",
+    "date": "2026-06-07",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/lelisir-damore/2026-06-13/19:00",
+    "production_id": "theater-kiel/lelisir-damore",
+    "date": "2026-06-13",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/les-contes-dhoffmann-2/2027-06-05/19:00",
+    "production_id": "theater-kiel/les-contes-dhoffmann-2",
+    "date": "2027-06-05",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/les-contes-dhoffmann-2/2027-06-09/19:00",
+    "production_id": "theater-kiel/les-contes-dhoffmann-2",
+    "date": "2027-06-09",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/les-contes-dhoffmann-2/2027-06-12/19:00",
+    "production_id": "theater-kiel/les-contes-dhoffmann-2",
+    "date": "2027-06-12",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-11-21/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-11-21",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-11-29/18:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-11-29",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-12-10/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-12-10",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-12-18/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-12-18",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-12-26/18:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-12-26",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-12-31/15:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-12-31",
+    "time": "15:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2026-12-31/20:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2026-12-31",
+    "time": "20:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-01-09/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-01-09",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-01-16/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-01-16",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-01-23/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-01-23",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-01-31/16:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-01-31",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-02-03/19:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-02-03",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-02-21/18:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-02-21",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/maerchen-im-grand-hotel/2027-02-28/18:00",
+    "production_id": "theater-kiel/maerchen-im-grand-hotel",
+    "date": "2027-02-28",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-03/18:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-03",
+    "time": "18:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-04/16:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-04",
+    "time": "16:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-06/11:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-06",
+    "time": "11:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-06/18:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-06",
+    "time": "18:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-07/11:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-07",
+    "time": "11:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-09/18:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-09",
+    "time": "18:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-10/16:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-10",
+    "time": "16:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-11/11:30",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-11",
+    "time": "11:30",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/schaf/2027-04-13/11:00",
+    "production_id": "theater-kiel/schaf",
+    "date": "2027-04-13",
+    "time": "11:00",
+    "venue_room": "Theater im Werftpark",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-09-19/18:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-09-19",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-09-30/18:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-09-30",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-10-04/16:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-10-04",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-10-18/17:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-10-18",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-10-29/18:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-10-29",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2026-11-08/17:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2026-11-08",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2027-03-06/18:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2027-03-06",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/tannhaeuser/2027-03-26/17:00",
+    "production_id": "theater-kiel/tannhaeuser",
+    "date": "2027-03-26",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-03-13/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-03-13",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-03-17/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-03-17",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-04-16/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-04-16",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-04-24/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-04-24",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-05-02/18:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-05-02",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-05-13/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-05-13",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-05-23/16:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-05-23",
+    "time": "16:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-handmaids-tale/2027-06-11/19:00",
+    "production_id": "theater-kiel/the-handmaids-tale",
+    "date": "2027-06-11",
+    "time": "19:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-return-of-the-big-sabrowski/2027-03-27/18:00",
+    "production_id": "theater-kiel/the-return-of-the-big-sabrowski",
+    "date": "2027-03-27",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-return-of-the-big-sabrowski/2027-04-11/18:00",
+    "production_id": "theater-kiel/the-return-of-the-big-sabrowski",
+    "date": "2027-04-11",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/the-return-of-the-big-sabrowski/2027-05-06/17:00",
+    "production_id": "theater-kiel/the-return-of-the-big-sabrowski",
+    "date": "2027-05-06",
+    "time": "17:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "stadttheater-bremerhaven/die-verkaufte-braut",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/die-verkaufte-braut/",
+    "creative_team": [
+      {
+        "person_slug": "anna-kreinecker",
+        "function": "BÜHNE &"
+      },
+      {
+        "person_slug": "davide-perniceni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-kranner",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-bremerhaven/gold",
+    "work_slug": "leonard-evers/gold",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/repertoire-2026/gold/",
+    "creative_team": [
+      {
+        "person_slug": "annika-ellen-flindt",
+        "function": "director"
+      },
+      {
+        "person_slug": "boshana-milkov",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jorrit-van-den-ham",
+        "function": "MUSIKALISCHE EINSTUDIERUNG"
+      },
+      {
+        "person_slug": "hartmut-brusch",
+        "function": "PRODUKTIONSASSISTENZ & FSJ KULTUR"
+      },
+      {
+        "person_slug": "bianca-sue-henne",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "steven-wind",
+        "function": "THEATERPÄDAGOGIK"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-bremerhaven/luisa-miller",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/luisa-miller/",
+    "creative_team": [
+      {
+        "person_slug": "marco-comin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tassilo-tesche",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-westerbarkei",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-tatzig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "schirin-badafaras",
+        "function": "THEATERPÄDAGOGIK"
+      }
+    ],
+    "cast": []
+  }
+]

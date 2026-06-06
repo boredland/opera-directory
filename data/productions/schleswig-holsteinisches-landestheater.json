@@ -1,0 +1,323 @@
+[
+  {
+    "id": "schleswig-holsteinisches-landestheater/ball-im-savoy",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/ball-im-savoy.html",
+    "creative_team": [
+      {
+        "person_slug": "till-nau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "avishay-shalom",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "harish-shankar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "edison-vigil",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanne-von-tobien",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lukas-pirmin-wassmann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "paul-abraham/ball-im-savoy/archibald-pomerol"
+      },
+      {
+        "person_slug": "christian-alexander-muller",
+        "role_slug": "paul-abraham/ball-im-savoy/aristide-de-faublas"
+      },
+      {
+        "person_slug": "jele-flugge",
+        "role_slug": "paul-abraham/ball-im-savoy/celestin-formant"
+      },
+      {
+        "person_slug": "kara-kemeny",
+        "role_slug": "paul-abraham/ball-im-savoy/daisy-parker"
+      },
+      {
+        "person_slug": "itziar-lesaka",
+        "role_slug": "paul-abraham/ball-im-savoy/la-tangolita"
+      },
+      {
+        "person_slug": "ma-gorzata-roc-awska",
+        "role_slug": "paul-abraham/ball-im-savoy/madeleine-de-faublas"
+      },
+      {
+        "person_slug": "timo-hannig",
+        "role_slug": "paul-abraham/ball-im-savoy/mustapha-bei"
+      }
+    ]
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/der-freischuetz",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/der-freischuetz.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-stessin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sergi-roca-bru",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanne-von-tobien",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "birte-wallbaum",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/dialogues-des-carmlites",
+    "work_slug": "francis-poulenc/dialogues-des-carmelites",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/dialogues-des-carmlites.html",
+    "creative_team": [
+      {
+        "person_slug": "avishay-shalom",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "harish-shankar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ariane-isabell-unfried",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "hendrik-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "rifail-ajdarpasic",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marysol-schalit",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/blanche-seine-tochter"
+      },
+      {
+        "person_slug": "christian-alexander-muller",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/der-beichtvater-des-karmel"
+      },
+      {
+        "person_slug": "dritan-angoni",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/der-chevalier-sein-sohn"
+      },
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/der-marquis-de-la-force"
+      },
+      {
+        "person_slug": "itziar-lesaka",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/madame-de-croissy-priorin"
+      },
+      {
+        "person_slug": "menna-cazel",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/madame-lidoine-neue-priorin"
+      },
+      {
+        "person_slug": "anna-grycan",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/mutter-jeanne"
+      },
+      {
+        "person_slug": "vera-semieniuk",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/mutter-marie-novizenmeisterin"
+      },
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/offizier-kerkermeister-thierry-m-javelinot"
+      },
+      {
+        "person_slug": "anna-avdalyan",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/schwester-constance-novizin"
+      },
+      {
+        "person_slug": "anna-stepanets",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/schwester-mathilde"
+      },
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "francis-poulenc/dialogues-des-carmelites/zwei-kommissare"
+      }
+    ]
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein",
+    "work_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/die-grossherzogin-von-gerolstein.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-stessin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sergi-roca-bru",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ariane-isabell-unfried",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "hendrik-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "rifail-ajdarpasic",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/die-piraten-von-penzance",
+    "work_slug": "arthur-sullivan/die-piraten-von-penzance",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/die-piraten-von-penzance.html",
+    "creative_team": [
+      {
+        "person_slug": "avishay-shalom",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "matthias-kitter",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "birte-wallbaum",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/der-piratenkonig"
+      },
+      {
+        "person_slug": "anna-stepanets",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/edith"
+      },
+      {
+        "person_slug": "dritan-angoni",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/frederic"
+      },
+      {
+        "person_slug": "philipp-franke",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/generalmajor-stanley"
+      },
+      {
+        "person_slug": "anna-grycan",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/kate"
+      },
+      {
+        "person_slug": "anna-avdalyan",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/mabel"
+      },
+      {
+        "person_slug": "itziar-lesaka",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/ruth"
+      },
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "arthur-sullivan/die-piraten-von-penzance/samuel"
+      }
+    ]
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/jenfa",
+    "work_slug": "leos-janacek/jenufa",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/jenfa.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-stessin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "harish-shankar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hendrik-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/la-bohme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "schleswig-holsteinisches-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.sh-landestheater.de/produktionen/la-bohme.html",
+    "creative_team": [
+      {
+        "person_slug": "alexander-stessin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "harish-shankar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maximilian-eisenacher",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  }
+]

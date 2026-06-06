@@ -1044,16 +1044,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "bogdan-talos",
@@ -1119,16 +1119,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "bogdan-talos",
@@ -1194,16 +1194,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "beniamin-pop",
@@ -1269,16 +1269,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "bogdan-talos",
@@ -1344,16 +1344,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "beniamin-pop",
@@ -1419,16 +1419,16 @@
       {
         "person_slug": "volker-weinhart",
         "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-schutz",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "johannes-schutz",
-        "role_slug": "giuseppe-verdi/il-trovatore/buhne-und-kostum"
       },
       {
         "person_slug": "bogdan-talos",
@@ -2631,6 +2631,10 @@
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/orgelpassion/2606/",
     "creative_team": [
       {
+        "person_slug": "bronwen-curry",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "glen-tetley",
         "function": "choreographer"
       },
@@ -2695,10 +2699,6 @@
       {
         "person_slug": "curt-allen-wilmer",
         "role_slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion/buhne-mit-estudiodedos"
-      },
-      {
-        "person_slug": "bronwen-curry",
-        "role_slug": "stina-quagebeur-glen-tetley-goyo-montero/orgelpassion/choreographische-einstudierung"
       },
       {
         "person_slug": "joao-miranda",
@@ -2776,6 +2776,14 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "benjamin-pope",
         "function": "conductor"
       },
@@ -2816,14 +2824,6 @@
       {
         "person_slug": "martin-yates",
         "role_slug": "signaturen/arrangement"
-      },
-      {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
       },
       {
         "person_slug": "alina-bercu",
@@ -2863,6 +2863,14 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "benjamin-pope",
         "function": "conductor"
       },
@@ -2903,14 +2911,6 @@
       {
         "person_slug": "martin-yates",
         "role_slug": "signaturen/arrangement"
-      },
-      {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
       },
       {
         "person_slug": "alina-bercu",
@@ -2950,6 +2950,14 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "benjamin-pope",
         "function": "conductor"
       },
@@ -2992,14 +3000,6 @@
         "role_slug": "signaturen/arrangement"
       },
       {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
         "person_slug": "alina-bercu",
         "role_slug": "signaturen/klavier"
       },
@@ -3034,6 +3034,14 @@
       },
       {
         "person_slug": "hans-van-manen",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
         "function": "choreographer"
       },
       {
@@ -3079,14 +3087,6 @@
         "role_slug": "signaturen/arrangement"
       },
       {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
         "person_slug": "alina-bercu",
         "role_slug": "signaturen/klavier"
       },
@@ -3121,6 +3121,14 @@
       },
       {
         "person_slug": "hans-van-manen",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
         "function": "choreographer"
       },
       {
@@ -3164,14 +3172,6 @@
       {
         "person_slug": "martin-yates",
         "role_slug": "signaturen/arrangement"
-      },
-      {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
       },
       {
         "person_slug": "alina-bercu",
@@ -3211,6 +3211,14 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "rachel-beaujean",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-gladstone",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "benjamin-pope",
         "function": "conductor"
       },
@@ -3251,14 +3259,6 @@
       {
         "person_slug": "martin-yates",
         "role_slug": "signaturen/arrangement"
-      },
-      {
-        "person_slug": "rachel-beaujean",
-        "role_slug": "signaturen/choreographische-einstudierung"
-      },
-      {
-        "person_slug": "rebecca-gladstone",
-        "role_slug": "signaturen/choreographische-einstudierung"
       },
       {
         "person_slug": "alina-bercu",
@@ -3351,13 +3351,13 @@
       {
         "person_slug": "juliane-schunke",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "marc-weeger",
-        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/ausstattung"
-      },
       {
         "person_slug": "tausendfu-lerin",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/besetzung"
@@ -3369,6 +3369,10 @@
       {
         "person_slug": "heili-schwarz-schutte",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/libretto-dramaturgie"
+      },
+      {
+        "person_slug": "jason-tran",
+        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/pianist"
       },
       {
         "person_slug": "kim-holtappels",
@@ -3398,13 +3402,13 @@
       {
         "person_slug": "juliane-schunke",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "marc-weeger",
-        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/ausstattung"
-      },
       {
         "person_slug": "tausendfu-lerin",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/besetzung"
@@ -3416,6 +3420,10 @@
       {
         "person_slug": "heili-schwarz-schutte",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/libretto-dramaturgie"
+      },
+      {
+        "person_slug": "jason-tran",
+        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/pianist"
       },
       {
         "person_slug": "kim-holtappels",
@@ -3445,13 +3453,13 @@
       {
         "person_slug": "juliane-schunke",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "marc-weeger",
-        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/ausstattung"
-      },
       {
         "person_slug": "tausendfu-lerin",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/besetzung"
@@ -3492,13 +3500,13 @@
       {
         "person_slug": "juliane-schunke",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "marc-weeger",
-        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/ausstattung"
-      },
       {
         "person_slug": "tausendfu-lerin",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/besetzung"
@@ -3539,13 +3547,13 @@
       {
         "person_slug": "juliane-schunke",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "marc-weeger",
-        "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/ausstattung"
-      },
       {
         "person_slug": "tausendfu-lerin",
         "role_slug": "tom-smith-heili-schwarz-schutte/so-oder-so-oder-so/besetzung"
@@ -4095,13 +4103,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4142,13 +4150,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4189,13 +4197,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4236,13 +4244,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4283,13 +4291,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4330,13 +4338,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4377,13 +4385,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"
@@ -4424,13 +4432,13 @@
       {
         "person_slug": "katie-campbell",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "margarete-albinger",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "margarete-albinger",
-        "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/ausstattung"
-      },
       {
         "person_slug": "felicia-brembeck",
         "role_slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang"

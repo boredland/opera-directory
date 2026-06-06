@@ -49,10 +49,6 @@
         "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solist"
       },
       {
-        "person_slug": "da-yung-cho",
-        "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
-      },
-      {
         "person_slug": "friederike-meinke",
         "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
       },
@@ -63,6 +59,160 @@
       {
         "person_slug": "nora-lentner",
         "role_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest/solistin"
+      }
+    ]
+  },
+  {
+    "id": "oper-leipzig/babykonzert-musikalische-komodie-15",
+    "work_slug": "babykonzert-musikalische-komodie",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/babykonzert-musikalische-komodie/15",
+    "creative_team": [
+      {
+        "person_slug": "christoph-johannes-eichhorn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-range",
+        "role_slug": "babykonzert-musikalische-komodie/krokodil-konrad"
+      },
+      {
+        "person_slug": "isa-maria-hupe",
+        "role_slug": "babykonzert-musikalische-komodie/krokodil-konrad"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "babykonzert-musikalische-komodie/orchester"
+      }
+    ]
+  },
+  {
+    "id": "oper-leipzig/carmen-44",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/carmen/44",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-leipzig",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "friedrich-praetorius",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matthias-foremny",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lindy-hume",
+        "function": "director"
+      },
+      {
+        "person_slug": "nele-winter",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "matthew-marshall",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dan-potra",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maya-gour",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "dominic-gro-e",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "frieder-flesch",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "irakli-kakhidze",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "leonardo-caimi",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "sophie-bauer",
+        "role_slug": "georges-bizet/carmen/einstudierung-kinderchor"
+      },
+      {
+        "person_slug": "byung-gil-kim",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "samantha-gaul",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "jochen-schmidtke",
+        "role_slug": "georges-bizet/carmen/kampf-choreografie"
+      },
+      {
+        "person_slug": "alexander-range",
+        "role_slug": "georges-bizet/carmen/lillas-pastia"
+      },
+      {
+        "person_slug": "gabriele-kupsyte",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "olena-tokar",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "solen-mainguene",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "elie-valdenaire",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "frieder-flesch",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "georges-bizet/carmen/orchester"
+      },
+      {
+        "person_slug": "dan-karlstrom",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "einar-dagur-jonsson",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "randall-jakobsh",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      },
+      {
+        "person_slug": "sejong-chang",
+        "role_slug": "georges-bizet/carmen/zuniga"
       }
     ]
   },
@@ -300,6 +450,10 @@
       },
       {
         "person_slug": "da-yung-cho",
+        "role_slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl/klarchen-hinzelmann"
+      },
+      {
+        "person_slug": "veronika-schafer",
         "role_slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl/klarchen-hinzelmann"
       },
       {

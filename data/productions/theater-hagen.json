@@ -1,0 +1,443 @@
+[
+  {
+    "id": "theater-hagen/cavalleria-rusticana-i-pagliacci-2030",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/cavalleria-rusticana-i-pagliacci-2030/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "caroline-piffka",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "julian-wolf",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sebastian-lang-lessing",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pamela-recinella",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-gehrke",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "julia-katharina-berndt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chorherren-des-theaters-hagen",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/"
+      },
+      {
+        "person_slug": "angela-davis",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/mit-cavalleria-rusticana"
+      },
+      {
+        "person_slug": "serenad-uyar",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/mit-i-pagliacci"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/der-kleine-prinz-2012",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/der-kleine-prinz-2012/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "caroline-piffka",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "julian-wolf",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andreas-vogelsberger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kai-anne-schuhmacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-van-der-horst",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "camilla-hagebarth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kinderchor-des-theaters-hagen",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/"
+      },
+      {
+        "person_slug": "nike-tiecke",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/der-kleine-prinz"
+      },
+      {
+        "person_slug": "leon-tchakachow",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/der-konig-die-schlange-passant"
+      },
+      {
+        "person_slug": "marcel-akinschin",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/der-pilot-als-kind"
+      },
+      {
+        "person_slug": "nathan-fischer",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/der-vater-der-geschaftsmann"
+      },
+      {
+        "person_slug": "natalie-rose-havens",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/die-rose-die-eitle-die-mutter"
+      },
+      {
+        "person_slug": "kathrin-gerstenberger",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/fuchs-passantin"
+      },
+      {
+        "person_slug": "hagen-goar-bornmann",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/pilot"
+      },
+      {
+        "person_slug": "mia-lehrnickel",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/puppenspiel"
+      },
+      {
+        "person_slug": "tobias-kramm",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "florian-mahlberg",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/szen-einstudierung"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/die-fledermaus-2033",
+    "work_slug": "johann-strau/die-fledermaus",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/die-fledermaus-2033/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "julian-wolf",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sebastian-lang-lessing",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cristina-lelli",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vera-nemirova",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-gehrke",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jens-kilian",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chor-des-theaters-hagen",
+        "role_slug": "johann-strau/die-fledermaus/"
+      },
+      {
+        "person_slug": "serenad-uyar",
+        "role_slug": "johann-strau/die-fledermaus/mit"
+      },
+      {
+        "person_slug": "tobias-kramm",
+        "role_slug": "johann-strau/die-fledermaus/regieassistenz-abendspielleitung"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/die-sache-makropulos-vec-makropulos-2037",
+    "work_slug": "leos-janacek/die-sache-makropulos-vec-makropulos",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/die-sache-makropulos-vec-makropulos-2037/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "julian-wolf",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sebastian-lang-lessing",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "roman-hovenbitzer",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hans-joachim-koster",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mathis-neidhardt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "herrenchor-theater-hagen",
+        "role_slug": "leos-janacek/die-sache-makropulos-vec-makropulos/"
+      },
+      {
+        "person_slug": "angela-davis",
+        "role_slug": "leos-janacek/die-sache-makropulos-vec-makropulos/mit"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/ich-ich-ich-je-suis-narcissiste-2029",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/ich-ich-ich-je-suis-narcissiste-2029/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "giuseppe-de-filippis",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "steffen-muller-gabriel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ute-m-engelhardt",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hans-joachim-koster",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "prisca-baumann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philharmonisches-orchester-hagen",
+        "role_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/"
+      },
+      {
+        "person_slug": "polina-artsis",
+        "role_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/mit"
+      },
+      {
+        "person_slug": "tobias-kramm",
+        "role_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "linnea-unverzagt",
+        "role_slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste/szen-einstudierung"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/johannes-passion-2035",
+    "work_slug": "johann-sebastian-bach/johannes-passion",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/johannes-passion-2035/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "taulant-shehu",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "julian-wolf",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "s-ren-schuhmacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "martin-gehrke",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sophia-lindemann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chor-des-theaters-hagen",
+        "role_slug": "johann-sebastian-bach/johannes-passion/"
+      },
+      {
+        "person_slug": "rush-carson",
+        "role_slug": "johann-sebastian-bach/johannes-passion/ballett-hagen"
+      },
+      {
+        "person_slug": "heloise-gehin-loison",
+        "role_slug": "johann-sebastian-bach/johannes-passion/elevinnen-in-der-spielzeit-2026-27"
+      },
+      {
+        "person_slug": "nike-tiecke",
+        "role_slug": "johann-sebastian-bach/johannes-passion/mit"
+      },
+      {
+        "person_slug": "tobias-kramm",
+        "role_slug": "johann-sebastian-bach/johannes-passion/regieassistenz-abendspielleitung"
+      }
+    ]
+  },
+  {
+    "id": "theater-hagen/salome-1933",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "theater-hagen",
+    "is_revival": false,
+    "detail_url": "https://www.theaterhagen.de/veranstaltung/salome-1933/0/show/Play/",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-lang-lessing",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "noa-naamat",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-rufin",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "noa-naamat",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bettina-john",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philharmonisches-orchester-hagen",
+        "role_slug": "richard-strauss/salome/"
+      },
+      {
+        "person_slug": "nathan-fischer",
+        "role_slug": "richard-strauss/salome/dritter-jude"
+      },
+      {
+        "person_slug": "hyejun-melania-kwon",
+        "role_slug": "richard-strauss/salome/ein-page-der-herodias"
+      },
+      {
+        "person_slug": "elizabeth-pilon",
+        "role_slug": "richard-strauss/salome/ein-sklave"
+      },
+      {
+        "person_slug": "matthew-overmeyer",
+        "role_slug": "richard-strauss/salome/erster-jude"
+      },
+      {
+        "person_slug": "dong-won-seo",
+        "role_slug": "richard-strauss/salome/erster-nazarener-ein-cappadocier"
+      },
+      {
+        "person_slug": "hagen-goar-bornmann",
+        "role_slug": "richard-strauss/salome/erster-soldat"
+      },
+      {
+        "person_slug": "sebastian-joest",
+        "role_slug": "richard-strauss/salome/funfter-jude"
+      },
+      {
+        "person_slug": "ks-richard-van-gemert",
+        "role_slug": "richard-strauss/salome/herodes"
+      },
+      {
+        "person_slug": "angela-davis",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "bettina-gruger",
+        "role_slug": "richard-strauss/salome/inspizienz"
+      },
+      {
+        "person_slug": "insu-hwang",
+        "role_slug": "richard-strauss/salome/jochanaan"
+      },
+      {
+        "person_slug": "anton-kuzenok",
+        "role_slug": "richard-strauss/salome/narraboth"
+      },
+      {
+        "person_slug": "mareike-teichgraber",
+        "role_slug": "richard-strauss/salome/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "serenad-uyar",
+        "role_slug": "richard-strauss/salome/salome"
+      },
+      {
+        "person_slug": "jorge-luis-martinez-zazueta",
+        "role_slug": "richard-strauss/salome/vierter-jude"
+      },
+      {
+        "person_slug": "johannes-richter",
+        "role_slug": "richard-strauss/salome/zweiter-jude"
+      },
+      {
+        "person_slug": "andrew-james-neill",
+        "role_slug": "richard-strauss/salome/zweiter-nazarener"
+      },
+      {
+        "person_slug": "tom-mehnert",
+        "role_slug": "richard-strauss/salome/zweiter-soldat"
+      }
+    ]
+  }
+]

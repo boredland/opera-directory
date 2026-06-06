@@ -4,10 +4,10 @@
     "work_slug": "ludwig-van-beethoven/fidelio",
     "house_slug": "mainfranken-theater-wuerzburg",
     "is_revival": false,
-    "detail_url": "https://www.mainfrankentheater.de/programm/spielplan/fidelio/2758/",
+    "detail_url": "https://www.mainfrankentheater.de/programm/spielplan/fidelio/2774/",
     "creative_team": [
       {
-        "person_slug": "lutz-de-veer",
+        "person_slug": "mark-rohde",
         "function": "conductor"
       },
       {
@@ -21,16 +21,16 @@
       {
         "person_slug": "olaf-lundt",
         "function": "lighting"
+      },
+      {
+        "person_slug": "lukas-noll",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
         "person_slug": "don-fernando",
         "role_slug": "ludwig-van-beethoven/fidelio/besetzung"
-      },
-      {
-        "person_slug": "lukas-noll",
-        "role_slug": "ludwig-van-beethoven/fidelio/buhnen-und-kostumbild"
       },
       {
         "person_slug": "maida-hundeling",
@@ -69,7 +69,7 @@
         "role_slug": "ludwig-van-beethoven/fidelio/pfortner"
       },
       {
-        "person_slug": "jakob-mack",
+        "person_slug": "ben-al-daimi",
         "role_slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener"
       }
     ]
@@ -92,6 +92,10 @@
       {
         "person_slug": "lutz-de-veer",
         "function": "conductor"
+      },
+      {
+        "person_slug": "adrian-barwinkel",
+        "function": "costume-designer"
       },
       {
         "person_slug": "tristan-braun",
@@ -134,10 +138,6 @@
       {
         "person_slug": "daniel-fiolka",
         "role_slug": "ralph-benatzky/im-wei-en-rossl/fabrikant"
-      },
-      {
-        "person_slug": "adrian-barwinkel",
-        "role_slug": "ralph-benatzky/im-wei-en-rossl/kostumbild"
       },
       {
         "person_slug": "paul-henrik-schulte",

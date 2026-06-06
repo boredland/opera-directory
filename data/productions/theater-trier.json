@@ -1,0 +1,132 @@
+[
+  {
+    "id": "theater-trier/die-kleine-zauberfloete",
+    "work_slug": "die-kleine-zauberflote",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/die-kleine-zauberfloete.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "wouter-padberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "johanna-mergener",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "janja-vuletic",
+        "role_slug": "die-kleine-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "vanessa-lisette-lopez-gallegos",
+        "role_slug": "die-kleine-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "derek-rue",
+        "role_slug": "die-kleine-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "lucia-pedretti-und-lisenka-sedlacek",
+        "role_slug": "die-kleine-zauberflote/padagogik"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "die-kleine-zauberflote/pamina"
+      },
+      {
+        "person_slug": "yuriy-hadzetskyy",
+        "role_slug": "die-kleine-zauberflote/papageno"
+      },
+      {
+        "person_slug": "karsten-schroter",
+        "role_slug": "die-kleine-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "gustavo-eda",
+        "role_slug": "die-kleine-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "theater-trier/my-fair-lady-2",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "house_slug": "theater-trier",
+    "is_revival": true,
+    "detail_url": "https://www.theater-trier.de/produktionen/my-fair-lady-2.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "adriana-mortelliti",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "wouter-padberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "judith-peter",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manfred-langner",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susanne-reinhardt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tom-grasshof",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "karsten-schroter",
+        "role_slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "frederick-loewe/my-fair-lady/eliza-doolittle"
+      },
+      {
+        "person_slug": "derek-rue",
+        "role_slug": "frederick-loewe/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "yuriy-hadzetskyy",
+        "role_slug": "frederick-loewe/my-fair-lady/harry"
+      },
+      {
+        "person_slug": "ryosuke-haskell-sato",
+        "role_slug": "frederick-loewe/my-fair-lady/jamie"
+      },
+      {
+        "person_slug": "silvia-lefringhausen",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-eynsford-hill"
+      },
+      {
+        "person_slug": "chris-nonnast",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-higgins"
+      },
+      {
+        "person_slug": "silja-schindler",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-pearce"
+      },
+      {
+        "person_slug": "harald-pilar-von-pilchau",
+        "role_slug": "frederick-loewe/my-fair-lady/oberst-hugh-pickering"
+      },
+      {
+        "person_slug": "giovanni-rupp",
+        "role_slug": "frederick-loewe/my-fair-lady/prof-henry-higgins"
+      }
+    ]
+  }
+]

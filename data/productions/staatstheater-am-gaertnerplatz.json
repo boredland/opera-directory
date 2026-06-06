@@ -127,7 +127,7 @@
       },
       {
         "person_slug": "thomas-mcgowan",
-        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorsteher"
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorstand"
       },
       {
         "person_slug": "wolfgang-ablinger-sperrhacke",
@@ -194,8 +194,16 @@
         "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspielerin-dame"
       },
       {
+        "person_slug": "christoph-mack",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/roby"
+      },
+      {
         "person_slug": "ricarda-regina-ludigkeit",
         "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/staging-und-szenische-mitarbeit"
+      },
+      {
+        "person_slug": "dieter-fernengel",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/toby"
       },
       {
         "person_slug": "holger-ohlmann",
@@ -374,6 +382,10 @@
     "detail_url": "https://www.gaertnerplatztheater.de/de/produktionen/die-landstreicher.html",
     "creative_team": [
       {
+        "person_slug": "ricarda-regina-ludigkeit",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "michael-brandstatter",
         "function": "conductor"
       },
@@ -388,12 +400,84 @@
       {
         "person_slug": "karin-bohnert",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-hortner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christian-tabakoff",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "christian-gasteiger",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "meike-ebert",
+        "function": "video-designer"
       }
     ],
     "cast": [
       {
-        "person_slug": "christian-tabakoff",
-        "role_slug": "carl-michael-ziehrer/die-landstreicher/buhne-video"
+        "person_slug": "annemarie-pfahler",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/anna"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/august-fliederbusch"
+      },
+      {
+        "person_slug": "laura-schneiderhan",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/bertha-fliederbusch"
+      },
+      {
+        "person_slug": "frances-lucey",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/frau-leitgeb"
+      },
+      {
+        "person_slug": "hans-groning",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/furst-adolar-gilka"
+      },
+      {
+        "person_slug": "holger-ohlmann",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/gratwohl"
+      },
+      {
+        "person_slug": "eduard-wildner",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/kampel"
+      },
+      {
+        "person_slug": "thomas-mcgowan",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/lachlan-mccracken"
+      },
+      {
+        "person_slug": "reinhard-mayr",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/leitgeb"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/mimi-tanzerin"
+      },
+      {
+        "person_slug": "daniel-gutmann",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/mucki-von-rodenstein"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/roland"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/rudi-von-muggenhein"
+      },
+      {
+        "person_slug": "dieter-fernengel",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/sepp"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "carl-michael-ziehrer/die-landstreicher/stober"
       }
     ]
   },
@@ -638,13 +722,13 @@
       {
         "person_slug": "oleg-ptashnikov",
         "function": "conductor"
+      },
+      {
+        "person_slug": "herrmann-soherr",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "herrmann-soherr",
-        "role_slug": "hansel-und-gretel/buhne-kostume"
-      },
       {
         "person_slug": "peter-kertz",
         "role_slug": "hansel-und-gretel/regie-nach"
@@ -869,14 +953,13 @@
       {
         "person_slug": "wieland-muller-haslinger",
         "function": "lighting"
-      }
-    ],
-    "cast": [
+      },
       {
         "person_slug": "rainer-sinell",
-        "role_slug": "ralph-benatzky/im-wei-en-rossl/buhne-kostume"
+        "function": "set-designer"
       }
-    ]
+    ],
+    "cast": []
   },
   {
     "id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
