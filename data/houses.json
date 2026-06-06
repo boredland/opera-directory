@@ -955,5 +955,90 @@
     "enabled": true,
     "festival": true,
     "notes": "FESTIVAL — English country-house opera (Lewes, East Sussex): the summer Festival (~May–Aug) + a separate autumn season; one edition at a time, empty in winter → live = current edition, past via Wikidata (Q203348, sparse). WordPress/CloudFront — **CloudFront 403s the crawler UA, so the adapter sends a browser User-Agent (UA-block, not IP → no proxy)**. Section hubs /festival/ + /autumn/ link to /events/{slug}/ detail pages parsed from HTML (only Yoast JSON-LD, no schema.org Event). **Composer = the English byline in heroBanner__hero__date ('{Composer} • {range}'), NOT German composerFromText** (trailing 'and librettist …' stripped). Creative team/cast in <h2>Creative team|Cast includes</h2> blocks of <p>Label<br><span class=castHigher>Name</span></p>; English labels (Conductor/Music Director, Director/Revival/Associate Director, Set/Costume/Lighting/Video/Projection Designer, Choreographer/Movement Director, Fight Director, Chorus Director, Dramaturg) mapped in-adapter; multi-name spans split on <br>; unmapped labels in the Creative block are dropped (never leak to cast). Dates from subheader--small lists each paired with the following 'Opera starts: H.MMpm'; year inferred from the hero range. **Opera filter = composer byline present AND a Director credit** (drops Beethoven 9, Christmas concerts, iPlayer listings). proxy:false."
+  },
+  {
+    "slug": "festival-aix-en-provence",
+    "name": "Festival d'Aix-en-Provence",
+    "city": "Aix-en-Provence",
+    "country": "FR",
+    "website": "https://festival-aix.com",
+    "wikidata": "Q1408668",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (French summer opera festival ~July; one edition at a time → live = current edition + Wikidata backfill Q1408668, which DOES carry P4647 premieres + P272 productions). festival-aix.com is a Next.js App-Router site, NO schema.org Event JSON-LD, NO __NEXT_DATA__ — data rides in the RSC flight payload (self.__next_f.push([1,\"…\"]) chunks); reassemble + parse the embedded JSON (no JS eval). The /en homepage lists operas as /en/programmation/opera/{slug} (the /concert/ space is separate). Per opera the flight holds a Secutix product (title from {fr}…productType:EVENT; composer from subtitle.fr '{FRENCH TITLE} — {COMPOSER}' or bare, take the last em-dash/hyphen segment, ignore 'version de concert') + a structured performances[] array (Z-suffixed but LOCAL wall-clock start — read HH:MM off the string, do NOT timezone-convert; venue in venue.fr). Credits = Drupal cast_item paragraphs in BOTH fr+en blocks → keep langcode:fr only; French labels mapped in-adapter (Direction musicale→conductor, Mise en scène→director, Scénographie/Décors→set, Costumes, Lumière→lighting, Chorégraphie, Chef de chœur→chorus-master, Vidéo→video, Son→sound). OPERA FILTER: require composer AND a Mise en scène credit (drops concert versions). NB routes answer HTTP 404 but serve full content (locale-rewrite quirk) → fetch tolerantly (proxyFetch ignoring status), not fetchHtml. proxy:false."
+  },
+  {
+    "slug": "santa-fe-opera",
+    "name": "Santa Fe Opera",
+    "city": "Santa Fe",
+    "country": "US",
+    "website": "https://www.santafeopera.org",
+    "wikidata": "Q7204962",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (US/English, open-air summer season late-Jun–Aug, dark otherwise). WordPress; the season's productions are /whats-on/{slug}-{year}/ pages linked from / and /tickets/ (one list covers the running season PLUS the already-announced next one). Each detail page is one production: performance nights are schema.org Event JSON-LD (one per night, local-time startDate + eventStatus); the composer is the c-event-meta__row 'Music By' value (English structured field, NOT German composerFromText) and 'Sung in' gives the language; cast + creative are c-col-bio cards (singer cards carry c-col-bio__role = sung role + voice-type Fach; team cards carry only c-col-bio__voice-type = the function label, mapped in-adapter: Conductor/Director/Scenic|Set Designer/Costume/Lighting/Projection|Video Designer/Choreographer/Chorus Master/Dramaturg; 'Production','Illusions','Wig & Makeup' dropped). Opera filter = has 'Music By' AND sung cast (drops Apprentice Scenes concert + travel packages). Fixed venue Crosby Theatre. Future-only → Wikidata backfill (Q7204962; 3 world-premiere works). proxy:false."
+  },
+  {
+    "slug": "glimmerglass-festival",
+    "name": "The Glimmerglass Festival",
+    "city": "Cooperstown",
+    "country": "US",
+    "website": "https://glimmerglass.org",
+    "wikidata": "Q5569634",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (US summer opera festival, Cooperstown NY, Alice Busch Opera Theater, ~Jul–Aug) — programs opera AND a Broadway-style musical plus recitals/galas each season, so filter to opera. WordPress (Yoast): season hub /festivals/{year}-festival/ links shows at /events/{slug}/; probe current+next year and DROP ancillary social-event slugs up front (dinner|brunch|flick|after-hours|picnic|gala|preview|sendoff — those pages hang ~60s). Each event page emits one schema.org Event JSON-LD whose subEvent[] is the per-night list (startDate ISO date+time, location=the theater); composer + creative are NOT in JSON-LD but in the centered credit paragraph ('Music by {Composer}', then '{Label} | {Name}' lines). Opera filter: 'Music by …' byline (musicals read 'Music and lyrics by …') + a 'Libretto' credit (musicals carry 'Book by'/'Lyrics by') + a Conductor — drops Oklahoma!/Happy End musicals, Winterreise recital, galas. English labels mapped in-adapter. No per-role cast published → cast empty. Future-only → Wikidata backfill (Q5569634, thin). proxy:TRUE — glimmerglass.org refuses datacenter IPs outright (connection reset, http=000), so route via the fetch-proxy.",
+    "proxy": true
+  },
+  {
+    "slug": "wexford-festival-opera",
+    "name": "Wexford Festival Opera",
+    "city": "Wexford",
+    "country": "IE",
+    "website": "https://www.wexfordopera.com",
+    "wikidata": "Q1463492",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "Ireland's autumn opera festival (Wexford, ~late-Oct–Nov), famed for rare/neglected operas; FESTIVAL — one edition at a time → live = current edition only. Craft CMS, English, plain fetch (200 to crawler UA, no proxy); only Organization/Article JSON-LD boilerplate so everything parsed from SSR HTML. Hub /programme/festival-programme links detail pages /programme/festival-programme/{slug}; title in <h1 class=…mobile-h1>, composer in the FINAL <h2 class=…serif> (a leading tagline h2 like 'World Premiere' may precede it). Opera filter: that h2 must read like a person name AND no serif h2 may carry an event-form keyword (concert/recital/song-cycle/gala/lecture/tour/tasting) — drops concerts/recitals/galas/lectures/tastings/tours/song-cycle while keeping main + Pocket/Community operas. Cast/Creative in <table>s captioned 'Cast includes'/'Creative Team includes' (two <td>s/row; 'TBC' dropped); performances in the 'Dates and times' booking table ('Sunday 18 Oct' + '5pm'/'7:30pm'), year from the '… October 2026' range line. English labels mapped in-adapter. Venue National Opera House (O'Reilly + Jerome Hynes studio). Wikidata Q1463492 has 0 P4647/P272 productions → backfill empty (wired for future). Programme fills in over the year (in June only some pages carry cast tables → degrades gracefully). proxy:false."
+  },
+  {
+    "slug": "macerata-opera-festival",
+    "name": "Macerata Opera Festival",
+    "city": "Macerata",
+    "country": "IT",
+    "website": "https://www.sferisterio.it",
+    "wikidata": "Q6723253",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "Summer open-air FESTIVAL at the Arena Sferisterio (~Jul–Aug); live = current edition only. WordPress/WPBakery, scraped on the ITALIAN pages (the /en/ mirror DROPS the composer subtitle). Edition index /macerata-opera-festival-{YEAR} links detail pages /macerata-opera-festival/{slug}-{YEAR} (year probed current→+1→−1). Title from first vc_custom_heading; composer from div.myaligncenter.subtitle-mof (strip leading 'di '; NB a second bare-class subtitle-mof is a social-network label — take the myaligncenter one); dates from time-opera spans (nroday + Italian meseabbr + clocktime; year derived; sort — previews precede premieres); credits+cast from ul.cast-opera (ruolocast/artistacast). Italian labels mapped in-adapter (Direzione d'orchestra→conductor, Maestro/Direttore del coro→chorus-master, Regia/Ripresa da→director, Coreografie→choreographer, Drammaturgia, Disegno luci/Luci→lighting, Scene e costumi/Scenografia/Scene→set, Costumi, Video/Videodesign→video). Opera filter: composer + ≥1 named-character role (drops the scenic cantata Carmina Burana — voice-type billing — + concerts/galas). Wikidata Q6723253 (festival, NOT arena building Q1060110) has 0 productions → backfill empty. Default venue Arena Sferisterio. proxy:false."
+  },
+  {
+    "slug": "maggio-musicale-fiorentino",
+    "name": "Maggio Musicale Fiorentino",
+    "city": "Florence",
+    "country": "IT",
+    "website": "https://www.maggiofiorentino.com",
+    "wikidata": "Q954628",
+    "strategy": "json-api",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — spring/summer arts festival of the Teatro del Maggio (Opera di Firenze); mixes a major staged-opera strand with concerts, dance, recitals, outreach. Nuxt + Strapi v4: GET https://www.maggiofiorentino.com/api/events returns EVERY event (2018→) fully populated in ONE call (the API ignores pagination → one ~32MB dump covers everything) — event_categories (filter to the 'Opera' tag; drop 'in forma di concerto' sung-not-staged), recita[] performances (date_start/time_start/location=venue e.g. Teatro del Maggio - Sala Grande/Sala Zubin Mehta), composer in subtitle, credits in artists + role→singer cast in artists_more as <p><span>Label</span><br>Name</p> (Italian labels mapped in-adapter). Composer required: subtitle byline, fallback to a dash-shaped 'Composer - Work' name; archival events without recita use a single datetime_start. The single call carries the whole archive → the window only gates emitted performances (incremental = future + 45-day refresh; backfill honors since, ~109 opera productions). Wikidata Q954628 backfill appended but thin (Parsifal 1998, Vanna Lupa 1949). operadifirenze.it 301s here. proxy:false."
+  },
+  {
+    "slug": "savonlinna-opera-festival",
+    "name": "Savonlinna Opera Festival",
+    "city": "Savonlinna",
+    "country": "FI",
+    "website": "https://operafestival.fi",
+    "wikidata": "Q917300",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "Finnish summer opera FESTIVAL staged in Olavinlinna castle (~July); one edition at a time → live = current edition's staged opera only. WordPress + Elementor behind WPML — parse the ENGLISH locale /en/ for English credit labels (URLs keep Finnish slugs: /en/ohjelmisto/{slug}/ = 'programme'). No schema.org Event JSON-LD: collect programme links off the homepage (the season hub /en/season-NNNN/ changes yearly and redirects → use the stable homepage), then per page read title <h1 class=entry-title>, composer <h2 class=entry-sub-title>, performances <ul class=event-schedule> <div class=showtime>DD.MM.YYYY klo HH:MM</div> (Finnish order, 'klo'='at'), creative from the 'Team' section.table-info row-title/row-content (ensemble rows lack a title → dropped), cast from div.artist-info artist-name/character-name pairs (role carries a trailing date list → stripped). English labels mapped in-adapter incl. the site's recurring 'Lightning designer' typo→lighting. Opera filter: require a Director credit (drops concert versions like Norma 2026 + guest galas). oopperajuhlat.fi redirects here. Wikidata Q917300 has 0 productions → backfill empty (wired for future). proxy:false."
   }
 ]

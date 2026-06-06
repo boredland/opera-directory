@@ -7,13 +7,17 @@ import { scrapeBayreutherFestspiele } from "./houses/bayreuther-festspiele";
 import { scrapeBregenzerFestspiele } from "./houses/bregenzer-festspiele";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
+import { scrapeFestivalAixEnProvence } from "./houses/festival-aix-en-provence";
 import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptmann-theater-goerlitz";
+import { scrapeGlimmerglassFestival } from "./houses/glimmerglass-festival";
 import { scrapeGlyndebourneFestival } from "./houses/glyndebourne-festival";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
 import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
 import { scrapeLandestheaterDetmold } from "./houses/landestheater-detmold";
 import { scrapeLandestheaterNiederbayern } from "./houses/landestheater-niederbayern";
+import { scrapeMacerataOperaFestival } from "./houses/macerata-opera-festival";
+import { scrapeMaggioMusicaleFiorentino } from "./houses/maggio-musicale-fiorentino";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
 import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
@@ -33,6 +37,8 @@ import { scrapePfalztheaterKaiserslautern } from "./houses/pfalztheater-kaisersl
 import { scrapeRossiniOperaFestivalPesaro } from "./houses/rossini-opera-festival-pesaro";
 import { scrapeSaarlaendischesStaatstheater } from "./houses/saarlaendisches-staatstheater";
 import { scrapeSalzburgerFestspiele } from "./houses/salzburger-festspiele";
+import { scrapeSantaFeOpera } from "./houses/santa-fe-opera";
+import { scrapeSavonlinnaOperaFestival } from "./houses/savonlinna-opera-festival";
 import { scrapeSchleswigHolsteinischesLandestheater } from "./houses/schleswig-holsteinisches-landestheater";
 import { scrapeSemperoperDresden } from "./houses/semperoper-dresden";
 import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
@@ -81,6 +87,7 @@ import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
 import { scrapeUckermaerkischeBuehnenSchwedt } from "./houses/uckermaerkische-buehnen-schwedt";
 import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
+import { scrapeWexfordFestivalOpera } from "./houses/wexford-festival-opera";
 import type { HouseScraper } from "./types";
 
 export * from "./fetch";
@@ -175,4 +182,11 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "arena-di-verona": scrapeArenaDiVerona,
   "rossini-opera-festival-pesaro": scrapeRossiniOperaFestivalPesaro,
   "glyndebourne-festival": scrapeGlyndebourneFestival,
+  "festival-aix-en-provence": scrapeFestivalAixEnProvence,
+  "santa-fe-opera": scrapeSantaFeOpera,
+  "glimmerglass-festival": scrapeGlimmerglassFestival,
+  "wexford-festival-opera": scrapeWexfordFestivalOpera,
+  "macerata-opera-festival": scrapeMacerataOperaFestival,
+  "maggio-musicale-fiorentino": scrapeMaggioMusicaleFiorentino,
+  "savonlinna-opera-festival": scrapeSavonlinnaOperaFestival,
 };
