@@ -1358,5 +1358,74 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "US opera company (Fort Worth TX; oldest in Texas, smaller/festival-leaning; mainstage Bass Performance Hall + smaller titles at Ridglea Theater/Stage West/Ed Landreth). Wix SSR, no proxy, no Event JSON-LD/JSON API, off-site ticketing (no Tessitura) — each production is a hand-built marketing page at /{slug}. Slugs from the homepage nav + pages-sitemap.xml (union; a NON_PRODUCTION_SLUGS denylist skips org/ticketing pages). Pages aren't uniform → the parser targets recurring signals: composer (opera gate) from 'Music [and libretto] by {Name}' / a '{Name}, composer' credit / the possessive \"{Composer}'s {Title}\" lede (also og:description); performances from date lines ('Friday, April 16, 2027, 7:30 p.m.' / 'December 12, 2026, 11:00 a.m. and 4:00 p.m.' — multi-time split per row, null-time dupes dropped) + a venue line; cast/creative from a 'CAST AND CREATIVES'/'Meet the Cast' block (a Wix repeater of listitem {label,value}, fallback to '{label}\\n{name}'/'{Name}, {function}' runs), English labels mapped in-adapter. Opera gate: composer + dated perf (drops concerts/galas/competitions; client-rendered-cast pages keep composer+dates → empty cast). **Backfill: the site's own /archive/{slug} Wix Data collection (dynamic-archive sitemap; ~320 entries back to the 1960s) yields title+composer+year — far richer than Wikidata (Q5472398 = 0); the archive walk is slow through the proxy (use direct fetch).**"
+  },
+  {
+    "slug": "washington-national-opera",
+    "name": "Washington National Opera",
+    "city": "Washington",
+    "country": "US",
+    "website": "https://www.kennedy-center.org",
+    "wikidata": "Q386613",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Tier-1 US company with NO standalone site — its season lives inside the multi-genre kennedy-center.org (also NSO/ballet/theater/jazz/Millennium Stage), behind a **Cloudflare managed challenge that plain fetch AND the proxy stealth render both fail → every request routes through the proxy's FlareSolverr `&solve=1` path; proxy:true mandatory, clearance intermittent → in-adapter retries 6×**. Listing = the calendar SPA backend GET /ace-api/events?startDate=&endDate= (from calendar-bundle.js: aceCalendarAPIRoute='ace-api/events'), one JSON row per performance across every genre, FlareSolverr-wrapped in an HTML `<pre>` (unwrap+decode). Isolate WNO by presenter='Washington National Opera' / a /wno/ detail URL, group runs by eventGroupId. Each /wno/home/{season}/{slug}/ detail page (SSR, no JSON-LD) → composer (Program 'Music by {Composer}' line = opera gate, drops WNO galas/recitals/simulcasts) + cast/creative (two markup variants). **Detail pages 404 once a run is past, so the live leg only yields current+announced operas (0 right now — 25/26 ended Dec 2025, 26/27 not yet in the feed); past can't be reconstructed from KC and Wikidata Q386613 has no productions → backfill 0. Will populate when 26/27 publishes.** English labels mapped in-adapter; chamber operas play the Terrace Theater so the gate is composer-presence not venue."
+  },
+  {
+    "slug": "virginia-opera",
+    "name": "Virginia Opera",
+    "city": "Norfolk",
+    "country": "US",
+    "website": "https://vaopera.org",
+    "wikidata": "Q7934437",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "The official touring opera company of the Commonwealth of Virginia — every production plays Norfolk (Harrison Opera House) then Richmond (Dominion Energy Center) + Fairfax/NoVA (GMU Center for the Arts), so one production carries performances in several cities. WordPress (Divi), no custom production post type → read the whole wp/v2/pages collection (per_page=100, ~65 pages) and keep only pages with an opera signature (a composer line + a city performance block). composer = the `<p>` before 'Sung in…' (optional 'By ' prefix) or a 'Music by/Composed by' phrase (ENGLISH); creative team is phrase-form ('Conducted by'/'Set Design by'…) mapped in-adapter; cast = 'Cast List' `<b><a>Name</a>,</b> Role` rows; performances = per-city `<h2>City</h2>` blocks whose date lines carry NO year → derived from the weekday + the page's `modified` year. Opera gate = composer (drops galas/community/lecture). Some Divi rows url-encode %22 into text + one H1 has a zero-width prefix (cleaned). 26-27 season only announced as text on /events/ (no detail pages yet) → captured once pages exist. Backfill Wikidata Q7934437 (0). proxy:false."
+  },
+  {
+    "slug": "nashville-opera",
+    "name": "Nashville Opera",
+    "city": "Nashville",
+    "country": "US",
+    "website": "https://nashvilleopera.org",
+    "wikidata": "Q6966984",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US regional company (Nashville; TPAC Jackson Hall + the Noah Liff Opera Center studio). WordPress+Elementor, crawler-UA 200 via Cloudflare, no proxy (www 301s to the apex host — adapter uses the apex). Each staged opera is a top-level page /{slug}/ linked from /season/ (homepage fallback). Page JSON-LD is Yoast-only → read SSR HTML's flat run of text-editor widgets: a 'Quick Details' run of label→value pairs (MUSIC=composer, REQUIRED opera gate; DIRECTION/CONDUCTOR/Chorus Master mapped in-adapter from ENGLISH labels) bounded by LANGUAGE/RUN TIME/VENUE/FEATURING/AGE RATING (→ language + venue), then a Cast run of name→role pairs after AGE RATING up to LOCATION/'What to Know' ('TBD' dropped). **Performances come ONLY from an inline 'Performance Dates' block (`<b>Performance Dates<br></b>` venue + one 'Weekday, Mon. D, YYYY – H:MM PM' line/night) at the tail of the synopsis widget (trim it out of the emitted synopsis); date lines use an en-dash + non-capturing weekday group.** Tickets off-site → status by date. /past-seasons/ is poster images only → history via Wikidata Q6966984 (currently 0). Non-opera events (galas, Jukebox Live cabaret) lack MUSIC → dropped. proxy:false."
+  },
+  {
+    "slug": "new-orleans-opera",
+    "name": "New Orleans Opera",
+    "city": "New Orleans",
+    "country": "US",
+    "website": "https://neworleansopera.org",
+    "wikidata": "Q7010759",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "New Orleans' regional company (Mahalia Jackson Theater). **MID-REBRAND onto Squarespace: the live site is currently a placeholder (sitemap = Home/About/Mission/Staff/Contact; the old WordPress + WP REST is gone, season paths 404), so the live leg yields NOTHING until the season collection republishes — framework-now, data-when-the-rebrand-ships.** Live discovery walks /sitemap.xml (Squarespace's authoritative page list, so the season collection appears automatically once published) and parses composer-gated schema.org Event JSON-LD on each page (Squarespace Events collections emit it), regrouping events by work_title; cast from performer[] PerformanceRole, creative from English labels mapped in-adapter. Composer (opera gate) read from description/name text ('Composer:'/'Music by'/'by {Name}') since schema.org omits it. Backfill Wikidata **Q7010759** (the COMPANY, P31 opera company — NOT the nonprofit-org record Q54816128); thin (1 premiere: Floyd's Markheim 1966). proxy:false."
+  },
+  {
+    "slug": "tulsa-opera",
+    "name": "Tulsa Opera",
+    "city": "Tulsa",
+    "country": "US",
+    "website": "https://tulsaopera.com",
+    "wikidata": "Q7852342",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US regional company (Tulsa; TPAC — Chapman Music Hall/Williams/Liddy Doenges/VanTrease). WordPress (Divi, Yoast), crawler-UA 200, no proxy. Page JSON-LD is Yoast-only → catalogue enumerated from the WP REST pages endpoint (/wp-json/wp/v2/pages?per_page=100, ~139 pages / 2 API pages — the /season/ index only links a few recent seasons); a production is one slug under a season (/season/{YYYY-YY}-season/{slug}/ archive or /{YYYY-YY}-season/{slug}/ live; deeper paths digital-program/artist-bios/book-club dropped by segment count). Opera gate = a 'Composed by / Music by / Music and Libretto by {Name}' line anchored to a `>` tag boundary + Title-Case name (so a mid-prose 'music by the honky-tonk band…' can't pose as composer) — drops concerts/recitals/galas (Renée Fleming, Stabat Mater, Beatles tribute, OperaFizz). Dates from 'Weekday, Month D, YYYY at H:MM(am|pm)' lines (status by date; tickets off-site via TPAC/Ticketmaster); venue from the named TPAC auditorium line else null. Cast+creative from 'Meet the Artists' `<h3>Name</h3><p>Role|Function</p>` cards (some `<p>` UNCLOSED — stop the label at the first closing tag of any kind, else adjacent cards merge); English labels mapped in-adapter, unmapped crew dropped. 13 live incl. archive to 2019. Backfill Wikidata Q7852342 (0). proxy:false."
+  },
+  {
+    "slug": "wolf-trap-opera",
+    "name": "Wolf Trap Opera",
+    "city": "Vienna",
+    "country": "US",
+    "website": "https://www.wolftrap.org",
+    "wikidata": "Q8029913",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "proxy": true,
+    "notes": "FESTIVAL (US/English; young-artist SUMMER program of the Wolf Trap Foundation — a few fully-staged operas + recitals Jun–Aug at The Barns / Filene Center, dark otherwise). **Cloudflare blocks datacenter IPs (403 direct) → proxy:true (the base ?url= tier suffices, no solve).** Wolf Trap is multi-genre → the adapter scopes to the WTO 'opera' show series: /opera/ lists every event as /show/{NN}opera/{MMDDYY}/ (co-listed {NN}filene/… Filene-Center concerts skipped). Each detail page = one production: performance nights are schema.org Event JSON-LD (one node/night, local-time startDate, location.name = The Barns); **composer has NO structured field — it rides in the marketing description as `<Composer>'s \"<Title>\"` (parseComposer takes the last possessive before the quoted title, skipping the 'Wolf Trap Opera's…' boilerplate; surname-only e.g. Rossini/Tchaikovsky)**; 'Sung in {Lang}' = language; cast+creative = two SSR `<p>` blocks (`<strong>SECTION</strong>` then `<strong>Label:</strong> Name<br>` pairs; CAST labels = sung roles, CREATIVE TEAM labels = functions mapped in-adapter; 'Chorus' ensemble line + Studio-artist '*' stripped). Opera filter = sung CAST block AND a possessive-composer description (drops Aria Jukebox/Studio-Artists-in-Concert/Salon Series/Navy Band). JSON-LD carries raw \\uXXXX escapes → JSON.parse the captured string. Backfill Wikidata Q8029913 (0). Proxy is slow (~15-18s/req, brushes the 30s timeout — retries clean)."
   }
 ]

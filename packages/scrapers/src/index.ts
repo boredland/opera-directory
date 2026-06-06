@@ -38,8 +38,10 @@ import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
 import { scrapeMinnesotaOpera } from "./houses/minnesota-opera";
 import { scrapeMittelsaechsischesTheater } from "./houses/mittelsaechsisches-theater";
 import { scrapeMusiktheaterImRevier } from "./houses/musiktheater-im-revier";
+import { scrapeNashvilleOpera } from "./houses/nashville-opera";
 import { scrapeNationaltheaterMannheim } from "./houses/nationaltheater-mannheim";
 import { scrapeNationaltheaterWeimar } from "./houses/nationaltheater-weimar";
+import { scrapeNewOrleansOpera } from "./houses/new-orleans-opera";
 import { scrapeOldenburgischesStaatstheater } from "./houses/oldenburgisches-staatstheater";
 import { scrapeOperChemnitz } from "./houses/oper-chemnitz";
 import { scrapeOperDortmund } from "./houses/oper-dortmund";
@@ -112,10 +114,14 @@ import { scrapeTheaterTrier } from "./houses/theater-trier";
 import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
 import { scrapeTirolerFestspieleErl } from "./houses/tiroler-festspiele-erl";
+import { scrapeTulsaOpera } from "./houses/tulsa-opera";
 import { scrapeUckermaerkischeBuehnenSchwedt } from "./houses/uckermaerkische-buehnen-schwedt";
 import { scrapeUtahOpera } from "./houses/utah-opera";
+import { scrapeVirginiaOpera } from "./houses/virginia-opera";
 import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
+import { scrapeWashingtonNationalOpera } from "./houses/washington-national-opera";
 import { scrapeWexfordFestivalOpera } from "./houses/wexford-festival-opera";
+import { scrapeWolfTrapOpera } from "./houses/wolf-trap-opera";
 import type { HouseScraper } from "./types";
 
 export * from "./fetch";
@@ -152,6 +158,12 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "utah-opera": scrapeUtahOpera,
   "sarasota-opera": scrapeSarasotaOpera,
   "fort-worth-opera": scrapeFortWorthOpera,
+  "washington-national-opera": scrapeWashingtonNationalOpera,
+  "virginia-opera": scrapeVirginiaOpera,
+  "nashville-opera": scrapeNashvilleOpera,
+  "new-orleans-opera": scrapeNewOrleansOpera,
+  "tulsa-opera": scrapeTulsaOpera,
+  "wolf-trap-opera": scrapeWolfTrapOpera,
   "staatsoper-berlin": scrapeStaatsoperBerlin,
   "oper-koeln": scrapeOperKoeln,
   "semperoper-dresden": scrapeSemperoperDresden,
