@@ -1040,5 +1040,65 @@
     "enabled": true,
     "festival": true,
     "notes": "Finnish summer opera FESTIVAL staged in Olavinlinna castle (~July); one edition at a time → live = current edition's staged opera only. WordPress + Elementor behind WPML — parse the ENGLISH locale /en/ for English credit labels (URLs keep Finnish slugs: /en/ohjelmisto/{slug}/ = 'programme'). No schema.org Event JSON-LD: collect programme links off the homepage (the season hub /en/season-NNNN/ changes yearly and redirects → use the stable homepage), then per page read title <h1 class=entry-title>, composer <h2 class=entry-sub-title>, performances <ul class=event-schedule> <div class=showtime>DD.MM.YYYY klo HH:MM</div> (Finnish order, 'klo'='at'), creative from the 'Team' section.table-info row-title/row-content (ensemble rows lack a title → dropped), cast from div.artist-info artist-name/character-name pairs (role carries a trailing date list → stripped). English labels mapped in-adapter incl. the site's recurring 'Lightning designer' typo→lighting. Opera filter: require a Director credit (drops concert versions like Norma 2026 + guest galas). oopperajuhlat.fi redirects here. Wikidata Q917300 has 0 productions → backfill empty (wired for future). proxy:false."
+  },
+  {
+    "slug": "schwetzinger-swr-festspiele",
+    "name": "Schwetzinger SWR Festspiele",
+    "city": "Schwetzingen",
+    "country": "DE",
+    "website": "https://www.schwetzinger-swr-festspiele.de",
+    "wikidata": "Q320221",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — SWR-run spring festival (~late-Apr–May) in Schloss Schwetzingen, concert-HEAVY with a small staged OPER strand (premieres/co-productions in the Rokokotheater; 2026: Bachmann 'Malina' UA / Monteverdi 'L'Orfeo' / Rameau 'Pygmalion'). One edition at a time → live leg sees only the current edition; deep archive of opera premieres via Wikidata (Q320221, P4647/P272 — Egk 'Der Revisor' 1957, Reimann 'Melusine' 1971, Henze, Sciarrino 'Luci mie traditrici' 1998). Live: /programm/ emits schema.org Event JSON-LD (extractEventJsonLd); keep an event only on an opera signal (Oper/Musiktheater genre/work-type OR a workPerformed with composer), drop the concert/recital/Lieder/talk bulk (konzertant|liederabend|rezital|kammermusik|matinee|gespräch), REQUIRE a composer, group by work title. **CAVEAT: the origin (217.66.32.25) refused datacenter IPs AND the fetch-proxy (plain/auto/solve 000, render 502) at build time, so the live JSON-LD leg is written-to-contract but UNVERIFIED; the 2026 edition was already over (played Apr–May) so live yields 0 now and Wikidata backfill is the dependable source. Live should activate once the host is reachable + a new edition publishes.** proxy:false."
+  },
+  {
+    "slug": "festspielhaus-baden-baden",
+    "name": "Festspielhaus Baden-Baden",
+    "city": "Baden-Baden",
+    "country": "DE",
+    "website": "https://www.festspielhaus.de",
+    "wikidata": "Q176342",
+    "strategy": "render",
+    "enabled": true,
+    "festival": true,
+    "notes": "render (Nuxt SPA — no event JSON-LD, list rendered client-side; fetchRendered uses the env proxy in CI, local headless fallback). FESTIVAL/venue: Europe's largest opera-and-concert house — programme is overwhelmingly concerts/recitals/ballet/jazz/musicals with a THIN OPER strand (year-round guest opera + the Osterfestspiele with the Berliner Philharmoniker). Live leg renders /programm/ and keeps only cards whose genre overline (c-heading__overline) starts with 'Oper' ('Oper','Oper im Konzert'; NOT 'Operngala'), grouping cards by eventid over their dates. Cards have no detail link (modal) → eventid→/veranstaltungen/{slug}/ is read from the Nuxt static programm/payload.js via regex (build-id discovered dynamically; escapes \\u002F; no JS eval); the rendered detail gives composer (work-type line '… Musik von {Composer}', minified word-glue re-split at case boundaries, truncate at Dichtung/Libretto/Text) + cast/creative as m-artists__role→m-artists__name pairs. Opera gate = composer resolves. Wikidata Q176342 (venue) has no P4647/P272 → backfill empty. Future-only. proxy:false."
+  },
+  {
+    "slug": "opernfestspiele-heidenheim",
+    "name": "Opernfestspiele Heidenheim",
+    "city": "Heidenheim an der Brenz",
+    "country": "DE",
+    "website": "https://www.opernfestspiele.de",
+    "wikidata": "Q2026661",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (OH!) — summer opera festival at Heidenheim an der Brenz, staged Jun–Jul open-air on the Rittersaal of Schloss Hellenstein + the Festspielhaus CCH, with its own Cappella Aquileia orchestra; one edition at a time → live = current programme. Joomla, no event JSON-LD. Single source: /tickets-spielplan.html is one self-contained page — every dated showing is a `div.spielplanitem {genre}` block carrying date/time/work-type-line/title/venue/detail-URL inline (no per-night fetch for dates). Opera gate: keep only the `oper` genre token (konzert/mk Meisterkonzert/extras jazz·galas·matinées dropped); composer from the listing work-type line ('Dramma lirico von Giuseppe Verdi') via composerFromText — **split the type line at the first `<span` first (an inline Premiere badge leaks into the composer otherwise)**; works without a composer dropped (children's 'Hölle!', far-future 'I masnadieri'). Cast+creative from each work's detail page (Kreativteam + Besetzung tables, <td>Label</td><td itemprop=name>Name</td>). Wikidata Q2026661 has no P4647/P272 → backfill empty. Host is slow from datacenter IPs (occasional single-request timeout that retries clean) but not blocked. proxy:false."
+  },
+  {
+    "slug": "rossini-in-wildbad",
+    "name": "Rossini in Wildbad",
+    "city": "Bad Wildbad",
+    "country": "DE",
+    "website": "https://rossini-in-wildbad.de",
+    "wikidata": "Q2167718",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — Belcanto Opera Festival (Rossini & belcanto), one edition each July (empty off-season). WordPress + Divi, German (no /en). Live leg drives off the year calendar /kalender-{YEAR}/: a Divi grid where each row carries a '📅 {DD}. {Monat} {YEAR} 🕢 {HH:MM}' line (**date text is sprayed with </strong><strong> + &nbsp; → strip tags per row before the date regex or 2/3 of perfs drop**) + a 'weiterlesen' link to /{slug}/; group rows by slug. No content <h1>/Event JSON-LD → title from the Yoast Article headline; venue (Königliches Kurtheater/Kursaal) + the staged-opera gate from the Yoast keywords. Opera gate: keep a slug only when its detail is a staged opera — a '…oper' keyword that is NOT 'konzertante' PLUS a Regie/Inszenierung credit — drops concerts/recitals/galas, the Kindertheater, the concertante zarzuela. **Composer defaults to Gioachino Rossini (festival stages only his operas; no byline printed).** Continuo players (fortepiano/klavier/cembalo) mapped to a 'continuo' function in-adapter. Wikidata Q2167718 has no P4647/P272 → backfill empty. proxy:false."
+  },
+  {
+    "slug": "tiroler-festspiele-erl",
+    "name": "Tiroler Festspiele Erl",
+    "city": "Erl",
+    "country": "AT",
+    "website": "https://www.tiroler-festspiele.at",
+    "wikidata": "Q1580354",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL (Tyrol/Austria) — TWO editions, Summer (~July, Wagner in the wooden Passionsspielhaus + Festspielhaus) and Winter (around New Year, Festspielhaus), both published in one season → live leg sees current + next announced opera. Laravel site: the ENTIRE spielplan rides in one inline `window.spielplanData = {de:{filter,entries:[…]}}` blob on /spielplan-karten — each entry is a dated performance with event_type_label, title ('{Composer}: {WORK}'), date_string, starting_at, subtitle (Spielort) + a link to /events/{slug}. Opera gate: keep event_type_label 'Oper'/'Oper konzertant' AND require the composer-colon in the title (drops concerts, recitals, Specials, Polsterkonzerte, the Neujahrskonzert). Group perfs by event_id; cast+creative from the detail page's TheaterEvent JSON-LD performer[] (jobTitle = German function via normalizeGermanCredit or sung role). Venue from the spielplan subtitle (detail JSON-LD location is a bare @id ref). Wikidata Q1580354 (the festival — not GmbH Q108267626) has no P4647/P272 → backfill empty. proxy:false."
   }
 ]
