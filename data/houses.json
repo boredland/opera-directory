@@ -1100,5 +1100,83 @@
     "enabled": true,
     "festival": true,
     "notes": "FESTIVAL (Tyrol/Austria) — TWO editions, Summer (~July, Wagner in the wooden Passionsspielhaus + Festspielhaus) and Winter (around New Year, Festspielhaus), both published in one season → live leg sees current + next announced opera. Laravel site: the ENTIRE spielplan rides in one inline `window.spielplanData = {de:{filter,entries:[…]}}` blob on /spielplan-karten — each entry is a dated performance with event_type_label, title ('{Composer}: {WORK}'), date_string, starting_at, subtitle (Spielort) + a link to /events/{slug}. Opera gate: keep event_type_label 'Oper'/'Oper konzertant' AND require the composer-colon in the title (drops concerts, recitals, Specials, Polsterkonzerte, the Neujahrskonzert). Group perfs by event_id; cast+creative from the detail page's TheaterEvent JSON-LD performer[] (jobTitle = German function via normalizeGermanCredit or sung role). Venue from the spielplan subtitle (detail JSON-LD location is a bare @id ref). Wikidata Q1580354 (the festival — not GmbH Q108267626) has no P4647/P272 → backfill empty. proxy:false."
+  },
+  {
+    "slug": "san-francisco-opera",
+    "name": "San Francisco Opera",
+    "city": "San Francisco",
+    "country": "US",
+    "website": "https://www.sfopera.com",
+    "wikidata": "Q390354",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Tier-1 US opera company; year-round (fall + a June summer season) at the War Memorial Opera House. Tessitura ticketing but NO public TNEW/REST endpoint — production metadata is one schema.org EventSeries JSON-LD blob per /operas/{slug}/ page (workPerformed.creator[0]=composer, performer[]=PerformanceRole cast, contributor[]=creative team with English roleName labels mapped in-adapter, subEvent[]=per-night startDate+eventStatus, inLanguage, location). Discover slugs from /buy-tickets/ + the homepage (running + announced seasons); package/concert pages under /seasons/ carry no JSON-LD and drop out (opera filter = EventSeries JSON-LD with a composer). @type is EventSeries (parse the blob directly). Alternating leads → two singers per characterName kept (dedupe role|name). Direct fetch, crawler UA, no proxy. Backfill Wikidata Q390354 (thin: 3 world premieres)."
+  },
+  {
+    "slug": "lyric-opera-of-chicago",
+    "name": "Lyric Opera of Chicago",
+    "city": "Chicago",
+    "country": "US",
+    "website": "https://www.lyricopera.org",
+    "wikidata": "Q653885",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Tier-1 US opera company (Chicago; ~Sep–Jun at the Lyric Opera House). **Cloudflare-gated: plain fetch AND the proxy's stealth render both hit the JS managed challenge — only the proxy's FlareSolverr path clears it, so the adapter routes every fetch through a fetchSolved helper appending &solve=1 to the proxy URL; proxy:true is MANDATORY (unreachable without a configured proxy).** No JSON-LD/API on the marketing pages. Season index /shows/upcoming/{season}-season/ (probe current+next) → /shows/upcoming/{season}/{slug}/. Detail: composer from a `<strong>Composer:</strong>` properties item (NOT a byline); cast+creative from artist-item-name h3 + artist-item-designation p (designation in the English CREATIVE map → creative, else sung role; strip */** debut + (date) alt-cast markers); performances from `<p class=upcoming-date>` (MM/DD/YYYY + '7:30 PM'). Opera filter: Composer property + sung cast, drop 'in concert' + voice-type-billed oratorios (Haydn Creation). solve=1 is SLOW (per-production try/catch makes timeouts non-fatal). Backfill Wikidata Q653885 (thin: 1 premiere)."
+  },
+  {
+    "slug": "los-angeles-opera",
+    "name": "Los Angeles Opera",
+    "city": "Los Angeles",
+    "country": "US",
+    "website": "https://www.laopera.org",
+    "wikidata": "Q4992164",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Tier-1 US opera company (LA; ~Sep–Jun at the Dorothy Chandler Pavilion — the only stage). Custom CMS, no proxy. Live future off the nav/`/whats-on` hardcoded `/performances/{season}/{slug}` links in two shapes (`/performances/{year}/{slug}` running tail + `/performances/{season}/{slug}` e.g. 2026-27) — one fetch enumerates everything (the /whats-on/by-date grid is client-rendered). Each detail = one production: composer from the centered italic 'Composed by {X}'/'Music by {X}' byline (its presence = the opera filter — recitals/live-film lack it); cast+creative from artist cards (font-bold name + red role/function div; combined 'Director / Scenic Designer' labels split on / and ' and '); per-night dates+times from schema.org Event JSON-LD once on sale, else fall back to the hero date-range opening date. English labels mapped in-adapter. Backfill Wikidata Q4992164 (thin: ~2 premieres)."
+  },
+  {
+    "slug": "houston-grand-opera",
+    "name": "Houston Grand Opera",
+    "city": "Houston",
+    "country": "US",
+    "website": "https://www.houstongrandopera.org",
+    "wikidata": "Q1113726",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Tier-1 US opera company (Houston; ~Oct–May at the Wortham Theater Center). Next.js marketing site, plain crawler-UA fetch (hgo.org 308s to www.houstongrandopera.org), no proxy. Production set from sitemap-0.xml (/on-stage/{slug}, more complete than the live grid). Each detail page's `__NEXT_DATA__` → props.pageProps.onStage: title, composer (plain English name; strip trailing NBSP, abbreviations like 'R. Strauss' left for the resolver), performances in _allReferencingSchedulerRightRails[].dateTime (local ISO -06:00; the rightRail 'Showtimes' array is empty for far-future — use _allReferencing…), cast/creative in nestedNavigations[].tabs[].artists[] keyed by tab tabTitle ('cast'=singers/Fach, 'creative'=team/function-label, mapped in-adapter). Opera filter: composer + non-empty cast + ≥1 dated performance (drops competitions/community/showcase + stale placeholder pages). Venue Wortham. Ticketing is Tessitura (TNEW on my.houstongrandopera.org) but the marketing JSON is richer → API unused. Backfill Wikidata Q1113726 (13 commissioned world premieres)."
+  },
+  {
+    "slug": "dallas-opera",
+    "name": "The Dallas Opera",
+    "city": "Dallas",
+    "country": "US",
+    "website": "https://dallasopera.org",
+    "wikidata": "Q3354550",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Tier-1 US opera company (Dallas; ~Oct–Apr at the Winspear Opera House). WordPress+Yoast, nginx, crawler-UA 200, no proxy. Mainstage stagings /performance/{slug}/ linked from /seasons/mainstage/ (homepage fallback). Only reliably SSR source is a schema.org MusicEvent JSON-LD: title, location (Winspear), eventStatus, startDate+endDate (opening + closing nights). **The per-night ticket grid + Cast/Creative tab are client-injected by the shared dams-ao-core widget and render inconsistently — and on Turandot the widget served ATLANTA Opera's dates (the widget is sourced from atlantaopera.org's CDN) — so the adapter IGNORES the widget for dates and trusts JSON-LD; only opening+closing nights are emitted (intermediate nights not statically exposed).** Composer = the English byline in the JSON-LD description (\"… star in {Composer}'s {TITLE} …\"; use \\p{Lu}/\\p{L} or 'Janáček' truncates); opera filter = byline present. Cast/creative from .cast-person cards opportunistically (usually empty). Backfill Wikidata Q3354550 (currently 0). No Tessitura API."
+  },
+  {
+    "slug": "seattle-opera",
+    "name": "Seattle Opera",
+    "city": "Seattle",
+    "country": "US",
+    "website": "https://www.seattleopera.org",
+    "wikidata": "Q7442146",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Tier-1 US opera company (Seattle; ~Aug–May at McCaw Hall — the only stage). **Tessitura/TNEW SPA: www.seattleopera.org returns a 2KB spinner shell for every path until the client mints an encrypted session key from secure.seattleopera.org/api/session/sessionkey (needs Content-Type: application/json, else 400), sets the TNEWEncryptedSession cookie, and reloads — the adapter replicates this (mint once via sessionCookie(), send the Cookie on every page fetch via proxyFetch since fetchHtml takes no cookie).** Production metadata from the ASP.NET marketing pages, not the cart API (the production JSON endpoints are gated behind further session state). Incremental walks /performances-events/ (running+announced); backfill walks /performances-events/archive/. Detail /performances-events/{slug}/: title h1, composer from the BOLD 'Music by {X}<br/>' byline (anchor on the bold+<br> — a plain /Music by/ matches recital prose), cast+creative from cast-member-bio cards split on the `<h2>Creative Team</h2>` boundary, run dates from the play-detail-hero-final-info-dates masthead comma-date list (times not published → null). Opera filter: bold Music-by byline + ≥1 named-character cast role (drops talks/recitals — recitals bill by voice type). Backfill Wikidata Q7442146 (currently 0). NB the sessionkey→cookie handshake is a reusable TNEW pattern if more TNEW houses are added."
+  },
+  {
+    "slug": "atlanta-opera",
+    "name": "The Atlanta Opera",
+    "city": "Atlanta",
+    "country": "US",
+    "website": "https://www.atlantaopera.org",
+    "wikidata": "Q16162233",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Atlanta; OPERA America Tier-1; ~Sep–May on the Cobb Energy PAC main stage + a smaller 'Discoveries' series). WordPress (Yoast/WPBakery), no proxy, crawler-UA 200. /whats-on/ index (homepage fallback) → /production/{slug}/ (a data-less /performances/{slug}/ season teaser is ignored). JSON-LD is Yoast-only → parse SSR HTML: composer from '<strong>Composer[…]:</strong> {Name}' (label varies — 'Composer', 'Composer & Librettist', 'Composer + Librettist'); cast+creative from cast-person cards (plain card .character = sung role; dams-ao-23k-creative-team card .role = function, English labels mapped in-adapter; bound each card by lookahead to the next cast-person/</section>/<h3> or a naive </div></div> under-captures); performances from tickets-box-column .day/.time; venue .venue-link; language 'Sung in {X}'. Ticket anchors are inert (off-site purchase) → status by date. Opera filter: REQUIRE a composer (drops the 'Discoveries' play-with-music like All is Calm + season teasers). Past shows linger in /whats-on/ (emitted, stamped past). Backfill Wikidata Q16162233 (currently 0 — young company, no P272/P4647 yet)."
   }
 ]
