@@ -1257,5 +1257,106 @@
     "enabled": true,
     "proxy": true,
     "notes": "US opera company (Portland OR; Keller Auditorium + Newmark Theatre). **proxy:true — the server presents an INCOMPLETE TLS cert chain that Node/Bun's trust store rejects (UNABLE_TO_VERIFY_LEAF_SIGNATURE); the proxy's base tier disables TLS verification so routing via it fixes it (curl -k also works).** Umbraco CMS + Vue calendar. /performances-tickets/ links each staged production at /performances-tickets/{season}/{slug}/ (homepage fallback). Each SSR page carries 'Composed by {Name}' (the opera gate) + a `<minicalendar :production-id=N>` hook; that id keys POST /umbraco/surface/events/getprodevents {prodId} — a JSON feed of every night (StartDate ASP.NET /Date(ms)/ wall-clock, TimeStr, Venue.Name, Category, TixUrl). Filter Category==='Operas' (drops Opera a la Cart / community pop-ups). Credit lines ('{Function}: {Name}' prose) parsed when present, else empty (early-announcement pages have composer but no cast yet; per-night cast not published → cast empty). Only current/announced season browsable → deep past from Wikidata Q4373261 (thin: 1 premiere)."
+  },
+  {
+    "slug": "opera-theatre-of-saint-louis",
+    "name": "Opera Theatre of Saint Louis",
+    "city": "Saint Louis",
+    "country": "US",
+    "website": "https://opera-stl.org",
+    "wikidata": "Q2497917",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "SPRING FESTIVAL (~late-May–June, all works sung in English) on the fixed Loretto-Hilton Center stage; dark the rest of the year → live = current/just-played edition + Wikidata backfill. WordPress SSR HTML, no JSON-LD/inline JSON, no proxy. /event-listings/ links each season item at /whats-on/{slug}/; composer from a 'By:'/'Music by'/'Music and lyrics by' byline in the lead paragraph, cast+creative from c-col-bio cards split by the 'Cast' heading (before=creative w/ English labels mapped in-adapter, after=sung roles), performances from c-instance rows (datetime date+time). Opera gate: composer byline + sung cast (drops auditions, Center Stage, tours, the youth co-production). Title from og:title (h1 empty). The festival programs English-language musicals (Light in the Piazza, Pirates) alongside opera — all carry a composer byline and pass (correct for OTSL's identity). Backfill Wikidata Q2497917 (a few world premieres)."
+  },
+  {
+    "slug": "cincinnati-opera",
+    "name": "Cincinnati Opera",
+    "city": "Cincinnati",
+    "country": "US",
+    "website": "https://www.cincinnatiopera.org",
+    "wikidata": "Q5120283",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "Summer FESTIVAL (one compact ~June–July season in Cincinnati Music Hall; second-oldest US opera company), dark otherwise → live = current/announced season + Wikidata backfill. Squarespace SSR HTML (page JSON-LD is WebSite/Organization boilerplate only). Discovery: the homepage nav's '{year} Summer Festival' folder subnav links each season page at top-level /{slug}. Per page: title from og:title (strip ' — Cincinnati Opera'); composer from the 'Music by'/'Music and text by' byline (opera gate — drops Studio Sessions recitals/community/index); dates+venue from one `<h2>` of `<br>`-separated lines ('July 25, 29 & 31, 2026 | 7:30 pm' — day-list AND time-list each expand to a performance; 'Music Hall • {room}'); cast+creative from a gallery whose image alts are '{Name} // {Role}' (mapped label → creative, credit-keyword → dropped, else sung role). Backfill Wikidata Q5120283 (thin)."
+  },
+  {
+    "slug": "lyric-opera-of-kansas-city",
+    "name": "Lyric Opera of Kansas City",
+    "city": "Kansas City",
+    "country": "US",
+    "website": "https://kcopera.org",
+    "wikidata": "Q21197513",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Kansas City; ~Sep–May at the Kauffman Center). WordPress (GenerateBlocks), Cloudflare but 200 to the crawler UA → no proxy. The event post type isn't REST-exposed → discovery via event-sitemap.xml (/event/{slug}/). Composer + cast/creative from SSR HTML, NOT the Tessitura ticketing (tickets.kcopera.org). Opera gate = a field-set-key/value COMPOSER or MUSIC value (drops galas/lectures/dinners/community). Performances = per-night schema.org Event JSON-LD (startDate/eventStatus/location=Kauffman Center) — **read by REGEX, not JSON.parse: the blobs embed raw `<img>` HTML in `image` that breaks JSON.parse**. Cast vs creative split by the 'Principal Cast'/'Creative Team' `<h2>` headings (the reliable discriminator), supplemented by field-set CONDUCTOR/DIRECTOR lines (deduped). English labels mapped in-adapter. Double bills come through piped with verbatim */^ markers (resolution handles). Backfill Wikidata Q21197513 (0 — live HTML is the dataset)."
+  },
+  {
+    "slug": "arizona-opera",
+    "name": "Arizona Opera",
+    "city": "Phoenix",
+    "country": "US",
+    "website": "https://www.azopera.org",
+    "wikidata": "Q4791363",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company, TWO cities — performs the SAME productions in Phoenix (Symphony Hall) + Tucson (Music Hall). Drupal 7 SSR, no JSON-LD/__NEXT_DATA__, no proxy. Production set = /sitemap.xml /performances/{slug} entries. Each production splits over two pages: /performances/{slug} carries composer in the field-sub-title pane as free text ('Music by'/'Music and libretto by'/'An Opera by'/'By {X}') + dated performances in showtime-group blocks headed by `<h3>City</h3>` (Phoenix→Symphony Hall, Tucson→Music Hall) with a date-display-single content='…T…-07:00' ISO attr; /performances/{slug}/cast lists cast+creative uniformly as cast-row tables (`<h2>` name + trailing role label; a 'Composer' label is the composer-gate fallback for older seasons). Opera gate: require a composer (drops recitals/cabarets/concerts). Per-perf venue_room keeps the Phoenix/Tucson split. Scope showtime parsing from performance-showtimes to the next panel-separator (stray `<h3>`s elsewhere). Tessitura (tickets.azopera.org) exposes no public production API. Archive reaches ~2014 via the site walk; Wikidata Q4791363 = 0. ~50 live productions."
+  },
+  {
+    "slug": "austin-opera",
+    "name": "Austin Opera",
+    "city": "Austin",
+    "country": "US",
+    "website": "https://austinopera.org",
+    "wikidata": "Q4823180",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Austin TX; ~Nov–Apr at the Long Center / Dell Hall; QID Q4823180 is 'Austin Lyric Opera', rebranded Austin Opera 2013). SSR HTML on a Tessitura-backed CMS (production metadata here; my.austinopera.org ticketing is login-gated, no public JSON), no proxy. Homepage links the current season index /shows-events/{YYYY-YYYY}-season/ → each staged opera at …-season/{slug}/ (/shows-events/events/… galas/recitals/concerts sit outside any season path → excluded). Pages carry only Organization JSON-LD → title=og:title, composer = the Creative-Team 'Composer' person card (contemporary works) else the hero .pre-head above `<h1>` when it's a name not a billing tag ('Texas Premiere'…), cast/creative = person cards (h3.h5-styled.nm + p.large) split on the id='…-Creative' boundary, performances = the hero compact date line ('October 1-4, 9 & 13, 2026' → expand to ISO days; **match `\\d{4}` before `\\d{1,2}` or '2026' splits into 20+26**). No per-night time (null); venue Dell Hall. Opera gate: composer. No scrapable archive + Wikidata Q4823180 = 0 → backfill empty for now."
+  },
+  {
+    "slug": "florida-grand-opera",
+    "name": "Florida Grand Opera",
+    "city": "Miami",
+    "country": "US",
+    "website": "https://fgo.org",
+    "wikidata": "Q2903728",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company, TWO cities — Miami (Adrienne Arsht Center / Ziff Ballet Opera House) + Fort Lauderdale (Broward Center / Au-Rene Theater). WordPress (All in One SEO + WPBakery), no Event JSON-LD, no proxy. Discover via /sitemap.xml → page-sitemap.xml: every production at /season{YY-YY}/{slug}/ (opera + non-opera share the path). Opera gate = the structured info block '<strong>{TITLE}</strong><br><strong>By: {Composer}</strong>' (non-operas — galas/songfests/all-star concerts/the-making-of featurettes — lack it). Two cities each own venue/date block: a `<p><strong>{CITY}<br>{Venue}</strong></p>` heading + a `<div class=standard-arrow>` date list → emitted as separate per-city performances (two date formats handled: 'Mar 7, 2026, at 7:00pm' and 'April 17, 2027 at 7:00 PM'). Cast+creative in one `<td>{Label}:</td><td>{Name}</td>` table (mapped function → creative, else sung role; drop TBA/PENDING, debut */**, per-night (3/7,3/10) ranges, 'titles by'). Older past pages use a legacy layout (no standard-arrow) → drop to backfill. Wikidata Q2903728 = 0."
+  },
+  {
+    "slug": "utah-opera",
+    "name": "Utah Opera",
+    "city": "Salt Lake City",
+    "country": "US",
+    "website": "https://utahopera.org",
+    "wikidata": "Q17073493",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Opera arm of the merged 'Utah Symphony | Utah Opera' org; ~4-title season (Oct–May) at the Capitol Theatre. **Symphony|Opera opera-filter is STRUCTURAL: the joint usuo.org/schedule splits the arms BY HOST — opera events link to utahopera.org/event/id/{id}/, symphony to utahsymphony.org/… — so the opera-scoped utahopera.org/schedule/ index lists ONLY opera (symphony concerts/recitals/films/galas never appear); the required composer gate is belt-and-braces.** Each /event/id/{id}/ page has per-night MusicEvent JSON-LD (naive-local startDate, location.name) — **but the blobs embed raw CONTROL CHARS that break strict JSON.parse, so parse in-adapter after stripping control chars** (the shared extractEventJsonLd silently drops them). People from SSR HTML: a `<strong>Composer:</strong> {Name}` label (present even for historical composers; colon may carry a stray &nbsp; in/out of `</strong>`, name may be in a bio `<a>`) + .artist bio cards (.artist-bio-detail-name + `<em>` role; composer/librettist card skipped). **og:title is a shared 'Explore' placeholder → title from `<title>`.** Wikidata Q17073493 = 0. No proxy."
+  },
+  {
+    "slug": "sarasota-opera",
+    "name": "Sarasota Opera",
+    "city": "Sarasota",
+    "country": "US",
+    "website": "https://www.sarasotaopera.org",
+    "wikidata": "Q7423237",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Sarasota FL; winter/spring season + a multi-decade Verdi cycle, at the Sarasota Opera House). Drupal 9, no JSON-LD, no proxy (Cloudflare passes). Announced season at /{yyyy-yy}-season (discovered from a homepage link so it rolls over) links each production at /event/{slug}; the sitemap/events views carry no event links. Each page: the work, an ENGLISH 'Composer & Premiere: {Name}; premiered…' gate field (fallback 'Music by/and Libretto by {Name}'), and uniform cast-list-item cards (h5.character-name + p.performer-name) with NO markup split between singers/crew — the label discriminates (CREATIVE_FUNCTIONS → creative, else sung role; 'The Composer' in Ariadne stays a sung role). The marketing page gives only a date RANGE → individual dates/times come from the production's Buy-Tickets button → Tessitura TNEW tickets.sarasotaopera.org/overview/{id} (tn-prod-list-item__perf-date/__perf-time; the production link is the one WITHOUT a ?psn= query — that's the gift shop). Opera gate = composer + dated perf; Youth Opera dropped on a per-production event-tag. Slavic háček entities (š/č etc.) missing from fetch.ts decodeEntities → local EXTRA_ENTITIES map (Leoš Janáček). Wikidata Q7423237 = 0."
+  },
+  {
+    "slug": "fort-worth-opera",
+    "name": "Fort Worth Opera",
+    "city": "Fort Worth",
+    "country": "US",
+    "website": "https://www.fwopera.org",
+    "wikidata": "Q5472398",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Fort Worth TX; oldest in Texas, smaller/festival-leaning; mainstage Bass Performance Hall + smaller titles at Ridglea Theater/Stage West/Ed Landreth). Wix SSR, no proxy, no Event JSON-LD/JSON API, off-site ticketing (no Tessitura) — each production is a hand-built marketing page at /{slug}. Slugs from the homepage nav + pages-sitemap.xml (union; a NON_PRODUCTION_SLUGS denylist skips org/ticketing pages). Pages aren't uniform → the parser targets recurring signals: composer (opera gate) from 'Music [and libretto] by {Name}' / a '{Name}, composer' credit / the possessive \"{Composer}'s {Title}\" lede (also og:description); performances from date lines ('Friday, April 16, 2027, 7:30 p.m.' / 'December 12, 2026, 11:00 a.m. and 4:00 p.m.' — multi-time split per row, null-time dupes dropped) + a venue line; cast/creative from a 'CAST AND CREATIVES'/'Meet the Cast' block (a Wix repeater of listitem {label,value}, fallback to '{label}\\n{name}'/'{Name}, {function}' runs), English labels mapped in-adapter. Opera gate: composer + dated perf (drops concerts/galas/competitions; client-rendered-cast pages keep composer+dates → empty cast). **Backfill: the site's own /archive/{slug} Wix Data collection (dynamic-archive sitemap; ~320 entries back to the 1960s) yields title+composer+year — far richer than Wikidata (Q5472398 = 0); the archive walk is slow through the proxy (use direct fetch).**"
   }
 ]

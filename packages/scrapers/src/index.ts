@@ -1,18 +1,23 @@
 import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
 import { scrapeAnhaltischesTheaterDessau } from "./houses/anhaltisches-theater-dessau";
 import { scrapeArenaDiVerona } from "./houses/arena-di-verona";
+import { scrapeArizonaOpera } from "./houses/arizona-opera";
 import { scrapeAtlantaOpera } from "./houses/atlanta-opera";
+import { scrapeAustinOpera } from "./houses/austin-opera";
 import { scrapeBadischesStaatstheaterKarlsruhe } from "./houses/badisches-staatstheater-karlsruhe";
 import { scrapeBayerischeStaatsoper } from "./houses/bayerische-staatsoper";
 import { scrapeBayreutherFestspiele } from "./houses/bayreuther-festspiele";
 import { scrapeBostonLyricOpera } from "./houses/boston-lyric-opera";
 import { scrapeBregenzerFestspiele } from "./houses/bregenzer-festspiele";
+import { scrapeCincinnatiOpera } from "./houses/cincinnati-opera";
 import { scrapeDallasOpera } from "./houses/dallas-opera";
 import { scrapeDetroitOpera } from "./houses/detroit-opera";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
 import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeFestivalAixEnProvence } from "./houses/festival-aix-en-provence";
 import { scrapeFestspielhausBadenBaden } from "./houses/festspielhaus-baden-baden";
+import { scrapeFloridaGrandOpera } from "./houses/florida-grand-opera";
+import { scrapeFortWorthOpera } from "./houses/fort-worth-opera";
 import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptmann-theater-goerlitz";
 import { scrapeGlimmerglassFestival } from "./houses/glimmerglass-festival";
 import { scrapeGlyndebourneFestival } from "./houses/glyndebourne-festival";
@@ -24,6 +29,7 @@ import { scrapeLandestheaterDetmold } from "./houses/landestheater-detmold";
 import { scrapeLandestheaterNiederbayern } from "./houses/landestheater-niederbayern";
 import { scrapeLosAngelesOpera } from "./houses/los-angeles-opera";
 import { scrapeLyricOperaOfChicago } from "./houses/lyric-opera-of-chicago";
+import { scrapeLyricOperaOfKansasCity } from "./houses/lyric-opera-of-kansas-city";
 import { scrapeMacerataOperaFestival } from "./houses/macerata-opera-festival";
 import { scrapeMaggioMusicaleFiorentino } from "./houses/maggio-musicale-fiorentino";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
@@ -43,6 +49,7 @@ import { scrapeOperKoeln } from "./houses/oper-koeln";
 import { scrapeOperLeipzig } from "./houses/oper-leipzig";
 import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
+import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
 import { scrapeOpernfestspieleHeidenheim } from "./houses/opernfestspiele-heidenheim";
 import { scrapePfalztheaterKaiserslautern } from "./houses/pfalztheater-kaiserslautern";
 import { scrapePittsburghOpera } from "./houses/pittsburgh-opera";
@@ -54,6 +61,7 @@ import { scrapeSalzburgerFestspiele } from "./houses/salzburger-festspiele";
 import { scrapeSanDiegoOpera } from "./houses/san-diego-opera";
 import { scrapeSanFranciscoOpera } from "./houses/san-francisco-opera";
 import { scrapeSantaFeOpera } from "./houses/santa-fe-opera";
+import { scrapeSarasotaOpera } from "./houses/sarasota-opera";
 import { scrapeSavonlinnaOperaFestival } from "./houses/savonlinna-opera-festival";
 import { scrapeSchleswigHolsteinischesLandestheater } from "./houses/schleswig-holsteinisches-landestheater";
 import { scrapeSchwetzingerSwrFestspiele } from "./houses/schwetzinger-swr-festspiele";
@@ -105,6 +113,7 @@ import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
 import { scrapeTirolerFestspieleErl } from "./houses/tiroler-festspiele-erl";
 import { scrapeUckermaerkischeBuehnenSchwedt } from "./houses/uckermaerkische-buehnen-schwedt";
+import { scrapeUtahOpera } from "./houses/utah-opera";
 import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
 import { scrapeWexfordFestivalOpera } from "./houses/wexford-festival-opera";
 import type { HouseScraper } from "./types";
@@ -134,6 +143,15 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "san-diego-opera": scrapeSanDiegoOpera,
   "detroit-opera": scrapeDetroitOpera,
   "portland-opera": scrapePortlandOpera,
+  "opera-theatre-of-saint-louis": scrapeOperaTheatreOfSaintLouis,
+  "cincinnati-opera": scrapeCincinnatiOpera,
+  "lyric-opera-of-kansas-city": scrapeLyricOperaOfKansasCity,
+  "arizona-opera": scrapeArizonaOpera,
+  "austin-opera": scrapeAustinOpera,
+  "florida-grand-opera": scrapeFloridaGrandOpera,
+  "utah-opera": scrapeUtahOpera,
+  "sarasota-opera": scrapeSarasotaOpera,
+  "fort-worth-opera": scrapeFortWorthOpera,
   "staatsoper-berlin": scrapeStaatsoperBerlin,
   "oper-koeln": scrapeOperKoeln,
   "semperoper-dresden": scrapeSemperoperDresden,
