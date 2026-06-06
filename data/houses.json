@@ -1178,5 +1178,84 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "US opera company (Atlanta; OPERA America Tier-1; ~Sep–May on the Cobb Energy PAC main stage + a smaller 'Discoveries' series). WordPress (Yoast/WPBakery), no proxy, crawler-UA 200. /whats-on/ index (homepage fallback) → /production/{slug}/ (a data-less /performances/{slug}/ season teaser is ignored). JSON-LD is Yoast-only → parse SSR HTML: composer from '<strong>Composer[…]:</strong> {Name}' (label varies — 'Composer', 'Composer & Librettist', 'Composer + Librettist'); cast+creative from cast-person cards (plain card .character = sung role; dams-ao-23k-creative-team card .role = function, English labels mapped in-adapter; bound each card by lookahead to the next cast-person/</section>/<h3> or a naive </div></div> under-captures); performances from tickets-box-column .day/.time; venue .venue-link; language 'Sung in {X}'. Ticket anchors are inert (off-site purchase) → status by date. Opera filter: REQUIRE a composer (drops the 'Discoveries' play-with-music like All is Calm + season teasers). Past shows linger in /whats-on/ (emitted, stamped past). Backfill Wikidata Q16162233 (currently 0 — young company, no P272/P4647 yet)."
+  },
+  {
+    "slug": "minnesota-opera",
+    "name": "Minnesota Opera",
+    "city": "Saint Paul",
+    "country": "US",
+    "website": "https://mnopera.org",
+    "wikidata": "Q6868391",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (St. Paul; ~Sep–May at the Ordway Center). WordPress (WP Engine), no proxy. Every season/production/subpage is an op_shows custom post at /wp-json/wp/v2/op_shows (id/slug/link only — no Event JSON-LD, no ACF), so the REST list only enumerates candidate URLs and data is parsed from the page HTML. A production = /season/{season}/{slug}/ (slug is the last segment one level under the season; deeper subpages skipped). Opera gate: a parsed composer + a dated performance (drops galas/parties/subscribe pages, the MNOP+ concert series, COVID stubs, 'in Concert'). Two templates: current pages list nights ('<p class=p1>Saturday, May 9 at 7:30pm') with composer on a 'MUSIC BY'/'MUSIC AND LIBRETTO BY' line; older pages give only an `<h2 class=sub-title>May 7–22, 2022</h2>` range (emit start date) + 'Music by'. ALL-CAPS names title-cased in-adapter. Cast+creative on the /cast-and-creative-team/ subpage (biolist cards split by Cast/Creative Team headings; a creative card's trailing job-title line ignored). English labels mapped in-adapter. Wikidata Q6868391 ~empty → deep past from the HTML archive. Venue Ordway Center."
+  },
+  {
+    "slug": "pittsburgh-opera",
+    "name": "Pittsburgh Opera",
+    "city": "Pittsburgh",
+    "country": "US",
+    "website": "https://pittsburghopera.org",
+    "wikidata": "Q7199337",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Pittsburgh; ~Oct–Apr at the Benedum Center). Bespoke ExpressionEngine site, no proxy; ticketing is off-site (opera.culturaldistrict.org, 403s the crawler) and there's no JSON-LD/__NEXT_DATA__, so everything is SSR HTML. The /season index is one season-show card grid (upcoming + a multi-year archive); each card has the title, a multi-day date string (months can change mid-string, days comma/&-separated, year trails, venue may follow), and a relative detail slug. Detail /season/{slug} (older works 302→/season/past-seasons/{slug}, followed) adds composer ('Music [and libretto] by'/'Composed by' in show-sub-head), cast (twocol headshot cells — 'Role: Name' newer vs 'Name: Role' older, disambiguated by the linked/resident-artist-marked side), and a flat creative block (English labels mapped in-adapter). Dates come from the index card (authoritative; upcoming detail pages aren't always built). Opera gate: require a composer; no curtain times (per-night layout too fragile). Backfill Wikidata Q7199337 (thin: 1 premiere, The Summer King 2017)."
+  },
+  {
+    "slug": "opera-philadelphia",
+    "name": "Opera Philadelphia",
+    "city": "Philadelphia",
+    "country": "US",
+    "website": "https://www.operaphila.org",
+    "wikidata": "Q3378854",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (Philadelphia; season incl. the fall 'Festival O' at the Academy of Music). Umbraco CMS, Cloudflare but no challenge → direct fetch, no proxy. Productions /whats-on/{NNNN}-season/{slug}/, enumerated from season-index links on the homepage + /whats-on/. Performances from schema.org MusicEvent JSON-LD (one node/night, local-ISO startDate + location.name = Academy of Music / Forrest Theatre …) — only UPCOMING nights are in the markup, so deep past is Wikidata-only. Composer + cast + creative from SSR HTML: composer in `<p class=lower-space>` ('Music by'/'An opera by'/'Music & Lyrics by', Book/Libretto co-credits stripped, Gershwin next-line column billing handled) = the opera gate (drops recitals/galas/play-with-music); cast+creative as uniform `<figcaption>Name <span>Label</span></figcaption>` cards (trailing * stripped; mapped English label → creative, else sung role). Title from `<h1 class=bigger>` (og:title is doubled upstream). Backfill Wikidata Q3378854 (thin: 1 work)."
+  },
+  {
+    "slug": "boston-lyric-opera",
+    "name": "Boston Lyric Opera",
+    "city": "Boston",
+    "country": "US",
+    "website": "https://blo.org",
+    "wikidata": "Q4947966",
+    "strategy": "json-api",
+    "enabled": true,
+    "proxy": true,
+    "notes": "US opera company (Boston; venue-itinerant — no fixed house). **proxy:true — blo.org is Cloudflare-fronted and unreachable from the runner's datacenter IP (HTTP 000 direct; 200 via the proxy auto=1).** WordPress + The Events Calendar (Tribe) REST at /wp-json/tribe/events/v1/. Page the /events feed (start_date=2024-01-01, follow next_rest_url) for dated performances — one event per night, each tagged with the production's own category (macbeth/vanessa/daughter; skip the '{YYYY}/{YY} Season' umbrella + cross-cutting tags like education/street-stage); the per-night VENUE + time ride along (Emerson Colonial / Symphony Hall — itinerant). Group by production category, then fetch the landing page /{category-slug}/ for composer ('Music by <strong>…</strong>') + 'Name | Role' modal-title credits (English labels mapped in-adapter; Librettist/Wig&Makeup/Intimacy Director dropped via a NON_ROLE guard). Opera gate: composer present (drops Mahler 3 / Ride of the Valkyries concerts, Opera Innovators talks, the staged song-cycle Song of the Earth). Backfill Wikidata Q4947966 (currently 0)."
+  },
+  {
+    "slug": "san-diego-opera",
+    "name": "San Diego Opera",
+    "city": "San Diego",
+    "country": "US",
+    "website": "https://www.sdopera.org",
+    "wikidata": "Q3354562",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "US opera company (San Diego; ~Oct–May at the San Diego Civic Theatre, plus a Balboa Theatre 'detour' contemporary series). WordPress + Elementor SSR, no proxy (page JSON-LD is LocalBusiness only). Productions /shows/{slug}/ linked from /season/ (homepage fallback). Composer from the 'Music by'/'Music and libretto by {Name}' header line = the opera gate (galas/recitals lack it). Cast + creative from Elementor `<h3>`name→`<h5>`label heading cards: a label in the in-adapter CREATIVE_FUNCTIONS map ⇒ creative, **any other label ⇒ the sung character ⇒ cast** (long bio `<h3>`s >60 chars + orphan `<h3>`s skipped; per-night '(Sat)' variants kept; deduped). Performances from Elementor date widgets in two `<p>` shapes (year inline, or pulled from the '{Month} D–D, {YYYY}' range header that also gives the venue). Tickets off-site on Tessitura (tickets.sdopera.org), status by date. Backfill Wikidata Q3354562 (thin: 1 production, La Loca 1979)."
+  },
+  {
+    "slug": "detroit-opera",
+    "name": "Detroit Opera",
+    "city": "Detroit",
+    "country": "US",
+    "website": "https://detroitopera.org",
+    "wikidata": "Q6837635",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "US opera company (Detroit; ~Oct–May at the Detroit Opera House; formerly Michigan Opera Theatre — Q6837635 carries that alias; presents both opera AND dance). WordPress on WP Engine (Rank Math), no proxy. Custom show post type at /wp-json/wp/v2/show; each show's show-category term slug encodes season+strand (25-26-opera / 24-25-dance / 25-26-special-events …) — keep only *-opera terms (resolve ids from /wp-json/wp/v2/show-category) to drop dance/film/concert/special-event, then gate on a parsed composer to drop the non-staged items sharing an opera category (a Cage 'concept' evening, a gala). Composer + dates from the HTML detail /show/{slug}/: composer `<span class=label>Music:</span>`→.description (casing varies MUSIC:/Music:), performances a.single__ticket rows ('Sunday, March 01 2:30 PM', year-less → year from ACF hero_data.date_range, +1 on Dec→Jan wrap). Cast+creative from ACF acf.artist_area (people post id + verbatim production_role), batched via /wp-json/wp/v2/people?include=…, English labels mapped in-adapter. Past shows lose ticket rows once sales close → history needs Wikidata, but Q6837635 has no P4647/P272 → backfill 0."
+  },
+  {
+    "slug": "portland-opera",
+    "name": "Portland Opera",
+    "city": "Portland",
+    "country": "US",
+    "website": "https://www.portlandopera.org",
+    "wikidata": "Q4373261",
+    "strategy": "json-api",
+    "enabled": true,
+    "proxy": true,
+    "notes": "US opera company (Portland OR; Keller Auditorium + Newmark Theatre). **proxy:true — the server presents an INCOMPLETE TLS cert chain that Node/Bun's trust store rejects (UNABLE_TO_VERIFY_LEAF_SIGNATURE); the proxy's base tier disables TLS verification so routing via it fixes it (curl -k also works).** Umbraco CMS + Vue calendar. /performances-tickets/ links each staged production at /performances-tickets/{season}/{slug}/ (homepage fallback). Each SSR page carries 'Composed by {Name}' (the opera gate) + a `<minicalendar :production-id=N>` hook; that id keys POST /umbraco/surface/events/getprodevents {prodId} — a JSON feed of every night (StartDate ASP.NET /Date(ms)/ wall-clock, TimeStr, Venue.Name, Category, TixUrl). Filter Category==='Operas' (drops Opera a la Cart / community pop-ups). Credit lines ('{Function}: {Name}' prose) parsed when present, else empty (early-announcement pages have composer but no cast yet; per-night cast not published → cast empty). Only current/announced season browsable → deep past from Wikidata Q4373261 (thin: 1 premiere)."
   }
 ]
