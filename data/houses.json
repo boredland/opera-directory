@@ -1571,5 +1571,72 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Switzerland's largest stage — FR WordPress (gtg.ch; /en mirror, read FR), Cloudflare-fronted but crawler-UA 200, **NO proxy (the proxy actually times out the homepage)**. Season grids /saison-{YY-YY}/ tag each .item with data-theme → keep theme='opera'. Detail /saison-{YY-YY}/{slug}/ SSR (only Yoast WebPage JSON-LD): composer from the 'Opéra de {X}' intro (= opera gate — drops a Zappa 'fresque musico-théâtrale', a Gershwin musical 'Musique et paroles de', 'Glam Night' galas that lack it); creative team from the bold DISTRIBUTION paragraph (French labels mapped in-adapter, compound 'Mise en scène et chorégraphie' split on et/&/,); cast from following `<p>` (Role <strong>Name</strong>, | for alternates). Performances from French date prose ('23, 25, 28 et 30 avril, 2 mai 2026 – 19h30'; **anchor strictly on day/month tokens before the YYYY – HHh time or an adjacent archive note leaks a phantom year**) + venue 'Au {Grand Théâtre de Genève|Bâtiment des Forces Motrices}'. **QID = the COMPANY Q50928969 (993 works) NOT the building Q555398 (4).** 5 live."
+  },
+  {
+    "slug": "teatro-colon",
+    "name": "Teatro Colón",
+    "city": "Buenos Aires",
+    "country": "AR",
+    "website": "https://teatrocolon.org.ar",
+    "wikidata": "Q827401",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Buenos Aires — WordPress, no proxy (Cloudflare present, no challenge; index occasionally slow ~20s → transient 0 on timeout, retry works). Opera filter = the category index /categoria-produccion/opera/ (paginated /page/N/); follow its /produccion/{slug}/ detail links (ballet/danza/conciertos never enter). Composer from the 'Música [y libreto] de {X}' byline = opera gate (drops the opera-studio devised strand). Performances from the responsive day list (`<span class=capitalize>{weekday}</span> {dd/mm}, {HH:MM} hs`); **year seeded from the single itemprop=startDate dd/mm/yyyy microdata, rolled forward on month wrap** (per-night cells carry no year). Creative+cast from Label<br><b>Name</b> paragraphs split on the 'Principales intérpretes' heading; Spanish labels mapped in-adapter (Dirección musical→conductor, Régie/Dirección de escena→director, Escenografía→set, Vestuario/Figurines→costume, Iluminación→lighting, Coreografía→choreographer, Dirección del coro→chorus-master). 'A definir' TBD placeholders dropped. Backfill Wikidata Q827401 (thin). 5 live."
+  },
+  {
+    "slug": "opera-australia",
+    "name": "Opera Australia",
+    "city": "Sydney",
+    "country": "AU",
+    "website": "https://opera.org.au",
+    "wikidata": "Q2916790",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Australia's national company (Sydney Joan Sutherland Theatre + Arts Centre Melbourne + Handa Opera on Sydney Harbour) — WordPress (tessi_production CPT) behind Cloudflare; WP REST is 401-gated. Enumerate productions from tessi_production-sitemap.xml → /productions/{slug}/, parse SSR HTML (no inline JSON): composer from the .cast-creative-component 'Composer' label else the hero `<h4>` surname (reject co-pro/gala taglines), title hero `<h1>`, cast/creative from the component's left (creative, English labels mapped in-adapter) vs center (character cast) columns (scope to .cast-creative-component — .col-left also appears in the synopsis grid), performances from the .swiper-slide carousel ('07 Nov 2026' + button time), venue from the Venue row with a slug-suffix city fallback (Sydney/Melbourne/Brisbane). **Opera gate = composer + a character cast role** (drops Wagner Gala/Brahms Requiem/Great Opera Hits concerts + musicals). Cloudflare cache is flaky (stripped variants/ConnectionRefused → per-production try/catch). Past runs lose their date carousel → coverage is announced repertoire; Wikidata Q2916790 backfill currently 0. 4 live."
+  },
+  {
+    "slug": "canadian-opera-company",
+    "name": "Canadian Opera Company",
+    "city": "Toronto",
+    "country": "CA",
+    "website": "https://www.coc.ca",
+    "wikidata": "Q2915268",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Toronto (Four Seasons Centre) — SSR HTML, no Event JSON-LD/__NEXT_DATA__, no proxy (CloudFront, no challenge). Productions at /tickets/{YYNN-season}/{slug}; season index pages (/tickets/2526-season, /tickets/2627-season) link each; incremental = current+next, backfill = ~4 seasons back (older pages 302 to a stub → deep past is Wikidata's job). Detail: composer in composer-panel__title ('Composed By {Name}' = opera gate, drops galas/Centre Stage/Ensemble Studio), cast in the 'Cast' people-panel + creative in the 'Creative' people-panel (person__name + person__role; English labels mapped in-adapter). **Per-night dates aren't in the SSR HTML — they come from the Vue performance-widget's feed at https://d1ndd0kfyiplr2.cloudfront.net/Prod/events/100/40/Live (future only, keyed by Link); past productions fall back to the opening-night `<meta name=start_date>`.** Double bills (Bluebeard/Erwartung) one production. Backfill Wikidata Q2915268 (currently 0). 13 live."
+  },
+  {
+    "slug": "new-national-theatre-tokyo",
+    "name": "New National Theatre Tokyo",
+    "city": "Tokyo",
+    "country": "JP",
+    "website": "https://www.nntt.jac.go.jp",
+    "wikidata": "Q1056064",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Japan's national theatre (opera wing) — the English site is a static shell but **the entire programme (all 4 genres) is ONE Movable Type Data API export at /english/api/data.json (~12.8MB, 332 items, no pagination)** (discovered via /english/javascript/api.js). Filter to categories[].label==='Opera' (127 items) + a composer gate (→112 staged operas; drops opera-genre recitals/aria concerts/opera-on-screen). Composer from the productions_complement 'Music by {name}' line; creative from productions_staff[] (English roles; **combined house labels fan out — 'Production'=director, 'Set and Costume Design'→both**); cast from role-bound productions_cast[]; nights from productions_datetime[] (YYYYMMDDHHMMSS), venue rooms Opera Palace/Playhouse/The Pit. is_revival inferred from absence of 'New Production'. Work titles surtitle-quoted (trim only a wrapping pair). data.json is 12.8MB + host intermittently slow (can exceed the 30s timeout on a poor link; try/catch, CI fetches fine). Archive to 2018/19; backfill Wikidata Q1056064. 112 live, English, no proxy."
+  },
+  {
+    "slug": "mariinsky-theatre",
+    "name": "Mariinsky Theatre",
+    "city": "Saint Petersburg",
+    "country": "RU",
+    "website": "https://www.mariinsky.ru",
+    "wikidata": "Q207028",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "St. Petersburg — REACHABLE (plain crawler UA, HTTP 200, no proxy; site is SSR but SLOW, 13-22s/page, within the 30s timeout). English mirror /en/ scraped. Discovery walks the playbill index /en/playbill/playbill/ for per-night detail links **/en/playbill/playbill/{Y}/{M}/{D}/{n}_{HHMM}/ (the URL encodes date+24h time — the authoritative date source)**; performances grouped into productions by the stable image-folder slug (opera_repertoire2014/{slug}). **Multi-genre → OPERA GATE = the `podtip1` 'opera by {Composer}' byline (also the composer source); ballet/operetta/concert/academy-gala bylines drop (a 'Music by' fallback was REMOVED — it re-admitted ballets).** English + Russian credit labels mapped in-adapter (Дирижёр→conductor, Режиссёр→director, etc.). Russian names are Latin-transliterated on /en/ (resolution variance vs Wikidata). Full live crawl ~1-2 min (135 links). Backfill Wikidata Q207028 (26 P4647 premieres). 45 live."
+  },
+  {
+    "slug": "bolshoi-theatre",
+    "name": "Bolshoi Theatre",
+    "city": "Moscow",
+    "country": "RU",
+    "website": "https://www.bolshoi.ru",
+    "wikidata": "Q138908",
+    "strategy": "render",
+    "enabled": false,
+    "proxy": true,
+    "notes": "**enabled:false — NOT REACHABLE.** www.bolshoi.ru sits behind a Qrator anti-DDoS layer stacked with a Cloudflare JS challenge: plain/browser-UA → 401/timeout, the proxy base tier returns the 401 challenge HTML, and proxy render/solve/auto all timed out/502'd. So the live leg's /en/ URL shapes are UNVERIFIED guesses (no page was ever seen) and the adapter returns 0 gracefully. QID Q138908 verified (the prompt's suggested Q193835 is the film 'Good Will Hunting' — wrong). Best-effort adapter written (proxy-gated render, schema.org Event then HTML-credit fallback, composer-required opera gate, EN+RU labels) so it activates if access returns; meanwhile Wikidata Q138908 backfill is the only working leg (runs in CI where SPARQL is reachable). **Re-test live access periodically, then verify the URL shapes + flip enabled:true.** Russia is otherwise represented by the Mariinsky (reachable)."
   }
 ]

@@ -7,8 +7,10 @@ import { scrapeAustinOpera } from "./houses/austin-opera";
 import { scrapeBadischesStaatstheaterKarlsruhe } from "./houses/badisches-staatstheater-karlsruhe";
 import { scrapeBayerischeStaatsoper } from "./houses/bayerische-staatsoper";
 import { scrapeBayreutherFestspiele } from "./houses/bayreuther-festspiele";
+import { scrapeBolshoiTheatre } from "./houses/bolshoi-theatre";
 import { scrapeBostonLyricOpera } from "./houses/boston-lyric-opera";
 import { scrapeBregenzerFestspiele } from "./houses/bregenzer-festspiele";
+import { scrapeCanadianOperaCompany } from "./houses/canadian-opera-company";
 import { scrapeCincinnatiOpera } from "./houses/cincinnati-opera";
 import { scrapeDallasOpera } from "./houses/dallas-opera";
 import { scrapeDetroitOpera } from "./houses/detroit-opera";
@@ -39,6 +41,7 @@ import { scrapeLyricOperaOfKansasCity } from "./houses/lyric-opera-of-kansas-cit
 import { scrapeMacerataOperaFestival } from "./houses/macerata-opera-festival";
 import { scrapeMaggioMusicaleFiorentino } from "./houses/maggio-musicale-fiorentino";
 import { scrapeMainfrankenTheaterWuerzburg } from "./houses/mainfranken-theater-wuerzburg";
+import { scrapeMariinskyTheatre } from "./houses/mariinsky-theatre";
 import { scrapeMecklenburgischesStaatstheater } from "./houses/mecklenburgisches-staatstheater";
 import { scrapeMetropolitanOpera } from "./houses/metropolitan-opera";
 import { scrapeMinnesotaOpera } from "./houses/minnesota-opera";
@@ -47,6 +50,7 @@ import { scrapeMusiktheaterImRevier } from "./houses/musiktheater-im-revier";
 import { scrapeNashvilleOpera } from "./houses/nashville-opera";
 import { scrapeNationaltheaterMannheim } from "./houses/nationaltheater-mannheim";
 import { scrapeNationaltheaterWeimar } from "./houses/nationaltheater-weimar";
+import { scrapeNewNationalTheatreTokyo } from "./houses/new-national-theatre-tokyo";
 import { scrapeNewOrleansOpera } from "./houses/new-orleans-opera";
 import { scrapeOldenburgischesStaatstheater } from "./houses/oldenburgisches-staatstheater";
 import { scrapeOperChemnitz } from "./houses/oper-chemnitz";
@@ -56,6 +60,7 @@ import { scrapeOperHalle } from "./houses/oper-halle";
 import { scrapeOperKoeln } from "./houses/oper-koeln";
 import { scrapeOperLeipzig } from "./houses/oper-leipzig";
 import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
+import { scrapeOperaAustralia } from "./houses/opera-australia";
 import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
 import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
@@ -97,6 +102,7 @@ import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeStadttheaterBremerhaven } from "./houses/stadttheater-bremerhaven";
 import { scrapeStadttheaterGiessen } from "./houses/stadttheater-giessen";
 import { scrapeTeatroAllaScala } from "./houses/teatro-alla-scala";
+import { scrapeTeatroColon } from "./houses/teatro-colon";
 import { scrapeTeatroDiSanCarlo } from "./houses/teatro-di-san-carlo";
 import { scrapeTeatroLaFenice } from "./houses/teatro-la-fenice";
 import { scrapeTeatroReal } from "./houses/teatro-real";
@@ -188,6 +194,12 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "hungarian-state-opera": scrapeHungarianStateOpera,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
+  "teatro-colon": scrapeTeatroColon,
+  "opera-australia": scrapeOperaAustralia,
+  "canadian-opera-company": scrapeCanadianOperaCompany,
+  "new-national-theatre-tokyo": scrapeNewNationalTheatreTokyo,
+  "mariinsky-theatre": scrapeMariinskyTheatre,
+  "bolshoi-theatre": scrapeBolshoiTheatre,
   "wiener-staatsoper": scrapeWienerStaatsoper,
   "royal-opera-house": scrapeRoyalOperaHouse,
   "teatro-alla-scala": scrapeTeatroAllaScala,
