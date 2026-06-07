@@ -17,13 +17,16 @@ import { scrapeDeutscheOperBerlin } from "./houses/deutsche-oper-berlin";
 import { scrapeDutchNationalOpera } from "./houses/dutch-national-opera";
 import { scrapeFestivalAixEnProvence } from "./houses/festival-aix-en-provence";
 import { scrapeFestspielhausBadenBaden } from "./houses/festspielhaus-baden-baden";
+import { scrapeFinnishNationalOpera } from "./houses/finnish-national-opera";
 import { scrapeFloridaGrandOpera } from "./houses/florida-grand-opera";
 import { scrapeFortWorthOpera } from "./houses/fort-worth-opera";
 import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptmann-theater-goerlitz";
 import { scrapeGlimmerglassFestival } from "./houses/glimmerglass-festival";
 import { scrapeGlyndebourneFestival } from "./houses/glyndebourne-festival";
 import { scrapeGranTeatreDelLiceu } from "./houses/gran-teatre-del-liceu";
+import { scrapeGrandTheatreDeGeneve } from "./houses/grand-theatre-de-geneve";
 import { scrapeHoustonGrandOpera } from "./houses/houston-grand-opera";
+import { scrapeHungarianStateOpera } from "./houses/hungarian-state-opera";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeLaMonnaieDeMunt } from "./houses/la-monnaie-de-munt";
 import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
@@ -57,12 +60,14 @@ import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
 import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
 import { scrapeOpernfestspieleHeidenheim } from "./houses/opernfestspiele-heidenheim";
+import { scrapeOpernhausZuerich } from "./houses/opernhaus-zuerich";
 import { scrapePfalztheaterKaiserslautern } from "./houses/pfalztheater-kaiserslautern";
 import { scrapePittsburghOpera } from "./houses/pittsburgh-opera";
 import { scrapePortlandOpera } from "./houses/portland-opera";
 import { scrapeRossiniInWildbad } from "./houses/rossini-in-wildbad";
 import { scrapeRossiniOperaFestivalPesaro } from "./houses/rossini-opera-festival-pesaro";
 import { scrapeRoyalOperaHouse } from "./houses/royal-opera-house";
+import { scrapeRoyalSwedishOpera } from "./houses/royal-swedish-opera";
 import { scrapeSaarlaendischesStaatstheater } from "./houses/saarlaendisches-staatstheater";
 import { scrapeSalzburgerFestspiele } from "./houses/salzburger-festspiele";
 import { scrapeSanDiegoOpera } from "./houses/san-diego-opera";
@@ -92,6 +97,8 @@ import { scrapeStaatstheaterWiesbaden } from "./houses/staatstheater-wiesbaden";
 import { scrapeStadttheaterBremerhaven } from "./houses/stadttheater-bremerhaven";
 import { scrapeStadttheaterGiessen } from "./houses/stadttheater-giessen";
 import { scrapeTeatroAllaScala } from "./houses/teatro-alla-scala";
+import { scrapeTeatroDiSanCarlo } from "./houses/teatro-di-san-carlo";
+import { scrapeTeatroLaFenice } from "./houses/teatro-la-fenice";
 import { scrapeTeatroReal } from "./houses/teatro-real";
 import { scrapeTheaterAachen } from "./houses/theater-aachen";
 import { scrapeTheaterAltenburgGera } from "./houses/theater-altenburg-gera";
@@ -129,6 +136,7 @@ import { scrapeVolkstheaterRostock } from "./houses/volkstheater-rostock";
 import { scrapeWashingtonNationalOpera } from "./houses/washington-national-opera";
 import { scrapeWexfordFestivalOpera } from "./houses/wexford-festival-opera";
 import { scrapeWienerStaatsoper } from "./houses/wiener-staatsoper";
+import { scrapeWienerVolksoper } from "./houses/wiener-volksoper";
 import { scrapeWolfTrapOpera } from "./houses/wolf-trap-opera";
 import type { HouseScraper } from "./types";
 
@@ -172,6 +180,14 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "new-orleans-opera": scrapeNewOrleansOpera,
   "tulsa-opera": scrapeTulsaOpera,
   "wolf-trap-opera": scrapeWolfTrapOpera,
+  "opernhaus-zuerich": scrapeOpernhausZuerich,
+  "teatro-la-fenice": scrapeTeatroLaFenice,
+  "teatro-di-san-carlo": scrapeTeatroDiSanCarlo,
+  "royal-swedish-opera": scrapeRoyalSwedishOpera,
+  "finnish-national-opera": scrapeFinnishNationalOpera,
+  "hungarian-state-opera": scrapeHungarianStateOpera,
+  "wiener-volksoper": scrapeWienerVolksoper,
+  "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
   "wiener-staatsoper": scrapeWienerStaatsoper,
   "royal-opera-house": scrapeRoyalOperaHouse,
   "teatro-alla-scala": scrapeTeatroAllaScala,

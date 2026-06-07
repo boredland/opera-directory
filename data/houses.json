@@ -1482,5 +1482,94 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "De Nationale Opera, Amsterdam (Nationale Opera & Ballet / Stopera) — Drupal site SHARED with Dutch National Ballet, no proxy. **Opera-vs-ballet filter is two-fold: (1) URL prefix — opera lives at /de-nationale-opera/{season}/{slug} (ballet at /het-nationale-ballet/, joint galas /nationale-opera-ballet/); only the opera prefix is walked, discovered from the paged /sitemap.xml (?page=1..3, complete back to 2018-19, far richer than the live grid). (2) composer required.** Composer from a page-header__subtitle--production heading ('Giuseppe Verdi (1813 – 1901)', lifespan stripped); credits+cast from `<p>` blocks of `<br>`-separated 'Label Name' lines (two markups: linked-bold live vs plain-bold archived). **Future/live pages expose a data-node-id → tickets API /api/1.0/activities/{nodeId}/{any-YYYY-MM} returns the whole run's dates/times/sale-status in one call (the YYYY-MM segment is required but decorative; year resolved against the JSON-LD startDate/endDate span, handling Dec→Jan).** Past pages lack the node id → JSON-LD premiere startDate seeds a single perf. The /en/ detail URLs 404 → labels are DUTCH (Muzikale leiding/Dirigent→conductor, Regie→director, Decor→set, Kostuums→costume, Licht→lighting, Video→video, Choreografie→choreographer, Koor→chorus-master, Dramaturgie→dramaturgy). Venue fixed Nationale Opera & Ballet. Backfill Wikidata Q2281375 (the company). 126 live (2018/19→)."
+  },
+  {
+    "slug": "opernhaus-zuerich",
+    "name": "Opernhaus Zürich",
+    "city": "Zurich",
+    "country": "CH",
+    "website": "https://www.opernhaus.ch",
+    "wikidata": "Q670406",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Top German-language house — ProcessWire SSR, no API, no proxy (use www. + trailing slash; apex hangs). FUTURE leg: /spielplan/kalendarium/pageN walked forward (~24 pages), each embeds one schema.org Event JSON-LD per night (startDate→date+time, location.name→venue, description line 1→composer). PAST leg: per-season opera-only archive indexes /spielplan/archiv/oper-{SS}/ (back to oper-1213) link the same /spielplan/kalendarium/{slug}/{season}/ detail pages (walk backward bounded by since; past pages carry only a run RANGE 'Von…bis…', not per-night). **OPERA GATE on the detail `<meta name=description>`: keep only when it begins 'Oper von …' (composer from that line) — a naive composer check fails because Ballett pages read 'Ballett von … Musik von …'; drops Ballett/Konzerte/Liederabende/galas/Führungen.** Credits: leading-team blocks (label+person → normalizeGermanCredit creative) + bio-legend rows (function span = sung role). Backfill Wikidata Q670406 (the building, 14 labeled premieres; company Q113486569's 1371 items are unlabeled bare-QIDs the strategy skips). 10 live."
+  },
+  {
+    "slug": "teatro-la-fenice",
+    "name": "Teatro La Fenice",
+    "city": "Venice",
+    "country": "IT",
+    "website": "https://www.teatrolafenice.it",
+    "wikidata": "Q223942",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Venice — WordPress + The Events Calendar; wp-json/tribe 403s + JSON-LD is Yoast boilerplate → parse SSR HTML. **Opera filter = the taxonomy term `opera-{YY}-{YY}` (/event-category/opera-2025-26/)** whose archive lists each staged opera as an sn_list_lyric_i card (ballet/concerti/conferenze under their own terms). Current term off the homepage (rollover-safe); backfill synthesizes earlier terms (cards thin below ~2023/24). Per /event/{slug}/ detail: composer from `<div class=excerpt>` byline, fallback meta-description '{Title} di {Composer}'/'musica di {X}' (= opera gate); performances from ticket-URL &data=YYYYMMDD + `<div class=time>`; venue Teatro La Fenice / Teatro Malibran. Italian labels mapped in-adapter (credit/cast layout varies — parse both sn_text_aside_tx + locandina, label decides). Deep past Wikidata Q223942 (the building, ~118 premieres; company Q113486506 has 2). 7 live."
+  },
+  {
+    "slug": "teatro-di-san-carlo",
+    "name": "Teatro di San Carlo",
+    "city": "Naples",
+    "country": "IT",
+    "website": "https://www.teatrosancarlo.it",
+    "wikidata": "Q628491",
+    "strategy": "json-api",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Naples — Europe's oldest active opera house. WordPress `spettacoli` custom post via WP REST (/en/wp-json/wp/v2/spettacoli?per_page=100); categoria-spettacoli term 82 'Opera' is the discipline gate (concert-version billings inside it dropped on 'concert version'/'in forma di concerto'). **proxy:true — the whole site is behind a botguard/hCaptcha challenge no plain fetch or stealth render clears; ONLY the proxy's FlareSolverr `&solve=1` does (JSON wrapped in `<pre>`, unwrap+decode); intermittent → retries 6× w/ backoff.** ACF data_inizio/data_fine = run bounds; a testo_semplice body holds composer ('Music by {X}' = gate), creative+cast ('Label | Name'), and per-night date lines (two formats). EN labels lead (API serves /en/), IT folded in. Deep past Wikidata Q628491 (~212 works). 4 live."
+  },
+  {
+    "slug": "royal-swedish-opera",
+    "name": "Royal Swedish Opera",
+    "city": "Stockholm",
+    "country": "SE",
+    "website": "https://www.operan.se",
+    "wikidata": "Q254283",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Kungliga Operan, Stockholm — Umbraco SSR fronting a ticketing API, no proxy. Slugs from /site-map.xml (/forestallningar/{slug}); prefer the English mirror /en/productions/{slug}, fall back to the Swedish page (some operas Swedish-only, e.g. Läderlappen). Composer + creative team from the 'Music & creative team' accordion (Word-pasted spans → flatten + split on EN/SE labels). Performances: webapi.operan.se/performances?productionIds={pid} (saleable nights, offset-ISO; base URL recovered from the JS bundle). Cast: /contentapi/en/people/forperformances?performanceIds=… (role=character name in Swedish; drop 'Med' ensemble + 'Dirigent'). **Opera gate = composer + a Director credit + no ballet/dance/musical token in og:title** (pure ballets credit a choreographer not a director; og:title token is a NEGATIVE filter only — only ~26/86 carry one). EN + Swedish labels mapped in-adapter. Backfill Wikidata Q254283 (the company; building is Q118463941). 6 live."
+  },
+  {
+    "slug": "finnish-national-opera",
+    "name": "Finnish National Opera",
+    "city": "Helsinki",
+    "country": "FI",
+    "website": "https://oopperabaletti.fi",
+    "wikidata": "Q1418002",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Suomen Kansallisooppera, Helsinki — shared with the Finnish National Ballet on one WordPress site, no proxy. Gated to opera by TWO facets: the WP REST genre taxonomy (English 'opera' = term 547, listed via wp/v2/production?lang=en&genre=547) AND a composer required from the structured `<dl class=production-cast>` 'Säveltäjä'/'Music' row (no composer ⇒ ballet/concert/gala, dropped). **The server renders inline Gutenberg content.rendered slowly (~38s cold for one blob; full set overruns the 30s timeout) → page the list at 10 sequentially (the API rate-limits parallel requests).** ooppera/events?production={id} = each production's dated perfs (date/time, Finnish venue, sale status). **Creative labels arrive in a MIX of Finnish and English even on the EN locale** — both mapped in-adapter; composer ONLY from the structured row (the hero byline is sometimes 'Company – Composer – Librettist'). Backfill Wikidata Q1418002 (the company, not building Q118398102; back to 1924). 39 live."
+  },
+  {
+    "slug": "hungarian-state-opera",
+    "name": "Hungarian State Opera",
+    "city": "Budapest",
+    "country": "HU",
+    "website": "https://www.opera.hu",
+    "wikidata": "Q36833",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
+  },
+  {
+    "slug": "wiener-volksoper",
+    "name": "Wiener Volksoper",
+    "city": "Vienna",
+    "country": "AT",
+    "website": "https://www.volksoper.at",
+    "wikidata": "Q694747",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Vienna's second opera house (mixes Oper/Operette/Musical/Ballett/Konzert/Kinder) — German SSR, schema.org MICRODATA (no JSON-LD/API), no proxy. The spielplan emits one `<article class=event-list-item>` per dated performance with title, a genre+composer line (event-description, e.g. 'Operette von Emmerich Kálmán'), `<time datetime>`, ISO startDate, venue, detail URL, and a stable filter[production] id (group flat rows by it; the detail URL's numeric segment is the PERFORMANCE id, varies per night). **OPERA/OPERETTE FILTER (two-pronged on the cheap row): keep iff event-description names Oper or Operette AND a composer parses (composerFromText) AND not Musical/Ballett/Konzert/Kammermusik/Liederabend** — drops West Side Story, ballets, concerts, plays-with-music, concert-hybrid double bills (the Requiem half of 'KaiserRequiem'). Detail page credits `<dt class=role>/<dd class=name>` → normalizeGermanCredit. Incremental = /spielplan/ + recent months; backfill walks /spielplan/{month}-{year}.de.html backward (~2019+, pandemic months 500) + Wikidata Q694747 (building; company Q113070627 has 0). 9 live."
+  },
+  {
+    "slug": "grand-theatre-de-geneve",
+    "name": "Grand Théâtre de Genève",
+    "city": "Geneva",
+    "country": "CH",
+    "website": "https://www.gtg.ch",
+    "wikidata": "Q50928969",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Switzerland's largest stage — FR WordPress (gtg.ch; /en mirror, read FR), Cloudflare-fronted but crawler-UA 200, **NO proxy (the proxy actually times out the homepage)**. Season grids /saison-{YY-YY}/ tag each .item with data-theme → keep theme='opera'. Detail /saison-{YY-YY}/{slug}/ SSR (only Yoast WebPage JSON-LD): composer from the 'Opéra de {X}' intro (= opera gate — drops a Zappa 'fresque musico-théâtrale', a Gershwin musical 'Musique et paroles de', 'Glam Night' galas that lack it); creative team from the bold DISTRIBUTION paragraph (French labels mapped in-adapter, compound 'Mise en scène et chorégraphie' split on et/&/,); cast from following `<p>` (Role <strong>Name</strong>, | for alternates). Performances from French date prose ('23, 25, 28 et 30 avril, 2 mai 2026 – 19h30'; **anchor strictly on day/month tokens before the YYYY – HHh time or an adjacent archive note leaks a phantom year**) + venue 'Au {Grand Théâtre de Genève|Bâtiment des Forces Motrices}'. **QID = the COMPANY Q50928969 (993 works) NOT the building Q555398 (4).** 5 live."
   }
 ]
