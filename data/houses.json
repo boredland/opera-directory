@@ -204,9 +204,9 @@
     "country": "AT",
     "website": "https://www.wiener-staatsoper.at",
     "wikidata": "Q209937",
-    "strategy": "jsonld-event",
-    "enabled": false,
-    "notes": "Excellent archive: the Aufführungsdatenbank covers performances back to 1869. Modern spielplan emits structured JSON; check /en/play-schedule and the backend calendar API."
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Vienna State Opera — German-language SSR HTML, no JSON-LD/API, no proxy. Two indexes link /kalender/detail/{slug}/ pages: /repertoire/ + the month calendar /kalender/oper/{year}/{German-month}/ (incl. 'Jänner'; 404s Jul/Aug, prev-month nav skips empty). OPERA GATE on the detail page: keep only when the text-uppercase genre block reads 'Oper' AND a composer is in `<span class=production-name>` (drops ballet/concerts/matinees/Kinder/Kammer). normalizeGermanCredit for credits; performances from accordion-button rows (German date + opt HH:MM; status htmx-lazy → derive from date); cast+creative from data-offcanvas-title/-subtitle pairs (deduped). Title content attr: decode twice + strip soft hyphens. Live leg forward+shallow-recent (calendar 404s before ~2020); deep past via Wikidata Q209937 (the HOUSE; company Q113044719 has 0). Deep-archive option: archiv.wiener-staatsoper.at (to 1869). 43 live."
   },
   {
     "slug": "badisches-staatstheater-karlsruhe",
@@ -469,9 +469,9 @@
     "country": "GB",
     "website": "https://www.rbo.org.uk",
     "wikidata": "Q55018",
-    "strategy": "tessitura-api",
-    "enabled": false,
-    "notes": "Tessitura-backed ticketing; production + performance JSON behind the what's-on pages. Collections/archive site (ROH Collections) covers historical productions."
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Covent Garden, London (rebranded 'Royal Ballet and Opera' 2024). Browser UA required (crawler UA → HTTP 500; set in-adapter). Tessitura ticketing but metadata is on the Prismic marketing site (rbo.org.uk; roh.org.uk 301s here) — no public TNEW/REST repertoire API. LIVE: one fetch of /tickets-and-events ships the whole what's-on inline in window.__REACT_QUERY_DEHYDRATED_STATE__ (queryKey ['eventsPage']); opera filter = tag id 921 'Opera and music' (vs 922 ballet). Each /tickets-and-events/{slug}-details ['singleProductionPage',slug] state carries production.creatives[] (composer role is 'Music' OR 'Composer'); empty-cache pages fall back to a render + DOM parse. Composer-required gate. Venues Main Stage/Linbury; per-night cast role-less → cast empty. Backfill Wikidata Q55018 (~48; company records Q4266459/Q113069937 have 0). English labels in-adapter."
   },
   {
     "slug": "metropolitan-opera",
@@ -491,9 +491,9 @@
     "country": "IT",
     "website": "https://www.teatroallascala.org",
     "wikidata": "Q5471",
-    "strategy": "jsonld-event",
-    "enabled": false,
-    "notes": "Archivio storico Ricordi + La Scala's own archive for past seasons. Live cartellone has structured event data."
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "La Scala, Milan — Italian static-page CMS (/it/, mirror /en/), no JSON-LD/API, no proxy (Cloudflare-fronted but direct crawler-UA fetch returns full SSR). Discover seasons from the homepage → current+next season index /it/stagione/{YYYY-YYYY}/index.html (survives the Dec-7 rollover). The `…/opera/{slug}.html` URL path is the opera filter (drops balletto/concerto/Filarmonica). Per detail page: composer in div.cnt__subtitle (REQUIRED gate), creative team in table.table-prd th/td (Italian labels mapped in-adapter), cast in table.evt (td.dt role + singer cell, alternates split on / with date hints stripped), performances in time.cal__date[datetime] slides + ticket-button status. /it/archivio + /api/ robots-disallowed → deep past via Wikidata Q5471 (457, P4647/P272). Local entity pre-pass for &rsquo;/&scaron;. 21 live."
   },
   {
     "slug": "oper-wuppertal",
@@ -1427,5 +1427,60 @@
     "festival": true,
     "proxy": true,
     "notes": "FESTIVAL (US/English; young-artist SUMMER program of the Wolf Trap Foundation — a few fully-staged operas + recitals Jun–Aug at The Barns / Filene Center, dark otherwise). **Cloudflare blocks datacenter IPs (403 direct) → proxy:true (the base ?url= tier suffices, no solve).** Wolf Trap is multi-genre → the adapter scopes to the WTO 'opera' show series: /opera/ lists every event as /show/{NN}opera/{MMDDYY}/ (co-listed {NN}filene/… Filene-Center concerts skipped). Each detail page = one production: performance nights are schema.org Event JSON-LD (one node/night, local-time startDate, location.name = The Barns); **composer has NO structured field — it rides in the marketing description as `<Composer>'s \"<Title>\"` (parseComposer takes the last possessive before the quoted title, skipping the 'Wolf Trap Opera's…' boilerplate; surname-only e.g. Rossini/Tchaikovsky)**; 'Sung in {Lang}' = language; cast+creative = two SSR `<p>` blocks (`<strong>SECTION</strong>` then `<strong>Label:</strong> Name<br>` pairs; CAST labels = sung roles, CREATIVE TEAM labels = functions mapped in-adapter; 'Chorus' ensemble line + Studio-artist '*' stripped). Opera filter = sung CAST block AND a possessive-composer description (drops Aria Jukebox/Studio-Artists-in-Concert/Salon Series/Navy Band). JSON-LD carries raw \\uXXXX escapes → JSON.parse the captured string. Backfill Wikidata Q8029913 (0). Proxy is slow (~15-18s/req, brushes the 30s timeout — retries clean)."
+  },
+  {
+    "slug": "opera-national-de-paris",
+    "name": "Opéra national de Paris",
+    "city": "Paris",
+    "country": "FR",
+    "website": "https://www.operadeparis.fr",
+    "wikidata": "Q283339",
+    "strategy": "render",
+    "enabled": true,
+    "notes": "Paris Opera (Palais Garnier + Opéra Bastille); FR site (fetchRendered uses the env proxy in CI). Seasons discovered from /programmation (e.g. 25-26, 26-27); each season page /programmation/saison-{YY-YY} is **client-rendered → fetched via render** to harvest `/saison-{YY-YY}/opera/{slug}` links — the URL genre prefix filters opera from /ballet/ and /concerts-and-recitals/. Detail pages are SSR (plain fetch): **the MusicEvent object is in `<script id=microDataBase type=application/json>` (NOT ld+json — extractEventJsonLd would miss it)** carrying name/genre/startDate/endDate/location.name (Palais Garnier vs Opéra Bastille)/description + a team-list of {name,role} (creative interleaved with cast). Composer = the 'Musique' credit (opera gate); FRENCH labels mapped in-adapter (Direction musicale→conductor, Mise en scène→director, Décors/Scénographie→set, Costumes, Lumières→lighting, Chorégraphie→choreographer, Chef des Chœurs→chorus-master, Dramaturgie, Vidéo→video; compound 'Décors et costumes' split on ,/et/&). **Per-night dates are behind the Secutix billetterie (403 to datacenter) → only run-boundary startDate/endDate emitted (under-counts nights).** EN slugs differ from FR (use FR detail URLs for French labels). Backfill Wikidata Q283339 (118 premieres, 1678–2009; the company — not the Garnier/Bastille buildings). 11 live."
+  },
+  {
+    "slug": "teatro-real",
+    "name": "Teatro Real",
+    "city": "Madrid",
+    "country": "ES",
+    "website": "https://www.teatroreal.es",
+    "wikidata": "Q211250",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Madrid's leading opera house — Drupal (/es + /en/ mirror; read /es), no proxy. Live opera leg follows the opera-only index /es/temporada-actual/opera (the season is split by URL: opera / danza / conciertos / flamenco-real / real-junior → dance/concerts/flamenco never enter) and its /es/espectaculo/{slug} links. One detail page carries everything: composer from the 'Música de {X}' description byline (SPANISH byline parse, not composerFromText), performances from functions-show__block (Spanish-month date '10 diciembre 2025'→ISO + hour + Sala Principal room + sold-out marker), creative team from lista-artistas rows (Spanish labels mapped in-adapter: Dirección musical→conductor, Dirección de escena→director, Escenografía→set, Vestuario/Figurines→costume, Iluminación→lighting, Coreografía→choreographer, Dirección del coro→chorus-master, Dramaturgia→dramaturgy), cast from the Reparto grid (span.position role + span.title singer). Opera gate = composer byline (drops promo pages + the Bayreuth-orchestra tour concert sharing /espectaculo/). **NB the 'Equipo artístico' grid reuses the Reparto markup → cast parsing is bounded to the `<h3>Reparto</h3>`…next-`<h3>` slice.** Backfill Wikidata Q211250 (the house, not company Q108892001). 14."
+  },
+  {
+    "slug": "gran-teatre-del-liceu",
+    "name": "Gran Teatre del Liceu",
+    "city": "Barcelona",
+    "country": "ES",
+    "website": "https://www.liceubarcelona.cat",
+    "wikidata": "Q1130050",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Barcelona's leading opera house — Drupal 10, no proxy (Cloudflare-fronted but serves JSON + detail HTML to a plain UA). The /en/whats-on listing is client-rendered from one static file the front-end fetches: GET https://www.liceubarcelona.cat/sites/default/files/programme.json (~219 items keyed by node id — the archive the ticketing reaches (~Sep 2024→) + announced future). Each item: multilingual categories taxonomy, title, **composer in `subtitle`**, sessions[] (one row/night, unix-epoch date). **Opera by the house's own taxonomy: keep category id 9 (Opera), drop 3049 (Opera in concert version) + ballet/concerts/Petit Liceu/micro-operas/lectures; composer + ≥1 dated session required** (drops cycle-package rows like the Ring with 0 sessions). JSON has no credits → each kept production's detail page (url.en slug) fetched once: creative team from field-2024-artistic-profile `<dl>`, cast (role→singer) from field-artists `<dl>`. **Conductor & chorus-master aren't function-labelled — they hang off the ensemble `<dd>` (Orchestra/Orquestra→conductor, Choir/Cor/Coro→chorus-master) with a leading/trailing 'Conductor'/'Director' word stripped.** ES/CA/EN labels mapped in-adapter. Epoch→Europe/Madrid. Backfill Wikidata Q1130050 (the HOUSE; company Q118492617 has only 2). 13 live."
+  },
+  {
+    "slug": "la-monnaie-de-munt",
+    "name": "La Monnaie / De Munt",
+    "city": "Brussels",
+    "country": "BE",
+    "website": "https://www.lamonnaiedemunt.be",
+    "wikidata": "Q551479",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Belgium's national opera house (bilingual FR La Monnaie / NL De Munt) — read the English site lamonnaiedemunt.be/en, no proxy. Programme index /en/program?c=1 (Opera category) links detail pages /en/program/{id}-{slug}. Hybrid: per-night schema.org Event JSON-LD gives dated performances (TZ-offset startDate, eventStatus, single La Monnaie venue) but **carries NO composer**; the `<h1>` prod-title carries title + composer (**composer = the LAST inner styled `<span>`**; title = everything before it; absent ⇒ guided tour/spoken/dance → dropped, the opera gate), and the #cast block emits role-label/names pairs for creative team (mapped English labels in-adapter) + sung roles. **Alternate-cast performance-date parentheticals (e.g. 'ATALLA AYAN (18, 21, 24.6)') must be stripped BEFORE comma-splitting names** or names shatter. °/* alternate markers stripped. Opera category index still admits non-staged items (tours/Young-Opera) → composer gate drops them. Backfill Wikidata Q551479 (the HOUSE, P4647 ~194 premieres — richer than company Q54805195's P272 set). 14 live."
+  },
+  {
+    "slug": "dutch-national-opera",
+    "name": "Dutch National Opera",
+    "city": "Amsterdam",
+    "country": "NL",
+    "website": "https://www.operaballet.nl",
+    "wikidata": "Q2281375",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "De Nationale Opera, Amsterdam (Nationale Opera & Ballet / Stopera) — Drupal site SHARED with Dutch National Ballet, no proxy. **Opera-vs-ballet filter is two-fold: (1) URL prefix — opera lives at /de-nationale-opera/{season}/{slug} (ballet at /het-nationale-ballet/, joint galas /nationale-opera-ballet/); only the opera prefix is walked, discovered from the paged /sitemap.xml (?page=1..3, complete back to 2018-19, far richer than the live grid). (2) composer required.** Composer from a page-header__subtitle--production heading ('Giuseppe Verdi (1813 – 1901)', lifespan stripped); credits+cast from `<p>` blocks of `<br>`-separated 'Label Name' lines (two markups: linked-bold live vs plain-bold archived). **Future/live pages expose a data-node-id → tickets API /api/1.0/activities/{nodeId}/{any-YYYY-MM} returns the whole run's dates/times/sale-status in one call (the YYYY-MM segment is required but decorative; year resolved against the JSON-LD startDate/endDate span, handling Dec→Jan).** Past pages lack the node id → JSON-LD premiere startDate seeds a single perf. The /en/ detail URLs 404 → labels are DUTCH (Muzikale leiding/Dirigent→conductor, Regie→director, Decor→set, Kostuums→costume, Licht→lighting, Video→video, Choreografie→choreographer, Koor→chorus-master, Dramaturgie→dramaturgy). Venue fixed Nationale Opera & Ballet. Backfill Wikidata Q2281375 (the company). 126 live (2018/19→)."
   }
 ]
