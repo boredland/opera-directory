@@ -1638,5 +1638,118 @@
     "enabled": false,
     "proxy": true,
     "notes": "**enabled:false — NOT REACHABLE.** www.bolshoi.ru sits behind a Qrator anti-DDoS layer stacked with a Cloudflare JS challenge: plain/browser-UA → 401/timeout, the proxy base tier returns the 401 challenge HTML, and proxy render/solve/auto all timed out/502'd. So the live leg's /en/ URL shapes are UNVERIFIED guesses (no page was ever seen) and the adapter returns 0 gracefully. QID Q138908 verified (the prompt's suggested Q193835 is the film 'Good Will Hunting' — wrong). Best-effort adapter written (proxy-gated render, schema.org Event then HTML-credit fallback, composer-required opera gate, EN+RU labels) so it activates if access returns; meanwhile Wikidata Q138908 backfill is the only working leg (runs in CI where SPARQL is reachable). **Re-test live access periodically, then verify the URL shapes + flip enabled:true.** Russia is otherwise represented by the Mariinsky (reachable)."
+  },
+  {
+    "slug": "theater-an-der-wien",
+    "name": "Theater an der Wien",
+    "city": "Vienna",
+    "country": "AT",
+    "website": "https://www.theater-wien.at",
+    "wikidata": "Q374336",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Vienna's third opera house (contemporary+baroque; incl. the Kammeroper) — echonet CMS, no JSON-LD/API, no proxy (/ → /de/home). Three SSR views each hold one piece: the genre-filtered listing /de/spielplan?filter=cat_1 is the OPERA WHITELIST (cat_1='Szenisches Musiktheater' incl. cat_4 Familienoper; drops cat_3 concertante + masterclasses/tours/concerts) giving id+title+composer(p.subtitle)+venue+date-range (further gated on the subtitle reading as a composer name to drop tour blurbs); /de/kalendarium is the ONLY view with per-night `<time datetime>`+HH.MM (URL carries the production id — the join key); the detail page has cast/creative (`<div class=cast-person>` → castrole/castname) but NO dates. Incremental joins current+next-season cat_1 whitelist to the kalendarium; backfill walks /de/spielplan/saison{YYYY-YY}?filter=cat_1 backward (archive floor ~2022/23, renovation years 404) using listing date-ranges + Wikidata Q374336 (the building, 97 productions; company Q119138280 has 1). Venues 'Theater an der Wien' / 'Kammeroper'. 20 live."
+  },
+  {
+    "slug": "oper-graz",
+    "name": "Oper Graz",
+    "city": "Graz",
+    "country": "AT",
+    "website": "https://www.oper-graz.com",
+    "wikidata": "Q618239",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Bühnen Graz — WordPress (www.oper-graz.com 308s to oper-graz.buehnen-graz.com), no proxy. The whole announced season is ONE SSR page /spielplan/kalender/: each performance is an `<article class=event event-cat-{genre}>` with title `<h3>`, composer p.sub__title, a `<p class=data>` 'Wd. DD.MM.YYYY / HH:MM bis … / {venue}', a vorstellungsId ticket link, and a contibutors-list of '{Label}: {Name}' pairs (creative+cast mixed → normalizeGermanCredit). **OPERA GATE keeps event-cat-oper + event-cat-operette ONLY — note the deceptive event-cat-operaktiv (education) must be dropped by exact match.** Detail /produktion/{slug}/ renders cast client-side → the calendar is the sole complete source; group per-night articles by slug. Page is large (~6-8s). Backfill Wikidata Q618239 (the house; 6 production items but all UNLABELLED → yields 0 usable today; company Q113484903 has 1). 12 live."
+  },
+  {
+    "slug": "landestheater-linz",
+    "name": "Landestheater Linz",
+    "city": "Linz",
+    "country": "AT",
+    "website": "https://www.landestheater-linz.at",
+    "wikidata": "Q1802665",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Oö. Landestheater (opera/operetta at the Musiktheater am Volksgarten + Musical/Tanz/Schauspiel/Konzert), no proxy. SSR shell whose widgets hydrate from one public GraphQL endpoint /ltl-events-api (urql client in the Vue bundle; POST queries directly, no browser). productions(limit) lists current+next-season productions with branch(genre)/composer/season/premiere/location; events(limit) is the future-only what's-on feed (each perf has startDate +02:00 / cancelled / location.stageName + subjectOf = parent production id, the JOIN KEY); production(identifier) yields Besetzung (contributor.namedPosition=creative, performer.roleName=cast). **Opera gate = branch.name ∈ {Oper, Operette, Oper am Klavier} AND a composer.** events() ignores offset/date params → returns the full announced future (no past); production.subEvent is empty (use events). premiere.startDate has a UTC TZ artifact → take calendar date / prefer events startDate. No archive → Wikidata Q1802665 backfill (thin: 1, Kepler/Glass). 25 live."
+  },
+  {
+    "slug": "tiroler-landestheater-innsbruck",
+    "name": "Tiroler Landestheater Innsbruck",
+    "city": "Innsbruck",
+    "country": "AT",
+    "website": "https://www.landestheater.at",
+    "wikidata": "Q125858099",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Innsbruck (Musiktheater/Schauspiel/Tanz/Konzert/Junges) — Pimcore CMS, no proxy. The JSX spielplan widget (data-schedule-configid=37802) is backed by /dynamic-search/schedule/j-schedule?configId=37802&sections=30647&page=999 (sections=30647 narrows to Musiktheater; page=999 past the last returns the whole announced set in one shot). Group activities by stable productionId, drop 'Einführung' intro-talks, then fetch /produktionen/{slug} for the genre line + cast. **Opera gate (two-pronged on production__header-description): a parseable composer AND not a Musical/Musikalischer Monolog/Theaterstück-mit-Musik/revue/Liederabend/Konzert** (operetta/Singspiel name the librettist in the leading 'von' → take composer from a separate 'Musik von …' row; run the non-opera gate on the FULL description). Cast in production__cast-role blocks. feed start is UTC → render date+time via Europe/Vienna (DST). No deep archive. Wikidata Q125858099 (Antikrist 1980). 16 live."
+  },
+  {
+    "slug": "salzburger-landestheater",
+    "name": "Salzburger Landestheater",
+    "city": "Salzburg",
+    "country": "AT",
+    "website": "https://www.salzburger-landestheater.at",
+    "wikidata": "Q113470544",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Salzburg's year-round house (NOT the Festspiele; opera/operetta + Musical/Ballett/Schauspiel) — bespoke SSR HTML, no JSON-LD/API, no proxy. Discovery = the per-season programme index /de/programm/index-{from}-{to}.html (current+next season), one card per production → /de/produktionen/{slug}.html. **OPERA GATE = the `sparte-30` card class (Oper division — Schauspiel sparte-2, Ballett sparte-4, Musical sparte-29, Junges sparte-18) PLUS a required composer** (the house often omits the word 'Oper' and Aida carries no genre word, so the class is the reliable gate; required-composer drops the spoken children's pieces filed under sparte-30). Detail: .titles `<h2>`=composer, `<span class=function>`/`<span class=person>` credit pairs (creative via map, verbatim → sung roles; alternations split, '(date)' stripped), .terminlist DD.MM.YYYY + HH.MM (status by date; no venue_room/cancel marker → null). Older indexes drop sparte-* → deep past via Wikidata Q113470544 (the company; thin). 13 live."
+  },
+  {
+    "slug": "stadttheater-klagenfurt",
+    "name": "Stadttheater Klagenfurt",
+    "city": "Klagenfurt",
+    "country": "AT",
+    "website": "https://www.stadttheater-klagenfurt.at",
+    "wikidata": "Q872374",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Klagenfurt (opera/operetta + Musical/Schauspiel/Ballett) — WordPress, no JSON-LD/REST-CPT, no proxy. Productions /produktionen/{slug}/, listed on /produktionen/; current season's 'Bühne' cards inline, **other seasons via the productionoverviewfilter admin-ajax POST (action+nonce+season_id, the season term id from the overview Spielzeit `<select>`, newest-first to 2012/13) returning {output:html}** — only the `#buehne` genre anchor is followed (concerts/workshops/talks/children under other anchors). **Opera gate (inverse keep-logic, on the detail c-production-detail__subtitle): keep iff composerFromText resolves AND the subtitle names NO non-opera format** (Schauspiel/Ballett/Musical/musikalische Komödie/Kriminalkomödie/Konzert/Gala/Liederabend/workshop/Führung/Probe/Gespräch) — because the house often omits 'Oper' (Wagner='Handlung in … Aufzügen'). Dates c-production-date-tickets__entry-meta ('Di, 09.06.2026, 19:30'); finished productions drop them (empty perfs). Cast/creative c-production-cast__entry. **Between-seasons NOW → live operas have empty perfs; deep past via the season-archive walk (~64-105 prods) + Wikidata Q872374 (the building; Koukourgi/Cherubini 2010).** A few canonical plays whose subtitle omits the genre word leak (resolver won't match them as composers)."
+  },
+  {
+    "slug": "opernfestspiele-st-margarethen",
+    "name": "Opernfestspiele St. Margarethen",
+    "city": "Sankt Margarethen im Burgenland",
+    "country": "AT",
+    "website": "https://www.operimsteinbruch.at",
+    "wikidata": "Q2026658",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — open-air 'Oper im Steinbruch' in the Roman quarry Römersteinbruch St. Margarethen (Burgenland); ONE big staged opera each summer (~mid-Jul–late-Aug). Plain SSR HTML (Laravel-style), no JSON-LD, no proxy. The home page hero gives `<h1>{work}</h1>` + `<p class=production-author>{composer}</p>` and links the YEAR-SUFFIXED siblings /spielplan-{year} (termin-{ISO} sections + `<p class=time>`), /besetzung-{year} (sung roles) and /leading-team-{year} (German function labels → creative) — all discovered from the home page so the adapter survives the yearly slug rollover. Opera gate = hero yields both work title + composer. No per-date status. Backfill Wikidata Q2026658 (no P4647/P272 yet → empty, QID rides along). 1 live (Tosca, 24 perfs)."
+  },
+  {
+    "slug": "seefestspiele-moerbisch",
+    "name": "Seefestspiele Mörbisch",
+    "city": "Mörbisch am See",
+    "country": "AT",
+    "website": "https://www.seefestspiele-moerbisch.at",
+    "wikidata": "Q365976",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — lake-stage venue on the Neusiedlersee (Seebühne Mörbisch, Burgenland), historically Austria's flagship OPERETTA festival (Strauss/Lehár/Kálmán); some years a musical/opera. ONE main production each summer (~Jul–Aug). TYPO3, no JSON-LD, no proxy. The single production lives under /programm/{slug}/ with infos-zum-stueck (title + run-year subtitle + the Termine date grid + composer in PROSE — no structured field, mined via 'Musik von …' then composerFromText then a musical-creator phrasing), leading-team (creative) and besetzung (cast); the slug is read off the homepage Programm nav, dropping /programm/gastveranstaltungen/ (Schlager galas/concerts). Date grid cells carry no year → taken from the run-range subtitle. **CAVEAT: the 2026 title is 'Ein Käfig voller Narren'/La Cage aux Folles — a MUSICAL (Jerry Herman); the prose-only page has no genre field so the composer gate can't filter it out (operetta years parse cleanly).** Backfill Wikidata Q365976 (no productions yet). 1 live."
+  },
+  {
+    "slug": "lehar-festival-bad-ischl",
+    "name": "Lehár Festival Bad Ischl",
+    "city": "Bad Ischl",
+    "country": "AT",
+    "website": "https://www.leharfestival.at",
+    "wikidata": "Q19971126",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — summer OPERETTA festival in the Kongress & TheaterHaus Bad Ischl (~Jul–Aug); operetta in scope. WordPress/Impreza (us_portfolio CPT), no proxy. Detail pages /stuecke/{slug}/ enumerated from /us_portfolio-sitemap.xml; each carries an `untertitel` field ('Operette von {Composer}' → composerFromText, the GATE — drops the gala/matinees/symposium/exhibition/children's show), a `premiere` field supplying the year for the year-less tablepress spielplan table, a `spielort` venue field, and centered credit `<p>Label<br>…<strong>Name</strong></p>` blocks in the 'Leitung' (→creative, normalizeGermanCredit) and 'Besetzung' (→cast) tab sections. Related-production teasers carry their own untertitel/premiere → take the first (main) DOM occurrence. Backfill Wikidata Q19971126 (no P4647/P272 yet). 3 live (Boccaccio/Suppè, Gräfin Mariza/Kálmán, Der Göttergatte/Lehár)."
+  },
+  {
+    "slug": "buehne-baden",
+    "name": "Bühne Baden",
+    "city": "Baden bei Wien",
+    "country": "AT",
+    "website": "https://www.buehnebaden.at",
+    "wikidata": "Q2328187",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Operetta house of Baden bei Wien (Stadttheater + open-air Sommerarena + Max-Reinhardt-Foyer), mixing Operette/Oper with Musical/Schauspiel/gala/workshop (buehne-baden.at does NOT resolve — use buehnebaden.at). Nuxt app but content is SSR HTML — no Event JSON-LD (only a WebSite blob), no readable JSON API (window.__NUXT__ is a minified IIFE) → parse SSR. Two steps (like Wiener Volksoper): the index /de/spielplan/produktionen lists one teaser-item card per production (title + a genre+composer subline 'Operette von {Composer}' + detail URL /de/produktionen/{slug}/{id}); each kept detail page yields event-item dated perfs (German date + `<span>`year + date-element__time + a per-event genre label + venue room labels__item--room) and roles__item credits. **OPERA GATE = the card subline names Oper/Operette AND a composer parses** (drops 'Musical von …'/'Schauspiel mit Musik von …'/workshops/galas; the per-event genre label also drops 'Special' intro-talks interleaved into a kept operetta). No SSR archive (older /de/spielzeit-* are client-only, 404) → backfill Wikidata Q2328187 (the building — not demolished Q60603372 or series Q135905863; currently no productions). 4 live."
   }
 ]
