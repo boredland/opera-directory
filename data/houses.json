@@ -1751,5 +1751,72 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Operetta house of Baden bei Wien (Stadttheater + open-air Sommerarena + Max-Reinhardt-Foyer), mixing Operette/Oper with Musical/Schauspiel/gala/workshop (buehne-baden.at does NOT resolve — use buehnebaden.at). Nuxt app but content is SSR HTML — no Event JSON-LD (only a WebSite blob), no readable JSON API (window.__NUXT__ is a minified IIFE) → parse SSR. Two steps (like Wiener Volksoper): the index /de/spielplan/produktionen lists one teaser-item card per production (title + a genre+composer subline 'Operette von {Composer}' + detail URL /de/produktionen/{slug}/{id}); each kept detail page yields event-item dated perfs (German date + `<span>`year + date-element__time + a per-event genre label + venue room labels__item--room) and roles__item credits. **OPERA GATE = the card subline names Oper/Operette AND a composer parses** (drops 'Musical von …'/'Schauspiel mit Musik von …'/workshops/galas; the per-event genre label also drops 'Special' intro-talks interleaved into a kept operetta). No SSR archive (older /de/spielzeit-* are client-only, 404) → backfill Wikidata Q2328187 (the building — not demolished Q60603372 or series Q135905863; currently no productions). 4 live."
+  },
+  {
+    "slug": "theater-basel",
+    "name": "Theater Basel",
+    "city": "Basel",
+    "country": "CH",
+    "website": "https://www.theater-basel.ch",
+    "wikidata": "Q391991",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Switzerland's largest theatre (opera/ballet/Schauspiel) — Drupal 10 SSR, Cloudflare-fronted but reachable with the crawler UA, no proxy. NO JSON API and NO schema.org Event JSON-LD; listing pages (/de/oper, /de/archiv) are JS-rendered, so DISCOVERY enumerates single-segment /de/{slug} production pages from the paginated sitemap.xml?page=N — **pages are NOT additive (production slugs sit on a LATER page than the marketing pages) so walk until a page has no `<loc>`, never early-stop on 'no new slug'**. Double gate: (1) genre badge `<h1>…<span class=color-red>Oper</span>` (only Oper/Operette; drops Ballett/Schauspiel/Musical/Musiktheater/Konzert + badge-less editorial), (2) a composer from the 'Werkangaben' block's explicit 'Musik von …' clause (composerFromText — a genitive-prose fallback manufactured false composers and was rejected). Performances: article.activity-teaser (date from field-activity-start datetime UTC date-only; **LOCAL HH:MM from the `<time>` text — the Z instant is off by the CET/CEST offset**; venue field-stage). Creative from production-crew-list ('{Label} – {persons}'); no sung cast printed → cast empty. Backfill Wikidata Q391991 (the building; its P272 items are all title-only bare-QIDs → 0 dated; decoy complex Q115462144 has 2). 8 live."
+  },
+  {
+    "slug": "theater-st-gallen",
+    "name": "Theater St. Gallen",
+    "city": "Sankt Gallen",
+    "country": "CH",
+    "website": "https://www.theatersg.ch",
+    "wikidata": "Q2415961",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Swiss Vierspartenhaus — theatersg.ch 301s to konzertundtheater.ch (the real host); SSR HTML, no JSON-LD/API, no proxy. Discovery walks per-season indexes /programm/spielplan-{SS}-{SS}/ (only current+next published; past seasons 404 — no HTML archive). **Two-pronged opera gate: the season row's data-filter-values genre token (Oper/Operette) pre-filters cheaply, then the detail `<meta name=description>` '…, Oper von {Composer}' supplies the require-a-composer gate** (drops Musical/Schauspiel/Tanz/Konzert). Title from `<title>`; performances from productionschedule rows (itemprop=startDate ISO + __location room); cast/creative from productioncastandcrew__item '{Label}: {Name}' rows via normalizeGermanCredit. **The house strips the schedule block once a run ends → played productions yield no dates and are dropped; deep past = Wikidata Q2415961 (the building — labeled 'Lili Elbe'/Picker 2023; the company Q113486256's 2617 items are all unlabeled, skipped).** 1 live now (Aida; season mostly played out)."
+  },
+  {
+    "slug": "luzerner-theater",
+    "name": "Luzerner Theater",
+    "city": "Lucerne",
+    "country": "CH",
+    "website": "https://www.luzernertheater.ch",
+    "wikidata": "Q115520768",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Lucerne (opera/Schauspiel/Tanz) — Drupal 10 SSR, no JSON API, no proxy. FUTURE leg: /spielplan/kalender SSR-renders the whole announced future as one spielplan-item per night (ISO date on id='YYYY-MM-DD', detail slug spielplan-item__link href=/{slug}, genre, time, stage, ticket badge); group by slug. **Opera gate: genre begins 'Oper' (Oper/Operette/'Oper, Tanz') AND a composer from the 'Oper von …' subtitle.** Detail /{slug}: creative ul.production-crew-list + sung cast ul.production-cast-list (li.cast-row '{Label} – name(s)', names in role-persons wrappers — some carry an extra tooltip class with an inline SVG, match role-persons\\b; cast can be roleless for dance-operas → name-only). No scrapable archive (calendar forward-only, detail date lists JS-rendered) → Wikidata backfill Q115520768 (the production company; building Q1727231; all P272 items unlabeled → ~0). 8 live / 66 perfs. Cancelled nights: title prefix 'entfällt:' → status cancelled."
+  },
+  {
+    "slug": "konzert-theater-bern",
+    "name": "Bühnen Bern",
+    "city": "Bern",
+    "country": "CH",
+    "website": "https://www.buehnenbern.ch",
+    "wikidata": "Q54911483",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Bern (formerly Konzert Theater Bern, now Bühnen Bern; opera/Schauspiel/Tanz/Konzert) — ProcessWire CMS SSR, no JSON-LD/API, no proxy. FUTURE: the calendar /spielplan/programm/ paginates by month via ?month=M-YYYY (options enumerated from its `<select name=month>`, spans the announced season); each month lists /spielplan/programm/{slug}/ links, deduped. **Opera gate = the house per-performance `division` tag == 'Oper' (vs Schauspiel/Tanz/Berner Symphonieorchester/Sonderveranstaltungen) AND a composer from the acc-item-sub-title genre line** ('Oper … von', 'Melodramma von', '… Musik von' — **the FIRST acc-item-sub-title is the venue line; scan all `<br>`-lines and PREFER a 'Musik von'/'(Musik)' line so musicals/film-adaptations like My Fair Lady don't attribute to the librettist/film director**). Title og:title/`<h1>`; performances cp-calendar-item (DD.MM.YYYY + HH:MM + location room + Ausverkauft/wenige status); creative el-prod-team-item (h3.function + a.name), cast el-ensemble-item (h3.name + p.function role) — **anchor on `<h3 class=function>` vs `<h3 class=name>` or cast leaks into the team's first credit**. No archive → Wikidata backfill Q54911483 (the arts org; building Q869926 has no P272; the org's 1 P272 item is unlabeled → 0). 10 live."
+  },
+  {
+    "slug": "theater-orchester-biel-solothurn",
+    "name": "Theater Orchester Biel Solothurn",
+    "city": "Biel/Bienne",
+    "country": "CH",
+    "website": "https://www.tobs.ch",
+    "wikidata": "Q1254620",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "TOBS! — touring two-city company (Biel/Bienne + Solothurn) — TYPO3 SSR, no JSON-LD, no proxy. **The genre-filtered listing /spielplan/oper enumerates exactly the music-theatre productions (one /spielplan/detail/{slug} link each) — that listing IS the opera/operetta filter, so Schauspiel/Tanz/Konzert never enter.** Detail: `<h1>` title, first event-teaser line = composer (the gate — no composer → dropped), credit rows '<strong>label</strong> + name', performances under `<h4>` venue headers (Stadttheater Biel/Solothurn, Nebia, 'Auswärtige Vorstellungen' touring rows carry their own inline venue) as 'Wd DD.MM.YY HH:MM' (**2-digit year → 20YY**). **Two credit layouts coexist — a sparse one labelling only the 'Leitung'/'Besetzung' groups (per-person rows then have names without function/role labels — faithful), and a dense per-row one** — handled in one pass via the German map; unmapped labels (Lichtgestaltung/Videos/Nachdirigat) fall to verbatim role. Pasticcio/anthology programmes mis-read the subtitle as composer (edge case). Deep past Wikidata Q1254620 (thin; 'Das heilige Experiment' 1943). 10 live."
+  },
+  {
+    "slug": "st-galler-festspiele",
+    "name": "St. Galler Festspiele",
+    "city": "Sankt Gallen",
+    "country": "CH",
+    "website": "https://www.stgaller-festspiele.ch",
+    "wikidata": "Q1351965",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "festival": true,
+    "notes": "FESTIVAL — summer (~Jun–Jul) closing Theater St. Gallen's season; one Festspieloper shown alternately open-air on the Klosterhof (in front of the cathedral) or in the Grosses Haus, framed by a play + a dance piece + a concert series (all dropped). stgaller-festspiele.ch 301s into the house CMS konzertundtheater.ch/programm/stgaller-festspiele (advertises only the current edition → live = one opera). Each item links a /programm/a-z/{slug}/ detail page; **gate on the productionhead__maininfos genre line ('Oper von …' → opera; 'Schauspiel'/'Tanzstück' → dropped — composerFromText alone is NOT enough, it pulls a name out of 'Schauspiel von …' too, so an explicit isOpera() regex is required).** Performances from the cast-accordion `<option>DD.MM.YYYY HH:MM</option>` rows; credits productioncastandcrew__item 'Label: Name' split by Leitung/Besetzung headers (inclusive 'Tänzer:innen' labels contain an inner colon → split on ': '); venue read from the page (alternates Klosterhof/Grosses Haus yearly). Backfill Wikidata Q1351965 (no P4647/P272 yet → 0). 1 live (Aida 2026)."
   }
 ]

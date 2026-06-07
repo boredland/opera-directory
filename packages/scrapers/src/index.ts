@@ -31,6 +31,7 @@ import { scrapeGrandTheatreDeGeneve } from "./houses/grand-theatre-de-geneve";
 import { scrapeHoustonGrandOpera } from "./houses/houston-grand-opera";
 import { scrapeHungarianStateOpera } from "./houses/hungarian-state-opera";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
+import { scrapeKonzertTheaterBern } from "./houses/konzert-theater-bern";
 import { scrapeLaMonnaieDeMunt } from "./houses/la-monnaie-de-munt";
 import { scrapeLandesbuehnenSachsen } from "./houses/landesbuehnen-sachsen";
 import { scrapeLandestheaterCoburg } from "./houses/landestheater-coburg";
@@ -39,6 +40,7 @@ import { scrapeLandestheaterLinz } from "./houses/landestheater-linz";
 import { scrapeLandestheaterNiederbayern } from "./houses/landestheater-niederbayern";
 import { scrapeLeharFestivalBadIschl } from "./houses/lehar-festival-bad-ischl";
 import { scrapeLosAngelesOpera } from "./houses/los-angeles-opera";
+import { scrapeLuzernerTheater } from "./houses/luzerner-theater";
 import { scrapeLyricOperaOfChicago } from "./houses/lyric-opera-of-chicago";
 import { scrapeLyricOperaOfKansasCity } from "./houses/lyric-opera-of-kansas-city";
 import { scrapeMacerataOperaFestival } from "./houses/macerata-opera-festival";
@@ -91,6 +93,7 @@ import { scrapeSchwetzingerSwrFestspiele } from "./houses/schwetzinger-swr-fests
 import { scrapeSeattleOpera } from "./houses/seattle-opera";
 import { scrapeSeefestspieleMoerbisch } from "./houses/seefestspiele-moerbisch";
 import { scrapeSemperoperDresden } from "./houses/semperoper-dresden";
+import { scrapeStGallerFestspiele } from "./houses/st-galler-festspiele";
 import { scrapeStaatsoperBerlin } from "./houses/staatsoper-berlin";
 import { scrapeStaatsoperHamburg } from "./houses/staatsoper-hamburg";
 import { scrapeStaatsoperHannover } from "./houses/staatsoper-hannover";
@@ -117,6 +120,7 @@ import { scrapeTeatroReal } from "./houses/teatro-real";
 import { scrapeTheaterAachen } from "./houses/theater-aachen";
 import { scrapeTheaterAltenburgGera } from "./houses/theater-altenburg-gera";
 import { scrapeTheaterAnDerWien } from "./houses/theater-an-der-wien";
+import { scrapeTheaterBasel } from "./houses/theater-basel";
 import { scrapeTheaterBielefeld } from "./houses/theater-bielefeld";
 import { scrapeTheaterBonn } from "./houses/theater-bonn";
 import { scrapeTheaterBremen } from "./houses/theater-bremen";
@@ -135,10 +139,12 @@ import { scrapeTheaterMagdeburg } from "./houses/theater-magdeburg";
 import { scrapeTheaterMuenster } from "./houses/theater-muenster";
 import { scrapeTheaterNeubrandenburgNeustrelitz } from "./houses/theater-neubrandenburg-neustrelitz";
 import { scrapeTheaterNordhausen } from "./houses/theater-nordhausen";
+import { scrapeTheaterOrchesterBielSolothurn } from "./houses/theater-orchester-biel-solothurn";
 import { scrapeTheaterOsnabrueck } from "./houses/theater-osnabrueck";
 import { scrapeTheaterPforzheim } from "./houses/theater-pforzheim";
 import { scrapeTheaterPlauenZwickau } from "./houses/theater-plauen-zwickau";
 import { scrapeTheaterRudolstadt } from "./houses/theater-rudolstadt";
+import { scrapeTheaterStGallen } from "./houses/theater-st-gallen";
 import { scrapeTheaterTrier } from "./houses/theater-trier";
 import { scrapeTheaterUlm } from "./houses/theater-ulm";
 import { scrapeTheaterVorpommern } from "./houses/theater-vorpommern";
@@ -220,6 +226,12 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "seefestspiele-moerbisch": scrapeSeefestspieleMoerbisch,
   "lehar-festival-bad-ischl": scrapeLeharFestivalBadIschl,
   "buehne-baden": scrapeBuehneBaden,
+  "theater-basel": scrapeTheaterBasel,
+  "theater-st-gallen": scrapeTheaterStGallen,
+  "luzerner-theater": scrapeLuzernerTheater,
+  "konzert-theater-bern": scrapeKonzertTheaterBern,
+  "theater-orchester-biel-solothurn": scrapeTheaterOrchesterBielSolothurn,
+  "st-galler-festspiele": scrapeStGallerFestspiele,
   "wiener-staatsoper": scrapeWienerStaatsoper,
   "royal-opera-house": scrapeRoyalOperaHouse,
   "teatro-alla-scala": scrapeTeatroAllaScala,
