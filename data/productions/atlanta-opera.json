@@ -1,0 +1,378 @@
+[
+  {
+    "id": "atlanta-opera/atlanta-opera-carmen-2027",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "fr",
+    "detail_url": "https://www.atlantaopera.org/production/carmen-2027/",
+    "creative_team": [
+      {
+        "person_slug": "christopher-allen",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rihab-chaieb",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "joshua-guerrero",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "ukasz-golinski",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "andrea-carroll",
+        "role_slug": "georges-bizet/carmen/micaela"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-opera/atlanta-opera-silent-night-2026",
+    "work_slug": "kevin-puts/silent-night",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.atlantaopera.org/production/silent-night-2026/",
+    "creative_team": [
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vita-tzykun",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "conor-hanratty",
+        "function": "director"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-wierzel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "erhard-rom",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sylvia-d-eramo",
+        "role_slug": "kevin-puts/silent-night/anna-s-rensen"
+      },
+      {
+        "person_slug": "david-crawford",
+        "role_slug": "kevin-puts/silent-night/british-major"
+      },
+      {
+        "person_slug": "mark-diamond",
+        "role_slug": "kevin-puts/silent-night/father-palmer"
+      },
+      {
+        "person_slug": "christian-sanders",
+        "role_slug": "kevin-puts/silent-night/jonathan-dale"
+      },
+      {
+        "person_slug": "luke-sutliff",
+        "role_slug": "kevin-puts/silent-night/lt-audebert"
+      },
+      {
+        "person_slug": "jonathan-bryan",
+        "role_slug": "kevin-puts/silent-night/lt-gordon"
+      },
+      {
+        "person_slug": "aleksey-bogdanov",
+        "role_slug": "kevin-puts/silent-night/lt-horstmayer"
+      },
+      {
+        "person_slug": "kameron-lopreore",
+        "role_slug": "kevin-puts/silent-night/nikolaus-sprink"
+      },
+      {
+        "person_slug": "edward-nelson",
+        "role_slug": "kevin-puts/silent-night/ponchel"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-opera/atlanta-opera-the-flying-dutchman-2027",
+    "work_slug": "richard-wagner/the-flying-dutchman",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.atlantaopera.org/production/the-flying-dutchman-2027/",
+    "creative_team": [
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andrew-potter",
+        "role_slug": "richard-wagner/the-flying-dutchman/daland"
+      },
+      {
+        "person_slug": "jonathan-burton",
+        "role_slug": "richard-wagner/the-flying-dutchman/erik"
+      },
+      {
+        "person_slug": "aubrey-odle",
+        "role_slug": "richard-wagner/the-flying-dutchman/mary"
+      },
+      {
+        "person_slug": "wendy-bryn-harmer",
+        "role_slug": "richard-wagner/the-flying-dutchman/senta"
+      },
+      {
+        "person_slug": "ryan-speedo-green",
+        "role_slug": "richard-wagner/the-flying-dutchman/the-dutchman"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-opera/atlanta-opera-tosca-2027",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.atlantaopera.org/production/tosca-2027/",
+    "creative_team": [
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      },
+      {
+        "person_slug": "steven-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philip-cokorinos",
+        "role_slug": "giacomo-puccini/tosca/a-sacristan"
+      },
+      {
+        "person_slug": "ernesto-petti",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "jorge-puerta",
+        "role_slug": "giacomo-puccini/tosca/cavaradossi"
+      },
+      {
+        "person_slug": "monica-conesa",
+        "role_slug": "giacomo-puccini/tosca/tosca"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-opera/atlanta-opera-turandot-2026",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.atlantaopera.org/production/turandot-2026/",
+    "creative_team": [
+      {
+        "person_slug": "gwynn-root-wolford",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniel-chervinsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ana-kuzmanic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "gregory-luis-boyle",
+        "function": "director"
+      },
+      {
+        "person_slug": "jose-israel-garcia",
+        "function": "director"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-wierzel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "erhard-rom",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "steven-cole",
+        "role_slug": "giacomo-puccini/turandot/emperor-altoum"
+      },
+      {
+        "person_slug": "juliana-grigoryan",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "kyle-white",
+        "role_slug": "giacomo-puccini/turandot/mandarin"
+      },
+      {
+        "person_slug": "wayd-odle",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "eleomar-cuello",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "terrence-chin-loy",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "jonathan-burton",
+        "role_slug": "giacomo-puccini/turandot/prince-calaf"
+      },
+      {
+        "person_slug": "angela-meade",
+        "role_slug": "giacomo-puccini/turandot/princess-turandot"
+      },
+      {
+        "person_slug": "peixin-chen",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      }
+    ]
+  },
+  {
+    "id": "atlanta-opera/atlanta-opera-twilight-of-the-gods-2026",
+    "work_slug": "richard-wagner/twilight-of-the-gods",
+    "house_slug": "atlanta-opera",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.atlantaopera.org/production/twilight-of-the-gods-2026/",
+    "creative_team": [
+      {
+        "person_slug": "walter-huff",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jacobsen-woollen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "roberto-kalb",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mattie-ullrich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "aletha-saunders",
+        "function": "director"
+      },
+      {
+        "person_slug": "emma-grimsley",
+        "function": "director"
+      },
+      {
+        "person_slug": "gregory-luis-boyle",
+        "function": "director"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-wierzel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "erhard-rom",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksey-bogdanov",
+        "role_slug": "richard-wagner/twilight-of-the-gods/alberich"
+      },
+      {
+        "person_slug": "lise-lindstrom",
+        "role_slug": "richard-wagner/twilight-of-the-gods/brunnhilde"
+      },
+      {
+        "person_slug": "john-arnold",
+        "role_slug": "richard-wagner/twilight-of-the-gods/first-vassal"
+      },
+      {
+        "person_slug": "gretchen-krupp",
+        "role_slug": "richard-wagner/twilight-of-the-gods/flosshilde"
+      },
+      {
+        "person_slug": "le-bu",
+        "role_slug": "richard-wagner/twilight-of-the-gods/gunther"
+      },
+      {
+        "person_slug": "sylvia-d-eramo",
+        "role_slug": "richard-wagner/twilight-of-the-gods/gutrune"
+      },
+      {
+        "person_slug": "david-leigh",
+        "role_slug": "richard-wagner/twilight-of-the-gods/hagen"
+      },
+      {
+        "person_slug": "olivia-vote",
+        "role_slug": "richard-wagner/twilight-of-the-gods/second-norn"
+      },
+      {
+        "person_slug": "wayd-odle",
+        "role_slug": "richard-wagner/twilight-of-the-gods/second-vassal"
+      },
+      {
+        "person_slug": "stefan-vinke",
+        "role_slug": "richard-wagner/twilight-of-the-gods/siegfried"
+      },
+      {
+        "person_slug": "caitlin-lynch",
+        "role_slug": "richard-wagner/twilight-of-the-gods/third-norn"
+      },
+      {
+        "person_slug": "tamara-mumford",
+        "role_slug": "richard-wagner/twilight-of-the-gods/waltraute-first-norn"
+      },
+      {
+        "person_slug": "alexandra-razskazoff",
+        "role_slug": "richard-wagner/twilight-of-the-gods/wellgunde"
+      },
+      {
+        "person_slug": "cadie-j-bryan",
+        "role_slug": "richard-wagner/twilight-of-the-gods/woglinde"
+      }
+    ]
+  }
+]

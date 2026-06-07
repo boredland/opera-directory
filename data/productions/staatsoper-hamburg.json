@@ -271,13 +271,13 @@
       {
         "person_slug": "jeffrey-gibson",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "verena-hemmerlein",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "verena-hemmerlein",
-        "role_slug": "neue-welten/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "marc-happel",
         "role_slug": "neue-welten/kostumumsetzung"
@@ -605,13 +605,13 @@
       {
         "person_slug": "omer-meir-wellber",
         "function": "conductor"
+      },
+      {
+        "person_slug": "jurgen-rose",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "jurgen-rose",
-        "role_slug": "der-nussknacker/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "john-neumeier",
         "role_slug": "der-nussknacker/choreografie-inszenierung-und-licht"
@@ -672,13 +672,13 @@
       {
         "person_slug": "john-neumeier",
         "function": "choreographer"
+      },
+      {
+        "person_slug": "jurgen-rose",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "jurgen-rose",
-        "role_slug": "ein-sommernachts-shy-traum/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "john-neumeier",
         "role_slug": "ein-sommernachts-shy-traum/inszenierung-und-lichtdesign"
@@ -1141,13 +1141,13 @@
       {
         "person_slug": "max-keller",
         "function": "lighting"
+      },
+      {
+        "person_slug": "jurgen-rose",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "jurgen-rose",
-        "role_slug": "a-cinderella-story/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "sergej-prokofjew",
         "role_slug": "a-cinderella-story/musik"
@@ -1196,13 +1196,13 @@
       {
         "person_slug": "markus-lehtinen",
         "function": "conductor"
+      },
+      {
+        "person_slug": "jurgen-rose",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "jurgen-rose",
-        "role_slug": "die-kamelien-shy-dame/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "john-neumeier",
         "role_slug": "die-kamelien-shy-dame/choreografie-und-inszenierung"
@@ -1278,13 +1278,13 @@
       {
         "person_slug": "nathan-brock",
         "function": "conductor"
+      },
+      {
+        "person_slug": "john-neumeier",
+        "function": "set-designer"
       }
     ],
     "cast": [
-      {
-        "person_slug": "john-neumeier",
-        "role_slug": "die-mowe/buhnenbild-und-kostume"
-      },
       {
         "person_slug": "3-7-26",
         "role_slug": "die-mowe/ensemble"
@@ -2926,10 +2926,6 @@
         "function": "conductor"
       },
       {
-        "person_slug": "6-6-26",
-        "function": "conductor"
-      },
-      {
         "person_slug": "omer-meir-wellber",
         "function": "conductor"
       },
@@ -3016,10 +3012,6 @@
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
       },
       {
-        "person_slug": "6-6-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
-      },
-      {
         "person_slug": "johannes-martin-kranzle",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
       },
@@ -3076,10 +3068,6 @@
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
       },
       {
-        "person_slug": "6-6-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
-      },
-      {
         "person_slug": "colin-aikins",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
       },
@@ -3125,10 +3113,6 @@
       },
       {
         "person_slug": "31-12-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
-      },
-      {
-        "person_slug": "6-6-26",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
       },
       {

@@ -1,0 +1,305 @@
+[
+  {
+    "id": "sarasota-opera/sarasota-opera-ariadne-auf-naxos-0",
+    "work_slug": "richard-strauss/ariadne-auf-naxos",
+    "house_slug": "sarasota-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sarasotaopera.org/event/ariadne-auf-naxos-0",
+    "creative_team": [
+      {
+        "person_slug": "jesse-martins",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-tsvi-kaplan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "martha-collins",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dylan-schang",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/a-dancing-master"
+      },
+      {
+        "person_slug": "alexander-boyd",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/a-music-master"
+      },
+      {
+        "person_slug": "nathan-schafer",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/an-officer"
+      },
+      {
+        "person_slug": "emily-harmon",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/dryad"
+      },
+      {
+        "person_slug": "agnese-gallenzi",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/echo"
+      },
+      {
+        "person_slug": "melanie-spector",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/naiad"
+      },
+      {
+        "person_slug": "david-freides",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/scaramuccio"
+      },
+      {
+        "person_slug": "tessa-fackelmann",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/the-composer"
+      },
+      {
+        "person_slug": "mary-evelyn-hangley",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/the-prima-donna-ariadne"
+      },
+      {
+        "person_slug": "jeremy-brauner",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/the-tenor-bacchus"
+      },
+      {
+        "person_slug": "abigail-raiford",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/zerbinetta"
+      }
+    ]
+  },
+  {
+    "id": "sarasota-opera/sarasota-opera-hansel-and-gretel",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "house_slug": "sarasota-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sarasotaopera.org/event/hansel-and-gretel",
+    "creative_team": [
+      {
+        "person_slug": "anthony-barrese",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-tsvi-kaplan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "felicity-stiverson",
+        "function": "director"
+      },
+      {
+        "person_slug": "nora-winsler",
+        "function": "director"
+      },
+      {
+        "person_slug": "steven-c-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lindsey-polcyn",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/gertrud"
+      },
+      {
+        "person_slug": "kerrigan-bigelow",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/gretel"
+      },
+      {
+        "person_slug": "kara-morgan",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/hansel"
+      },
+      {
+        "person_slug": "spencer-reichman",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/peter"
+      },
+      {
+        "person_slug": "sarah-stembel",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/the-dewman"
+      },
+      {
+        "person_slug": "kira-neary",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/the-sandman"
+      },
+      {
+        "person_slug": "lisa-chavez",
+        "role_slug": "engelbert-humperdinck/hansel-and-gretel/the-witch"
+      }
+    ]
+  },
+  {
+    "id": "sarasota-opera/sarasota-opera-hms-pinafore",
+    "work_slug": "gilbert-and-sullivan/h-m-s-pinafore",
+    "house_slug": "sarasota-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sarasotaopera.org/event/hms-pinafore",
+    "creative_team": [
+      {
+        "person_slug": "john-f-spencer-iv",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-tsvi-kaplan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mark-freiman",
+        "function": "director"
+      },
+      {
+        "person_slug": "ken-yunker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ryan-howell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jake-stamatis",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/captain-corcoran"
+      },
+      {
+        "person_slug": "gabriel-lockheimer-toso",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/dick-deadeye"
+      },
+      {
+        "person_slug": "hanna-brammer",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/josephine"
+      },
+      {
+        "person_slug": "alissa-anderson",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/mrs-cripps-little-buttercup"
+      },
+      {
+        "person_slug": "david-walton",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/ralph-rackstraw"
+      },
+      {
+        "person_slug": "hans-tashjian",
+        "role_slug": "gilbert-and-sullivan/h-m-s-pinafore/the-rt-hon-sir-joseph-porter"
+      }
+    ]
+  },
+  {
+    "id": "sarasota-opera/sarasota-opera-jenufa",
+    "work_slug": "leos-janacek/jenufa",
+    "house_slug": "sarasota-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sarasotaopera.org/event/jenufa",
+    "creative_team": [
+      {
+        "person_slug": "david-neely",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-tsvi-kaplan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "katherine-m-carter",
+        "function": "director"
+      },
+      {
+        "person_slug": "ken-yunker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "steven-c-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kira-neary",
+        "role_slug": "leos-janacek/jenufa/jano"
+      },
+      {
+        "person_slug": "kathryn-henry",
+        "role_slug": "leos-janacek/jenufa/jenufa"
+      },
+      {
+        "person_slug": "sarah-stembel",
+        "role_slug": "leos-janacek/jenufa/karolka"
+      },
+      {
+        "person_slug": "karita-mattila",
+        "role_slug": "leos-janacek/jenufa/kostelnicka-buryja"
+      },
+      {
+        "person_slug": "christopher-oglesby",
+        "role_slug": "leos-janacek/jenufa/laca-klemen"
+      },
+      {
+        "person_slug": "riley-findley",
+        "role_slug": "leos-janacek/jenufa/starek"
+      },
+      {
+        "person_slug": "victor-starsky",
+        "role_slug": "leos-janacek/jenufa/steva-buryja"
+      },
+      {
+        "person_slug": "gabriel-lockheimer-toso",
+        "role_slug": "leos-janacek/jenufa/the-mayor"
+      }
+    ]
+  },
+  {
+    "id": "sarasota-opera/sarasota-opera-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "sarasota-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sarasotaopera.org/event/la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "marcello-cormio",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "howard-tsvi-kaplan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-nistico",
+        "function": "director"
+      },
+      {
+        "person_slug": "ken-yunker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "steven-c-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luke-norvell",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "alexander-boyd",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "younggwang-park",
+        "role_slug": "giuseppe-verdi/la-traviata/doctor-grenvil"
+      },
+      {
+        "person_slug": "dylan-schang",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "luke-sutliff",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "matthew-cossack",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "virginia-mims",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  }
+]

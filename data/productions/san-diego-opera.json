@@ -1,0 +1,189 @@
+[
+  {
+    "id": "san-diego-opera/san-diego-opera-fellow-travelers",
+    "work_slug": "gregory-spears/fellow-travelers",
+    "house_slug": "san-diego-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sdopera.org/shows/fellow-travelers/",
+    "creative_team": [
+      {
+        "person_slug": "bruce-stasyna",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kevin-newbury",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joseph-lattanzi",
+        "role_slug": "gregory-spears/fellow-travelers/hawkins-fuller"
+      },
+      {
+        "person_slug": "elisa-sunshine",
+        "role_slug": "gregory-spears/fellow-travelers/lucy"
+      },
+      {
+        "person_slug": "amber-r-monroe",
+        "role_slug": "gregory-spears/fellow-travelers/mary-johnson"
+      },
+      {
+        "person_slug": "vanessa-becerra",
+        "role_slug": "gregory-spears/fellow-travelers/miss-lightfoot"
+      },
+      {
+        "person_slug": "kyle-pfortmiller",
+        "role_slug": "gregory-spears/fellow-travelers/senator-charles-potter-general-arlie-bartender"
+      },
+      {
+        "person_slug": "marcus-deloach",
+        "role_slug": "gregory-spears/fellow-travelers/senator-joseph-mccarthy-estonian-frank-interrogator"
+      },
+      {
+        "person_slug": "jeremy-weiss",
+        "role_slug": "gregory-spears/fellow-travelers/senator-potter-s-assistant-bookseller-priest-technician-party-guest"
+      },
+      {
+        "person_slug": "andy-acosta",
+        "role_slug": "gregory-spears/fellow-travelers/timothy-laughlin"
+      },
+      {
+        "person_slug": "randell-mcgee",
+        "role_slug": "gregory-spears/fellow-travelers/tommy-mcintyre"
+      }
+    ]
+  },
+  {
+    "id": "san-diego-opera/san-diego-opera-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "san-diego-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sdopera.org/shows/rigoletto/",
+    "creative_team": [
+      {
+        "person_slug": "yves-abel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "chuck-hudson",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "phil-johnson",
+        "role_slug": "giuseppe-verdi/rigoletto/ambrogio"
+      },
+      {
+        "person_slug": "tasha-hokuao-koontz",
+        "role_slug": "giuseppe-verdi/rigoletto/berta"
+      },
+      {
+        "person_slug": "joseph-calzada",
+        "role_slug": "giuseppe-verdi/rigoletto/fiorello"
+      },
+      {
+        "person_slug": "madison-leonard",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "guadalupe-paz",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "michael-chioldi",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "peixin-chen",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      },
+      {
+        "person_slug": "jose-simerilla-romero",
+        "role_slug": "giuseppe-verdi/rigoletto/the-duke"
+      }
+    ]
+  },
+  {
+    "id": "san-diego-opera/san-diego-opera-susannah",
+    "work_slug": "carlisle-floyd/susannah",
+    "house_slug": "san-diego-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sdopera.org/shows/susannah/",
+    "creative_team": [
+      {
+        "person_slug": "yves-abel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "patricia-racette",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christian-sanders",
+        "role_slug": "carlisle-floyd/susannah/little-bat-mclean"
+      },
+      {
+        "person_slug": "luretta-bybee",
+        "role_slug": "carlisle-floyd/susannah/mrs-mclean"
+      },
+      {
+        "person_slug": "greer-grimsley",
+        "role_slug": "carlisle-floyd/susannah/olin-blitch"
+      },
+      {
+        "person_slug": "joseph-dennis",
+        "role_slug": "carlisle-floyd/susannah/sam-polk"
+      },
+      {
+        "person_slug": "hailey-clark",
+        "role_slug": "carlisle-floyd/susannah/susannah-polk-fri-sun"
+      },
+      {
+        "person_slug": "teresa-perrotta",
+        "role_slug": "carlisle-floyd/susannah/susannah-polk-sat"
+      }
+    ]
+  },
+  {
+    "id": "san-diego-opera/san-diego-opera-the-marriage-of-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "house_slug": "san-diego-opera",
+    "is_revival": false,
+    "detail_url": "https://www.sdopera.org/shows/the-marriage-of-figaro/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "phil-johnson",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/ambrogio"
+      },
+      {
+        "person_slug": "lisa-marie-rogali",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/cherubino"
+      },
+      {
+        "person_slug": "dean-murphy",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/count-almaviva"
+      },
+      {
+        "person_slug": "sarah-tucker",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "nicholas-newton",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/figaro"
+      },
+      {
+        "person_slug": "joseph-calzada",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/fiorello"
+      },
+      {
+        "person_slug": "cadie-j-bryan",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/susanna"
+      }
+    ]
+  }
+]

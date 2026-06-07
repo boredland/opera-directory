@@ -408,16 +408,15 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "marcel-keller",
+        "function": "director"
+      },
+      {
         "person_slug": "thorsten-klein",
         "function": "dramaturgy"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "marcel-keller",
-        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/regie-und-buhne"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "gerhart-hauptmann-theater-goerlitz/wozzeck",

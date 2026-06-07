@@ -32,13 +32,13 @@
     "house_slug": "theater-aachen",
     "is_revival": false,
     "detail_url": "https://www.theateraachen.de/de/produktionen/don-carlo.html",
-    "creative_team": [],
-    "cast": [
+    "creative_team": [
       {
         "person_slug": "elena-tzavara",
-        "role_slug": "giuseppe-verdi/don-carlo/regie-und-buhne"
+        "function": "director"
       }
-    ]
+    ],
+    "cast": []
   },
   {
     "id": "theater-aachen/don-giovanni",
@@ -364,6 +364,10 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "elena-tzavara",
+        "function": "director"
+      },
+      {
         "person_slug": "isabelle-becker",
         "function": "dramaturgy"
       },
@@ -432,10 +436,6 @@
       {
         "person_slug": "jennifer-tan",
         "role_slug": "frederick-loewe-buch/my-fair-lady/mrs-pearce-wirtin"
-      },
-      {
-        "person_slug": "elena-tzavara",
-        "role_slug": "frederick-loewe-buch/my-fair-lady/regie-und-buhne"
       },
       {
         "person_slug": "dmytro-trach",

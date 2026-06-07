@@ -473,14 +473,13 @@
       {
         "person_slug": "kristopher-kempf",
         "function": "set-designer"
-      }
-    ],
-    "cast": [
+      },
       {
         "person_slug": "sven-stratmann",
-        "role_slug": "jonathan-dove/der-geheime-garten/videodesign"
+        "function": "video-designer"
       }
-    ]
+    ],
+    "cast": []
   },
   {
     "id": "staatstheater-regensburg/krl-roger",
@@ -772,7 +771,7 @@
         "function": "director"
       },
       {
-        "person_slug": "marie-julius",
+        "person_slug": "ronny-scholz",
         "function": "dramaturgy"
       },
       {

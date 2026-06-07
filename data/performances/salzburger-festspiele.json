@@ -1,0 +1,314 @@
+[
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-02/20:00",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-02",
+    "time": "20:00",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-07/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-07",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-10/19:30",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-10",
+    "time": "19:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-14/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-14",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-24/19:30",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-24",
+    "time": "19:30",
+    "venue_room": "Haus für Mozart",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9062/2026-08-28/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9062",
+    "date": "2026-08-28",
+    "time": "19:00",
+    "venue_room": "Haus für Mozart",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9244/2026-05-22/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9244",
+    "date": "2026-05-22",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9244/2026-05-25/17:00",
+    "production_id": "salzburger-festspiele/arrangement-9244",
+    "date": "2026-05-25",
+    "time": "17:00",
+    "venue_room": "Haus für Mozart",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-04/17:00",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-04",
+    "time": "17:00",
+    "venue_room": "Felsenreitschule",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-09/17:00",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-09",
+    "time": "17:00",
+    "venue_room": "Felsenreitschule",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-12/17:30",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-12",
+    "time": "17:30",
+    "venue_room": "Felsenreitschule",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-15/17:00",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-15",
+    "time": "17:00",
+    "venue_room": "Felsenreitschule",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-19/17:30",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-19",
+    "time": "17:30",
+    "venue_room": "Felsenreitschule",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9503/2026-08-23/17:00",
+    "production_id": "salzburger-festspiele/arrangement-9503",
+    "date": "2026-08-23",
+    "time": "17:00",
+    "venue_room": "Felsenreitschule",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-07-26/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-07-26",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-07-30/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-07-30",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-03/19:30",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-03",
+    "time": "19:30",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-08/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-08",
+    "time": "18:30",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-12/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-12",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-15/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-15",
+    "time": "18:30",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-21/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-21",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9507/2026-08-26/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9507",
+    "date": "2026-08-26",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-06/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-06",
+    "time": "18:30",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-11/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-11",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-13/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-13",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-17/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-17",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-22/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-22",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9508/2026-08-29/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9508",
+    "date": "2026-08-29",
+    "time": "18:30",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9509/2026-08-05/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9509",
+    "date": "2026-08-05",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9509/2026-08-08/15:00",
+    "production_id": "salzburger-festspiele/arrangement-9509",
+    "date": "2026-08-08",
+    "time": "15:00",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9509/2026-08-11/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9509",
+    "date": "2026-08-11",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9509/2026-08-13/18:30",
+    "production_id": "salzburger-festspiele/arrangement-9509",
+    "date": "2026-08-13",
+    "time": "18:30",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9509/2026-08-16/15:00",
+    "production_id": "salzburger-festspiele/arrangement-9509",
+    "date": "2026-08-16",
+    "time": "15:00",
+    "venue_room": "Haus für Mozart",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9510/2026-07-29/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9510",
+    "date": "2026-07-29",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9510/2026-08-01/19:00",
+    "production_id": "salzburger-festspiele/arrangement-9510",
+    "date": "2026-08-01",
+    "time": "19:00",
+    "venue_room": "Großes Festspielhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9670/2026-08-02/15:00",
+    "production_id": "salzburger-festspiele/arrangement-9670",
+    "date": "2026-08-02",
+    "time": "15:00",
+    "venue_room": "Felsenreitschule",
+    "status": "sold_out"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9692/2026-07-23/20:30",
+    "production_id": "salzburger-festspiele/arrangement-9692",
+    "date": "2026-07-23",
+    "time": "20:30",
+    "venue_room": "Kollegienkirche",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9782/2026-08-20/19:30",
+    "production_id": "salzburger-festspiele/arrangement-9782",
+    "date": "2026-08-20",
+    "time": "19:30",
+    "venue_room": "Felsenreitschule",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-festspiele/arrangement-9784/2026-05-24/11:00",
+    "production_id": "salzburger-festspiele/arrangement-9784",
+    "date": "2026-05-24",
+    "time": "11:00",
+    "venue_room": "Haus für Mozart",
+    "status": "past"
+  }
+]

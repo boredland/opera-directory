@@ -522,6 +522,20 @@
     ]
   },
   {
+    "id": "oper-leipzig/kool-and-the-gens-835",
+    "work_slug": "kool-and-the-gens",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/kool-and-the-gens/835",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "mieke-mullerschon",
+        "role_slug": "kool-and-the-gens/kunstlerische-leitung-organisation"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/kostprobe-musikalische-komodie-627",
     "work_slug": "kostprobe-musikalische-komodie",
     "house_slug": "oper-leipzig",
@@ -552,6 +566,130 @@
         "role_slug": "lauschkonzert/orchester"
       }
     ]
+  },
+  {
+    "id": "oper-leipzig/regina-811",
+    "work_slug": "albert-lortzing/regina",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/regina/811",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-leipzig",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "constantin-trinks",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bernd-mottl",
+        "function": "director"
+      },
+      {
+        "person_slug": "inken-meents",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-hupe",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "friedrich-eggert",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marie-luise-dre-en",
+        "role_slug": "albert-lortzing/regina/barbara"
+      },
+      {
+        "person_slug": "nina-schumertl",
+        "role_slug": "albert-lortzing/regina/barbara"
+      },
+      {
+        "person_slug": "mirjam-neururer",
+        "role_slug": "albert-lortzing/regina/beate"
+      },
+      {
+        "person_slug": "nora-lentner",
+        "role_slug": "albert-lortzing/regina/beate"
+      },
+      {
+        "person_slug": "mate-gal",
+        "role_slug": "albert-lortzing/regina/ein-freischarler"
+      },
+      {
+        "person_slug": "ruben-olivares",
+        "role_slug": "albert-lortzing/regina/ein-freischarler"
+      },
+      {
+        "person_slug": "dan-karlstrom",
+        "role_slug": "albert-lortzing/regina/kilian"
+      },
+      {
+        "person_slug": "daniel-arnaldos",
+        "role_slug": "albert-lortzing/regina/kilian"
+      },
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "albert-lortzing/regina/orchester"
+      },
+      {
+        "person_slug": "jacquelyn-wagner",
+        "role_slug": "albert-lortzing/regina/regina"
+      },
+      {
+        "person_slug": "netta-or",
+        "role_slug": "albert-lortzing/regina/regina"
+      },
+      {
+        "person_slug": "andreas-hermann",
+        "role_slug": "albert-lortzing/regina/richard"
+      },
+      {
+        "person_slug": "matthias-stier",
+        "role_slug": "albert-lortzing/regina/richard"
+      },
+      {
+        "person_slug": "oliver-weidinger",
+        "role_slug": "albert-lortzing/regina/simon"
+      },
+      {
+        "person_slug": "peter-dolinsek",
+        "role_slug": "albert-lortzing/regina/simon"
+      },
+      {
+        "person_slug": "henryk-bohm",
+        "role_slug": "albert-lortzing/regina/stephan"
+      },
+      {
+        "person_slug": "mathias-hausmann",
+        "role_slug": "albert-lortzing/regina/stephan"
+      },
+      {
+        "person_slug": "marian-muller",
+        "role_slug": "albert-lortzing/regina/wolfgang"
+      },
+      {
+        "person_slug": "vincent-turregano",
+        "role_slug": "albert-lortzing/regina/wolfgang"
+      }
+    ]
+  },
+  {
+    "id": "oper-leipzig/training-plus-747",
+    "work_slug": "training-plus",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/training-plus/747",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "oper-leipzig/unterwelten-828",

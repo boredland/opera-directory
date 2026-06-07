@@ -1,0 +1,78 @@
+[
+  {
+    "id": "lyric-opera-of-kansas-city/lyric-opera-of-kansas-city-aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "lyric-opera-of-kansas-city",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://kcopera.org/event/aida/",
+    "creative_team": [
+      {
+        "person_slug": "gerard-schwarz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "keturah-stickann",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "lyric-opera-of-kansas-city/lyric-opera-of-kansas-city-la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "lyric-opera-of-kansas-city",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://kcopera.org/event/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "christopher-allen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "garnett-bruce",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "lyric-opera-of-kansas-city/lyric-opera-of-kansas-city-the-marriage-of-figaro",
+    "work_slug": "w-a-mozart/the-marriage-of-figaro",
+    "house_slug": "lyric-opera-of-kansas-city",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://kcopera.org/event/the-marriage-of-figaro/",
+    "creative_team": [
+      {
+        "person_slug": "rory-macdonald",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stephen-lawless",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "lyric-opera-of-kansas-city/lyric-opera-of-kansas-city-the-pirates-of-penzance",
+    "work_slug": "arthur-sullivan/the-pirates-of-penzance",
+    "house_slug": "lyric-opera-of-kansas-city",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://kcopera.org/event/the-pirates-of-penzance/",
+    "creative_team": [
+      {
+        "person_slug": "andy-einhorn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sean-curran",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  }
+]

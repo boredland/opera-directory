@@ -1,0 +1,202 @@
+[
+  {
+    "id": "seattle-opera/seattle-opera-el-ultimo-sueno-de-frida-y-diego",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "house_slug": "seattle-opera",
+    "premiere_date": "2027-01-16",
+    "is_revival": false,
+    "detail_url": "https://www.seattleopera.org/performances-events/el-ultimo-sueno-de-frida-y-diego/",
+    "creative_team": [
+      {
+        "person_slug": "michaella-calzaretta",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carolyn-kuan",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "amanda-batista",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/catrina"
+      },
+      {
+        "person_slug": "alfredo-daza",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/diego"
+      },
+      {
+        "person_slug": "daniela-mack",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida"
+      },
+      {
+        "person_slug": "jake-ingbar",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/leonardo"
+      }
+    ]
+  },
+  {
+    "id": "seattle-opera/seattle-opera-la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "seattle-opera",
+    "premiere_date": "2027-05-08",
+    "is_revival": false,
+    "detail_url": "https://www.seattleopera.org/performances-events/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "michaella-calzaretta",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "roberto-kalb",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "james-robinson",
+        "function": "director"
+      },
+      {
+        "person_slug": "duane-schuler",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "allen-moyer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kevin-burdette",
+        "role_slug": "giacomo-puccini/la-boheme/benoit-alcindoro"
+      },
+      {
+        "person_slug": "le-bu",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "luke-sutliff",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "szymon-mechlinski",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "mane-galoyan",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "sylvia-d-eramo",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "emma-marhefka",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "anthony-ciaramitaro",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "long-long",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "korin-thomas-smith",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      }
+    ]
+  },
+  {
+    "id": "seattle-opera/seattle-opera-lakme-in-concert",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "house_slug": "seattle-opera",
+    "premiere_date": "2027-03-05",
+    "is_revival": false,
+    "detail_url": "https://www.seattleopera.org/performances-events/lakme-in-concert/",
+    "creative_team": [
+      {
+        "person_slug": "michaella-calzaretta",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniela-candillari",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christian-pursell",
+        "role_slug": "leo-delibes/lakme-in-concert/frederic"
+      },
+      {
+        "person_slug": "david-portillo",
+        "role_slug": "leo-delibes/lakme-in-concert/gerald"
+      },
+      {
+        "person_slug": "aigul-khismatullina",
+        "role_slug": "leo-delibes/lakme-in-concert/lakme"
+      },
+      {
+        "person_slug": "nicholas-newton",
+        "role_slug": "leo-delibes/lakme-in-concert/nilakantha"
+      }
+    ]
+  },
+  {
+    "id": "seattle-opera/seattle-opera-salome",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "seattle-opera",
+    "premiere_date": "2026-10-17",
+    "is_revival": false,
+    "detail_url": "https://www.seattleopera.org/performances-events/salome/",
+    "creative_team": [
+      {
+        "person_slug": "liz-roche",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "benjamin-manis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bruno-ravella",
+        "function": "director"
+      },
+      {
+        "person_slug": "malcolm-rippeth",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "leslie-travers",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chad-shelton",
+        "role_slug": "richard-strauss/salome/herod"
+      },
+      {
+        "person_slug": "jennifer-johnson-cano",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "michael-kupfer-radecky",
+        "role_slug": "richard-strauss/salome/jochanaan"
+      },
+      {
+        "person_slug": "joseph-tancredi",
+        "role_slug": "richard-strauss/salome/narraboth"
+      },
+      {
+        "person_slug": "hannah-ludwig",
+        "role_slug": "richard-strauss/salome/page-of-herodias"
+      },
+      {
+        "person_slug": "brenda-rae",
+        "role_slug": "richard-strauss/salome/salome"
+      }
+    ]
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "id": "rossini-opera-festival-pesaro/il-viaggio-a-reims/2026",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "house_slug": "rossini-opera-festival-pesaro",
+    "premiere_season": "2026",
+    "is_revival": true,
+    "detail_url": "https://www.rossinioperafestival.it/archivio/stagione-2026/il-viaggio-a-reims/",
+    "image_url": "https://www.rossinioperafestival.it/wp-content/uploads/2026/01/1200x548_Il-viaggio-a-Reims.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sieva-borzak",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pepa-ojanguren",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "emilio-sagi",
+        "function": "director"
+      },
+      {
+        "person_slug": "matteo-anselmi",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabio-rossi",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "rossini-opera-festival-pesaro/l-occasione-fa-il-ladro/2026",
+    "work_slug": "gioachino-rossini/l-occasione-fa-il-ladro",
+    "house_slug": "rossini-opera-festival-pesaro",
+    "premiere_season": "2026",
+    "is_revival": true,
+    "detail_url": "https://www.rossinioperafestival.it/archivio/stagione-2026/loccasione-fa-il-ladro/",
+    "image_url": "https://www.rossinioperafestival.it/wp-content/uploads/2026/01/1200x548_Loccasione-fa-il-ladro.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alessandro-bonato",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jean-pierre-ponnelle",
+        "function": "director"
+      },
+      {
+        "person_slug": "sonja-frisell",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabio-rossi",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "damiana-mizzi",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/berenice"
+      },
+      {
+        "person_slug": "dave-monaco",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/conte-alberto"
+      },
+      {
+        "person_slug": "manuel-amati",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/don-eusebio"
+      },
+      {
+        "person_slug": "matteo-mancini",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/don-parmenione"
+      },
+      {
+        "person_slug": "martiniana-antonie",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/ernestina"
+      },
+      {
+        "person_slug": "giuseppe-toia",
+        "role_slug": "gioachino-rossini/l-occasione-fa-il-ladro/martino"
+      }
+    ]
+  },
+  {
+    "id": "rossini-opera-festival-pesaro/la-scala-di-seta/2026",
+    "work_slug": "gioachino-rossini/la-scala-di-seta",
+    "house_slug": "rossini-opera-festival-pesaro",
+    "premiere_season": "2026",
+    "is_revival": true,
+    "detail_url": "https://www.rossinioperafestival.it/archivio/stagione-2026/la-scala-di-seta/",
+    "image_url": "https://www.rossinioperafestival.it/wp-content/uploads/2026/01/1200x548_La-scala-di-seta.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "iurii-samoilov",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/blansac"
+      },
+      {
+        "person_slug": "enrico-iviglia",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/dormont"
+      },
+      {
+        "person_slug": "alasdair-kent",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/dorvil"
+      },
+      {
+        "person_slug": "paolo-bordogna",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/germano"
+      },
+      {
+        "person_slug": "hasmik-torosyan",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/giulia"
+      },
+      {
+        "person_slug": "mara-gaudenzi",
+        "role_slug": "gioachino-rossini/la-scala-di-seta/lucilla"
+      }
+    ]
+  },
+  {
+    "id": "rossini-opera-festival-pesaro/le-siege-de-corinthe/2026",
+    "work_slug": "gioachino-rossini/le-siege-de-corinthe",
+    "house_slug": "rossini-opera-festival-pesaro",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.rossinioperafestival.it/archivio/stagione-2026/le-siege-de-corinthe/",
+    "image_url": "https://www.rossinioperafestival.it/wp-content/uploads/2026/01/1200x548_Le-siege-de-corinthe.jpg",
+    "creative_team": [
+      {
+        "person_slug": "erika-rombaldoni",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "pasquale-veleno",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-rizzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gianluca-falaschi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "director"
+      },
+      {
+        "person_slug": "nicolas-bovey",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "eleonora-peronetti",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "paolo-gep-cucco",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "d-wok",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tianxuefei-sun",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/adraste"
+      },
+      {
+        "person_slug": "matteo-roma",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/cleomene"
+      },
+      {
+        "person_slug": "simon-orfila",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/hieros"
+      },
+      {
+        "person_slug": "anna-doris-capitelli",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/ismene"
+      },
+      {
+        "person_slug": "adrian-sampetrean",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/mahomet-ii"
+      },
+      {
+        "person_slug": "maxim-mironov",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/neocles"
+      },
+      {
+        "person_slug": "giuseppe-de-luca",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/omar"
+      },
+      {
+        "person_slug": "vasilisa-berzhanskaya",
+        "role_slug": "gioachino-rossini/le-siege-de-corinthe/pamyra"
+      }
+    ]
+  }
+]

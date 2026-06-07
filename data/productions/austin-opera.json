@@ -1,0 +1,145 @@
+[
+  {
+    "id": "austin-opera/austin-opera-2026-2027-season-fellow-travelers",
+    "work_slug": "gregory-spears/fellow-travelers",
+    "house_slug": "austin-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://austinopera.org/shows-events/2026-2027-season/fellow-travelers/",
+    "image_url": "https://austinopera.org/media/qqkbkk2d/ft-1.png?upscale=false&width=1200",
+    "creative_team": [
+      {
+        "person_slug": "timothy-myers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kevin-newbury",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "austin-opera/austin-opera-2026-2027-season-la-traviata",
+    "work_slug": "giueseppe-verdi/la-traviata",
+    "house_slug": "austin-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://austinopera.org/shows-events/2026-2027-season/la-traviata/",
+    "image_url": "https://austinopera.org/media/ogwj3xnl/traviata-1.png?upscale=false&width=1200",
+    "creative_team": [
+      {
+        "person_slug": "timothy-myers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "e-loren-meeker",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kameron-lopreore",
+        "role_slug": "giueseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "joo-won-kang",
+        "role_slug": "giueseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "sara-gartland",
+        "role_slug": "giueseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "austin-opera/austin-opera-2026-2027-season-ofrenda",
+    "work_slug": "jorge-sosa/ofrenda",
+    "house_slug": "austin-opera",
+    "is_revival": false,
+    "language": "es",
+    "detail_url": "https://austinopera.org/shows-events/2026-2027-season/ofrenda/",
+    "image_url": "https://austinopera.org/media/ktdd30mv/ofrenda-1.png?upscale=false&width=1200",
+    "creative_team": [
+      {
+        "person_slug": "timothy-myers",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kristin-bilodeau",
+        "role_slug": "jorge-sosa/ofrenda/carla"
+      },
+      {
+        "person_slug": "victoria-vargas",
+        "role_slug": "jorge-sosa/ofrenda/la-senora"
+      },
+      {
+        "person_slug": "kelly-guerra",
+        "role_slug": "jorge-sosa/ofrenda/macaria"
+      },
+      {
+        "person_slug": "maia-aramburu",
+        "role_slug": "jorge-sosa/ofrenda/pina"
+      }
+    ]
+  },
+  {
+    "id": "austin-opera/austin-opera-2026-2027-season-thais",
+    "work_slug": "jules-massenet/thais",
+    "house_slug": "austin-opera",
+    "is_revival": false,
+    "language": "fr",
+    "detail_url": "https://austinopera.org/shows-events/2026-2027-season/thais/",
+    "image_url": "https://austinopera.org/media/pbrd01w4/thais-1.png?upscale=false&width=1200",
+    "creative_team": [
+      {
+        "person_slug": "michael-pappalardo",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "timothy-myers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bradon-mcdonald",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "crystal-manich",
+        "function": "director"
+      },
+      {
+        "person_slug": "tlaloc-lopez-watermann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "greg-emetaz",
+        "function": "projection-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "troy-cook",
+        "role_slug": "jules-massenet/thais/athanael"
+      },
+      {
+        "person_slug": "dominick-valdes-chenes",
+        "role_slug": "jules-massenet/thais/nicais"
+      },
+      {
+        "person_slug": "sergio-martinez",
+        "role_slug": "jules-massenet/thais/palemon"
+      },
+      {
+        "person_slug": "nicole-heaston",
+        "role_slug": "jules-massenet/thais/thais"
+      }
+    ]
+  }
+]

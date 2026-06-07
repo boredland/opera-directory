@@ -1,0 +1,151 @@
+[
+  {
+    "id": "wexford-festival-opera/wexford-iris",
+    "work_slug": "pietro-mascagni/iris",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/iris",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/170446/Iris.jpg?v=1775124286",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "hannah-o-brien",
+        "role_slug": "pietro-mascagni/iris/geisha"
+      },
+      {
+        "person_slug": "yu-shao",
+        "role_slug": "pietro-mascagni/iris/haberdasher"
+      },
+      {
+        "person_slug": "jihoon-kim",
+        "role_slug": "pietro-mascagni/iris/il-cieco"
+      },
+      {
+        "person_slug": "leyla-gu",
+        "role_slug": "pietro-mascagni/iris/iris"
+      },
+      {
+        "person_slug": "jolyon-loy",
+        "role_slug": "pietro-mascagni/iris/kyoto"
+      },
+      {
+        "person_slug": "joseph-calleja",
+        "role_slug": "pietro-mascagni/iris/osaka"
+      },
+      {
+        "person_slug": "yuchen-pan",
+        "role_slug": "pietro-mascagni/iris/osaka-20-oct"
+      }
+    ]
+  },
+  {
+    "id": "wexford-festival-opera/wexford-lequivoco-stravagante",
+    "work_slug": "gioachino-rossini/l-equivoco-stravagante",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/lequivoco-stravagante",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/170492/Lequivoco-stravagante-1.jpg?v=1775728970",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "wexford-festival-opera/wexford-much-ado-about-nothing-2026",
+    "work_slug": "charles-villiers-stanford/much-ado-about-nothing",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/much-ado-about-nothing-2026",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/171458/Much-Ado-about-nothing.jpg?v=1775128482",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "wexford-festival-opera/wexford-still-life",
+    "work_slug": "ailis-ni-riain/still-life",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/still-life",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/171459/Still-life.jpg?v=1775142551",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "wexford-festival-opera/wexford-the-first-festival",
+    "work_slug": "alberto-caruso/the-first-festival",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/the-first-festival",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/170629/The-first-festival.jpg?v=1775142551",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "wexford-festival-opera/wexford-the-gambler",
+    "work_slug": "sergei-prokofiev/the-gambler",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/the-gambler",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/170496/The-Gambler.jpg?v=1775124779",
+    "creative_team": [
+      {
+        "person_slug": "luisa-baldinetti",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "valentin-uryupin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ivan-popovsky",
+        "function": "director"
+      },
+      {
+        "person_slug": "paolo-bonapace",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "maria-tregubova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "igor-onishchenko",
+        "role_slug": "sergei-prokofiev/the-gambler/alexei"
+      },
+      {
+        "person_slug": "hilary-ginther",
+        "role_slug": "sergei-prokofiev/the-gambler/blanche"
+      },
+      {
+        "person_slug": "clarry-bartha",
+        "role_slug": "sergei-prokofiev/the-gambler/granma-babulenka"
+      },
+      {
+        "person_slug": "rory-musgrave",
+        "role_slug": "sergei-prokofiev/the-gambler/mr-astley"
+      },
+      {
+        "person_slug": "sophie-gordeladze",
+        "role_slug": "sergei-prokofiev/the-gambler/polina"
+      },
+      {
+        "person_slug": "sean-tester",
+        "role_slug": "sergei-prokofiev/the-gambler/prince-nilsky"
+      },
+      {
+        "person_slug": "alexei-botnarciuc",
+        "role_slug": "sergei-prokofiev/the-gambler/the-general"
+      }
+    ]
+  },
+  {
+    "id": "wexford-festival-opera/wexford-the-rose-of-castile-2",
+    "work_slug": "michael-william-balfe/the-rose-of-castile",
+    "house_slug": "wexford-festival-opera",
+    "is_revival": false,
+    "detail_url": "https://www.wexfordopera.com/programme/festival-programme/the-rose-of-castile-2",
+    "image_url": "https://www.wexfordopera.com/content/events/2026/Programme-Images/_636x636_crop_center-center_95_none_ns/171486/Rose-of-Castile.jpg?v=1775123424",
+    "creative_team": [],
+    "cast": []
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "minnesota-opera/minnesota-opera-31740",
+    "work_slug": "kamala-sankaram/the-many-deaths-of-laila-starr",
+    "house_slug": "minnesota-opera",
+    "is_revival": false,
+    "detail_url": "https://mnopera.org/season/2026-2027/the-many-deaths-of-laila-starr/",
+    "creative_team": [
+      {
+        "person_slug": "rohit-gijare",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "christopher-franklin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oana-botez",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mary-birnbaum",
+        "function": "director"
+      },
+      {
+        "person_slug": "anshuman-bhatia",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mimi-lien",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mariam-mouawad",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/agni-ka-the-crow-cigarette"
+      },
+      {
+        "person_slug": "ashraf-sewailam",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/brahma-bardhan"
+      },
+      {
+        "person_slug": "omar-najmi",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/darius-shah"
+      },
+      {
+        "person_slug": "leela-subramaniam",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/laila-starr"
+      },
+      {
+        "person_slug": "emily-finke",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/mun-mun-gilly"
+      },
+      {
+        "person_slug": "efrain-solis",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/pranah"
+      },
+      {
+        "person_slug": "yulin-wang",
+        "role_slug": "kamala-sankaram/the-many-deaths-of-laila-starr/wei"
+      }
+    ]
+  },
+  {
+    "id": "minnesota-opera/minnesota-opera-31747",
+    "work_slug": "george-frideric-handel/ariodante",
+    "house_slug": "minnesota-opera",
+    "is_revival": false,
+    "detail_url": "https://mnopera.org/season/2026-2027/ariodante/",
+    "creative_team": [
+      {
+        "person_slug": "joseph-li",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julia-holoman",
+        "role_slug": "george-frideric-handel/ariodante/ariodante"
+      },
+      {
+        "person_slug": "emily-finke",
+        "role_slug": "george-frideric-handel/ariodante/dalinda"
+      },
+      {
+        "person_slug": "ellie-dehn",
+        "role_slug": "george-frideric-handel/ariodante/ginevra"
+      },
+      {
+        "person_slug": "john-mburu",
+        "role_slug": "george-frideric-handel/ariodante/il-re"
+      },
+      {
+        "person_slug": "angel-vargas",
+        "role_slug": "george-frideric-handel/ariodante/lurcanio"
+      },
+      {
+        "person_slug": "calvin-griffin",
+        "role_slug": "george-frideric-handel/ariodante/polinesso"
+      }
+    ]
+  },
+  {
+    "id": "minnesota-opera/minnesota-opera-31748",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "house_slug": "minnesota-opera",
+    "is_revival": false,
+    "detail_url": "https://mnopera.org/season/2026-2027/falstaff/",
+    "creative_team": [
+      {
+        "person_slug": "christopher-franklin",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ellie-dehn",
+        "role_slug": "giuseppe-verdi/falstaff/alice-ford"
+      },
+      {
+        "person_slug": "daniel-montenegro",
+        "role_slug": "giuseppe-verdi/falstaff/bardolfo"
+      },
+      {
+        "person_slug": "stephanie-blythe",
+        "role_slug": "giuseppe-verdi/falstaff/dame-quickly"
+      },
+      {
+        "person_slug": "brian-frutiger",
+        "role_slug": "giuseppe-verdi/falstaff/dr-caius"
+      },
+      {
+        "person_slug": "angel-vargas",
+        "role_slug": "giuseppe-verdi/falstaff/fenton"
+      },
+      {
+        "person_slug": "norman-garrett",
+        "role_slug": "giuseppe-verdi/falstaff/ford"
+      },
+      {
+        "person_slug": "julia-holoman",
+        "role_slug": "giuseppe-verdi/falstaff/meg-page"
+      },
+      {
+        "person_slug": "emily-finke",
+        "role_slug": "giuseppe-verdi/falstaff/nannetta"
+      },
+      {
+        "person_slug": "john-mburu",
+        "role_slug": "giuseppe-verdi/falstaff/pistola"
+      },
+      {
+        "person_slug": "craig-colclough",
+        "role_slug": "giuseppe-verdi/falstaff/sir-john-falstaff"
+      }
+    ]
+  }
+]

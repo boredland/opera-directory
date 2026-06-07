@@ -1,0 +1,103 @@
+[
+  {
+    "id": "fort-worth-opera/fort-worth-opera-amahl-and-the-night-visitors-2026",
+    "work_slug": "gian-carlo-menotti/amahl-and-the-night-visitors",
+    "house_slug": "fort-worth-opera",
+    "is_revival": false,
+    "detail_url": "https://www.fwopera.org/amahl-and-the-night-visitors-2026",
+    "creative_team": [
+      {
+        "person_slug": "anthony-d-pound",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cecil-garrison",
+        "role_slug": "gian-carlo-menotti/amahl-and-the-night-visitors/king-kaspar"
+      },
+      {
+        "person_slug": "noah-mond",
+        "role_slug": "gian-carlo-menotti/amahl-and-the-night-visitors/king-melchior"
+      },
+      {
+        "person_slug": "lauren-salazar",
+        "role_slug": "gian-carlo-menotti/amahl-and-the-night-visitors/shepherd-chorus"
+      }
+    ]
+  },
+  {
+    "id": "fort-worth-opera/fort-worth-opera-scalia-ginsburg",
+    "work_slug": "derrick-wang/scalia-ginsburg",
+    "house_slug": "fort-worth-opera",
+    "is_revival": false,
+    "detail_url": "https://www.fwopera.org/scalia-ginsburg",
+    "creative_team": [
+      {
+        "person_slug": "stephanie-rhodes-russell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "audrey-chait",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "peter-scott-drackley",
+        "role_slug": "derrick-wang/scalia-ginsburg/antonin-scalia"
+      },
+      {
+        "person_slug": "andrew-simpson",
+        "role_slug": "derrick-wang/scalia-ginsburg/commentator"
+      },
+      {
+        "person_slug": "jennifer-zetlan",
+        "role_slug": "derrick-wang/scalia-ginsburg/ruth-bader-ginsburg"
+      }
+    ]
+  },
+  {
+    "id": "fort-worth-opera/fort-worth-opera-the-barber-of-seville",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "house_slug": "fort-worth-opera",
+    "is_revival": false,
+    "detail_url": "https://www.fwopera.org/the-barber-of-seville",
+    "creative_team": [
+      {
+        "person_slug": "christian-capocaccia",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "chuck-hudson",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emily-pulley",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/berta"
+      },
+      {
+        "person_slug": "minghao-liu",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/count-almaviva"
+      },
+      {
+        "person_slug": "william-guanbo-su",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/don-basilio"
+      },
+      {
+        "person_slug": "kevin-glavin",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/dr-bartolo"
+      },
+      {
+        "person_slug": "michael-adams",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/figaro"
+      },
+      {
+        "person_slug": "winona-martin",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/rosina"
+      }
+    ]
+  }
+]

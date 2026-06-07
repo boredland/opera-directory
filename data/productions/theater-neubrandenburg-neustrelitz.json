@@ -1,0 +1,132 @@
+[
+  {
+    "id": "theater-neubrandenburg-neustrelitz/die-csardasfuerstin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/die-csardasfuerstin/",
+    "creative_team": [
+      {
+        "person_slug": "amy-share-kissiov",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "joseph-feigl",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kenichiro-kojima",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sven-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-von-bargen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lena-brexendorff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wiebke-frost",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau"
+      },
+      {
+        "person_slug": "andres-felipe-orozco",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-ronald-beider-sohn"
+      },
+      {
+        "person_slug": "emil-kollmann",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/eugen-von-rohnsdorff-oberleutnant"
+      },
+      {
+        "person_slug": "robert-merwald",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-von-kerekes-genannt-feri-bacsi"
+      },
+      {
+        "person_slug": "richard-glockner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni"
+      },
+      {
+        "person_slug": "markus-kopp",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/herr-kopp"
+      },
+      {
+        "person_slug": "rebecca-backus",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/juliska"
+      },
+      {
+        "person_slug": "laura-scherwitzl",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/komtesse-anastasia-nichte-des-fursten"
+      },
+      {
+        "person_slug": "andreas-hartig",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/lakai"
+      },
+      {
+        "person_slug": "david-fischer",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/leopold-maria-furst-von-und-zu-lippert-weylersheim"
+      },
+      {
+        "person_slug": "julia-baier-tarasova",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+      },
+      {
+        "person_slug": "laura-albert",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+      }
+    ]
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/die-geschichte-vom-soldaten",
+    "work_slug": "igor-strawinsky/die-geschichte-vom-soldaten",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/die-geschichte-vom-soldaten/",
+    "creative_team": [
+      {
+        "person_slug": "victor-rouanet",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lena-brexendorff",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sven-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-von-bargen",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "diana-khairutdinova",
+        "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/marketenderin"
+      },
+      {
+        "person_slug": "johanna-neumann",
+        "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/prinzessin"
+      },
+      {
+        "person_slug": "felix-erdmann",
+        "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/soldat"
+      },
+      {
+        "person_slug": "anika-kleinke",
+        "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/teufel"
+      },
+      {
+        "person_slug": "sven-muller",
+        "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/vorleser"
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "theater-rudolstadt/jolanthe",
+    "work_slug": "peter-i-tschaikowski/jolanthe",
+    "house_slug": "theater-rudolstadt",
+    "is_revival": false,
+    "presentation_note": "Oper von Peter I. Tschaikowski Libretto von Modest Tschaikowski",
+    "detail_url": "https://schiller-theater.de/stueck/jolanthe/",
+    "creative_team": [
+      {
+        "person_slug": "markus-fischer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "oliver-weder",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marian-kalus",
+        "function": "director"
+      },
+      {
+        "person_slug": "dr-juliane-hirschmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "carolin-flucke",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "hannah-robinson",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wonjun-joo",
+        "role_slug": "peter-i-tschaikowski/jolanthe/almeric"
+      },
+      {
+        "person_slug": "thomas-kohl",
+        "role_slug": "peter-i-tschaikowski/jolanthe/bertrand-der-mann-von-martha"
+      },
+      {
+        "person_slug": "yuval-oren",
+        "role_slug": "peter-i-tschaikowski/jolanthe/brigitta"
+      },
+      {
+        "person_slug": "kyounghan-seo",
+        "role_slug": "peter-i-tschaikowski/jolanthe/graf-vaudemont-ein-burgundischer-ritter"
+      },
+      {
+        "person_slug": "jung-uk-oh",
+        "role_slug": "peter-i-tschaikowski/jolanthe/ibn-hakia-ein-maurischer-arzt"
+      },
+      {
+        "person_slug": "julia-ermakova",
+        "role_slug": "peter-i-tschaikowski/jolanthe/jolanthe-tochter-des-konigs-rene"
+      },
+      {
+        "person_slug": "rina-hirayama",
+        "role_slug": "peter-i-tschaikowski/jolanthe/laura-hofdame-jolanthes"
+      },
+      {
+        "person_slug": "anja-daniela-wagner",
+        "role_slug": "peter-i-tschaikowski/jolanthe/martha-jolanthes-amme"
+      },
+      {
+        "person_slug": "philipp-kranjc",
+        "role_slug": "peter-i-tschaikowski/jolanthe/rene-konig-der-provence"
+      },
+      {
+        "person_slug": "florian-tavic",
+        "role_slug": "peter-i-tschaikowski/jolanthe/robert-herzog-von-burgund"
+      }
+    ]
+  }
+]

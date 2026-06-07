@@ -1,0 +1,114 @@
+[
+  {
+    "id": "wolf-trap-opera/wolf-trap-opera-show-26opera-061826",
+    "work_slug": "rossini/la-cenerentola",
+    "house_slug": "wolf-trap-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.wolftrap.org/show/26opera/061826/",
+    "image_url": "https://www.wolftrap.org/media/ai3cbvkf/la-cenerentola.jpg",
+    "synopsis": "Wolf Trap Opera’s rising stars showcase Rossini’s sparkling “La Cenerentola,” a whirlwind of comedic chaos, mistaken identities, and dazzling vocal fireworks.",
+    "creative_team": [
+      {
+        "person_slug": "louis-lohraseb",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "joel-ivany",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cumhur-gorgun",
+        "role_slug": "rossini/la-cenerentola/alidoro"
+      },
+      {
+        "person_slug": "sophia-maekawa",
+        "role_slug": "rossini/la-cenerentola/angelina"
+      },
+      {
+        "person_slug": "angela-yam",
+        "role_slug": "rossini/la-cenerentola/clorinda"
+      },
+      {
+        "person_slug": "korin-thomas-smith",
+        "role_slug": "rossini/la-cenerentola/dandini"
+      },
+      {
+        "person_slug": "ziniu-zhao",
+        "role_slug": "rossini/la-cenerentola/don-magnifico"
+      },
+      {
+        "person_slug": "angel-raii-gomez",
+        "role_slug": "rossini/la-cenerentola/prince-ramiro"
+      },
+      {
+        "person_slug": "emily-treigle",
+        "role_slug": "rossini/la-cenerentola/tisbe"
+      }
+    ]
+  },
+  {
+    "id": "wolf-trap-opera/wolf-trap-opera-show-26opera-071726",
+    "work_slug": "tchaikovsky/eugene-onegin",
+    "house_slug": "wolf-trap-opera",
+    "is_revival": false,
+    "language": "ru",
+    "detail_url": "https://www.wolftrap.org/show/26opera/071726/",
+    "image_url": "https://www.wolftrap.org/media/ddtlyfkp/eugene-onegin.jpg",
+    "synopsis": "Experience Wolf Trap Opera’s artists in Tchaikovsky’s “Eugene Onegin,” a profound tale of missed chances and unrequited love driven by exquisitely dramatic music.",
+    "creative_team": [
+      {
+        "person_slug": "steven-white",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emma-griffin",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-mensah",
+        "role_slug": "tchaikovsky/eugene-onegin/commander"
+      },
+      {
+        "person_slug": "finn-sagal",
+        "role_slug": "tchaikovsky/eugene-onegin/eugene-onegin"
+      },
+      {
+        "person_slug": "cecelia-mckinley",
+        "role_slug": "tchaikovsky/eugene-onegin/filipyevna"
+      },
+      {
+        "person_slug": "daniel-o-hearn",
+        "role_slug": "tchaikovsky/eugene-onegin/lensky"
+      },
+      {
+        "person_slug": "aubrey-odle",
+        "role_slug": "tchaikovsky/eugene-onegin/madame-larina"
+      },
+      {
+        "person_slug": "jack-hicks",
+        "role_slug": "tchaikovsky/eugene-onegin/monsieur-triquet"
+      },
+      {
+        "person_slug": "elissa-pfaender",
+        "role_slug": "tchaikovsky/eugene-onegin/olga"
+      },
+      {
+        "person_slug": "sergio-martinez",
+        "role_slug": "tchaikovsky/eugene-onegin/prince-gremin"
+      },
+      {
+        "person_slug": "magdalena-kuzma",
+        "role_slug": "tchaikovsky/eugene-onegin/tatiana"
+      },
+      {
+        "person_slug": "jack-burrows",
+        "role_slug": "tchaikovsky/eugene-onegin/zaretsky"
+      }
+    ]
+  }
+]

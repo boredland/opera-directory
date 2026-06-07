@@ -1,0 +1,726 @@
+[
+  {
+    "id": "tiroler-festspiele-erl/00fd2a24-d4d4-426f-bf68-62d7b7cf786e",
+    "work_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/25_26-giacomo-puccini-suor-angelica-hector-berlioz-cleopatre",
+    "creative_team": [
+      {
+        "person_slug": "edward-gardner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "deborah-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "urs-schonebaum",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "antony-mcdonald",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marianna-mappa",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/1-almosensucherin"
+      },
+      {
+        "person_slug": "tamar-otanadze",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/1-laienschwester"
+      },
+      {
+        "person_slug": "chiara-polese",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/1-novizin"
+      },
+      {
+        "person_slug": "antonia-salzano",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/2-almosensucherin"
+      },
+      {
+        "person_slug": "vera-maria-bitter",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/2-laienschwester"
+      },
+      {
+        "person_slug": "veronique-gens",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/cleopatre"
+      },
+      {
+        "person_slug": "elena-zilio",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/die-abtissin"
+      },
+      {
+        "person_slug": "alice-coote",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/die-furstin"
+      },
+      {
+        "person_slug": "marta-pluda",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/die-lehrmeisterin"
+      },
+      {
+        "person_slug": "corinne-winters",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-angelica"
+      },
+      {
+        "person_slug": "anna-cavaliero",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-dolcina"
+      },
+      {
+        "person_slug": "enkelejda-shkoza",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-eiferin"
+      },
+      {
+        "person_slug": "christina-gansch",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-genoveva"
+      },
+      {
+        "person_slug": "maria-knihnytska",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-osmina"
+      },
+      {
+        "person_slug": "sayumi-kaneko",
+        "role_slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/schwester-pflegerin"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/199071ab-791a-49ce-8092-0169f23db50d",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_giuseppe-verdi-nabucco",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emanuele-pellegrini",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "anastasia-bartoli",
+        "role_slug": "giuseppe-verdi/nabucco/abigaile"
+      },
+      {
+        "person_slug": "caterina-marchesini",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "emilia-rukavina",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "giuseppe-verdi/nabucco/gran-sacerdote"
+      },
+      {
+        "person_slug": "giorgio-berrugi",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "gabriele-viviani",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "simon-lim",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/1ed0b641-6d44-4fa0-bc30-7dea367fe157",
+    "work_slug": "francesco-filidei/accabadora-oea",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_accabadora-oeea",
+    "creative_team": [
+      {
+        "person_slug": "lucie-leguay",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mauro-tinti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "valentina-carrasco",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-castro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mariangela-mazzeo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hugo-brady",
+        "role_slug": "francesco-filidei/accabadora-oea/andria-bastiu"
+      },
+      {
+        "person_slug": "victoire-bunel",
+        "role_slug": "francesco-filidei/accabadora-oea/maestra-luciana-giannina-bastiu-una-voce"
+      },
+      {
+        "person_slug": "rachel-masclet",
+        "role_slug": "francesco-filidei/accabadora-oea/maria"
+      },
+      {
+        "person_slug": "lodovico-filippo-ravizza",
+        "role_slug": "francesco-filidei/accabadora-oea/nicola-bastiu"
+      },
+      {
+        "person_slug": "francesco-leone",
+        "role_slug": "francesco-filidei/accabadora-oea/santino-littorra-antonio-vargiu-dottor-mastinu"
+      },
+      {
+        "person_slug": "noa-frenkel",
+        "role_slug": "francesco-filidei/accabadora-oea/tzia-bonaria-urrai-l-accabadora"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/3d3da532-1602-44fb-9e27-371f7899ae77",
+    "work_slug": "franz-schreker/der-ferne-klang",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_schreker-der-ferne-klang",
+    "creative_team": [
+      {
+        "person_slug": "christian-blex",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anja-rabes",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "calixto-bieito",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-bauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anna-kirsch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mark-stone",
+        "role_slug": "franz-schreker/der-ferne-klang/der-alte-graumann-ein-polizeimann"
+      },
+      {
+        "person_slug": "alexander-marev",
+        "role_slug": "franz-schreker/der-ferne-klang/der-chevalier-erster-chorist"
+      },
+      {
+        "person_slug": "stefan-astakhov",
+        "role_slug": "franz-schreker/der-ferne-klang/der-graf"
+      },
+      {
+        "person_slug": "miriam-treichl",
+        "role_slug": "franz-schreker/der-ferne-klang/die-alte-graumann-eine-spanierin"
+      },
+      {
+        "person_slug": "ashley-riches",
+        "role_slug": "franz-schreker/der-ferne-klang/dr-virgelius-der-baron"
+      },
+      {
+        "person_slug": "carole-wilson",
+        "role_slug": "franz-schreker/der-ferne-klang/ein-altes-weib-die-kellnerin"
+      },
+      {
+        "person_slug": "danylo-matvienko",
+        "role_slug": "franz-schreker/der-ferne-klang/ein-schmierenschauspieler-rudolf"
+      },
+      {
+        "person_slug": "robert-watson",
+        "role_slug": "franz-schreker/der-ferne-klang/ein-zweifelhaftes-individuum"
+      },
+      {
+        "person_slug": "evan-leroy-johnson",
+        "role_slug": "franz-schreker/der-ferne-klang/fritz"
+      },
+      {
+        "person_slug": "lidia-fridman",
+        "role_slug": "franz-schreker/der-ferne-klang/grete"
+      },
+      {
+        "person_slug": "fan-zhou",
+        "role_slug": "franz-schreker/der-ferne-klang/mary"
+      },
+      {
+        "person_slug": "johanna-thomsen",
+        "role_slug": "franz-schreker/der-ferne-klang/milli"
+      },
+      {
+        "person_slug": "laura-ulloa",
+        "role_slug": "franz-schreker/der-ferne-klang/mizi"
+      },
+      {
+        "person_slug": "martin-summer",
+        "role_slug": "franz-schreker/der-ferne-klang/wirt-des-gasthauses-zweiter-chorist"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/71de4e79-9b89-49c3-9fb0-699872c4cd51",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_richard-wagner-tristan-und-isolde",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gesine-vollm",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "johannes-erath",
+        "function": "director"
+      },
+      {
+        "person_slug": "gerald-maria-bauer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-gruter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "heike-scheele",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kristina-stanek",
+        "role_slug": "richard-wagner/tristan-und-isolde/brangane"
+      },
+      {
+        "person_slug": "matthew-newlin",
+        "role_slug": "richard-wagner/tristan-und-isolde/ein-junger-seemann-ein-hirt"
+      },
+      {
+        "person_slug": "irene-roberts",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "rene-pape",
+        "role_slug": "richard-wagner/tristan-und-isolde/konig-marke"
+      },
+      {
+        "person_slug": "christoph-pohl",
+        "role_slug": "richard-wagner/tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "sean-michael-plumb",
+        "role_slug": "richard-wagner/tristan-und-isolde/melot"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "richard-wagner/tristan-und-isolde/steuermann"
+      },
+      {
+        "person_slug": "john-matthew-myers",
+        "role_slug": "richard-wagner/tristan-und-isolde/tristan"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/8881bca5-8103-492b-a586-13cb0622feea",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/25_26-richard-wagner-der-fliegende-hollaender",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "birte-wallbaum",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-e-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "rainer-sinell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gabor-bretz",
+        "role_slug": "richard-wagner/der-fliegende-hollander/daland"
+      },
+      {
+        "person_slug": "jamez-mccorkle",
+        "role_slug": "richard-wagner/der-fliegende-hollander/erik"
+      },
+      {
+        "person_slug": "christopher-maltman",
+        "role_slug": "richard-wagner/der-fliegende-hollander/hollander"
+      },
+      {
+        "person_slug": "shannon-keegan",
+        "role_slug": "richard-wagner/der-fliegende-hollander/mary"
+      },
+      {
+        "person_slug": "sinead-campbell-wallace",
+        "role_slug": "richard-wagner/der-fliegende-hollander/senta"
+      },
+      {
+        "person_slug": "matthew-newlin",
+        "role_slug": "richard-wagner/der-fliegende-hollander/steuermann"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/a060eb24-7c60-4d53-85e3-8c0ddf79b1f9",
+    "work_slug": "johann-sebastian-bach/weihnachtsoratorium",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_johann-sebastian-bach-weihnachtsoratorium",
+    "creative_team": [
+      {
+        "person_slug": "julius-zeman",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anita-monserrat",
+        "role_slug": "johann-sebastian-bach/weihnachtsoratorium/alt"
+      },
+      {
+        "person_slug": "michael-nagl",
+        "role_slug": "johann-sebastian-bach/weihnachtsoratorium/bass"
+      },
+      {
+        "person_slug": "alina-wunderlin",
+        "role_slug": "johann-sebastian-bach/weihnachtsoratorium/sopran"
+      },
+      {
+        "person_slug": "manuel-gunther",
+        "role_slug": "johann-sebastian-bach/weihnachtsoratorium/tenor"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/ba63f66b-783d-4dac-8d42-e7c6f2afa5b0",
+    "work_slug": "philip-venables/we-are-the-lucky-ones",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/25_26-philip-venables-we-are-the-lucky-ones",
+    "creative_team": [
+      {
+        "person_slug": "pim-veulings",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bassem-akiki",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sonoko-kamimura",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ted-huffman",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ted-huffman",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-roling",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nina-segal",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bertrand-couderc",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nadja-sofie-eller",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "tobias-staab",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alex-rosen",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/eight"
+      },
+      {
+        "person_slug": "james-kryshak",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/five"
+      },
+      {
+        "person_slug": "helena-rasker",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/four"
+      },
+      {
+        "person_slug": "claron-mcfadden",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/one"
+      },
+      {
+        "person_slug": "german-olvera",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/seven"
+      },
+      {
+        "person_slug": "frederick-ballentine",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/six"
+      },
+      {
+        "person_slug": "nina-van-essen",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/three"
+      },
+      {
+        "person_slug": "jacquelyn-stucker",
+        "role_slug": "philip-venables/we-are-the-lucky-ones/two"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/c78fc310-d7d9-48e2-a790-58a0ac488008",
+    "work_slug": "richard-wagner/parsifal",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_richard-wagner-parsifal",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "regine-standfuss",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-m-krenn",
+        "function": "director"
+      },
+      {
+        "person_slug": "stefan-schlagbauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "heike-vollmer",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "thomas-achitz",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gerald-finley",
+        "role_slug": "richard-wagner/parsifal/amfortas"
+      },
+      {
+        "person_slug": "john-relyea",
+        "role_slug": "richard-wagner/parsifal/gurnemanz"
+      },
+      {
+        "person_slug": "irene-roberts",
+        "role_slug": "richard-wagner/parsifal/kundry"
+      },
+      {
+        "person_slug": "jonas-kaufmann",
+        "role_slug": "richard-wagner/parsifal/parsifal"
+      },
+      {
+        "person_slug": "martin-snell",
+        "role_slug": "richard-wagner/parsifal/titurel"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/cb5a9b7a-5504-467e-b97f-ced973cdb175",
+    "work_slug": "georges-bizet/carmen-konzertant",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/25_26-georges-bizet-carmen-konzertant",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aigul-akhmetshina",
+        "role_slug": "georges-bizet/carmen-konzertant/carmen"
+      },
+      {
+        "person_slug": "vladislav-chizhov",
+        "role_slug": "georges-bizet/carmen-konzertant/dancairo"
+      },
+      {
+        "person_slug": "michael-fabiano",
+        "role_slug": "georges-bizet/carmen-konzertant/don-jose"
+      },
+      {
+        "person_slug": "alexander-vinogradov",
+        "role_slug": "georges-bizet/carmen-konzertant/escamillo"
+      },
+      {
+        "person_slug": "eva-martinez",
+        "role_slug": "georges-bizet/carmen-konzertant/frasquita"
+      },
+      {
+        "person_slug": "lucy-baker",
+        "role_slug": "georges-bizet/carmen-konzertant/mercedes"
+      },
+      {
+        "person_slug": "pretty-yende",
+        "role_slug": "georges-bizet/carmen-konzertant/micaela"
+      },
+      {
+        "person_slug": "maurizio-bove",
+        "role_slug": "georges-bizet/carmen-konzertant/morales"
+      },
+      {
+        "person_slug": "alberto-robert",
+        "role_slug": "georges-bizet/carmen-konzertant/remendado"
+      },
+      {
+        "person_slug": "vittorio-de-campo",
+        "role_slug": "georges-bizet/carmen-konzertant/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/d0fd0da2-1a1d-4341-b6d4-6123328d5f49",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/26_27_giuseppe-verdila-traviata",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mariame-clement",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrik-gad",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "julia-hansen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dumitru-mitu",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "domenica-radlmaier",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "gianluca-margheri",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "tatiana-kuryatnikova",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "peter-kirk",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "vito-priante",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "felix-pacher",
+        "role_slug": "giuseppe-verdi/la-traviata/grenvil"
+      },
+      {
+        "person_slug": "gianluca-failla",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "julia-muzychenko",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-festspiele-erl/ed7acc4a-3927-4f46-ad45-a8eec25e8895",
+    "work_slug": "gaetano-donizetti/anna-bolena",
+    "house_slug": "tiroler-festspiele-erl",
+    "is_revival": false,
+    "detail_url": "https://www.tiroler-festspiele.at/events/27_27_anna_bolena",
+    "creative_team": [
+      {
+        "person_slug": "riccardo-frizza",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marigona-qerkezi",
+        "role_slug": "gaetano-donizetti/anna-bolena/anna-bolena"
+      },
+      {
+        "person_slug": "alexandros-stavrakakis",
+        "role_slug": "gaetano-donizetti/anna-bolena/enrico-viii"
+      },
+      {
+        "person_slug": "aigul-akhmetshina",
+        "role_slug": "gaetano-donizetti/anna-bolena/giovanna-seymour"
+      },
+      {
+        "person_slug": "sun-tianxuefei",
+        "role_slug": "gaetano-donizetti/anna-bolena/hervey"
+      },
+      {
+        "person_slug": "jack-swanson",
+        "role_slug": "gaetano-donizetti/anna-bolena/lord-riccardo-percy"
+      },
+      {
+        "person_slug": "pawe-horodyski",
+        "role_slug": "gaetano-donizetti/anna-bolena/lord-rochefort"
+      },
+      {
+        "person_slug": "teresa-iervolino",
+        "role_slug": "gaetano-donizetti/anna-bolena/smeton"
+      }
+    ]
+  }
+]

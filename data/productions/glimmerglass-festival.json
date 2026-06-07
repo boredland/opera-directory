@@ -1,0 +1,126 @@
+[
+  {
+    "id": "glimmerglass-festival/glimmerglass-butterfly",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "house_slug": "glimmerglass-festival",
+    "is_revival": false,
+    "detail_url": "https://glimmerglass.org/events/butterfly/",
+    "creative_team": [
+      {
+        "person_slug": "joseph-colaneri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anita-yavich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "francesca-zambello",
+        "function": "director"
+      },
+      {
+        "person_slug": "joshua-horowitz",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-wierzel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michael-yeargan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "glimmerglass-festival/glimmerglass-cosi-2",
+    "work_slug": "wolfgang-amadeus-mozart/cosi",
+    "house_slug": "glimmerglass-festival",
+    "is_revival": false,
+    "detail_url": "https://glimmerglass.org/events/cosi-2/",
+    "creative_team": [
+      {
+        "person_slug": "joseph-colaneri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "beth-goldenberg",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eric-einhorn",
+        "function": "director"
+      },
+      {
+        "person_slug": "kate-ashton",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "james-rotondo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "glimmerglass-festival/glimmerglass-fellow-travelers",
+    "work_slug": "gregory-spears/fellow-travelers",
+    "house_slug": "glimmerglass-festival",
+    "is_revival": false,
+    "detail_url": "https://glimmerglass.org/events/fellow-travelers/",
+    "creative_team": [
+      {
+        "person_slug": "kelly-kuo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "devario-d-simmons",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kevin-newbury",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vita-tzykun",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "glimmerglass-festival/glimmerglass-robin-hood",
+    "work_slug": "ben-moore/robin-hood",
+    "house_slug": "glimmerglass-festival",
+    "is_revival": false,
+    "detail_url": "https://glimmerglass.org/events/robin-hood/",
+    "creative_team": [
+      {
+        "person_slug": "kimberley-ann-bartczak",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sophie-schneider",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eric-sean-fogel",
+        "function": "director"
+      },
+      {
+        "person_slug": "bridget-williams",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "james-rotondo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

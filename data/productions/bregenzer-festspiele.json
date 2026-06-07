@@ -1,0 +1,328 @@
+[
+  {
+    "id": "bregenzer-festspiele/die-ausfluege-des-herrn-broucek",
+    "work_slug": "leos-janacek/die-ausfluge-des-herrn-broucek",
+    "house_slug": "bregenzer-festspiele",
+    "is_revival": false,
+    "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/die-ausfluege-des-herrn-broucek",
+    "creative_team": [
+      {
+        "person_slug": "robert-jindra",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yuval-sharon",
+        "function": "director"
+      },
+      {
+        "person_slug": "anke-rauthmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yi-zhao",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jon-bausor",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "hannah-wasileski",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gaja-napast",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/cisnicek-wunderkind-student"
+      },
+      {
+        "person_slug": "lukas-barak",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/dichter-anderer-dichter-oblacny-vacek-bradaty"
+      },
+      {
+        "person_slug": "jana-kurucova",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/kedruta"
+      },
+      {
+        "person_slug": "linard-vrielink",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/komponist-harfoboj-miroslav-zlatnik"
+      },
+      {
+        "person_slug": "paul-curievici",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/maler-duhoslav-stimme-des-professors-vojta-od-pavu-ii-taborita"
+      },
+      {
+        "person_slug": "tatev-baroyan",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/malinka-etherea-kunka"
+      },
+      {
+        "person_slug": "peter-hoare",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/matej-broucek"
+      },
+      {
+        "person_slug": "mihails-culpajevs",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/mazal-blankytny-petrik"
+      },
+      {
+        "person_slug": "karoly-szemeredy",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/sakristan-lunobor-domsik"
+      },
+      {
+        "person_slug": "svatopluk-sem",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/svatopluk-cech-i-taborita"
+      },
+      {
+        "person_slug": "allen-michael-jones",
+        "role_slug": "leos-janacek/die-ausfluge-des-herrn-broucek/wurfl-caroskvouci-schoffe"
+      }
+    ]
+  },
+  {
+    "id": "bregenzer-festspiele/l-elsir-d-amore",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore",
+    "house_slug": "bregenzer-festspiele",
+    "is_revival": false,
+    "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/l'elsir-d'amore",
+    "creative_team": [
+      {
+        "person_slug": "danila-grassi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-kelo",
+        "function": "director"
+      },
+      {
+        "person_slug": "tinde-lappalainen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "iana-aivazian",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "jakob-pebock",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/chorkoordination"
+      },
+      {
+        "person_slug": "davide-piva",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/dulcamara"
+      },
+      {
+        "person_slug": "tanja-jannelli",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/giannetta"
+      },
+      {
+        "person_slug": "emanuel-tomljenovic",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "bregenzer-festspiele/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "bregenzer-festspiele",
+    "is_revival": false,
+    "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "thomas-wilhelm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "kirill-karabits",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pietro-rizzo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carla-teti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "alwin-bosch",
+        "function": "sound-designer"
+      },
+      {
+        "person_slug": "clemens-wannemacher",
+        "function": "sound-designer"
+      },
+      {
+        "person_slug": "roland-horvath",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jose-simerilla-romero",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "julien-behr",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "long-long",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "claire-barnett-jones",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "melissa-zgouridi",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "kevin-greenlaw",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "michael-c-havlicek",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "ivo-stanchev",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "stanislav-vorobyov",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "angela-simkin",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "rinat-shaham",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "francisco-brito",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "taylan-reinhard",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "audun-iversen",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "kostas-smoriginas",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "vladimir-stoyanov",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "aaron-godfrey-mayes",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "raphael-jardin",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "janne-sihvo",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "pete-thanapat",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "julia-muzychenko",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "marjukka-tepponen",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "stacey-alleaume",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "bregenzer-festspiele/passion-of-the-common-man",
+    "work_slug": "daniel-bjarnason/passion-of-the-common-man",
+    "house_slug": "bregenzer-festspiele",
+    "is_revival": false,
+    "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/passion-of-the-common-man",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "jacques-imbrailo",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/bariton"
+      },
+      {
+        "person_slug": "anne-sofie-von-otter",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/mezzosopran"
+      },
+      {
+        "person_slug": "emma-kajander",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/sopran"
+      },
+      {
+        "person_slug": "aaron-godfrey-mayes",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/tenor"
+      }
+    ]
+  },
+  {
+    "id": "bregenzer-festspiele/yum",
+    "work_slug": "wen-liu/yum",
+    "house_slug": "bregenzer-festspiele",
+    "is_revival": false,
+    "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/yum",
+    "creative_team": [
+      {
+        "person_slug": "carmen-c-kruse",
+        "function": "director"
+      },
+      {
+        "person_slug": "sarah-thery",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lisa-horvath",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "flavia-mazzanti",
+        "role_slug": "wen-liu/yum/beratung-xr-design"
+      },
+      {
+        "person_slug": "wen-liu",
+        "role_slug": "wen-liu/yum/kunstlerische-konzeption-xr-konzept-libretto-und-komposition"
+      }
+    ]
+  }
+]

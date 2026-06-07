@@ -1,0 +1,152 @@
+[
+  {
+    "id": "opernfestspiele-heidenheim/macbeth-html",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "opernfestspiele-heidenheim",
+    "is_revival": false,
+    "detail_url": "https://www.opernfestspiele.de/tickets-spielplan/macbeth.html",
+    "creative_team": [
+      {
+        "person_slug": "marcus-bosch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "almut-echtler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-baesler",
+        "function": "director"
+      },
+      {
+        "person_slug": "gerhard-herfeldt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hartmut-litzinger",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rory-dunne",
+        "role_slug": "giuseppe-verdi/macbeth/arzt"
+      },
+      {
+        "person_slug": "don-lee",
+        "role_slug": "giuseppe-verdi/macbeth/banco-anfuhrer-des-koniglichen-heeres"
+      },
+      {
+        "person_slug": "rory-dunne",
+        "role_slug": "giuseppe-verdi/macbeth/diener-macbeths"
+      },
+      {
+        "person_slug": "daniel-dropulja",
+        "role_slug": "giuseppe-verdi/macbeth/erste-erscheinung"
+      },
+      {
+        "person_slug": "rory-dunne",
+        "role_slug": "giuseppe-verdi/macbeth/herold"
+      },
+      {
+        "person_slug": "julia-rutigliano",
+        "role_slug": "giuseppe-verdi/macbeth/kammerfrau-der-lady-macbeth"
+      },
+      {
+        "person_slug": "leah-gordon",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth-macbeths-frau"
+      },
+      {
+        "person_slug": "thomas-weinhappel",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth-anfuhrer-des-koniglichen-heeres"
+      },
+      {
+        "person_slug": "david-esteban",
+        "role_slug": "giuseppe-verdi/macbeth/macduff-schottischer-edler-herr-von-fife"
+      },
+      {
+        "person_slug": "santiago-burgi",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm-sohn-duncanos"
+      },
+      {
+        "person_slug": "daniel-dropulja",
+        "role_slug": "giuseppe-verdi/macbeth/morder"
+      }
+    ]
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-html",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "opernfestspiele-heidenheim",
+    "is_revival": false,
+    "detail_url": "https://www.opernfestspiele.de/tickets-spielplan/otello.html",
+    "creative_team": [
+      {
+        "person_slug": "marcus-bosch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "claudia-pernigotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "rosetta-cucchi",
+        "function": "director"
+      },
+      {
+        "person_slug": "gerhard-herfeldt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hartmut-litzinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "matthias-kronfuss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "adam-sanchez",
+        "role_slug": "giuseppe-verdi/otello/cassio-hauptmann"
+      },
+      {
+        "person_slug": "camille-schnoor",
+        "role_slug": "giuseppe-verdi/otello/desdemona-otellos-gemahlin"
+      },
+      {
+        "person_slug": "rory-dunne",
+        "role_slug": "giuseppe-verdi/otello/ein-herold"
+      },
+      {
+        "person_slug": "jade-phoenix",
+        "role_slug": "giuseppe-verdi/otello/emilia-jagos-gemahlin"
+      },
+      {
+        "person_slug": "julia-rutigliano",
+        "role_slug": "giuseppe-verdi/otello/emilia-jagos-gemahlin"
+      },
+      {
+        "person_slug": "marian-pop",
+        "role_slug": "giuseppe-verdi/otello/jago-fahnrich"
+      },
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "giuseppe-verdi/otello/lodovico-gesandter-der-republik-venedig"
+      },
+      {
+        "person_slug": "svilen-denchev",
+        "role_slug": "giuseppe-verdi/otello/montano-vorganger-otellos-als-gouverneur-von-zypern"
+      },
+      {
+        "person_slug": "sung-kyu-park",
+        "role_slug": "giuseppe-verdi/otello/otello-mohr-befehlshaber-der-venezianischen-flotte"
+      },
+      {
+        "person_slug": "musa-nkuna",
+        "role_slug": "giuseppe-verdi/otello/roderigo-venezianischer-edelmann"
+      }
+    ]
+  }
+]

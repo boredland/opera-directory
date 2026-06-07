@@ -1,0 +1,318 @@
+[
+  {
+    "id": "opera-theatre-of-saint-louis/opera-theatre-of-saint-louis-a-streetcar-named-desire",
+    "work_slug": "andre-previn/a-streetcar-named-desire",
+    "house_slug": "opera-theatre-of-saint-louis",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera-stl.org/whats-on/a-streetcar-named-desire/",
+    "creative_team": [
+      {
+        "person_slug": "daniela-candillari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "darwin-aquino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "amanda-gladu",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "patricia-racette",
+        "function": "director"
+      },
+      {
+        "person_slug": "eric-southern",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "andrew-boyce",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sara-gartland",
+        "role_slug": "andre-previn/a-streetcar-named-desire/blanche-dubois"
+      },
+      {
+        "person_slug": "erik-demario",
+        "role_slug": "andre-previn/a-streetcar-named-desire/doctor"
+      },
+      {
+        "person_slug": "ashlyn-brown",
+        "role_slug": "andre-previn/a-streetcar-named-desire/eunice-hubbell"
+      },
+      {
+        "person_slug": "bille-bruley",
+        "role_slug": "andre-previn/a-streetcar-named-desire/harold-mitchell"
+      },
+      {
+        "person_slug": "kim-stanish",
+        "role_slug": "andre-previn/a-streetcar-named-desire/nurse"
+      },
+      {
+        "person_slug": "cole-bellamy",
+        "role_slug": "andre-previn/a-streetcar-named-desire/pablo"
+      },
+      {
+        "person_slug": "david-adam-moore",
+        "role_slug": "andre-previn/a-streetcar-named-desire/stanley-kowalski"
+      },
+      {
+        "person_slug": "lauren-snouffer",
+        "role_slug": "andre-previn/a-streetcar-named-desire/stella-kowalski"
+      },
+      {
+        "person_slug": "landry-allen",
+        "role_slug": "andre-previn/a-streetcar-named-desire/steve-hubbell"
+      },
+      {
+        "person_slug": "rosario-armas",
+        "role_slug": "andre-previn/a-streetcar-named-desire/the-flower-seller"
+      },
+      {
+        "person_slug": "edmond-rodriguez",
+        "role_slug": "andre-previn/a-streetcar-named-desire/young-collector"
+      }
+    ]
+  },
+  {
+    "id": "opera-theatre-of-saint-louis/opera-theatre-of-saint-louis-romeo-and-juliet",
+    "work_slug": "charles-gounod/romeo-and-juliet",
+    "house_slug": "opera-theatre-of-saint-louis",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera-stl.org/whats-on/romeo-and-juliet/",
+    "creative_team": [
+      {
+        "person_slug": "sean-curran",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ramon-tebar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "steven-aguilo-arbues",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "keturah-stickann",
+        "function": "director"
+      },
+      {
+        "person_slug": "eric-southern",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "liliana-duque-pineiro",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "edmond-rodriguez",
+        "role_slug": "charles-gounod/romeo-and-juliet/benvolio"
+      },
+      {
+        "person_slug": "jason-edelstein",
+        "role_slug": "charles-gounod/romeo-and-juliet/duke-of-verona"
+      },
+      {
+        "person_slug": "nicholas-newton",
+        "role_slug": "charles-gounod/romeo-and-juliet/friar-laurence"
+      },
+      {
+        "person_slug": "imara-ashton",
+        "role_slug": "charles-gounod/romeo-and-juliet/gertrude"
+      },
+      {
+        "person_slug": "kevin-douglas-jasaitis",
+        "role_slug": "charles-gounod/romeo-and-juliet/gregorio"
+      },
+      {
+        "person_slug": "emma-marhefka",
+        "role_slug": "charles-gounod/romeo-and-juliet/juliet"
+      },
+      {
+        "person_slug": "vinicius-costa",
+        "role_slug": "charles-gounod/romeo-and-juliet/lord-capulet"
+      },
+      {
+        "person_slug": "benjamin-taylor",
+        "role_slug": "charles-gounod/romeo-and-juliet/mercutio"
+      },
+      {
+        "person_slug": "cole-bellamy",
+        "role_slug": "charles-gounod/romeo-and-juliet/paris"
+      },
+      {
+        "person_slug": "leonardo-sanchez",
+        "role_slug": "charles-gounod/romeo-and-juliet/romeo"
+      },
+      {
+        "person_slug": "veronica-siebert",
+        "role_slug": "charles-gounod/romeo-and-juliet/stephano"
+      },
+      {
+        "person_slug": "micah-perry",
+        "role_slug": "charles-gounod/romeo-and-juliet/tybalt"
+      }
+    ]
+  },
+  {
+    "id": "opera-theatre-of-saint-louis/opera-theatre-of-saint-louis-the-light-in-the-piazza",
+    "work_slug": "adam-guettel/the-light-in-the-piazza",
+    "house_slug": "opera-theatre-of-saint-louis",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera-stl.org/whats-on/the-light-in-the-piazza/",
+    "creative_team": [
+      {
+        "person_slug": "sean-curran",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rob-berman",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulises-alcala",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "crystal-manich",
+        "function": "director"
+      },
+      {
+        "person_slug": "eric-southern",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "cameron-anderson",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "katrina-galka",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/clara-johnson"
+      },
+      {
+        "person_slug": "roy-hage",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/fabrizio-naccarelli"
+      },
+      {
+        "person_slug": "kelly-guerra",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/franca-naccarelli"
+      },
+      {
+        "person_slug": "joel-clemens",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/giuseppe-naccarelli"
+      },
+      {
+        "person_slug": "kate-baldwin",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/margaret-johnson"
+      },
+      {
+        "person_slug": "kevin-douglas-jasaitis",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/priest"
+      },
+      {
+        "person_slug": "michael-james-reed",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/roy-johnson"
+      },
+      {
+        "person_slug": "paulo-szot",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/signor-naccarelli"
+      },
+      {
+        "person_slug": "debby-lennon",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/signora-naccarelli"
+      },
+      {
+        "person_slug": "jason-garcia-kakuk",
+        "role_slug": "adam-guettel/the-light-in-the-piazza/tour-guide"
+      }
+    ]
+  },
+  {
+    "id": "opera-theatre-of-saint-louis/opera-theatre-of-saint-louis-the-pirates-of-penzance",
+    "work_slug": "gilbert-sullivan/the-pirates-of-penzance",
+    "house_slug": "opera-theatre-of-saint-louis",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera-stl.org/whats-on/the-pirates-of-penzance/",
+    "creative_team": [
+      {
+        "person_slug": "andrew-whitfield",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "darwin-aquino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "george-manahan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "diane-machin",
+        "function": "director"
+      },
+      {
+        "person_slug": "paige-cameron",
+        "function": "director"
+      },
+      {
+        "person_slug": "cheyenne-sykes",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "saane-aziza-halaholo",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/edith"
+      },
+      {
+        "person_slug": "daniel-luis-espinal",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/frederic"
+      },
+      {
+        "person_slug": "shiyu-zhuo",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/isabel"
+      },
+      {
+        "person_slug": "kim-stanish",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/kate"
+      },
+      {
+        "person_slug": "jana-mcintyre",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/mabel"
+      },
+      {
+        "person_slug": "robert-mellon",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/major-general-stanley"
+      },
+      {
+        "person_slug": "meredith-arwady",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/ruth"
+      },
+      {
+        "person_slug": "joseph-o-shea",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/samuel"
+      },
+      {
+        "person_slug": "shyheim-selvan-hinnant",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/sergeant-of-police"
+      },
+      {
+        "person_slug": "william-socolof",
+        "role_slug": "gilbert-sullivan/the-pirates-of-penzance/the-pirate-king"
+      }
+    ]
+  }
+]

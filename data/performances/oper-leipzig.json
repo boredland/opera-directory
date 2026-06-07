@@ -147,6 +147,20 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/kool-and-the-gens-835/2026-06-13/11:00",
+    "production_id": "oper-leipzig/kool-and-the-gens-835",
+    "date": "2026-06-13",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/kool-and-the-gens-835/2026-06-15/17:00",
+    "production_id": "oper-leipzig/kool-and-the-gens-835",
+    "date": "2026-06-15",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/kostprobe-musikalische-komodie-627/2026-06-04/18:00",
     "production_id": "oper-leipzig/kostprobe-musikalische-komodie-627",
     "date": "2026-06-04",
@@ -186,6 +200,48 @@
     "production_id": "oper-leipzig/lauschkonzert-591",
     "date": "2026-11-19",
     "time": "10:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/regina-811/2026-04-25/19:00",
+    "production_id": "oper-leipzig/regina-811",
+    "date": "2026-04-25",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "oper-leipzig/regina-811/2026-05-02/19:00",
+    "production_id": "oper-leipzig/regina-811",
+    "date": "2026-05-02",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "oper-leipzig/regina-811/2026-06-12/19:30",
+    "production_id": "oper-leipzig/regina-811",
+    "date": "2026-06-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/training-plus-747/2026-06-13/09:00",
+    "production_id": "oper-leipzig/training-plus-747",
+    "date": "2026-06-13",
+    "time": "09:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/training-plus-747/2026-11-14/09:00",
+    "production_id": "oper-leipzig/training-plus-747",
+    "date": "2026-11-14",
+    "time": "09:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/training-plus-747/2027-03-06/09:00",
+    "production_id": "oper-leipzig/training-plus-747",
+    "date": "2027-03-06",
+    "time": "09:00",
     "status": "scheduled"
   },
   {

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "opera-philadelphia/opera-philadelphia-whats-on-2627-season-aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "opera-philadelphia",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.operaphila.org/whats-on/2627-season/aida/",
+    "creative_team": [
+      {
+        "person_slug": "corrado-rovaris",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaneza-schaal",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tiffany-townsend",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "aubrey-odle",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "alfred-walker",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "katerina-burton",
+        "role_slug": "giuseppe-verdi/aida/high-priestess"
+      },
+      {
+        "person_slug": "kevin-short",
+        "role_slug": "giuseppe-verdi/aida/king-of-egypt"
+      },
+      {
+        "person_slug": "jonathan-burton",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "patrick-guetti",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      }
+    ]
+  },
+  {
+    "id": "opera-philadelphia/opera-philadelphia-whats-on-2627-season-let-em-eat-cake",
+    "work_slug": "george-and-ira-gershwin/let-em-eat-cake",
+    "house_slug": "opera-philadelphia",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.operaphila.org/whats-on/2627-season/let-em-eat-cake/",
+    "creative_team": [
+      {
+        "person_slug": "corrado-rovaris",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "zack-winokur",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-philadelphia/opera-philadelphia-whats-on-2627-season-mitridate-re-di-ponto",
+    "work_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto",
+    "house_slug": "opera-philadelphia",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.operaphila.org/whats-on/2627-season/mitridate-re-di-ponto/",
+    "creative_team": [
+      {
+        "person_slug": "corrado-rovaris",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emma-griffin",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sarah-coit",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/arbate"
+      },
+      {
+        "person_slug": "lauren-snouffer",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/aspasia"
+      },
+      {
+        "person_slug": "anthony-roth-costanzo",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/farnace"
+      },
+      {
+        "person_slug": "nola-richardson",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/ismene"
+      },
+      {
+        "person_slug": "minghao-liu",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/marzio"
+      },
+      {
+        "person_slug": "lawrence-brownlee",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/mitridate"
+      },
+      {
+        "person_slug": "meredith-wohlgemuth",
+        "role_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto/sifare"
+      }
+    ]
+  },
+  {
+    "id": "opera-philadelphia/opera-philadelphia-whats-on-2627-season-sitcom",
+    "work_slug": "luke-styles/sitcom",
+    "house_slug": "opera-philadelphia",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.operaphila.org/whats-on/2627-season/sitcom/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-philadelphia/opera-philadelphia-whats-on-2627-season-suddenly-last-summer",
+    "work_slug": "courtney-bryan/suddenly-last-summer",
+    "house_slug": "opera-philadelphia",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.operaphila.org/whats-on/2627-season/suddenly-last-summer/",
+    "creative_team": [
+      {
+        "person_slug": "nathan-koci",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daniel-fish",
+        "function": "director"
+      },
+      {
+        "person_slug": "mikhaela-mahony",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mikaela-bennett",
+        "role_slug": "courtney-bryan/suddenly-last-summer/catherine-holly"
+      }
+    ]
+  }
+]

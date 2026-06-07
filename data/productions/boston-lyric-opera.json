@@ -1,0 +1,62 @@
+[
+  {
+    "id": "boston-lyric-opera/boston-lyric-opera-daughter",
+    "work_slug": "gaetano-donizetti/daughter-of-the-regiment",
+    "house_slug": "boston-lyric-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://blo.org/daughter/",
+    "creative_team": [
+      {
+        "person_slug": "kelly-kuo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oana-botez",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "john-de-los-santos",
+        "function": "director"
+      },
+      {
+        "person_slug": "reza-behjat",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "liliana-duque-pineiro",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "devon-russo",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/corporal"
+      },
+      {
+        "person_slug": "neal-ferreira",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/duchesse-de-krakenthorpe"
+      },
+      {
+        "person_slug": "angela-yam",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/hortensia"
+      },
+      {
+        "person_slug": "brenda-rae",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/marie"
+      },
+      {
+        "person_slug": "kenneth-kellogg",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/sulpice"
+      },
+      {
+        "person_slug": "spencer-britten",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/tonio"
+      },
+      {
+        "person_slug": "sandra-piques-eddy",
+        "role_slug": "gaetano-donizetti/daughter-of-the-regiment/widow-birkenfeld"
+      }
+    ]
+  }
+]

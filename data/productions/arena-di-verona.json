@@ -1,0 +1,376 @@
+[
+  {
+    "id": "arena-di-verona/aida",
+    "work_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/aida/",
+    "creative_team": [
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-ommassini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-anni",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "franco-zeffirelli",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/a-messenger"
+      },
+      {
+        "person_slug": "aleksandra-kurzak",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/aida"
+      },
+      {
+        "person_slug": "clementine-margaine",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/amneris"
+      },
+      {
+        "person_slug": "youngjun-park",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/amonasro"
+      },
+      {
+        "person_slug": "francesca-maionchi",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/high-priestess"
+      },
+      {
+        "person_slug": "seokjong-baek",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/radames"
+      },
+      {
+        "person_slug": "alexander-vinogradov",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/ramfis"
+      },
+      {
+        "person_slug": "abramo-rosalen",
+        "role_slug": "giuseppe-verdi/aida-ed-franco-zeffirelli/the-king"
+      }
+    ]
+  },
+  {
+    "id": "arena-di-verona/aida-2023",
+    "work_slug": "giuseppe-verdi/aida-ed-stefano-poda",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/aida-2023/",
+    "creative_team": [
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-poda",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/a-messenger"
+      },
+      {
+        "person_slug": "maria-jose-siri",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/aida"
+      },
+      {
+        "person_slug": "judit-kutasi",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/amneris"
+      },
+      {
+        "person_slug": "amartuvshin-enkhbat",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/amonasro"
+      },
+      {
+        "person_slug": "francesca-maionchi",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/high-priestess"
+      },
+      {
+        "person_slug": "yusif-eyvazov",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/radames"
+      },
+      {
+        "person_slug": "simon-lim",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/ramfis"
+      },
+      {
+        "person_slug": "abramo-rosalen",
+        "role_slug": "giuseppe-verdi/aida-ed-stefano-poda/the-king"
+      }
+    ]
+  },
+  {
+    "id": "arena-di-verona/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-lanzillotta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfonso-signorini",
+        "function": "director"
+      },
+      {
+        "person_slug": "juan-guillermo-nova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gianfranco-montresor",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "nicolo-ceriani",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "mihai-damian",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "eleonora-buratto",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "francesca-pia-vitale",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "yusif-eyvazov",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "jan-antem",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "nicolo-rigano",
+        "role_slug": "giacomo-puccini/la-boheme/sergente-dei-doganieri"
+      }
+    ]
+  },
+  {
+    "id": "arena-di-verona/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/la-traviata/",
+    "creative_team": [
+      {
+        "person_slug": "kyle-lang",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-spotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-ciammitti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "paul-curran",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabio-barettin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "juan-guillermo-nova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "yusif-eyvazov",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "francesca-maionchi",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "anna-werle",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone-visconte-di-letorieres"
+      },
+      {
+        "person_slug": "amartuvshin-enkhbat",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "nicolo-ceriani",
+        "role_slug": "giuseppe-verdi/la-traviata/il-barone-douphol"
+      },
+      {
+        "person_slug": "mariano-buccino",
+        "role_slug": "giuseppe-verdi/la-traviata/il-dottore-grenvil"
+      },
+      {
+        "person_slug": "gezim-myshketa",
+        "role_slug": "giuseppe-verdi/la-traviata/il-marchese-d-obigny"
+      },
+      {
+        "person_slug": "martina-russomanno",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "arena-di-verona/nabucco",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/nabucco/",
+    "creative_team": [
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-spotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-poda",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "maria-jose-siri",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "elisabetta-zizzo",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "annalisa-stroppa",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "nicolo-ceriani",
+        "role_slug": "giuseppe-verdi/nabucco/il-gran-sacerdote-di-belo"
+      },
+      {
+        "person_slug": "galeano-salas",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "amartuvshin-enkhbat",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "roberto-tagliavini",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
+    "id": "arena-di-verona/turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "maria-grazia-garofoli",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "roberto-gabbiani",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emi-wada",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "franco-zeffirelli",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "brian-jagde",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "carlo-bosi",
+        "role_slug": "giacomo-puccini/turandot/emperor-altoum"
+      },
+      {
+        "person_slug": "mariangela-sicilia",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "saverio-fiore",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "gezim-myshketa",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "matteo-macchioni",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "anna-pirozzi",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "ankhbayar-enkhbold",
+        "role_slug": "giacomo-puccini/turandot/un-mandarino"
+      }
+    ]
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "glyndebourne-festival/glyndebourne-billy-budd",
+    "work_slug": "britten/billy-budd",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/billy-budd/",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ian-rutherford",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-grandage",
+        "function": "director"
+      },
+      {
+        "person_slug": "mark-ruddick",
+        "function": "fight-director"
+      },
+      {
+        "person_slug": "paule-constable",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christopher-oram",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-mole",
+        "role_slug": "britten/billy-budd/billy-budd"
+      },
+      {
+        "person_slug": "michael-ronan",
+        "role_slug": "britten/billy-budd/bosun"
+      },
+      {
+        "person_slug": "allan-clayton",
+        "role_slug": "britten/billy-budd/captain-vere"
+      },
+      {
+        "person_slug": "sam-carl",
+        "role_slug": "britten/billy-budd/claggart-master-at-arms"
+      },
+      {
+        "person_slug": "samuel-dale-johnson",
+        "role_slug": "britten/billy-budd/donald"
+      },
+      {
+        "person_slug": "daniel-okulitch",
+        "role_slug": "britten/billy-budd/lieutenant-ratcliffe"
+      },
+      {
+        "person_slug": "ru-charlesworth",
+        "role_slug": "britten/billy-budd/maintop"
+      },
+      {
+        "person_slug": "william-thomas",
+        "role_slug": "britten/billy-budd/mr-flint-sailing-master"
+      },
+      {
+        "person_slug": "dingle-yandell",
+        "role_slug": "britten/billy-budd/mr-redburn-first-lieutenant"
+      },
+      {
+        "person_slug": "laurence-kilsby",
+        "role_slug": "britten/billy-budd/novice"
+      },
+      {
+        "person_slug": "alasdair-elliott",
+        "role_slug": "britten/billy-budd/red-whiskers"
+      },
+      {
+        "person_slug": "daniel-norman",
+        "role_slug": "britten/billy-budd/squeak-a-ship-s-corporal"
+      },
+      {
+        "person_slug": "alex-otterburn",
+        "role_slug": "britten/billy-budd/the-novice-s-friend"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-die-entfuhrung-aus-dem-serail",
+    "work_slug": "mozart/die-entfuhrung-aus-dem-serail",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/die-entfuhrung-aus-dem-serail/",
+    "creative_team": [
+      {
+        "person_slug": "andrew-george",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "evan-rogister",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "david-mcvicar",
+        "function": "director"
+      },
+      {
+        "person_slug": "paule-constable",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vicki-mortimer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "evie-poaros",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "jake-barton",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "jamie-campbell",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "natalia-adera",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "samuel-morgan-freeman",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "sirena-tocco",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/actors"
+      },
+      {
+        "person_slug": "anthony-leon",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/belmonte"
+      },
+      {
+        "person_slug": "julie-roset",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/blonde"
+      },
+      {
+        "person_slug": "marcus-swietlicki",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/klaas-a-sea-captain"
+      },
+      {
+        "person_slug": "liv-redpath",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/konstanze"
+      },
+      {
+        "person_slug": "michael-mofidian",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/osmin"
+      },
+      {
+        "person_slug": "franck-saurel",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/pasha-selim"
+      },
+      {
+        "person_slug": "thomas-cilluffo",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/pedrillo"
+      },
+      {
+        "person_slug": "rian-wunderlin",
+        "role_slug": "mozart/die-entfuhrung-aus-dem-serail/wache"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-il-turco-in-italia",
+    "work_slug": "rossini/il-turco-in-italia",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/il-turco-in-italia/",
+    "creative_team": [
+      {
+        "person_slug": "bertie-baigent",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jack-gonzalez-harding",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ian-rutherford",
+        "function": "director"
+      },
+      {
+        "person_slug": "mariame-clement",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernd-purkrabek",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "julia-hansen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anle-gou",
+        "role_slug": "rossini/il-turco-in-italia/albazar"
+      },
+      {
+        "person_slug": "rodion-pogossov",
+        "role_slug": "rossini/il-turco-in-italia/don-geronio"
+      },
+      {
+        "person_slug": "minghao-liu",
+        "role_slug": "rossini/il-turco-in-italia/don-narciso"
+      },
+      {
+        "person_slug": "elena-villalon",
+        "role_slug": "rossini/il-turco-in-italia/donna-fiorilla"
+      },
+      {
+        "person_slug": "matteo-mancini",
+        "role_slug": "rossini/il-turco-in-italia/prosdocimo"
+      },
+      {
+        "person_slug": "peter-kalman",
+        "role_slug": "rossini/il-turco-in-italia/selim"
+      },
+      {
+        "person_slug": "aytaj-shikhalizada",
+        "role_slug": "rossini/il-turco-in-italia/zaida"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-lorfeo",
+    "work_slug": "monteverdi/l-orfeo",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/lorfeo/",
+    "creative_team": [
+      {
+        "person_slug": "gregory-maqoma",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jonathan-cohen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "greta-goiris",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "luc-de-wit",
+        "function": "director"
+      },
+      {
+        "person_slug": "william-kentridge",
+        "function": "director"
+      },
+      {
+        "person_slug": "urs-schonebaum",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sabine-theunissen",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "janus-fouche",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nick-frentz",
+        "role_slug": "monteverdi/l-orfeo/actor"
+      },
+      {
+        "person_slug": "caspar-singh",
+        "role_slug": "monteverdi/l-orfeo/apollo"
+      },
+      {
+        "person_slug": "callum-thorpe",
+        "role_slug": "monteverdi/l-orfeo/caronte"
+      },
+      {
+        "person_slug": "roseline-wilkens",
+        "role_slug": "monteverdi/l-orfeo/dancers"
+      },
+      {
+        "person_slug": "thulani-chauke",
+        "role_slug": "monteverdi/l-orfeo/dancers"
+      },
+      {
+        "person_slug": "simon-mascarenhas-carter",
+        "role_slug": "monteverdi/l-orfeo/echo"
+      },
+      {
+        "person_slug": "francesca-aspromonte",
+        "role_slug": "monteverdi/l-orfeo/la-musica-euridice"
+      },
+      {
+        "person_slug": "xenia-puskarz-thomas",
+        "role_slug": "monteverdi/l-orfeo/la-speranza-messaggera"
+      },
+      {
+        "person_slug": "krystian-adam",
+        "role_slug": "monteverdi/l-orfeo/orfeo"
+      },
+      {
+        "person_slug": "davide-giangregorio",
+        "role_slug": "monteverdi/l-orfeo/plutone"
+      },
+      {
+        "person_slug": "leia-lensing",
+        "role_slug": "monteverdi/l-orfeo/proserpina"
+      },
+      {
+        "person_slug": "florian-stortz",
+        "role_slug": "monteverdi/l-orfeo/shepherds-spirits"
+      },
+      {
+        "person_slug": "hugo-herman-wilson",
+        "role_slug": "monteverdi/l-orfeo/shepherds-spirits"
+      },
+      {
+        "person_slug": "kieron-connor-valentine",
+        "role_slug": "monteverdi/l-orfeo/shepherds-spirits"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-spark",
+    "work_slug": "lucy-armstrong/spark",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/spark/",
+    "creative_team": [
+      {
+        "person_slug": "ashley-beauchamp",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fiona-dunn",
+        "function": "director"
+      },
+      {
+        "person_slug": "howard-hudson",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ryan-dawson-laight",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "natasha-oldbury",
+        "role_slug": "lucy-armstrong/spark/ash"
+      },
+      {
+        "person_slug": "ella-taylor",
+        "role_slug": "lucy-armstrong/spark/blaze"
+      },
+      {
+        "person_slug": "clementine-thompson",
+        "role_slug": "lucy-armstrong/spark/clara"
+      },
+      {
+        "person_slug": "hugo-herman-wilson",
+        "role_slug": "lucy-armstrong/spark/ember-dad"
+      },
+      {
+        "person_slug": "rhian-lois",
+        "role_slug": "lucy-armstrong/spark/flicker-mum"
+      },
+      {
+        "person_slug": "rachel-howe",
+        "role_slug": "lucy-armstrong/spark/frankie"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-the-barber-of-seville",
+    "work_slug": "rossini/the-barber-of-seville",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/the-barber-of-seville/",
+    "creative_team": [
+      {
+        "person_slug": "toby-sedgwick",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chloe-rooke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "annabel-arden",
+        "function": "director"
+      },
+      {
+        "person_slug": "james-farncombe",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "joanna-parker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cumhur-gorgun",
+        "role_slug": "rossini/the-barber-of-seville/basilio"
+      },
+      {
+        "person_slug": "ailish-tynan",
+        "role_slug": "rossini/the-barber-of-seville/berta"
+      },
+      {
+        "person_slug": "anle-gou",
+        "role_slug": "rossini/the-barber-of-seville/count-almaviva"
+      },
+      {
+        "person_slug": "fabio-capitanucci",
+        "role_slug": "rossini/the-barber-of-seville/dr-bartolo"
+      },
+      {
+        "person_slug": "lluis-calvet-i-pey",
+        "role_slug": "rossini/the-barber-of-seville/figaro"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-the-marriage-of-figaro",
+    "work_slug": "mozart/the-marriage-of-figaro",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/the-marriage-of-figaro/",
+    "creative_team": [
+      {
+        "person_slug": "anna-marie-sullivan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bertie-baigent",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mariame-clement",
+        "function": "director"
+      },
+      {
+        "person_slug": "paule-constable",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "julia-hansen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-vassiliev",
+        "role_slug": "mozart/the-marriage-of-figaro/antonio"
+      },
+      {
+        "person_slug": "rachel-roper",
+        "role_slug": "mozart/the-marriage-of-figaro/cherubino"
+      },
+      {
+        "person_slug": "olivia-boen",
+        "role_slug": "mozart/the-marriage-of-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "mark-milhofer",
+        "role_slug": "mozart/the-marriage-of-figaro/don-basilio"
+      },
+      {
+        "person_slug": "henry-waddington",
+        "role_slug": "mozart/the-marriage-of-figaro/dr-bartolo"
+      },
+      {
+        "person_slug": "madeleine-shaw",
+        "role_slug": "mozart/the-marriage-of-figaro/marcellina"
+      },
+      {
+        "person_slug": "mei-gui-zhang",
+        "role_slug": "mozart/the-marriage-of-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "glyndebourne-festival/glyndebourne-tosca",
+    "work_slug": "puccini/tosca",
+    "house_slug": "glyndebourne-festival",
+    "is_revival": false,
+    "detail_url": "https://www.glyndebourne.com/events/tosca/",
+    "creative_team": [
+      {
+        "person_slug": "jordan-de-souza",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robin-ticciati",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "astrid-klein",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ted-huffman",
+        "function": "director"
+      },
+      {
+        "person_slug": "rachel-bown-williams",
+        "function": "fight-director"
+      },
+      {
+        "person_slug": "rc-annie",
+        "function": "fight-director"
+      },
+      {
+        "person_slug": "ruth-cooper-brown",
+        "function": "fight-director"
+      },
+      {
+        "person_slug": "d-m-wood",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nadja-sofie-eller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "darryl-mundoma",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "ianthe-bathurst",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "jake-barton",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "larissa-longsee",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "pip-marsh",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "samuel-morgan-freeman",
+        "role_slug": "puccini/tosca/actors"
+      },
+      {
+        "person_slug": "alfred-walker",
+        "role_slug": "puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "vladislav-sulimsky",
+        "role_slug": "puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "kristian-lindroos",
+        "role_slug": "puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "caitlin-gotimer",
+        "role_slug": "puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "mikayel-sargsyan",
+        "role_slug": "puccini/tosca/jailer"
+      },
+      {
+        "person_slug": "atalla-ayan",
+        "role_slug": "puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "matteo-lippi",
+        "role_slug": "puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "federico-de-michelis",
+        "role_slug": "puccini/tosca/sacristan"
+      },
+      {
+        "person_slug": "michael-ronan",
+        "role_slug": "puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "ben-wright",
+        "role_slug": "puccini/tosca/shepherd-boy"
+      },
+      {
+        "person_slug": "rufus-green",
+        "role_slug": "puccini/tosca/shepherd-boy"
+      },
+      {
+        "person_slug": "didier-pieri",
+        "role_slug": "puccini/tosca/spoletta"
+      }
+    ]
+  }
+]

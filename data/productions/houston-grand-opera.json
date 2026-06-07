@@ -1,0 +1,448 @@
+[
+  {
+    "id": "houston-grand-opera/houston-grand-opera-aida",
+    "work_slug": "verdi/aida",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/aida",
+    "creative_team": [
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-gamba",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "charlese-antoinette",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kaneza-schaal",
+        "function": "director"
+      },
+      {
+        "person_slug": "pablo-santiago",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "joshua-higgason",
+        "function": "projection-designer"
+      },
+      {
+        "person_slug": "amy-rubin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lucas-meachem",
+        "role_slug": "verdi/aida/baritone"
+      },
+      {
+        "person_slug": "grigory-shkarupa",
+        "role_slug": "verdi/aida/bass"
+      },
+      {
+        "person_slug": "soloman-howard",
+        "role_slug": "verdi/aida/bass"
+      },
+      {
+        "person_slug": "raehann-bryce-davis",
+        "role_slug": "verdi/aida/mezzo-soprano"
+      },
+      {
+        "person_slug": "ailyn-perez",
+        "role_slug": "verdi/aida/soprano"
+      },
+      {
+        "person_slug": "elizabeth-hanje",
+        "role_slug": "verdi/aida/soprano"
+      },
+      {
+        "person_slug": "adam-smith",
+        "role_slug": "verdi/aida/tenor"
+      },
+      {
+        "person_slug": "jonathan-tetelman",
+        "role_slug": "verdi/aida/tenor"
+      },
+      {
+        "person_slug": "luka-tsevelidze",
+        "role_slug": "verdi/aida/tenor"
+      }
+    ]
+  },
+  {
+    "id": "houston-grand-opera/houston-grand-opera-der-rosenkavalier",
+    "work_slug": "r-strauss/der-rosenkavalier",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/der-rosenkavalier",
+    "creative_team": [
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "henrik-nanasi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bruno-ravella",
+        "function": "director"
+      },
+      {
+        "person_slug": "malcolm-rippeth",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bo-skovhus",
+        "role_slug": "r-strauss/der-rosenkavalier/baritone"
+      },
+      {
+        "person_slug": "matthew-rose",
+        "role_slug": "r-strauss/der-rosenkavalier/bass"
+      },
+      {
+        "person_slug": "sam-dhobhany",
+        "role_slug": "r-strauss/der-rosenkavalier/bass-baritone"
+      },
+      {
+        "person_slug": "tzvi-bat-asherah",
+        "role_slug": "r-strauss/der-rosenkavalier/bass-baritone"
+      },
+      {
+        "person_slug": "lauren-randolph",
+        "role_slug": "r-strauss/der-rosenkavalier/mezzo-soprano"
+      },
+      {
+        "person_slug": "megan-marino",
+        "role_slug": "r-strauss/der-rosenkavalier/mezzo-soprano"
+      },
+      {
+        "person_slug": "samantha-hankey",
+        "role_slug": "r-strauss/der-rosenkavalier/mezzo-soprano"
+      },
+      {
+        "person_slug": "alexandra-loutsion",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "alissa-goretsky",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "elizabeth-hanje",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "scarlett-jones",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "soraya-mafi",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "tamara-wilson",
+        "role_slug": "r-strauss/der-rosenkavalier/soprano"
+      },
+      {
+        "person_slug": "galeano-salas",
+        "role_slug": "r-strauss/der-rosenkavalier/tenor"
+      },
+      {
+        "person_slug": "luka-tsevelidze",
+        "role_slug": "r-strauss/der-rosenkavalier/tenor"
+      },
+      {
+        "person_slug": "martin-luther-clark",
+        "role_slug": "r-strauss/der-rosenkavalier/tenor"
+      },
+      {
+        "person_slug": "misael-corralejo",
+        "role_slug": "r-strauss/der-rosenkavalier/tenor"
+      },
+      {
+        "person_slug": "rodell-rosel",
+        "role_slug": "r-strauss/der-rosenkavalier/tenor"
+      }
+    ]
+  },
+  {
+    "id": "houston-grand-opera/houston-grand-opera-faust",
+    "work_slug": "gounod/faust",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/faust",
+    "creative_team": [
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giacomo-sagripanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitte-reiffenstuel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-relton",
+        "function": "director"
+      },
+      {
+        "person_slug": "charles-edwards",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sean-michael-plumb",
+        "role_slug": "gounod/faust/baritone"
+      },
+      {
+        "person_slug": "ildebrando-d-arcangelo",
+        "role_slug": "gounod/faust/bass-baritone"
+      },
+      {
+        "person_slug": "sam-dhobhany",
+        "role_slug": "gounod/faust/bass-baritone"
+      },
+      {
+        "person_slug": "deborah-nansteel",
+        "role_slug": "gounod/faust/mezzo-soprano"
+      },
+      {
+        "person_slug": "sun-ly-pierce",
+        "role_slug": "gounod/faust/mezzo-soprano"
+      },
+      {
+        "person_slug": "pretty-yende",
+        "role_slug": "gounod/faust/soprano"
+      },
+      {
+        "person_slug": "matthew-polenzani",
+        "role_slug": "gounod/faust/tenor"
+      }
+    ]
+  },
+  {
+    "id": "houston-grand-opera/houston-grand-opera-show-boat",
+    "work_slug": "kern/show-boat",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/show-boat",
+    "creative_team": [
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "patrick-summers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "richard-bado",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "paul-tazewell",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "francesca-zambello",
+        "function": "director"
+      },
+      {
+        "person_slug": "ken-billington",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-j-davison",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "edward-nelson",
+        "role_slug": "kern/show-boat/baritone"
+      },
+      {
+        "person_slug": "morris-robinson",
+        "role_slug": "kern/show-boat/bass"
+      },
+      {
+        "person_slug": "la-shelle-q-allen",
+        "role_slug": "kern/show-boat/contralto"
+      },
+      {
+        "person_slug": "isabel-leonard",
+        "role_slug": "kern/show-boat/mezzo-soprano"
+      },
+      {
+        "person_slug": "lauren-snouffer",
+        "role_slug": "kern/show-boat/soprano"
+      }
+    ]
+  },
+  {
+    "id": "houston-grand-opera/houston-grand-opera-susannah",
+    "work_slug": "floyd/susannah",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/susannah",
+    "creative_team": [
+      {
+        "person_slug": "courtney-d-jones",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-gaffigan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-yeargan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "patricia-racette",
+        "function": "director"
+      },
+      {
+        "person_slug": "eric-southern",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "malcolm-mackenzie",
+        "role_slug": "floyd/susannah/baritone"
+      },
+      {
+        "person_slug": "rod-gilfry",
+        "role_slug": "floyd/susannah/baritone"
+      },
+      {
+        "person_slug": "ziniu-zhao",
+        "role_slug": "floyd/susannah/bass"
+      },
+      {
+        "person_slug": "deborah-nansteel",
+        "role_slug": "floyd/susannah/mezzo-soprano"
+      },
+      {
+        "person_slug": "leia-lensing",
+        "role_slug": "floyd/susannah/mezzo-soprano"
+      },
+      {
+        "person_slug": "angel-blue",
+        "role_slug": "floyd/susannah/soprano"
+      },
+      {
+        "person_slug": "elizabeth-hanje",
+        "role_slug": "floyd/susannah/soprano"
+      },
+      {
+        "person_slug": "scarlett-jones",
+        "role_slug": "floyd/susannah/soprano"
+      },
+      {
+        "person_slug": "aaron-blake",
+        "role_slug": "floyd/susannah/tenor"
+      },
+      {
+        "person_slug": "bille-bruley",
+        "role_slug": "floyd/susannah/tenor"
+      },
+      {
+        "person_slug": "luka-tsevelidze",
+        "role_slug": "floyd/susannah/tenor"
+      },
+      {
+        "person_slug": "martin-luther-clark",
+        "role_slug": "floyd/susannah/tenor"
+      }
+    ]
+  },
+  {
+    "id": "houston-grand-opera/houston-grand-opera-the-magic-flute",
+    "work_slug": "mozart/the-magic-flute",
+    "house_slug": "houston-grand-opera",
+    "is_revival": false,
+    "detail_url": "https://www.houstongrandopera.org/on-stage/the-magic-flute",
+    "creative_team": [
+      {
+        "person_slug": "richard-bado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "david-chan",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joshua-hopkins",
+        "role_slug": "mozart/the-magic-flute/baritone"
+      },
+      {
+        "person_slug": "grigory-shkarupa",
+        "role_slug": "mozart/the-magic-flute/bass"
+      },
+      {
+        "person_slug": "brandon-cedel",
+        "role_slug": "mozart/the-magic-flute/bass-baritone"
+      },
+      {
+        "person_slug": "sam-dhobhany",
+        "role_slug": "mozart/the-magic-flute/bass-baritone"
+      },
+      {
+        "person_slug": "lauren-randolph",
+        "role_slug": "mozart/the-magic-flute/mezzo-soprano"
+      },
+      {
+        "person_slug": "aigul-khismatullina",
+        "role_slug": "mozart/the-magic-flute/soprano"
+      },
+      {
+        "person_slug": "alicia-gianni",
+        "role_slug": "mozart/the-magic-flute/soprano"
+      },
+      {
+        "person_slug": "elizabeth-hanje",
+        "role_slug": "mozart/the-magic-flute/soprano"
+      },
+      {
+        "person_slug": "janai-brugger",
+        "role_slug": "mozart/the-magic-flute/soprano"
+      },
+      {
+        "person_slug": "scarlett-jones",
+        "role_slug": "mozart/the-magic-flute/soprano"
+      },
+      {
+        "person_slug": "luka-tsevelidze",
+        "role_slug": "mozart/the-magic-flute/tenor"
+      },
+      {
+        "person_slug": "paul-appleby",
+        "role_slug": "mozart/the-magic-flute/tenor"
+      },
+      {
+        "person_slug": "thomas-capobianco",
+        "role_slug": "mozart/the-magic-flute/tenor"
+      }
+    ]
+  }
+]

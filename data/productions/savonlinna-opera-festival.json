@@ -1,0 +1,358 @@
+[
+  {
+    "id": "savonlinna-opera-festival/savonlinna-la-traviata2026",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/la-traviata2026/",
+    "creative_team": [
+      {
+        "person_slug": "aivis-greters",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nika-campisi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "silvia-paoli",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiammetta-baldiserri",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "emanuele-sinisi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "adam-frandsen",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "tobias-westman",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "mia-karlsson",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "hannes-oberg",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "ake-zetterstrom",
+        "role_slug": "giuseppe-verdi/la-traviata/doctor-grenvil"
+      },
+      {
+        "person_slug": "katarina-giotas",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "tobias-nilsson",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-s-servant"
+      },
+      {
+        "person_slug": "daniel-ralphsson",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "orhan-yildiz",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "yngve-s-berg",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "tore-sverredal",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "ivan-dajic",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "herbjorn-thordarson",
+        "role_slug": "giuseppe-verdi/la-traviata/the-messenger"
+      },
+      {
+        "person_slug": "ania-jeruc",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "ida-falk-winland",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/madama-butterfly/",
+    "creative_team": [
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "piergiorgio-morandi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anne-namba",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "riikka-rasanen-after-henry-akina",
+        "function": "director"
+      },
+      {
+        "person_slug": "ilkka-paloniemi",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dean-shibuya",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anthony-ciaramitaro",
+        "role_slug": "giacomo-puccini/madama-butterfly/benjamin-pinkerton"
+      },
+      {
+        "person_slug": "david-astorga",
+        "role_slug": "giacomo-puccini/madama-butterfly/benjamin-pinkerton"
+      },
+      {
+        "person_slug": "henri-uusitalo",
+        "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
+      },
+      {
+        "person_slug": "marcel-slakonja",
+        "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
+      },
+      {
+        "person_slug": "silja-aalto",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "stanislav-seljahhovski",
+        "role_slug": "giacomo-puccini/madama-butterfly/commissioner"
+      },
+      {
+        "person_slug": "tuomas-miettola",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "yolanda-harding",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "tuomas-paakkonen",
+        "role_slug": "giacomo-puccini/madama-butterfly/official-registrar"
+      },
+      {
+        "person_slug": "tommi-hakala",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "emilia-rukavina",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "ann-marie-walsh",
+        "role_slug": "giacomo-puccini/madama-butterfly/the-aunt"
+      },
+      {
+        "person_slug": "johanna-isokoski",
+        "role_slug": "giacomo-puccini/madama-butterfly/the-cousin"
+      },
+      {
+        "person_slug": "satu-kristina-vesa",
+        "role_slug": "giacomo-puccini/madama-butterfly/the-mother"
+      },
+      {
+        "person_slug": "sakari-topi",
+        "role_slug": "giacomo-puccini/madama-butterfly/yakuside"
+      },
+      {
+        "person_slug": "veikko-vallinoja",
+        "role_slug": "giacomo-puccini/madama-butterfly/yamadori"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-nabucco2026",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/nabucco2026/",
+    "creative_team": [
+      {
+        "person_slug": "lauren-poulton",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ivan-lopez-reynoso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rodula-gaitanou",
+        "function": "director"
+      },
+      {
+        "person_slug": "jake-wiltshire",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "takis",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "otso-sipila",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "marigona-qerkezi",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "iirisilona-segerstam",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "johanna-nylund",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "ena-pongrac",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "giorgio-berrugi",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "brian-major",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "gabriele-viviani",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "henri-uusitalo",
+        "role_slug": "giuseppe-verdi/nabucco/the-high-priest-of-baal"
+      },
+      {
+        "person_slug": "petri-lindroos",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      },
+      {
+        "person_slug": "timo-riihonen",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-the-marriage-of-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/the-marriage-of-figaro/",
+    "creative_team": [
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-sanguineti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "birgit-wentsch",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "johannes-erath",
+        "function": "director"
+      },
+      {
+        "person_slug": "katrin-connan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "martin-iivarinen",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/antonio"
+      },
+      {
+        "person_slug": "serene-erhie",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/barbarina"
+      },
+      {
+        "person_slug": "matti-turunen",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/bartolo"
+      },
+      {
+        "person_slug": "elsa-angervo",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/cherubino"
+      },
+      {
+        "person_slug": "jerome-boutillier",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/conte-di-almaviva"
+      },
+      {
+        "person_slug": "waltteri-torikka",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/conte-di-almaviva"
+      },
+      {
+        "person_slug": "johanna-nylund",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/contessa-di-almaviva"
+      },
+      {
+        "person_slug": "sonja-herranen",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/contessa-di-almaviva"
+      },
+      {
+        "person_slug": "einar-dagur-jonsson",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/don-basilio-curzio"
+      },
+      {
+        "person_slug": "henning-von-schulman",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/figaro"
+      },
+      {
+        "person_slug": "kristian-lindroos",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/figaro"
+      },
+      {
+        "person_slug": "tuija-knihtila",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/marcellina"
+      },
+      {
+        "person_slug": "iris-candelaria",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/susanna"
+      },
+      {
+        "person_slug": "lucrezia-drei",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/susanna"
+      }
+    ]
+  }
+]

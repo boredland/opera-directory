@@ -1,0 +1,156 @@
+[
+  {
+    "id": "festspielhaus-baden-baden/beethoven-fidelio",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "house_slug": "festspielhaus-baden-baden",
+    "is_revival": false,
+    "detail_url": "https://www.festspielhaus.de/veranstaltungen/beethoven-fidelio/",
+    "creative_team": [
+      {
+        "person_slug": "claude-bardouil",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "joana-mallwitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "krzysztof-warlikowski",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-longchamp",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "felice-ross",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ma-gorzata-szczesniak",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "manuel-winckhler",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-fernando"
+      },
+      {
+        "person_slug": "johannes-martin-kranzle",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-pizarro"
+      },
+      {
+        "person_slug": "sean-panikkar",
+        "role_slug": "ludwig-van-beethoven/fidelio/florestan"
+      },
+      {
+        "person_slug": "vera-lotte-boecker",
+        "role_slug": "ludwig-van-beethoven/fidelio/leonore"
+      },
+      {
+        "person_slug": "chelsea-zurfluh",
+        "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
+      },
+      {
+        "person_slug": "franz-josef-selig",
+        "role_slug": "ludwig-van-beethoven/fidelio/rocco"
+      }
+    ]
+  },
+  {
+    "id": "festspielhaus-baden-baden/die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "festspielhaus-baden-baden",
+    "is_revival": false,
+    "detail_url": "https://www.festspielhaus.de/veranstaltungen/die-zauberfloete/",
+    "creative_team": [
+      {
+        "person_slug": "ivan-fischer",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mirella-hagen",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "alina-wunderlin",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "samantha-gaul",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "sarah-maria-sun",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "markus-werba",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "franz-josef-selig",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "peter-harvey",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher-zweiter-priester-zweiter-geharnischter"
+      },
+      {
+        "person_slug": "julian-pregardien",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "olivia-vermeulen",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      }
+    ]
+  },
+  {
+    "id": "festspielhaus-baden-baden/giacomo-puccini-la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "festspielhaus-baden-baden",
+    "is_revival": false,
+    "presentation_note": "Oper im Konzert",
+    "detail_url": "https://www.festspielhaus.de/veranstaltungen/giacomo-puccini-la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "marco-armiliato",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gianluca-buratto",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "lodovico-filippo-ravizza",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "carolina-lopez-moreno",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "roberto-abbondanza",
+        "role_slug": "giacomo-puccini/la-boheme/monsieur-benoit-alcindoro"
+      },
+      {
+        "person_slug": "sandra-hamaoui",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "benjamin-bernheim",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "biagio-pizzuti",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      }
+    ]
+  }
+]

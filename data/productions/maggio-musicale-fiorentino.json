@@ -1,0 +1,806 @@
+[
+  {
+    "id": "maggio-musicale-fiorentino/giulio-cesare-in-egitto/2026",
+    "work_slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/giulio-cesare",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gianluca-capuano",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mariana-fracasso",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-castro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gio-forma",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "valerio-morelli",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/achilla"
+      },
+      {
+        "person_slug": "mariangela-sicilia",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cleopatra"
+      },
+      {
+        "person_slug": "fleur-barron",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cornelia"
+      },
+      {
+        "person_slug": "davide-sodini",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/curio"
+      },
+      {
+        "person_slug": "raffaele-pe",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/giulio-cesare"
+      },
+      {
+        "person_slug": "janetka-hosco",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/nireno"
+      },
+      {
+        "person_slug": "nicolo-balducci",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/sesto-pompeo"
+      },
+      {
+        "person_slug": "filippo-mineccia",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/tolomeo"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/il-barbiere-di-siviglia/2026",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/il-barbiere-di-siviglia-estate-2026",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "riccardo-bisatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carla-teti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "stefania-grazioli",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aloisia-de-nardis",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/berta"
+      },
+      {
+        "person_slug": "roberto-de-candia",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
+      },
+      {
+        "person_slug": "giorgio-caoduro",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-basilio"
+      },
+      {
+        "person_slug": "min-kim",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
+      },
+      {
+        "person_slug": "gonzalo-godoy-sepulveda",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello-un-ufficiale"
+      },
+      {
+        "person_slug": "marco-ciaponi",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/il-conte-d-almaviva"
+      },
+      {
+        "person_slug": "alexandra-meteleva",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/les-contes-d-hoffmann/2026",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/les-contes-dhoffmann",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kent-nagano",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-rath",
+        "function": "director"
+      },
+      {
+        "person_slug": "laurent-pelly",
+        "function": "director"
+      },
+      {
+        "person_slug": "agathe-melinand",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "joel-adam",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "chantal-thomas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "didier-pieri",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/andres-cochenille-frantz-pitichinaccio"
+      },
+      {
+        "person_slug": "martin-summer",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/crespel-luther"
+      },
+      {
+        "person_slug": "dmitry-korchak",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/hoffmann"
+      },
+      {
+        "person_slug": "marvic-monreal",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/la-muse-nicklausse"
+      },
+      {
+        "person_slug": "vivien-georgiev",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/la-voix-de-la-tombe"
+      },
+      {
+        "person_slug": "alex-esposito",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/lindorf-coppelius-dr-miracle-dapertutto"
+      },
+      {
+        "person_slug": "jessica-pratt",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/stella-olympia-antonia-giulietta"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/opera-camion-2026-il-maggio-in-piazza/2026",
+    "work_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/opera-camion-il-maggio-in-piazza",
+    "creative_team": [
+      {
+        "person_slug": "pietro-mazzetti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fabio-cherstich",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marco-guarini",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/betto-di-signa"
+      },
+      {
+        "person_slug": "francesco-congiu",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/gherardo"
+      },
+      {
+        "person_slug": "luca-bruno",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/gianni-schicchi"
+      },
+      {
+        "person_slug": "janetka-hosco",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/la-ciesca"
+      },
+      {
+        "person_slug": "juana-shtrepi",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/lauretta"
+      },
+      {
+        "person_slug": "davide-sodini",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/maestro-spinelloccio-messer-amantio-di-nicolao"
+      },
+      {
+        "person_slug": "emil-mahjneh",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/marco"
+      },
+      {
+        "person_slug": "suji-kwon",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/nella"
+      },
+      {
+        "person_slug": "andrea-fantauzzi",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/performer"
+      },
+      {
+        "person_slug": "maya-quattrini",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/performer-e-attrice"
+      },
+      {
+        "person_slug": "francesco-lucii",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/rinuccio"
+      },
+      {
+        "person_slug": "huigang-liu",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/simone"
+      },
+      {
+        "person_slug": "ioanna-kykna",
+        "role_slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza/zita"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/romanzo-criminale/2026",
+    "work_slug": "nicola-piovani/romanzo-criminale",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/romanzo-criminale",
+    "creative_team": [
+      {
+        "person_slug": "michele-abbondanza",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicola-piovani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-aymonino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "massimo-popolizio",
+        "function": "director"
+      },
+      {
+        "person_slug": "pasquale-mari",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "margherita-palli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "william-hernandez",
+        "role_slug": "nicola-piovani/romanzo-criminale/bufalo"
+      },
+      {
+        "person_slug": "anthony-ciaramitaro",
+        "role_slug": "nicola-piovani/romanzo-criminale/dandi"
+      },
+      {
+        "person_slug": "alberto-petricca",
+        "role_slug": "nicola-piovani/romanzo-criminale/freddo"
+      },
+      {
+        "person_slug": "davide-zaccherini",
+        "role_slug": "nicola-piovani/romanzo-criminale/gemito"
+      },
+      {
+        "person_slug": "ilaria-monteverdi",
+        "role_slug": "nicola-piovani/romanzo-criminale/giovane-prostituta"
+      },
+      {
+        "person_slug": "carlo-raffaelli",
+        "role_slug": "nicola-piovani/romanzo-criminale/libanese"
+      },
+      {
+        "person_slug": "valentina-pernozzoli",
+        "role_slug": "nicola-piovani/romanzo-criminale/madre-del-libanese"
+      },
+      {
+        "person_slug": "vanessa-goikoetxea",
+        "role_slug": "nicola-piovani/romanzo-criminale/patrizia"
+      },
+      {
+        "person_slug": "matteo-desole",
+        "role_slug": "nicola-piovani/romanzo-criminale/scialoia"
+      },
+      {
+        "person_slug": "toni-nezic",
+        "role_slug": "nicola-piovani/romanzo-criminale/terribile"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/simon-boccanegra/2026",
+    "work_slug": "giuseppe-verdi/simon-boccanegra",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/simon-boccanegra",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-conlon",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lluc-castells",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alex-olle-la-fura-dels-baus",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carolina-lopez-moreno",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/amelia-grimaldi-maria-boccanegra"
+      },
+      {
+        "person_slug": "luca-tamani",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/capitano-dei-balestrieri"
+      },
+      {
+        "person_slug": "luciano-ganci",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/gabriele-adorno"
+      },
+      {
+        "person_slug": "jongmin-park",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/jacopo-fiesco"
+      },
+      {
+        "person_slug": "lodovico-filippo-ravizza",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/paolo-albiani"
+      },
+      {
+        "person_slug": "huigang-liu",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/pietro"
+      },
+      {
+        "person_slug": "george-petean",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/simon-boccanegra"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/the-death-of-klinghoffer/2026",
+    "work_slug": "john-adams/the-death-of-klinghoffer",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/the-death-of-klinghoffer",
+    "creative_team": [
+      {
+        "person_slug": "ella-rothschild",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "lawrence-renes",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marta-solari",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "luca-guadagnino",
+        "function": "director"
+      },
+      {
+        "person_slug": "paola-rota",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-van-praet",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emilia-martinez",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "flavio-ferruzzi",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "jenna-davis",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "margherita-petrosino",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "matilde-di-ciolo",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "micah-best",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "reika-shirasa",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "ria-girard",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "riley-o-flynn",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "shaked-heller",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "skye-notary",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "zachary-buri",
+        "role_slug": "john-adams/the-death-of-klinghoffer/artisti-danzatori"
+      },
+      {
+        "person_slug": "bernardo-turi",
+        "role_slug": "john-adams/the-death-of-klinghoffer/bambini"
+      },
+      {
+        "person_slug": "paolo-pieri",
+        "role_slug": "john-adams/the-death-of-klinghoffer/bambini"
+      },
+      {
+        "person_slug": "janetka-hosco",
+        "role_slug": "john-adams/the-death-of-klinghoffer/british-dancing-girl"
+      },
+      {
+        "person_slug": "alma-sophie-golinski",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "carlo-pucci",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "edoardo-groppler",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "elena-barini",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "federica-garavaglia",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "federico-raffaelli",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "francesco-pacelli",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "giada-inserra-acrobata",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "guido-mazzoni",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "hortencia-teran",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "irene-petris",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "laura-pistolesi-acrobata",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "leila-ghiabbi-acrobata",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "leonardo-paoli-acrobata",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "luciano-colzani",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "maria-caterina-frani",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "roberta-benvenuti",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "roberta-raimondi",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "sabina-casaroni",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "sandro-mabellini",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "simone-ticci-acrobata",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "stefano-mascalchi",
+        "role_slug": "john-adams/the-death-of-klinghoffer/figuranti-speciali-e-acrobati"
+      },
+      {
+        "person_slug": "laurent-naouri",
+        "role_slug": "john-adams/the-death-of-klinghoffer/leon-klinghoffer"
+      },
+      {
+        "person_slug": "levent-bakirci",
+        "role_slug": "john-adams/the-death-of-klinghoffer/mamoud"
+      },
+      {
+        "person_slug": "susan-bullock",
+        "role_slug": "john-adams/the-death-of-klinghoffer/marylin-klinghoffer"
+      },
+      {
+        "person_slug": "roy-cornelius-smith",
+        "role_slug": "john-adams/the-death-of-klinghoffer/molqi"
+      },
+      {
+        "person_slug": "marvic-monreal",
+        "role_slug": "john-adams/the-death-of-klinghoffer/omar"
+      },
+      {
+        "person_slug": "joshua-bloom",
+        "role_slug": "john-adams/the-death-of-klinghoffer/rambo"
+      },
+      {
+        "person_slug": "marina-comparato",
+        "role_slug": "john-adams/the-death-of-klinghoffer/swiss-grandmother-austrian-woman"
+      },
+      {
+        "person_slug": "daniel-okulitch",
+        "role_slug": "john-adams/the-death-of-klinghoffer/the-captain"
+      },
+      {
+        "person_slug": "andreas-mattersberger",
+        "role_slug": "john-adams/the-death-of-klinghoffer/the-first-officer"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/un-ballo-in-maschera/2026",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/un-ballo-in-maschera-2026",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "emmanuel-tjeknavorian",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-aymonino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "valentina-carrasco",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "andrea-belli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chiara-isotton-alessia-panza-22",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "lavinia-bini",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "22",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "bogdan-baciu-hae-kang-15",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "antonio-poli-max-jota-22",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/riccardo"
+      },
+      {
+        "person_slug": "mattia-denti",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/samuel"
+      },
+      {
+        "person_slug": "janusz-nosek",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/silvano"
+      },
+      {
+        "person_slug": "adriano-gramigni",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/tom"
+      },
+      {
+        "person_slug": "ksenia-dudnikova",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      },
+      {
+        "person_slug": "francesco-congiu",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/un-giudice"
+      },
+      {
+        "person_slug": "roberto-miani",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/un-servo-di-amelia"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/wozzeck/2026",
+    "work_slug": "alban-berg/wozzeck",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/wozzeck",
+    "creative_team": [
+      {
+        "person_slug": "kim-brandstrup",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicky-gillibrand",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "deborah-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "adam-silverman",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hyemi-shin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "barnaby-rea",
+        "role_slug": "alban-berg/wozzeck/1-handwerksbursch"
+      },
+      {
+        "person_slug": "alex-otterburn",
+        "role_slug": "alban-berg/wozzeck/2-handwerksbursch"
+      },
+      {
+        "person_slug": "sam-furnes",
+        "role_slug": "alban-berg/wozzeck/andres"
+      },
+      {
+        "person_slug": "dafydd-jones",
+        "role_slug": "alban-berg/wozzeck/der-narr"
+      },
+      {
+        "person_slug": "clive-bayley",
+        "role_slug": "alban-berg/wozzeck/doktor"
+      },
+      {
+        "person_slug": "massimiliano-esposito",
+        "role_slug": "alban-berg/wozzeck/ein-soldat"
+      },
+      {
+        "person_slug": "wolfgang-ablinger-sperrhacke",
+        "role_slug": "alban-berg/wozzeck/hauptmann"
+      },
+      {
+        "person_slug": "helena-rasker",
+        "role_slug": "alban-berg/wozzeck/margret"
+      },
+      {
+        "person_slug": "anja-kampe",
+        "role_slug": "alban-berg/wozzeck/marie"
+      },
+      {
+        "person_slug": "ian-koziara",
+        "role_slug": "alban-berg/wozzeck/tambourmajor"
+      },
+      {
+        "person_slug": "roberto-miani",
+        "role_slug": "alban-berg/wozzeck/tenor"
+      },
+      {
+        "person_slug": "wolfgang-koch",
+        "role_slug": "alban-berg/wozzeck/wozzeck"
+      }
+    ]
+  }
+]

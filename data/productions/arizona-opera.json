@@ -1,0 +1,190 @@
+[
+  {
+    "id": "arizona-opera/arizona-opera-el-gato-con-botas",
+    "work_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots",
+    "house_slug": "arizona-opera",
+    "is_revival": false,
+    "language": "es",
+    "detail_url": "https://www.azopera.org/performances/el-gato-con-botas",
+    "creative_team": [
+      {
+        "person_slug": "guzal-isametdinova",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sydney-roslin",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rosario-armas",
+        "role_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/el-gato-con-botas"
+      },
+      {
+        "person_slug": "jason-edelstein",
+        "role_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/the-king"
+      },
+      {
+        "person_slug": "cameron-howard",
+        "role_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/the-miller"
+      },
+      {
+        "person_slug": "jose-olivares",
+        "role_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/the-ogre"
+      },
+      {
+        "person_slug": "francesca-herrera",
+        "role_slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/the-princess"
+      }
+    ]
+  },
+  {
+    "id": "arizona-opera/arizona-opera-la-cenerentola",
+    "work_slug": "gioachino-rossini/la-cenerentola",
+    "house_slug": "arizona-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.azopera.org/performances/la-cenerentola",
+    "creative_team": [
+      {
+        "person_slug": "gary-thor-wedow",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "madeleine-snow",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wanchun-liang",
+        "role_slug": "gioachino-rossini/la-cenerentola/alidoro"
+      },
+      {
+        "person_slug": "katherine-beck",
+        "role_slug": "gioachino-rossini/la-cenerentola/angelina"
+      },
+      {
+        "person_slug": "francesca-herrera",
+        "role_slug": "gioachino-rossini/la-cenerentola/clorinda"
+      },
+      {
+        "person_slug": "yichen-xue",
+        "role_slug": "gioachino-rossini/la-cenerentola/dandini"
+      },
+      {
+        "person_slug": "patrick-carfizzi",
+        "role_slug": "gioachino-rossini/la-cenerentola/don-magnifico"
+      },
+      {
+        "person_slug": "andrew-morstein",
+        "role_slug": "gioachino-rossini/la-cenerentola/don-ramiro"
+      },
+      {
+        "person_slug": "sedona-libero",
+        "role_slug": "gioachino-rossini/la-cenerentola/tisbe"
+      }
+    ]
+  },
+  {
+    "id": "arizona-opera/arizona-opera-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "arizona-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.azopera.org/performances/la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "stephanie-rhodes-russell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "joshua-borths",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "eric-taylor",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo"
+      },
+      {
+        "person_slug": "richard-ollarsaba",
+        "role_slug": "giuseppe-verdi/la-traviata/germont"
+      },
+      {
+        "person_slug": "cadie-j-bryan",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta"
+      }
+    ]
+  },
+  {
+    "id": "arizona-opera/arizona-opera-pirates-penzance",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "house_slug": "arizona-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.azopera.org/performances/pirates-penzance",
+    "creative_team": [
+      {
+        "person_slug": "emily-senturia",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kyle-lang",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "brad-bickhardt",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/frederic"
+      },
+      {
+        "person_slug": "veronique-filloux",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/mabel"
+      },
+      {
+        "person_slug": "jenni-bank",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/ruth"
+      },
+      {
+        "person_slug": "craig-irvin",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/the-pirate-king"
+      }
+    ]
+  },
+  {
+    "id": "arizona-opera/arizona-opera-scalia-ginsburg",
+    "work_slug": "derrick-wang/scalia-ginsburg",
+    "house_slug": "arizona-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.azopera.org/performances/scalia-ginsburg",
+    "creative_team": [
+      {
+        "person_slug": "brian-demaris",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cara-consilvio",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jesus-vicente-murillo",
+        "role_slug": "derrick-wang/scalia-ginsburg/commentator"
+      },
+      {
+        "person_slug": "benjamin-werley",
+        "role_slug": "derrick-wang/scalia-ginsburg/justice-antonin-scalia"
+      },
+      {
+        "person_slug": "rachel-policar",
+        "role_slug": "derrick-wang/scalia-ginsburg/justice-ruth-bader-ginsburg"
+      }
+    ]
+  }
+]

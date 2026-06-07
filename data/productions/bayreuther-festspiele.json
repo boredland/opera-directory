@@ -1,0 +1,726 @@
+[
+  {
+    "id": "bayreuther-festspiele/bruennhilde-brennt",
+    "work_slug": "bernhard-lang/brunnhilde-brennt",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/bruennhilde-brennt/",
+    "creative_team": [
+      {
+        "person_slug": "jonathan-stockhammer",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sooyeon-lee",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/1-dramaturgin-helmwige-wellgunde"
+      },
+      {
+        "person_slug": "tanja-christine-kuhn",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/2-dramaturgin-waltraute-woglinde"
+      },
+      {
+        "person_slug": "nefeli-kotseli",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/3-dramaturgin-schwertleite-erda-flosshilde"
+      },
+      {
+        "person_slug": "catherine-foster",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/hermine-sangerin-der-brunnhilde"
+      },
+      {
+        "person_slug": "joachim-goltz",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/richard-wagner-regisseur"
+      },
+      {
+        "person_slug": "morgan-moody",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/sanger-des-alberich"
+      },
+      {
+        "person_slug": "sungho-kim",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/sanger-des-siegfried"
+      },
+      {
+        "person_slug": "mandla-mndebele",
+        "role_slug": "bernhard-lang/brunnhilde-brennt/sanger-des-wotan"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/das-rheingold",
+    "work_slug": "richard-wagner/das-rheingold",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/das-rheingold/",
+    "creative_team": [
+      {
+        "person_slug": "christian-thielemann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-maria-mackert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andri-hardmeier",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolf-gutjahr",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jochen-schmeckenbecher",
+        "role_slug": "richard-wagner/das-rheingold/alberich"
+      },
+      {
+        "person_slug": "nils-corte-und-phil-hagen-jungschlaeger",
+        "role_slug": "richard-wagner/das-rheingold/creative-code-visual-art"
+      },
+      {
+        "person_slug": "roman-senkl",
+        "role_slug": "richard-wagner/das-rheingold/digital-und-ki-storytelling"
+      },
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "richard-wagner/das-rheingold/donner"
+      },
+      {
+        "person_slug": "christa-mayer",
+        "role_slug": "richard-wagner/das-rheingold/erda"
+      },
+      {
+        "person_slug": "peter-rose",
+        "role_slug": "richard-wagner/das-rheingold/fafner"
+      },
+      {
+        "person_slug": "mika-kares",
+        "role_slug": "richard-wagner/das-rheingold/fasolt"
+      },
+      {
+        "person_slug": "marie-henriette-reinhold",
+        "role_slug": "richard-wagner/das-rheingold/flo-hilde"
+      },
+      {
+        "person_slug": "evelin-novak",
+        "role_slug": "richard-wagner/das-rheingold/freia"
+      },
+      {
+        "person_slug": "anna-kissjudit",
+        "role_slug": "richard-wagner/das-rheingold/fricka"
+      },
+      {
+        "person_slug": "siyabonga-maqungo",
+        "role_slug": "richard-wagner/das-rheingold/froh"
+      },
+      {
+        "person_slug": "marcus-lobbes-und-nils-corte",
+        "role_slug": "richard-wagner/das-rheingold/kunstlerisch-technische-konzeption"
+      },
+      {
+        "person_slug": "marcus-lobbes",
+        "role_slug": "richard-wagner/das-rheingold/kurator"
+      },
+      {
+        "person_slug": "klaus-florian-vogt",
+        "role_slug": "richard-wagner/das-rheingold/loge"
+      },
+      {
+        "person_slug": "gerhard-siegel",
+        "role_slug": "richard-wagner/das-rheingold/mime"
+      },
+      {
+        "person_slug": "natalia-skrycka",
+        "role_slug": "richard-wagner/das-rheingold/wellgunde"
+      },
+      {
+        "person_slug": "katharina-konradi",
+        "role_slug": "richard-wagner/das-rheingold/woglinde"
+      },
+      {
+        "person_slug": "michael-volle",
+        "role_slug": "richard-wagner/das-rheingold/wotan"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/der-fliegende-hollaender",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/der-fliegende-hollaender/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-eitler-de-lint",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "oksana-lyniv",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elena-zaytseva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dmitri-tcherniakov",
+        "function": "director"
+      },
+      {
+        "person_slug": "tatiana-werestchagina",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gleb-filshtinsky",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dmitri-tcherniakov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mika-kares",
+        "role_slug": "richard-wagner/der-fliegende-hollander/daland"
+      },
+      {
+        "person_slug": "nicholas-brownlee",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-hollander"
+      },
+      {
+        "person_slug": "kieran-carrel",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-steuermann"
+      },
+      {
+        "person_slug": "benjamin-bruns",
+        "role_slug": "richard-wagner/der-fliegende-hollander/erik"
+      },
+      {
+        "person_slug": "nadine-weissmann",
+        "role_slug": "richard-wagner/der-fliegende-hollander/mary"
+      },
+      {
+        "person_slug": "asmik-grigorian",
+        "role_slug": "richard-wagner/der-fliegende-hollander/senta"
+      },
+      {
+        "person_slug": "elisabeth-teige",
+        "role_slug": "richard-wagner/der-fliegende-hollander/senta"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/die-walkuere",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/die-walkuere/",
+    "creative_team": [
+      {
+        "person_slug": "christian-thielemann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-maria-mackert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andri-hardmeier",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolf-gutjahr",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "camilla-nylund",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "nils-corte-und-phil-hagen-jungschlaeger",
+        "role_slug": "richard-wagner/die-walkure/creative-code-visual-art"
+      },
+      {
+        "person_slug": "roman-senkl",
+        "role_slug": "richard-wagner/die-walkure/digital-und-ki-storytelling"
+      },
+      {
+        "person_slug": "anna-kissjudit",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "martina-welschenbach",
+        "role_slug": "richard-wagner/die-walkure/gerhilde"
+      },
+      {
+        "person_slug": "marie-henriette-reinhold",
+        "role_slug": "richard-wagner/die-walkure/grimgerde"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "richard-wagner/die-walkure/helmwige"
+      },
+      {
+        "person_slug": "mika-kares",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "marcus-lobbes-und-nils-corte",
+        "role_slug": "richard-wagner/die-walkure/kunstlerisch-technische-konzeption"
+      },
+      {
+        "person_slug": "marcus-lobbes",
+        "role_slug": "richard-wagner/die-walkure/kurator"
+      },
+      {
+        "person_slug": "brit-tone-mullertz",
+        "role_slug": "richard-wagner/die-walkure/ortlinde"
+      },
+      {
+        "person_slug": "natalia-skrycka",
+        "role_slug": "richard-wagner/die-walkure/rossweisse"
+      },
+      {
+        "person_slug": "freya-apffelstaedt",
+        "role_slug": "richard-wagner/die-walkure/schwertleite"
+      },
+      {
+        "person_slug": "elza-van-den-heever",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "klaus-florian-vogt",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "alexandra-ionis",
+        "role_slug": "richard-wagner/die-walkure/siegrune"
+      },
+      {
+        "person_slug": "karis-tucker",
+        "role_slug": "richard-wagner/die-walkure/waltraute"
+      },
+      {
+        "person_slug": "michael-volle",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/goetterdaemmerung",
+    "work_slug": "richard-wagner/gotterdammerung",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/goetterdaemmerung/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-eitler-de-lint",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christian-thielemann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-maria-mackert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andri-hardmeier",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolf-gutjahr",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-kissjudit",
+        "role_slug": "richard-wagner/gotterdammerung/1-norn"
+      },
+      {
+        "person_slug": "alexandra-ionis",
+        "role_slug": "richard-wagner/gotterdammerung/2-norn"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "richard-wagner/gotterdammerung/3-norn"
+      },
+      {
+        "person_slug": "jochen-schmeckenbecher",
+        "role_slug": "richard-wagner/gotterdammerung/alberich"
+      },
+      {
+        "person_slug": "camilla-nylund",
+        "role_slug": "richard-wagner/gotterdammerung/brunnhilde"
+      },
+      {
+        "person_slug": "nils-corte-und-phil-hagen-jungschlaeger",
+        "role_slug": "richard-wagner/gotterdammerung/creative-code-visual-art"
+      },
+      {
+        "person_slug": "roman-senkl",
+        "role_slug": "richard-wagner/gotterdammerung/digital-und-ki-storytelling"
+      },
+      {
+        "person_slug": "marie-henriette-reinhold",
+        "role_slug": "richard-wagner/gotterdammerung/flo-hilde"
+      },
+      {
+        "person_slug": "michael-kupfer-radecky",
+        "role_slug": "richard-wagner/gotterdammerung/gunther"
+      },
+      {
+        "person_slug": "magdalena-hinterdobler",
+        "role_slug": "richard-wagner/gotterdammerung/gutrune"
+      },
+      {
+        "person_slug": "mika-kares",
+        "role_slug": "richard-wagner/gotterdammerung/hagen"
+      },
+      {
+        "person_slug": "marcus-lobbes-und-nils-corte",
+        "role_slug": "richard-wagner/gotterdammerung/kunstlerisch-technische-konzeption"
+      },
+      {
+        "person_slug": "marcus-lobbes",
+        "role_slug": "richard-wagner/gotterdammerung/kurator"
+      },
+      {
+        "person_slug": "klaus-florian-vogt",
+        "role_slug": "richard-wagner/gotterdammerung/siegfried"
+      },
+      {
+        "person_slug": "christa-mayer",
+        "role_slug": "richard-wagner/gotterdammerung/waltraute"
+      },
+      {
+        "person_slug": "natalia-skrycka",
+        "role_slug": "richard-wagner/gotterdammerung/wellgunde"
+      },
+      {
+        "person_slug": "katharina-konradi",
+        "role_slug": "richard-wagner/gotterdammerung/woglinde"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/parsifal",
+    "work_slug": "richard-wagner/parsifal",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/parsifal/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-eitler-de-lint",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "pablo-heras-casado",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "meentje-nielsen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jay-scheib",
+        "function": "director"
+      },
+      {
+        "person_slug": "marlene-schleicher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "rainer-casper",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mimi-lien",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "joshua-higgason",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "daniel-jenz",
+        "role_slug": "richard-wagner/parsifal/1-gralsritter"
+      },
+      {
+        "person_slug": "lavinia-dames",
+        "role_slug": "richard-wagner/parsifal/1-knappe"
+      },
+      {
+        "person_slug": "tijl-faveyts",
+        "role_slug": "richard-wagner/parsifal/2-gralsritter"
+      },
+      {
+        "person_slug": "natalia-skrycka",
+        "role_slug": "richard-wagner/parsifal/2-knappe"
+      },
+      {
+        "person_slug": "manuel-gunther",
+        "role_slug": "richard-wagner/parsifal/3-knappe"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "richard-wagner/parsifal/4-knappe"
+      },
+      {
+        "person_slug": "marie-henriette-reinhold",
+        "role_slug": "richard-wagner/parsifal/altsolo"
+      },
+      {
+        "person_slug": "michael-volle",
+        "role_slug": "richard-wagner/parsifal/amfortas"
+      },
+      {
+        "person_slug": "georg-zeppenfeld",
+        "role_slug": "richard-wagner/parsifal/gurnemanz"
+      },
+      {
+        "person_slug": "jordan-shanahan",
+        "role_slug": "richard-wagner/parsifal/klingsor"
+      },
+      {
+        "person_slug": "catalina-bertucci",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "evelin-novak",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "lavinia-dames",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "marie-henriette-reinhold",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "natalia-skrycka",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "victoria-randem",
+        "role_slug": "richard-wagner/parsifal/klingsors-zaubermadchen"
+      },
+      {
+        "person_slug": "miina-liisa-varela",
+        "role_slug": "richard-wagner/parsifal/kundry"
+      },
+      {
+        "person_slug": "andreas-schager",
+        "role_slug": "richard-wagner/parsifal/parsifal"
+      },
+      {
+        "person_slug": "vitalij-kowaljow",
+        "role_slug": "richard-wagner/parsifal/titurel"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/rienzi",
+    "work_slug": "richard-wagner/rienzi",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/rienzi/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-eitler-de-lint",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nathalie-stutzmann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexandra-szemeredy",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "magdolna-parditka",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexandra-szemeredy",
+        "function": "director"
+      },
+      {
+        "person_slug": "magdolna-parditka",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-kiesel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bernd-gallasch",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexandra-szemeredy",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "magdolna-parditka",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "annika-schlicht",
+        "role_slug": "richard-wagner/rienzi/adriano-sein-sohn"
+      },
+      {
+        "person_slug": "jennifer-holloway",
+        "role_slug": "richard-wagner/rienzi/adriano-sein-sohn"
+      },
+      {
+        "person_slug": "martin-koch",
+        "role_slug": "richard-wagner/rienzi/baroncelli"
+      },
+      {
+        "person_slug": "matthias-stier",
+        "role_slug": "richard-wagner/rienzi/baroncelli"
+      },
+      {
+        "person_slug": "joachim-goltz",
+        "role_slug": "richard-wagner/rienzi/cecco-del-vecchio"
+      },
+      {
+        "person_slug": "michael-kupfer-radecky",
+        "role_slug": "richard-wagner/rienzi/cecco-del-vecchio"
+      },
+      {
+        "person_slug": "andreas-schager",
+        "role_slug": "richard-wagner/rienzi/cola-rienzi-papstlicher-notar"
+      },
+      {
+        "person_slug": "magnus-vigilius",
+        "role_slug": "richard-wagner/rienzi/cola-rienzi-papstlicher-notar"
+      },
+      {
+        "person_slug": "catalina-bertucci",
+        "role_slug": "richard-wagner/rienzi/ein-friedensbote"
+      },
+      {
+        "person_slug": "victoria-randem",
+        "role_slug": "richard-wagner/rienzi/ein-friedensbote"
+      },
+      {
+        "person_slug": "gabriela-scherer",
+        "role_slug": "richard-wagner/rienzi/irene-seine-schwester"
+      },
+      {
+        "person_slug": "patrick-zielke",
+        "role_slug": "richard-wagner/rienzi/kardinal-raimondo-papstlicher-legat"
+      },
+      {
+        "person_slug": "vitalij-kowaljow",
+        "role_slug": "richard-wagner/rienzi/kardinal-raimondo-papstlicher-legat"
+      },
+      {
+        "person_slug": "michael-kupfer-radecky",
+        "role_slug": "richard-wagner/rienzi/paolo-orsini-haupt-der-familie-orsini"
+      },
+      {
+        "person_slug": "michael-nagy",
+        "role_slug": "richard-wagner/rienzi/paolo-orsini-haupt-der-familie-orsini"
+      },
+      {
+        "person_slug": "andreas-bauer-kanabas",
+        "role_slug": "richard-wagner/rienzi/steffano-colonna-haupt-der-familie-colonna"
+      },
+      {
+        "person_slug": "vitalij-kowaljow",
+        "role_slug": "richard-wagner/rienzi/steffano-colonna-haupt-der-familie-colonna"
+      }
+    ]
+  },
+  {
+    "id": "bayreuther-festspiele/siegfried",
+    "work_slug": "richard-wagner/siegfried",
+    "house_slug": "bayreuther-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.bayreuther-festspiele.de/programm/auffuehrungen/siegfried/",
+    "creative_team": [
+      {
+        "person_slug": "christian-thielemann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-maria-mackert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andri-hardmeier",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolf-gutjahr",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jochen-schmeckenbecher",
+        "role_slug": "richard-wagner/siegfried/alberich"
+      },
+      {
+        "person_slug": "camilla-nylund",
+        "role_slug": "richard-wagner/siegfried/brunnhilde"
+      },
+      {
+        "person_slug": "nils-corte-und-phil-hagen-jungschlaeger",
+        "role_slug": "richard-wagner/siegfried/creative-code-visual-art"
+      },
+      {
+        "person_slug": "michael-volle",
+        "role_slug": "richard-wagner/siegfried/der-wanderer"
+      },
+      {
+        "person_slug": "roman-senkl",
+        "role_slug": "richard-wagner/siegfried/digital-und-ki-storytelling"
+      },
+      {
+        "person_slug": "christa-mayer",
+        "role_slug": "richard-wagner/siegfried/erda"
+      },
+      {
+        "person_slug": "peter-rose",
+        "role_slug": "richard-wagner/siegfried/fafner"
+      },
+      {
+        "person_slug": "marcus-lobbes-und-nils-corte",
+        "role_slug": "richard-wagner/siegfried/kunstlerisch-technische-konzeption"
+      },
+      {
+        "person_slug": "marcus-lobbes",
+        "role_slug": "richard-wagner/siegfried/kurator"
+      },
+      {
+        "person_slug": "gerhard-siegel",
+        "role_slug": "richard-wagner/siegfried/mime"
+      },
+      {
+        "person_slug": "klaus-florian-vogt",
+        "role_slug": "richard-wagner/siegfried/siegfried"
+      },
+      {
+        "person_slug": "victoria-randem",
+        "role_slug": "richard-wagner/siegfried/waldvogel"
+      }
+    ]
+  }
+]

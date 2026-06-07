@@ -1,0 +1,362 @@
+[
+  {
+    "id": "festival-aix-en-provence/aix-accabadora",
+    "work_slug": "francesco-filidei/accabadora",
+    "house_slug": "festival-aix-en-provence",
+    "is_revival": false,
+    "detail_url": "https://festival-aix.com/en/programmation/opera/accabadora",
+    "image_url": "https://s3.eu-west-3.amazonaws.com/content-festaix-prod-secutix-bu4pw3dt/images/catalog/product/small/83f99b29-96e3-4464-aa11-e87caf06b9bc.jpg",
+    "creative_team": [
+      {
+        "person_slug": "lucie-leguay",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mauro-tinti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "valentina-carrasco",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-castro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mariangela-mazzeo",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "valentina-carrasco",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hugo-brady",
+        "role_slug": "francesco-filidei/accabadora/andria-bastiu-coro"
+      },
+      {
+        "person_slug": "francesco-filidei",
+        "role_slug": "francesco-filidei/accabadora/composition"
+      },
+      {
+        "person_slug": "camille-primeau",
+        "role_slug": "francesco-filidei/accabadora/coro"
+      },
+      {
+        "person_slug": "lovro-korosec",
+        "role_slug": "francesco-filidei/accabadora/coro"
+      },
+      {
+        "person_slug": "olga-siemienczuk",
+        "role_slug": "francesco-filidei/accabadora/coro"
+      },
+      {
+        "person_slug": "victoire-bunel",
+        "role_slug": "francesco-filidei/accabadora/maestra-luciana-giannina-bastiu-una-voce-coro"
+      },
+      {
+        "person_slug": "rachel-masclet",
+        "role_slug": "francesco-filidei/accabadora/maria"
+      },
+      {
+        "person_slug": "lou-biana-jousni-lalande-ou-eva-massias",
+        "role_slug": "francesco-filidei/accabadora/maria-enfant"
+      },
+      {
+        "person_slug": "lodovico-filippo-ravizza",
+        "role_slug": "francesco-filidei/accabadora/nicola-bastiu-coro"
+      },
+      {
+        "person_slug": "francesco-leone",
+        "role_slug": "francesco-filidei/accabadora/santino-littorra-antonio-vargiu-dottor-mastinu-coro"
+      },
+      {
+        "person_slug": "noa-frenkel",
+        "role_slug": "francesco-filidei/accabadora/tzia-bonaria-urrai"
+      }
+    ]
+  },
+  {
+    "id": "festival-aix-en-provence/aix-die-frau-ohne-schatten",
+    "work_slug": "richard-strauss/die-frau-ohne-schatten",
+    "house_slug": "festival-aix-en-provence",
+    "is_revival": false,
+    "detail_url": "https://festival-aix.com/en/programmation/opera/die-frau-ohne-schatten",
+    "image_url": "https://s3.eu-west-3.amazonaws.com/content-festaix-prod-secutix-bu4pw3dt/images/catalog/product/small/7d0475b7-aa62-48a5-9944-9dd12367a9d7.jpg",
+    "creative_team": [
+      {
+        "person_slug": "richard-wilberforce",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "klaus-makela",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-cuenca-ruiz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michael-levine",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elyssa-leydet-brunel",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "franck-ziatni",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "frederic-ortiz",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "jean-baptiste-cautain",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "laurene-andrieu",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "laurent-ernst",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "sophie-plante",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "vladimir-hugot",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "zoe-frechet",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/actrices-et-acteurs"
+      },
+      {
+        "person_slug": "brian-mulligan",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/barak-der-farber"
+      },
+      {
+        "person_slug": "prince-mihai",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/danseur"
+      },
+      {
+        "person_slug": "robert-lewis",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/der-bucklige-die-erscheinung-eines-junglings-die-stimmen-der-wachter-mannerchor"
+      },
+      {
+        "person_slug": "daniel-miroslaw",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/der-einarmige-die-stimmen-der-wachter-mannerchor"
+      },
+      {
+        "person_slug": "tomasz-kumiega",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/der-einaugige-die-stimmen-der-wachter-mannerchor"
+      },
+      {
+        "person_slug": "jean-sebastien-bou",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/der-geisterbote-die-stimmen-der-wachter-mannerchor"
+      },
+      {
+        "person_slug": "michael-spyres",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/der-kaiser"
+      },
+      {
+        "person_slug": "nina-stemme",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/die-amme"
+      },
+      {
+        "person_slug": "ambur-braid",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/die-farberin"
+      },
+      {
+        "person_slug": "vida-mikneviciute",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/die-kaiserin"
+      },
+      {
+        "person_slug": "gloria-tronel",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/die-stimme-des-falken-der-huter-der-schwelle-des-tempels"
+      },
+      {
+        "person_slug": "eugenie-lefebvre",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/dienerinnen"
+      },
+      {
+        "person_slug": "laura-jarrell",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/dienerinnen"
+      },
+      {
+        "person_slug": "laurence-pouderoux",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/dienerinnen"
+      },
+      {
+        "person_slug": "heloise-mas",
+        "role_slug": "richard-strauss/die-frau-ohne-schatten/eine-stimme-von-oben"
+      }
+    ]
+  },
+  {
+    "id": "festival-aix-en-provence/aix-die-zauberflote",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "festival-aix-en-provence",
+    "is_revival": false,
+    "detail_url": "https://festival-aix.com/en/programmation/opera/die-zauberflote",
+    "image_url": "https://s3.eu-west-3.amazonaws.com/content-festaix-prod-secutix-bu4pw3dt/images/catalog/product/small/1d4dc578-dc61-42ee-bee5-a1b6a3c9c7c6.jpg",
+    "creative_team": [
+      {
+        "person_slug": "evelin-facchini",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "thibaut-lenaerts",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "leonardo-garcia-alarcon",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "wojciech-dziedzic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "clement-cogitore",
+        "function": "director"
+      },
+      {
+        "person_slug": "simon-hatab",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sylvain-verdet",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alban-ho-van",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "membres-du-knabenchor-der-chorakademie-dortmund",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben"
+      },
+      {
+        "person_slug": "adriana-bignagni-lesca",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "alix-le-saux",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "damien-pass",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester-zweiter-geharnischter-mann"
+      },
+      {
+        "person_slug": "sabine-devieilhe",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "rodolphe-briand",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "ying-fang",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "emma-fekete",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "sean-michael-plumb",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "brindley-sherratt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "edwin-crossley-mercer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "mauro-peter",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "ashley-dixon",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "jonghyun-park",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester-erster-geharnischter-mann"
+      }
+    ]
+  },
+  {
+    "id": "festival-aix-en-provence/aix-el-cimarron",
+    "work_slug": "hans-werner-henze/el-cimarron",
+    "house_slug": "festival-aix-en-provence",
+    "is_revival": false,
+    "detail_url": "https://festival-aix.com/en/programmation/opera/el-cimarron",
+    "image_url": "https://s3.eu-west-3.amazonaws.com/content-festaix-prod-secutix-bu4pw3dt/images/catalog/product/small/5a5f1856-b2a4-4982-9bea-04adc87ad850.jpg",
+    "creative_team": [
+      {
+        "person_slug": "gabriella-teychenne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elayce-ismail",
+        "function": "director"
+      },
+      {
+        "person_slug": "azusa-ono",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "eric-greene",
+        "role_slug": "hans-werner-henze/el-cimarron/baryton"
+      },
+      {
+        "person_slug": "daniel-shao",
+        "role_slug": "hans-werner-henze/el-cimarron/flutes"
+      },
+      {
+        "person_slug": "jean-marc-zvellenreuther",
+        "role_slug": "hans-werner-henze/el-cimarron/guitare"
+      },
+      {
+        "person_slug": "minh-tam-nguyen",
+        "role_slug": "hans-werner-henze/el-cimarron/percussions"
+      },
+      {
+        "person_slug": "rosie-elnile",
+        "role_slug": "hans-werner-henze/el-cimarron/scenographie-et-costumes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "id": "cincinnati-opera/cincinnati-opera-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "fr",
+    "detail_url": "https://www.cincinnatiopera.org/carmen",
+    "creative_team": [
+      {
+        "person_slug": "cervilio-amador",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "henri-venanzi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ramon-tebar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anderson-nunnelly",
+        "function": "director"
+      },
+      {
+        "person_slug": "paul-curran",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "j-nai-bridges",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "matthew-white",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "thomas-dreeze",
+        "role_slug": "georges-bizet/carmen/el-dancairo"
+      },
+      {
+        "person_slug": "jack-keller",
+        "role_slug": "georges-bizet/carmen/el-remendado"
+      },
+      {
+        "person_slug": "ryan-mckinny",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "jeysla-rosario-santos",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "spenser-smith",
+        "role_slug": "georges-bizet/carmen/lillas-pastia"
+      },
+      {
+        "person_slug": "kayleigh-decker",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "teresa-perrotta",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "nathan-de-shon-myers",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "sam-smith",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-opera/cincinnati-opera-lalovavi",
+    "work_slug": "kevin-day/lalovavi",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.cincinnatiopera.org/lalovavi",
+    "creative_team": [
+      {
+        "person_slug": "chloe-o-davis",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "donald-lee-iii",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kevin-miller",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kara-harmon",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "steven-c-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "adrienne-danrich",
+        "role_slug": "kevin-day/lalovavi/dinah"
+      },
+      {
+        "person_slug": "michael-preacely",
+        "role_slug": "kevin-day/lalovavi/dr-apollos"
+      },
+      {
+        "person_slug": "g-thomas-allen",
+        "role_slug": "kevin-day/lalovavi/ivavi"
+      },
+      {
+        "person_slug": "terrence-chin-loy",
+        "role_slug": "kevin-day/lalovavi/lucian"
+      },
+      {
+        "person_slug": "talise-trevigne",
+        "role_slug": "kevin-day/lalovavi/niamara"
+      },
+      {
+        "person_slug": "brittany-olivia-logan",
+        "role_slug": "kevin-day/lalovavi/persephone"
+      },
+      {
+        "person_slug": "morris-robinson",
+        "role_slug": "kevin-day/lalovavi/titan"
+      },
+      {
+        "person_slug": "zoie-reams",
+        "role_slug": "kevin-day/lalovavi/zipporah"
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-opera/cincinnati-opera-orpheus",
+    "work_slug": "ricky-ian-gordon/orpheus",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.cincinnatiopera.org/orpheus",
+    "creative_team": [
+      {
+        "person_slug": "yoshihisa-arai",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "stephen-mulligan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "audrey-chait",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philip-fedulov",
+        "role_slug": "ricky-ian-gordon/orpheus/dancer"
+      },
+      {
+        "person_slug": "roxy-slavin",
+        "role_slug": "ricky-ian-gordon/orpheus/dancer"
+      },
+      {
+        "person_slug": "heidi-middendorf",
+        "role_slug": "ricky-ian-gordon/orpheus/euridice"
+      },
+      {
+        "person_slug": "christopher-pell",
+        "role_slug": "ricky-ian-gordon/orpheus/orpheus-clarinet"
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-opera/cincinnati-opera-salome",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.cincinnatiopera.org/salome",
+    "creative_team": [
+      {
+        "person_slug": "erina-noda",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "robert-spano",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anita-yavich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jose-maria-condemi",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "a-slave",
+        "role_slug": "richard-strauss/salome/clara-reeves"
+      },
+      {
+        "person_slug": "amanda-perez-duarte",
+        "role_slug": "richard-strauss/salome/dancer"
+      },
+      {
+        "person_slug": "sydney-caggiano",
+        "role_slug": "richard-strauss/salome/dancer"
+      },
+      {
+        "person_slug": "ron-dukes",
+        "role_slug": "richard-strauss/salome/fifth-jew"
+      },
+      {
+        "person_slug": "julius-ahn",
+        "role_slug": "richard-strauss/salome/first-jew"
+      },
+      {
+        "person_slug": "thomas-dreeze",
+        "role_slug": "richard-strauss/salome/first-nazarene"
+      },
+      {
+        "person_slug": "donghoon-kang",
+        "role_slug": "richard-strauss/salome/first-soldier"
+      },
+      {
+        "person_slug": "m-andrew-jones",
+        "role_slug": "richard-strauss/salome/fourth-jew"
+      },
+      {
+        "person_slug": "chad-shelton",
+        "role_slug": "richard-strauss/salome/herod"
+      },
+      {
+        "person_slug": "michelle-deyoung",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "alfred-walker",
+        "role_slug": "richard-strauss/salome/jochanaan"
+      },
+      {
+        "person_slug": "zach-borichevsky",
+        "role_slug": "richard-strauss/salome/narraboth"
+      },
+      {
+        "person_slug": "emily-cotten",
+        "role_slug": "richard-strauss/salome/page-of-herodias"
+      },
+      {
+        "person_slug": "kathryn-lewek",
+        "role_slug": "richard-strauss/salome/salome"
+      },
+      {
+        "person_slug": "levi-capesius",
+        "role_slug": "richard-strauss/salome/second-jew"
+      },
+      {
+        "person_slug": "alexander-gushrowski",
+        "role_slug": "richard-strauss/salome/second-nazarene"
+      },
+      {
+        "person_slug": "sam-smith",
+        "role_slug": "richard-strauss/salome/second-soldier"
+      },
+      {
+        "person_slug": "a-cappadocian",
+        "role_slug": "richard-strauss/salome/stephen-hanna"
+      },
+      {
+        "person_slug": "mark-hockenberry",
+        "role_slug": "richard-strauss/salome/third-jew"
+      }
+    ]
+  }
+]
