@@ -13,9 +13,10 @@ import type {
  * French. The genre is in the URL (`…/saison-{YYYY-YYYY}/opera/{slug}` vs
  * `/danse/`, `/concert/`), which IS the opera filter — dance and concerts never
  * enter. Plain fetch (200 to the crawler UA, no proxy):
- *   - Season pages `/programmation-reservations/saison-{YYYY-YYYY}` link the
- *     productions; only the `/opera/` ones are kept. Current + next season form
- *     the live leg (the site keeps no deep archive).
+ *   - Discovery: the fr sitemap (`/sitemap/sitemap-fr.xml`) enumerates every
+ *     production URL (the season pages themselves are render-gated and list only a
+ *     few). Incremental keeps the current + next season; backfill walks all the
+ *     archived seasons the sitemap carries (back to 2023-24).
  *   - Detail page: `<h1>` work title; composer after "Un opéra de {X}"; the
  *     creative team AND cast are `<h2>{label}</h2>{name}` pairs — French function
  *     labels (Direction musicale→conductor, Mise en scène→director, Scénographie
