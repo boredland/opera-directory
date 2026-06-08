@@ -28,6 +28,7 @@ import { scrapeGerhartHauptmannTheaterGoerlitz } from "./houses/gerhart-hauptman
 import { scrapeGlimmerglassFestival } from "./houses/glimmerglass-festival";
 import { scrapeGlyndebourneFestival } from "./houses/glyndebourne-festival";
 import { scrapeGranTeatreDelLiceu } from "./houses/gran-teatre-del-liceu";
+import { scrapeGreekNationalOpera } from "./houses/greek-national-opera";
 import { scrapeGrandTheatreDeGeneve } from "./houses/grand-theatre-de-geneve";
 import { scrapeHoustonGrandOpera } from "./houses/houston-grand-opera";
 import { scrapeHungarianStateOpera } from "./houses/hungarian-state-opera";
@@ -217,6 +218,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "royal-swedish-opera": scrapeRoyalSwedishOpera,
   "finnish-national-opera": scrapeFinnishNationalOpera,
   "hungarian-state-opera": scrapeHungarianStateOpera,
+  "greek-national-opera": scrapeGreekNationalOpera,
   "budapest-operetta": scrapeBudapestOperetta,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,

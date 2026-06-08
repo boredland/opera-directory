@@ -1065,6 +1065,86 @@
     "name": "Spectre du roi défunt"
   },
   {
+    "slug": "amilcare-ponchielli/la-gioconda/a-monk",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "A monk"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/a-pilot",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "A pilot"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/alvise-badoero",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Alvise Badoero"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/ballerina",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Ballerina"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/barnaba",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Barnaba"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/enzo-grimaldo",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Enzo Grimaldo"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/father",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Father"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/girl",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Girl"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/isepo",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Isèpo"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/la-cieca",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "La Cieca"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/la-gioconda",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "La Gioconda"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/laura-adorno",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Laura Adorno"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/mother",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Mother"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/singer",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Α singer"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/two-voices",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Two voices"
+  },
+  {
+    "slug": "amilcare-ponchielli/la-gioconda/zuane",
+    "work_slug": "amilcare-ponchielli/la-gioconda",
+    "name": "Zuàne"
+  },
+  {
     "slug": "andre-previn/a-streetcar-named-desire/blanche-dubois",
     "work_slug": "andre-previn/a-streetcar-named-desire",
     "name": "Blanche DuBois"
@@ -4885,6 +4965,11 @@
     "name": "Euridice / Eco"
   },
   {
+    "slug": "claudio-monteverdi/l-orfeo/la-musica-eyridice",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "La musica / Eyridice"
+  },
+  {
     "slug": "claudio-monteverdi/l-orfeo/la-musica-speranza",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "La Musica / Speranza"
@@ -4913,6 +4998,11 @@
     "slug": "claudio-monteverdi/l-orfeo/orfeo",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Orfeo"
+  },
+  {
+    "slug": "claudio-monteverdi/l-orfeo/pastore-i-spirito",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Pastore I / Spirito"
   },
   {
     "slug": "claudio-monteverdi/l-orfeo/pastori-spiriti",
@@ -10825,6 +10915,11 @@
     "name": "Einstudierung Kinderchor"
   },
   {
+    "slug": "georges-bizet/carmen/el-danca-r",
+    "work_slug": "georges-bizet/carmen",
+    "name": "El Dancaϊrο"
+  },
+  {
     "slug": "georges-bizet/carmen/el-dancairo",
     "work_slug": "georges-bizet/carmen",
     "name": "El Dancairo"
@@ -10883,6 +10978,11 @@
     "slug": "georges-bizet/carmen/kostumassistenz",
     "work_slug": "georges-bizet/carmen",
     "name": "Kostümassistenz"
+  },
+  {
+    "slug": "georges-bizet/carmen/l-remendado",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Εl Remendado"
   },
   {
     "slug": "georges-bizet/carmen/le-dancaire",
@@ -10973,6 +11073,11 @@
     "slug": "georges-bizet/carmen/remendado-schmuggler",
     "work_slug": "georges-bizet/carmen",
     "name": "Remendado, Schmuggler"
+  },
+  {
+    "slug": "georges-bizet/carmen/scamillo",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Εscamillo"
   },
   {
     "slug": "georges-bizet/carmen/soufflage",
@@ -12350,6 +12455,11 @@
     "name": "A Sacristan"
   },
   {
+    "slug": "giacomo-puccini/tosca/a-shepherd-boy",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "A shepherd boy"
+  },
+  {
     "slug": "giacomo-puccini/tosca/angelotti",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Angelotti"
@@ -12398,6 +12508,11 @@
     "slug": "giacomo-puccini/tosca/der-mesner",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Der Mesner"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/dimitri-platanias",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Dimitri Platanias ,"
   },
   {
     "slug": "giacomo-puccini/tosca/ein-hirtenmadchen",
@@ -12513,6 +12628,11 @@
     "slug": "giacomo-puccini/tosca/sciarrone",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Sciarrone"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/sciarrone-a-gaoler",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Sciarrone / A gaoler"
   },
   {
     "slug": "giacomo-puccini/tosca/shepherd",
@@ -14900,6 +15020,11 @@
     "name": "MEG PAGE"
   },
   {
+    "slug": "giuseppe-verdi/falstaff/mistress-quickly",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Mistress Quickly"
+  },
+  {
     "slug": "giuseppe-verdi/falstaff/mrs-alice-ford",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "Mrs. Alice Ford"
@@ -15165,6 +15290,11 @@
     "name": "Alfredo"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/alfredo-germ-nt",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Alfredo Germοnt"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/alfredo-germont",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Alfredo Germont"
@@ -15223,6 +15353,11 @@
     "slug": "giuseppe-verdi/la-traviata/barone-douphol",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Barone Douphol"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/barone-duphol",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Barone Duphol"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/ben-escorcio",
@@ -15293,6 +15428,11 @@
     "slug": "giuseppe-verdi/la-traviata/domestico-di-flora",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Domestico di Flora"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/domestico-di-flora-commissionario",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Domestico di Flora / Commissionario"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/dottor-grenvil",
@@ -15388,6 +15528,11 @@
     "slug": "giuseppe-verdi/la-traviata/germont",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Germont"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/giorgio-germ-nt",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Giorgio Germοnt"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/giorgio-germont",
@@ -16193,6 +16338,11 @@
     "slug": "giuseppe-verdi/rigoletto/contessa-ceprano",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Contessa Ceprano"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/count-monterone",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Count Monterone"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/countess-ceprano",
@@ -18170,9 +18320,19 @@
     "name": "Tom Rakewell"
   },
   {
+    "slug": "igor-stravinsky/the-rake-s-progress/ann",
+    "work_slug": "igor-stravinsky/the-rake-s-progress",
+    "name": "Ann"
+  },
+  {
     "slug": "igor-stravinsky/the-rake-s-progress/anne-trulove",
     "work_slug": "igor-stravinsky/the-rake-s-progress",
     "name": "Anne Trulove"
+  },
+  {
+    "slug": "igor-stravinsky/the-rake-s-progress/baba",
+    "work_slug": "igor-stravinsky/the-rake-s-progress",
+    "name": "Baba"
   },
   {
     "slug": "igor-stravinsky/the-rake-s-progress/baba-the-turk",
@@ -18198,6 +18358,11 @@
     "slug": "igor-stravinsky/the-rake-s-progress/tom-rakewell",
     "work_slug": "igor-stravinsky/the-rake-s-progress",
     "name": "Tom Rakewell"
+  },
+  {
+    "slug": "igor-stravinsky/the-rake-s-progress/truelove",
+    "work_slug": "igor-stravinsky/the-rake-s-progress",
+    "name": "Truelove"
   },
   {
     "slug": "igor-stravinsky/the-rake-s-progress/trulove",
@@ -27475,6 +27640,41 @@
     "name": "Tatiana"
   },
   {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/count-tomsky",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Count Tomsky"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/countess",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Countess"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/herman",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Herman"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/lisa",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Lisa"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/polina",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Polina"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/prince-yeletsky",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Prince Yeletsky"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/surin",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
+    "name": "Surin"
+  },
+  {
     "slug": "pyotr-llyich-tchaikovsky/eugene-onegin/captain",
     "work_slug": "pyotr-llyich-tchaikovsky/eugene-onegin",
     "name": "Captain"
@@ -31993,6 +32193,26 @@
     "slug": "south-pole/robert-falcon-scott",
     "work_slug": "south-pole",
     "name": "Robert Falcon Scott"
+  },
+  {
+    "slug": "spyridon-samaras/flora-mirabilis/lydia",
+    "work_slug": "spyridon-samaras/flora-mirabilis",
+    "name": "Lydia"
+  },
+  {
+    "slug": "spyridon-samaras/flora-mirabilis/prince-christian-of-orebro",
+    "work_slug": "spyridon-samaras/flora-mirabilis",
+    "name": "Prince Christian of Örebro"
+  },
+  {
+    "slug": "spyridon-samaras/flora-mirabilis/the-count-of-adelfiord",
+    "work_slug": "spyridon-samaras/flora-mirabilis",
+    "name": "The Count of Adelfiord"
+  },
+  {
+    "slug": "spyridon-samaras/flora-mirabilis/valdo",
+    "work_slug": "spyridon-samaras/flora-mirabilis",
+    "name": "Valdo"
   },
   {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai/einstudierung-chor",
