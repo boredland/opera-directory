@@ -11005,6 +11005,11 @@
     "name": "Carmen"
   },
   {
+    "slug": "georges-bizet/carmen/cast-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Cast: Carmen"
+  },
+  {
     "slug": "georges-bizet/carmen/chore",
     "work_slug": "georges-bizet/carmen",
     "name": "Chöre"
@@ -11178,6 +11183,11 @@
     "slug": "georges-bizet/carmen/micaela-bauernmadchen",
     "work_slug": "georges-bizet/carmen",
     "name": "Micaela, Bauernmädchen"
+  },
+  {
+    "slug": "georges-bizet/carmen/michaela",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Michaela"
   },
   {
     "slug": "georges-bizet/carmen/mitarbeit-regie",
@@ -12040,9 +12050,19 @@
     "name": "Bonzo"
   },
   {
+    "slug": "giacomo-puccini/madama-butterfly/boy",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Boy"
+  },
+  {
     "slug": "giacomo-puccini/madama-butterfly/buhne-kostume",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "Bühne, Kostüme"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/cast-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Cast: Butterfly"
   },
   {
     "slug": "giacomo-puccini/madama-butterfly/child-sorrow",
@@ -12060,9 +12080,19 @@
     "name": "Сіо-Cio-San"
   },
   {
+    "slug": "giacomo-puccini/madama-butterfly/comissario",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Comissario"
+  },
+  {
     "slug": "giacomo-puccini/madama-butterfly/commissioner",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "Commissioner"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/conductor",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Conductor"
   },
   {
     "slug": "giacomo-puccini/madama-butterfly/cousin",
@@ -12140,6 +12170,16 @@
     "name": "Kind"
   },
   {
+    "slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "L&rsquo;ufficiale"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/l-ufficiale",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "L’ufficiale"
+  },
+  {
     "slug": "giacomo-puccini/madama-butterfly/la-cugina",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "La cugina"
@@ -12150,9 +12190,29 @@
     "name": "La madre"
   },
   {
+    "slug": "giacomo-puccini/madama-butterfly/la-zia",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "La Zia"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/lo-zio",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Lo Zio"
+  },
+  {
     "slug": "giacomo-puccini/madama-butterfly/lo-zio-bonzo",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "Lo zio Bonzo"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/lo-zio-yakuside",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Lo Zio Yakuside"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Madama Butterfly"
   },
   {
     "slug": "giacomo-puccini/madama-butterfly/masica",
@@ -12198,6 +12258,11 @@
     "slug": "giacomo-puccini/madama-butterfly/prince-yamadori",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "Prince Yamadori"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/prints-yamadori",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Prints Yamadori"
   },
   {
     "slug": "giacomo-puccini/madama-butterfly/registrar",
@@ -12253,6 +12318,11 @@
     "slug": "giacomo-puccini/madama-butterfly/trouble",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "name": "Trouble"
+  },
+  {
+    "slug": "giacomo-puccini/madama-butterfly/una-cugina",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "name": "Una Cugina"
   },
   {
     "slug": "giacomo-puccini/madama-butterfly/yakuside",
@@ -16385,6 +16455,16 @@
     "name": "Cassio, Hauptmann"
   },
   {
+    "slug": "giuseppe-verdi/otello/cast-othello",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Cast: Othello"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/conductor",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Conductor"
+  },
+  {
     "slug": "giuseppe-verdi/otello/desdemona",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Desdemona"
@@ -16503,6 +16583,11 @@
     "slug": "giuseppe-verdi/otello/rodrigo",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Rodrigo"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/un-araldo",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Un Araldo"
   },
   {
     "slug": "giuseppe-verdi/otello/yago",
@@ -19310,9 +19395,49 @@
     "name": "Aristaeus"
   },
   {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Aristaios/Pluto"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto-god-of-the-underworld",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Aristaios/Pluto, god of the underworld"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/bacchus",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Bacchus"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/cast-orpheus-violin-teacher",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Cast: Orpheus, violin teacher"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/conductor",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Conductor"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/cupido",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Cupido"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/cupido-naughty-god-of-love",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Cupido, naughty god of love"
+  },
+  {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/diana",
     "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
     "name": "Diana"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/diana-goddess-of-fertility-and-the-hunt",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Diana, goddess of fertility and the hunt"
   },
   {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/eurydice",
@@ -19320,9 +19445,34 @@
     "name": "Eurydice"
   },
   {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/eurydike",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Eurydike"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/eurydike-his-wife",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Eurydike, his wife"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "John Styx"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx-servant-of-pluto",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "John Styx, servant of Pluto"
+  },
+  {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/juno",
     "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
     "name": "Juno"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/juno-queen-of-gods-jupiter-s-wife",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Juno, queen of gods, Jupiter' s wife"
   },
   {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter",
@@ -19330,14 +19480,49 @@
     "name": "Jupiter"
   },
   {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter-king-of-the-gods",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Jupiter, king of the gods"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/mars",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Mars"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/mars-god-of-war",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Mars, god of war"
+  },
+  {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/mars-john-styx",
     "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
     "name": "Mars / John Styx"
   },
   {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Mercurius"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius-god-of-commerce-and-prosperity",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Mercurius, god of commerce and prosperity"
+  },
+  {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/mercury",
     "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
     "name": "Mercury"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/minerva",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Minerva"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/minerva-goddess-of-wisdom-and-arts",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Minerva, goddess of wisdom and arts"
   },
   {
     "slug": "jacques-offenbach/orpheus-in-the-underworld/orpheus",
@@ -19353,6 +19538,11 @@
     "slug": "jacques-offenbach/orpheus-in-the-underworld/venus",
     "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
     "name": "Venus"
+  },
+  {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld/venus-goddess-of-love",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "name": "Venus, goddess of love"
   },
   {
     "slug": "jacques-offenbach/robinson-crusoe/orchester",
@@ -23733,6 +23923,111 @@
     "slug": "leos-janacek/l-affaire-makropoulos/vitek",
     "work_slug": "leos-janacek/l-affaire-makropoulos",
     "name": "Vítek"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/badger-priest",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Badger / Priest"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/chocholka-the-hen",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Chocholka, the hen"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/conductor",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Conductor"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/dancers",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Dancers"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/dog-woodpecker",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Dog / Woodpecker"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/forester",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Forester"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/forester-rsquo-s-wife",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Forester&rsquo;s Wife"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Forester's kids"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/forester-s-wife",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Forester’s Wife"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/fox-cubs",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Fox cubs"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Frog, Cricket, Grasshopper"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/gold-stripe-the-fox",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Gold-Stripe the fox"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/hara-scaron-ta-poacher",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Hara&scaron;ta, poacher"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/harasta",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Harašta"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-rsquo-s-wife",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Owl / Innkeeper&rsquo;s Wife"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-s-wife",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Owl / Innkeeper’s Wife"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/rooster-jay",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Rooster / Jay"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/schoolmaster-mosquito",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Schoolmaster / Mosquito"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/sharp-ears-the-vixen",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "Sharp-Ears the Vixen"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/the-innkeeper",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "The Innkeeper"
+  },
+  {
+    "slug": "leos-janacek/the-cunning-little-vixen/the-little-sharp-ears",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "name": "The Little Sharp Ears"
   },
   {
     "slug": "les-aventures-du-roi-pausole/aline",
@@ -30790,6 +31085,11 @@
     "name": "Dritter Edelknabe"
   },
   {
+    "slug": "richard-wagner/lohengrin/elsa",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Elsa"
+  },
+  {
     "slug": "richard-wagner/lohengrin/elsa-von-brabant",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Elsa von Brabant"
@@ -30858,6 +31158,11 @@
     "slug": "richard-wagner/lohengrin/ortrud-seine-gemahlin",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Ortrud, seine Gemahlin"
+  },
+  {
+    "slug": "richard-wagner/lohengrin/telramund",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Telramund"
   },
   {
     "slug": "richard-wagner/lohengrin/vierter-brabantischer-edler",

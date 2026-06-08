@@ -1551,6 +1551,17 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "estonian-national-opera",
+    "name": "Estonian National Opera",
+    "city": "Tallinn",
+    "country": "EE",
+    "website": "https://www.opera.ee",
+    "wikidata": "Q583997",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Rahvusooper Estonia, Tallinn — national opera & ballet of Estonia. Thorgate/Django CMS with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the opera category page /en/stagings/opera/ links the live repertoire as /en/staging/{slug}/ detail pages (still mixes in some ballet) → genre read off each detail page's subtitle h3 and only opera kept. Detail: `<h1>` work title; the subtitle h3 carries genre + composer in two phrasings ('Opera by {X}' / \"{X}'s opera\"). Creative team from the structured `<ul aria-label=Creative team>` cards (`<p id=role-N>{label}</p>` + `<h3><a href=/en/person/…>{Name}</a></h3>`, English labels substring-mapped; assistants/concertmaster/repetiteurs skipped). Cast from the prose block after 'Cast:' — `{Role}: <strong>{Name}</strong>, … <br>` lines (alternating casts comma-separated, country tags in parens dropped, all kept at production level). Performances from hidden `<div class=d-none>{Weekday}, {D}. {Month} {YYYY} {HH:MM}</div>` rows (full ISO dates, announced future). Opera gate = subtitle genre opera (not ballet) AND person-name composer AND (cast OR director). Backfill Wikidata Q583997 available as a resolution anchor."
+  },
+  {
     "slug": "greek-national-opera",
     "name": "Greek National Opera",
     "city": "Athens",

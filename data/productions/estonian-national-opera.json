@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "estonian-national-opera/estonian-national-opera-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/carmen/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Carmen_1185x419.jpg",
+    "creative_team": [
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "henri-christofer-aavik",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pierre-emmanuel-rousseau",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "georges-bizet/carmen/cast-carmen"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "georges-bizet/carmen/cast-carmen"
+      },
+      {
+        "person_slug": "marie-gautrot",
+        "role_slug": "georges-bizet/carmen/cast-carmen"
+      },
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "mario-rojas",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "thomas-birch",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "gagik-vardanyan",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "kristel-partna",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "maria-leppoja",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "mehis-tiits",
+        "role_slug": "georges-bizet/carmen/le-dancaire"
+      },
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "georges-bizet/carmen/le-dancaire"
+      },
+      {
+        "person_slug": "heldur-harry-polda",
+        "role_slug": "georges-bizet/carmen/le-remendado"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "georges-bizet/carmen/le-remendado"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "merit-kraav",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "elena-brazhnyk",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "elena-brazhnyk",
+        "role_slug": "georges-bizet/carmen/michaela"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "georges-bizet/carmen/michaela"
+      },
+      {
+        "person_slug": "perrine-madoeuf",
+        "role_slug": "georges-bizet/carmen/michaela"
+      },
+      {
+        "person_slug": "rene-soom",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "tamar-nugis-rene-soom",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-le-nozze-di-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/le-nozze-di-figaro/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/figaro.png",
+    "creative_team": [
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marco-gandini",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-lohengrin",
+    "work_slug": "richard-wagner/lohengrin",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/lohengrin/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Lohengrin_1185x419_aQLR15i.jpg",
+    "creative_team": [
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michiel-dijkema",
+        "function": "director"
+      },
+      {
+        "person_slug": "jula-reindell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "charlotte-anne-shipley",
+        "role_slug": "richard-wagner/lohengrin/elsa"
+      },
+      {
+        "person_slug": "timothy-richards",
+        "role_slug": "richard-wagner/lohengrin/lohengrin"
+      },
+      {
+        "person_slug": "maria-berezovska",
+        "role_slug": "richard-wagner/lohengrin/ortrud"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "richard-wagner/lohengrin/telramund"
+      }
+    ]
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/madama-butterfly/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Butterfly_1185x419.jpg",
+    "creative_team": [
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "risto-joost",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rodula-gaitanou",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiametta-baldiserri",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jassi-zahharov",
+        "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
+      },
+      {
+        "person_slug": "mart-jakobson",
+        "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
+      },
+      {
+        "person_slug": "konrad-sibul",
+        "role_slug": "giacomo-puccini/madama-butterfly/boy"
+      },
+      {
+        "person_slug": "maria-fernanda-castillo",
+        "role_slug": "giacomo-puccini/madama-butterfly/cast-butterfly"
+      },
+      {
+        "person_slug": "yasko-sato",
+        "role_slug": "giacomo-puccini/madama-butterfly/cast-butterfly"
+      },
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "giacomo-puccini/madama-butterfly/comissario"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "giacomo-puccini/madama-butterfly/comissario"
+      },
+      {
+        "person_slug": "risto-joost",
+        "role_slug": "giacomo-puccini/madama-butterfly/conductor"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "mehis-tiits",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "mati-vaikmaa",
+        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+      },
+      {
+        "person_slug": "rein-saar",
+        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+      },
+      {
+        "person_slug": "ruyao-wang",
+        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+      },
+      {
+        "person_slug": "ruyao-wang",
+        "role_slug": "giacomo-puccini/madama-butterfly/l-ufficiale"
+      },
+      {
+        "person_slug": "juuli-lill",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-madre"
+      },
+      {
+        "person_slug": "juuli-lill",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-madre"
+      },
+      {
+        "person_slug": "maria-leppoja",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-zia"
+      },
+      {
+        "person_slug": "merit-kraav",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-zia"
+      },
+      {
+        "person_slug": "dragos-andrei-ionel",
+        "role_slug": "giacomo-puccini/madama-butterfly/lo-zio"
+      },
+      {
+        "person_slug": "tiit-kaljund",
+        "role_slug": "giacomo-puccini/madama-butterfly/lo-zio-yakuside"
+      },
+      {
+        "person_slug": "maria-fernanda-castillo",
+        "role_slug": "giacomo-puccini/madama-butterfly/madama-butterfly"
+      },
+      {
+        "person_slug": "dumitru-mitu",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "raimonds-bramanis",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "riccardo-della-sciucca",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "riccardo-della-sciucca",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "rafael-dicenta",
+        "role_slug": "giacomo-puccini/madama-butterfly/prints-yamadori"
+      },
+      {
+        "person_slug": "yixuan-wang",
+        "role_slug": "giacomo-puccini/madama-butterfly/prints-yamadori"
+      },
+      {
+        "person_slug": "eugenijus-chrebtovas",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "tamar-nugis",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "carol-mannamets",
+        "role_slug": "giacomo-puccini/madama-butterfly/una-cugina"
+      },
+      {
+        "person_slug": "danna-maloshko",
+        "role_slug": "giacomo-puccini/madama-butterfly/una-cugina"
+      },
+      {
+        "person_slug": "danna-malosko",
+        "role_slug": "giacomo-puccini/madama-butterfly/una-cugina"
+      },
+      {
+        "person_slug": "yixuan-wang",
+        "role_slug": "giacomo-puccini/madama-butterfly/yamadori"
+      }
+    ]
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-orpheus-porgus",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/orpheus-porgus/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/KODULEHE_P%C3%84IS_9_3epoUa1.png",
+    "creative_team": [
+      {
+        "person_slug": "dmitri-harchenko",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jaan-ots",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "liis-kolle",
+        "function": "director"
+      },
+      {
+        "person_slug": "reili-evart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto"
+      },
+      {
+        "person_slug": "mati-turi",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto-god-of-the-underworld"
+      },
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto-god-of-the-underworld"
+      },
+      {
+        "person_slug": "tiit-kaljund",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/bacchus"
+      },
+      {
+        "person_slug": "heldur-harry-polda",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cast-orpheus-violin-teacher"
+      },
+      {
+        "person_slug": "oliver-kuusik",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cast-orpheus-violin-teacher"
+      },
+      {
+        "person_slug": "jaan-ots",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/conductor"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cupido"
+      },
+      {
+        "person_slug": "carol-mannamets",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cupido-naughty-god-of-love"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cupido-naughty-god-of-love"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/diana"
+      },
+      {
+        "person_slug": "heli-veskus",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/diana-goddess-of-fertility-and-the-hunt"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/diana-goddess-of-fertility-and-the-hunt"
+      },
+      {
+        "person_slug": "kristel-partna",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/eurydike"
+      },
+      {
+        "person_slug": "elina-nechayeva",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/eurydike-his-wife"
+      },
+      {
+        "person_slug": "kristel-partna",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/eurydike-his-wife"
+      },
+      {
+        "person_slug": "mehis-tiits",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx-servant-of-pluto"
+      },
+      {
+        "person_slug": "mehis-tiits",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx-servant-of-pluto"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/juno"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/juno-queen-of-gods-jupiter-s-wife"
+      },
+      {
+        "person_slug": "kairi-tammaru",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/juno-queen-of-gods-jupiter-s-wife"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter-king-of-the-gods"
+      },
+      {
+        "person_slug": "tamar-nugis",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter-king-of-the-gods"
+      },
+      {
+        "person_slug": "erki-lillemets",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mars"
+      },
+      {
+        "person_slug": "mart-laur",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mars-god-of-war"
+      },
+      {
+        "person_slug": "jakob-tomson",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius"
+      },
+      {
+        "person_slug": "aare-kodasma",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius-god-of-commerce-and-prosperity"
+      },
+      {
+        "person_slug": "rene-soom",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius-god-of-commerce-and-prosperity"
+      },
+      {
+        "person_slug": "maria-leppoja",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/minerva"
+      },
+      {
+        "person_slug": "maria-leppoja",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/minerva-goddess-of-wisdom-and-arts"
+      },
+      {
+        "person_slug": "merit-kraav",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/minerva-goddess-of-wisdom-and-arts"
+      },
+      {
+        "person_slug": "heldur-harry-polda",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/orpheus"
+      },
+      {
+        "person_slug": "annaliisa-pillak",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/public-opinion"
+      },
+      {
+        "person_slug": "juuli-lill",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/public-opinion"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/venus"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/venus-goddess-of-love"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/venus-goddess-of-love"
+      }
+    ]
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-othello",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/othello/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Othello_1185x419.jpg",
+    "creative_team": [
+      {
+        "person_slug": "heli-jurgenson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vincent-boussard",
+        "function": "director"
+      },
+      {
+        "person_slug": "rasmus-rembel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vincent-boussard",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "heldur-harry-polda",
+        "role_slug": "giuseppe-verdi/otello/cassio"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "giuseppe-verdi/otello/cassio"
+      },
+      {
+        "person_slug": "alessandro-fantoni",
+        "role_slug": "giuseppe-verdi/otello/cast-othello"
+      },
+      {
+        "person_slug": "dimitris-paksoglou",
+        "role_slug": "giuseppe-verdi/otello/cast-othello"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "role_slug": "giuseppe-verdi/otello/conductor"
+      },
+      {
+        "person_slug": "arete-kerge",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "elena-brazhnyk",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "giuseppe-verdi/otello/emilia"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "giuseppe-verdi/otello/emilia"
+      },
+      {
+        "person_slug": "badral-chuluumbatar",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "dragudin-matic",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "giuseppe-verdi/otello/lodovico"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "giuseppe-verdi/otello/lodovico"
+      },
+      {
+        "person_slug": "dragos-andrei-lionel",
+        "role_slug": "giuseppe-verdi/otello/montano"
+      },
+      {
+        "person_slug": "revere-taylor",
+        "role_slug": "giuseppe-verdi/otello/montano"
+      },
+      {
+        "person_slug": "rafael-dicenta",
+        "role_slug": "giuseppe-verdi/otello/roderigo"
+      },
+      {
+        "person_slug": "reigo-tamm",
+        "role_slug": "giuseppe-verdi/otello/roderigo"
+      },
+      {
+        "person_slug": "jakob-tomson",
+        "role_slug": "giuseppe-verdi/otello/un-araldo"
+      },
+      {
+        "person_slug": "rein-saar",
+        "role_slug": "giuseppe-verdi/otello/un-araldo"
+      }
+    ]
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-pelleas-ja-melisande",
+    "work_slug": "claude-debussy/pelleas-et-melisande",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/pelleas-ja-melisande/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Melisande_1185x419.jpg",
+    "creative_team": [
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "albert-andre-lheureux",
+        "function": "director"
+      },
+      {
+        "person_slug": "rasmus-rembel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "liina-keevallik",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-peter-grimes",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/peter-grimes/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Grimes.png",
+    "creative_team": [
+      {
+        "person_slug": "heli-jurgenson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stephen-barlow",
+        "function": "director"
+      },
+      {
+        "person_slug": "yannis-thavoris",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "estonian-national-opera/estonian-national-opera-vaike-kaval-rebane",
+    "work_slug": "leos-janacek/the-cunning-little-vixen",
+    "house_slug": "estonian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.ee/en/staging/vaike-kaval-rebane/",
+    "image_url": "https://s3.eu-central-1.amazonaws.com/estonian-opera-production/media/Rebane_1185x419.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ingmar-joela",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "heli-jurgenson",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kaspar-mand",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "priit-voigemast",
+        "function": "director"
+      },
+      {
+        "person_slug": "rosita-raud",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mart-laur",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/badger-priest"
+      },
+      {
+        "person_slug": "stanislav-sheljahhovski",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/badger-priest"
+      },
+      {
+        "person_slug": "danna-malosko",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/chocholka-the-hen"
+      },
+      {
+        "person_slug": "danna-malosko",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/chocholka-the-hen"
+      },
+      {
+        "person_slug": "maris-liloson",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/chocholka-the-hen"
+      },
+      {
+        "person_slug": "arvo-volmer",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/conductor"
+      },
+      {
+        "person_slug": "allar-valge",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "arina-kotova",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "germo-toonikus",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "mehis-saaber",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "polina-albert",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "richard-beljohin",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "sofia-kirs",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dancers"
+      },
+      {
+        "person_slug": "annabel-soode",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/dog-woodpecker"
+      },
+      {
+        "person_slug": "rauno-elp",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester"
+      },
+      {
+        "person_slug": "tamar-nugis",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester"
+      },
+      {
+        "person_slug": "arete-kerge",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-rsquo-s-wife"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-rsquo-s-wife"
+      },
+      {
+        "person_slug": "joonas-mikk",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids"
+      },
+      {
+        "person_slug": "liam-hussar",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids"
+      },
+      {
+        "person_slug": "peeter-veltmann",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids"
+      },
+      {
+        "person_slug": "tobias-tark",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids"
+      },
+      {
+        "person_slug": "arete-kerge",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-wife"
+      },
+      {
+        "person_slug": "estonian-national-opera-boys-rsquo-choir",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/fox-cubs"
+      },
+      {
+        "person_slug": "bert-sebastian-maripuu",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "erik-kurahashi",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "hindrik-voltri",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "kristofer-cross",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "rannar-malk",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "uku-sander-leisalu",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/frog-cricket-grasshopper"
+      },
+      {
+        "person_slug": "helen-lokuta",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/gold-stripe-the-fox"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/gold-stripe-the-fox"
+      },
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/hara-scaron-ta-poacher"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/hara-scaron-ta-poacher"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/harasta"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-rsquo-s-wife"
+      },
+      {
+        "person_slug": "juuli-lill",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-rsquo-s-wife"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-s-wife"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/rooster-jay"
+      },
+      {
+        "person_slug": "katri-juss",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/rooster-jay"
+      },
+      {
+        "person_slug": "tiit-kaljund",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/rooster-jay"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/schoolmaster-mosquito"
+      },
+      {
+        "person_slug": "rafael-dicenta",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/schoolmaster-mosquito"
+      },
+      {
+        "person_slug": "elena-brazhnyk",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/sharp-ears-the-vixen"
+      },
+      {
+        "person_slug": "kristel-partna",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/sharp-ears-the-vixen"
+      },
+      {
+        "person_slug": "jakob-tomson",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-innkeeper"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-innkeeper"
+      },
+      {
+        "person_slug": "rein-saar",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-innkeeper"
+      },
+      {
+        "person_slug": "tiit-kaljund",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-innkeeper"
+      },
+      {
+        "person_slug": "anette-kalda",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-little-sharp-ears"
+      },
+      {
+        "person_slug": "greta-marie-niinepuu",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-little-sharp-ears"
+      },
+      {
+        "person_slug": "marharyta-brazhnyk",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/the-little-sharp-ears"
+      }
+    ]
+  }
+]
