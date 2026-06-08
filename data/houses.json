@@ -1551,6 +1551,16 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "sofia-opera",
+    "name": "Sofia Opera and Ballet",
+    "city": "Sofia",
+    "country": "BG",
+    "website": "https://www.operasofia.bg",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "National Opera and Ballet, Sofia (Софийска опера и балет). Bespoke CMS with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the opera-filtered repertoire /en/repertoire?category=opera lists every opera staging as /en/repertoire/{id} (category filter keeps ballet/musical out) — this is the full published opera repertoire (~150 titles, many revived), so most have cast/creative but only a few carry current dates. Detail: `<h1>` work title. **Composer, cast AND creative team share ONE ordered list of `<span>{label}</span><h2><a href=.../staff/…>{Name}</a></h2>` pairs, in the sequence Composer → character roles → Conductor → production team** — so the pairs are walked in order: 'Composer'/'Music' splits off; everything up to the first creative-function label is cast (character roles, often verbose 'Name, description' labels); from there the function-labelled pairs are the creative team (assistants / répétiteurs / stage managers / translators skipped via SKIP_CREATIVE). Performances from `<h2 class=title borders>{YYYY-MM-DD HH:MM}</h2>` date headings (the per-night cast widget under each is ignored — the top list is canonical). Opera gate = person-name composer AND (cast OR director). No Wikidata QID found (wbsearchentities empty)."
+  },
+  {
     "slug": "cnt-zagreb",
     "name": "Croatian National Theatre in Zagreb — Opera",
     "city": "Zagreb",

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "sofia-opera/sofia-opera-1/2024-08-09/20:00",
+    "production_id": "sofia-opera/sofia-opera-1",
+    "date": "2024-08-09",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1/2024-08-10/20:00",
+    "production_id": "sofia-opera/sofia-opera-1",
+    "date": "2024-08-10",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-537/2022-11-04/19:00",
+    "production_id": "sofia-opera/sofia-opera-537",
+    "date": "2022-11-04",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-589/2023-02-17/19:00",
+    "production_id": "sofia-opera/sofia-opera-589",
+    "date": "2023-02-17",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-668/2023-10-15/16:00",
+    "production_id": "sofia-opera/sofia-opera-668",
+    "date": "2023-10-15",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-672/2024-02-07/19:00",
+    "production_id": "sofia-opera/sofia-opera-672",
+    "date": "2024-02-07",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-673/2023-10-28/19:00",
+    "production_id": "sofia-opera/sofia-opera-673",
+    "date": "2023-10-28",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-675/2023-10-29/19:00",
+    "production_id": "sofia-opera/sofia-opera-675",
+    "date": "2023-10-29",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-679/2023-11-08/20:00",
+    "production_id": "sofia-opera/sofia-opera-679",
+    "date": "2023-11-08",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-683/2024-02-03/19:00",
+    "production_id": "sofia-opera/sofia-opera-683",
+    "date": "2024-02-03",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-684/2023-11-18/19:00",
+    "production_id": "sofia-opera/sofia-opera-684",
+    "date": "2023-11-18",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-685/2024-03-31/19:00",
+    "production_id": "sofia-opera/sofia-opera-685",
+    "date": "2024-03-31",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-696/2023-12-15/19:00",
+    "production_id": "sofia-opera/sofia-opera-696",
+    "date": "2023-12-15",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-696/2023-12-16/19:00",
+    "production_id": "sofia-opera/sofia-opera-696",
+    "date": "2023-12-16",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-721/2024-02-23/19:00",
+    "production_id": "sofia-opera/sofia-opera-721",
+    "date": "2024-02-23",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-721/2024-02-24/19:00",
+    "production_id": "sofia-opera/sofia-opera-721",
+    "date": "2024-02-24",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-721/2024-02-25/16:00",
+    "production_id": "sofia-opera/sofia-opera-721",
+    "date": "2024-02-25",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-722/2024-06-13/18:00",
+    "production_id": "sofia-opera/sofia-opera-722",
+    "date": "2024-06-13",
+    "time": "18:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-722/2024-06-23/16:00",
+    "production_id": "sofia-opera/sofia-opera-722",
+    "date": "2024-06-23",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-730/2024-01-25/19:00",
+    "production_id": "sofia-opera/sofia-opera-730",
+    "date": "2024-01-25",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-730/2024-01-26/19:00",
+    "production_id": "sofia-opera/sofia-opera-730",
+    "date": "2024-01-26",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-730/2024-01-27/19:00",
+    "production_id": "sofia-opera/sofia-opera-730",
+    "date": "2024-01-27",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-730/2024-01-28/16:00",
+    "production_id": "sofia-opera/sofia-opera-730",
+    "date": "2024-01-28",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-731/2024-02-02/19:00",
+    "production_id": "sofia-opera/sofia-opera-731",
+    "date": "2024-02-02",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-732/2024-02-04/16:00",
+    "production_id": "sofia-opera/sofia-opera-732",
+    "date": "2024-02-04",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-738/2023-12-09/16:00",
+    "production_id": "sofia-opera/sofia-opera-738",
+    "date": "2023-12-09",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-739/2023-11-11/20:00",
+    "production_id": "sofia-opera/sofia-opera-739",
+    "date": "2023-11-11",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-740/2024-04-19/19:00",
+    "production_id": "sofia-opera/sofia-opera-740",
+    "date": "2024-04-19",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-740/2024-04-21/16:00",
+    "production_id": "sofia-opera/sofia-opera-740",
+    "date": "2024-04-21",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-750/2024-03-27/19:00",
+    "production_id": "sofia-opera/sofia-opera-750",
+    "date": "2024-03-27",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-756/2024-02-29/19:00",
+    "production_id": "sofia-opera/sofia-opera-756",
+    "date": "2024-02-29",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-756/2024-03-02/19:00",
+    "production_id": "sofia-opera/sofia-opera-756",
+    "date": "2024-03-02",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-764/2024-08-02/20:00",
+    "production_id": "sofia-opera/sofia-opera-764",
+    "date": "2024-08-02",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-765/2024-08-03/20:00",
+    "production_id": "sofia-opera/sofia-opera-765",
+    "date": "2024-08-03",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-766/2024-08-04/20:00",
+    "production_id": "sofia-opera/sofia-opera-766",
+    "date": "2024-08-04",
+    "time": "20:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-798/2025-03-15/19:00",
+    "production_id": "sofia-opera/sofia-opera-798",
+    "date": "2025-03-15",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-800/2024-10-16/19:00",
+    "production_id": "sofia-opera/sofia-opera-800",
+    "date": "2024-10-16",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-801/2024-10-20/16:00",
+    "production_id": "sofia-opera/sofia-opera-801",
+    "date": "2024-10-20",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-801/2024-10-26/18:00",
+    "production_id": "sofia-opera/sofia-opera-801",
+    "date": "2024-10-26",
+    "time": "18:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-808/2025-01-17/19:00",
+    "production_id": "sofia-opera/sofia-opera-808",
+    "date": "2025-01-17",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-808/2025-01-18/19:00",
+    "production_id": "sofia-opera/sofia-opera-808",
+    "date": "2025-01-18",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-808/2025-01-19/16:00",
+    "production_id": "sofia-opera/sofia-opera-808",
+    "date": "2025-01-19",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-810/2024-12-07/19:00",
+    "production_id": "sofia-opera/sofia-opera-810",
+    "date": "2024-12-07",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-810/2024-12-08/16:00",
+    "production_id": "sofia-opera/sofia-opera-810",
+    "date": "2024-12-08",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-810/2024-12-10/19:00",
+    "production_id": "sofia-opera/sofia-opera-810",
+    "date": "2024-12-10",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-836/2025-01-10/19:00",
+    "production_id": "sofia-opera/sofia-opera-836",
+    "date": "2025-01-10",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-836/2025-01-11/19:00",
+    "production_id": "sofia-opera/sofia-opera-836",
+    "date": "2025-01-11",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-838/2025-01-23/19:00",
+    "production_id": "sofia-opera/sofia-opera-838",
+    "date": "2025-01-23",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-838/2025-01-24/19:00",
+    "production_id": "sofia-opera/sofia-opera-838",
+    "date": "2025-01-24",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-841/2025-02-07/19:00",
+    "production_id": "sofia-opera/sofia-opera-841",
+    "date": "2025-02-07",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-841/2025-02-08/19:00",
+    "production_id": "sofia-opera/sofia-opera-841",
+    "date": "2025-02-08",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-844/2025-02-27/19:00",
+    "production_id": "sofia-opera/sofia-opera-844",
+    "date": "2025-02-27",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-844/2025-02-28/19:00",
+    "production_id": "sofia-opera/sofia-opera-844",
+    "date": "2025-02-28",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-844/2025-03-01/19:00",
+    "production_id": "sofia-opera/sofia-opera-844",
+    "date": "2025-03-01",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-844/2025-03-02/16:00",
+    "production_id": "sofia-opera/sofia-opera-844",
+    "date": "2025-03-02",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-846/2025-03-14/19:00",
+    "production_id": "sofia-opera/sofia-opera-846",
+    "date": "2025-03-14",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-852/2025-06-26/18:00",
+    "production_id": "sofia-opera/sofia-opera-852",
+    "date": "2025-06-26",
+    "time": "18:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-852/2025-07-05/16:00",
+    "production_id": "sofia-opera/sofia-opera-852",
+    "date": "2025-07-05",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-884/2025-05-04/16:00",
+    "production_id": "sofia-opera/sofia-opera-884",
+    "date": "2025-05-04",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-914/2025-10-11/19:00",
+    "production_id": "sofia-opera/sofia-opera-914",
+    "date": "2025-10-11",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-914/2025-10-12/16:00",
+    "production_id": "sofia-opera/sofia-opera-914",
+    "date": "2025-10-12",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-914/2025-10-17/19:00",
+    "production_id": "sofia-opera/sofia-opera-914",
+    "date": "2025-10-17",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-914/2025-10-18/19:00",
+    "production_id": "sofia-opera/sofia-opera-914",
+    "date": "2025-10-18",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-914/2025-10-19/16:00",
+    "production_id": "sofia-opera/sofia-opera-914",
+    "date": "2025-10-19",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-936/2026-03-29/16:00",
+    "production_id": "sofia-opera/sofia-opera-936",
+    "date": "2026-03-29",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-939/2026-05-17/16:00",
+    "production_id": "sofia-opera/sofia-opera-939",
+    "date": "2026-05-17",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-941/2026-05-13/19:00",
+    "production_id": "sofia-opera/sofia-opera-941",
+    "date": "2026-05-13",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-944/2026-06-14/16:00",
+    "production_id": "sofia-opera/sofia-opera-944",
+    "date": "2026-06-14",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-949/2026-04-08/19:00",
+    "production_id": "sofia-opera/sofia-opera-949",
+    "date": "2026-04-08",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-949/2026-04-09/19:00",
+    "production_id": "sofia-opera/sofia-opera-949",
+    "date": "2026-04-09",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-956/2026-01-15/19:00",
+    "production_id": "sofia-opera/sofia-opera-956",
+    "date": "2026-01-15",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-956/2026-01-16/19:00",
+    "production_id": "sofia-opera/sofia-opera-956",
+    "date": "2026-01-16",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-956/2026-01-17/19:00",
+    "production_id": "sofia-opera/sofia-opera-956",
+    "date": "2026-01-17",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-956/2026-01-18/16:00",
+    "production_id": "sofia-opera/sofia-opera-956",
+    "date": "2026-01-18",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-959/2026-01-28/19:00",
+    "production_id": "sofia-opera/sofia-opera-959",
+    "date": "2026-01-28",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-963/2026-02-25/19:00",
+    "production_id": "sofia-opera/sofia-opera-963",
+    "date": "2026-02-25",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-963/2026-02-26/19:00",
+    "production_id": "sofia-opera/sofia-opera-963",
+    "date": "2026-02-26",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-963/2026-02-27/19:00",
+    "production_id": "sofia-opera/sofia-opera-963",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-963/2026-02-28/19:00",
+    "production_id": "sofia-opera/sofia-opera-963",
+    "date": "2026-02-28",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-963/2026-03-01/16:00",
+    "production_id": "sofia-opera/sofia-opera-963",
+    "date": "2026-03-01",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-967/2026-04-02/19:00",
+    "production_id": "sofia-opera/sofia-opera-967",
+    "date": "2026-04-02",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-967/2026-04-05/16:00",
+    "production_id": "sofia-opera/sofia-opera-967",
+    "date": "2026-04-05",
+    "time": "16:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-969/2026-04-04/19:00",
+    "production_id": "sofia-opera/sofia-opera-969",
+    "date": "2026-04-04",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-973/2026-04-24/19:00",
+    "production_id": "sofia-opera/sofia-opera-973",
+    "date": "2026-04-24",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-973/2026-04-25/19:00",
+    "production_id": "sofia-opera/sofia-opera-973",
+    "date": "2026-04-25",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-980/2026-06-12/18:00",
+    "production_id": "sofia-opera/sofia-opera-980",
+    "date": "2026-06-12",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "sofia-opera/sofia-opera-982/2025-12-07/16:00",
+    "production_id": "sofia-opera/sofia-opera-982",
+    "date": "2025-12-07",
+    "time": "16:00",
+    "status": "past"
+  }
+]
