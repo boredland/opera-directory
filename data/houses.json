@@ -1551,6 +1551,17 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "lithuanian-national-opera",
+    "name": "Lithuanian National Opera and Ballet Theatre",
+    "city": "Vilnius",
+    "country": "LT",
+    "website": "https://www.opera.lt",
+    "wikidata": "Q4263961",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Lietuvos nacionalinis operos ir baleto teatras (LNOBT), Vilnius. Bespoke CMS (Koobin ticketing) with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the homepage links the live repertoire as /en/whatss-on/{slug}-e{id} detail pages (sic — 'whatss-on'; opera AND ballet mixed) → genre read off each page's header `div.duration` ('An opera in 2 acts…') and only opera kept. Detail: `<h1>` work title. Creative team from `div.oe_team_list` rows (`<div class=team_item><div class=role>{label}</div><div class=creators>{Name}</div>`) — composer is the 'Composer' row, the rest mapped by English label (assistants/librettist dropped, co-credits comma/&//-split). Cast from the per-performance `perf_item` cards (`<span>{Name}</span><span class=role>{Role}</span>`) aggregated across all nights + deduped (rows whose role is itself a creative function, e.g. Conductor, dropped). Performances from `oe_shows_list` — `year_title` / month `group_title` separators interleaved with `oe_show_item` rows (`day_side` + `time_side`; the weekday is in the misnamed `month_side`), scanned in document order. Opera gate = header genre opera (not ballet) AND person-name composer AND (cast OR director). Backfill Wikidata Q4263961 available as a resolution anchor."
+  },
+  {
     "slug": "estonian-national-opera",
     "name": "Estonian National Opera",
     "city": "Tallinn",
