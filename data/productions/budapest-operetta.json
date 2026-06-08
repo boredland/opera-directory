@@ -1,0 +1,366 @@
+[
+  {
+    "id": "budapest-operetta/budapest-operetta-a-ciganybaro",
+    "work_slug": "johann-strauss/a-ciganybaro",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2025-11-21",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/a-ciganybaro",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/cigb1200x800-9077f48b5b.png",
+    "creative_team": [
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "pfeiffer-gyula",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "berzsenyi-krisztina",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dreiszker-jozsef",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "turi-erzsebet",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sule-dalma",
+        "role_slug": "johann-strauss/a-ciganybaro/arsena-zsupan-lanya"
+      },
+      {
+        "person_slug": "papp-balazs",
+        "role_slug": "johann-strauss/a-ciganybaro/barinkay-sandor"
+      },
+      {
+        "person_slug": "kiss-zoltan",
+        "role_slug": "johann-strauss/a-ciganybaro/carnero-csaszari-biztos"
+      },
+      {
+        "person_slug": "ruszo-alexandra",
+        "role_slug": "johann-strauss/a-ciganybaro/czipra-ciganyasszony"
+      },
+      {
+        "person_slug": "gyorgy-rozsa-sandor",
+        "role_slug": "johann-strauss/a-ciganybaro/homonnay-peter-grof"
+      },
+      {
+        "person_slug": "kalocsai-zsuzsa",
+        "role_slug": "johann-strauss/a-ciganybaro/mirabella-nevelono-zsupannal"
+      },
+      {
+        "person_slug": "laki-peter",
+        "role_slug": "johann-strauss/a-ciganybaro/ottokar-a-fia"
+      },
+      {
+        "person_slug": "bordas-barbara",
+        "role_slug": "johann-strauss/a-ciganybaro/szaffi-ciganylany"
+      },
+      {
+        "person_slug": "hortobagyi-brigitta",
+        "role_slug": "johann-strauss/a-ciganybaro/szaffi-macskaja"
+      },
+      {
+        "person_slug": "pete-adam-david",
+        "role_slug": "johann-strauss/a-ciganybaro/zsupan-kalman-gazdag-serteskereskedo"
+      }
+    ]
+  },
+  {
+    "id": "budapest-operetta/budapest-operetta-a-notre-dame-i-toronyor",
+    "work_slug": "alan-menken/a-notre-dame-i-toronyor",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2025-10-10",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/a-notre-dame-i-toronyor",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/nevtelen-terv-6-944dc8cea9.png",
+    "creative_team": [
+      {
+        "person_slug": "simon-istvan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tassonyi-zsolt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fuzer-anni",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "homonnay-zsolt",
+        "function": "director"
+      },
+      {
+        "person_slug": "bodor-akos",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "turi-erzsebet",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fogl-noemi-e-h-szfe",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/a-demon-vizkopo"
+      },
+      {
+        "person_slug": "angler-balazs",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/a-kobold-vizkopo"
+      },
+      {
+        "person_slug": "petridisz-hrisztosz",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/az-oroszlan-vizkopo"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/claude-frollo"
+      },
+      {
+        "person_slug": "miklos-attila",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/clopin-trouillefou-a-ciganyok-kiralya"
+      },
+      {
+        "person_slug": "olah-tibor",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/dupin-atya"
+      },
+      {
+        "person_slug": "szeles-flora",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/esmeralda"
+      },
+      {
+        "person_slug": "szabo-dora",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/florika-ciganylany"
+      },
+      {
+        "person_slug": "boldizsar-tamas",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/frederic-charlus-hadnagy"
+      },
+      {
+        "person_slug": "aczel-gergo",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/hirnok"
+      },
+      {
+        "person_slug": "toth-norbert-e-h-szfe",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/jehan"
+      },
+      {
+        "person_slug": "fekete-kovacs-veronika",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/madame"
+      },
+      {
+        "person_slug": "kocsis-denes",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/phoebus-de-martin-kapitany"
+      },
+      {
+        "person_slug": "sandor-peter",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/quasimodo"
+      },
+      {
+        "person_slug": "illes-zoltan",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/szent-aphrodisius"
+      },
+      {
+        "person_slug": "kocsis-tamas",
+        "role_slug": "alan-menken/a-notre-dame-i-toronyor/xi-lajos-franciaorszag-kiralya"
+      }
+    ]
+  },
+  {
+    "id": "budapest-operetta/budapest-operetta-jekyll-es-hyde",
+    "work_slug": "frank-wildhorn/jekyll-es-hyde",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2022-04-01",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/jekyll-es-hyde",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/jekyll_repertoar.jpg",
+    "creative_team": [
+      {
+        "person_slug": "oberfrank-peter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fekete-katalin",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dreiszker-jozsef",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "cziegler-balazs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fekete-kovacs-veronika",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/emma-carew"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/jekyll-apja"
+      },
+      {
+        "person_slug": "homonnay-zsolt",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/jekyll-es-hyde"
+      },
+      {
+        "person_slug": "kiss-zoltan",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/john-utterson"
+      },
+      {
+        "person_slug": "sz-nagy-ildiko",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/lady-beaconsfield"
+      },
+      {
+        "person_slug": "magocs-otto",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/lord-basingstoke-puspok"
+      },
+      {
+        "person_slug": "dezsy-szabo-gabor",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/lord-glossop-tabornok"
+      },
+      {
+        "person_slug": "nemeth-attila",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/lord-savage"
+      },
+      {
+        "person_slug": "furedi-nikolett",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/lucy-harris"
+      },
+      {
+        "person_slug": "simenfalvy-agota",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/nellie"
+      },
+      {
+        "person_slug": "balogh-bodor-attila",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/poole-komornyik"
+      },
+      {
+        "person_slug": "szerenyi-laszlo",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/simon-stride"
+      },
+      {
+        "person_slug": "petridisz-hrisztosz",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/sir-archibald-proops"
+      },
+      {
+        "person_slug": "palfalvy-attila",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/sir-denvers-carew"
+      },
+      {
+        "person_slug": "miklos-attila",
+        "role_slug": "frank-wildhorn/jekyll-es-hyde/spider-pok"
+      }
+    ]
+  },
+  {
+    "id": "budapest-operetta/budapest-operetta-monte-cristo-grofja",
+    "work_slug": "szomor-gyorgy/monte-cristo-grofja",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2023-05-19",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/monte-cristo-grofja",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/nevtelen-terv-12-abf0065943.png",
+    "creative_team": [
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tassonyi-zsolt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fuzer-anni",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dreiszker-jozsef",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "turi-erzsebet",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "weber-tamas-bence",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/albert-mercedes-fia"
+      },
+      {
+        "person_slug": "altsach-gergely",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/bonifacio"
+      },
+      {
+        "person_slug": "miklos-attila",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/bortonor"
+      },
+      {
+        "person_slug": "dezsy-szabo-gabor",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/danglars"
+      },
+      {
+        "person_slug": "cseh-david-peter",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/dumas"
+      },
+      {
+        "person_slug": "szomor-gyorgy",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/edmond-dantes"
+      },
+      {
+        "person_slug": "palfalvy-attila",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/faria-abbe"
+      },
+      {
+        "person_slug": "balint-adam",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/fernand-kesobb-morcerf-grofja"
+      },
+      {
+        "person_slug": "fekete-kovacs-veronika",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/haydee"
+      },
+      {
+        "person_slug": "tassonyi-balazs-e-h-szfe",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/ifj-edmond-dantes"
+      },
+      {
+        "person_slug": "langer-soma",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/jacopo"
+      },
+      {
+        "person_slug": "gubik-petra",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/mercedes"
+      },
+      {
+        "person_slug": "olah-tibor",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/napoleon"
+      },
+      {
+        "person_slug": "peller-anna",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/pacalio"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "szomor-gyorgy/monte-cristo-grofja/villefort"
+      }
+    ]
+  }
+]

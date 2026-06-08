@@ -1,0 +1,1956 @@
+[
+  {
+    "id": "northern-ireland-opera/agrippina/2015-16",
+    "work_slug": "george-frideric-handel/agrippina",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2015/16",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/agrippina-2/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/agrippina_banner.jpg",
+    "creative_team": [
+      {
+        "person_slug": "jonathan-cohen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maire-flavin",
+        "role_slug": "george-frideric-handel/agrippina/agrippina"
+      },
+      {
+        "person_slug": "alan-ewing",
+        "role_slug": "george-frideric-handel/agrippina/claudio"
+      },
+      {
+        "person_slug": "padraic-rowan",
+        "role_slug": "george-frideric-handel/agrippina/lesbo"
+      },
+      {
+        "person_slug": "dawn-burns",
+        "role_slug": "george-frideric-handel/agrippina/narciso"
+      },
+      {
+        "person_slug": "rachel-kelly",
+        "role_slug": "george-frideric-handel/agrippina/nerone"
+      },
+      {
+        "person_slug": "sharon-carty",
+        "role_slug": "george-frideric-handel/agrippina/ottone"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "george-frideric-handel/agrippina/pallante"
+      },
+      {
+        "person_slug": "anna-devin",
+        "role_slug": "george-frideric-handel/agrippina/poppea"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/cosi-fan-tutte/2017-18",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2017/18",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/cosi-fan-tutte-2/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/Cosi-fan-tutte.jpeg",
+    "creative_team": [
+      {
+        "person_slug": "emma-woods",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "adele-thomas",
+        "function": "director"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hannah-clark",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aoife-miskelly",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "john-molloy",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "heather-lowe",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "sam-furness",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "kiandra-howarth",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "samuel-dale-johnson",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/don-giovanni/2016-17",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2016/17",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/don-giovanni/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/Rachel-Kelly-Donna-Elvira-Henk-Neven-Don-Giovanni-2-1-900x599-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sarah-fahie",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "d-m-wood",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "clive-bayley",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/commendatore"
+      },
+      {
+        "person_slug": "henk-neven",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "sam-furness",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "hye-youn-lee",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "rachel-kelly",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "john-molloy",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "christopher-cull",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "aoife-miskelly",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/l-elisir-d-amore/2013-14",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2013/14",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/lelisir-damore/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Northern_Ireland_Opera_LElisir_DAmore_2.jpg",
+    "creative_team": [
+      {
+        "person_slug": "david-brophy",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ilona-karas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "edwina-casey",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-patalong",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "james-mcoran-campbell",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "john-molloy",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/dulcamara"
+      },
+      {
+        "person_slug": "sarah-reddin",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/gianetta"
+      },
+      {
+        "person_slug": "anthony-flaum",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/la-voix-humaine/touring-2022-to-2025",
+    "work_slug": "francis-poulenc/la-voix-humaine",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "Touring 2022 to 2025",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/la-voix-humaine/",
+    "image_url": "https://niopera.com/app/uploads/2023/01/NIO-0480-resized-for-website.jpg",
+    "creative_team": [
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-quigley",
+        "role_slug": "francis-poulenc/la-voix-humaine/pianist"
+      },
+      {
+        "person_slug": "mary-mccabe",
+        "role_slug": "francis-poulenc/la-voix-humaine/soprano"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/macbeth/2013-14",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2013/14",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/macbeth/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/macbeth_banner.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anna-morrissey",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-donnelly",
+        "role_slug": "giuseppe-verdi/macbeth/apparition-3"
+      },
+      {
+        "person_slug": "christopher-cull",
+        "role_slug": "giuseppe-verdi/macbeth/assassin-apparition-1"
+      },
+      {
+        "person_slug": "john-molloy",
+        "role_slug": "giuseppe-verdi/macbeth/banquo"
+      },
+      {
+        "person_slug": "nathan-morrison",
+        "role_slug": "giuseppe-verdi/macbeth/doctor"
+      },
+      {
+        "person_slug": "roy-heayberd",
+        "role_slug": "giuseppe-verdi/macbeth/duncan"
+      },
+      {
+        "person_slug": "tom-deazley",
+        "role_slug": "giuseppe-verdi/macbeth/fleance-apparition-2"
+      },
+      {
+        "person_slug": "doreen-curran",
+        "role_slug": "giuseppe-verdi/macbeth/lady-in-waiting"
+      },
+      {
+        "person_slug": "miriam-murphy",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "rachel-nicholls",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "bruno-caproni",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "paul-carey-jones",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "andrew-rees",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "aaron-cawley",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/carmen/",
+    "image_url": "https://niopera.com/app/uploads/2025/12/NIOpera_Carmen_Website-Main-Image-1080x755-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-cosi-fan-tutte-school-for-lovers",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://niopera.com/performances/cosi-fan-tutte-school-for-lovers/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/imageee-min.jpeg",
+    "creative_team": [
+      {
+        "person_slug": "keith-mcalister",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kate-guelke",
+        "function": "director"
+      },
+      {
+        "person_slug": "walter-sutcliffe",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "guglielmo",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/cormac-lawlor"
+      },
+      {
+        "person_slug": "ferrando",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/david-lynn"
+      },
+      {
+        "person_slug": "dorabella",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/dawn-burns"
+      },
+      {
+        "person_slug": "fiordiligi",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/gemma-prince"
+      },
+      {
+        "person_slug": "don-alfonso",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/kevin-neville"
+      },
+      {
+        "person_slug": "despina",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/lauren-scully"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-die-fledermaus",
+    "work_slug": "johann-strauss-ii/die-fledermaus",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://niopera.com/performances/die-fledermaus/",
+    "image_url": "https://niopera.com/app/uploads/2019/09/Fledermaus-cast-small.png",
+    "creative_team": [
+      {
+        "person_slug": "jennifer-rooney",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gareth-hancock",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kate-guelke",
+        "function": "director"
+      },
+      {
+        "person_slug": "walter-sutcliffe",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-smith",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "andrea-kaempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maria-mcgrann",
+        "role_slug": "johann-strauss-ii/die-fledermaus/adele"
+      },
+      {
+        "person_slug": "john-porter",
+        "role_slug": "johann-strauss-ii/die-fledermaus/alfred"
+      },
+      {
+        "person_slug": "conor-breen",
+        "role_slug": "johann-strauss-ii/die-fledermaus/blind"
+      },
+      {
+        "person_slug": "ben-mcateer",
+        "role_slug": "johann-strauss-ii/die-fledermaus/eisenstein"
+      },
+      {
+        "person_slug": "stephan-loges",
+        "role_slug": "johann-strauss-ii/die-fledermaus/falke"
+      },
+      {
+        "person_slug": "mark-pancek",
+        "role_slug": "johann-strauss-ii/die-fledermaus/frank"
+      },
+      {
+        "person_slug": "may-mcfettridge",
+        "role_slug": "johann-strauss-ii/die-fledermaus/frosch"
+      },
+      {
+        "person_slug": "dawn-burns",
+        "role_slug": "johann-strauss-ii/die-fledermaus/ida"
+      },
+      {
+        "person_slug": "denis-lakey",
+        "role_slug": "johann-strauss-ii/die-fledermaus/orlofsky"
+      },
+      {
+        "person_slug": "alexandra-lubchansky",
+        "role_slug": "johann-strauss-ii/die-fledermaus/rosalinde"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-follies",
+    "work_slug": "stephen-sondheim/follies",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/follies/",
+    "image_url": "https://niopera.com/app/uploads/2024/12/NIOpera_Follies_Website-main-image-1080-x-755-px.jpg",
+    "creative_team": [
+      {
+        "person_slug": "jennifer-rooney",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "greg-arrowsmith",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      },
+      {
+        "person_slug": "greg-eldridge",
+        "function": "director"
+      },
+      {
+        "person_slug": "jake-wiltshire",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chris-kane",
+        "role_slug": "stephen-sondheim/follies/ben-1941"
+      },
+      {
+        "person_slug": "alasdair-harvey",
+        "role_slug": "stephen-sondheim/follies/benjamin-stone"
+      },
+      {
+        "person_slug": "reece-mcgowan",
+        "role_slug": "stephen-sondheim/follies/buddy-1941"
+      },
+      {
+        "person_slug": "mark-dugdale",
+        "role_slug": "stephen-sondheim/follies/buddy-plummer"
+      },
+      {
+        "person_slug": "jacqueline-dankworth-mbe",
+        "role_slug": "stephen-sondheim/follies/carlotta-campion"
+      },
+      {
+        "person_slug": "colette-lennon-dougal",
+        "role_slug": "stephen-sondheim/follies/dee-dee-west-ensemble-cover"
+      },
+      {
+        "person_slug": "marty-maguire",
+        "role_slug": "stephen-sondheim/follies/dimitri-weismann"
+      },
+      {
+        "person_slug": "christina-nelson",
+        "role_slug": "stephen-sondheim/follies/emily-whitman"
+      },
+      {
+        "person_slug": "ciaran-mccormack",
+        "role_slug": "stephen-sondheim/follies/ensemble"
+      },
+      {
+        "person_slug": "jed-hoyle",
+        "role_slug": "stephen-sondheim/follies/ensemble"
+      },
+      {
+        "person_slug": "mark-d-arcy",
+        "role_slug": "stephen-sondheim/follies/ensemble"
+      },
+      {
+        "person_slug": "nic-cain",
+        "role_slug": "stephen-sondheim/follies/ensemble-kevin"
+      },
+      {
+        "person_slug": "chloe-hopcroft",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-carlotta"
+      },
+      {
+        "person_slug": "anna-tennyson",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-emily"
+      },
+      {
+        "person_slug": "johanna-johnston",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-hattie"
+      },
+      {
+        "person_slug": "becky-anderson",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-solange"
+      },
+      {
+        "person_slug": "sophie-fleet",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-stella"
+      },
+      {
+        "person_slug": "fionan-o-carroll",
+        "role_slug": "stephen-sondheim/follies/ensemble-young-theodore"
+      },
+      {
+        "person_slug": "allison-harding",
+        "role_slug": "stephen-sondheim/follies/hattie-walker"
+      },
+      {
+        "person_slug": "lesley-garrett-cbe",
+        "role_slug": "stephen-sondheim/follies/heidi-schiller"
+      },
+      {
+        "person_slug": "petra-wells",
+        "role_slug": "stephen-sondheim/follies/heidi-schiller-1941"
+      },
+      {
+        "person_slug": "sean-o-neill",
+        "role_slug": "stephen-sondheim/follies/max-deems-ensemble"
+      },
+      {
+        "person_slug": "anna-violet",
+        "role_slug": "stephen-sondheim/follies/phyllis-1941"
+      },
+      {
+        "person_slug": "annette-mclaughlin",
+        "role_slug": "stephen-sondheim/follies/phyllis-rogers-stone"
+      },
+      {
+        "person_slug": "darren-franklin",
+        "role_slug": "stephen-sondheim/follies/roscoe"
+      },
+      {
+        "person_slug": "brigid-shine",
+        "role_slug": "stephen-sondheim/follies/sally-1941"
+      },
+      {
+        "person_slug": "anna-jane-casey",
+        "role_slug": "stephen-sondheim/follies/sally-durant-plummer"
+      },
+      {
+        "person_slug": "orla-mullan",
+        "role_slug": "stephen-sondheim/follies/sandra-crane-ensemble-cover"
+      },
+      {
+        "person_slug": "rachel-stanley",
+        "role_slug": "stephen-sondheim/follies/solange-la-fitte"
+      },
+      {
+        "person_slug": "pippa-winslow",
+        "role_slug": "stephen-sondheim/follies/stella-deems"
+      },
+      {
+        "person_slug": "maeve-byrne",
+        "role_slug": "stephen-sondheim/follies/stella-heidi-ensemble-cover"
+      },
+      {
+        "person_slug": "richard-croxford",
+        "role_slug": "stephen-sondheim/follies/theodore-whitman"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-hidden-extras",
+    "work_slug": "gioachino-antonio-rossini/hidden-extras",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://niopera.com/performances/hidden-extras/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/Smaller-image-for-website.jpg",
+    "creative_team": [
+      {
+        "person_slug": "keith-mcalister",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "caolan-keaveney",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hannah-shepherd",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dawn-burns",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/clarina"
+      },
+      {
+        "person_slug": "vladimir-mihai-sima",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/edoardo"
+      },
+      {
+        "person_slug": "jessica-hackett",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/fanny"
+      },
+      {
+        "person_slug": "john-molloy",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/norton"
+      },
+      {
+        "person_slug": "malachy-frame",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/slook"
+      },
+      {
+        "person_slug": "brian-mcalea",
+        "role_slug": "gioachino-antonio-rossini/hidden-extras/tobia-mill"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-kiss-me-kate",
+    "work_slug": "cole-porter/kiss-me-kate",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/kiss-me-kate/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/L-R-Norman-Bowman-Melle-Stewart-Jayne-Wisener-Jack-McCann.jpg",
+    "creative_team": [
+      {
+        "person_slug": "jennifer-rooney",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "walter-sutcliffe",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kevin-smith",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marty-maguire",
+        "role_slug": "cole-porter/kiss-me-kate/1st-man-ensemble"
+      },
+      {
+        "person_slug": "darren-franklin",
+        "role_slug": "cole-porter/kiss-me-kate/2nd-man-ensemble"
+      },
+      {
+        "person_slug": "jack-mccann",
+        "role_slug": "cole-porter/kiss-me-kate/bill-calhoun-lucentio"
+      },
+      {
+        "person_slug": "jolene-o-hara",
+        "role_slug": "cole-porter/kiss-me-kate/ensemble"
+      },
+      {
+        "person_slug": "maeve-byrne",
+        "role_slug": "cole-porter/kiss-me-kate/ensemble"
+      },
+      {
+        "person_slug": "norman-bowman",
+        "role_slug": "cole-porter/kiss-me-kate/fred-graham-petruchio"
+      },
+      {
+        "person_slug": "richard-croxford",
+        "role_slug": "cole-porter/kiss-me-kate/harrison-howell-ensemble"
+      },
+      {
+        "person_slug": "brigid-shine",
+        "role_slug": "cole-porter/kiss-me-kate/hattie-ensemble"
+      },
+      {
+        "person_slug": "raymond-walsh",
+        "role_slug": "cole-porter/kiss-me-kate/hortensio-ensemble"
+      },
+      {
+        "person_slug": "melle-stewart",
+        "role_slug": "cole-porter/kiss-me-kate/lilli-vanessi-katharine"
+      },
+      {
+        "person_slug": "jayne-wisener",
+        "role_slug": "cole-porter/kiss-me-kate/lois-lane-bianca-minola"
+      },
+      {
+        "person_slug": "matthew-cavan",
+        "role_slug": "cole-porter/kiss-me-kate/paul-ensemble"
+      },
+      {
+        "person_slug": "allison-harding",
+        "role_slug": "cole-porter/kiss-me-kate/ralph-ensemble"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/la-boheme/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/NIOpera_LaBoheme_FeatureBox.jpg",
+    "creative_team": [
+      {
+        "person_slug": "jennifer-rooney",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-lang",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "claire-morrissey",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "graeme-danby",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "graeme-danby",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "edmund-danon",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "yuriy-yurchuk",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "gemma-summerfield",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "emma-morwood",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "owen-lucas",
+        "role_slug": "giacomo-puccini/la-boheme/paripignol"
+      },
+      {
+        "person_slug": "noah-stewart",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "aaron-o-hare",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-la-dirindina",
+    "work_slug": "scarlatti/la-dirindina",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/la-dirindina/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/La-Dirindina-and-Liscione.jpg",
+    "creative_team": [
+      {
+        "person_slug": "keith-mcalister",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kate-guelke",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christopher-cull",
+        "role_slug": "scarlatti/la-dirindina/don-carissimo"
+      },
+      {
+        "person_slug": "francesco-giusti",
+        "role_slug": "scarlatti/la-dirindina/la-dirindina"
+      },
+      {
+        "person_slug": "rebecca-murphy",
+        "role_slug": "scarlatti/la-dirindina/liscione"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/la-traviata/",
+    "image_url": "https://niopera.com/app/uploads/2021/12/NIOpera_LaTraviata_MainImage.jpg",
+    "creative_team": [
+      {
+        "person_slug": "isabel-baquero",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "rebecca-lang",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "niall-mckeever",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "noah-stewart",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "ellen-mawhinney",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "ryan-garnham",
+        "role_slug": "giuseppe-verdi/la-traviata/commissario"
+      },
+      {
+        "person_slug": "doni-fierro",
+        "role_slug": "giuseppe-verdi/la-traviata/dance-captain"
+      },
+      {
+        "person_slug": "adam-ashford",
+        "role_slug": "giuseppe-verdi/la-traviata/dancer"
+      },
+      {
+        "person_slug": "anna-mccoy",
+        "role_slug": "giuseppe-verdi/la-traviata/dancer"
+      },
+      {
+        "person_slug": "clara-kerr",
+        "role_slug": "giuseppe-verdi/la-traviata/dancer"
+      },
+      {
+        "person_slug": "joia-raychoudhury",
+        "role_slug": "giuseppe-verdi/la-traviata/dancer"
+      },
+      {
+        "person_slug": "sean-o-neill",
+        "role_slug": "giuseppe-verdi/la-traviata/dancer"
+      },
+      {
+        "person_slug": "paul-mcquillan",
+        "role_slug": "giuseppe-verdi/la-traviata/domestico-di-flora"
+      },
+      {
+        "person_slug": "graeme-danby",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "margaret-bridge",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "owen-lucas",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone-de-letorieres"
+      },
+      {
+        "person_slug": "yuriy-yurchuk",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "gabriel-seawright",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe-servo-di-violetta"
+      },
+      {
+        "person_slug": "connor-campbell",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese"
+      },
+      {
+        "person_slug": "siobhan-stagg",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/rigoletto/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/NIO1813-brochure.jpg",
+    "creative_team": [
+      {
+        "person_slug": "tom-seligman",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gareth-hancock",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kate-guelke",
+        "function": "director"
+      },
+      {
+        "person_slug": "walter-sutcliffe",
+        "function": "director"
+      },
+      {
+        "person_slug": "wolfgang-goebbel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "kaspar-glarner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "davide-giusti",
+        "role_slug": "giuseppe-verdi/rigoletto/duke-of-mantua"
+      },
+      {
+        "person_slug": "nadine-koutcher",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "ann-jennings",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "fleur-barron",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "ben-mcateer",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "john-porter",
+        "role_slug": "giuseppe-verdi/rigoletto/matteo-borsa"
+      },
+      {
+        "person_slug": "rebekah-coffey",
+        "role_slug": "giuseppe-verdi/rigoletto/page"
+      },
+      {
+        "person_slug": "sebastian-catana",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "taras-berezhansky",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      },
+      {
+        "person_slug": "david-robertson",
+        "role_slug": "giuseppe-verdi/rigoletto/the-count-of-ceprano"
+      },
+      {
+        "person_slug": "simon-thorpe",
+        "role_slug": "giuseppe-verdi/rigoletto/the-count-of-monterone"
+      },
+      {
+        "person_slug": "maria-mcgrann",
+        "role_slug": "giuseppe-verdi/rigoletto/the-countess"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-the-chronic-identity-crisis-of-pamplemousse",
+    "work_slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-chronic-identity-crisis-of-pamplemousse/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Pamplemousse-mice-stalls-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sinead-hayes",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katie-davenport",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "caitriona-mclaughlin",
+        "function": "director"
+      },
+      {
+        "person_slug": "justine-doswell",
+        "function": "director"
+      },
+      {
+        "person_slug": "sebastian-pizarro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "deirdre-armstrong",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nathan-morrison",
+        "role_slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse/apricot"
+      },
+      {
+        "person_slug": "rebecca-murphy-jessica-hackett-ben-escorcio-david-corr-berus-komarschela",
+        "role_slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse/mice"
+      },
+      {
+        "person_slug": "john-porter",
+        "role_slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse/narrator"
+      },
+      {
+        "person_slug": "francesco-giusti",
+        "role_slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse/pamplemousse"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-the-enchantress",
+    "work_slug": "victor-herbert/the-enchantress",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-enchantress/",
+    "image_url": "https://niopera.com/app/uploads/2019/10/Enchantress-with-Studio-Logo-and-Princesses.png",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kate-guelke",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jakob-mahase",
+        "role_slug": "victor-herbert/the-enchantress/poff"
+      },
+      {
+        "person_slug": "vladimir-mihai-sima",
+        "role_slug": "victor-herbert/the-enchantress/prince-ivan"
+      },
+      {
+        "person_slug": "mary-mccabe",
+        "role_slug": "victor-herbert/the-enchantress/princess-hortensia"
+      },
+      {
+        "person_slug": "david-lee",
+        "role_slug": "victor-herbert/the-enchantress/princess-poppy"
+      },
+      {
+        "person_slug": "ana-maria-acunune",
+        "role_slug": "victor-herbert/the-enchantress/princess-stellina"
+      },
+      {
+        "person_slug": "david-corr",
+        "role_slug": "victor-herbert/the-enchantress/regent-milock"
+      },
+      {
+        "person_slug": "ben-escorcio",
+        "role_slug": "victor-herbert/the-enchantress/troute"
+      },
+      {
+        "person_slug": "zoe-jackson",
+        "role_slug": "victor-herbert/the-enchantress/vivien"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/northern-ireland-opera-tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "northern-ireland-opera",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/tosca/",
+    "image_url": "https://niopera.com/app/uploads/2023/02/NIOpera_Tosca_Website_FeatureImage-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "eduardo-strausser",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gillian-lennox",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      },
+      {
+        "person_slug": "ciaran-bagnall",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "niall-mckeever",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "paul-mcquillan",
+        "role_slug": "giacomo-puccini/tosca/a-jailer"
+      },
+      {
+        "person_slug": "matthew-durkan",
+        "role_slug": "giacomo-puccini/tosca/angelotti"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "svetlana-kasyan",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "peter-auty",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "niall-anderson",
+        "role_slug": "giacomo-puccini/tosca/sacristan"
+      },
+      {
+        "person_slug": "connor-campbell",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "mollie-lucas-alexa-thompson",
+        "role_slug": "giacomo-puccini/tosca/shepherd"
+      },
+      {
+        "person_slug": "aaron-o-hare",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/orpheus-in-the-underworld/2011-12",
+    "work_slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2011/12",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/orpheus-in-the-underworld/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Northern_Ireland_Opera_Orpheus_In_The_Underworld_10.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anna-morrissey",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "derek-clark",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "simon-holdsworth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gavan-ring",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/aristaeus"
+      },
+      {
+        "person_slug": "daire-halpin",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/diana"
+      },
+      {
+        "person_slug": "jane-harrington",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/eurydice"
+      },
+      {
+        "person_slug": "olivia-ray",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/juno"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/jupiter"
+      },
+      {
+        "person_slug": "ross-mcinroy",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mars-john-styx"
+      },
+      {
+        "person_slug": "christopher-diffey",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mercury"
+      },
+      {
+        "person_slug": "nicholas-sharratt",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/orpheus"
+      },
+      {
+        "person_slug": "maire-flavin",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/public-opinion"
+      },
+      {
+        "person_slug": "marie-claire-breen",
+        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/venus"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/powder-her-face/2016-17",
+    "work_slug": "thomas-ades/powder-her-face",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2016/17",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/powder-her-face/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/PowderHerFace.jpg",
+    "creative_team": [
+      {
+        "person_slug": "lucy-burge",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabiana-piccioli",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mary-plazas",
+        "role_slug": "thomas-ades/powder-her-face/duchess"
+      },
+      {
+        "person_slug": "adrian-dwyer",
+        "role_slug": "thomas-ades/powder-her-face/electrician"
+      },
+      {
+        "person_slug": "stephen-richardson",
+        "role_slug": "thomas-ades/powder-her-face/hotel-manager"
+      },
+      {
+        "person_slug": "daire-halpin",
+        "role_slug": "thomas-ades/powder-her-face/maid"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/radamisto/2016-17",
+    "work_slug": "georg-frideric-handel/radamisto",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2016/17",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/radamisto-2/",
+    "image_url": "https://niopera.com/app/uploads/2021/08/Radamisto-...-Compressed.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sue-mythen",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "david-brophy",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emily-foran",
+        "function": "director"
+      },
+      {
+        "person_slug": "wayne-jordan",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-patrick",
+        "role_slug": "georg-frideric-handel/radamisto/actor"
+      },
+      {
+        "person_slug": "adrian-powter",
+        "role_slug": "georg-frideric-handel/radamisto/farasmane"
+      },
+      {
+        "person_slug": "aoife-miskelly",
+        "role_slug": "georg-frideric-handel/radamisto/polissena"
+      },
+      {
+        "person_slug": "doreen-curran",
+        "role_slug": "georg-frideric-handel/radamisto/radamisto"
+      },
+      {
+        "person_slug": "kate-allen",
+        "role_slug": "georg-frideric-handel/radamisto/tigrane"
+      },
+      {
+        "person_slug": "richard-burkhard",
+        "role_slug": "georg-frideric-handel/radamisto/tiridate"
+      },
+      {
+        "person_slug": "sinead-campbell-wallace",
+        "role_slug": "georg-frideric-handel/radamisto/zenobia"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/salome/2014-15",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2014/15",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/salome/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/salome_banner.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anna-morrissey",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hayley-chilvers",
+        "role_slug": "richard-strauss/salome/dancer"
+      },
+      {
+        "person_slug": "cormac-lawlor",
+        "role_slug": "richard-strauss/salome/fifth-jew"
+      },
+      {
+        "person_slug": "paul-curievici",
+        "role_slug": "richard-strauss/salome/first-jew"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "richard-strauss/salome/first-nazarene"
+      },
+      {
+        "person_slug": "padraic-rowan",
+        "role_slug": "richard-strauss/salome/first-soldier"
+      },
+      {
+        "person_slug": "conor-breen",
+        "role_slug": "richard-strauss/salome/forth-jew"
+      },
+      {
+        "person_slug": "michael-colvin",
+        "role_slug": "richard-strauss/salome/herod"
+      },
+      {
+        "person_slug": "heather-shipp",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "robert-hayward",
+        "role_slug": "richard-strauss/salome/jokanaan"
+      },
+      {
+        "person_slug": "adrian-dwyer",
+        "role_slug": "richard-strauss/salome/narraboth-second-nazarene"
+      },
+      {
+        "person_slug": "giselle-allen",
+        "role_slug": "richard-strauss/salome/salome"
+      },
+      {
+        "person_slug": "nick-sales",
+        "role_slug": "richard-strauss/salome/second-jew"
+      },
+      {
+        "person_slug": "rory-musgrave",
+        "role_slug": "richard-strauss/salome/second-soldier-a-cappadocian"
+      },
+      {
+        "person_slug": "carolyn-dobbin",
+        "role_slug": "richard-strauss/salome/the-page"
+      },
+      {
+        "person_slug": "david-lynn",
+        "role_slug": "richard-strauss/salome/third-jew"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/songs-and-dances-of-death-kindertotenlieder/touring-2022-to-2023",
+    "work_slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "Touring 2022 to 2023",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/songs-and-dances-of-death-kindertotenlieder/",
+    "image_url": "https://niopera.com/app/uploads/2023/01/NIOpera_SongsAndDances_MainImage.jpg",
+    "creative_team": [
+      {
+        "person_slug": "cameron-menzies",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder/baritone"
+      },
+      {
+        "person_slug": "margaret-bridge",
+        "role_slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder/mezzo-soprano"
+      },
+      {
+        "person_slug": "tristan-russcher",
+        "role_slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder/pianist"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/the-flying-dutchman/2012-13",
+    "work_slug": "richard-wagner/the-flying-dutchman",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2012/13",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-flying-dutchman/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Northern_Ireland_Opera_The_Flying_Dutchman_14-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anna-morrissey",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "laura-stanfield",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hannah-clark",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "stephen-richardson",
+        "role_slug": "richard-wagner/the-flying-dutchman/daland"
+      },
+      {
+        "person_slug": "bruno-caproni",
+        "role_slug": "richard-wagner/the-flying-dutchman/dutchman"
+      },
+      {
+        "person_slug": "paul-mcnamara",
+        "role_slug": "richard-wagner/the-flying-dutchman/erik"
+      },
+      {
+        "person_slug": "doreen-curran",
+        "role_slug": "richard-wagner/the-flying-dutchman/mary"
+      },
+      {
+        "person_slug": "giselle-allen",
+        "role_slug": "richard-wagner/the-flying-dutchman/senta"
+      },
+      {
+        "person_slug": "adrian-dwyer",
+        "role_slug": "richard-wagner/the-flying-dutchman/steersman"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/the-importance-of-being-earnest/2013-14",
+    "work_slug": "gerald-barry/the-importance-of-being-earnest",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2013/14",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-importance-of-being-earnest/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Northern_Ireland_Opera_The_Importance_Of_Being_Earnest_15.jpg",
+    "creative_team": [
+      {
+        "person_slug": "lucy-burge",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "pierre-andre-valade",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "dm-wood",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joshua-bloom",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/algernon-moncrieff"
+      },
+      {
+        "person_slug": "aoife-miskelly",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/cecily-cardew"
+      },
+      {
+        "person_slug": "olwen-fouere",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/dr-chasuble"
+      },
+      {
+        "person_slug": "jessica-walker",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/hon-gwendolen-fairfax"
+      },
+      {
+        "person_slug": "peter-tantsits",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/john-worthing"
+      },
+      {
+        "person_slug": "stephen-richardson",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/lady-bracknell"
+      },
+      {
+        "person_slug": "christopher-cull",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/lane-merriman"
+      },
+      {
+        "person_slug": "hilary-summers",
+        "role_slug": "gerald-barry/the-importance-of-being-earnest/miss-prism"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/the-magic-flute/2014-15",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2014/15",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-magic-flute/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/Northern_Ireland_Opera_The_Magic_Flute_9.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anna-morrissey",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "edwina-casey",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "lighting-designer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "simon-holdsworth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "james-osborne",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/1st-boy"
+      },
+      {
+        "person_slug": "sinead-o-kelly",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/1st-lady"
+      },
+      {
+        "person_slug": "dylan-scullion",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/2nd-boy"
+      },
+      {
+        "person_slug": "sarah-richmond",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/2nd-lady"
+      },
+      {
+        "person_slug": "richard-shaffrey",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/2nd-priest"
+      },
+      {
+        "person_slug": "george-rohan",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/3rd-boy"
+      },
+      {
+        "person_slug": "laura-murphy",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/3rd-lady"
+      },
+      {
+        "person_slug": "john-graham-hall",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/monostatos"
+      },
+      {
+        "person_slug": "aoife-miskelly",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/pamina"
+      },
+      {
+        "person_slug": "lynsey-curtin",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/papagena"
+      },
+      {
+        "person_slug": "ben-mcateer",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/papageno"
+      },
+      {
+        "person_slug": "ruth-jenkins-robertsson",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/queen-of-the-night"
+      },
+      {
+        "person_slug": "stephen-richardson",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/sarastro"
+      },
+      {
+        "person_slug": "brendan-collins",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/speaker-1st-priest"
+      },
+      {
+        "person_slug": "anthony-gregory",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/tamino"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/the-threepenny-opera/2017-18",
+    "work_slug": "bertolt-brecht/the-threepenny-opera",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2017/18",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-threepenny-opera/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/1-Ensemble.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sinead-hayes",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "judith-wiemers",
+        "function": "director"
+      },
+      {
+        "person_slug": "walter-sutcliffe",
+        "function": "director"
+      },
+      {
+        "person_slug": "wolfgang-goebbel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dorota-karolczak",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jolene-o-hara",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/bob-the-saw-betty"
+      },
+      {
+        "person_slug": "matthew-cavan",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/celia-peachum"
+      },
+      {
+        "person_slug": "gerard-mccabe",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/charles-filch-walt-dreary-executioner"
+      },
+      {
+        "person_slug": "paul-garrett",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/crookfinger-jake"
+      },
+      {
+        "person_slug": "kerri-quinn",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/jenny-diver"
+      },
+      {
+        "person_slug": "steven-page",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/jonathan-peachum"
+      },
+      {
+        "person_slug": "brigid-shine",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/lucy-brown"
+      },
+      {
+        "person_slug": "mark-dugdale",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/macheath"
+      },
+      {
+        "person_slug": "jayne-wisener",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/polly-peachum"
+      },
+      {
+        "person_slug": "tommy-wallace",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/readymoney-matt-coaxer"
+      },
+      {
+        "person_slug": "orla-mullan",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/rev-kimball-dolly"
+      },
+      {
+        "person_slug": "maeve-smyth",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/sargent-smith"
+      },
+      {
+        "person_slug": "richard-croxford",
+        "role_slug": "bertolt-brecht/the-threepenny-opera/tiger-brown"
+      }
+    ]
+  },
+  {
+    "id": "northern-ireland-opera/the-turn-of-the-screw/2011-12",
+    "work_slug": "benjamin-britten/the-turn-of-the-screw",
+    "house_slug": "northern-ireland-opera",
+    "premiere_season": "2011/12",
+    "is_revival": false,
+    "detail_url": "https://niopera.com/performances/the-turn-of-the-screw/",
+    "image_url": "https://niopera.com/app/uploads/2021/07/turn_of_the_screw_02.jpg",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-chalmers",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "danielle-urbas",
+        "function": "director"
+      },
+      {
+        "person_slug": "oliver-mears",
+        "function": "director"
+      },
+      {
+        "person_slug": "kevin-treacy",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "annemarie-woods",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lucia-vernon-long",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/flora"
+      },
+      {
+        "person_slug": "garbhan-mcenoy",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/miles"
+      },
+      {
+        "person_slug": "joseph-zubier",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/miles"
+      },
+      {
+        "person_slug": "thomas-copeland",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/miles"
+      },
+      {
+        "person_slug": "giselle-allen",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/miss-jessel"
+      },
+      {
+        "person_slug": "yvonne-howard",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/mrs-grose"
+      },
+      {
+        "person_slug": "andrew-tortise",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/prologue-peter-quint"
+      },
+      {
+        "person_slug": "sam-furness",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/prologue-peter-quint"
+      },
+      {
+        "person_slug": "fiona-murphy",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/the-governess"
+      },
+      {
+        "person_slug": "katie-bird",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/the-governess"
+      }
+    ]
+  }
+]

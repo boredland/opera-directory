@@ -10,6 +10,7 @@ import { scrapeBayreutherFestspiele } from "./houses/bayreuther-festspiele";
 import { scrapeBolshoiTheatre } from "./houses/bolshoi-theatre";
 import { scrapeBostonLyricOpera } from "./houses/boston-lyric-opera";
 import { scrapeBregenzerFestspiele } from "./houses/bregenzer-festspiele";
+import { scrapeBudapestOperetta } from "./houses/budapest-operetta";
 import { scrapeBuehneBaden } from "./houses/buehne-baden";
 import { scrapeCanadianOperaCompany } from "./houses/canadian-opera-company";
 import { scrapeCincinnatiOpera } from "./houses/cincinnati-opera";
@@ -30,6 +31,7 @@ import { scrapeGranTeatreDelLiceu } from "./houses/gran-teatre-del-liceu";
 import { scrapeGrandTheatreDeGeneve } from "./houses/grand-theatre-de-geneve";
 import { scrapeHoustonGrandOpera } from "./houses/houston-grand-opera";
 import { scrapeHungarianStateOpera } from "./houses/hungarian-state-opera";
+import { scrapeIrishNationalOpera } from "./houses/irish-national-opera";
 import { scrapeKomischeOperBerlin } from "./houses/komische-oper-berlin";
 import { scrapeKonzertTheaterBern } from "./houses/konzert-theater-bern";
 import { scrapeLaMonnaieDeMunt } from "./houses/la-monnaie-de-munt";
@@ -55,8 +57,11 @@ import { scrapeMusiktheaterImRevier } from "./houses/musiktheater-im-revier";
 import { scrapeNashvilleOpera } from "./houses/nashville-opera";
 import { scrapeNationaltheaterMannheim } from "./houses/nationaltheater-mannheim";
 import { scrapeNationaltheaterWeimar } from "./houses/nationaltheater-weimar";
+import { scrapeNederlandseReisopera } from "./houses/nederlandse-reisopera";
 import { scrapeNewNationalTheatreTokyo } from "./houses/new-national-theatre-tokyo";
 import { scrapeNewOrleansOpera } from "./houses/new-orleans-opera";
+import { scrapeNorthernIrelandOpera } from "./houses/northern-ireland-opera";
+import { scrapeNouvelOperaFribourg } from "./houses/nouvel-opera-fribourg";
 import { scrapeOldenburgischesStaatstheater } from "./houses/oldenburgisches-staatstheater";
 import { scrapeOperChemnitz } from "./houses/oper-chemnitz";
 import { scrapeOperDortmund } from "./houses/oper-dortmund";
@@ -67,6 +72,8 @@ import { scrapeOperKoeln } from "./houses/oper-koeln";
 import { scrapeOperLeipzig } from "./houses/oper-leipzig";
 import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
 import { scrapeOperaAustralia } from "./houses/opera-australia";
+import { scrapeOperaCollectiveIreland } from "./houses/opera-collective-ireland";
+import { scrapeOperaDeLausanne } from "./houses/opera-de-lausanne";
 import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
 import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
@@ -208,8 +215,11 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "royal-swedish-opera": scrapeRoyalSwedishOpera,
   "finnish-national-opera": scrapeFinnishNationalOpera,
   "hungarian-state-opera": scrapeHungarianStateOpera,
+  "budapest-operetta": scrapeBudapestOperetta,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
+  "opera-de-lausanne": scrapeOperaDeLausanne,
+  "nouvel-opera-fribourg": scrapeNouvelOperaFribourg,
   "teatro-colon": scrapeTeatroColon,
   "opera-australia": scrapeOperaAustralia,
   "canadian-opera-company": scrapeCanadianOperaCompany,
@@ -240,6 +250,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "gran-teatre-del-liceu": scrapeGranTeatreDelLiceu,
   "la-monnaie-de-munt": scrapeLaMonnaieDeMunt,
   "dutch-national-opera": scrapeDutchNationalOpera,
+  "nederlandse-reisopera": scrapeNederlandseReisopera,
   "staatsoper-berlin": scrapeStaatsoperBerlin,
   "oper-koeln": scrapeOperKoeln,
   "semperoper-dresden": scrapeSemperoperDresden,
@@ -325,6 +336,9 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "santa-fe-opera": scrapeSantaFeOpera,
   "glimmerglass-festival": scrapeGlimmerglassFestival,
   "wexford-festival-opera": scrapeWexfordFestivalOpera,
+  "irish-national-opera": scrapeIrishNationalOpera,
+  "northern-ireland-opera": scrapeNorthernIrelandOpera,
+  "opera-collective-ireland": scrapeOperaCollectiveIreland,
   "macerata-opera-festival": scrapeMacerataOperaFestival,
   "maggio-musicale-fiorentino": scrapeMaggioMusicaleFiorentino,
   "savonlinna-opera-festival": scrapeSavonlinnaOperaFestival,

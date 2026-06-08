@@ -1,0 +1,537 @@
+[
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-agrippina",
+    "work_slug": "georg-friedrich-h-ndel/agrippina",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/agrippina/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Agrippina-scaled.png",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "magdalena-kozena",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/agrippina"
+      },
+      {
+        "person_slug": "nicolas-brooymans",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/claudio"
+      },
+      {
+        "person_slug": "paul-figuier",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/narciso"
+      },
+      {
+        "person_slug": "adele-charvet",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/nerone"
+      },
+      {
+        "person_slug": "christophe-dumaux",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/ottone"
+      },
+      {
+        "person_slug": "adrien-fournaison",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/pallante"
+      },
+      {
+        "person_slug": "julia-lezhneva",
+        "role_slug": "georg-friedrich-h-ndel/agrippina/poppea"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-don-giovanni-2",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/don-giovanni-2/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Don-giovanni-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "corinna-niemeyer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elena-beccaro",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-bernard",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-alba",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alberto-beltrame",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alessandro-luongo",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "trystan-llyr-griffiths",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "monika-buczkowska-ward",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "andrea-cueva-molnar",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "ossian-huskinson",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "mattia-venni",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "julien-segol",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/the-commander"
+      },
+      {
+        "person_slug": "desiree-giove",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-giuditta",
+    "work_slug": "franz-lehar/giuditta",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/giuditta/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Giuditta-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "thomas-rosner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bertrand-killy",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sandrine-buendia",
+        "role_slug": "franz-lehar/giuditta/anita"
+      },
+      {
+        "person_slug": "camille-schnoor",
+        "role_slug": "franz-lehar/giuditta/giuditta"
+      },
+      {
+        "person_slug": "jacques-verzier",
+        "role_slug": "franz-lehar/giuditta/jean-cevenol"
+      },
+      {
+        "person_slug": "rodolphe-briand",
+        "role_slug": "franz-lehar/giuditta/l-hotelier-le-maitre-d-hotel"
+      },
+      {
+        "person_slug": "pierre-lebon",
+        "role_slug": "franz-lehar/giuditta/le-garcon-de-restaurant-un-chanteur-de-rue-un-sous-officier-un-pecheur"
+      },
+      {
+        "person_slug": "nicolas-rivenq",
+        "role_slug": "franz-lehar/giuditta/manuel-lord-barrymore-son-altesse"
+      },
+      {
+        "person_slug": "christophe-gay",
+        "role_slug": "franz-lehar/giuditta/marcelin-l-attache-ibrahim-un-chanteur-de-rue"
+      },
+      {
+        "person_slug": "julien-henric",
+        "role_slug": "franz-lehar/giuditta/octavio"
+      },
+      {
+        "person_slug": "jean-miannay",
+        "role_slug": "franz-lehar/giuditta/seraphin"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-mireille",
+    "work_slug": "charles-gounod/mireille",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/mireille/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Mireille-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "jean-marie-zeitouni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabrielle-dalton",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bruno-ravella",
+        "function": "director"
+      },
+      {
+        "person_slug": "francois-thouret",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "barbara-de-limburg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nathanael-tavernier",
+        "role_slug": "charles-gounod/mireille/ambroise"
+      },
+      {
+        "person_slug": "maxence-billiemaz",
+        "role_slug": "charles-gounod/mireille/andreloun"
+      },
+      {
+        "person_slug": "jo-meredith",
+        "role_slug": "charles-gounod/mireille/choregraphy"
+      },
+      {
+        "person_slug": "emma-delannoy",
+        "role_slug": "charles-gounod/mireille/clemence"
+      },
+      {
+        "person_slug": "vannina-santoni",
+        "role_slug": "charles-gounod/mireille/mireille"
+      },
+      {
+        "person_slug": "jean-kristof-bouton",
+        "role_slug": "charles-gounod/mireille/ourrias"
+      },
+      {
+        "person_slug": "matthieu-lecroart",
+        "role_slug": "charles-gounod/mireille/ramon"
+      },
+      {
+        "person_slug": "geraldine-chauvet",
+        "role_slug": "charles-gounod/mireille/taven"
+      },
+      {
+        "person_slug": "andrea-cueva-molnar",
+        "role_slug": "charles-gounod/mireille/vincenette"
+      },
+      {
+        "person_slug": "thomas-bettinger",
+        "role_slug": "charles-gounod/mireille/vincent"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-pelleas-and-melisande",
+    "work_slug": "claude-debussy/pelleas-and-melisande",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/pelleas-and-melisande/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Pelleas-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "laurent-campellone",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emmanuelle-bastet",
+        "function": "director"
+      },
+      {
+        "person_slug": "francois-thouret",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-bolleire",
+        "role_slug": "claude-debussy/pelleas-and-melisande/arkel"
+      },
+      {
+        "person_slug": "marie-laure-garnier",
+        "role_slug": "claude-debussy/pelleas-and-melisande/genevieve"
+      },
+      {
+        "person_slug": "damien-pass",
+        "role_slug": "claude-debussy/pelleas-and-melisande/golaud"
+      },
+      {
+        "person_slug": "tamara-bounazou",
+        "role_slug": "claude-debussy/pelleas-and-melisande/melisande"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "claude-debussy/pelleas-and-melisande/pelleas"
+      },
+      {
+        "person_slug": "olivier-gourdy",
+        "role_slug": "claude-debussy/pelleas-and-melisande/the-doctor"
+      },
+      {
+        "person_slug": "brenda-poupard",
+        "role_slug": "claude-debussy/pelleas-and-melisande/yniold"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/rigoletto/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2025/03/Rigoletto-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "maxime-thomas",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "giulio-cilona",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thibault-vancraenenbroeck",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "richard-brunel",
+        "function": "director"
+      },
+      {
+        "person_slug": "catherine-ailloud-nicolas",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "laurent-castaingt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "etienne-pluss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "matthieu-justine",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "sulkhan-jaiani",
+        "role_slug": "giuseppe-verdi/rigoletto/comte-monterone"
+      },
+      {
+        "person_slug": "marie-lys",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "anouk-molendijk",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "solene-nancy",
+        "role_slug": "giuseppe-verdi/rigoletto/la-comtesse-ceprano"
+      },
+      {
+        "person_slug": "kyu-choi",
+        "role_slug": "giuseppe-verdi/rigoletto/le-comte-ceprano"
+      },
+      {
+        "person_slug": "davide-tuscano",
+        "role_slug": "giuseppe-verdi/rigoletto/le-duc-de-mantoue"
+      },
+      {
+        "person_slug": "lea-sirera",
+        "role_slug": "giuseppe-verdi/rigoletto/le-page"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "vincent-casagrande",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "lionel-lhote",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "vartan-gabrielian",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-the-capulets-and-the-montagues",
+    "work_slug": "vincenzo-bellini/the-capulets-and-the-montagues",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/the-capulets-and-the-montagues/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Capulet-Montaigu-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "diego-ceretta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "joe-hill-gibbins",
+        "function": "director"
+      },
+      {
+        "person_slug": "james-farncombe",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marie-lys",
+        "role_slug": "vincenzo-bellini/the-capulets-and-the-montagues/giulietta"
+      },
+      {
+        "person_slug": "manuel-fuentes",
+        "role_slug": "vincenzo-bellini/the-capulets-and-the-montagues/lorenzo"
+      },
+      {
+        "person_slug": "marina-viotti",
+        "role_slug": "vincenzo-bellini/the-capulets-and-the-montagues/romeo"
+      },
+      {
+        "person_slug": "julien-dran",
+        "role_slug": "vincenzo-bellini/the-capulets-and-the-montagues/tebaldo"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-the-enchanted-pig",
+    "work_slug": "jonathan-dove/the-enchanted-pig",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/the-enchanted-pig/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Cochon-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "anthony-fournier",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "severine-besson",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-mompart",
+        "function": "director"
+      },
+      {
+        "person_slug": "luc-gendroz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "cristian-taraborrelli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lisa-tourniaire",
+        "role_slug": "jonathan-dove/the-enchanted-pig/dot-the-day"
+      },
+      {
+        "person_slug": "julia-deit-ferrand",
+        "role_slug": "jonathan-dove/the-enchanted-pig/flora"
+      },
+      {
+        "person_slug": "vincent-casagrande",
+        "role_slug": "jonathan-dove/the-enchanted-pig/king-hildebrand-mr-north-wind"
+      },
+      {
+        "person_slug": "emma-delannoy",
+        "role_slug": "jonathan-dove/the-enchanted-pig/mab-adelaide"
+      },
+      {
+        "person_slug": "carine-sechaye",
+        "role_slug": "jonathan-dove/the-enchanted-pig/the-book-of-destiny-the-old-woman-mrs-north-wind"
+      },
+      {
+        "person_slug": "maxence-billiemaz",
+        "role_slug": "jonathan-dove/the-enchanted-pig/the-king-of-the-east-moon"
+      },
+      {
+        "person_slug": "ambroise-divaret",
+        "role_slug": "jonathan-dove/the-enchanted-pig/the-king-of-the-west-sun"
+      },
+      {
+        "person_slug": "joshua-morris",
+        "role_slug": "jonathan-dove/the-enchanted-pig/the-pig"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-lausanne/opera-de-lausanne-the-turn-of-the-screw",
+    "work_slug": "benjamin-britten/the-turn-of-the-screw",
+    "house_slug": "opera-de-lausanne",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lausanne.ch/en/show/the-turn-of-the-screw/",
+    "image_url": "https://www.opera-lausanne.ch/app/uploads/2026/04/Tour-ecrou-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alexander-briger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nathalie-pallandre",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "richard-brunel",
+        "function": "director"
+      },
+      {
+        "person_slug": "catherine-ailloud-nicolas",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "laurent-castaingt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lisetta-buccellato",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rhydian-jenkins",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/anonymous-narrator"
+      },
+      {
+        "person_slug": "michele-breant",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/flora"
+      },
+      {
+        "person_slug": "elizabeth-karani",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/miss-jessel"
+      },
+      {
+        "person_slug": "polly-leech",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/mrs-grose"
+      },
+      {
+        "person_slug": "anthony-gregory",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/peter-quint"
+      },
+      {
+        "person_slug": "keri-fuge",
+        "role_slug": "benjamin-britten/the-turn-of-the-screw/the-governess"
+      }
+    ]
+  }
+]

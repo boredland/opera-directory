@@ -1818,5 +1818,75 @@
     "enabled": true,
     "festival": true,
     "notes": "FESTIVAL — summer (~Jun–Jul) closing Theater St. Gallen's season; one Festspieloper shown alternately open-air on the Klosterhof (in front of the cathedral) or in the Grosses Haus, framed by a play + a dance piece + a concert series (all dropped). stgaller-festspiele.ch 301s into the house CMS konzertundtheater.ch/programm/stgaller-festspiele (advertises only the current edition → live = one opera). Each item links a /programm/a-z/{slug}/ detail page; **gate on the productionhead__maininfos genre line ('Oper von …' → opera; 'Schauspiel'/'Tanzstück' → dropped — composerFromText alone is NOT enough, it pulls a name out of 'Schauspiel von …' too, so an explicit isOpera() regex is required).** Performances from the cast-accordion `<option>DD.MM.YYYY HH:MM</option>` rows; credits productioncastandcrew__item 'Label: Name' split by Leitung/Besetzung headers (inclusive 'Tänzer:innen' labels contain an inner colon → split on ': '); venue read from the page (alternates Klosterhof/Grosses Haus yearly). Backfill Wikidata Q1351965 (no P4647/P272 yet → 0). 1 live (Aida 2026)."
+  },
+  {
+    "slug": "irish-national-opera",
+    "name": "Irish National Opera",
+    "city": "Dublin",
+    "country": "IE",
+    "website": "https://www.irishnationalopera.ie",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Ireland's national company (founded 2018, Dublin) — TOURS nationally, no single resident house, so performance rows carry their own '{City} {Venue}'. NOT a festival → live = announced future, backfill walks the company's own archive. Craft CMS, English, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Hub /whats-on/current-upcoming links detail pages /whats-on/current-upcoming/{slug}; the bounded /whats-on/past-productions page (no pagination, ~52 entries) lists the full history under the SAME path — collected only in backfill mode. Detail: `<h1>` title; **composer = first `<h2 class=…fw-normal…>` after it (English byline — co-credits like 'Tarik O'Regan & Colm Tóibín' split on &/and/slash, composer first), fallback to the first list-meta `<li>`**. Opera filter: person-name composer h2 present AND title not gala/concert/screening/talk/celebration (NON_OPERA_TITLE) → drops galas/concerts/outdoor-screenings/talks/outreach, keeps staged operas incl. contemporary commissions. Cast/Creative in two `<table class=table>`s under `<h3 class=section-heading>Cast|Creative Team</h3>` (two `<td>`s/row; ensemble Orchestra/Chorus rows + 'TBC' dropped); English labels mapped in-adapter ('Set & Costume Designer'→set-designer, 'Choreographer / Movement Director'→choreographer, 'Revival Director'→director ⇒ is_revival). Performances from every `<table class=table-schedule>`: `<span class=date>Mon 2 November</span>` + `<span class=time>7.30pm</span>` + td-details venue; **rows print NO year → resolved from the page's 'Month YYYY' tokens (list-meta chip + date-range headings), per month**. Sung language from the 'sung in {X}' surtitle line. **No Wikidata entity (too new) → no SPARQL backfill; the company archive IS the history.**"
+  },
+  {
+    "slug": "northern-ireland-opera",
+    "name": "Northern Ireland Opera",
+    "city": "Belfast",
+    "country": "GB",
+    "website": "https://niopera.com",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "NI's national company (Belfast, founded 2010) — a few mainstage operas a year amid a heavy recital/cabaret/concert/Christmas programme (all dropped). country=GB (Northern Ireland) but an Opera Europa member cross-listed under Ireland (issue #10). WordPress/Bedrock, English, plain fetch (200 to crawler UA, no proxy), only Yoast WebPage/Organization JSON-LD. Homepage links upcoming /performances/{slug}/; the bounded /past-productions/ page lists the full history under the same path (backfill only). Detail header: `<h1 class=date>` = explicit dates ('12, 15, 17, 19 September 2026' / '12–19 …') for the future OR a season label ('2016/17 SEASON') for archive items, `<h2 class=title>` = work, `<p class=excerpt>` = composer (English byline, co-credits split on &/and/slash). Cast+Creative share one `<div class=credits-section--the-team>`: an `<h4>Cast|Creative Team</h4>` sub-header then `<h5 class=title>{role|label}</h5><h6 class=name>{name}</h6>` pairs (the h4 boundary decides cast-role vs mapped credit). **Opera gate = person-name composer AND (a Cast list OR a Director credit)** — drops recitals/cabarets/concerts/Christmas/in-conversation (no cast, no Director). **Archive prints only a SEASON (no dates) → those productions emit `premiere_season` + empty performances** (same shape as Wikidata backfill; still feeds the work/cast/creative graph). Day list parsed from the numbers before the month; single show time ('7.30pm') + venue (known-NI-venues regex) applied to all dates. Sung language from 'sung in {X}'. No Wikidata QID used (site archive is the source)."
+  },
+  {
+    "slug": "opera-collective-ireland",
+    "name": "Opera Collective Ireland",
+    "city": "Carlingford",
+    "country": "IE",
+    "website": "https://operacollectiveireland.com",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Irish baroque/chamber-opera company (ex-Irish Youth Opera), touring emerging artists (Pavilion Dún Laoghaire, Kilkenny Arts Festival, Smock Alley). **NB the Opera Europa member link operacollective.ie does NOT resolve — the live site is operacollectiveireland.com.** WordPress (Uncode/WPBakery), English, Cloudflare but 200 to crawler UA (no proxy). Productions are a `production` CPT → discovery via WP REST /wp-json/wp/v2/production?per_page=100&_fields=slug,title (whole catalogue ~14, fetched in full both modes). Detail pages are WPBakery HTML, no schema.org Event, EMPTY acf → title from REST; **composer = first person-name text node after `<h1>` (before the date-range span; double bills 'Purcell | Blow' keep first)**; dates in the 'Dates & Venues' block, two layouts (full weekday dates 'Friday 25 September 2026' OR a day-list per venue '4, 5, 7 August – Watergate Theatre') both caught by one '{days} {month}[ YYYY]' scan, year from trailing YYYY else a month→year map built from the date-range heading; venue = nearest venue-keyword `<strong>`/`<a>` by position. **No structured cast/creative (singer names only in press-quote prose) → productions emit composer + performances, no credits.** Opera gate: person-name composer + ≥1 date (drops the Christmas 'celebration in word & song' concert). No Wikidata QID."
+  },
+  {
+    "slug": "budapest-operetta",
+    "name": "Budapest Operetta Theatre",
+    "city": "Budapest",
+    "country": "HU",
+    "website": "https://operett.hu",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Hungary's flagship operetta + musical-theatre house (Budapesti Operettszínház); repertory, sung in Hungarian. Custom CMS, HU, plain fetch (200 to crawler UA, no proxy), no schema.org Event. Productions at /repertoar/{slug}; **each dated performance is its own page /repertoar/{slug}-eid{N} carrying full metadata + that night's date — the base page's date calendar is JS-rendered (empty in HTML), so the whole scrape runs off the -eid pages**. Discovery: /musor lists every upcoming -eid link; group by base slug (strip -eid{N}) → productions (announced future = live leg, no deep archive). Per -eid page: `<h1 class=…anim…>` title, `<h2 class=…anim…>` composer, the night's date as HU text ('2026. június 09. kedd, 19:00'), premiere 'Bemutató: 2025. nov. 21.'. Cast/creative are `<a href=…/tarsulat/…>Name<span>role/label</span></a>` pairs split by heading: between `Szereposztás` (cast) and `Alkotók` (creators) = cast roles; after `Alkotók` = crew mapped from HU labels (Rendező→director, Karmester/Zenei vezető→conductor, Koreográfus→choreographer, Díszlet/Jelmez/Világítás…), unmapped crew dropped. Opera/operetta gate: person-name composer + a cast list + title not gala/cirkusz/koncert → drops variety galas/circus crossovers, keeps staged operettas + book musicals (Monte Cristo, Jekyll & Hyde, Notre Dame). language=hu. No Wikidata QID."
+  },
+  {
+    "slug": "opera-de-lausanne",
+    "name": "Opéra de Lausanne",
+    "city": "Lausanne",
+    "country": "CH",
+    "website": "https://www.opera-lausanne.ch",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Vaud/Lausanne opera house. WordPress/Bedrock, bilingual — adapter reads the English mirror /en/ for English credit labels. Plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. **/en/archives/ lists only the current + next season (/season/{YYYY-YY}/) — no deep archive.** Each season page links productions at /show/{slug}/ amid many ancillary pages (pre-opera talks/cinema/public visits) → skipped by ANCILLARY_SLUG suffix + the composer/date gate. Show page: `<h1>` title, `.show-hero__composer` composer ('Giuseppe Verdi (1813-1901)' → years stripped). Credits in TWO `.casting-list` blocks of alternating `.casting__role`/`.casting__name`: **first block = creative team (English function labels mapped, unmapped crew dropped), second block = cast (character + singer)**. Dates: month from `.show-hero__dates` + day numbers from `.date__bubble`; **year derived from the season (Sep–Dec → first year, Jan–Aug → second)**. Times not published per-night (left null); single venue (the house). No Wikidata QID used."
+  },
+  {
+    "slug": "nouvel-opera-fribourg",
+    "name": "NOF – Nouvel Opéra Fribourg",
+    "city": "Fribourg",
+    "country": "CH",
+    "website": "https://nof.ch",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Fribourg new/chamber-opera company (often at Equilibre, Fribourg) amid experimental music-theatre, festivals and labs (dropped). French, custom CMS, plain fetch (200 to crawler UA, no proxy), no schema.org Event. Detail pages /fr/productions/{season}/{slug}; home links the current season, /fr/productions/archives lists the back-catalogue (2019–20 onward) → walked in backfill. `<h1>` title. **NO structured composer — named only in synopsis prose ('l'opéra d'Antonín Dvořák …', NB U+2019 apostrophe), lifted from the 'opéra de/d' {Name}' phrase (null when absent).** Credits in a `<table>` of `<td>label</td><td>names</td>`: French function labels (substring-matched since combined, e.g. 'Scénographie, Costumes, Vidéo') → creative team (Direction musicale→conductor, Mise en scène→director, Scénographie→set, Costumes→costume, Lumières→lighting, Chorégraphie→choreographer, Chœur→chorus-master); misc crew (CREW_LABEL: assistant/vidéo/surtitres/régie/traduction/création…) dropped; every other row = cast role (each `<br>`-separated performer, alternating-cast date annotations stripped). Performances from `<span>DD.MM.YY — HH:MM<br>{Venue}</span>` (2-digit year → 20YY). **Opera gate: a Mise en scène (director) credit + a cast** → drops labs/brunches/festivals/competitions. No Wikidata QID."
+  },
+  {
+    "slug": "nederlandse-reisopera",
+    "name": "Nederlandse Reisopera",
+    "city": "Enschede",
+    "country": "NL",
+    "website": "https://reisopera.nl",
+    "strategy": "render",
+    "enabled": true,
+    "notes": "Dutch national TOURING opera company (Enschede) — each production plays a circuit of theatres, so performance rows carry their own '{Venue} {City}'. Next.js site, Dutch. **Discovery is static (/programma-index → /programma/{slug}) but the per-night tour schedule is client-rendered → detail pages read via fetchRendered (RENDER strategy; uses the fetch-proxy stealth render in CI, local Chromium in dev).** Each /programma/{slug}?tab=tour rendered page has it all: `<h1>` title; `<dt>Componist</dt><dd>` composer; `Artistiek team` + `Cast` `<h3>`s each followed by a `<p>` of `<strong>label</strong> name<br>` runs (Dutch labels mapped: Muzikale leiding→conductor, Regie→director, Choreografie→choreographer, Decorontwerp→set, Kostuumontwerp→costume, Lichtontwerp→lighting, Koordirigent→chorus-master; ensembles Koor/Dansers/Begeleiding dropped from cast); tour rows as '{day} {EnglishMonth} opera {start}-{end} {Venue} {City} Tickets' (**English month names in the tour widget; year taken from the Dutch full date 'DD maand YYYY' on the page**). Opera gate: composer + a Regie (director) + a cast → drops sing-alongs/talks/education. No Wikidata QID."
   }
 ]

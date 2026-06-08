@@ -1,0 +1,132 @@
+[
+  {
+    "id": "nederlandse-reisopera/nederlandse-reisopera-assepoester",
+    "work_slug": "gioacchino-rossini/assepoester",
+    "house_slug": "nederlandse-reisopera",
+    "is_revival": false,
+    "detail_url": "https://reisopera.nl/programma/assepoester",
+    "creative_team": [
+      {
+        "person_slug": "pedro-beriso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lysanne-van-overbeek",
+        "function": "director"
+      },
+      {
+        "person_slug": "joshua-harriette",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "roberto-lorenzi",
+        "role_slug": "gioacchino-rossini/assepoester/alidoro"
+      },
+      {
+        "person_slug": "leontine-maridat-zimmerlin",
+        "role_slug": "gioacchino-rossini/assepoester/angelina"
+      },
+      {
+        "person_slug": "elenora-hu",
+        "role_slug": "gioacchino-rossini/assepoester/clorinda"
+      },
+      {
+        "person_slug": "oleh-lebedyev",
+        "role_slug": "gioacchino-rossini/assepoester/dandini"
+      },
+      {
+        "person_slug": "ben-mcateer",
+        "role_slug": "gioacchino-rossini/assepoester/don-magnifico"
+      },
+      {
+        "person_slug": "linard-vrielink",
+        "role_slug": "gioacchino-rossini/assepoester/don-ramiro"
+      },
+      {
+        "person_slug": "linsey-coppens",
+        "role_slug": "gioacchino-rossini/assepoester/tisbe"
+      }
+    ]
+  },
+  {
+    "id": "nederlandse-reisopera/nederlandse-reisopera-waiting-for-the-barbarians",
+    "work_slug": "philip-glass/waiting-for-the-barbarians",
+    "house_slug": "nederlandse-reisopera",
+    "is_revival": false,
+    "detail_url": "https://reisopera.nl/programma/waiting-for-the-barbarians",
+    "creative_team": [
+      {
+        "person_slug": "roni-haver",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alice-farnham",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elke-von-sivers",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "guy-weizman",
+        "function": "director"
+      },
+      {
+        "person_slug": "maarten-van-rossem",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ascon-de-nijs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lilian-farahani",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/barbarian-girl"
+      },
+      {
+        "person_slug": "charlotte-hellekant",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/colonel-joll"
+      },
+      {
+        "person_slug": "tinka-pypker",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/cook"
+      },
+      {
+        "person_slug": "roman-bordon",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/guards-soldiers"
+      },
+      {
+        "person_slug": "sander-de-jong",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/guards-soldiers"
+      },
+      {
+        "person_slug": "wessel-wirken",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/guards-soldiers"
+      },
+      {
+        "person_slug": "dan-d-souza",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/magistrate"
+      },
+      {
+        "person_slug": "fabian-homburg",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/old-man"
+      },
+      {
+        "person_slug": "taylor-burgess",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/star"
+      },
+      {
+        "person_slug": "aimee-kearney",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/town-girl"
+      },
+      {
+        "person_slug": "joe-chalmers",
+        "role_slug": "philip-glass/waiting-for-the-barbarians/warrant-officer-mandel"
+      }
+    ]
+  }
+]

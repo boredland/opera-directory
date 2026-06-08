@@ -230,6 +230,11 @@
     "composer_slug": "ailis-ni-riain"
   },
   {
+    "slug": "alan-menken/a-notre-dame-i-toronyor",
+    "title": "A Notre Dame-i toronyőr",
+    "composer_slug": "alan-menken"
+  },
+  {
     "slug": "alban-berg/lulu",
     "title": "Lulu",
     "composer_slug": "alban-berg"
@@ -383,6 +388,21 @@
     "slug": "antonin-dvorak/rusalka",
     "title": "Rusalka",
     "composer_slug": "antonin-dvorak"
+  },
+  {
+    "slug": "antonio",
+    "title": "Antonio",
+    "composer_slug": ""
+  },
+  {
+    "slug": "antonio-vivaldi/bajazet",
+    "title": "Bajazet",
+    "composer_slug": "antonio-vivaldi"
+  },
+  {
+    "slug": "antonio-vivaldi/l-olimpiade",
+    "title": "L’Olimpiade",
+    "composer_slug": "antonio-vivaldi"
   },
   {
     "slug": "argo",
@@ -565,6 +585,11 @@
     "composer_slug": "bela-bartok"
   },
   {
+    "slug": "bellini/norma",
+    "title": "Norma",
+    "composer_slug": "bellini"
+  },
+  {
     "slug": "ben-moore/robin-hood",
     "title": "Robin Hood",
     "composer_slug": "ben-moore"
@@ -580,8 +605,18 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "benjamin-britten/owen-wingrave",
+    "title": "Owen Wingrave",
+    "composer_slug": "benjamin-britten"
+  },
+  {
     "slug": "benjamin-britten/peter-grimes",
     "title": "Peter Grimes",
+    "composer_slug": "benjamin-britten"
+  },
+  {
+    "slug": "benjamin-britten/the-rape-of-lucretia",
+    "title": "The Rape of Lucretia",
     "composer_slug": "benjamin-britten"
   },
   {
@@ -610,9 +645,19 @@
     "composer_slug": "bertolt-brecht-text-und-kurt-weill-mus"
   },
   {
+    "slug": "bertolt-brecht/the-threepenny-opera",
+    "title": "The Threepenny Opera",
+    "composer_slug": "bertolt-brecht"
+  },
+  {
     "slug": "between-songs-and-shadows",
     "title": "Between Songs and Shadows",
     "composer_slug": ""
+  },
+  {
+    "slug": "bizet/carmen",
+    "title": "Carmen",
+    "composer_slug": "bizet"
   },
   {
     "slug": "bjorks-homogenic-von-liesa-van-der-aa/hunter",
@@ -658,6 +703,11 @@
     "slug": "brett-dean/of-one-blood",
     "title": "Of One Blood",
     "composer_slug": "brett-dean"
+  },
+  {
+    "slug": "brian-irvine/the-scorched-earth-trilogy",
+    "title": "The Scorched Earth Trilogy",
+    "composer_slug": "brian-irvine"
   },
   {
     "slug": "britten/billy-budd",
@@ -772,6 +822,11 @@
   {
     "slug": "charles-gounod/faust",
     "title": "Faust",
+    "composer_slug": "charles-gounod"
+  },
+  {
+    "slug": "charles-gounod/mireille",
+    "title": "MIREILLE",
     "composer_slug": "charles-gounod"
   },
   {
@@ -890,8 +945,18 @@
     "composer_slug": "claude-debussy"
   },
   {
+    "slug": "claude-debussy/pelleas-and-melisande",
+    "title": "PELLÉAS AND MÉLISANDE",
+    "composer_slug": "claude-debussy"
+  },
+  {
     "slug": "claude-debussy/pelleas-et-melisande",
     "title": "Pelléas et Mélisande",
+    "composer_slug": "claude-debussy"
+  },
+  {
+    "slug": "claude-debussy/pelleas-et-melisande-le-chant-des-aveugles",
+    "title": "Pelléas et Mélisande, le chant des aveugles",
     "composer_slug": "claude-debussy"
   },
   {
@@ -940,6 +1005,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "cole-porter/kiss-me-kate",
+    "title": "Kiss Me Kate",
+    "composer_slug": "cole-porter"
+  },
+  {
     "slug": "come-from-away",
     "title": "Come From Away",
     "composer_slug": ""
@@ -948,6 +1018,11 @@
     "slug": "cong-su/der-gute-mensch-von-sezuan",
     "title": "Der gute Mensch von Sezuan",
     "composer_slug": "cong-su"
+  },
+  {
+    "slug": "cosi-fan-tutte",
+    "title": "Così fan tutte",
+    "composer_slug": ""
   },
   {
     "slug": "counter-balance-creations",
@@ -1013,6 +1088,11 @@
     "slug": "david-bosch/wiedersehen-ein-stuck-hoffnung",
     "title": "Wiedersehen. Ein Stück Hoffnung",
     "composer_slug": "david-bosch"
+  },
+  {
+    "slug": "david-coonan/horse-ape-bird",
+    "title": "Horse Ape Bird",
+    "composer_slug": "david-coonan"
   },
   {
     "slug": "der-abschied-die-geister-von-w-at",
@@ -1140,9 +1220,19 @@
     "composer_slug": "donizetti"
   },
   {
+    "slug": "donnacha-dennehy/the-first-child",
+    "title": "The First Child",
+    "composer_slug": "donnacha-dennehy"
+  },
+  {
     "slug": "dr-jekyll-und-mr-hyde/der-seltsame-fall-von-dr-jekyll-und-mr-hyde",
     "title": "Der seltsame Fall von Dr. Jekyll und Mr. Hyde",
     "composer_slug": "dr-jekyll-und-mr-hyde"
+  },
+  {
+    "slug": "dragon-d-or",
+    "title": "Dragon d'or",
+    "composer_slug": ""
   },
   {
     "slug": "dramma-lirico-in-vier-teilen/nabucco",
@@ -1153,6 +1243,11 @@
     "slug": "drei-manner-im-schnee",
     "title": "Drei Männer im Schnee",
     "composer_slug": ""
+  },
+  {
+    "slug": "dvorak/rusalka",
+    "title": "Rusalka",
+    "composer_slug": "dvorak"
   },
   {
     "slug": "ebbe-und-flut",
@@ -1265,6 +1360,11 @@
     "composer_slug": "ekaterina-klewitz"
   },
   {
+    "slug": "elaine-agnew/paper-boat",
+    "title": "Paper Boat",
+    "composer_slug": "elaine-agnew"
+  },
+  {
     "slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "title": "Nils Holgerssons wundersame Abenteuer",
     "composer_slug": "elena-kats-chernin"
@@ -1305,6 +1405,11 @@
     "composer_slug": "emily-bronte"
   },
   {
+    "slug": "emma-o-halloran/trade-mary-motorhead",
+    "title": "Trade / Mary Motorhead",
+    "composer_slug": "emma-o-halloran"
+  },
+  {
     "slug": "emmerich-kalman/arizona-lady",
     "title": "Arizona Lady",
     "composer_slug": "emmerich-kalman"
@@ -1328,6 +1433,11 @@
     "slug": "emmerich-kalman/grafin-mariza",
     "title": "Gräfin Mariza",
     "composer_slug": "emmerich-kalman"
+  },
+  {
+    "slug": "ena-brennan/breathwork",
+    "title": "Breathwork",
+    "composer_slug": "ena-brennan"
   },
   {
     "slug": "engelbert-humperdinck/die-geschichte-von-hansel-und-gretel",
@@ -1370,6 +1480,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "episodes",
+    "title": "Episodes",
+    "composer_slug": ""
+  },
+  {
     "slug": "ergebnis/grundlagenfortbildung-muss-das-ergebnis-immer-eine-auffuhrung-sein",
     "title": "GRUNDLAGENFORTBILDUNG: Muss das Ergebnis immer eine Aufführung sein?",
     "composer_slug": "ergebnis"
@@ -1395,6 +1510,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "errollyn-wallen/cautionary-tales",
+    "title": "Cautionary Tales",
+    "composer_slug": "errollyn-wallen"
+  },
+  {
     "slug": "erste-schritte",
     "title": "Erste Schritte",
     "composer_slug": ""
@@ -1403,6 +1523,11 @@
     "slug": "eure-platze-auf-der-buhne/cosi-fan-tutte",
     "title": "Così fan tutte",
     "composer_slug": "eure-platze-auf-der-buhne"
+  },
+  {
+    "slug": "evangelia-rigaki/old-ghosts",
+    "title": "Old Ghosts",
+    "composer_slug": "evangelia-rigaki"
   },
   {
     "slug": "falstaff-giuseppe-verdi-1893",
@@ -1422,6 +1547,11 @@
   {
     "slug": "familienworkshop",
     "title": "Familienworkshop",
+    "composer_slug": ""
+  },
+  {
+    "slug": "farwest",
+    "title": "FarWest",
     "composer_slug": ""
   },
   {
@@ -1490,6 +1620,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "finola-merivale/out-of-the-ordinary-as-an-ngnach",
+    "title": "Out of the Ordinary As an nGnách",
+    "composer_slug": "finola-merivale"
+  },
+  {
     "slug": "florian-leopold-gassmann/l-amore-artigiano",
     "title": "L'amore artigiano",
     "composer_slug": "florian-leopold-gassmann"
@@ -1550,9 +1685,19 @@
     "composer_slug": "francis-poulenc"
   },
   {
+    "slug": "francis-poulenc/la-voix-humaine",
+    "title": "La Voix Humaine",
+    "composer_slug": "francis-poulenc"
+  },
+  {
     "slug": "frank-schwemmer/kuchenoper",
     "title": "Küchenoper",
     "composer_slug": "frank-schwemmer"
+  },
+  {
+    "slug": "frank-wildhorn/jekyll-es-hyde",
+    "title": "Jekyll és Hyde",
+    "composer_slug": "frank-wildhorn"
   },
   {
     "slug": "franklin-fuhrung",
@@ -1582,6 +1727,11 @@
   {
     "slug": "franz-lehar/die-lustige-witwe",
     "title": "Die lustige Witwe",
+    "composer_slug": "franz-lehar"
+  },
+  {
+    "slug": "franz-lehar/giuditta",
+    "title": "GIUDITTA",
     "composer_slug": "franz-lehar"
   },
   {
@@ -1715,6 +1865,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "g-f-handel/agrippina",
+    "title": "Agrippina",
+    "composer_slug": "g-f-handel"
+  },
+  {
     "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",
     "title": "El Último Sueño de Frida y Diego",
     "composer_slug": "gabriela-lena-frank-libretto-by-nilo-cruz"
@@ -1825,6 +1980,16 @@
     "composer_slug": "gavin-bryars"
   },
   {
+    "slug": "georg-frideric-handel/radamisto",
+    "title": "Radamisto",
+    "composer_slug": "georg-frideric-handel"
+  },
+  {
+    "slug": "georg-friedrich-h-ndel/agrippina",
+    "title": "AGRIPPINA",
+    "composer_slug": "georg-friedrich-h-ndel"
+  },
+  {
     "slug": "georg-friedrich-handel/agrippina",
     "title": "Agrippina",
     "composer_slug": "georg-friedrich-handel"
@@ -1895,9 +2060,19 @@
     "composer_slug": "georg-kreisler"
   },
   {
+    "slug": "georg-philipp-telemann/pimpinone",
+    "title": "Pimpinone",
+    "composer_slug": "georg-philipp-telemann"
+  },
+  {
     "slug": "george-and-ira-gershwin/let-em-eat-cake",
     "title": "Let ’Em Eat Cake",
     "composer_slug": "george-and-ira-gershwin"
+  },
+  {
+    "slug": "george-frideric-handel/agrippina",
+    "title": "Agrippina",
+    "composer_slug": "george-frideric-handel"
   },
   {
     "slug": "george-frideric-handel/alcina",
@@ -1948,6 +2123,16 @@
     "slug": "georges-bizet/les-pecheurs-de-perles",
     "title": "Les pêcheurs de perles",
     "composer_slug": "georges-bizet"
+  },
+  {
+    "slug": "gerald-barry/alice-s-adventures-under-ground",
+    "title": "Alice's Adventures Under Ground",
+    "composer_slug": "gerald-barry"
+  },
+  {
+    "slug": "gerald-barry/the-importance-of-being-earnest",
+    "title": "The Importance of Being Earnest",
+    "composer_slug": "gerald-barry"
   },
   {
     "slug": "gerd-natschinski/mein-freund-bunbury",
@@ -2070,6 +2255,11 @@
     "composer_slug": "gilbert-sullivan"
   },
   {
+    "slug": "gioacchino-rossini/assepoester",
+    "title": "Assepoester",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
     "slug": "gioacchino-rossini/ein-fall-fur-figaro",
     "title": "Ein Fall für Figaro",
     "composer_slug": "gioacchino-rossini"
@@ -2103,6 +2293,11 @@
     "slug": "gioacchino-rossini/tancredi",
     "title": "Tancredi",
     "composer_slug": "gioacchino-rossini"
+  },
+  {
+    "slug": "gioachino-antonio-rossini/hidden-extras",
+    "title": "Hidden Extras",
+    "composer_slug": "gioachino-antonio-rossini"
   },
   {
     "slug": "gioachino-rossini/der-barbier-von-sevilla",
@@ -2217,6 +2412,11 @@
   {
     "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
     "title": "wilhelm tell (guillaume tell)",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/william-tell",
+    "title": "William Tell",
     "composer_slug": "gioachino-rossini"
   },
   {
@@ -2350,6 +2550,11 @@
     "composer_slug": "gounod"
   },
   {
+    "slug": "greg-caffrey/the-chronic-identity-crisis-of-pamplemousse",
+    "title": "The Chronic Identity Crisis of Pamplemousse",
+    "composer_slug": "greg-caffrey"
+  },
+  {
     "slug": "gregory-spears/fellow-travelers",
     "title": "Fellow Travelers",
     "composer_slug": "gregory-spears"
@@ -2358,6 +2563,11 @@
     "slug": "grigori-frid/das-tagebuch-der-anne-frank",
     "title": "Das Tagebuch der Anne Frank",
     "composer_slug": "grigori-frid"
+  },
+  {
+    "slug": "guillaume-tell",
+    "title": "Guillaume Tell",
+    "composer_slug": ""
   },
   {
     "slug": "gyorgy-ranki/king-pomade-s-new-cothes",
@@ -2373,6 +2583,11 @@
     "slug": "handel-lounge",
     "title": "Händel-Lounge",
     "composer_slug": ""
+  },
+  {
+    "slug": "handel/semele",
+    "title": "Semele",
+    "composer_slug": "handel"
   },
   {
     "slug": "hania-rani/if-i-do-not-return",
@@ -2413,6 +2628,11 @@
     "slug": "hector-armienta/hector-armienta-s-zorro",
     "title": "Héctor Armienta's Zorro",
     "composer_slug": "hector-armienta"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-benedict",
+    "title": "Beatrice & Benedict",
+    "composer_slug": "hector-berlioz"
   },
   {
     "slug": "hector-berlioz/benvenuto-cellini",
@@ -2475,6 +2695,11 @@
     "composer_slug": "henry-purcell"
   },
   {
+    "slug": "henry-purcell/dido-and-aeneas-venus-and-adonis",
+    "title": "Dido and Aeneas | Venus and Adonis",
+    "composer_slug": "henry-purcell"
+  },
+  {
     "slug": "henry-purcell/dido-and-neas",
     "title": "Dido and Æneas",
     "composer_slug": "henry-purcell"
@@ -2527,6 +2752,11 @@
   {
     "slug": "huw-montague-rendall-bariton-carrie-ann-matheson-klavier",
     "title": "Huw Montague Rendall (Bariton) / Carrie-Ann Matheson (Klavier)",
+    "composer_slug": ""
+  },
+  {
+    "slug": "i-hate-new-music",
+    "title": "I Hate New Music!",
     "composer_slug": ""
   },
   {
@@ -2650,6 +2880,11 @@
     "composer_slug": "jacques-offenbach"
   },
   {
+    "slug": "jacques-offenbach/orpheus-in-the-underworld",
+    "title": "Orpheus in the Underworld",
+    "composer_slug": "jacques-offenbach"
+  },
+  {
     "slug": "jacques-offenbach/robinson-crusoe",
     "title": "Robinson Crusoé",
     "composer_slug": "jacques-offenbach"
@@ -2698,6 +2933,11 @@
     "slug": "jean-sibelius/luonnotar-and-iolanta",
     "title": "Luonnotar and Iolanta",
     "composer_slug": "jean-sibelius"
+  },
+  {
+    "slug": "jennifer-walshe/mars",
+    "title": "MARS",
+    "composer_slug": "jennifer-walshe"
   },
   {
     "slug": "jeno-adam/best-of-kodaly-hungarian-christmas",
@@ -2770,9 +3010,19 @@
     "composer_slug": "johann-strauss-d-y"
   },
   {
+    "slug": "johann-strauss-ii/die-fledermaus",
+    "title": "Die Fledermaus",
+    "composer_slug": "johann-strauss-ii"
+  },
+  {
     "slug": "johann-strauss-und-ralph-benatzky/casanova",
     "title": "Casanova",
     "composer_slug": "johann-strauss-und-ralph-benatzky"
+  },
+  {
+    "slug": "johann-strauss/a-ciganybaro",
+    "title": "A cigánybáró",
+    "composer_slug": "johann-strauss"
   },
   {
     "slug": "johann-strauss/die-fledermaus",
@@ -2787,6 +3037,11 @@
   {
     "slug": "johann-strauss/eine-nacht-in-venedig",
     "title": "EINE NACHT IN VENEDIG",
+    "composer_slug": "johann-strauss"
+  },
+  {
+    "slug": "johann-strauss/fledermaus",
+    "title": "Fledermaus",
     "composer_slug": "johann-strauss"
   },
   {
@@ -2865,13 +3120,28 @@
     "composer_slug": "jonathan-dove"
   },
   {
+    "slug": "jonathan-dove/flight",
+    "title": "Flight",
+    "composer_slug": "jonathan-dove"
+  },
+  {
     "slug": "jonathan-dove/itch",
     "title": "Itch",
     "composer_slug": "jonathan-dove"
   },
   {
+    "slug": "jonathan-dove/mansfield-park",
+    "title": "Mansfield Park",
+    "composer_slug": "jonathan-dove"
+  },
+  {
     "slug": "jonathan-dove/the-enchanted-pig",
     "title": "The Enchanted Pig",
+    "composer_slug": "jonathan-dove"
+  },
+  {
+    "slug": "jonathan-dove/the-walk-from-the-garden",
+    "title": "The Walk from the Garden",
     "composer_slug": "jonathan-dove"
   },
   {
@@ -3195,6 +3465,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "l-horloge-magique",
+    "title": "L'Horloge magique",
+    "composer_slug": ""
+  },
+  {
+    "slug": "l-olimpiade",
+    "title": "L'Olimpiade",
+    "composer_slug": ""
+  },
+  {
     "slug": "la-fleur-amusez-vous",
     "title": "La Fleur: Amusez-vous!",
     "composer_slug": ""
@@ -3220,6 +3500,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "la-voix-humaine-l-heure-espagnole",
+    "title": "La Voix humaine, L'heure espagnole",
+    "composer_slug": ""
+  },
+  {
+    "slug": "la-voix-humaine-l-heure-espagnole-annule",
+    "title": "La Voix humaine, L'heure espagnole (annulé)",
+    "composer_slug": ""
+  },
+  {
     "slug": "lab-alle-an-deck",
     "title": "LAB: Alle an Deck?",
     "composer_slug": ""
@@ -3227,6 +3517,11 @@
   {
     "slug": "laika",
     "title": "Laika",
+    "composer_slug": ""
+  },
+  {
+    "slug": "laika-le-chien-de-l-espace",
+    "title": "Laïka – le chien de l'espace",
     "composer_slug": ""
   },
   {
@@ -3363,6 +3658,11 @@
     "slug": "leos-janacek/soiree-jenufa-jeji-pastorkyna",
     "title": "Soirée Jenůfa (Její pastorkyňa)",
     "composer_slug": "leos-janacek"
+  },
+  {
+    "slug": "les-aventures-du-roi-pausole",
+    "title": "Les Aventures du Roi Pausole",
+    "composer_slug": ""
   },
   {
     "slug": "les-contes-d-hoffmann",
@@ -3790,6 +4090,11 @@
     "composer_slug": "monteverdi"
   },
   {
+    "slug": "monteverdi/the-return-of-ulysses",
+    "title": "The Return of Ulysses",
+    "composer_slug": "monteverdi"
+  },
+  {
     "slug": "moritz-simon-geist/mr-808",
     "title": "MR-808",
     "composer_slug": "moritz-simon-geist"
@@ -3807,6 +4112,11 @@
   {
     "slug": "mozart/die-lieben-der-berenice",
     "title": "Die Lieben der Berenice",
+    "composer_slug": "mozart"
+  },
+  {
+    "slug": "mozart/the-abduction-from-the-seraglio",
+    "title": "The Abduction from the Seraglio",
     "composer_slug": "mozart"
   },
   {
@@ -3848,6 +4158,11 @@
     "slug": "musiktheater-nach-hanns-eisler/deutsche-symphonie",
     "title": "Deutsche Symphonie",
     "composer_slug": "musiktheater-nach-hanns-eisler"
+  },
+  {
+    "slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder",
+    "title": "'Songs and Dances of Death' & 'Kindertotenlieder'",
+    "composer_slug": "mussorgsky"
   },
   {
     "slug": "mythos/kampf-der-titanen",
@@ -4165,6 +4480,11 @@
     "composer_slug": "paul-moravec"
   },
   {
+    "slug": "pelleas-et-melisande",
+    "title": "Pelléas et Mélisande",
+    "composer_slug": ""
+  },
+  {
     "slug": "penzance-von-william-schwenck-gilbert/die-piraten",
     "title": "Die Piraten",
     "composer_slug": "penzance-von-william-schwenck-gilbert"
@@ -4187,6 +4507,11 @@
   {
     "slug": "peter-maxwell-davies/mad-king-blaubart",
     "title": "Mad King Blaubart",
+    "composer_slug": "peter-maxwell-davies"
+  },
+  {
+    "slug": "peter-maxwell-davies/the-lighthouse",
+    "title": "The Lighthouse",
     "composer_slug": "peter-maxwell-davies"
   },
   {
@@ -4217,6 +4542,11 @@
   {
     "slug": "philip-glass/les-enfants-terribles",
     "title": "Les Enfants terribles",
+    "composer_slug": "philip-glass"
+  },
+  {
+    "slug": "philip-glass/waiting-for-the-barbarians",
+    "title": "Waiting for the Barbarians",
     "composer_slug": "philip-glass"
   },
   {
@@ -4325,6 +4655,11 @@
     "composer_slug": "poul-ruders"
   },
   {
+    "slug": "powder-her-face",
+    "title": "Powder Her Face",
+    "composer_slug": ""
+  },
+  {
     "slug": "power-up-demokratie-festval",
     "title": "Power up - Demokratie-Festval",
     "composer_slug": ""
@@ -4420,6 +4755,11 @@
     "composer_slug": "ralph-benatzky"
   },
   {
+    "slug": "rameau/les-boreades",
+    "title": "Les Boréades",
+    "composer_slug": "rameau"
+  },
+  {
     "slug": "raquel-garcia-tomas/ich-ich-ich",
     "title": "Ich, ich, ich!",
     "composer_slug": "raquel-garcia-tomas"
@@ -4428,6 +4768,11 @@
     "slug": "raquel-garcia-tomas/ich-ich-ich-je-suis-narcissiste",
     "title": "Ich, Ich, Ich! (Je suis narcissiste)",
     "composer_slug": "raquel-garcia-tomas"
+  },
+  {
+    "slug": "raymond-deane/vagabones",
+    "title": "Vagabones",
+    "composer_slug": "raymond-deane"
   },
   {
     "slug": "rebecca-fritzsche-nazli-saremi/prasentation-club-indigo",
@@ -4715,6 +5060,11 @@
     "composer_slug": "sasha-waltz"
   },
   {
+    "slug": "scarlatti/la-dirindina",
+    "title": "La Dirindina",
+    "composer_slug": "scarlatti"
+  },
+  {
     "slug": "schade-schade-zu-spat",
     "title": "„Schade, schade – zu spät“",
     "composer_slug": ""
@@ -4830,6 +5180,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "smetana/the-bartered-bride",
+    "title": "The Bartered Bride",
+    "composer_slug": "smetana"
+  },
+  {
     "slug": "sneak-in",
     "title": "Sneak in",
     "composer_slug": ""
@@ -4910,6 +5265,11 @@
     "composer_slug": "stephen-james-webb"
   },
   {
+    "slug": "stephen-sondheim/follies",
+    "title": "Follies",
+    "composer_slug": "stephen-sondheim"
+  },
+  {
     "slug": "stephen-sondheim/into-the-woods",
     "title": "Into the Woods",
     "composer_slug": "stephen-sondheim"
@@ -4960,6 +5320,11 @@
     "composer_slug": "susanne-rieber"
   },
   {
+    "slug": "szomor-gyorgy/monte-cristo-grofja",
+    "title": "Monte Cristo grófja",
+    "composer_slug": "szomor-gyorgy"
+  },
+  {
     "slug": "ta-ta-ta-taaa",
     "title": "TA-TA-TA TAAA!",
     "composer_slug": ""
@@ -4998,6 +5363,11 @@
     "slug": "tanzfuchs-produktion-urauffuhrung/federn-federn-2",
     "title": "Federn federn (2+)",
     "composer_slug": "tanzfuchs-produktion-urauffuhrung"
+  },
+  {
+    "slug": "tarik-o-regan/testament",
+    "title": "Testament",
+    "composer_slug": "tarik-o-regan"
   },
   {
     "slug": "tchaikovsky/eugene-onegin",
@@ -5230,6 +5600,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "victor-herbert/the-enchantress",
+    "title": "The Enchantress",
+    "composer_slug": "victor-herbert"
+  },
+  {
     "slug": "victoria-stellpflug/ghost-me-if-you-can",
     "title": "Ghost Me, If You Can",
     "composer_slug": "victoria-stellpflug"
@@ -5267,6 +5642,11 @@
   {
     "slug": "vincenzo-bellini/norma",
     "title": "Norma",
+    "composer_slug": "vincenzo-bellini"
+  },
+  {
+    "slug": "vincenzo-bellini/the-capulets-and-the-montagues",
+    "title": "THE CAPULETS AND THE MONTAGUES",
     "composer_slug": "vincenzo-bellini"
   },
   {
@@ -5390,6 +5770,11 @@
     "composer_slug": "wiebke-hetmanek"
   },
   {
+    "slug": "will-todd/alice-s-adventures-in-wonderland",
+    "title": "Alice’s Adventures in Wonderland",
+    "composer_slug": "will-todd"
+  },
+  {
     "slug": "william-shakespeare/hamlet",
     "title": "Hamlet",
     "composer_slug": "william-shakespeare"
@@ -5427,6 +5812,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
     "title": "Così fan tutte",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers",
+    "title": "Così fan Tutte/School for Lovers",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
