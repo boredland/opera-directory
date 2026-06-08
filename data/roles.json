@@ -1645,6 +1645,11 @@
     "name": "Chasseur / Garde-forestier"
   },
   {
+    "slug": "antonin-dvorak/rusalka/cook",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Cook"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/cuistot",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Cuistot"
@@ -1685,9 +1690,24 @@
     "name": "Ein Jäger"
   },
   {
+    "slug": "antonin-dvorak/rusalka/foreign-princess",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Foreign Princess"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/gamekeeper",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Gamekeeper"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/heger",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Heger"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/hunter",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Hunter"
   },
   {
     "slug": "antonin-dvorak/rusalka/jager",
@@ -1735,6 +1755,21 @@
     "name": "Rusalka"
   },
   {
+    "slug": "antonin-dvorak/rusalka/the-first-wood-nymph",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "The First Wood Nymph"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/the-second-wood-nymph",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "The Second Wood Nymph"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/the-third-wood-nymph",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "The Third Wood Nymph"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/vodnik",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Vodnik"
@@ -1743,6 +1778,16 @@
     "slug": "antonin-dvorak/rusalka/wassermann",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Wassermann"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/water-goblin",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Water Goblin"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/witch",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Witch"
   },
   {
     "slug": "antonin-dvorak/rusalka/zweite-elfe",
@@ -3567,6 +3612,56 @@
   {
     "slug": "camille-saint-sa-ns/samson-et-dalila/samson",
     "work_slug": "camille-saint-sa-ns/samson-et-dalila",
+    "name": "Samson"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/1-philistine",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "1. Philistine"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/2-philistine",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "2. Philistine"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/abimelech",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Abimélech"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/boy",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Boy"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/dalila",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Dalila"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/dancers",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Dancers"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/high-priest-of-dagon",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "High Priest of Dagon"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/old-hebrew",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Old Hebrew"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/philistine-messenger",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
+    "name": "Philistine Messenger"
+  },
+  {
+    "slug": "camille-saint-saens/samson-and-delilah/samson",
+    "work_slug": "camille-saint-saens/samson-and-delilah",
     "name": "Samson"
   },
   {
@@ -7795,6 +7890,21 @@
     "name": "Sounddesign"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/dancers",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Dancers"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/father",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Father"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/firefly",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Firefly"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-and-gretel/gertrud",
     "work_slug": "engelbert-humperdinck/hansel-and-gretel",
     "name": "Gertrud"
@@ -7810,9 +7920,29 @@
     "name": "Hansel"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/hribik",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Hríbik"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/mother",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Mother"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/performed-by",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Performed by"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-and-gretel/peter",
     "work_slug": "engelbert-humperdinck/hansel-and-gretel",
     "name": "Peter"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/sleeping-fairy",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Sleeping Fairy"
   },
   {
     "slug": "engelbert-humperdinck/hansel-and-gretel/the-dewman",
@@ -7828,6 +7958,11 @@
     "slug": "engelbert-humperdinck/hansel-and-gretel/the-witch",
     "work_slug": "engelbert-humperdinck/hansel-and-gretel",
     "name": "The Witch"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-and-gretel/witch",
+    "work_slug": "engelbert-humperdinck/hansel-and-gretel",
+    "name": "Witch"
   },
   {
     "slug": "engelbert-humperdinck/hansel-und-gretel/buhne-nach-einem-konzept-von-andreas-wilkens",
@@ -8015,6 +8150,51 @@
     "name": "Solistes"
   },
   {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/brigitta",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Brigitta"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/frank-fritz",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Frank / Fritz"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/gaston-victorin",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Gaston / Victorin"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/grof-albert",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Gróf Albert"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/juliette",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Juliette"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/lucienne",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Lucienne"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/marietta-the-apparition-of-marie",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Marietta / The Apparition of Marie"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/paul",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Paul"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/performed-by",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
+    "name": "Performed by"
+  },
+  {
     "slug": "erich-wolfgang-korngold/die-tote-stadt/brigitta",
     "work_slug": "erich-wolfgang-korngold/die-tote-stadt",
     "name": "Brigitta"
@@ -8098,6 +8278,106 @@
     "slug": "ernest-chausson/le-roi-arthus/mordred",
     "work_slug": "ernest-chausson/le-roi-arthus",
     "name": "Mordred"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/blagota",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Blagota"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/bogat",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Bogat"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/dancers",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Dancers"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/dragomir",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Dragomír"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/lutomir",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Ľutomír"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/magician",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Magician"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/milena",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Milena"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/mojmir",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Mojmír"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/nitrabor",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Nitrabor"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/predslav",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Predslav"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/priestess-i",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Priestess I"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/priestess-ii",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Priestess II"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/priestesses-of-the-morena",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Priestesses of the Morena"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/sanctuary-guard",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Sanctuary Guard"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/soldier-turon",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Soldier Turoň"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/spiritual-leader",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Spiritual leader"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/svatopluk",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Svätopluk"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/svatopluk-ii",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Svätopluk II"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/the-elder",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "The Elder"
+  },
+  {
+    "slug": "eugen-suchon/svatopluk/zaboj",
+    "work_slug": "eugen-suchon/svatopluk",
+    "name": "Záboj"
   },
   {
     "slug": "evangelia-rigaki/old-ghosts/homer",
@@ -12070,6 +12350,11 @@
     "name": "Rodolfo; Parpignol"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/salesman",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Salesman"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/sarah-brady",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Sarah Brady"
@@ -12098,6 +12383,11 @@
     "slug": "giacomo-puccini/la-boheme/sergente-dei-doganieri",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Sergente dei doganieri"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/serzant",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Seržant"
   },
   {
     "slug": "giacomo-puccini/la-boheme/singschul",
@@ -13100,6 +13390,11 @@
     "name": "Sciarrone / A gaoler"
   },
   {
+    "slug": "giacomo-puccini/tosca/sheperd-boy",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Sheperd Boy"
+  },
+  {
     "slug": "giacomo-puccini/tosca/shepherd",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Shepherd"
@@ -13273,6 +13568,11 @@
     "slug": "giacomo-puccini/turandot/pang",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Pang"
+  },
+  {
+    "slug": "giacomo-puccini/turandot/performed-by",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Performed by"
   },
   {
     "slug": "giacomo-puccini/turandot/ping",
@@ -16150,6 +16450,11 @@
     "name": "Mario Chang (Wexford 17 May; Dublin 21, 23, 25 May; Cork, 29, 31 May)"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/markiz-d-obigny",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Markíz d’Obigny"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/marquis-d-obgny",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Marquis d'Obgny"
@@ -16178,6 +16483,11 @@
     "slug": "giuseppe-verdi/la-traviata/patrick-hyland",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Patrick Hyland"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/photographer",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Photographer"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/the-messenger",
@@ -16485,6 +16795,16 @@
     "name": "Abdallo"
   },
   {
+    "slug": "giuseppe-verdi/nabucco/abdallo-nabucco-s-aide",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Abdallo, Nabucco's aide"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/abigail-alleged-daughter-of-nabucco",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Abigail, alleged daughter of Nabucco"
+  },
+  {
     "slug": "giuseppe-verdi/nabucco/abigaile",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Abigaile"
@@ -16493,6 +16813,11 @@
     "slug": "giuseppe-verdi/nabucco/abigaille",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Abigaille"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/actors",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Actors"
   },
   {
     "slug": "giuseppe-verdi/nabucco/anna",
@@ -16505,9 +16830,24 @@
     "name": "Anna / Rahel"
   },
   {
+    "slug": "giuseppe-verdi/nabucco/baal-s-high-priest",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Baal's High Priest"
+  },
+  {
     "slug": "giuseppe-verdi/nabucco/buhne-und-kostum",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Bühne und Kostüm"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/children",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Children"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/dancers",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Dancers"
   },
   {
     "slug": "giuseppe-verdi/nabucco/der-oberpriester-des-baal",
@@ -16528,6 +16868,11 @@
     "slug": "giuseppe-verdi/nabucco/fenena",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Fenena"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/fenena-nabucco-s-daughter",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Fenena, Nabucco's daughter"
   },
   {
     "slug": "giuseppe-verdi/nabucco/gran-sacerdote",
@@ -16553,6 +16898,11 @@
     "slug": "giuseppe-verdi/nabucco/inspizient",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Inspizient"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/ishmael-nephew-of-the-king-of-jerusalem",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Ishmael, nephew of the King of Jerusalem"
   },
   {
     "slug": "giuseppe-verdi/nabucco/ismaele",
@@ -16588,6 +16938,11 @@
     "slug": "giuseppe-verdi/nabucco/nabucco",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Nabucco"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/nabucco-king-of-babylon",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Nabucco, King of Babylon"
   },
   {
     "slug": "giuseppe-verdi/nabucco/oberpriester",
@@ -16628,6 +16983,11 @@
     "slug": "giuseppe-verdi/nabucco/zaccaria",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Zaccaria"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/zacharias-hebrew-high-priest",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Zacharias, Hebrew High Priest"
   },
   {
     "slug": "giuseppe-verdi/nabucodonosor/abdallo",
@@ -25930,6 +26290,31 @@
     "name": "The farmer’s wife"
   },
   {
+    "slug": "milan-dubovsky/three-roosters/annette",
+    "work_slug": "milan-dubovsky/three-roosters",
+    "name": "Annette"
+  },
+  {
+    "slug": "milan-dubovsky/three-roosters/cardinal",
+    "work_slug": "milan-dubovsky/three-roosters",
+    "name": "Cardinal"
+  },
+  {
+    "slug": "milan-dubovsky/three-roosters/duke",
+    "work_slug": "milan-dubovsky/three-roosters",
+    "name": "Duke"
+  },
+  {
+    "slug": "milan-dubovsky/three-roosters/imperia",
+    "work_slug": "milan-dubovsky/three-roosters",
+    "name": "Impéria"
+  },
+  {
+    "slug": "milan-dubovsky/three-roosters/philip",
+    "work_slug": "milan-dubovsky/three-roosters",
+    "name": "Philip"
+  },
+  {
     "slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo/buhne-kostum",
     "work_slug": "milo-cortanovacki-und-sandro-sutalo-ura/miss-sara-jevo",
     "name": "Bühne & Kostüm"
@@ -28088,6 +28473,66 @@
     "slug": "pietro-mascagni/iris/osaka-20-oct",
     "work_slug": "pietro-mascagni/iris",
     "name": "Osaka (20 Oct)"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/dancers",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Dancers"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/eugene-onegin",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Eugene Onegin"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/filipyevna",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Filipyevna"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/larina",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Larina"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/lead-singer",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Lead singer"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/lensky",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Lensky"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/olga",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Olga"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/prince-gremin",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Prince Gremin"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/sergeant",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Sergeant"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/tatyana",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Tatyana"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/triquet",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Triquet"
+  },
+  {
+    "slug": "piotr-iljic-cajkovskij/eugene-onegin/zareckij",
+    "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
+    "name": "Zareckij"
   },
   {
     "slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/das-kind-tatjana",
@@ -33205,6 +33650,36 @@
     "name": "The Pirate King"
   },
   {
+    "slug": "slavo-solovic/mouflon-ancijas/bear-bat-theatre",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "Bear / Bat / Theatre"
+  },
+  {
+    "slug": "slavo-solovic/mouflon-ancijas/caterpillar-butterfly-bat",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "Caterpillar / Butterfly / Bat"
+  },
+  {
+    "slug": "slavo-solovic/mouflon-ancijas/mama-petrol-station-lady-showgirl",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "Mama / Petrol station lady / Showgirl"
+  },
+  {
+    "slug": "slavo-solovic/mouflon-ancijas/milica-lenka",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "Milica / Lenka"
+  },
+  {
+    "slug": "slavo-solovic/mouflon-ancijas/mouflon-ancijas",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "Mouflon Ancijáš"
+  },
+  {
+    "slug": "slavo-solovic/mouflon-ancijas/the-narrator",
+    "work_slug": "slavo-solovic/mouflon-ancijas",
+    "name": "The Narrator"
+  },
+  {
     "slug": "slow-burn/choreografische-assistenz",
     "work_slug": "slow-burn",
     "name": "Choreografische Assistenz"
@@ -36530,6 +37005,11 @@
     "name": "Il Commendatore"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni/komtur",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "name": "Komtúr"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/don-giovanni/komtur-masetto",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "name": "Komtur / Masetto"
@@ -36543,6 +37023,11 @@
     "slug": "wolfgang-amadeus-mozart/don-giovanni/live-zeichnerin",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "name": "Live-Zeichnerin"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni/majordomus",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "name": "Majordomus"
   },
   {
     "slug": "wolfgang-amadeus-mozart/don-giovanni/masetto",
@@ -37285,6 +37770,11 @@
     "name": "Antonio / Count (Cover)"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/antonio-the-gardener",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "name": "Antonio, the gardener"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/barbarina",
     "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
     "name": "Barbarina"
@@ -37298,6 +37788,11 @@
     "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/bartolo",
     "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
     "name": "Bartolo"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/basilio",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "name": "Basilio"
   },
   {
     "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/cherubino",
@@ -37323,6 +37818,11 @@
     "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/countess-almaviva",
     "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
     "name": "Countess Almaviva"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/dancers",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "name": "Dancers"
   },
   {
     "slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/doctor-bartolo",

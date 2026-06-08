@@ -1551,6 +1551,18 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "slovak-national-theatre",
+    "name": "Slovak National Theatre — Opera",
+    "city": "Bratislava",
+    "country": "SK",
+    "website": "https://snd.sk",
+    "wikidata": "Q281805",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "proxy": true,
+    "notes": "Opera SND — the opera division of the Slovenské národné divadlo, Bratislava. Drupal site with an English /en/ mirror. **proxy: true** — the host serves a broken TLS chain (missing intermediate); a direct fetch fails the cert, the proxy base tier (TLS verify off) gets the page. Discovery: the opera repertoire index /en/repertoire-opera links every staging as /en/inscenation/{id}/{slug} — opera-only by division (no ballet), so the only filter is dropping pre-premiere matinées ('matiné k…' talks, slug contains 'matine'). Detail: `<h2 class=title>` (or h1) work title; `<h3 class=author>` composer ('Author: {X}'). Creative team + cast share one markup — `<div class=member><span class=rola>{label/role}</span> … <span class=name>{Name}</span></div>` rows — split by section ('Production Team' → creative, English labels substring-mapped, assistants dropped; 'Cast' → character roles); multiple name spans per row = co-credits / alternating singers. Performances from the 'Performance schedule' rows (`<span class=on-date>{D}. {M}. {YYYY}</span>` + `<span class=time-from>{HH:MM} h</span>`). Opera gate = person-name composer AND (cast OR director). Backfill Wikidata Q281805 available as a resolution anchor."
+  },
+  {
     "slug": "lithuanian-national-opera",
     "name": "Lithuanian National Opera and Ballet Theatre",
     "city": "Vilnius",

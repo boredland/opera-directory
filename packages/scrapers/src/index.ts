@@ -103,6 +103,7 @@ import { scrapeSarasotaOpera } from "./houses/sarasota-opera";
 import { scrapeSavonlinnaOperaFestival } from "./houses/savonlinna-opera-festival";
 import { scrapeSchleswigHolsteinischesLandestheater } from "./houses/schleswig-holsteinisches-landestheater";
 import { scrapeSchwetzingerSwrFestspiele } from "./houses/schwetzinger-swr-festspiele";
+import { scrapeSlovakNationalTheatre } from "./houses/slovak-national-theatre";
 import { scrapeSeattleOpera } from "./houses/seattle-opera";
 import { scrapeSeefestspieleMoerbisch } from "./houses/seefestspiele-moerbisch";
 import { scrapeSemperoperDresden } from "./houses/semperoper-dresden";
@@ -225,6 +226,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "latvian-national-opera": scrapeLatvianNationalOpera,
   "estonian-national-opera": scrapeEstonianNationalOpera,
   "lithuanian-national-opera": scrapeLithuanianNationalOpera,
+  "slovak-national-theatre": scrapeSlovakNationalTheatre,
   "budapest-operetta": scrapeBudapestOperetta,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
