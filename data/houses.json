@@ -1898,5 +1898,15 @@
     "strategy": "json-api",
     "enabled": true,
     "notes": "Touring opera company of the southern Netherlands (Maastricht). Headless WordPress + Next.js front end, Dutch. **WP REST exposes two CPTs: `agendaitem` = one row per dated performance, title 'Production – YYYY-MM-DD HH:MM' (the date source — the detail page only shows a run-range placeholder, sometimes 31 Dec 2099); `production` = slug + title + link.** Performances grouped to productions by normalized-title join (agendaitem name drops trailing '(8+)'/'(BOM …)' audience tags). Detail page /voorstelling/{slug}/: composer in `.composer`; creative + cast as `<div class={role}>{Label} <span>{Name}</span></div>` (Dutch labels Regie→director, Muzikale leiding→conductor, Decor→set, Kostuums→costume, Licht→lighting, Koor→chorus-master mapped; every other label = cast character role). agendaitem paginated (per_page=100). Only productions with scheduled agendaitems are emitted (current/announced; ~13 now). Opera gate: person-name composer (drops community/education agenda items without one). No Wikidata QID."
+  },
+  {
+    "slug": "opera-de-lyon",
+    "name": "Opéra de Lyon",
+    "city": "Lyon",
+    "country": "FR",
+    "website": "https://www.opera-lyon.com",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Lyon opera house. Nuxt (Vue) SSR, French, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. **Genre is in the URL (/saison-{YYYY-YYYY}/opera/{slug} vs /danse/ /concert/) — that IS the opera filter.** Season listings /programmation-reservations/saison-{YYYY-YYYY} link productions; current+next season = live leg (no deep archive). Detail page: `<h1>` title; composer after 'Un opéra de {X}'; **creative team AND cast both as `<h2>{label}</h2>{name}` pairs** — French function labels (Direction musicale→conductor, Mise en scène→director, Scénographie/Décors→set, Lumières→lighting, Costumes→costume, Chœurs→chorus-master) → creative, every other label = cast character role (trailing */**/*** debut markers stripped). **Run date RANGE printed in HTML ('4 oct. - 20 oct. 2026'); individual nights with times live as ISO `startDate`s in the inline window.__NUXT__ state → performances = state startDates within the run range.** No Wikidata QID."
   }
 ]

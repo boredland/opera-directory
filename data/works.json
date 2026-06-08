@@ -610,6 +610,11 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "benjamin-britten/billy-budd",
+    "title": "Billy Budd",
+    "composer_slug": "benjamin-britten"
+  },
+  {
     "slug": "benjamin-britten/owen-wingrave",
     "title": "Owen Wingrave",
     "composer_slug": "benjamin-britten"
@@ -860,6 +865,11 @@
     "composer_slug": "charles-gounod"
   },
   {
+    "slug": "charles-lecocq/la-fille-de-madame-angot",
+    "title": "La Fille de Madame Angot",
+    "composer_slug": "charles-lecocq"
+  },
+  {
     "slug": "charles-villiers-stanford/much-ado-about-nothing",
     "title": "Much Ado About Nothing",
     "composer_slug": "charles-villiers-stanford"
@@ -940,6 +950,11 @@
     "composer_slug": "christoph-willibald-gluck"
   },
   {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "title": "Le Sang du glacier",
+    "composer_slug": "claire-melanie-sinnhuber"
+  },
+  {
     "slug": "claude-debussy-en-marius-constant/impressions-de-pelleas",
     "title": "Impressions de Pelléas",
     "composer_slug": "claude-debussy-en-marius-constant"
@@ -992,6 +1007,11 @@
   {
     "slug": "claudio-monteverdi/l-orfeo",
     "title": "L'Orfeo",
+    "composer_slug": "claudio-monteverdi"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "title": "Le Couronnement de Poppée",
     "composer_slug": "claudio-monteverdi"
   },
   {
@@ -1140,6 +1160,11 @@
     "composer_slug": "detlev-glanert"
   },
   {
+    "slug": "diana-soh/zylan-ne-chantera-plus",
+    "title": "Zylan ne chantera plus",
+    "composer_slug": "diana-soh"
+  },
+  {
     "slug": "die-firma",
     "title": "Die Firma",
     "composer_slug": ""
@@ -1273,6 +1298,11 @@
     "slug": "ede-poldini/love-adrift",
     "title": "Love Adrift",
     "composer_slug": "ede-poldini"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt",
+    "title": "Peer Gynt",
+    "composer_slug": "edvard-grieg"
   },
   {
     "slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
@@ -1965,6 +1995,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/lucrece-borgia",
+    "title": "Lucrèce Borgia",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/maria-de-rudenz",
     "title": "Maria de Rudenz",
     "composer_slug": "gaetano-donizetti"
@@ -2415,6 +2450,11 @@
     "composer_slug": "gioachino-rossini"
   },
   {
+    "slug": "gioachino-rossini/le-turc-en-italie",
+    "title": "Le Turc en Italie",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/rossini-s-cinderella",
     "title": "Rossini's Cinderella",
     "composer_slug": "gioachino-rossini"
@@ -2443,6 +2483,11 @@
     "slug": "gioachino-rossini/william-tell",
     "title": "William Tell",
     "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes",
+    "title": "7 minutes",
+    "composer_slug": "giorgio-battistelli"
   },
   {
     "slug": "giueseppe-verdi/la-traviata",
@@ -2502,6 +2547,11 @@
   {
     "slug": "giuseppe-verdi/il-trovatore",
     "title": "Il trovatore",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin",
+    "title": "La Force du destin",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -2595,6 +2645,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "gustave-charpentier/louise",
+    "title": "Louise",
+    "composer_slug": "gustave-charpentier"
+  },
+  {
     "slug": "gyorgy-ranki/king-pomade-s-new-cothes",
     "title": "King Pomade's New Cothes",
     "composer_slug": "gyorgy-ranki"
@@ -2623,6 +2678,11 @@
     "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5",
     "title": "Bei der Feuerwehr wird der Kaffee kalt (5+)",
     "composer_slug": "hannes-huttner-und-gerhard-lahr"
+  },
+  {
+    "slug": "hans-krasa/brundibar",
+    "title": "Brundibár",
+    "composer_slug": "hans-krasa"
   },
   {
     "slug": "hans-werner-henze/der-prinz-von-homburg",
@@ -2657,6 +2717,11 @@
   {
     "slug": "hector-berlioz/beatrice-benedict",
     "title": "Beatrice & Benedict",
+    "composer_slug": "hector-berlioz"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict",
+    "title": "Béatrice et Bénédict",
     "composer_slug": "hector-berlioz"
   },
   {
@@ -2863,6 +2928,16 @@
     "slug": "isabella-sedlak/mozart-schwarzenegger-hitler",
     "title": "Mozart. Schwarzenegger. Hitler.",
     "composer_slug": "isabella-sedlak"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant",
+    "title": "Les Enfants du Levant",
+    "composer_slug": "isabelle-aboulker"
+  },
+  {
+    "slug": "isabelle-aboulker/olympe-la-rebelle",
+    "title": "Olympe la rebelle",
+    "composer_slug": "isabelle-aboulker"
   },
   {
     "slug": "ismael-jordi-tenor-ruben-fernandez-aguirre-klavier",
@@ -3695,6 +3770,11 @@
     "composer_slug": "leos-janacek"
   },
   {
+    "slug": "leos-janacek/l-affaire-makropoulos",
+    "title": "L'Affaire Makropoulos",
+    "composer_slug": "leos-janacek"
+  },
+  {
     "slug": "leos-janacek/soiree-jenufa-jeji-pastorkyna",
     "title": "Soirée Jenůfa (Její pastorkyňa)",
     "composer_slug": "leos-janacek"
@@ -4125,6 +4205,11 @@
     "composer_slug": "modest-petrovitch-musorgsky"
   },
   {
+    "slug": "modeste-moussorgski/boris-godounov",
+    "title": "Boris Godounov",
+    "composer_slug": "modeste-moussorgski"
+  },
+  {
     "slug": "monatlicher-stammtisch-auf-franklin/bar-abend-im-alten-kino-franklin",
     "title": "Bar-Abend im Alten Kino Franklin",
     "composer_slug": "monatlicher-stammtisch-auf-franklin"
@@ -4263,6 +4348,11 @@
     "slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten",
     "title": "Die Nacht vor Weihnachten",
     "composer_slug": "nikolai-a-rimski-korsakow"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "title": "Nuit de mai",
+    "composer_slug": "nikolai-rimski-korsakov"
   },
   {
     "slug": "nikolai-rimski-korsakow/die-zarenbraut",
@@ -5158,6 +5248,11 @@
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "title": "Die Liebe zu den drei Orangen",
     "composer_slug": "sergei-s-prokofjew"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "title": "L'Amour des trois oranges",
+    "composer_slug": "serguei-prokofiev"
   },
   {
     "slug": "serra-al-deen-urauffuhrung/all-my-life-watching-america",

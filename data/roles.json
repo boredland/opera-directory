@@ -620,6 +620,11 @@
     "name": "Andres"
   },
   {
+    "slug": "alban-berg/wozzeck/coaching-vocal",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Coaching vocal"
+  },
+  {
     "slug": "alban-berg/wozzeck/der-narr",
     "work_slug": "alban-berg/wozzeck",
     "name": "Der Narr"
@@ -648,6 +653,36 @@
     "slug": "alban-berg/wozzeck/kinder-und-jugendchor",
     "work_slug": "alban-berg/wozzeck",
     "name": "Kinder- und Jugendchor"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-capitaine",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Capitaine"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-docteur",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Docteur"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-fou",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Fou"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-ministre-second-apprenti",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Ministre (Second apprenti)"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-pretre-premier-apprenti",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Prêtre (Premier apprenti)"
+  },
+  {
+    "slug": "alban-berg/wozzeck/le-tambour-major",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Le Tambour-major"
   },
   {
     "slug": "alban-berg/wozzeck/margaret",
@@ -683,6 +718,11 @@
     "slug": "alban-berg/wozzeck/tenor",
     "work_slug": "alban-berg/wozzeck",
     "name": "Tenor"
+  },
+  {
+    "slug": "alban-berg/wozzeck/un-homme",
+    "work_slug": "alban-berg/wozzeck",
+    "name": "Un homme"
   },
   {
     "slug": "alban-berg/wozzeck/wozzeck",
@@ -2425,6 +2465,86 @@
     "name": "Vermittlung"
   },
   {
+    "slug": "benjamin-britten/billy-budd/billy-budd",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Billy Budd"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/capitaine-vere",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Capitaine Vere"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/dansker",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Dansker"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/donald",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Donald"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/flint",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Flint"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/john-claggart",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "John Claggart"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/l-ami-du-novice",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "L’Ami du novice"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/le-maitre-d-equipage",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Le Maître d’équipage"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/le-novice",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Le Novice"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/le-second-maitre",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Le Second Maître"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/ratcliffe",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Ratcliffe"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/red-whiskers",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Red Whiskers"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/redburn",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Redburn"
+  },
+  {
+    "slug": "benjamin-britten/billy-budd/squeak",
+    "work_slug": "benjamin-britten/billy-budd",
+    "name": "Squeak"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/1re-niece",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "1re nièce"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/2e-niece",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "2e nièce"
+  },
+  {
     "slug": "benjamin-britten/peter-grimes/auntie",
     "work_slug": "benjamin-britten/peter-grimes",
     "name": "Auntie"
@@ -2440,9 +2560,19 @@
     "name": "Bob Boles"
   },
   {
+    "slug": "benjamin-britten/peter-grimes/capitaine-balstrode",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Capitaine Balstrode"
+  },
+  {
     "slug": "benjamin-britten/peter-grimes/captain-balstrode",
     "work_slug": "benjamin-britten/peter-grimes",
     "name": "Captain Balstrode"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/collaborateur-artistique",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Collaborateur artistique"
   },
   {
     "slug": "benjamin-britten/peter-grimes/ellen-orford",
@@ -2458,6 +2588,16 @@
     "slug": "benjamin-britten/peter-grimes/horace-adams-the-rector",
     "work_slug": "benjamin-britten/peter-grimes",
     "name": "Horace Adams, the rector"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/john",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "John"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/le-reverend-adams",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Le Révérend Adams"
   },
   {
     "slug": "benjamin-britten/peter-grimes/mrs-sedley",
@@ -4175,6 +4315,61 @@
     "name": "Tybalt"
   },
   {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/amaranthe-hersilie",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Amaranthe / Hersilie"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/ange-pitou",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Ange Pitou"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/buteux-chante",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Buteux (chanté)"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/cadet-un-officier-buteux-parle-guillaume",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Cadet / Un officier / Buteux (parlé) / Guillaume"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/chef-des-choeurs",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Chef des Choeurs"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/clairette-angot",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Clairette Angot"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/larivaudiere",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Larivaudière"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/louchard",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Louchard"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/mademoiselle-lange",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Mademoiselle Lange"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/pomponnet",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Pomponnet"
+  },
+  {
+    "slug": "charles-lecocq/la-fille-de-madame-angot/trenitz-un-incroyable",
+    "work_slug": "charles-lecocq/la-fille-de-madame-angot",
+    "name": "Trénitz, un Incroyable"
+  },
+  {
     "slug": "choreographie-regie-marcos-morau/notte-morricone/buhnenbild-lichtdesign",
     "work_slug": "choreographie-regie-marcos-morau/notte-morricone",
     "name": "Bühnenbild & Lichtdesign"
@@ -4263,6 +4458,41 @@
     "slug": "christoph-willibald-gluck/orpheus-eurydice/orpheus",
     "work_slug": "christoph-willibald-gluck/orpheus-eurydice",
     "name": "Orpheus"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/accordeon",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Accordéon"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/harpe",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Harpe"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/librettiste",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Librettiste"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/matteo-le-mort",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Matteo / Le mort"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/matteo-le-pere",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Mattéo/le père"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/sofia",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Sofia"
+  },
+  {
+    "slug": "claire-melanie-sinnhuber/le-sang-du-glacier/violoncelle",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "name": "Violoncelle"
   },
   {
     "slug": "claude-debussy/l-enfant-prodigue-la-damoiselle-elue-sardanapalo/azael",
@@ -4708,6 +4938,51 @@
     "slug": "claudio-monteverdi/l-orfeo/statisterie",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Statisterie"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/arnalta",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Arnalta"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/eros",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Eros"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/fortune-drusilla",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Fortune / Drusilla"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/neron",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Néron"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/octavie-vertu",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Octavie / Vertu"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/othon",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Othon"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/poppee-amour",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Poppée / Amour"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/restitution-et-orchestration",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Restitution et orchestration"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/seneque",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Sénèque"
   },
   {
     "slug": "cole-porter/kiss-me-kate/1st-man-ensemble",
@@ -5243,6 +5518,36 @@
     "slug": "des-kinderchors/sommerkonzert/orchester",
     "work_slug": "des-kinderchors/sommerkonzert",
     "name": "Orchester"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/collaboration-artistique",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Collaboration artistique"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/guitare-electrique",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Guitare électrique"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/jeu",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Jeu"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/percussions",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Percussions"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/violoncelle",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Violoncelle"
+  },
+  {
+    "slug": "diana-soh/zylan-ne-chantera-plus/zylan",
+    "work_slug": "diana-soh/zylan-ne-chantera-plus",
+    "name": "Zylan"
   },
   {
     "slug": "die-firma/beschwerde",
@@ -6038,6 +6343,56 @@
     "slug": "ede-poldini/love-adrift/zsuzsika-their-daughter",
     "work_slug": "ede-poldini/love-adrift",
     "name": "Zsuzsika, their daughter"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/anitra-une-fille-des-paturages",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Anitra / Une fille des pâturages"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/ase-la-mere",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Åse, La Mère"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/chef-des-choeurs-et-de-la-maitrise",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Chef des Choeurs et de la Maîtrise"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/deux-filles-des-paturages",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Deux filles des pâturages"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/ingrid-la-femme-en-vert",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Ingrid / La Femme en vert"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/le-marie",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Le Marié"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/peer-gynt",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Peer Gynt"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/solveig",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Solveig"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/un-homme-le-roi-des-trolls-le-courbe-le-fondeur",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Un homme / Le Roi des Trolls / Le Courbe / Le Fondeur"
+  },
+  {
+    "slug": "edvard-grieg/peer-gynt/violoniste-du-halling",
+    "work_slug": "edvard-grieg/peer-gynt",
+    "name": "Violoniste du Halling"
   },
   {
     "slug": "ein-fall-fur-figaro/almaviva",
@@ -9610,6 +9965,66 @@
     "name": "Sir Edgardo di Ravenswood"
   },
   {
+    "slug": "gaetano-donizetti/lucrece-borgia/alfonso-d-este",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Alfonso d’Este"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/ascanio-petrucci",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Ascanio Petrucci"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/astolfo-petrucci",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Astolfo Petrucci"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/chef-des-choeurs",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Chef des Choeurs"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/don-apostolo-gazella",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Don Apostolo Gazella"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/gennaro",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Gennaro"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/gubetta",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Gubetta"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/liverotto",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Liverotto"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/lucrece-borgia",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Lucrèce Borgia"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/maffio-orsini",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Maffio Orsini"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/rustighello",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Rustighello"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrece-borgia/vitelozzo",
+    "work_slug": "gaetano-donizetti/lucrece-borgia",
+    "name": "Vitelozzo"
+  },
+  {
     "slug": "gaetano-donizetti/maria-stuarda/anna",
     "work_slug": "gaetano-donizetti/maria-stuarda",
     "name": "Anna"
@@ -11580,6 +11995,21 @@
     "name": "Cio-Cio-San"
   },
   {
+    "slug": "giacomo-puccini/madame-butterfly/cio-cio-san-les-22-24-et-26-janvier",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Cio-Cio San (Les 22, 24 et 26 janvier)"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/cio-cio-san-les-28-30-janvier-1er-et-3-fevrier",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Cio-Cio San (Les 28, 30 janvier, 1er et 3 février)"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/collaborateur-aux-mouvements",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Collaborateur aux mouvements"
+  },
+  {
     "slug": "giacomo-puccini/madame-butterfly/danseuses-danseur",
     "work_slug": "giacomo-puccini/madame-butterfly",
     "name": "Danseuses / danseur"
@@ -11600,9 +12030,49 @@
     "name": "Kate Pinkerton"
   },
   {
+    "slug": "giacomo-puccini/madame-butterfly/l-officier-d-etat-civil",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "L'officier d'état civil"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/la-cousine",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "La cousine"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/la-mere",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "La mère"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/la-tante",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "La tante"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/le-bonze",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Le Bonze"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/le-commissaire",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Le Commissaire"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/le-prince-yamadori",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Le Prince Yamadori"
+  },
+  {
     "slug": "giacomo-puccini/madame-butterfly/lo-zio-bonzo",
     "work_slug": "giacomo-puccini/madame-butterfly",
     "name": "Lo zio Bonzo"
+  },
+  {
+    "slug": "giacomo-puccini/madame-butterfly/pinkerton",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Pinkerton"
   },
   {
     "slug": "giacomo-puccini/madame-butterfly/sharpless",
@@ -11615,14 +12085,29 @@
     "name": "Suzuki"
   },
   {
+    "slug": "giacomo-puccini/madame-butterfly/yakuside",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "name": "Yakusidé"
+  },
+  {
     "slug": "giacomo-puccini/madame-butterfly/yamadori",
     "work_slug": "giacomo-puccini/madame-butterfly",
     "name": "Yamadori"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/chevalier-des-grieux",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Chevalier Des Grieux"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/der-wirt",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Der Wirt"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/edmond",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Edmond"
   },
   {
     "slug": "giacomo-puccini/manon-lescaut/edmondo",
@@ -11665,9 +12150,24 @@
     "name": "Il maestro di ballo"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/le-maitre-de-ballet",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Le maître de ballet"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/le-sergent-des-archers-l-aubergiste",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Le Sergent des archers / L'aubergiste"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/lescaut",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Lescaut"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/madrigalistes",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Madrigalistes"
   },
   {
     "slug": "giacomo-puccini/manon-lescaut/manon-lescaut",
@@ -11680,9 +12180,24 @@
     "name": "Ninetta"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/un-allumeur-de-reverbere",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Un allumeur de réverbère"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/un-comandante",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Un comandante"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/un-commandant-de-marine",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Un commandant de marine"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/un-musicien",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Un Musicien"
   },
   {
     "slug": "giacomo-puccini/manon-lescaut/un-musico",
@@ -13565,6 +14080,56 @@
     "name": "Pamyra"
   },
   {
+    "slug": "gioachino-rossini/le-turc-en-italie/albazar",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Albazar"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/don-geronio",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Don Geronio"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/don-geronio-le-21-12",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Don Geronio (le 21/12)"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/don-narciso",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Don Narciso"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/donna-fiorilla",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Donna Fiorilla"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/donna-fiorilla-17-19-12-chant",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Donna Fiorilla (17, 19,/12), chant"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/eclairagiste",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Éclairagiste"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/prosdocimo",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Prosdocimo"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/selim",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Selim"
+  },
+  {
+    "slug": "gioachino-rossini/le-turc-en-italie/zaida",
+    "work_slug": "gioachino-rossini/le-turc-en-italie",
+    "name": "Zaïda"
+  },
+  {
     "slug": "gioachino-rossini/rossini-s-cinderella/alidoro",
     "work_slug": "gioachino-rossini/rossini-s-cinderella",
     "name": "Alidoro"
@@ -13763,6 +14328,76 @@
     "slug": "gioachino-rossini/wilhelm-tell-guillaume-tell/walter-furst-melcthal",
     "work_slug": "gioachino-rossini/wilhelm-tell-guillaume-tell",
     "name": "Walter Furst / Melcthal"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/agnieska",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Agnieska"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/arielle",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Arielle"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/blanche",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Blanche"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/les-employe-es-de-l-usine",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Les employé.es de l’usine"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/lorraine",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Lorraine"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/mahtab",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Mahtab"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/mireille",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Mireille"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/odette",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Odette"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/rachel",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Rachel"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/rachel-le-15-mars",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Rachel (le 15 mars)"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/sabine",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Sabine"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/sophie",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Sophie"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/video",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Vidéo"
+  },
+  {
+    "slug": "giorgio-battistelli/7-minutes/zoelie",
+    "work_slug": "giorgio-battistelli/7-minutes",
+    "name": "Zoélie"
   },
   {
     "slug": "giueseppe-verdi/la-traviata/alfredo-germont",
@@ -14378,6 +15013,56 @@
     "slug": "giuseppe-verdi/il-trovatore/ruiz",
     "work_slug": "giuseppe-verdi/il-trovatore",
     "name": "Ruiz"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/curra",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Curra"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/don-alvaro",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Don Alvaro"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/don-carlo-di-vargas",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Don Carlo di Vargas"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/donna-leonora-di-vargas",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Donna Leonora di Vargas"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/frere-melitone",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Frère Melitone"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/le-marquis-de-calatrava",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Le Marquis de Calatrava"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/maitre-trabuco",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Maître Trabuco"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/pere-gardien",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Père gardien"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/preziosilla",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Preziosilla"
+  },
+  {
+    "slug": "giuseppe-verdi/la-force-du-destin/un-alcade-le-chirurgien",
+    "work_slug": "giuseppe-verdi/la-force-du-destin",
+    "name": "Un Alcade / Le Chirurgien"
   },
   {
     "slug": "giuseppe-verdi/la-forza-del-destino/braut",
@@ -16390,6 +17075,106 @@
     "name": "Walter Furst & Melchtal"
   },
   {
+    "slug": "gustave-charpentier/louise/1er-gardien-de-la-paix",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "1er Gardien de la paix"
+  },
+  {
+    "slug": "gustave-charpentier/louise/2e-gardien-de-la-paix",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "2e Gardien de la paix"
+  },
+  {
+    "slug": "gustave-charpentier/louise/blanche-la-plieuse-de-journaux",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Blanche / La Plieuse de journaux"
+  },
+  {
+    "slug": "gustave-charpentier/louise/camille",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Camille"
+  },
+  {
+    "slug": "gustave-charpentier/louise/collaboration-aux-mouvements",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Collaboration aux mouvements"
+  },
+  {
+    "slug": "gustave-charpentier/louise/elise-la-petite-chiffonniere",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Élise / La Petite Chiffonnière"
+  },
+  {
+    "slug": "gustave-charpentier/louise/gertrude",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Gertrude"
+  },
+  {
+    "slug": "gustave-charpentier/louise/irma",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Irma"
+  },
+  {
+    "slug": "gustave-charpentier/louise/julien-le-noctambule",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Julien / Le Noctambule"
+  },
+  {
+    "slug": "gustave-charpentier/louise/l-apprentie-gavroche",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "L’Apprentie / Gavroche"
+  },
+  {
+    "slug": "gustave-charpentier/louise/la-balayeuse",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "La Balayeuse"
+  },
+  {
+    "slug": "gustave-charpentier/louise/la-mere-de-louise-la-1re-d-atelier",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "La Mère de Louise / La 1re d’atelier"
+  },
+  {
+    "slug": "gustave-charpentier/louise/le-bricoleur",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Le Bricoleur"
+  },
+  {
+    "slug": "gustave-charpentier/louise/le-pere-le-chiffonnier",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Le Père / Le Chiffonnier"
+  },
+  {
+    "slug": "gustave-charpentier/louise/louise",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Louise"
+  },
+  {
+    "slug": "gustave-charpentier/louise/louise-le-29-janvier",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Louise (le 29 janvier)"
+  },
+  {
+    "slug": "gustave-charpentier/louise/madeleine",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Madeleine"
+  },
+  {
+    "slug": "gustave-charpentier/louise/marguerite-la-laitiere",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Marguerite / La Laitière"
+  },
+  {
+    "slug": "gustave-charpentier/louise/suzanne-la-glaneuse-de-charbon",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Suzanne / La Glaneuse de charbon"
+  },
+  {
+    "slug": "gustave-charpentier/louise/un-marchand-d-habits-le-pape-des-fous",
+    "work_slug": "gustave-charpentier/louise",
+    "name": "Un Marchand d’habits / Le Pape des fous"
+  },
+  {
     "slug": "gyorgy-ranki/king-pomade-s-new-cothes/beni",
     "work_slug": "gyorgy-ranki/king-pomade-s-new-cothes",
     "name": "Béni"
@@ -16433,6 +17218,16 @@
     "slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5/regiehospitanz",
     "work_slug": "hannes-huttner-und-gerhard-lahr/bei-der-feuerwehr-wird-der-kaffee-kalt-5",
     "name": "Regiehospitanz"
+  },
+  {
+    "slug": "hans-krasa/brundibar/brundibar",
+    "work_slug": "hans-krasa/brundibar",
+    "name": "Brundibár"
+  },
+  {
+    "slug": "hans-krasa/brundibar/maitrise-et-orchestre-de-l-opera-de-lyon",
+    "work_slug": "hans-krasa/brundibar",
+    "name": "Maîtrise et Orchestre de l'Opéra de Lyon"
   },
   {
     "slug": "hans-werner-henze/der-prinz-von-homburg/die-kurfurstin",
@@ -16648,6 +17443,51 @@
     "slug": "hector-berlioz/beatrice-benedict/paula-murrihy",
     "work_slug": "hector-berlioz/beatrice-benedict",
     "name": "Paula Murrihy"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/beatrice",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Béatrice"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/benedict",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Bénédict"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/claudio",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Claudio"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/don-pedro",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Don Pedro"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/hero-fille-de-leonato",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Héro, fille de Leonato"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/leonato",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Leonato"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/solistes-du-lyon-opera-studio",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "***Solistes du Lyon Opéra Studio"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/somarone",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Somarone"
+  },
+  {
+    "slug": "hector-berlioz/beatrice-et-benedict/ursule",
+    "work_slug": "hector-berlioz/beatrice-et-benedict",
+    "name": "Ursule"
   },
   {
     "slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/1-almosensucherin",
@@ -17535,6 +18375,56 @@
     "name": "Tenor"
   },
   {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/augustine-bremond-docteur-grimaldi-la-comtesse-de-pourtales",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "Augustine Brémond / Docteur Grimaldi / La Comtesse de Pourtalès"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/jules",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "Jules"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/l-inspecteur-le-comte-de-pourtales",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "L’Inspecteur / Le Comte de Pourtalès"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/le-garde-radel",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "Le Garde Radel"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/librettiste",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "Librettiste"
+  },
+  {
+    "slug": "isabelle-aboulker/les-enfants-du-levant/monsieur-perignon",
+    "work_slug": "isabelle-aboulker/les-enfants-du-levant",
+    "name": "Monsieur Pérignon"
+  },
+  {
+    "slug": "isabelle-aboulker/olympe-la-rebelle/le-professeur-d-histoire",
+    "work_slug": "isabelle-aboulker/olympe-la-rebelle",
+    "name": "Le Professeur d’histoire"
+  },
+  {
+    "slug": "isabelle-aboulker/olympe-la-rebelle/mise-en-espace",
+    "work_slug": "isabelle-aboulker/olympe-la-rebelle",
+    "name": "Mise en espace"
+  },
+  {
+    "slug": "isabelle-aboulker/olympe-la-rebelle/olympe",
+    "work_slug": "isabelle-aboulker/olympe-la-rebelle",
+    "name": "Olympe"
+  },
+  {
+    "slug": "isabelle-aboulker/olympe-la-rebelle/transcription",
+    "work_slug": "isabelle-aboulker/olympe-la-rebelle",
+    "name": "Transcription"
+  },
+  {
     "slug": "italienisches-intermezzo/symphoniker-im-foyer/harfe",
     "work_slug": "italienisches-intermezzo/symphoniker-im-foyer",
     "name": "Harfe"
@@ -17810,9 +18700,19 @@
     "name": "Hermann"
   },
   {
+    "slug": "jacques-offenbach/les-contes-d-hoffmann/hermann-schlemil",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "name": "Hermann / Schlemil"
+  },
+  {
     "slug": "jacques-offenbach/les-contes-d-hoffmann/hoffmann",
     "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
     "name": "Hoffmann"
+  },
+  {
+    "slug": "jacques-offenbach/les-contes-d-hoffmann/la-muse-la-voix-de-la-mere",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "name": "La Muse / La Voix de la mère"
   },
   {
     "slug": "jacques-offenbach/les-contes-d-hoffmann/la-muse-nicklausse",
@@ -17828,6 +18728,16 @@
     "slug": "jacques-offenbach/les-contes-d-hoffmann/lindorf-coppelius-dr-miracle-dapertutto",
     "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
     "name": "Lindorf, Coppélius, Dr. Miracle, Dapertutto"
+  },
+  {
+    "slug": "jacques-offenbach/les-contes-d-hoffmann/lindorf-coppelius-le-docteur-miracle-dapertutto",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "name": "Lindorf / Coppélius / Le docteur Miracle / Dapertutto"
+  },
+  {
+    "slug": "jacques-offenbach/les-contes-d-hoffmann/luther",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "name": "Luther"
   },
   {
     "slug": "jacques-offenbach/les-contes-d-hoffmann/nathanael",
@@ -22270,6 +23180,56 @@
     "name": "Varvara"
   },
   {
+    "slug": "leos-janacek/l-affaire-makropoulos/albert-gregor",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Albert Gregor"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/emilia-marty",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Emilia Marty"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/janek",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Janek"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/jaroslav-prus",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Jaroslav Prus"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/krista",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Krista"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/le-comte-hauk-sendorf",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Le Comte Hauk-šendorf"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/maitre-kolenaty",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Maître Kolenatý"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/solistes-du-lyon-opera-studio",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "***Solistes du Lyon Opéra Studio"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/un-medecin",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Un médecin"
+  },
+  {
+    "slug": "leos-janacek/l-affaire-makropoulos/vitek",
+    "work_slug": "leos-janacek/l-affaire-makropoulos",
+    "name": "Vítek"
+  },
+  {
     "slug": "les-aventures-du-roi-pausole/aline",
     "work_slug": "les-aventures-du-roi-pausole",
     "name": "Aline"
@@ -24080,6 +25040,66 @@
     "name": "Xenia’s wet nurse"
   },
   {
+    "slug": "modeste-moussorgski/boris-godounov/andrei-chtchelkalov",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Andrei Chtchelkalov"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/boris-godounov",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Boris Godounov"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/feodor",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Féodor"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/grigori",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Grigori"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/l-aubergiste",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "L’Aubergiste"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/la-nourrice",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "La Nourrice"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/le-prince-vassili-chouiski",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Le Prince Vassili Chouïski"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/missail-l-innocent",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Missaïl / L’Innocent"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/nikititch",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Nikititch"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/pimene",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Pimène"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/varlaam",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Varlaam"
+  },
+  {
+    "slug": "modeste-moussorgski/boris-godounov/xenia",
+    "work_slug": "modeste-moussorgski/boris-godounov",
+    "name": "Xénia"
+  },
+  {
     "slug": "monteverdi/l-orfeo/actor",
     "work_slug": "monteverdi/l-orfeo",
     "name": "Actor"
@@ -24558,6 +25578,66 @@
     "slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten/zarin",
     "work_slug": "nikolai-a-rimski-korsakow/die-nacht-vor-weihnachten",
     "name": "Zarin"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/chef-des-choeurs",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Chef des Choeurs"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/hanna",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Hanna"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/kalenik",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Kalenik"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/la-belle-soeur-du-maire",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "La Belle-soeur du maire"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/la-couveuse",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "La Couveuse"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/la-jeune-fille",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "La Jeune Fille"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/la-maratre",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "La Marâtre"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/le-corbeau",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Le Corbeau"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/le-distillateur",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Le Distillateur"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/le-maire",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Le Maire"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/le-scribe",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Le Scribe"
+  },
+  {
+    "slug": "nikolai-rimski-korsakov/nuit-de-mai/levko",
+    "work_slug": "nikolai-rimski-korsakov/nuit-de-mai",
+    "name": "Levko"
   },
   {
     "slug": "nikolai-rimski-korsakow/die-zarenbraut/bomelius",
@@ -27990,6 +29070,11 @@
     "name": "1. Nazarener"
   },
   {
+    "slug": "richard-strauss/salome/1er-juif",
+    "work_slug": "richard-strauss/salome",
+    "name": "1er Juif"
+  },
+  {
     "slug": "richard-strauss/salome/1st-jew",
     "work_slug": "richard-strauss/salome",
     "name": "1st Jew"
@@ -28015,6 +29100,11 @@
     "name": "2. Nazarener / Cappadozier"
   },
   {
+    "slug": "richard-strauss/salome/2e-juif",
+    "work_slug": "richard-strauss/salome",
+    "name": "2e Juif"
+  },
+  {
     "slug": "richard-strauss/salome/2nd-jew",
     "work_slug": "richard-strauss/salome",
     "name": "2nd Jew"
@@ -28035,6 +29125,11 @@
     "name": "3. Jude"
   },
   {
+    "slug": "richard-strauss/salome/3e-juif",
+    "work_slug": "richard-strauss/salome",
+    "name": "3e Juif"
+  },
+  {
     "slug": "richard-strauss/salome/3rd-jew",
     "work_slug": "richard-strauss/salome",
     "name": "3rd Jew"
@@ -28045,6 +29140,11 @@
     "name": "4. Jude"
   },
   {
+    "slug": "richard-strauss/salome/4e-juif",
+    "work_slug": "richard-strauss/salome",
+    "name": "4e Juif"
+  },
+  {
     "slug": "richard-strauss/salome/4th-jew",
     "work_slug": "richard-strauss/salome",
     "name": "4th Jew"
@@ -28053,6 +29153,11 @@
     "slug": "richard-strauss/salome/5-jude",
     "work_slug": "richard-strauss/salome",
     "name": "5. Jude"
+  },
+  {
+    "slug": "richard-strauss/salome/5e-juif",
+    "work_slug": "richard-strauss/salome",
+    "name": "5e Juif"
   },
   {
     "slug": "richard-strauss/salome/5th-jew",
@@ -28098,6 +29203,16 @@
     "slug": "richard-strauss/salome/dancer",
     "work_slug": "richard-strauss/salome",
     "name": "Dancer"
+  },
+  {
+    "slug": "richard-strauss/salome/deux-nazareens",
+    "work_slug": "richard-strauss/salome",
+    "name": "Deux Nazaréens"
+  },
+  {
+    "slug": "richard-strauss/salome/deux-soldats",
+    "work_slug": "richard-strauss/salome",
+    "name": "Deux soldats"
   },
   {
     "slug": "richard-strauss/salome/doreen-curran",
@@ -28185,9 +29300,19 @@
     "name": "Herod"
   },
   {
+    "slug": "richard-strauss/salome/herode",
+    "work_slug": "richard-strauss/salome",
+    "name": "Hérode"
+  },
+  {
     "slug": "richard-strauss/salome/herodes",
     "work_slug": "richard-strauss/salome",
     "name": "Herodes"
+  },
+  {
+    "slug": "richard-strauss/salome/herodiade",
+    "work_slug": "richard-strauss/salome",
+    "name": "Hérodiade"
   },
   {
     "slug": "richard-strauss/salome/herodias",
@@ -28203,6 +29328,11 @@
     "slug": "richard-strauss/salome/inspizienz",
     "work_slug": "richard-strauss/salome",
     "name": "Inspizienz"
+  },
+  {
+    "slug": "richard-strauss/salome/iokanaan",
+    "work_slug": "richard-strauss/salome",
+    "name": "Iokanaan"
   },
   {
     "slug": "richard-strauss/salome/jochanaan",
@@ -28233,6 +29363,11 @@
     "slug": "richard-strauss/salome/kevin-neville",
     "work_slug": "richard-strauss/salome",
     "name": "Kevin Neville"
+  },
+  {
+    "slug": "richard-strauss/salome/le-page",
+    "work_slug": "richard-strauss/salome",
+    "name": "Le Page"
   },
   {
     "slug": "richard-strauss/salome/leanne-fitzgerald",
@@ -28333,6 +29468,16 @@
     "slug": "richard-strauss/salome/tomas-tomasson",
     "work_slug": "richard-strauss/salome",
     "name": "Tómas Tómasson"
+  },
+  {
+    "slug": "richard-strauss/salome/un-cappadocien",
+    "work_slug": "richard-strauss/salome",
+    "name": "Un Cappadocien"
+  },
+  {
+    "slug": "richard-strauss/salome/une-esclave",
+    "work_slug": "richard-strauss/salome",
+    "name": "Une esclave"
   },
   {
     "slug": "richard-strauss/salome/vierter-jude",
@@ -30493,6 +31638,86 @@
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/zeremonienmeister",
     "work_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "name": "Zeremonienmeister"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/chef-des-choeurs",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Chef des Choeurs"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/fata-morgana",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Fata Morgana"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/la-cuisiniere",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "La Cuisinière"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/la-princesse-clarice",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "La Princesse Clarice"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/le-heraut",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Le Héraut"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/le-magicien-celio",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Le Magicien Celio"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/le-maitre-de-ceremonie",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Le Maître de cérémonie"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/le-prince",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Le Prince"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/le-roi-de-trefle",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Le Roi de trèfle"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/leandre-farfarello",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Léandre / Farfarello"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/linette",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Linette"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/nicolette",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Nicolette"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/ninette",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Ninette"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/pantalon",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Pantalon"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/smeraldine",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Sméraldine"
+  },
+  {
+    "slug": "serguei-prokofiev/l-amour-des-trois-oranges/truffaldino",
+    "work_slug": "serguei-prokofiev/l-amour-des-trois-oranges",
+    "name": "Truffaldino"
   },
   {
     "slug": "serra-al-deen-urauffuhrung/all-my-life-watching-america/buhne-kostum",

@@ -74,6 +74,7 @@ import { scrapeOperWuppertal } from "./houses/oper-wuppertal";
 import { scrapeOperaAustralia } from "./houses/opera-australia";
 import { scrapeOperaCollectiveIreland } from "./houses/opera-collective-ireland";
 import { scrapeOperaDeLausanne } from "./houses/opera-de-lausanne";
+import { scrapeOperaDeLyon } from "./houses/opera-de-lyon";
 import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
 import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
@@ -220,6 +221,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
   "opera-de-lausanne": scrapeOperaDeLausanne,
+  "opera-de-lyon": scrapeOperaDeLyon,
   "nouvel-opera-fribourg": scrapeNouvelOperaFribourg,
   "teatro-colon": scrapeTeatroColon,
   "opera-australia": scrapeOperaAustralia,
