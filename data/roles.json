@@ -1640,6 +1640,11 @@
     "name": "3e Nymphe"
   },
   {
+    "slug": "antonin-dvorak/rusalka/bride",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Bride"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/chasseur-garde-forestier",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Chasseur / Garde-forestier"
@@ -1690,6 +1695,11 @@
     "name": "Ein Jäger"
   },
   {
+    "slug": "antonin-dvorak/rusalka/first-wood-sprite",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "First Wood Sprite"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/foreign-princess",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Foreign Princess"
@@ -1698,6 +1708,11 @@
     "slug": "antonin-dvorak/rusalka/gamekeeper",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Gamekeeper"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/girl",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Girl"
   },
   {
     "slug": "antonin-dvorak/rusalka/heger",
@@ -1720,6 +1735,11 @@
     "name": "Ježibaba"
   },
   {
+    "slug": "antonin-dvorak/rusalka/jezibaba-a-witch",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Ježibaba, a witch"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/kuchenjunge",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Küchenjunge"
@@ -1728,6 +1748,11 @@
     "slug": "antonin-dvorak/rusalka/maquillage-et-perruques",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Maquillage et perruques"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/mother",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Mother"
   },
   {
     "slug": "antonin-dvorak/rusalka/mouvement",
@@ -1755,9 +1780,24 @@
     "name": "Rusalka"
   },
   {
+    "slug": "antonin-dvorak/rusalka/second-wood-sprite",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Second Wood Sprite"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/the-cook",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "The Cook"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/the-first-wood-nymph",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "The First Wood Nymph"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/the-foreign-princess",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "The Foreign Princess"
   },
   {
     "slug": "antonin-dvorak/rusalka/the-second-wood-nymph",
@@ -1770,9 +1810,19 @@
     "name": "The Third Wood Nymph"
   },
   {
+    "slug": "antonin-dvorak/rusalka/third-wood-sprite",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Third Wood Sprite"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/vodnik",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Vodnik"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/vodnik-the-water-goblin",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Vodník, the water goblin"
   },
   {
     "slug": "antonin-dvorak/rusalka/wassermann",
@@ -15260,9 +15310,19 @@
     "name": "Tancredi"
   },
   {
+    "slug": "gioachino-rossini/the-barber-of-seville/almaviva",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "name": "ALMAVIVA"
+  },
+  {
     "slug": "gioachino-rossini/the-barber-of-seville/bartolo",
     "work_slug": "gioachino-rossini/the-barber-of-seville",
     "name": "Bartolo"
+  },
+  {
+    "slug": "gioachino-rossini/the-barber-of-seville/basilio",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "name": "BASILIO"
   },
   {
     "slug": "gioachino-rossini/the-barber-of-seville/berta",
@@ -15293,6 +15353,16 @@
     "slug": "gioachino-rossini/the-barber-of-seville/figaro",
     "work_slug": "gioachino-rossini/the-barber-of-seville",
     "name": "Figaro"
+  },
+  {
+    "slug": "gioachino-rossini/the-barber-of-seville/fiorello",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "name": "FIORELLO"
+  },
+  {
+    "slug": "gioachino-rossini/the-barber-of-seville/guard-commander",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "name": "GUARD COMMANDER"
   },
   {
     "slug": "gioachino-rossini/the-barber-of-seville/rosina",
@@ -19668,6 +19738,101 @@
     "slug": "italienisches-intermezzo/symphoniker-im-foyer/violoncello",
     "work_slug": "italienisches-intermezzo/symphoniker-im-foyer",
     "name": "Violoncello"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/alapic",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "ALAPIĆ"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/ali-portuk",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "ALI PORTUK"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/andante-ballabile",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "ANDANTE BALLABILE"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/arabian-dance",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "ARABIAN DANCE"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/beglerbeg",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "BEGLERBEG"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/croatian-fairy",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "CROATIAN FAIRY"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/eva",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "EVA"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/jelena",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "JELENA"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/jelena-s-dream",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "JELENA'S DREAM"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/juranic",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "JURANIĆ"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/levi",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "LEVI"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/messenger",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "MESSENGER"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/mustafa",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "MUSTAFA"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/nikola-subic-zrinjski",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "NIKOLA ŠUBIĆ ZRINJSKI"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/oriental-dance",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "ORIENTAL DANCE"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/paprutovic",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "PAPRUTOVIĆ"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/sokolovic",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "SOKOLOVIĆ"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/sulejman",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "SULEJMAN"
+  },
+  {
+    "slug": "ivan-pl-zajc/nikola-subic-zrinjski/turkish-fairy",
+    "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
+    "name": "TURKISH FAIRY"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann/andres-cochenille-franz-pitichinaccio",
@@ -32695,9 +32860,24 @@
     "name": "Elisabeth"
   },
   {
+    "slug": "richard-wagner/tannhauser/first-page",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "First Page"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/fourth-page",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Fourth Page"
+  },
+  {
     "slug": "richard-wagner/tannhauser/heinrich-der-schreiber",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Heinrich der Schreiber"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/hermann",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Hermann"
   },
   {
     "slug": "richard-wagner/tannhauser/hermann-landgraf-von-thuringen",
@@ -32710,9 +32890,24 @@
     "name": "Reinmar von Zweter"
   },
   {
+    "slug": "richard-wagner/tannhauser/second-page",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Second Page"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/shepherd",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Shepherd"
+  },
+  {
     "slug": "richard-wagner/tannhauser/tannhauser",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Tannhäuser"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/third-page",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Third Page"
   },
   {
     "slug": "richard-wagner/tannhauser/venus",

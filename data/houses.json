@@ -1551,6 +1551,17 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "cnt-zagreb",
+    "name": "Croatian National Theatre in Zagreb — Opera",
+    "city": "Zagreb",
+    "country": "HR",
+    "website": "https://www.hnk.hr",
+    "wikidata": "Q268151",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Hrvatsko narodno kazalište u Zagrebu (HNK) — opera division. Bespoke CMS with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the opera index /en/opera/ + the homepage calendar link stagings as /en/opera/plays/{slug}/ — the `/opera/` genre segment IS the opera filter. Detail: `<h1><span>{Composer}</span> {Title} <span>{duration}</span></h1>` (composer = first span, title = the text node, trailing 'NNN min' stripped). Creative team (`<h4>Creatives</h4>`) and cast (`<h4>Ensemble of the performance</h4>`) share one markup — `<p class=half>{label/role}</p><div class=half name><span>{names}</span></div>` pairs split by heading; names comma-separated (alternating casts), '(studijski)' understudy tags dropped, English creative labels substring-mapped. **Performances are NOT on the detail page — they live only in the homepage calendar as anchors `/en/opera/plays/{slug}/#{DD}.{MM}.{HH}.{MM}`** (a rolling ~2-month window, no year → inferred forward from today); productions with no current calendar dates are still emitted (cast/creative only). Opera gate = person-name composer AND (cast OR director) — drops the chamber/fellows concerts carried under /opera/. Backfill Wikidata Q268151 available as a resolution anchor."
+  },
+  {
     "slug": "sng-opera-ljubljana",
     "name": "SNG Opera in balet Ljubljana",
     "city": "Ljubljana",

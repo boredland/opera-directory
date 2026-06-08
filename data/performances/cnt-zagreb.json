@@ -1,0 +1,51 @@
+[
+  {
+    "id": "cnt-zagreb/cnt-zagreb-barber-seville/2026-06-25/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-barber-seville",
+    "date": "2026-06-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-barber-seville/2026-06-27/18:00",
+    "production_id": "cnt-zagreb/cnt-zagreb-barber-seville",
+    "date": "2026-06-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-barber-seville/2026-06-29/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-barber-seville",
+    "date": "2026-06-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski/2026-06-16/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski",
+    "date": "2026-06-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski/2026-06-18/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski",
+    "date": "2026-06-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-rusalka/2026-06-11/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-rusalka",
+    "date": "2026-06-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-rusalka/2026-06-13/18:00",
+    "production_id": "cnt-zagreb/cnt-zagreb-rusalka",
+    "date": "2026-06-13",
+    "time": "18:00",
+    "status": "scheduled"
+  }
+]

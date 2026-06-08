@@ -14,6 +14,7 @@ import { scrapeBudapestOperetta } from "./houses/budapest-operetta";
 import { scrapeBuehneBaden } from "./houses/buehne-baden";
 import { scrapeCanadianOperaCompany } from "./houses/canadian-opera-company";
 import { scrapeCincinnatiOpera } from "./houses/cincinnati-opera";
+import { scrapeCntZagreb } from "./houses/cnt-zagreb";
 import { scrapeDallasOpera } from "./houses/dallas-opera";
 import { scrapeDetroitOpera } from "./houses/detroit-opera";
 import { scrapeDeutscheOperAmRhein } from "./houses/deutsche-oper-am-rhein";
@@ -229,6 +230,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "lithuanian-national-opera": scrapeLithuanianNationalOpera,
   "slovak-national-theatre": scrapeSlovakNationalTheatre,
   "sng-opera-ljubljana": scrapeSngOperaLjubljana,
+  "cnt-zagreb": scrapeCntZagreb,
   "budapest-operetta": scrapeBudapestOperetta,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,
