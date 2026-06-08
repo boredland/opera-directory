@@ -1,0 +1,942 @@
+[
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-carmina-burana-plus",
+    "work_slug": "carl-orff/carmina-burana",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/carmina-burana-plus",
+    "creative_team": [
+      {
+        "person_slug": "anja-moderndorfer",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lukas-zuschlag",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ayrton-desimpelaere",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marko-hribernik",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matea-benedetti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manfred-schweigkofler",
+        "function": "director"
+      },
+      {
+        "person_slug": "tatjana-azman-franz-braun",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ivan-andres-arnsek",
+        "role_slug": "carl-orff/carmina-burana/baritone"
+      },
+      {
+        "person_slug": "rok-bavcar",
+        "role_slug": "carl-orff/carmina-burana/baritone"
+      },
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "carl-orff/carmina-burana/bass"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "carl-orff/carmina-burana/bass"
+      },
+      {
+        "person_slug": "georgeta-capraroiu",
+        "role_slug": "carl-orff/carmina-burana/dancers"
+      },
+      {
+        "person_slug": "jozica-avbelj",
+        "role_slug": "carl-orff/carmina-burana/everyman-olim-iactum"
+      },
+      {
+        "person_slug": "nina-dominko",
+        "role_slug": "carl-orff/carmina-burana/soprano"
+      },
+      {
+        "person_slug": "stefica-grasselli",
+        "role_slug": "carl-orff/carmina-burana/soprano"
+      },
+      {
+        "person_slug": "dejan-maksimiljan-vrbancic",
+        "role_slug": "carl-orff/carmina-burana/tenor"
+      },
+      {
+        "person_slug": "franko-klisovic",
+        "role_slug": "carl-orff/carmina-burana/tenor"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-devica-orleanska",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/devica-orleanska",
+    "creative_team": [
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "simon-krecic",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "belinda-radulovic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "frank-van-laecke",
+        "function": "director"
+      },
+      {
+        "person_slug": "jasmin-sehic",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "philippe-miesch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ana-dezman",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/agnes-sorel"
+      },
+      {
+        "person_slug": "rebeka-radovan",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/agnes-sorel"
+      },
+      {
+        "person_slug": "amina-natalija-maghraby",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/angel"
+      },
+      {
+        "person_slug": "polona-kante",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/angel"
+      },
+      {
+        "person_slug": "marko-erzar",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/bertrand"
+      },
+      {
+        "person_slug": "vladimir-jaksic",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/bertrand"
+      },
+      {
+        "person_slug": "darko-vidic",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/dunois"
+      },
+      {
+        "person_slug": "slavko-savinsek",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/dunois"
+      },
+      {
+        "person_slug": "margareta-matisic",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/joan-of-arc"
+      },
+      {
+        "person_slug": "nuska-drascek",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/joan-of-arc"
+      },
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/king-charles-vii"
+      },
+      {
+        "person_slug": "matej-vovk",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/king-charles-vii"
+      },
+      {
+        "person_slug": "anton-habjan",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/lauret"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/lauret"
+      },
+      {
+        "person_slug": "rok-bavcar",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/lionel-a-burgundian-knight"
+      },
+      {
+        "person_slug": "aljaz-zgavc",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/raymond-joan-s-betrothed"
+      },
+      {
+        "person_slug": "rusmir-redzic",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/raymond-joan-s-betrothed"
+      },
+      {
+        "person_slug": "anton-habjan",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/soldier"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/soldier"
+      },
+      {
+        "person_slug": "luka-ortar",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/the-archbishop"
+      },
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/the-archbishop"
+      },
+      {
+        "person_slug": "janko-volcansek",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/thibaut-d-arc-joan-s-father"
+      },
+      {
+        "person_slug": "zoran-potocan",
+        "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/thibaut-d-arc-joan-s-father"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-giuseppe-verdi-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/giuseppe-verdi-la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "lukas-zuschlag",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ayrton-desimpelaere",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marnik-baert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "frank-van-laecke",
+        "function": "director"
+      },
+      {
+        "person_slug": "jasmin-sehic",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "philippe-miesch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aljaz-farasin",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "paolo-fanale",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "polona-kante",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "sandra-vidovic-mlakar",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "anton-habjan",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "darko-vidic",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "anja-moderndorfer",
+        "role_slug": "giuseppe-verdi/la-traviata/dancers-all-a-g"
+      },
+      {
+        "person_slug": "izabela-susnik",
+        "role_slug": "giuseppe-verdi/la-traviata/dancers-all-a-g"
+      },
+      {
+        "person_slug": "mateja-zeleznik",
+        "role_slug": "giuseppe-verdi/la-traviata/dancers-all-a-g"
+      },
+      {
+        "person_slug": "klemen-gorensek",
+        "role_slug": "giuseppe-verdi/la-traviata/doctor-grenvil"
+      },
+      {
+        "person_slug": "zoran-potocan",
+        "role_slug": "giuseppe-verdi/la-traviata/doctor-grenvil"
+      },
+      {
+        "person_slug": "gordana-hleb",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "margareta-matisic",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "matej-vovk",
+        "role_slug": "giuseppe-verdi/la-traviata/gaston"
+      },
+      {
+        "person_slug": "rusmir-redzic",
+        "role_slug": "giuseppe-verdi/la-traviata/gaston"
+      },
+      {
+        "person_slug": "domen-krizaj",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "ivan-andres-arnsek",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "david-cadez",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "rusmir-redzic",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "janko-volcansek",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "peter-grdadolnik",
+        "role_slug": "giuseppe-verdi/la-traviata/messenger"
+      },
+      {
+        "person_slug": "vladimir-jaksic",
+        "role_slug": "giuseppe-verdi/la-traviata/messenger"
+      },
+      {
+        "person_slug": "peter-grdadolnik",
+        "role_slug": "giuseppe-verdi/la-traviata/servant"
+      },
+      {
+        "person_slug": "vladimir-jaksic",
+        "role_slug": "giuseppe-verdi/la-traviata/servant"
+      },
+      {
+        "person_slug": "mojca-bitenc-krizaj",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "nina-dominko",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-italijanka-v-alziru",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/italijanka-v-alziru",
+    "creative_team": [
+      {
+        "person_slug": "lukas-zuschlag",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mojca-lavrencic",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carlos-tieppo",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "emanuele-gamba",
+        "function": "director"
+      },
+      {
+        "person_slug": "tatjana-azman",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "milco-aleksandrov",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "massimo-checchetto",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "neza-vasle",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/elvira"
+      },
+      {
+        "person_slug": "stefica-grasselli",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/elvira"
+      },
+      {
+        "person_slug": "darko-vidic",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/haly"
+      },
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/haly"
+      },
+      {
+        "person_slug": "elena-dobravec",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/isabella"
+      },
+      {
+        "person_slug": "nuska-drascek",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/isabella"
+      },
+      {
+        "person_slug": "dejan-m-vrbancic",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/lindoro-bryan"
+      },
+      {
+        "person_slug": "lopez-gonzalez",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/lindoro-bryan"
+      },
+      {
+        "person_slug": "nebojsa-babic",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/mustafa"
+      },
+      {
+        "person_slug": "peter-martincic",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/mustafa"
+      },
+      {
+        "person_slug": "jure-pockaj",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/taddeo"
+      },
+      {
+        "person_slug": "rok-bavcar",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/taddeo"
+      },
+      {
+        "person_slug": "inez-osina-rues",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/zulma"
+      },
+      {
+        "person_slug": "sara-briski-cirman",
+        "role_slug": "gioachino-rossini/italijanka-v-alziru/zulma"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-manon-lescaut-2",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/manon-lescaut-2",
+    "creative_team": [
+      {
+        "person_slug": "lukas-zuschlag",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ayrton-desimpelaere",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "matea-benedetti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manfred-schweigkofler",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "walter-schutze",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "giacomo-puccini/manon-lescaut/ballet-master"
+      },
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "giacomo-puccini/manon-lescaut/edmondo"
+      },
+      {
+        "person_slug": "sasa-cano",
+        "role_slug": "giacomo-puccini/manon-lescaut/geronte-di-ravoir"
+      },
+      {
+        "person_slug": "tomaz-horvat",
+        "role_slug": "giacomo-puccini/manon-lescaut/hairdresser"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "giacomo-puccini/manon-lescaut/innkeeper"
+      },
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "giacomo-puccini/manon-lescaut/lamplighter"
+      },
+      {
+        "person_slug": "mojca-bitenc-krizaj",
+        "role_slug": "giacomo-puccini/manon-lescaut/manon-lescaut"
+      },
+      {
+        "person_slug": "zoran-potocan",
+        "role_slug": "giacomo-puccini/manon-lescaut/naval-captain"
+      },
+      {
+        "person_slug": "vladimir-jaksic",
+        "role_slug": "giacomo-puccini/manon-lescaut/sergeant"
+      },
+      {
+        "person_slug": "ireneja-nejka-cuk",
+        "role_slug": "giacomo-puccini/manon-lescaut/singer"
+      },
+      {
+        "person_slug": "polona-kante",
+        "role_slug": "giacomo-puccini/manon-lescaut/singer"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-netopir-die-fledermaus-2",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/netopir-die-fledermaus-2",
+    "creative_team": [
+      {
+        "person_slug": "lukas-zuschlag",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ayrton-desimpelaere",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alan-hranitelj",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kresimir-dolencic",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "andrej-strazisar",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "eva-cerne-avbelj",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/adela"
+      },
+      {
+        "person_slug": "nina-dominko",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/adela"
+      },
+      {
+        "person_slug": "stefica-grasselli",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/adela"
+      },
+      {
+        "person_slug": "andrej-debevec",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/alfredo"
+      },
+      {
+        "person_slug": "dejan-maksimilijan-vrbancic",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/alfredo"
+      },
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/blind"
+      },
+      {
+        "person_slug": "gregor-ravnik",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/blind"
+      },
+      {
+        "person_slug": "martin-susnik",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/eisenstein"
+      },
+      {
+        "person_slug": "matej-vovk",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/eisenstein"
+      },
+      {
+        "person_slug": "rok-bavcar",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/falke"
+      },
+      {
+        "person_slug": "slavko-savinsek",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/falke"
+      },
+      {
+        "person_slug": "ivan-a-arnsek",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/frank"
+      },
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/frank"
+      },
+      {
+        "person_slug": "gojmir-lesnjak-gojc",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/frosch"
+      },
+      {
+        "person_slug": "ireneja-nejka-cuk",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/ida"
+      },
+      {
+        "person_slug": "lora-pavletic",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/ida"
+      },
+      {
+        "person_slug": "anja-zemljaric",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/orlovski"
+      },
+      {
+        "person_slug": "margareta-matisic",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/orlovski"
+      },
+      {
+        "person_slug": "norina-radovan",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/orlovski"
+      },
+      {
+        "person_slug": "martina-zadro",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/rosalinda"
+      },
+      {
+        "person_slug": "mojca-bitenc-krizaj",
+        "role_slug": "johann-strauss-jr/the-bat-die-fledermaus/rosalinda"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-potovanje-v-reims",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/potovanje-v-reims",
+    "creative_team": [
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marko-hribernik",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sandra-dekanic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marin-blazevic",
+        "function": "director"
+      },
+      {
+        "person_slug": "wolfgang-von-zoubek",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marko-ferjancic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/antonio"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/antonio"
+      },
+      {
+        "person_slug": "irene-celle",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/corinna"
+      },
+      {
+        "person_slug": "nuska-drascek",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/corinna"
+      },
+      {
+        "person_slug": "lora-pavletic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/delia"
+      },
+      {
+        "person_slug": "polona-kante",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/delia"
+      },
+      {
+        "person_slug": "jure-pockaj",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-alvaro"
+      },
+      {
+        "person_slug": "rok-bavcar",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-alvaro"
+      },
+      {
+        "person_slug": "david-cadez",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-luigino"
+      },
+      {
+        "person_slug": "matej-velikonja",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-luigino"
+      },
+      {
+        "person_slug": "benjamin-suran",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-profondo"
+      },
+      {
+        "person_slug": "sasa-cano",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-profondo"
+      },
+      {
+        "person_slug": "lovro-korosec",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-prudenzio"
+      },
+      {
+        "person_slug": "luka-ortar",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/don-prudenzio"
+      },
+      {
+        "person_slug": "edvard-strah",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/gelsomino"
+      },
+      {
+        "person_slug": "rusmir-redzic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/gelsomino"
+      },
+      {
+        "person_slug": "giorgio-surian",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-barone-di-trombonok"
+      },
+      {
+        "person_slug": "joze-vidic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-barone-di-trombonok"
+      },
+      {
+        "person_slug": "aljaz-farasin",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-cavaliere-belfiore"
+      },
+      {
+        "person_slug": "bryan-lopez-gonzales",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-cavaliere-belfiore"
+      },
+      {
+        "person_slug": "dejan-m-vrbancic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-conte-di-libenskof"
+      },
+      {
+        "person_slug": "stevan-karanac",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/il-conte-di-libenskof"
+      },
+      {
+        "person_slug": "nina-dominko",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/la-contessa-di-folleville"
+      },
+      {
+        "person_slug": "stefica-grasselli",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/la-contessa-di-folleville"
+      },
+      {
+        "person_slug": "elena-dobravec",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/la-marchesa-melibea"
+      },
+      {
+        "person_slug": "nutsa-zakaidze",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/la-marchesa-melibea"
+      },
+      {
+        "person_slug": "nebojsa-babic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/lord-sidney"
+      },
+      {
+        "person_slug": "peter-martincic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/lord-sidney"
+      },
+      {
+        "person_slug": "diana-haller",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/madama-cortese"
+      },
+      {
+        "person_slug": "martina-zadro",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/madama-cortese"
+      },
+      {
+        "person_slug": "anja-zemljaric",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/maddalena"
+      },
+      {
+        "person_slug": "galja-gorceva",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/maddalena"
+      },
+      {
+        "person_slug": "inez-osina-rues",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/modestina"
+      },
+      {
+        "person_slug": "ireneja-nejka-cuk",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/modestina"
+      },
+      {
+        "person_slug": "gregor-ravnik",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/zefirino"
+      },
+      {
+        "person_slug": "mario-filipovic",
+        "role_slug": "gioachino-rossini/il-viaggio-a-reims/zefirino"
+      }
+    ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-tristan-in-izolda",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/tristan-in-izolda",
+    "creative_team": [
+      {
+        "person_slug": "zeljka-ulcnik-remic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jacek-kaspszyk",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anjana-pavlic-polsak",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jacques-reynaud",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "robert-wilson",
+        "function": "director"
+      },
+      {
+        "person_slug": "konrad-kuhn",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "tatjana-azman",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "marcello-lumaca",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebeka-dobravec",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "robert-wilson",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "robert-wilson",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "stephanie-engeln",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "matej-vovk",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-shepherd"
+      },
+      {
+        "person_slug": "robert-brezovar",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-steersman"
+      },
+      {
+        "person_slug": "aljaz-farasin",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-voice-of-a-young-sailor"
+      },
+      {
+        "person_slug": "dubravka-separovic-musovic",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/brangane"
+      },
+      {
+        "person_slug": "manca-marinko",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/english-horn-solo"
+      },
+      {
+        "person_slug": "edith-haller",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "magdalena-anna-hofmann",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "peter-martincic",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/king-marke"
+      },
+      {
+        "person_slug": "grga-peros",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "joze-vidic",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "ivan-a-arnsek",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/melot"
+      },
+      {
+        "person_slug": "jonathan-stoughton",
+        "role_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/tristan"
+      }
+    ]
+  }
+]

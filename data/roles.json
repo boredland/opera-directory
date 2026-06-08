@@ -4080,9 +4080,29 @@
     "name": "Stöber"
   },
   {
+    "slug": "carl-orff/carmina-burana/baritone",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Baritone"
+  },
+  {
+    "slug": "carl-orff/carmina-burana/bass",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Bass"
+  },
+  {
     "slug": "carl-orff/carmina-burana/chore",
     "work_slug": "carl-orff/carmina-burana",
     "name": "Chöre"
+  },
+  {
+    "slug": "carl-orff/carmina-burana/dancers",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Dancers"
+  },
+  {
+    "slug": "carl-orff/carmina-burana/everyman-olim-iactum",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Everyman – Olim iactum"
   },
   {
     "slug": "carl-orff/carmina-burana/musikalische-einstudierung",
@@ -4093,6 +4113,16 @@
     "slug": "carl-orff/carmina-burana/orchester",
     "work_slug": "carl-orff/carmina-burana",
     "name": "Orchester"
+  },
+  {
+    "slug": "carl-orff/carmina-burana/soprano",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Soprano"
+  },
+  {
+    "slug": "carl-orff/carmina-burana/tenor",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Tenor"
   },
   {
     "slug": "carl-zeller/der-vogelhandler/adam",
@@ -12950,6 +12980,11 @@
     "name": "Yamadori"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/ballet-master",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Ballet Master"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/chevalier-des-grieux",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Chevalier Des Grieux"
@@ -12995,6 +13030,11 @@
     "name": "Geronte di Ravoir"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/hairdresser",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Hairdresser"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/il-cavaliere-des-grieux",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Il cavaliere Des Grieux"
@@ -13003,6 +13043,16 @@
     "slug": "giacomo-puccini/manon-lescaut/il-maestro-di-ballo",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Il maestro di ballo"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/innkeeper",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Innkeeper"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/lamplighter",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Lamplighter"
   },
   {
     "slug": "giacomo-puccini/manon-lescaut/le-maitre-de-ballet",
@@ -13030,9 +13080,24 @@
     "name": "Manon Lescaut"
   },
   {
+    "slug": "giacomo-puccini/manon-lescaut/naval-captain",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Naval Captain"
+  },
+  {
     "slug": "giacomo-puccini/manon-lescaut/ninetta",
     "work_slug": "giacomo-puccini/manon-lescaut",
     "name": "Ninetta"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/sergeant",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Sergeant"
+  },
+  {
+    "slug": "giacomo-puccini/manon-lescaut/singer",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "name": "Singer"
   },
   {
     "slug": "giacomo-puccini/manon-lescaut/un-allumeur-de-reverbere",
@@ -14585,6 +14650,36 @@
     "name": "Don Prudenzio"
   },
   {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/gelsomino",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "Gelsomino"
+  },
+  {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/il-barone-di-trombonok",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "Il barone di Trombonok"
+  },
+  {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/il-cavaliere-belfiore",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "Il cavaliere Belfiore"
+  },
+  {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/il-conte-di-libenskof",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "Il conte di Libenskof"
+  },
+  {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/la-contessa-di-folleville",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "La contessa di Folleville"
+  },
+  {
+    "slug": "gioachino-rossini/il-viaggio-a-reims/la-marchesa-melibea",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "name": "La marchesa Melibea"
+  },
+  {
     "slug": "gioachino-rossini/il-viaggio-a-reims/lord-sidney",
     "work_slug": "gioachino-rossini/il-viaggio-a-reims",
     "name": "Lord Sidney"
@@ -14613,6 +14708,41 @@
     "slug": "gioachino-rossini/il-viaggio-a-reims/zefirino",
     "work_slug": "gioachino-rossini/il-viaggio-a-reims",
     "name": "Zefirino"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/elvira",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Elvira"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/haly",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Haly"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/isabella",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Isabella"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/lindoro-bryan",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Lindoro Bryan"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/mustafa",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Mustafà"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/taddeo",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Taddeo"
+  },
+  {
+    "slug": "gioachino-rossini/italijanka-v-alziru/zulma",
+    "work_slug": "gioachino-rossini/italijanka-v-alziru",
+    "name": "Zulma"
   },
   {
     "slug": "gioachino-rossini/l-italiana-in-algeri/ali",
@@ -16210,6 +16340,11 @@
     "name": "Dancer"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/dancers-all-a-g",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Dancers (all a. g.)"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/david-scott",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "David Scott"
@@ -16488,6 +16623,11 @@
     "slug": "giuseppe-verdi/la-traviata/photographer",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Photographer"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/servant",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Servant"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/the-messenger",
@@ -21298,6 +21438,56 @@
     "slug": "johann-strauss-ii/die-fledermaus/rosalinde",
     "work_slug": "johann-strauss-ii/die-fledermaus",
     "name": "Rosalinde"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/adela",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Adela"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/alfredo",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Alfredo"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/blind",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Blind"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/eisenstein",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Eisenstein"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/falke",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Falke"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/frank",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Frank"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/frosch",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Frosch"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/ida",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Ida"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/orlovski",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Orlovski"
+  },
+  {
+    "slug": "johann-strauss-jr/the-bat-die-fledermaus/rosalinda",
+    "work_slug": "johann-strauss-jr/the-bat-die-fledermaus",
+    "name": "Rosalinda"
   },
   {
     "slug": "johann-strauss-und-ralph-benatzky/casanova/barberina",
@@ -29110,6 +29300,66 @@
     "name": "Tatiana"
   },
   {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/agnes-sorel",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Agnès Sorel"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/angel",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Angel"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/bertrand",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Bertrand"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/dunois",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Dunois"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/joan-of-arc",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Joan of Arc"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/king-charles-vii",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "King Charles VII"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/lauret",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Lauret"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/lionel-a-burgundian-knight",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Lionel, a Burgundian Knight"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/raymond-joan-s-betrothed",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Raymond, Joan's Betrothed"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/soldier",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Soldier"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/the-archbishop",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "The Archbishop"
+  },
+  {
+    "slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/thibaut-d-arc-joan-s-father",
+    "work_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans",
+    "name": "Thibaut d'Arc, Joan's Father"
+  },
+  {
     "slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades/count-tomsky",
     "work_slug": "pyotr-ilyich-tchaikovsky/the-queen-of-spades",
     "name": "Count Tomsky"
@@ -32548,6 +32798,56 @@
     "slug": "richard-wagner/the-flying-dutchman/toby-spence",
     "work_slug": "richard-wagner/the-flying-dutchman",
     "name": "Toby Spence"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-shepherd",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "A shepherd"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-steersman",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "A steersman"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/a-voice-of-a-young-sailor",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "A voice of a young sailor"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/brangane",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "Brangäne"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/english-horn-solo",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "English Horn Solo"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/isolde",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "Isolde"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/king-marke",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "King Marke"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/kurwenal",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "Kurwenal"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/melot",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "Melot"
+  },
+  {
+    "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde/tristan",
+    "work_slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
+    "name": "Tristan"
   },
   {
     "slug": "richard-wagner/tristan-und-isolde/brangane",

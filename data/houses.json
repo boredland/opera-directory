@@ -1551,6 +1551,17 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "sng-opera-ljubljana",
+    "name": "SNG Opera in balet Ljubljana",
+    "city": "Ljubljana",
+    "country": "SI",
+    "website": "https://www.opera.si",
+    "wikidata": "Q7541707",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Slovene National Theatre Opera and Ballet, Ljubljana. SilverStripe site with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the current-season page /en/seasoni-202425 links every staging as /en/programme/event/{opera|balet}/{slug} — the `/opera/` genre segment IS the opera filter. Detail page: work title is the non-`visuallyhidden` `<h1>`. Creative team + cast share one markup — `<div class=cast><ul><li>{label} <strong>{names}</strong></li>` — split by their `<h3>` heading ('Artists' → creative incl. composer in the 'Music' row, English labels substring-mapped; 'Entire cast' → character roles); names are ' / '-separated (alternating casts) with guest markers ('a. g.') stripped. **Performances are NOT in the HTML (React widget) — they come from the site's GraphQL API (POST /graphql, `readEventShows`) keyed by the page's `data-eventid`**, returning startDate/startTime/location/soldout per night (eventTypeName re-checked == Opera). Opera gate = /opera/ URL AND person-name composer AND (cast OR director). Note the GraphQL has bilingual duplicate event records — discovery via the /en/ season page gives one English-rendered slug per production, sidestepping the dupes. Backfill Wikidata Q7541707 available as a resolution anchor."
+  },
+  {
     "slug": "slovak-national-theatre",
     "name": "Slovak National Theatre — Opera",
     "city": "Bratislava",
