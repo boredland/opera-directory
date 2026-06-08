@@ -1562,6 +1562,17 @@
     "notes": "Εθνική Λυρική Σκηνή, Athens — national opera of Greece, resident since 2017 at the Stavros Niarchos Hall (SNFCC). Joomla + K2pro CMS, full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the 'SN Opera' category page /en/stavros-niarchos-hall/sn-opera lists the mainstage opera programme as /item/{id}-{slug} links — opera-only by construction (ballet/concerts live in sibling K2 categories), and it carries the running season AND the announced next one (recent past + full future in one list). Detail: `<h1>` work title; `<h2>Opera - {Composer}</h2>` subtitle = composer. Credit block at the foot of the K2 itemFullText is a `{Label}: <strong>{Name}</strong>` paragraph (Conductor / Stage direction… / Chorus master) — English labels substring-mapped to function slugs (combined 'Stage direction, sets, costumes, lighting' → director); cast from the `div.cf_parprotagon` list of `<p>{Role}<br><strong>{Name}</strong> (dates)…</p>` blocks (alternating casts printed inline, all names kept at production level; Orchestra/Chorus/Ballet ensemble rows dropped). Dates from the sidebar 'Available Dates' — one or more '{day, day, …} {Mon} {YYYY}' groups, each day-run anchored to its trailing month (L'Orfeo straddles 'Oct 2026 … Nov 2026'); start time from 'Starts at: <strong>HH.MM</strong>'; 'Revival' badge → is_revival. **Opera gate = person-name composer AND (a cast list OR a director credit).** No archive walk (the listing's two seasons are the live window); Wikidata Q582625 available as a resolution anchor."
   },
   {
+    "slug": "latvian-national-opera",
+    "name": "Latvian National Opera",
+    "city": "Rīga",
+    "country": "LV",
+    "website": "https://www.opera.lv",
+    "wikidata": "Q555773",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Latvijas Nacionālā opera un balets (LNOB), Rīga — national opera & ballet of Latvia. Bespoke CMS with a full English /en/ mirror, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. Discovery: the repertoire index /en/repertoire/ lists the live programme as /en/production/{slug}/ links (opera AND ballet mixed) → the genre is read off each detail page's banner `div.slider__top-left > h2` and only 'Opera' is kept. Detail: `<h1 class=open-show__title>` work title, `<h2 class=open-show__sub-title>` composer. Creative team from `<a class=open-show__team>` cards (.open-show__team__name + English .open-show__team__title function, substring-mapped; unknowns like 'Production of Video Art' skipped). Cast from `<div id=nav-actors>` of `<p>{Role}: <a class=open-show__role>{Name}</a>, …</p>` rows (alternating casts comma-separated, all kept at production level). Performances from the `ul.upcoming__items` slider — `<time>{weekday} <b>{month day}</b> <b>{HH:MM}</b></time>` prints NO year, so the ascending month sequence is walked forward from today, rolling the year at each Jan wrap; **announced future only** (a repertory house's upcoming dates; no archive walk). Opera gate = banner genre 'Opera' AND person-name composer AND (cast OR director). Backfill Wikidata Q555773 available as a resolution anchor."
+  },
+  {
     "slug": "wiener-volksoper",
     "name": "Wiener Volksoper",
     "city": "Vienna",
