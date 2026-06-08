@@ -1,0 +1,436 @@
+[
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz/2026-04-30/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz",
+    "date": "2026-04-30",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz/2026-05-12/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz",
+    "date": "2026-05-12",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz/2026-05-21/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz",
+    "date": "2026-05-21",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum/2027-06-04/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "date": "2027-06-04",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum/2027-06-08/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "date": "2027-06-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum/2027-06-10/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "date": "2027-06-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum/2027-06-12/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "date": "2027-06-12",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum/2027-06-16/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "date": "2027-06-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-04-25/18:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-04-25",
+    "time": "18:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-04-28/11:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-04-28",
+    "time": "11:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-05-10/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-05-10",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-05-19/11:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-05-19",
+    "time": "11:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-05-20/10:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-05-20",
+    "time": "10:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-06-02/11:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-06-02",
+    "time": "11:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-06-03/10:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-06-03",
+    "time": "10:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3/2026-06-07/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "date": "2026-06-07",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-eugen-onegin-2/2026-05-02/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-eugen-onegin-2",
+    "date": "2026-05-02",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-eugen-onegin-2/2026-06-05/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-eugen-onegin-2",
+    "date": "2026-06-05",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2026-11-15/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2026-11-15",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2026-11-18/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2026-11-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2026-11-20/10:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2026-11-20",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2026-12-09/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2026-12-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2026-12-30/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2026-12-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2/2027-01-22/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "date": "2027-01-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-08/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-08",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-11/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-13/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-15/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-19/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-05-29/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-05-29",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-06-06/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-06-06",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano/2027-06-15/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "date": "2027-06-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-09-19/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-09-19",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-09-23/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-09-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-09-25/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-09-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-09-27/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-09-27",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-04/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-04",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-07/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-13/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-16/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-22/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-10-29/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-10-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-11-03/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-11-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri/2026-12-11/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "date": "2026-12-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-17/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-20/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-24/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-24",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-26/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-28/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-01-31/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-01-31",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-02-03/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-02-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-02-05/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-02-12/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-02-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-02-26/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-02-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-02-28/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-02-28",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-03-02/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-03-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe/2027-03-04/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "date": "2027-03-04",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2/2026-10-31/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "date": "2026-10-31",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2/2026-11-05/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "date": "2026-11-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2/2026-11-07/19:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "date": "2026-11-07",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2/2026-11-10/19:30",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2/2026-11-14/15:00",
+    "production_id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "date": "2026-11-14",
+    "time": "15:00",
+    "status": "scheduled"
+  }
+]

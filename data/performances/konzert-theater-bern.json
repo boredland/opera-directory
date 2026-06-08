@@ -1,0 +1,722 @@
+[
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-01-03/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-01-03",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-01-16/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-01-16",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-01-24/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-01-24",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-01-30/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-02-16/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-02-16",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-02-21/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-02-21",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-03-14/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-03-14",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-04-29/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-04-29",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-05-05/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-05-05",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-05-14/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-05-14",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci/2027-05-23/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "date": "2027-05-23",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2026-11-08/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2026-11-08",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2026-11-14/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2026-11-14",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2026-11-17/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2026-11-17",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2026-11-21/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2026-12-20/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2026-12-20",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2027-01-27/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2027-01-27",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2027-02-28/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2027-02-28",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2027-03-10/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2027-03-10",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2027-03-12/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2027-03-12",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni/2027-04-13/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "date": "2027-04-13",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-05-31/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-05-31",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-10/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-10",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-17/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-17",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-18/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-18",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-21/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-23/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-23",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar/2026-06-27/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "date": "2026-06-27",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "sold_out"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-03/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-03",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-05/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-05",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-08/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-08",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-10/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-10",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-12/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-12",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-05-24/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-05-24",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-06-09/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-06-09",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "few_left"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino/2026-06-19/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "date": "2026-06-19",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "few_left"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-09-06/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-09-06",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-09-19/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-09-19",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-09-29/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-09-29",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-10-11/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-10-11",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-10-25/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-10-25",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-10-31/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-11-29/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-11-29",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-10/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-13/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-13",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-16/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-16",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-18/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-18",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-27/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-27",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2026-12-31/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2026-12-31",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata/2027-01-19/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "date": "2027-01-19",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-05-17/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-05-17",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-05-30/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-05-30",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-06-02/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-06-02",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-06-06/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-06-06",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "past"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-06-12/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-06-12",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone/2026-06-14/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "date": "2026-06-14",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "few_left"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-03-21/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-03-21",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-04-04/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-04-04",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-04-10/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-04-14/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-04-14",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-04-28/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-04-28",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-04-30/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-04-30",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-02/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-02",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-04/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-04",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-09/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-09",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-11/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-11",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-22/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-22",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-05-29/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-05-29",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-06-20/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-06-20",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady/2027-06-26/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "date": "2027-06-26",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-05-23/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-05-23",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-06-06/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-06-06",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-06-13/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-06-13",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-06-15/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-06-15",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-06-22/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-06-22",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel/2027-06-27/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "date": "2027-06-27",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca/2026-09-26/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "date": "2026-09-26",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca/2026-10-01/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "date": "2026-10-01",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca/2026-10-03/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "date": "2026-10-03",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca/2026-10-18/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "date": "2026-10-18",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca/2026-10-20/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "date": "2026-10-20",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-02-21/11:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-02-21",
+    "time": "11:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-03-06/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-03-21/16:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-03-21",
+    "time": "16:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-04-06/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-04-06",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-05-12/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-05-12",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-05-21/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-05-30/18:00",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-05-30",
+    "time": "18:00",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-06-08/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-06-08",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes/2027-06-16/19:30",
+    "production_id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "date": "2027-06-16",
+    "time": "19:30",
+    "venue_room": "Stadttheater",
+    "status": "scheduled"
+  }
+]

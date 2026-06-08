@@ -18,11 +18,20 @@
     "cast": []
   },
   {
+    "id": "oper-halle/die-kinder-des-monsieur-mathieu",
+    "work_slug": "lisett-ansorge/die-kinder-des-monsieur-mathieu",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/die-kinder-des-monsieur-mathieu/263906",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/handel-lounge",
     "work_slug": "handel-lounge",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276984",
+    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276985",
     "creative_team": [],
     "cast": []
   },
@@ -41,6 +50,15 @@
     "house_slug": "oper-halle",
     "is_revival": false,
     "detail_url": "https://www.buehnen-halle.de/de/program/lullaby-oper-fur-die-allerkleinsten/256420",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/madama-butterfly",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/madama-butterfly/249452",
     "creative_team": [],
     "cast": []
   },
@@ -76,7 +94,7 @@
     "work_slug": "georg-friedrich-handel/rinaldo",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/rinaldo/248710",
+    "detail_url": "https://www.buehnen-halle.de/de/program/rinaldo/248716",
     "creative_team": [],
     "cast": []
   },

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "teatro-real/ariodante/2025-26",
+    "work_slug": "georg-friedrich-handel/ariodante",
+    "house_slug": "teatro-real",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://www.teatroreal.es/es/espectaculo/ariodante",
+    "creative_team": [
+      {
+        "person_slug": "andrea-marcon",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "magdalena-kozena",
+        "role_slug": "georg-friedrich-handel/ariodante/ariodante"
+      },
+      {
+        "person_slug": "shira-patchornik",
+        "role_slug": "georg-friedrich-handel/ariodante/dalinda"
+      },
+      {
+        "person_slug": "jose-antonio-lopez",
+        "role_slug": "georg-friedrich-handel/ariodante/el-rey-de-escocia"
+      },
+      {
+        "person_slug": "erika-baikoff",
+        "role_slug": "georg-friedrich-handel/ariodante/ginevra"
+      },
+      {
+        "person_slug": "emiliano-gonzalez-toro",
+        "role_slug": "georg-friedrich-handel/ariodante/lurcanio"
+      },
+      {
+        "person_slug": "christophe-dumaux",
+        "role_slug": "georg-friedrich-handel/ariodante/polinesso"
+      }
+    ]
+  },
+  {
+    "id": "teatro-real/los-estunmen/2025-26",
+    "work_slug": "fernando-velazquez/los-estunmen",
+    "house_slug": "teatro-real",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://www.teatroreal.es/es/espectaculo/estunmen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-real/romeo-y-julieta/2025-26",
+    "work_slug": "charles-francois-gounod/romeo-y-julieta",
+    "house_slug": "teatro-real",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://www.teatroreal.es/es/espectaculo/romeo-y-julieta",
+    "creative_team": [
+      {
+        "person_slug": "josepha-madoki",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jose-luis-basso",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-rizzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sylvette-dequest",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-jolly",
+        "function": "director"
+      },
+      {
+        "person_slug": "antoine-travert",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bruno-de-lavenere",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "pablo-martinez",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/benvolio"
+      },
+      {
+        "person_slug": "jean-fernand-setti",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/capulet"
+      },
+      {
+        "person_slug": "laurent-naouri",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/capulet"
+      },
+      {
+        "person_slug": "david-lagares",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/el-duque"
+      },
+      {
+        "person_slug": "javier-castaneda",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/frere-jean"
+      },
+      {
+        "person_slug": "jean-teitgen",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/frere-laurent"
+      },
+      {
+        "person_slug": "roberto-tagliavini",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/frere-laurent"
+      },
+      {
+        "person_slug": "sonia-ganassi",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/gertrude"
+      },
+      {
+        "person_slug": "josep-ramon-olive",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/gregorio"
+      },
+      {
+        "person_slug": "julia-muzychenko-greenhalgh",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/juliette"
+      },
+      {
+        "person_slug": "nadine-sierra",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/juliette"
+      },
+      {
+        "person_slug": "vannina-santoni",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/juliette"
+      },
+      {
+        "person_slug": "benjamin-appl",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/mercutio"
+      },
+      {
+        "person_slug": "carles-pachon",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/mercutio"
+      },
+      {
+        "person_slug": "tomeu-bibiloni",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/paris"
+      },
+      {
+        "person_slug": "ismael-jordi",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/romeo"
+      },
+      {
+        "person_slug": "javier-camarena",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/romeo"
+      },
+      {
+        "person_slug": "carmen-artaza",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/stephano"
+      },
+      {
+        "person_slug": "heloise-mas",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/stephano"
+      },
+      {
+        "person_slug": "david-alegret",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/tybalt"
+      },
+      {
+        "person_slug": "maciej-kwasnikowski",
+        "role_slug": "charles-francois-gounod/romeo-y-julieta/tybalt"
+      }
+    ]
+  }
+]

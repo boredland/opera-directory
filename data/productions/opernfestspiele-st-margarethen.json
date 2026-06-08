@@ -1,0 +1,101 @@
+[
+  {
+    "id": "opernfestspiele-st-margarethen/oper-im-steinbruch-2026",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "opernfestspiele-st-margarethen",
+    "is_revival": false,
+    "detail_url": "https://www.operimsteinbruch.at/",
+    "creative_team": [
+      {
+        "person_slug": "valerio-galli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giuseppe-palella",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thaddeus-strassberger",
+        "function": "director"
+      },
+      {
+        "person_slug": "driscoll-otto",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "volodymyr-morozov",
+        "role_slug": "giacomo-puccini/tosca/angelotti-schlie-er"
+      },
+      {
+        "person_slug": "zoltan-nagy",
+        "role_slug": "giacomo-puccini/tosca/angelotti-schlie-er"
+      },
+      {
+        "person_slug": "adorjan-pataki",
+        "role_slug": "giacomo-puccini/tosca/cavaradossi"
+      },
+      {
+        "person_slug": "bror-magnus-t-denes",
+        "role_slug": "giacomo-puccini/tosca/cavaradossi"
+      },
+      {
+        "person_slug": "yongzhao-yu",
+        "role_slug": "giacomo-puccini/tosca/cavaradossi"
+      },
+      {
+        "person_slug": "philharmonia-chor-wien",
+        "role_slug": "giacomo-puccini/tosca/chor"
+      },
+      {
+        "person_slug": "gumpoldskirchner-spatzen",
+        "role_slug": "giacomo-puccini/tosca/kinderchor"
+      },
+      {
+        "person_slug": "piedra-festivalorchester",
+        "role_slug": "giacomo-puccini/tosca/orchester"
+      },
+      {
+        "person_slug": "ilia-kazakov",
+        "role_slug": "giacomo-puccini/tosca/sagrestano-sciarrone"
+      },
+      {
+        "person_slug": "ivan-zinoviev",
+        "role_slug": "giacomo-puccini/tosca/sagrestano-sciarrone"
+      },
+      {
+        "person_slug": "gevorg-hakobyan",
+        "role_slug": "giacomo-puccini/tosca/scarpia"
+      },
+      {
+        "person_slug": "hansung-yoo",
+        "role_slug": "giacomo-puccini/tosca/scarpia"
+      },
+      {
+        "person_slug": "marco-caria",
+        "role_slug": "giacomo-puccini/tosca/scarpia"
+      },
+      {
+        "person_slug": "micha-proszynski",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      },
+      {
+        "person_slug": "peter-kirk",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      },
+      {
+        "person_slug": "celine-byrne",
+        "role_slug": "giacomo-puccini/tosca/tosca"
+      },
+      {
+        "person_slug": "joyce-el-khoury",
+        "role_slug": "giacomo-puccini/tosca/tosca"
+      },
+      {
+        "person_slug": "melissa-purnell",
+        "role_slug": "giacomo-puccini/tosca/tosca"
+      }
+    ]
+  }
+]

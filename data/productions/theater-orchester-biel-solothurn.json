@@ -1,0 +1,245 @@
+[
+  {
+    "id": "theater-orchester-biel-solothurn/aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/aida",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/falstaff",
+    "work_slug": "michael-william-balfe/falstaff",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/falstaff",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/la-boheme",
+    "creative_team": [
+      {
+        "person_slug": "chor-tobs",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valentin-vassilev",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "yannis-pouspourikas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eva-butzkies",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lucia-astigarraga",
+        "function": "director"
+      },
+      {
+        "person_slug": "meike-lieser",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "aida-leonor-guardia",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "konstantin-nazlamov",
+        "role_slug": "giacomo-puccini/la-boheme/benoit-alcindoro"
+      },
+      {
+        "person_slug": "melanie-kummer",
+        "role_slug": "giacomo-puccini/la-boheme/chorleitung-jugendchor"
+      },
+      {
+        "person_slug": "fionn-o-halmhain",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "mario-bosemann",
+        "role_slug": "giacomo-puccini/la-boheme/lichtgestaltung"
+      },
+      {
+        "person_slug": "jungrae-noah-kim",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "amy-ni-fhearraigh",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "leonie-renaud",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "giacomo-puccini/la-boheme/musetta-31-03-26"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "role_slug": "giacomo-puccini/la-boheme/nachdirigat-11-03-13-03-19-03-und-korrepetition"
+      },
+      {
+        "person_slug": "francis-benichou",
+        "role_slug": "giacomo-puccini/la-boheme/nachdirigat-15-03-22-03-26-03-und-korrepetition"
+      },
+      {
+        "person_slug": "sinfonieorchester-biel-solothurn-tobs",
+        "role_slug": "giacomo-puccini/la-boheme/orchester"
+      },
+      {
+        "person_slug": "roberto-santos-luy",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "john-richter",
+        "role_slug": "giacomo-puccini/la-boheme/praktikum-musikalische-leitung"
+      },
+      {
+        "person_slug": "damien-liger",
+        "role_slug": "giacomo-puccini/la-boheme/regieassistenz-und-lnspizienz"
+      },
+      {
+        "person_slug": "giuseppe-infantino",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "mykyta-burtsev",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "dario-lupi",
+        "role_slug": "giacomo-puccini/la-boheme/sergente"
+      }
+    ]
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/laissez-durer-la-nuit",
+    "work_slug": "echoes-of-baroque/laissez-durer-la-nuit",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/laissez-durer-la-nuit",
+    "creative_team": [
+      {
+        "person_slug": "gabriella-teychenne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-helin-bienroth",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "raphael-jacobs",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-deit-ferrand",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "raphael-jacobs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gabriella-teychenne",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/arrangements-und-musikalisches-zusatzmaterial"
+      },
+      {
+        "person_slug": "marie-delprat",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/electronic-music"
+      },
+      {
+        "person_slug": "julia-deit-ferrand",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/gesang"
+      },
+      {
+        "person_slug": "serenad-uyar",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/gesang"
+      },
+      {
+        "person_slug": "iris-keller",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/gesang-01-05-05-05-22-05-27-05-30-05-26"
+      },
+      {
+        "person_slug": "marlene-chevalley-knoepfler",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/gesang-27-03-29-03-01-04-02-04-28-04-29-04-26"
+      },
+      {
+        "person_slug": "eylul-nazlier",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/gesang-und-saz"
+      },
+      {
+        "person_slug": "julia-deit-ferrand",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/konzept"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/korrepetition"
+      },
+      {
+        "person_slug": "samuele-d-amico",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/lichtgestaltung"
+      },
+      {
+        "person_slug": "marie-delprat",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/live-elektronik"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/nachdirigat-28-04-05-05-26"
+      },
+      {
+        "person_slug": "sinfonieorchester-biel-solothurn-tobs",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/orchester"
+      },
+      {
+        "person_slug": "larissa-copetti-campi",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/regieassistenz-und-lnspizienz"
+      },
+      {
+        "person_slug": "latcheen-maslamani-ali-sar",
+        "role_slug": "echoes-of-baroque/laissez-durer-la-nuit/ubersetzungen"
+      }
+    ]
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/oreste",
+    "work_slug": "georg-friedrich-handel/oreste",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/oreste",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/the-black-rider",
+    "work_slug": "tom-waits/the-black-rider-the-casting-of-the-magic-bullets",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/the-black-rider",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-orchester-biel-solothurn/trennt-euch",
+    "work_slug": "christian-henking/trennt-euch",
+    "house_slug": "theater-orchester-biel-solothurn",
+    "is_revival": false,
+    "detail_url": "https://www.tobs.ch/spielplan/detail/trennt-euch",
+    "creative_team": [],
+    "cast": []
+  }
+]

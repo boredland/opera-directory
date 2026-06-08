@@ -1,0 +1,486 @@
+[
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-02-13/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-02-13",
+    "venue_room": "Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-02-28/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-02-28",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-03-04/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-03-04",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-03-12/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-03-12",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-03-14/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-03-14",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-03-19/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-03-19",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-03-24/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-03-24",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-04-01/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-04-01",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-04-09/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-04-09",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-04-30/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-04-30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-05-17/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-05-17",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-05-30/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-05-30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender/2027-06-05/",
+    "production_id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "date": "2027-06-05",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieliebenderberenice/2026-06-11/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-dieliebenderberenice",
+    "date": "2026-06-11",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieliebenderberenice/2026-06-19/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-dieliebenderberenice",
+    "date": "2026-06-19",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter/2026-10-31/15:00",
+    "production_id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter",
+    "date": "2026-10-31",
+    "time": "15:00",
+    "venue_room": "UG",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter/2026-11-15/15:00",
+    "production_id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter",
+    "date": "2026-11-15",
+    "time": "15:00",
+    "venue_room": "UG",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter/2027-03-14/15:00",
+    "production_id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter",
+    "date": "2027-03-14",
+    "time": "15:00",
+    "venue_room": "UG",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter/2027-05-09/14:00",
+    "production_id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter",
+    "date": "2027-05-09",
+    "time": "14:00",
+    "venue_room": "UG",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-diezauberfloete/2026-06-13/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-diezauberfloete",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi/2026-12-09/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "date": "2026-12-09",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi/2026-12-26/20:00",
+    "production_id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "date": "2026-12-26",
+    "time": "20:00",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi/2027-01-09/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "date": "2027-01-09",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi/2027-01-21/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "date": "2027-01-21",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi/2027-02-20/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "date": "2027-02-20",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-06-21/19:00",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-06-21",
+    "time": "19:00",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-09-06/19:00",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-09-06",
+    "time": "19:00",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-09-12/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-09-12",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-10-18/17:00",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-10-18",
+    "time": "17:00",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-10-24/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-10-24",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-11-13/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-11-13",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-11-21/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-12-04/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-12-04",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-12-17/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-12-17",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore/2026-12-23/19:30",
+    "production_id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "date": "2026-12-23",
+    "time": "19:30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-09-19/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-09-19",
+    "venue_room": "Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-09-21/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-09-21",
+    "venue_room": "Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-09-25/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-09-25",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-10-04/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-10-04",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-10-09/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-10-09",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-10-16/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-10-16",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-10-30/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-10-30",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-11-07/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-11-07",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-11-19/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-11-19",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-11-24/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-11-24",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-11-26/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-11-26",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-11-29/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-11-29",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-12-06/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-12-06",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-12-12/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-12-12",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-12-19/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-12-19",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2026-12-31/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2026-12-31",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2027-01-23/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2027-01-23",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2027-02-03/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2027-02-03",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2027-03-29/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2027-03-29",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2027-04-17/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2027-04-17",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady/2027-05-09/",
+    "production_id": "luzerner-theater/luzerner-theater-myfairlady",
+    "date": "2027-05-09",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-03-20/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-03-20",
+    "venue_room": "Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-04-25/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-04-25",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-02/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-02",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-06/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-06",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-14/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-14",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-19/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-19",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-23/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-23",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-05-27/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-05-27",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-06-03/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-06-03",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina/2027-06-11/",
+    "production_id": "luzerner-theater/luzerner-theater-proserpina",
+    "date": "2027-06-11",
+    "venue_room": "Bühne",
+    "status": "scheduled"
+  }
+]

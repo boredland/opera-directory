@@ -1,0 +1,433 @@
+[
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-der-liebestrank-lelisir-damore",
+    "work_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/der-liebestrank-lelisir-damore/",
+    "creative_team": [
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chin-chao-lin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mitsugu-hoshino-25-30-04-2026",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dietlind-konold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nilufar-k-munzing",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "britta-lammers",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alice-rossi",
+        "role_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "oleh-lebedyev",
+        "role_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "markus-marquardt",
+        "role_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore/dulcamara"
+      },
+      {
+        "person_slug": "aaron-casey-gould",
+        "role_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-orfeo-ed-euridice",
+    "work_slug": "christoph-willibald-gluck/orfeo-ed-euridice",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/orfeo-ed-euridice/",
+    "creative_team": [
+      {
+        "person_slug": "riccardo-de-nigris",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michael-hofstetter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mitsugu-hoshino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "laura-madge-hormann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "carolin-pienkos",
+        "function": "director"
+      },
+      {
+        "person_slug": "cornelius-obonya",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "devin-mcdonough",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luisa-mordel",
+        "role_slug": "christoph-willibald-gluck/orfeo-ed-euridice/amore"
+      },
+      {
+        "person_slug": "keri-fuge",
+        "role_slug": "christoph-willibald-gluck/orfeo-ed-euridice/euridice"
+      },
+      {
+        "person_slug": "attilio-cremonesi",
+        "role_slug": "christoph-willibald-gluck/orfeo-ed-euridice/musikal-einrichtung-der-fassung"
+      },
+      {
+        "person_slug": "tobias-hechler",
+        "role_slug": "christoph-willibald-gluck/orfeo-ed-euridice/orfeo"
+      }
+    ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-orpheus-in-der-unterwelt",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/orpheus-in-der-unterwelt/",
+    "creative_team": [
+      {
+        "person_slug": "anastasia-troska",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chin-chao-lin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gunter-wallner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "laurynas-kanevicius",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daria-kornysheva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-lund",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jurgen-kirner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tobias-blinzler",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/bacchus-gott-des-weines"
+      },
+      {
+        "person_slug": "leo-bauer",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "dominik-muller",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido-liebesgott"
+      },
+      {
+        "person_slug": "robert-johansson",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido-liebesgott"
+      },
+      {
+        "person_slug": "robert-johansson",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/dance-captain-und-swing"
+      },
+      {
+        "person_slug": "lisa-marie-rettenbacher",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/diana-gottin-der-jagd"
+      },
+      {
+        "person_slug": "sarah-alexandra-hudarew",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-ehemalige-offentliche-meinung-juno-jupiters-frau"
+      },
+      {
+        "person_slug": "jasmin-eberl",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-neue-offentliche-meinung"
+      },
+      {
+        "person_slug": "maria-perlt-gartner",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/eurydike"
+      },
+      {
+        "person_slug": "christoph-wagner-trenkwitz",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/hans-styx-diener-von-orpheus"
+      },
+      {
+        "person_slug": "michael-flaschberger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/inspizienz"
+      },
+      {
+        "person_slug": "erwin-belakowitsch",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/jupiter-oberster-gott-herr-des-olymp"
+      },
+      {
+        "person_slug": "laurynas-kanevicius",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/korrepetition"
+      },
+      {
+        "person_slug": "yoonjung-park",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/korrepetition"
+      },
+      {
+        "person_slug": "andrea-grezko",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/kostumbildassistenz"
+      },
+      {
+        "person_slug": "fabio-kopf",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars-gott-des-krieges"
+      },
+      {
+        "person_slug": "robert-johansson",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars-gott-des-krieges"
+      },
+      {
+        "person_slug": "ricardo-frenzel-baudisch",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur-gotterbote"
+      },
+      {
+        "person_slug": "robert-johansson",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur-gotterbote"
+      },
+      {
+        "person_slug": "elisabeth-blutsch",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/minerva-gottin-der-weisheit"
+      },
+      {
+        "person_slug": "teresa-krall",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/minerva-gottin-der-weisheit"
+      },
+      {
+        "person_slug": "matthias-stormer",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus-musiklehrer"
+      },
+      {
+        "person_slug": "thomas-tischler",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus-musiklehrer"
+      },
+      {
+        "person_slug": "adrian-domarecki",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/pluto-aristeus-herr-der-unterwelt-schafer"
+      },
+      {
+        "person_slug": "sophie-springer",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/regieassistenz"
+      },
+      {
+        "person_slug": "mitsugu-hoshino",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/studienleitung"
+      },
+      {
+        "person_slug": "ina-trabesinger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus-gottin-der-liebe"
+      }
+    ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-tristan-und-isolde",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/tristan-und-isolde/",
+    "creative_team": [
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chin-chao-lin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mitsugu-hoshino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bettina-breitenecker",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "aron-stiehl",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-stingl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "melissa-zgouridi",
+        "role_slug": "richard-wagner/tristan-und-isolde/brangane"
+      },
+      {
+        "person_slug": "thomas-morschbacher",
+        "role_slug": "richard-wagner/tristan-und-isolde/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "david-jagodic",
+        "role_slug": "richard-wagner/tristan-und-isolde/hirte-stimme-eines-jungen-seemanns"
+      },
+      {
+        "person_slug": "michael-flaschberger",
+        "role_slug": "richard-wagner/tristan-und-isolde/inspizienz"
+      },
+      {
+        "person_slug": "katherine-broderick",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "friedemann-rohlig",
+        "role_slug": "richard-wagner/tristan-und-isolde/konig-marke"
+      },
+      {
+        "person_slug": "jeongwon-kim",
+        "role_slug": "richard-wagner/tristan-und-isolde/korrepetition"
+      },
+      {
+        "person_slug": "laurynas-kanevicius",
+        "role_slug": "richard-wagner/tristan-und-isolde/korrepetition"
+      },
+      {
+        "person_slug": "andrea-grezko",
+        "role_slug": "richard-wagner/tristan-und-isolde/kostumbildassistenz"
+      },
+      {
+        "person_slug": "birger-radde",
+        "role_slug": "richard-wagner/tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "thomas-paul",
+        "role_slug": "richard-wagner/tristan-und-isolde/melot"
+      },
+      {
+        "person_slug": "ela-schmid",
+        "role_slug": "richard-wagner/tristan-und-isolde/regieassistenz"
+      },
+      {
+        "person_slug": "dariusz-perczak",
+        "role_slug": "richard-wagner/tristan-und-isolde/steuermann"
+      },
+      {
+        "person_slug": "mitsugu-hoshino",
+        "role_slug": "richard-wagner/tristan-und-isolde/studienleitung"
+      },
+      {
+        "person_slug": "erin-caves",
+        "role_slug": "richard-wagner/tristan-und-isolde/tristan"
+      }
+    ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-wiedersehen-ein-stueck-hoffnung",
+    "work_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/wiedersehen-ein-stueck-hoffnung/",
+    "creative_team": [
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "hans-mrak",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "walter-konig",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "patrick-bannwart",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/buhne-kostume-sound-und-videodesign-puppen-und-maskenbau"
+      },
+      {
+        "person_slug": "thomas-morschbacher",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "helmuth-hausler",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/er-jonah"
+      },
+      {
+        "person_slug": "petra-pfleger",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/kostumbild-mitarbeit"
+      },
+      {
+        "person_slug": "petra-pfleger",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/kostumbildassistenz"
+      },
+      {
+        "person_slug": "sophie-springer",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/regieassistenz"
+      },
+      {
+        "person_slug": "nanette-waidmann",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/sie-hannah"
+      },
+      {
+        "person_slug": "theresa-mo-ler",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/soufflage"
+      },
+      {
+        "person_slug": "daniel-mumper",
+        "role_slug": "david-bosch/wiedersehen-ein-stuck-hoffnung/sounddesign"
+      }
+    ]
+  }
+]

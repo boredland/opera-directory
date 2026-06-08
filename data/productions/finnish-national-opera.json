@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "finnish-national-opera/finnish-national-opera-306695",
+    "work_slug": "mark-anthony-turnage/festen",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/festen/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/04/Festen-produktiosivu-16-9-1-1600x900.jpg",
+    "creative_team": [
+      {
+        "person_slug": "james-hendry",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicky-gillibrand",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "richard-jones",
+        "function": "director"
+      },
+      {
+        "person_slug": "lucy-carter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "miriam-buether",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joonas-eloranta",
+        "role_slug": "mark-anthony-turnage/festen/bent"
+      },
+      {
+        "person_slug": "juha-moisio",
+        "role_slug": "mark-anthony-turnage/festen/bent"
+      },
+      {
+        "person_slug": "dong-hoon-han",
+        "role_slug": "mark-anthony-turnage/festen/bjorn"
+      },
+      {
+        "person_slug": "juha-pekka-mitjonen",
+        "role_slug": "mark-anthony-turnage/festen/bjorn"
+      },
+      {
+        "person_slug": "roland-liiv",
+        "role_slug": "mark-anthony-turnage/festen/chef"
+      },
+      {
+        "person_slug": "akseli-linnankivi",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "julius-chorell",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "konsta-saari",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "laura-hannikainen",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "livia-nykanen",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "topi-juntunen",
+        "role_slug": "mark-anthony-turnage/festen/child-soloist"
+      },
+      {
+        "person_slug": "daniel-brenna",
+        "role_slug": "mark-anthony-turnage/festen/christian"
+      },
+      {
+        "person_slug": "ann-marie-walsh",
+        "role_slug": "mark-anthony-turnage/festen/christine"
+      },
+      {
+        "person_slug": "susan-bickley",
+        "role_slug": "mark-anthony-turnage/festen/else"
+      },
+      {
+        "person_slug": "peter-brathwaite",
+        "role_slug": "mark-anthony-turnage/festen/gbatokai"
+      },
+      {
+        "person_slug": "kirsi-tiihonen",
+        "role_slug": "mark-anthony-turnage/festen/grandma"
+      },
+      {
+        "person_slug": "robert-bork",
+        "role_slug": "mark-anthony-turnage/festen/grandpa"
+      },
+      {
+        "person_slug": "natalya-romaniw",
+        "role_slug": "mark-anthony-turnage/festen/helena"
+      },
+      {
+        "person_slug": "darren-jeffery",
+        "role_slug": "mark-anthony-turnage/festen/helge"
+      },
+      {
+        "person_slug": "charles-rice",
+        "role_slug": "mark-anthony-turnage/festen/helmut"
+      },
+      {
+        "person_slug": "halim-shon",
+        "role_slug": "mark-anthony-turnage/festen/kitchen-worker-1"
+      },
+      {
+        "person_slug": "aapo-kilpela",
+        "role_slug": "mark-anthony-turnage/festen/kitchen-worker-2"
+      },
+      {
+        "person_slug": "conny-thimander",
+        "role_slug": "mark-anthony-turnage/festen/lars"
+      },
+      {
+        "person_slug": "juhana-suninen",
+        "role_slug": "mark-anthony-turnage/festen/lasse"
+      },
+      {
+        "person_slug": "petri-vesa",
+        "role_slug": "mark-anthony-turnage/festen/lasse"
+      },
+      {
+        "person_slug": "sampo-haapaniemi",
+        "role_slug": "mark-anthony-turnage/festen/leif"
+      },
+      {
+        "person_slug": "tuomas-lehtinen",
+        "role_slug": "mark-anthony-turnage/festen/leif"
+      },
+      {
+        "person_slug": "tove-aman",
+        "role_slug": "mark-anthony-turnage/festen/lene"
+      },
+      {
+        "person_slug": "yukie-hada",
+        "role_slug": "mark-anthony-turnage/festen/lene"
+      },
+      {
+        "person_slug": "sarah-zieba",
+        "role_slug": "mark-anthony-turnage/festen/linda"
+      },
+      {
+        "person_slug": "georgia-jarman",
+        "role_slug": "mark-anthony-turnage/festen/mette"
+      },
+      {
+        "person_slug": "john-chest",
+        "role_slug": "mark-anthony-turnage/festen/michael"
+      },
+      {
+        "person_slug": "pihla-terttunen",
+        "role_slug": "mark-anthony-turnage/festen/michelle"
+      },
+      {
+        "person_slug": "clare-presland",
+        "role_slug": "mark-anthony-turnage/festen/pia"
+      },
+      {
+        "person_slug": "niklas-spangberg",
+        "role_slug": "mark-anthony-turnage/festen/poul"
+      },
+      {
+        "person_slug": "johanna-lehesvuori",
+        "role_slug": "mark-anthony-turnage/festen/rene"
+      },
+      {
+        "person_slug": "tatjana-romanova-vorontsova",
+        "role_slug": "mark-anthony-turnage/festen/rene"
+      },
+      {
+        "person_slug": "simo-makinen",
+        "role_slug": "mark-anthony-turnage/festen/stig"
+      },
+      {
+        "person_slug": "topias-lundell",
+        "role_slug": "mark-anthony-turnage/festen/stig"
+      },
+      {
+        "person_slug": "polina-liiv",
+        "role_slug": "mark-anthony-turnage/festen/trine"
+      },
+      {
+        "person_slug": "ruut-mattila",
+        "role_slug": "mark-anthony-turnage/festen/trine"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-306778",
+    "work_slug": "jean-sibelius/luonnotar-and-iolanta",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/luonnotar-and-iolanta/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/05/28-1600x1067.jpg",
+    "creative_team": [
+      {
+        "person_slug": "kristian-sallinen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "antony-mcdonald",
+        "function": "director"
+      },
+      {
+        "person_slug": "lucy-carter",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tuomas-miettola",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/almeric"
+      },
+      {
+        "person_slug": "koit-soasepp",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/bertrand"
+      },
+      {
+        "person_slug": "elisaveta-rimkevitch",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/brigitta"
+      },
+      {
+        "person_slug": "edgaras-montvidas",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/count-vaudemont"
+      },
+      {
+        "person_slug": "jonna-eiskonen",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/dancer"
+      },
+      {
+        "person_slug": "michael-kraus",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/ibn-hakia"
+      },
+      {
+        "person_slug": "nina-bezu",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/iolanta"
+      },
+      {
+        "person_slug": "anna-erokhina",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/laura"
+      },
+      {
+        "person_slug": "silja-aalto",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/luonnotar"
+      },
+      {
+        "person_slug": "natalia-vinogradova",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/martha"
+      },
+      {
+        "person_slug": "mika-kares",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/rene"
+      },
+      {
+        "person_slug": "yuriy-yurchuk",
+        "role_slug": "jean-sibelius/luonnotar-and-iolanta/robert"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-321309",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/peter-grimes/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/PeterGrimes_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "dima-slobodeniouk",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "david-radok",
+        "function": "director"
+      },
+      {
+        "person_slug": "kimmo-ruskela",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tuija-knihtila",
+        "role_slug": "benjamin-britten/peter-grimes/auntie"
+      },
+      {
+        "person_slug": "mika-pohjonen",
+        "role_slug": "benjamin-britten/peter-grimes/bob-boles"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "benjamin-britten/peter-grimes/captain-balstrode"
+      },
+      {
+        "person_slug": "maria-bengtsson",
+        "role_slug": "benjamin-britten/peter-grimes/ellen-orford"
+      },
+      {
+        "person_slug": "marko-nykanen",
+        "role_slug": "benjamin-britten/peter-grimes/hobson"
+      },
+      {
+        "person_slug": "heikki-hattunen",
+        "role_slug": "benjamin-britten/peter-grimes/horace-adams-the-rector"
+      },
+      {
+        "person_slug": "sarah-zieba",
+        "role_slug": "benjamin-britten/peter-grimes/mrs-sedley"
+      },
+      {
+        "person_slug": "ville-rusanen",
+        "role_slug": "benjamin-britten/peter-grimes/ned-keene"
+      },
+      {
+        "person_slug": "emma-kajander",
+        "role_slug": "benjamin-britten/peter-grimes/niece-1"
+      },
+      {
+        "person_slug": "hanna-juntunen",
+        "role_slug": "benjamin-britten/peter-grimes/niece-2"
+      },
+      {
+        "person_slug": "daniel-brenna",
+        "role_slug": "benjamin-britten/peter-grimes/peter-grimes"
+      },
+      {
+        "person_slug": "nicholas-soderlund",
+        "role_slug": "benjamin-britten/peter-grimes/swallow"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-321337",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/le-nozze-di-figaro/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/Figaro_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "james-sherlock",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "erika-turunen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-kelo",
+        "function": "director"
+      },
+      {
+        "person_slug": "mikki-kunttu",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jani-uljas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nicholas-soderlund",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/antonio"
+      },
+      {
+        "person_slug": "anna-barletta",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/barbarina"
+      },
+      {
+        "person_slug": "elli-vallinoja",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "vincenzo-nizzardo",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count-almaviva"
+      },
+      {
+        "person_slug": "silja-aalto",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "anna-erokhina",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/country-girls"
+      },
+      {
+        "person_slug": "annami-hylkila",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/country-girls"
+      },
+      {
+        "person_slug": "polina-liiv",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/country-girls"
+      },
+      {
+        "person_slug": "stella-tahtinen",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/country-girls"
+      },
+      {
+        "person_slug": "koit-soasepp",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-bartolo"
+      },
+      {
+        "person_slug": "akseli-ferrand",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-basilio"
+      },
+      {
+        "person_slug": "jere-holtta",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-curzio"
+      },
+      {
+        "person_slug": "georg-festl",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "hannakaisa-nyronen",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "iris-candelaria",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-321541",
+    "work_slug": "poul-ruders/the-handmaid-s-tale",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/the-handmaids-tale/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/HandmaidsTale_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "lidia-wos",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "karen-kamensek",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christina-cunningham",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "john-fulljames",
+        "function": "director"
+      },
+      {
+        "person_slug": "fabiana-piccioli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "chloe-lamford",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "susan-bullock",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/aunt-lydia"
+      },
+      {
+        "person_slug": "mika-pohjonen",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/commander-x"
+      },
+      {
+        "person_slug": "roland-liiv",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/doctor"
+      },
+      {
+        "person_slug": "saara-kiiveri",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/janine-ofwarren"
+      },
+      {
+        "person_slug": "jere-holtta",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/luke"
+      },
+      {
+        "person_slug": "natasha-salles",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/moira"
+      },
+      {
+        "person_slug": "getter-unt",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/moira-s-aunt"
+      },
+      {
+        "person_slug": "polina-liiv",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/new-ofglen"
+      },
+      {
+        "person_slug": "jasper-leppanen",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/nick"
+      },
+      {
+        "person_slug": "hanna-hipp",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/offred"
+      },
+      {
+        "person_slug": "jordanka-milkova",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/offred-s-mother"
+      },
+      {
+        "person_slug": "emma-mustaniemi",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/ofglen"
+      },
+      {
+        "person_slug": "nn",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/rita"
+      },
+      {
+        "person_slug": "taylor-raven",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/serena-joy"
+      },
+      {
+        "person_slug": "johan-reuter",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/the-commander"
+      },
+      {
+        "person_slug": "erica-back",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/the-double"
+      },
+      {
+        "person_slug": "evgeniia-podymalkina",
+        "role_slug": "poul-ruders/the-handmaid-s-tale/warren-s-wife"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-321697",
+    "work_slug": "stephen-james-webb/the-sugar-factory-2026",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/the-sugar-factory-2026/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2025/12/SOKERITEHDAS26_vaaka-1600x900.jpg",
+    "creative_team": [
+      {
+        "person_slug": "kaapo-ijas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hanna-vuorela",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pelzi-peltola",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pelzi-peltola",
+        "function": "director"
+      },
+      {
+        "person_slug": "jukka-niiranen",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emilia-vesalainen-pellas",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "isabella-shaw",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "joonatan-pylkkonen",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "madiana-lundberg",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "miritza-lundberg",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "miska-lundberg",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "roseta-la-leon",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "sakari-topi",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "sam-taskinen",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "sarah-zieba",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "sirpa-nuuttila",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "tuula-paavola",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "vilma-hyvarinen",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artist"
+      },
+      {
+        "person_slug": "julia-arquillo",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artists"
+      },
+      {
+        "person_slug": "olga-heikkila",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artists"
+      },
+      {
+        "person_slug": "riku-pelo",
+        "role_slug": "stephen-james-webb/the-sugar-factory-2026/artists"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-322466",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/aida/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/Aida_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "dan-ettinger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "harri-karri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "bettina-john",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "noa-naamat",
+        "function": "director"
+      },
+      {
+        "person_slug": "heiko-steuernagel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "noa-naamat",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bettina-john",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "noa-naamat",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "liana-aleksanyan",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "monica-zanettin",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "emilia-rukavina",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "tuija-knihtila",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "samuli-takkula",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "anna-barletta",
+        "role_slug": "giuseppe-verdi/aida/high-priestess"
+      },
+      {
+        "person_slug": "marianne-montonen",
+        "role_slug": "giuseppe-verdi/aida/high-priestess"
+      },
+      {
+        "person_slug": "koit-soasepp",
+        "role_slug": "giuseppe-verdi/aida/king-of-egypt"
+      },
+      {
+        "person_slug": "volodymyr-tyshkov",
+        "role_slug": "giuseppe-verdi/aida/king-of-egypt"
+      },
+      {
+        "person_slug": "johannes-pessi",
+        "role_slug": "giuseppe-verdi/aida/messenger"
+      },
+      {
+        "person_slug": "otso-sipila",
+        "role_slug": "giuseppe-verdi/aida/messenger"
+      },
+      {
+        "person_slug": "giorgi-sturua",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "milen-bozhkov",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "don-lee",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      },
+      {
+        "person_slug": "young-doo-park",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-322478",
+    "work_slug": "mason-bates/the-r-evolution-of-steve-jobs",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/the-revolution-of-steve-jobs/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/Jobs_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "chloe-treat",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-christie",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "paul-carey",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kevin-newbury",
+        "function": "director"
+      },
+      {
+        "person_slug": "japhy-weideman",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vita-tzykun",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hanna-rantala",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/chrisann-brennan"
+      },
+      {
+        "person_slug": "wei-wu",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/kobun-chino-otogawa"
+      },
+      {
+        "person_slug": "sarah-zieba",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/laurene-powell-jobs"
+      },
+      {
+        "person_slug": "ville-rusanen",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/paul-jobs"
+      },
+      {
+        "person_slug": "john-moore",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/steve-jobs"
+      },
+      {
+        "person_slug": "mika-pohjonen",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/steve-wozniak"
+      },
+      {
+        "person_slug": "anu-ontronen",
+        "role_slug": "mason-bates/the-r-evolution-of-steve-jobs/teacher"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-322599",
+    "work_slug": "christoph-willibald-gluck/orfeo-euridice",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/orfeo-and-euridice/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/Orfeus_2_3_final_lores-1600x900.jpg",
+    "creative_team": [
+      {
+        "person_slug": "aapo-hakkinen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "erika-turunen",
+        "function": "costume-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "saara-rauvala",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/amor"
+      },
+      {
+        "person_slug": "suvi-vayrynen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/amor"
+      },
+      {
+        "person_slug": "annika-hyvarinen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "david-scarantino",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "elina-hayrynen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "emmi-max-pennanen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "jenna-broas",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "mikko-lampinen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "natasha-lommi",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "olli-lautiola",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "oskari-kymalainen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "saida-solla",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/dancer"
+      },
+      {
+        "person_slug": "anna-barletta",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/euridice"
+      },
+      {
+        "person_slug": "sonja-herranen",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/euridice"
+      },
+      {
+        "person_slug": "kangmin-justin-kim",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/orfeo"
+      },
+      {
+        "person_slug": "micha-s-awecki",
+        "role_slug": "christoph-willibald-gluck/orfeo-euridice/orfeo"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-322609",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/la-boheme/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/LaBoheme_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "nil-venditti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-sinkkonen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "katariina-lahti",
+        "function": "director"
+      },
+      {
+        "person_slug": "matti-leinonen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mark-vaisanen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "koit-soasepp",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "nicholas-soderlund",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "marko-nykanen",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "rolf-broman",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "janne-sihvo",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "markus-suihkonen",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "dong-hoon-han",
+        "role_slug": "giacomo-puccini/la-boheme/kersantti"
+      },
+      {
+        "person_slug": "joonas-orrain",
+        "role_slug": "giacomo-puccini/la-boheme/kersantti"
+      },
+      {
+        "person_slug": "halim-shon",
+        "role_slug": "giacomo-puccini/la-boheme/luumukauppias"
+      },
+      {
+        "person_slug": "jasper-leppanen",
+        "role_slug": "giacomo-puccini/la-boheme/luumukauppias"
+      },
+      {
+        "person_slug": "alik-abdukayumov",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "darija-augustan",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "evelin-novak",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "elsa-maija-helminen",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "paula-iancic",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "otso-sipila",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "roland-liiv",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "markus-nykanen",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "mihails-culpajevs",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "sam-taskinen",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "waltteri-torikka",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "juha-pekka-mitjonen",
+        "role_slug": "giacomo-puccini/la-boheme/tullimies"
+      },
+      {
+        "person_slug": "tuomas-lehtinen",
+        "role_slug": "giacomo-puccini/la-boheme/tullimies"
+      }
+    ]
+  },
+  {
+    "id": "finnish-national-opera/finnish-national-opera-323888",
+    "work_slug": "gaetano-donizetti/maria-stuarda",
+    "house_slug": "finnish-national-opera",
+    "is_revival": false,
+    "detail_url": "https://oopperabaletti.fi/en/repertoire/maria-stuarda/",
+    "image_url": "https://oopperabaletti.fi/app/uploads/2026/03/MariaStuarda_1_final_lores-1600x1099.jpg",
+    "creative_team": [
+      {
+        "person_slug": "paolo-arrivabeni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitte-reiffenstuel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-mcvicar",
+        "function": "director"
+      },
+      {
+        "person_slug": "lizzie-powell",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hannah-postlethwaite",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maiju-vaahtoluoto",
+        "role_slug": "gaetano-donizetti/maria-stuarda/anna-kennedy"
+      },
+      {
+        "person_slug": "pihla-terttunen",
+        "role_slug": "gaetano-donizetti/maria-stuarda/anna-kennedy"
+      },
+      {
+        "person_slug": "julia-rutigliano",
+        "role_slug": "gaetano-donizetti/maria-stuarda/elizabeth"
+      },
+      {
+        "person_slug": "sarah-zieba",
+        "role_slug": "gaetano-donizetti/maria-stuarda/elizabeth"
+      },
+      {
+        "person_slug": "markus-suihkonen",
+        "role_slug": "gaetano-donizetti/maria-stuarda/george-talbot"
+      },
+      {
+        "person_slug": "timo-riihonen",
+        "role_slug": "gaetano-donizetti/maria-stuarda/george-talbot"
+      },
+      {
+        "person_slug": "sam-taskinen",
+        "role_slug": "gaetano-donizetti/maria-stuarda/lord-william-cecil"
+      },
+      {
+        "person_slug": "waltteri-torikka",
+        "role_slug": "gaetano-donizetti/maria-stuarda/lord-william-cecil"
+      },
+      {
+        "person_slug": "ania-jeruc",
+        "role_slug": "gaetano-donizetti/maria-stuarda/mary-stuart"
+      },
+      {
+        "person_slug": "diana-alexe",
+        "role_slug": "gaetano-donizetti/maria-stuarda/mary-stuart"
+      },
+      {
+        "person_slug": "konu-kim",
+        "role_slug": "gaetano-donizetti/maria-stuarda/robert-dudley"
+      },
+      {
+        "person_slug": "markus-nykanen",
+        "role_slug": "gaetano-donizetti/maria-stuarda/robert-dudley"
+      }
+    ]
+  }
+]

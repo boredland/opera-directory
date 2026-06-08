@@ -1,0 +1,562 @@
+[
+  {
+    "id": "new-national-theatre-tokyo/biwako-hall-the-twelve-months/2026-2027/2026-07-18/14:00",
+    "production_id": "new-national-theatre-tokyo/biwako-hall-the-twelve-months/2026-2027",
+    "date": "2026-07-18",
+    "time": "14:00",
+    "venue_room": "Playhouse",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/biwako-hall-the-twelve-months/2026-2027/2026-07-19/14:00",
+    "production_id": "new-national-theatre-tokyo/biwako-hall-the-twelve-months/2026-2027",
+    "date": "2026-07-19",
+    "time": "14:00",
+    "venue_room": "Playhouse",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027/2027-03-06/14:00",
+    "production_id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "date": "2027-03-06",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027/2027-03-08/14:00",
+    "production_id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "date": "2027-03-08",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027/2027-03-11/14:00",
+    "production_id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "date": "2027-03-11",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027/2027-03-13/14:00",
+    "production_id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "date": "2027-03-13",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027/2027-03-16/14:00",
+    "production_id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "date": "2027-03-16",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027/2027-04-02/16:00",
+    "production_id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027",
+    "date": "2027-04-02",
+    "time": "16:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027/2027-04-04/14:00",
+    "production_id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027",
+    "date": "2027-04-04",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027/2027-04-08/14:00",
+    "production_id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027",
+    "date": "2027-04-08",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027/2027-04-11/14:00",
+    "production_id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027",
+    "date": "2027-04-11",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026/2026-06-29/19:00",
+    "production_id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "date": "2026-06-29",
+    "time": "19:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026/2026-07-02/14:00",
+    "production_id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "date": "2026-07-02",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026/2026-07-05/14:00",
+    "production_id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "date": "2026-07-05",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026/2026-07-08/14:00",
+    "production_id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "date": "2026-07-08",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026/2026-07-12/14:00",
+    "production_id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "date": "2026-07-12",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/eugene-onegin/2026-2027/2027-05-16/14:00",
+    "production_id": "new-national-theatre-tokyo/eugene-onegin/2026-2027",
+    "date": "2027-05-16",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/eugene-onegin/2026-2027/2027-05-18/14:00",
+    "production_id": "new-national-theatre-tokyo/eugene-onegin/2026-2027",
+    "date": "2027-05-18",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/eugene-onegin/2026-2027/2027-05-20/14:00",
+    "production_id": "new-national-theatre-tokyo/eugene-onegin/2026-2027",
+    "date": "2027-05-20",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/eugene-onegin/2026-2027/2027-05-23/14:00",
+    "production_id": "new-national-theatre-tokyo/eugene-onegin/2026-2027",
+    "date": "2027-05-23",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/falstaff/2026-2027/2027-04-21/18:00",
+    "production_id": "new-national-theatre-tokyo/falstaff/2026-2027",
+    "date": "2027-04-21",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/falstaff/2026-2027/2027-04-24/14:00",
+    "production_id": "new-national-theatre-tokyo/falstaff/2026-2027",
+    "date": "2027-04-24",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/falstaff/2026-2027/2027-04-27/14:00",
+    "production_id": "new-national-theatre-tokyo/falstaff/2026-2027",
+    "date": "2027-04-27",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/falstaff/2026-2027/2027-04-29/14:00",
+    "production_id": "new-national-theatre-tokyo/falstaff/2026-2027",
+    "date": "2027-04-29",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027/2026-10-02/18:00",
+    "production_id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "date": "2026-10-02",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027/2026-10-04/14:00",
+    "production_id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "date": "2026-10-04",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027/2026-10-07/14:00",
+    "production_id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "date": "2026-10-07",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027/2026-10-10/14:00",
+    "production_id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "date": "2026-10-10",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027/2026-10-12/13:00",
+    "production_id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "date": "2026-10-12",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026/2026-05-16/14:00",
+    "production_id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026",
+    "date": "2026-05-16",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026/2026-05-20/19:00",
+    "production_id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026",
+    "date": "2026-05-20",
+    "time": "19:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026/2026-05-23/14:00",
+    "production_id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026",
+    "date": "2026-05-23",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026/2026-05-27/14:00",
+    "production_id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026",
+    "date": "2026-05-27",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027/2026-12-06/14:00",
+    "production_id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027",
+    "date": "2026-12-06",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027/2026-12-08/14:00",
+    "production_id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027",
+    "date": "2026-12-08",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027/2026-12-10/18:00",
+    "production_id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027",
+    "date": "2026-12-10",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027/2026-12-12/14:00",
+    "production_id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027",
+    "date": "2026-12-12",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-06-30/18:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-06-30",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-07-03/14:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-07-03",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-07-07/14:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-07-07",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-07-11/14:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-07-11",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-07-16/14:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-07-16",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027/2027-07-18/14:00",
+    "production_id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "date": "2027-07-18",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-10/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-10",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-11/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-11",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-13/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-13",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-14/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-14",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-15/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-15",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026/2026-07-16/13:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "date": "2026-07-16",
+    "time": "13:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-nnt-opera-studio-summer-recital-2026/2026-07-25/14:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-nnt-opera-studio-summer-recital-2026",
+    "date": "2026-07-25",
+    "time": "14:00",
+    "venue_room": "Playhouse",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-nnt-opera-studio-summer-recital-2026/2026-07-26/14:00",
+    "production_id": "new-national-theatre-tokyo/new-national-theatre-tokyo-nnt-opera-studio-summer-recital-2026",
+    "date": "2026-07-26",
+    "time": "14:00",
+    "venue_room": "Playhouse",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027/2026-11-23/14:00",
+    "production_id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "date": "2026-11-23",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027/2026-11-26/14:00",
+    "production_id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "date": "2026-11-26",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027/2026-11-29/14:00",
+    "production_id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "date": "2026-11-29",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027/2026-12-02/14:00",
+    "production_id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "date": "2026-12-02",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027/2026-12-05/14:00",
+    "production_id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "date": "2026-12-05",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/salome/2026-2027/2027-02-06/14:00",
+    "production_id": "new-national-theatre-tokyo/salome/2026-2027",
+    "date": "2027-02-06",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/salome/2026-2027/2027-02-08/14:00",
+    "production_id": "new-national-theatre-tokyo/salome/2026-2027",
+    "date": "2027-02-08",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/salome/2026-2027/2027-02-10/14:00",
+    "production_id": "new-national-theatre-tokyo/salome/2026-2027",
+    "date": "2027-02-10",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/salome/2026-2027/2027-02-13/14:00",
+    "production_id": "new-national-theatre-tokyo/salome/2026-2027",
+    "date": "2027-02-13",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-01-28/18:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-01-28",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-01-30/14:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-01-30",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-02-02/14:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-02-02",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-02-05/14:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-02-05",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-02-07/14:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-02-07",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027/2027-02-11/14:00",
+    "production_id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "date": "2027-02-11",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "scheduled"
+  },
+  {
+    "id": "new-national-theatre-tokyo/werther/2025-2026/2026-05-24/14:00",
+    "production_id": "new-national-theatre-tokyo/werther/2025-2026",
+    "date": "2026-05-24",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/werther/2025-2026/2026-05-26/14:00",
+    "production_id": "new-national-theatre-tokyo/werther/2025-2026",
+    "date": "2026-05-26",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/werther/2025-2026/2026-05-28/18:00",
+    "production_id": "new-national-theatre-tokyo/werther/2025-2026",
+    "date": "2026-05-28",
+    "time": "18:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  },
+  {
+    "id": "new-national-theatre-tokyo/werther/2025-2026/2026-05-30/14:00",
+    "production_id": "new-national-theatre-tokyo/werther/2025-2026",
+    "date": "2026-05-30",
+    "time": "14:00",
+    "venue_room": "Opera Palace",
+    "status": "past"
+  }
+]

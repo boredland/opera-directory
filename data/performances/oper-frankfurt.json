@@ -32,6 +32,12 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/10-sinfoniekonzert/2026-06-07/",
+    "production_id": "oper-frankfurt/10-sinfoniekonzert",
+    "date": "2026-06-07",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/10-sinfoniekonzert/2026-06-07/11:00",
     "production_id": "oper-frankfurt/10-sinfoniekonzert",
     "date": "2026-06-07",
@@ -1830,6 +1836,12 @@
     "status": "past"
   },
   {
+    "id": "oper-frankfurt/oper-extra/2026-06-07/",
+    "production_id": "oper-frankfurt/oper-extra",
+    "date": "2026-06-07",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/oper-extra/2026-06-07/11:00",
     "production_id": "oper-frankfurt/oper-extra",
     "date": "2026-06-07",
@@ -2730,6 +2742,12 @@
     "time": "19:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/tancredi/2026-06-07/",
+    "production_id": "oper-frankfurt/tancredi",
+    "date": "2026-06-07",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/tancredi/2026-06-07/18:00",

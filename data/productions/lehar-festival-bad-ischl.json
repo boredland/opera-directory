@@ -1,0 +1,210 @@
+[
+  {
+    "id": "lehar-festival-bad-ischl/boccaccio",
+    "work_slug": "franz-von-suppe/boccaccio",
+    "house_slug": "lehar-festival-bad-ischl",
+    "premiere_date": "2026-07-11",
+    "is_revival": false,
+    "detail_url": "https://www.leharfestival.at/stuecke/boccaccio/",
+    "creative_team": [
+      {
+        "person_slug": "lukas-ruziczka",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "matthias-schoberwalter",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-huber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sven-bindseil",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-enzinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "johann-hofbauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stefan-wiel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "toma-ioan",
+        "role_slug": "franz-von-suppe/boccaccio/ein-ausrufer"
+      },
+      {
+        "person_slug": "nikola-basta",
+        "role_slug": "franz-von-suppe/boccaccio/ein-monch"
+      },
+      {
+        "person_slug": "maria-ladurner",
+        "role_slug": "franz-von-suppe/boccaccio/fiametta"
+      },
+      {
+        "person_slug": "christina-sidak",
+        "role_slug": "franz-von-suppe/boccaccio/giovanni-boccaccio-ihr-liebhaber"
+      },
+      {
+        "person_slug": "domenica-radlmaier",
+        "role_slug": "franz-von-suppe/boccaccio/isabella-dessen-frau"
+      },
+      {
+        "person_slug": "hans-groning",
+        "role_slug": "franz-von-suppe/boccaccio/lambertuccio-gewurzkramer"
+      },
+      {
+        "person_slug": "philip-guirola-paganini",
+        "role_slug": "franz-von-suppe/boccaccio/leonetto-ein-student"
+      },
+      {
+        "person_slug": "gerd-vogel",
+        "role_slug": "franz-von-suppe/boccaccio/lotteringhi-ein-fassbinder"
+      },
+      {
+        "person_slug": "miriam-portmann",
+        "role_slug": "franz-von-suppe/boccaccio/peronella-seine-frau"
+      },
+      {
+        "person_slug": "martin-lechleitner",
+        "role_slug": "franz-von-suppe/boccaccio/pietro-ein-prinz-ihr-liebhaber"
+      },
+      {
+        "person_slug": "jenny-w-gregor",
+        "role_slug": "franz-von-suppe/boccaccio/spielfassung"
+      }
+    ]
+  },
+  {
+    "id": "lehar-festival-bad-ischl/der-goettergatte",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "house_slug": "lehar-festival-bad-ischl",
+    "premiere_date": "2026-08-14",
+    "is_revival": false,
+    "detail_url": "https://www.leharfestival.at/stuecke/der-goettergatte/",
+    "creative_team": [
+      {
+        "person_slug": "katharina-glas",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marius-burkert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "peter-plaschek",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "paul-schweinester",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "eva-scholer",
+        "role_slug": "franz-lehar/der-gottergatte/charis-ehefrau-von-sosias"
+      },
+      {
+        "person_slug": "cinzia-zanovello",
+        "role_slug": "franz-lehar/der-gottergatte/juno"
+      },
+      {
+        "person_slug": "matjaz-stopinsek",
+        "role_slug": "franz-lehar/der-gottergatte/jupiter"
+      },
+      {
+        "person_slug": "thomas-enzinger",
+        "role_slug": "franz-lehar/der-gottergatte/maandros-theaterdirektor"
+      },
+      {
+        "person_slug": "lukas-karzel",
+        "role_slug": "franz-lehar/der-gottergatte/merkur"
+      },
+      {
+        "person_slug": "gerd-vogel",
+        "role_slug": "franz-lehar/der-gottergatte/sosias"
+      }
+    ]
+  },
+  {
+    "id": "lehar-festival-bad-ischl/graefin-mariza",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "house_slug": "lehar-festival-bad-ischl",
+    "premiere_date": "2026-07-18",
+    "is_revival": false,
+    "detail_url": "https://www.leharfestival.at/stuecke/graefin-mariza/",
+    "creative_team": [
+      {
+        "person_slug": "evamaria-mayer",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "matthias-schoberwalter",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marius-burkert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sven-bindseil",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "angela-schweiger",
+        "function": "director"
+      },
+      {
+        "person_slug": "johann-hofbauer",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stefan-wiel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lukas-karzel",
+        "role_slug": "emmerich-kalman/grafin-mariza/baron-koloman-zsupan"
+      },
+      {
+        "person_slug": "martin-achrainer",
+        "role_slug": "emmerich-kalman/grafin-mariza/furst-populescu"
+      },
+      {
+        "person_slug": "petra-strasser",
+        "role_slug": "emmerich-kalman/grafin-mariza/furstin-bozena-guddenstein-zu-clumetz"
+      },
+      {
+        "person_slug": "daniel-pataky",
+        "role_slug": "emmerich-kalman/grafin-mariza/graf-tassilo-von-endrody-wittemburg"
+      },
+      {
+        "person_slug": "bryony-dwyer",
+        "role_slug": "emmerich-kalman/grafin-mariza/grafin-mariza"
+      },
+      {
+        "person_slug": "claudia-goebl",
+        "role_slug": "emmerich-kalman/grafin-mariza/lisa-tassilos-schwester"
+      },
+      {
+        "person_slug": "eva-scholer",
+        "role_slug": "emmerich-kalman/grafin-mariza/manja"
+      },
+      {
+        "person_slug": "georg-schubert",
+        "role_slug": "emmerich-kalman/grafin-mariza/penizek"
+      }
+    ]
+  }
+]

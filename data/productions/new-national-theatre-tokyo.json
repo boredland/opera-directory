@@ -1,0 +1,736 @@
+[
+  {
+    "id": "new-national-theatre-tokyo/biwako-hall-the-twelve-months/2026-2027",
+    "work_slug": "hikaru-hayashi/biwako-hall-the-twelve-months",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/thetwelvemonths.html",
+    "creative_team": [
+      {
+        "person_slug": "ban-tetsuro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nakamura-keiichi",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "new-national-theatre-tokyo/cavalleria-rusticana-pagliacci/2026-2027",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/cavalleria.html",
+    "creative_team": [
+      {
+        "person_slug": "ono-kazushi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gilbert-deflo",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sudo-shingo",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
+      },
+      {
+        "person_slug": "roberto-aronica",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
+        "person_slug": "goke-akiko",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lola"
+      },
+      {
+        "person_slug": "taniguchi-mutsumi",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lucia"
+      },
+      {
+        "person_slug": "nakamura-eri",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
+      },
+      {
+        "person_slug": "sawahara-takamasa",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/peppe"
+      },
+      {
+        "person_slug": "chiara-mogini",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "komada-toshiaki",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/silvio"
+      },
+      {
+        "person_slug": "massimo-cavalletti",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
+        "person_slug": "luciano-ganci",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/der-rosenkavalier/2026-2027",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/derrosenkavalier.html",
+    "creative_team": [
+      {
+        "person_slug": "patrick-hahn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jonathan-miller",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fujii-asami",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "guido-jentjens",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "kiandra-howarth",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin"
+      },
+      {
+        "person_slug": "hare-masahiko",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-notar"
+      },
+      {
+        "person_slug": "kono-teppei",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar"
+      },
+      {
+        "person_slug": "hamamatsu-takayuki",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
+      },
+      {
+        "person_slug": "aochi-hideyuki",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-wirt"
+      },
+      {
+        "person_slug": "yonashiro-kei",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "watanabe-hitomi",
+        "role_slug": "richard-strauss/der-rosenkavalier/marianne"
+      },
+      {
+        "person_slug": "wakizono-aya",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "tanetani-noriko",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie"
+      },
+      {
+        "person_slug": "ito-tatsundo",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/elektra/2025-2026",
+    "work_slug": "richard-strauss/elektra",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2025/2026",
+    "is_revival": false,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/elektra.html",
+    "creative_team": [
+      {
+        "person_slug": "ono-kazushi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "johannes-erath",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kudo-kazuma",
+        "role_slug": "richard-strauss/elektra/aegisth"
+      },
+      {
+        "person_slug": "hedvig-haugerud",
+        "role_slug": "richard-strauss/elektra/chrysothemis"
+      },
+      {
+        "person_slug": "moriya-mari",
+        "role_slug": "richard-strauss/elektra/die-aufseherin"
+      },
+      {
+        "person_slug": "aile-asszonyi",
+        "role_slug": "richard-strauss/elektra/elektra"
+      },
+      {
+        "person_slug": "fujimura-mihoko",
+        "role_slug": "richard-strauss/elektra/klytamnestra"
+      },
+      {
+        "person_slug": "egils-silins",
+        "role_slug": "richard-strauss/elektra/orest"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/eugene-onegin/2026-2027",
+    "work_slug": "pyotr-tchaikovsky/eugene-onegin",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/eugene-onegin.html",
+    "creative_team": [
+      {
+        "person_slug": "andriy-yurkevych",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dmitry-bertman",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andrey-zhilikhovsky",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/eugene-yevgeny-onegin"
+      },
+      {
+        "person_slug": "hashizume-yuka",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/filipyevna"
+      },
+      {
+        "person_slug": "saito-junko",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/madama-larina"
+      },
+      {
+        "person_slug": "margarita-gritskova",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/olga"
+      },
+      {
+        "person_slug": "goderdzi-janelidze",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/prince-gremin"
+      },
+      {
+        "person_slug": "kristina-mkhitaryan",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/tatyana"
+      },
+      {
+        "person_slug": "pavel-valuzhin",
+        "role_slug": "pyotr-tchaikovsky/eugene-onegin/vladimir-lensky"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/falstaff/2026-2027",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/falstaff.html",
+    "creative_team": [
+      {
+        "person_slug": "maurizio-benini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jonathan-miller",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "itoga-shuhei",
+        "role_slug": "giuseppe-verdi/falstaff/bardolfo"
+      },
+      {
+        "person_slug": "murakami-toshiaki",
+        "role_slug": "giuseppe-verdi/falstaff/dr-cajus"
+      },
+      {
+        "person_slug": "murakami-kota",
+        "role_slug": "giuseppe-verdi/falstaff/fenton"
+      },
+      {
+        "person_slug": "ricardo-jose-rivera",
+        "role_slug": "giuseppe-verdi/falstaff/ford"
+      },
+      {
+        "person_slug": "serena-farnocchia",
+        "role_slug": "giuseppe-verdi/falstaff/mrs-alice-ford"
+      },
+      {
+        "person_slug": "kobayashi-yuka",
+        "role_slug": "giuseppe-verdi/falstaff/mrs-meg-page"
+      },
+      {
+        "person_slug": "teresa-iervolino",
+        "role_slug": "giuseppe-verdi/falstaff/mrs-quickly"
+      },
+      {
+        "person_slug": "sunada-airi",
+        "role_slug": "giuseppe-verdi/falstaff/nannetta"
+      },
+      {
+        "person_slug": "tsumaya-hidekazu",
+        "role_slug": "giuseppe-verdi/falstaff/pistola"
+      },
+      {
+        "person_slug": "roberto-frontali",
+        "role_slug": "giuseppe-verdi/falstaff/sir-john-falstaff"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/il-turco-in-italia/2026-2027",
+    "work_slug": "gioachino-rossini/il-turco-in-italia",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": false,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/ilturcoinitalia.html",
+    "creative_team": [
+      {
+        "person_slug": "alessandro-bonato",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "laurent-pelly",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "laurent-pelly",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "yamamoto-yasuhiro",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/albazar"
+      },
+      {
+        "person_slug": "paolo-bordogna",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/don-geronio"
+      },
+      {
+        "person_slug": "ruzil-gatin",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/don-narciso"
+      },
+      {
+        "person_slug": "claudia-muschio",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/donna-fiorilla"
+      },
+      {
+        "person_slug": "bruno-taddia",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/prosdocimo"
+      },
+      {
+        "person_slug": "alejandro-balinas-vieites",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/selim"
+      },
+      {
+        "person_slug": "tajima-yuka",
+        "role_slug": "gioachino-rossini/il-turco-in-italia/zaida"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/l-elisir-d-amore/2025-2026",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2025/2026",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/lelisirdamore.html",
+    "creative_team": [
+      {
+        "person_slug": "marco-guidarini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cesare-lievi",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "francesca-pia-vitale",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "simone-alberghini",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "marco-filippo-romano",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/dulcamara"
+      },
+      {
+        "person_slug": "matteo-desole",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/le-nozze-di-figaro/2026-2027",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/lenozzedifigaro.html",
+    "creative_team": [
+      {
+        "person_slug": "ban-tetsuro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andreas-homoki",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hare-masahiko",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/antonio"
+      },
+      {
+        "person_slug": "tsumaya-hidekazu",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
+      },
+      {
+        "person_slug": "aochi-hideyuki",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/basilio"
+      },
+      {
+        "person_slug": "yamashita-hiroka",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "mizuno-yu",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-curzio"
+      },
+      {
+        "person_slug": "kimura-yoshiaki",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "sudo-shingo",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/il-conte-almaviva"
+      },
+      {
+        "person_slug": "yoshida-tamayo",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa"
+      },
+      {
+        "person_slug": "nakajima-ikuko",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "kushima-kanae",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/macbeth/2026-2027",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": false,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/macbeth.html",
+    "creative_team": [
+      {
+        "person_slug": "carlo-rizzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lorenzo-mariani",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tsumaya-hidekazu",
+        "role_slug": "giuseppe-verdi/macbeth/banquo"
+      },
+      {
+        "person_slug": "taniguchi-mutsumi",
+        "role_slug": "giuseppe-verdi/macbeth/dama-di-lady-macbeth"
+      },
+      {
+        "person_slug": "karen-gardeazabal",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "ernesto-petti",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "paride-cataldo",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "murakami-kota",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      },
+      {
+        "person_slug": "kubota-masumi",
+        "role_slug": "giuseppe-verdi/macbeth/medico"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-educational-programme-for-high-school-students-lelisir-damore2026",
+    "work_slug": "gaetano-donizetti/educational-programme-for-high-school-students-l-elisir-d-amore",
+    "house_slug": "new-national-theatre-tokyo",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/educational-programme-for-high-school-students-lelisir-damore2026.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "new-national-theatre-tokyo/new-national-theatre-tokyo-nnt-opera-studio-summer-recital-2026",
+    "work_slug": "giacomo-puccini/gianni-schicchi",
+    "house_slug": "new-national-theatre-tokyo",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/nnt-opera-studio-summer-recital-2026.html",
+    "creative_team": [
+      {
+        "person_slug": "kathleen-kelly",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tara-faircloth",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "new-national-theatre-tokyo/peter-grimes/2026-2027",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": false,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/petergrimes.html",
+    "creative_team": [
+      {
+        "person_slug": "ono-kazushi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robert-carsen",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-carsen",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nicole-piccolomini",
+        "role_slug": "benjamin-britten/peter-grimes/auntie"
+      },
+      {
+        "person_slug": "jordan-shanahan",
+        "role_slug": "benjamin-britten/peter-grimes/balstrode"
+      },
+      {
+        "person_slug": "itoga-shuhei",
+        "role_slug": "benjamin-britten/peter-grimes/bob-boles"
+      },
+      {
+        "person_slug": "sally-matthews",
+        "role_slug": "benjamin-britten/peter-grimes/ellen-orford"
+      },
+      {
+        "person_slug": "otsuka-hiroaki",
+        "role_slug": "benjamin-britten/peter-grimes/hobson"
+      },
+      {
+        "person_slug": "saito-junko",
+        "role_slug": "benjamin-britten/peter-grimes/mrs-sedley"
+      },
+      {
+        "person_slug": "yoshikawa-kenichi",
+        "role_slug": "benjamin-britten/peter-grimes/ned-keene"
+      },
+      {
+        "person_slug": "watanabe-hitomi",
+        "role_slug": "benjamin-britten/peter-grimes/niece-1"
+      },
+      {
+        "person_slug": "konno-sachie",
+        "role_slug": "benjamin-britten/peter-grimes/niece-2"
+      },
+      {
+        "person_slug": "brandon-jovanovich",
+        "role_slug": "benjamin-britten/peter-grimes/peter-grimes"
+      },
+      {
+        "person_slug": "murakami-kota",
+        "role_slug": "benjamin-britten/peter-grimes/rev-horace-adams"
+      },
+      {
+        "person_slug": "kono-teppei",
+        "role_slug": "benjamin-britten/peter-grimes/swallow"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/salome/2026-2027",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/salome.html",
+    "creative_team": [
+      {
+        "person_slug": "numajiri-ryusuke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "august-everding",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sugiyama-yuki",
+        "role_slug": "richard-strauss/salome/ein-page-der-herodias"
+      },
+      {
+        "person_slug": "peter-tantsits",
+        "role_slug": "richard-strauss/salome/herodes"
+      },
+      {
+        "person_slug": "alexandrina-pendatchanska",
+        "role_slug": "richard-strauss/salome/herodias"
+      },
+      {
+        "person_slug": "kostas-smoriginas",
+        "role_slug": "richard-strauss/salome/johanaan"
+      },
+      {
+        "person_slug": "hamamatsu-takayuki",
+        "role_slug": "richard-strauss/salome/naraboth"
+      },
+      {
+        "person_slug": "hedvig-haugerud",
+        "role_slug": "richard-strauss/salome/salome"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/tosca/2026-2027",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2026/2027",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/tosca.html",
+    "creative_team": [
+      {
+        "person_slug": "donato-renzetti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "antonello-madau-diaz",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "saiki-kenji",
+        "role_slug": "giacomo-puccini/tosca/angelotti"
+      },
+      {
+        "person_slug": "saimir-pirgu",
+        "role_slug": "giacomo-puccini/tosca/cavaradossi"
+      },
+      {
+        "person_slug": "hare-masahiko",
+        "role_slug": "giacomo-puccini/tosca/il-sagrestano"
+      },
+      {
+        "person_slug": "dalibor-jenis",
+        "role_slug": "giacomo-puccini/tosca/scarpia"
+      },
+      {
+        "person_slug": "okubo-atsushi",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "ushiroda-shohei",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      },
+      {
+        "person_slug": "carmen-giannattasio",
+        "role_slug": "giacomo-puccini/tosca/tosca"
+      }
+    ]
+  },
+  {
+    "id": "new-national-theatre-tokyo/werther/2025-2026",
+    "work_slug": "jules-massenet/werther",
+    "house_slug": "new-national-theatre-tokyo",
+    "premiere_season": "2025/2026",
+    "is_revival": true,
+    "detail_url": "https://www.nntt.jac.go.jp/english/productions/opera/werther.html",
+    "creative_team": [
+      {
+        "person_slug": "andriy-yurkevych",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicolas-joel",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sudo-shingo",
+        "role_slug": "jules-massenet/werther/albert"
+      },
+      {
+        "person_slug": "wakizono-aya",
+        "role_slug": "jules-massenet/werther/charlotte"
+      },
+      {
+        "person_slug": "komada-toshiaki",
+        "role_slug": "jules-massenet/werther/johann"
+      },
+      {
+        "person_slug": "ito-takayuki",
+        "role_slug": "jules-massenet/werther/le-bailli"
+      },
+      {
+        "person_slug": "murakami-kota",
+        "role_slug": "jules-massenet/werther/schmidt"
+      },
+      {
+        "person_slug": "sunada-airi",
+        "role_slug": "jules-massenet/werther/sophie"
+      },
+      {
+        "person_slug": "charles-castronovo",
+        "role_slug": "jules-massenet/werther/werther"
+      }
+    ]
+  }
+]

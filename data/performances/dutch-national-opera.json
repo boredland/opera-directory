@@ -1,0 +1,906 @@
+[
+  {
+    "id": "dutch-national-opera/cherry-town/2026-27/2026-10-08/20:00",
+    "production_id": "dutch-national-opera/cherry-town/2026-27",
+    "date": "2026-10-08",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/cherry-town/2026-27/2026-10-10/20:00",
+    "production_id": "dutch-national-opera/cherry-town/2026-27",
+    "date": "2026-10-10",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/cherry-town/2026-27/2026-10-11/14:00",
+    "production_id": "dutch-national-opera/cherry-town/2026-27",
+    "date": "2026-10-11",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/cherry-town/2026-27/2026-10-16/20:00",
+    "production_id": "dutch-national-opera/cherry-town/2026-27",
+    "date": "2026-10-16",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/cherry-town/2026-27/2026-10-20/20:00",
+    "production_id": "dutch-national-opera/cherry-town/2026-27",
+    "date": "2026-10-20",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-03/19:30",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-03",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-06/14:00",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-06",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-10/19:30",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-13/14:00",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-13",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-15/19:30",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-15",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-18/19:30",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-18",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-22/19:30",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-22",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-25/14:00",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-25",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/der-fliegende-hollander/2026-27/2026-12-27/14:00",
+    "production_id": "dutch-national-opera/der-fliegende-hollander/2026-27",
+    "date": "2026-12-27",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/hedda-gabler/2026-27/2027-03-19/20:00",
+    "production_id": "dutch-national-opera/hedda-gabler/2026-27",
+    "date": "2027-03-19",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/hedda-gabler/2026-27/2027-03-21/14:00",
+    "production_id": "dutch-national-opera/hedda-gabler/2026-27",
+    "date": "2027-03-21",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/hedda-gabler/2026-27/2027-03-23/20:00",
+    "production_id": "dutch-national-opera/hedda-gabler/2026-27",
+    "date": "2027-03-23",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/hedda-gabler/2026-27/2027-03-25/20:00",
+    "production_id": "dutch-national-opera/hedda-gabler/2026-27",
+    "date": "2027-03-25",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-10/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-10",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-13/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-13",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-15/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-15",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-17/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-17",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-22/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-22",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-25/20:00",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-25",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-04-29/20:30",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-04-29",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/impressions-de-pelleas/2026-27/2027-05-01/20:30",
+    "production_id": "dutch-national-opera/impressions-de-pelleas/2026-27",
+    "date": "2027-05-01",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-04-16/20:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-04-16",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-04-20/20:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-04-20",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-04-22/20:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-04-22",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-04-25/14:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-04-25",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-04-29/20:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-04-29",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/iolanta/2026-27/2027-05-02/14:00",
+    "production_id": "dutch-national-opera/iolanta/2026-27",
+    "date": "2027-05-02",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-10/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-10",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-12/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-14/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-14",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-18/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-18",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-20/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-22/14:00",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-22",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "few_left"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-24/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-24",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/johannes-passion/2026-27/2026-11-26/19:30",
+    "production_id": "dutch-national-opera/johannes-passion/2026-27",
+    "date": "2026-11-26",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-09/19:30",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-09",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-13/14:00",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-13",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-15/19:30",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-15",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-18/19:30",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-18",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-21/19:30",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-21",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-24/19:30",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-24",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/la-damnation-de-faust/2026-27/2027-06-27/14:00",
+    "production_id": "dutch-national-opera/la-damnation-de-faust/2026-27",
+    "date": "2027-06-27",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/le-nozze-di-figaro/2025-26/2026-05-08/19:00",
+    "production_id": "dutch-national-opera/le-nozze-di-figaro/2025-26",
+    "date": "2026-05-08",
+    "time": "19:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "past"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-10/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-10",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-11/12:30",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-11",
+    "time": "12:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-11/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-11",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-13/12:30",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-13",
+    "time": "12:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-13/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-13",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-14/12:30",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-14",
+    "time": "12:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-15/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-15",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-16/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-16",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/lennox/2026-27/2026-10-17/16:00",
+    "production_id": "dutch-national-opera/lennox/2026-27",
+    "date": "2026-10-17",
+    "time": "16:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-12/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-12",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-15/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-18/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-18",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-21/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-24/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-24",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-27/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-27",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-05-30/14:00",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-05-30",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-06-02/19:30",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-06-02",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/norma/2026-27/2027-06-06/14:00",
+    "production_id": "dutch-national-opera/norma/2026-27",
+    "date": "2027-06-06",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/opera-in-het-park-simon-boccanegra/2025-26/2026-06-19/19:30",
+    "production_id": "dutch-national-opera/opera-in-het-park-simon-boccanegra/2025-26",
+    "date": "2026-06-19",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-03/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-03",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-07/14:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-07",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-09/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-09",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-12/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-12",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-15/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-15",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-18/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-18",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-21/14:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-21",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/orfeo-ed-euridice/2026-27/2027-02-23/20:00",
+    "production_id": "dutch-national-opera/orfeo-ed-euridice/2026-27",
+    "date": "2027-02-23",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-05/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-05",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-08/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-08",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-11/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-11",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-14/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-14",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-17/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-17",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-20/14:00",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-20",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "few_left"
+  },
+  {
+    "id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27/2026-09-23/19:30",
+    "production_id": "dutch-national-opera/pagliacci-cavalleria-rusticana/2026-27",
+    "date": "2026-09-23",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-01-18/20:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-01-18",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-01-21/20:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-01-21",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-01-24/14:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-01-24",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-01-27/20:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-01-27",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-01-31/14:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-01-31",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-02-02/20:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-02-02",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/salome/2026-27/2027-02-06/20:00",
+    "production_id": "dutch-national-opera/salome/2026-27",
+    "date": "2027-02-06",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-10/19:30",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-10",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-13/19:30",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "few_left"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-17/19:30",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-17",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-21/14:00",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-25/19:30",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-25",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/simon-boccanegra/2025-26/2026-06-28/14:00",
+    "production_id": "dutch-national-opera/simon-boccanegra/2025-26",
+    "date": "2026-06-28",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-03-20/20:30",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-03-20",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-03-21/13:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-03-21",
+    "time": "13:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-03-21/16:30",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-03-21",
+    "time": "16:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-03-25/20:15",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-03-25",
+    "time": "20:15",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-04-06/20:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-04-06",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-04-07/20:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-04-07",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-04-16/20:30",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-04-16",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-04-17/20:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-04-17",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-04-28/20:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-04-28",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-06-04/20:30",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-06-04",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-06-05/20:30",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-06-05",
+    "time": "20:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/the-monster-trilogy/2026-27/2027-06-06/15:00",
+    "production_id": "dutch-national-opera/the-monster-trilogy/2026-27",
+    "date": "2027-06-06",
+    "time": "15:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2026-11-13/19:30",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2026-11-13",
+    "time": "19:30",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2026-11-15/14:00",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2026-11-15",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2026-11-17/20:15",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2026-11-17",
+    "time": "20:15",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2026-11-24/20:00",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2026-11-24",
+    "time": "20:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2027-05-16/14:00",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2027-05-16",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  },
+  {
+    "id": "dutch-national-opera/uprising/2026-27/2027-05-23/14:00",
+    "production_id": "dutch-national-opera/uprising/2026-27",
+    "date": "2027-05-23",
+    "time": "14:00",
+    "venue_room": "Nationale Opera & Ballet",
+    "status": "scheduled"
+  }
+]

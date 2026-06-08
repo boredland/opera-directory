@@ -49,6 +49,20 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/da-capo-al-fine-840/2026-06-13/15:00",
+    "production_id": "oper-leipzig/da-capo-al-fine-840",
+    "date": "2026-06-13",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/da-capo-al-fine-840/2026-06-14/11:00",
+    "production_id": "oper-leipzig/da-capo-al-fine-840",
+    "date": "2026-06-14",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -95,6 +109,27 @@
     "production_id": "oper-leipzig/fuhrung-technisches-kabinett-88",
     "date": "2026-10-10",
     "time": "13:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/giulio-cesare-in-egitto-584/2026-06-13/19:00",
+    "production_id": "oper-leipzig/giulio-cesare-in-egitto-584",
+    "date": "2026-06-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/giulio-cesare-in-egitto-584/2026-06-21/17:00",
+    "production_id": "oper-leipzig/giulio-cesare-in-egitto-584",
+    "date": "2026-06-21",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/giulio-cesare-in-egitto-584/2026-06-27/17:00",
+    "production_id": "oper-leipzig/giulio-cesare-in-egitto-584",
+    "date": "2026-06-27",
+    "time": "17:00",
     "status": "scheduled"
   },
   {
@@ -220,6 +255,27 @@
     "id": "oper-leipzig/regina-811/2026-06-12/19:30",
     "production_id": "oper-leipzig/regina-811",
     "date": "2026-06-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-06-13/19:00",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-06-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-06-14/15:00",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-06-14",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-06-16/19:30",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-06-16",
     "time": "19:30",
     "status": "scheduled"
   },

@@ -217,6 +217,20 @@
     ]
   },
   {
+    "id": "oper-leipzig/da-capo-al-fine-840",
+    "work_slug": "da-capo-al-fine",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/da-capo-al-fine/840",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "romy-sarakacianis",
+        "role_slug": "da-capo-al-fine/kunstlerische-leitung-organisation"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/eurydike-795",
     "work_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike",
     "house_slug": "oper-leipzig",
@@ -382,6 +396,85 @@
     "detail_url": "https://www.oper-leipzig.de/de/programm/fuhrung-technisches-kabinett/88",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "oper-leipzig/giulio-cesare-in-egitto-584",
+    "work_slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/giulio-cesare-in-egitto/584",
+    "creative_team": [
+      {
+        "person_slug": "thomas-wilhelm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ruben-dubrovsky",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "agostino-cavalca",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "kara-mckechnie",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "franz-xaver-schlecht",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/achilla"
+      },
+      {
+        "person_slug": "olga-jelinkova",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cleopatra"
+      },
+      {
+        "person_slug": "ulrike-schneider",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cornelia"
+      },
+      {
+        "person_slug": "peter-dolinsek",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/curio"
+      },
+      {
+        "person_slug": "yuriy-mynenko",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/giulio-cesare"
+      },
+      {
+        "person_slug": "nora-steuerwald",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/nireno"
+      },
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/orchester"
+      },
+      {
+        "person_slug": "gabriele-kupsyte",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/sesto"
+      },
+      {
+        "person_slug": "gilles-rico",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/szenische-einstudierung"
+      },
+      {
+        "person_slug": "remy-bres-feuillet",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/tolomeo"
+      }
+    ]
   },
   {
     "id": "oper-leipzig/im-weien-rossl-798",
@@ -679,6 +772,61 @@
       {
         "person_slug": "vincent-turregano",
         "role_slug": "albert-lortzing/regina/wolfgang"
+      }
+    ]
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788",
+    "work_slug": "strangers-in-the-night",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/strangers-in-the-night/788",
+    "creative_team": [
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vanessa-raths",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-diepold",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "inken-meents",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "frank-schmutzler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sebastian-weber",
+        "role_slug": "strangers-in-the-night/barkeeper"
+      },
+      {
+        "person_slug": "mirko-mahr",
+        "role_slug": "strangers-in-the-night/choreografie-inszenierung"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "strangers-in-the-night/frank"
+      },
+      {
+        "person_slug": "ballett-der-musikalischen-komodie",
+        "role_slug": "strangers-in-the-night/franks-gaste"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "strangers-in-the-night/orchester"
+      },
+      {
+        "person_slug": "sebastian-weber",
+        "role_slug": "strangers-in-the-night/step-choreografie"
       }
     ]
   },

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "teatro-colon/die-walkure/2026",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "teatro-colon",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://teatrocolon.org.ar/produccion/die-walkure",
+    "creative_team": [
+      {
+        "person_slug": "alejo-perez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mariana-fracasso",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "director"
+      },
+      {
+        "person_slug": "eleonora-peronetti",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "annemarie-kremer",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "elena-pankratova",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "okka-von-der-damerau",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "sophie-koch",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "brindley-sherratt",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "vitalij-kowaljow",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "carla-filipcic-holm",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "ekaterina-gubanova",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "gustavo-lopez-manzitti",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "samuel-sakker",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "hernan-iturralde",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      },
+      {
+        "person_slug": "nicholas-brownlee",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      }
+    ]
+  },
+  {
+    "id": "teatro-colon/i-capuleti-e-i-montecchi/2026",
+    "work_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi",
+    "house_slug": "teatro-colon",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://teatrocolon.org.ar/produccion/i-capuleti-e-i-montecchi",
+    "creative_team": [
+      {
+        "person_slug": "evelino-pido",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emilia-tambutti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pablo-maritano",
+        "function": "director"
+      },
+      {
+        "person_slug": "david-seldes",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gonzalo-cordoba-estevez",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jaquelina-livieri",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/giulietta"
+      },
+      {
+        "person_slug": "yaritza-veliz",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/giulietta"
+      },
+      {
+        "person_slug": "ekaterina-vorontsova",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/romeo"
+      },
+      {
+        "person_slug": "silvia-tro-santafe",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/romeo"
+      },
+      {
+        "person_slug": "ioan-hotea",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/tebaldo"
+      }
+    ]
+  },
+  {
+    "id": "teatro-colon/les-contes-d-hoffmann/2026",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "house_slug": "teatro-colon",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://teatrocolon.org.ar/produccion/les-contes-dhoffmann",
+    "creative_team": [
+      {
+        "person_slug": "irene-martens",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "carlo-montanaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eugenio-zanetti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sebastian-sabas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eugenio-zanetti",
+        "function": "director"
+      },
+      {
+        "person_slug": "eli-sirlin",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jaquelina-livieri",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/antonia"
+      },
+      {
+        "person_slug": "dmitry-ulyanov",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/coppelius-dapertutto-docteur-miracle-lindorf"
+      },
+      {
+        "person_slug": "nahuel-di-pierro",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/coppelius-dapertutto-docteur-miracle-lindorf"
+      },
+      {
+        "person_slug": "marina-costa-jackson",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/giulietta"
+      },
+      {
+        "person_slug": "jean-francois-borras",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/hoffmann"
+      },
+      {
+        "person_slug": "rene-barbera",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/hoffmann"
+      },
+      {
+        "person_slug": "annalisa-stroppa",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/nicklausse"
+      },
+      {
+        "person_slug": "mar-moran",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/olympia"
+      }
+    ]
+  },
+  {
+    "id": "teatro-colon/manon-lescaut/2026",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "house_slug": "teatro-colon",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://teatrocolon.org.ar/produccion/manon-lescaut",
+    "creative_team": [
+      {
+        "person_slug": "henrik-nanasi",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ricardo-seguel",
+        "role_slug": "giacomo-puccini/manon-lescaut/geronte-de-ravoir"
+      },
+      {
+        "person_slug": "junhyeok-felix-park",
+        "role_slug": "giacomo-puccini/manon-lescaut/lescaut"
+      },
+      {
+        "person_slug": "chiara-isotton",
+        "role_slug": "giacomo-puccini/manon-lescaut/manon-lescaut"
+      }
+    ]
+  },
+  {
+    "id": "teatro-colon/otello/2026",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "teatro-colon",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://teatrocolon.org.ar/produccion/otello",
+    "creative_team": [
+      {
+        "person_slug": "alejo-perez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tommaso-lagattolla",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "fabio-sparvoli",
+        "function": "director"
+      },
+      {
+        "person_slug": "jose-luis-fiorruccio",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nicolas-boni",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "juliana-grigoryan",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "maria-belen-rivarola",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "gregory-kunde",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "jose-azocar",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "michael-fabiano",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "daniel-luis-de-vicente",
+        "role_slug": "giuseppe-verdi/otello/yago"
+      },
+      {
+        "person_slug": "fabian-veloz",
+        "role_slug": "giuseppe-verdi/otello/yago"
+      },
+      {
+        "person_slug": "leonardo-lopez-linares",
+        "role_slug": "giuseppe-verdi/otello/yago"
+      }
+    ]
+  }
+]

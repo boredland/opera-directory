@@ -1,0 +1,107 @@
+[
+  {
+    "id": "grand-theatre-de-geneve/madame-butterfly/2025-2026",
+    "work_slug": "giacomo-puccini/madame-butterfly",
+    "house_slug": "grand-theatre-de-geneve",
+    "premiere_season": "2025/2026",
+    "is_revival": false,
+    "detail_url": "https://www.gtg.ch/saison-25-26/madame-butterfly/",
+    "image_url": "https://www.gtg.ch/wp-content/uploads/2025/04/GTG_25-26_Opera_Butterfly_1200x8000px_01.jpg",
+    "creative_team": [
+      {
+        "person_slug": "andrea-tortosa-vidal",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "mark-biggins",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eva-maria-van-acker",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barbora-horakova",
+        "function": "director"
+      },
+      {
+        "person_slug": "felice-ross",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "wolfgang-menardi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "arnold-rutkowski",
+        "role_slug": "giacomo-puccini/madame-butterfly/benjamin-franklin-pinkerton"
+      },
+      {
+        "person_slug": "stephen-costello",
+        "role_slug": "giacomo-puccini/madame-butterfly/benjamin-franklin-pinkerton"
+      },
+      {
+        "person_slug": "corinne-winters",
+        "role_slug": "giacomo-puccini/madame-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "heather-engebretson",
+        "role_slug": "giacomo-puccini/madame-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "andrea-tortosa-vidal",
+        "role_slug": "giacomo-puccini/madame-butterfly/danseuses-danseur"
+      },
+      {
+        "person_slug": "enorah-schwaar",
+        "role_slug": "giacomo-puccini/madame-butterfly/danseuses-danseur"
+      },
+      {
+        "person_slug": "laure-minaro-cover",
+        "role_slug": "giacomo-puccini/madame-butterfly/danseuses-danseur"
+      },
+      {
+        "person_slug": "noe-girard",
+        "role_slug": "giacomo-puccini/madame-butterfly/danseuses-danseur"
+      },
+      {
+        "person_slug": "odile-fragniere",
+        "role_slug": "giacomo-puccini/madame-butterfly/danseuses-danseur"
+      },
+      {
+        "person_slug": "bertrand-pfaff",
+        "role_slug": "giacomo-puccini/madame-butterfly/fils-de-cio-cio-san"
+      },
+      {
+        "person_slug": "denzil-delaere",
+        "role_slug": "giacomo-puccini/madame-butterfly/goro"
+      },
+      {
+        "person_slug": "charlotte-bozzi",
+        "role_slug": "giacomo-puccini/madame-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "mark-kurmanbayev",
+        "role_slug": "giacomo-puccini/madame-butterfly/lo-zio-bonzo"
+      },
+      {
+        "person_slug": "andrey-zhilikhovsky",
+        "role_slug": "giacomo-puccini/madame-butterfly/sharpless"
+      },
+      {
+        "person_slug": "kai-ruutel-pajula",
+        "role_slug": "giacomo-puccini/madame-butterfly/suzuki"
+      },
+      {
+        "person_slug": "vladimir-kazakov",
+        "role_slug": "giacomo-puccini/madame-butterfly/yamadori"
+      }
+    ]
+  }
+]

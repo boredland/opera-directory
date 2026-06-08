@@ -1,0 +1,735 @@
+[
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-cavalleria-rusticana-pagliacci",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/cavalleria-rusticana-pagliacci/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57512/oper_box_pagliacci_150dpi.640x0.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alevtina-ioffe",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "axel-aust",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-bergmann",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "leonardo-devito",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "nadja-sofie-eller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gustavo-castillo",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/alfio"
+      },
+      {
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/beppo"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/lola"
+      },
+      {
+        "person_slug": "lina-tsiklauri",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/nedda"
+      },
+      {
+        "person_slug": "ragaa-eldin",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/pagliacci-canio"
+      },
+      {
+        "person_slug": "claude-eichenberger",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/silvio"
+      },
+      {
+        "person_slug": "gustavo-castillo",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/tonio"
+      },
+      {
+        "person_slug": "ragaa-eldin",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-i-pagliacci/turiddu"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-don-giovanni",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/don-giovanni/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57958/oper_box_dongiovanni_72dpi.640x0.png",
+    "creative_team": [
+      {
+        "person_slug": "craig-davidson",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alevtina-ioffe",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "axel-aust",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "arpad-schilling",
+        "function": "director"
+      },
+      {
+        "person_slug": "rainer-karlitschek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "juli-balazs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "lina-tsiklauri",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/komtur-masetto"
+      },
+      {
+        "person_slug": "christian-valle",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "patricia-westley",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-jesus-christ-superstar",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/jesus-christ-superstar/",
+    "creative_team": [
+      {
+        "person_slug": "zsolt-czetner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "hans-christoph-bunger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gisa-kuhn",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tomo-sugao",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jonas-buhler",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carlos-nogueira",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/annas"
+      },
+      {
+        "person_slug": "andreas-goebel",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "anna-knott",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "arne-david",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "arthur-buscher",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "bastiaan-louis",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "denis-lakey",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "ian-matthew-castro",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "melanie-kurmann",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "pascal-d-schmid",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/apostle"
+      },
+      {
+        "person_slug": "gyorgy-antalffy",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/caiaphas"
+      },
+      {
+        "person_slug": "til-ormeloh",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/jesus-christ"
+      },
+      {
+        "person_slug": "allen-marchioni",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/judas-iscariot"
+      },
+      {
+        "person_slug": "marc-clear",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/king-herod"
+      },
+      {
+        "person_slug": "anastasia-troska",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/mary-magdalene"
+      },
+      {
+        "person_slug": "malcolm-henry",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/peter"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/pontius-pilate"
+      },
+      {
+        "person_slug": "andres-del-castillo",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/priest"
+      },
+      {
+        "person_slug": "angela-h-fischer",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/priest"
+      },
+      {
+        "person_slug": "kai-wegner",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/priest"
+      },
+      {
+        "person_slug": "wolfram-foppl",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-zealotes"
+      },
+      {
+        "person_slug": "anja-struc",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soul-girl-journalistin"
+      },
+      {
+        "person_slug": "bernadette-frohlich",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soul-girl-journalistin"
+      },
+      {
+        "person_slug": "katalin-rohse",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/soul-girl-journalistin"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-forza-del-destino",
+    "work_slug": "giuseppe-verdi/la-forza-del-destino",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/la-forza-del-destino/",
+    "creative_team": [
+      {
+        "person_slug": "zsolt-czetner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alevtina-ioffe",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "romy-springsguth",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "julia-lwowski",
+        "function": "director"
+      },
+      {
+        "person_slug": "rainer-karlitschek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-aufderstroth",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "yassu-yabara",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "oksana-vakula",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/braut"
+      },
+      {
+        "person_slug": "diana-mian",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/curra"
+      },
+      {
+        "person_slug": "mihails-culpajevs",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/don-alvaro"
+      },
+      {
+        "person_slug": "gustavo-castillo",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/don-carlo-di-vargas"
+      },
+      {
+        "person_slug": "caterina-marchesini",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/donna-leonora"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/il-marchese-di-calatrava-padre-guardiano"
+      },
+      {
+        "person_slug": "gina-lisa-maiwald",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/kumernissa"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/melitone"
+      },
+      {
+        "person_slug": "evgenia-asanova",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/preziosilla"
+      },
+      {
+        "person_slug": "ian-matthew-castro",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/trabuco"
+      },
+      {
+        "person_slug": "micha-baczyk",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/un-alcade-un-chirurgo"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/la-traviata/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57480/oper_box_traviata.640x0.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alevtina-ioffe",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-renzenbrink",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "raimund-orfeo-voigt",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "davide-tuscano",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "christian-valle",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "dario-lupi",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "lina-tsiklauri",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-lagamennone",
+    "work_slug": "salvatore-sciarrino/l-agamennone",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/lagamennone/",
+    "creative_team": [
+      {
+        "person_slug": "jean-philippe-guilois",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "clement-lonca",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "axel-aust",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bernhard-bieri",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bettina-meyer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "timothy-connor",
+        "role_slug": "salvatore-sciarrino/l-agamennone/agamennone"
+      },
+      {
+        "person_slug": "andries-cloete",
+        "role_slug": "salvatore-sciarrino/l-agamennone/burger-von-argos"
+      },
+      {
+        "person_slug": "peter-stromberg",
+        "role_slug": "salvatore-sciarrino/l-agamennone/burger-von-argos"
+      },
+      {
+        "person_slug": "alexandra-lewis",
+        "role_slug": "salvatore-sciarrino/l-agamennone/burgerin-von-argos"
+      },
+      {
+        "person_slug": "amber-opheim",
+        "role_slug": "salvatore-sciarrino/l-agamennone/burgerin-von-argos"
+      },
+      {
+        "person_slug": "patricia-westley",
+        "role_slug": "salvatore-sciarrino/l-agamennone/cassandra"
+      },
+      {
+        "person_slug": "iris-van-wijnen",
+        "role_slug": "salvatore-sciarrino/l-agamennone/clitemestra"
+      },
+      {
+        "person_slug": "tobias-hechler",
+        "role_slug": "salvatore-sciarrino/l-agamennone/ein-diener"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "salvatore-sciarrino/l-agamennone/herold"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-my-fair-lady",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/my-fair-lady/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57976/oper_box_myfairlady.640x0.png",
+    "creative_team": [
+      {
+        "person_slug": "alex-frei",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hans-christoph-bunger",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "axel-ranisch",
+        "function": "director"
+      },
+      {
+        "person_slug": "rainer-karlitschek",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "christoph-marti",
+        "role_slug": "frederick-loewe/my-fair-lady/alfred-doolittle-mrs-higgins-prof-zoltan-karpathy"
+      },
+      {
+        "person_slug": "gisa-flake",
+        "role_slug": "frederick-loewe/my-fair-lady/eliza-doolittle"
+      },
+      {
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "frederick-loewe/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "heidi-maria-glossner",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-pearce"
+      },
+      {
+        "person_slug": "tobias-bonn",
+        "role_slug": "frederick-loewe/my-fair-lady/prof-henry-higgins"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-ophelias-flugel",
+    "work_slug": "sarah-nemtsov/ophelias-flugel",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/ophelias-flugel/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57510/oper_box_ophelia_150dpi.640x0.jpg",
+    "creative_team": [
+      {
+        "person_slug": "clement-lonca",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicole-von-graevenitz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barbora-horakova",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/claudius"
+      },
+      {
+        "person_slug": "liudmila-lokaichuk",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/gertrude"
+      },
+      {
+        "person_slug": "timothy-connor",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/horatio"
+      },
+      {
+        "person_slug": "sarah-defrise",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/ophelia-1"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/ophelia-2"
+      },
+      {
+        "person_slug": "claude-eichenberger",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/ophelia-3"
+      },
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/ophelia-4"
+      },
+      {
+        "person_slug": "gerardo-garciacano",
+        "role_slug": "sarah-nemtsov/ophelias-flugel/polonius"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/tosca/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/18801/oper_desktop_tosca_72dpi.640x0.jpg",
+    "creative_team": [
+      {
+        "person_slug": "abelia-nordmann",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "zsolt-czetner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "raimund-orfeo-voigt",
+        "function": "director"
+      },
+      {
+        "person_slug": "dominik-kilchmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "rainer-karlitschek",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "seth-carico",
+        "role_slug": "giacomo-puccini/tosca/barone-scarpia"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "olga-busuioc",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "joseph-dahdah",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "christian-valle",
+        "role_slug": "giacomo-puccini/tosca/mesner"
+      },
+      {
+        "person_slug": "iyad-dwaier",
+        "role_slug": "giacomo-puccini/tosca/schliesser"
+      },
+      {
+        "person_slug": "dario-lupi",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "konzert-theater-bern/konzert-theater-bern-xerxes",
+    "work_slug": "georg-friedrich-handel/xerxes",
+    "house_slug": "konzert-theater-bern",
+    "is_revival": false,
+    "detail_url": "https://www.buehnenbern.ch/spielplan/programm/xerxes/",
+    "image_url": "https://buehnenbern.ch/site/assets/files/57514/oper_box_xerxes_150dpi.640x0.jpg",
+    "creative_team": [
+      {
+        "person_slug": "clement-lonca",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-gault",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lorenzo-fioroni",
+        "function": "director"
+      },
+      {
+        "person_slug": "rebekka-meyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "paul-zoller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sophie-kidwell",
+        "role_slug": "georg-friedrich-handel/xerxes/amastre"
+      },
+      {
+        "person_slug": "william-meinert",
+        "role_slug": "georg-friedrich-handel/xerxes/ariodate"
+      },
+      {
+        "person_slug": "lidor-mesika",
+        "role_slug": "georg-friedrich-handel/xerxes/arsamene"
+      },
+      {
+        "person_slug": "cassandra-wright",
+        "role_slug": "georg-friedrich-handel/xerxes/atalanta"
+      },
+      {
+        "person_slug": "dario-lupi",
+        "role_slug": "georg-friedrich-handel/xerxes/elviro"
+      },
+      {
+        "person_slug": "lina-tsiklauri",
+        "role_slug": "georg-friedrich-handel/xerxes/romilda"
+      },
+      {
+        "person_slug": "maayan-licht",
+        "role_slug": "georg-friedrich-handel/xerxes/serse-xerxes"
+      }
+    ]
+  }
+]

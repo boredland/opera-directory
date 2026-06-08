@@ -1,0 +1,89 @@
+[
+  {
+    "id": "st-galler-festspiele/aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "st-galler-festspiele",
+    "is_revival": false,
+    "detail_url": "https://www.konzertundtheater.ch/programm/a-z/aida/",
+    "creative_team": [
+      {
+        "person_slug": "rachele-pedrocchi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "filip-paluchowski",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "modestas-pitrenas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uta-meenen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ben-baur",
+        "function": "director"
+      },
+      {
+        "person_slug": "barbara-tacchini",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "anselm-fischer",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "amber-monroe",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "libby-sokolowski",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "vincenzo-neri",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "riccardo-botta",
+        "role_slug": "giuseppe-verdi/aida/bote"
+      },
+      {
+        "person_slug": "manuel-curiman",
+        "role_slug": "giuseppe-verdi/aida/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "olivia-smith",
+        "role_slug": "giuseppe-verdi/aida/hohepriesterin"
+      },
+      {
+        "person_slug": "jonas-jud",
+        "role_slug": "giuseppe-verdi/aida/konig"
+      },
+      {
+        "person_slug": "marcelo-puente",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "sultonbek-abdurakhimov",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      },
+      {
+        "person_slug": "robin-kunzler",
+        "role_slug": "giuseppe-verdi/aida/regieassistenz"
+      },
+      {
+        "person_slug": "fabio-rickenmann",
+        "role_slug": "giuseppe-verdi/aida/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "elenita-queiroz-daria-gerig-anais-puyal-sara-pena-cagigas-sara-pennella-steven-forster",
+        "role_slug": "giuseppe-verdi/aida/tanzer-innen"
+      }
+    ]
+  }
+]

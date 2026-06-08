@@ -1,0 +1,733 @@
+[
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-38160",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/madama-butterfly",
+    "creative_team": [
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "matthew-toogood",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katia-bottegal",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jasmina-hadziahmetovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johanna-wildling",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susanne-gschwender",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "david-schuh",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
+      },
+      {
+        "person_slug": "theodora-varga",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "giacomo-puccini/madama-butterfly/extrachor"
+      },
+      {
+        "person_slug": "jakob-nistler",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "federica-cassati",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "greta-maria-lindmayr",
+        "role_slug": "giacomo-puccini/madama-butterfly/kind"
+      },
+      {
+        "person_slug": "yejin-kang",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-cugina"
+      },
+      {
+        "person_slug": "elissophie-davli",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-madre"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "adam-sanchez",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "paolo-ingrasciotta",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "bernarda-klinar",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "qi-wang",
+        "role_slug": "giacomo-puccini/madama-butterfly/yakuside-il-commissario-imperiale-l-ufficiale-del-registro"
+      },
+      {
+        "person_slug": "michael-gann",
+        "role_slug": "giacomo-puccini/madama-butterfly/yamadori"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-38237",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/idomeneo",
+    "creative_team": [
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gerrit-prie-nitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "henry-mason",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-meier",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "sven-stratmann",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jason-lee",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/arbace"
+      },
+      {
+        "person_slug": "clarissa-toti",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-alt"
+      },
+      {
+        "person_slug": "sabrina-henschke",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-alt"
+      },
+      {
+        "person_slug": "qi-wang",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-bass"
+      },
+      {
+        "person_slug": "seongchan-bahk",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-bass"
+      },
+      {
+        "person_slug": "alexandra-anusca",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-sopran"
+      },
+      {
+        "person_slug": "ana-akhmeteli",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-sopran"
+      },
+      {
+        "person_slug": "ivan-yesid-benitez-fernandez",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-tenor"
+      },
+      {
+        "person_slug": "william-tyler-clark",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/chorsoli-tenor"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/die-stimme"
+      },
+      {
+        "person_slug": "susanne-langbein",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/elettra"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/extrachor"
+      },
+      {
+        "person_slug": "camilla-lehmeier",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/idamante"
+      },
+      {
+        "person_slug": "dmitry-ivanchey",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/idomeneo"
+      },
+      {
+        "person_slug": "dovlet-nurgeldiyev",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/idomeneo"
+      },
+      {
+        "person_slug": "anastasia-lerman",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/ilia"
+      },
+      {
+        "person_slug": "kinderstatisterie-des-tiroler-landestheaters",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/kinderstatisterie"
+      },
+      {
+        "person_slug": "jason-lee",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/oberpriester-des-neptun"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/orchester"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-45500",
+    "work_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/missing-in-cantu-eure-palaeste-sind-leer",
+    "creative_team": [
+      {
+        "person_slug": "volker-michl",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "timothy-redmond",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "chani-lehmann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bettina-bruinier",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-spinola",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-thiele",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "ayse-gulsum-ozel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sabrina-henschke",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/3-polizistin"
+      },
+      {
+        "person_slug": "stephen-chaundy",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/don-gairre"
+      },
+      {
+        "person_slug": "william-blake",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/don-miguel"
+      },
+      {
+        "person_slug": "christian-miedl",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/don-stepano"
+      },
+      {
+        "person_slug": "stefan-riedl",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/drogenabhangiger-hausbesitzer-attentater"
+      },
+      {
+        "person_slug": "hazel-neighbour",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/echo"
+      },
+      {
+        "person_slug": "jennifer-maines",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/hexe"
+      },
+      {
+        "person_slug": "jakob-nistler",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/kameramann-schlachthausbesitzer-drogensuchtiger-vater-2-polizist"
+      },
+      {
+        "person_slug": "jakob-noggler",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/kind"
+      },
+      {
+        "person_slug": "michael-acker",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/klangregie"
+      },
+      {
+        "person_slug": "jannis-dervenis",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/konquistador-ureinwohner"
+      },
+      {
+        "person_slug": "stanislav-stambolov",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/konquistador-ureinwohner"
+      },
+      {
+        "person_slug": "william-tyler-clark",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/konquistador-ureinwohner"
+      },
+      {
+        "person_slug": "swr-experimentalstudio",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/live-elektronische-realisation"
+      },
+      {
+        "person_slug": "hansjorg-sofka",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/mitarbeit-klangregie"
+      },
+      {
+        "person_slug": "reinhold-schinwald",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/mitarbeit-klangregie"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/orchester"
+      },
+      {
+        "person_slug": "bernarda-klinar",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/reporterin-schlachthausassistentin-drogensuchtige-mutter-1-polizistin"
+      },
+      {
+        "person_slug": "marcel-brunner",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/seher"
+      },
+      {
+        "person_slug": "michael-gann",
+        "role_slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer/ubersetzer"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-46008",
+    "work_slug": "jules-massenet/don-quichotte",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/don-quichotte",
+    "creative_team": [
+      {
+        "person_slug": "cameron-mcmillan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "matthew-toogood",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andrea-kuprian",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "julia-burbach",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "cecile-tremolieres",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "jules-massenet/don-quichotte/don-quichotte"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "jules-massenet/don-quichotte/extrachor"
+      },
+      {
+        "person_slug": "qiong-wu",
+        "role_slug": "jules-massenet/don-quichotte/garcias-2-rauber"
+      },
+      {
+        "person_slug": "julien-horbatuk",
+        "role_slug": "jules-massenet/don-quichotte/juan-1-rauber"
+      },
+      {
+        "person_slug": "camilla-lehmeier",
+        "role_slug": "jules-massenet/don-quichotte/la-belle-dulcinee"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "jules-massenet/don-quichotte/orchester"
+      },
+      {
+        "person_slug": "hazel-neighbour",
+        "role_slug": "jules-massenet/don-quichotte/pedro-4-rauber"
+      },
+      {
+        "person_slug": "jakob-nistler",
+        "role_slug": "jules-massenet/don-quichotte/rodriguez-3-rauber"
+      },
+      {
+        "person_slug": "benjamin-chamandy",
+        "role_slug": "jules-massenet/don-quichotte/sancho-panza"
+      },
+      {
+        "person_slug": "tanzensemble-des-tiroler-landestheaters",
+        "role_slug": "jules-massenet/don-quichotte/tanz"
+      },
+      {
+        "person_slug": "il-young-yoon",
+        "role_slug": "jules-massenet/don-quichotte/zwei-bediente"
+      },
+      {
+        "person_slug": "seongchan-bahk",
+        "role_slug": "jules-massenet/don-quichotte/zwei-bediente"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-54039",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/un-ballo-in-maschera",
+    "creative_team": [
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stephan-zilias",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aleksandra-kica",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jasmina-hadziahmetovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johanna-wildling",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jan-freese",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "william-blake",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ein-richter-ein-diener-amelias"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/extrachor"
+      },
+      {
+        "person_slug": "kazuki-yoshida",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/orchester"
+      },
+      {
+        "person_slug": "annina-wachter",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "onay-kose",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/samuel-graf-ribbing"
+      },
+      {
+        "person_slug": "jacob-phillips",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/silvano-cristiano"
+      },
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/tom-graf-horn"
+      },
+      {
+        "person_slug": "marta-swiderska",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-57466",
+    "work_slug": "paul-abraham/ball-im-savoy",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/ball-im-savoy",
+    "creative_team": [
+      {
+        "person_slug": "federico-zeno-bassanese",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "guido-mancusi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sarah-mittenbuhler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christian-von-gotz",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lukas-noll",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "paul-abraham/ball-im-savoy/orchester"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-57467",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/haensel-und-gretel",
+    "creative_team": [
+      {
+        "person_slug": "lorenz-c-aichner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andrea-kuprian",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nada-zimmermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "johanna-wildling",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hank-irwin-kittel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-57717",
+    "work_slug": "zara-ali/codeborn",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/codeborn",
+    "creative_team": [
+      {
+        "person_slug": "hansjorg-sofka",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "florentine-klepper",
+        "function": "director"
+      },
+      {
+        "person_slug": "marlene-schleicher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolfgang-menardi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "deva-schubert",
+        "role_slug": "zara-ali/codeborn/co-regie-choreografie"
+      }
+    ]
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-62843",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/don-giovanni",
+    "creative_team": [
+      {
+        "person_slug": "gerrit-prie-nitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-sophie-mahler",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-spinola",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katrin-connan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-62862",
+    "work_slug": "richard-wagner/lohengrin",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/lohengrin",
+    "creative_team": [
+      {
+        "person_slug": "gerrit-prie-nitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aleksandra-kica",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jasmina-hadziahmetovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "diana-merkel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "julia-spinola",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susanne-gschwender",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-63054",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/carmen",
+    "creative_team": [
+      {
+        "person_slug": "teresa-rotemberg",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenz-c-aichner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cinzia-fossati",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "armin-petras",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-spinola",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peta-schickart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-63120",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/die-dreigroschenoper",
+    "creative_team": [
+      {
+        "person_slug": "amy-share-kissiov",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hansjorg-sofka",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "justina-klimczyk",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bettina-bruinier",
+        "function": "director"
+      },
+      {
+        "person_slug": "sonja-honold",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "mareile-krettek",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "id": "luzerner-theater/luzerner-theater-derfliegendehollaender",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "house_slug": "luzerner-theater",
+    "is_revival": false,
+    "presentation_note": "Romantische Oper in drei Aufzügen von Richard Wagner",
+    "detail_url": "https://www.luzernertheater.ch/derfliegendehollaender",
+    "creative_team": [
+      {
+        "person_slug": "mara-madeleine-pieler",
+        "function": "Bühne und Licht"
+      },
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jonathan-bloxham",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "johann-brigitte-schima",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-rosendahl",
+        "function": "director"
+      },
+      {
+        "person_slug": "corinna-tetzel",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rueben-mbonambi",
+        "role_slug": "richard-wagner/der-fliegende-hollander/daland-ein-norwegischer-seefahrer"
+      },
+      {
+        "person_slug": "andre-baleiro",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-hollander"
+      },
+      {
+        "person_slug": "eglis-silins",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-hollander"
+      },
+      {
+        "person_slug": "robert-maszl",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-steuermann-dalands"
+      },
+      {
+        "person_slug": "brett-sprague",
+        "role_slug": "richard-wagner/der-fliegende-hollander/erik-ein-jager"
+      },
+      {
+        "person_slug": "daniel-jenz",
+        "role_slug": "richard-wagner/der-fliegende-hollander/erik-ein-jager"
+      },
+      {
+        "person_slug": "elena-barbara-dietrich",
+        "role_slug": "richard-wagner/der-fliegende-hollander/mary-sentas-amme"
+      },
+      {
+        "person_slug": "sofia-pollak",
+        "role_slug": "richard-wagner/der-fliegende-hollander/mary-sentas-amme"
+      },
+      {
+        "person_slug": "eyrun-unnarsdottir",
+        "role_slug": "richard-wagner/der-fliegende-hollander/senta-seine-tochter"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieliebenderberenice",
+    "work_slug": "mozart/die-lieben-der-berenice",
+    "house_slug": "luzerner-theater",
+    "is_revival": false,
+    "presentation_note": "TanzOper mit Kompositionen von Mozart, Haydn, Martines u.a.",
+    "detail_url": "https://www.luzernertheater.ch/dieliebenderberenice",
+    "image_url": "http://www.luzernertheater.ch/sites/default/files/styles/open_graph/public/2026-03/LT_Berenice_KHP%E2%94%AC%C2%AEIngo_Hoehn-43_0.jpg?itok=AcwXsQWM",
+    "creative_team": [
+      {
+        "person_slug": "anton-lachky",
+        "function": "Choreografie und Regie"
+      },
+      {
+        "person_slug": "andreas-spering",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-benzing",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wanda-puvogel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "petri-tuhkanen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "giulio-de-nardo",
+        "function": "Nachdirigiat"
+      },
+      {
+        "person_slug": "verena-hemmerlein",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rebecca-stofer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-dieoperntodemeinermutter",
+    "work_slug": "carla-haslbauer/die-opern-tode-meiner-mutter",
+    "house_slug": "luzerner-theater",
+    "is_revival": true,
+    "presentation_note": "Musikalische Erzählung zum Bilderbuch von Carla Haslbauer",
+    "detail_url": "https://www.luzernertheater.ch/dieoperntodemeinermutter",
+    "image_url": "http://www.luzernertheater.ch/sites/default/files/styles/open_graph/public/2025-11/LT_web_header_Operntode.png?itok=iNii384k",
+    "creative_team": [
+      {
+        "person_slug": "celine-eberle",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pia-rabea-vornholt",
+        "function": "Fassung und Dramaturgie"
+      },
+      {
+        "person_slug": "haku-takai",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "celine-eberle",
+        "function": "Schweizerdeutsche Bearbeitung"
+      },
+      {
+        "person_slug": "judith-michel",
+        "function": "Schweizerdeutsche Bearbeitung"
+      },
+      {
+        "person_slug": "teresa-rotemberg",
+        "function": "Szenische Einrichtung"
+      },
+      {
+        "person_slug": "rebecca-stofer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "judith-michel",
+        "role_slug": "carla-haslbauer/die-opern-tode-meiner-mutter/carla"
+      },
+      {
+        "person_slug": "william-green",
+        "role_slug": "carla-haslbauer/die-opern-tode-meiner-mutter/klavier"
+      },
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "carla-haslbauer/die-opern-tode-meiner-mutter/mutter"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-diezauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "luzerner-theater",
+    "is_revival": false,
+    "presentation_note": "Oper von Wolfgang Amadeus Mozart",
+    "detail_url": "https://www.luzernertheater.ch/diezauberfloete",
+    "image_url": "http://www.luzernertheater.ch/sites/default/files/styles/open_graph/public/2025-11/LT_web_header_zauberfl%C3%B6te_produktion.png?itok=5oSYKks4",
+    "creative_team": [
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jonathan-bloxham",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "paul-boris-kertsman",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-kusmenko",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christine-cyris",
+        "function": "director"
+      },
+      {
+        "person_slug": "pia-rabea-vornholt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-wiedmer",
+        "function": "Einstudierung Boys Choir Lucerne"
+      },
+      {
+        "person_slug": "regula-schneider",
+        "function": "Einstudierung Boys Choir Lucerne"
+      },
+      {
+        "person_slug": "eberhard-rex",
+        "function": "Einstudierung Luzerner Kantorei"
+      },
+      {
+        "person_slug": "ulrich-eh",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "henning-wagenbreth",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "menas-koferli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "benjamin-lagler",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "florian-portmann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "louis-grichting",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "matia-wallimann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "maurus-conzett",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "moritz-theler",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "thies-ganz",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "tobias-muller",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-knaben-boys-choir-lucerne-luzerner-kantorei"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "marcela-rahal",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "marta-herman",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "eyrun-unnarsdottir",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "hulkar-sabirova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "piero-regis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester-erster-geharnischter"
+      },
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "robert-maszl",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "elvira-margarian",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "henriette-schein",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "patricia-jane-westley",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "elvira-margarian",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "esther-aline-schneider",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "stefanie-knorr",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "aneas-humm",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "artur-garbas",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "jonathan-mcgovern",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "vladyslav-tlushch",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "rueben-mbonambi",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "michael-temporal-darell",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "luca-bernard",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "remy-burnens",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "lucija-ercegovac",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "solenn-lavanant-linke",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "christian-tschelebiew",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester-zweiter-geharnischter"
+      },
+      {
+        "person_slug": "flurin-caduff",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester-zweiter-geharnischter"
+      },
+      {
+        "person_slug": "max-bell",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester-zweiter-geharnischter"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-icapuletieimontecchi",
+    "work_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia",
+    "house_slug": "luzerner-theater",
+    "is_revival": true,
+    "presentation_note": "Tragedia lirica in zwei Akten von Vincenzo Bellini",
+    "detail_url": "https://www.luzernertheater.ch/icapuletieimontecchi",
+    "creative_team": [
+      {
+        "person_slug": "christine-cyris",
+        "function": "Auftrittschoreografie"
+      },
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jonathan-bloxham",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulrike-scheiderer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ursula-benzing",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ivo-schnider",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "rueben-mbonambi",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/capellio"
+      },
+      {
+        "person_slug": "patricia-jane-westley",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/giulietta"
+      },
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/giulietta"
+      },
+      {
+        "person_slug": "vladyslav-tlushch",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/lorenzo"
+      },
+      {
+        "person_slug": "solenn-lavanant-linke",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/romeo"
+      },
+      {
+        "person_slug": "hwapyeong-gwon",
+        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi-romeo-und-julia/tebaldo"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-lelisirdamore",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank",
+    "house_slug": "luzerner-theater",
+    "is_revival": true,
+    "presentation_note": "Komische Oper von Gaetano Donizetti",
+    "detail_url": "https://www.luzernertheater.ch/lelisirdamore",
+    "image_url": "http://www.luzernertheater.ch/sites/default/files/styles/open_graph/public/2026-04/LT_web_header_elisir_produktion.png?itok=UHK1GdxE",
+    "creative_team": [
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "paul-boris-kertsman",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ibai-labega",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lucia-astigarraga",
+        "function": "director"
+      },
+      {
+        "person_slug": "pia-rabea-vornholt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andre-stocker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "aida-leonor-guardia",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rebecca-stofer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/adina"
+      },
+      {
+        "person_slug": "artur-garbas",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/belcore"
+      },
+      {
+        "person_slug": "oleh-lebedyev",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/belcore"
+      },
+      {
+        "person_slug": "rueben-mbonambi",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/dulcamara"
+      },
+      {
+        "person_slug": "elvira-margarian",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/gianetta"
+      },
+      {
+        "person_slug": "hwapyeong-gwon",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore-der-liebestrank/nemorino"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-myfairlady",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "house_slug": "luzerner-theater",
+    "is_revival": false,
+    "presentation_note": "Musical von Frederick Loewe und Alan J. Lerner",
+    "detail_url": "https://www.luzernertheater.ch/myfairlady",
+    "creative_team": [
+      {
+        "person_slug": "luca-signoretti",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jonathan-bloxham",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victor-petrov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-brandstatter",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sonja-trebes",
+        "function": "director"
+      },
+      {
+        "person_slug": "corinna-tetzel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marialena-lapata",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rebecca-stofer",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "flurin-caduff",
+        "role_slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle-elizas-vater"
+      },
+      {
+        "person_slug": "elena-barbara-dietrich",
+        "role_slug": "frederick-loewe/my-fair-lady/eliza-doolittle"
+      },
+      {
+        "person_slug": "robert-maszl",
+        "role_slug": "frederick-loewe/my-fair-lady/freddy-eynsford-hill"
+      },
+      {
+        "person_slug": "jan-veljak",
+        "role_slug": "frederick-loewe/my-fair-lady/harry"
+      },
+      {
+        "person_slug": "fabian-meinen",
+        "role_slug": "frederick-loewe/my-fair-lady/jamie-3-obsthandler"
+      },
+      {
+        "person_slug": "caroline-vitale",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-higgins-mrs-hopkins"
+      },
+      {
+        "person_slug": "eyrun-unnarsdottir",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-pearce-higgins-hausdame"
+      },
+      {
+        "person_slug": "vladyslav-tlushch",
+        "role_slug": "frederick-loewe/my-fair-lady/oberst-pickering"
+      },
+      {
+        "person_slug": "klaus-brommelmeier",
+        "role_slug": "frederick-loewe/my-fair-lady/prof-dr-henry-higgins"
+      }
+    ]
+  },
+  {
+    "id": "luzerner-theater/luzerner-theater-proserpina",
+    "work_slug": "joseph-martin-kraus/proserpina",
+    "house_slug": "luzerner-theater",
+    "is_revival": false,
+    "presentation_note": "Oper in einem Akt von Joseph Martin Kraus",
+    "detail_url": "https://www.luzernertheater.ch/proserpina",
+    "creative_team": [
+      {
+        "person_slug": "manuel-bethe",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jorg-halubek",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-brandstatter",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "markus-bothe",
+        "function": "director"
+      },
+      {
+        "person_slug": "pia-rabea-vornholt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ursula-benzing",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "robert-schweer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luca-bernard",
+        "role_slug": "joseph-martin-kraus/proserpina/atis-cyanes-verlobter"
+      },
+      {
+        "person_slug": "ani-yorentz",
+        "role_slug": "joseph-martin-kraus/proserpina/ceres-proserpinas-mutter"
+      },
+      {
+        "person_slug": "tania-lorenzo-castro",
+        "role_slug": "joseph-martin-kraus/proserpina/cyane"
+      },
+      {
+        "person_slug": "fabian-meinen",
+        "role_slug": "joseph-martin-kraus/proserpina/erster-bacchant-faun"
+      },
+      {
+        "person_slug": "vladyslav-tlushch",
+        "role_slug": "joseph-martin-kraus/proserpina/jupiter"
+      },
+      {
+        "person_slug": "jan-veljak",
+        "role_slug": "joseph-martin-kraus/proserpina/mercurius-gotterbote"
+      },
+      {
+        "person_slug": "rueben-mbonambi",
+        "role_slug": "joseph-martin-kraus/proserpina/pluto"
+      },
+      {
+        "person_slug": "elvira-margarian",
+        "role_slug": "joseph-martin-kraus/proserpina/proserpina-tochter-von-jupiter-und-ceres"
+      }
+    ]
+  }
+]

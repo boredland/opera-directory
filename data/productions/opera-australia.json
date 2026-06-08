@@ -1,0 +1,298 @@
+[
+  {
+    "id": "opera-australia/opera-australia-la-boheme-melbourne",
+    "work_slug": "puccini/la-boheme",
+    "house_slug": "opera-australia",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://opera.org.au/productions/la-boheme-melbourne/",
+    "creative_team": [
+      {
+        "person_slug": "finnegan-downie-dear",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sabina-myers",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "constantine-costi",
+        "function": "director"
+      },
+      {
+        "person_slug": "morgan-moroney",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "simon-meadows",
+        "role_slug": "puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "clifford-plumpton",
+        "role_slug": "puccini/la-boheme/benoit-sergeant"
+      },
+      {
+        "person_slug": "david-parkin",
+        "role_slug": "puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "luke-gabbedy",
+        "role_slug": "puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "galina-cheplakova",
+        "role_slug": "puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "alexandra-flood",
+        "role_slug": "puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "tom-hamilton",
+        "role_slug": "puccini/la-boheme/officer"
+      },
+      {
+        "person_slug": "orchestra-victoria",
+        "role_slug": "puccini/la-boheme/orchestra"
+      },
+      {
+        "person_slug": "benjamin-rasheed",
+        "role_slug": "puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "kang-wang",
+        "role_slug": "puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "stephen-marsh",
+        "role_slug": "puccini/la-boheme/schaunard"
+      }
+    ]
+  },
+  {
+    "id": "opera-australia/opera-australia-rigoletto-sydney",
+    "work_slug": "verdi/rigoletto",
+    "house_slug": "opera-australia",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://opera.org.au/productions/rigoletto-sydney/",
+    "creative_team": [
+      {
+        "person_slug": "sesto-quatrini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elijah-moshinsky",
+        "function": "director"
+      },
+      {
+        "person_slug": "kate-gaul",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-bryan",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michael-yeargan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "virgilio-marino",
+        "role_slug": "verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "jonathan-alley",
+        "role_slug": "verdi/rigoletto/ceprano"
+      },
+      {
+        "person_slug": "jennifer-black",
+        "role_slug": "verdi/rigoletto/countess-ceprano"
+      },
+      {
+        "person_slug": "kang-wang",
+        "role_slug": "verdi/rigoletto/duke-of-mantua"
+      },
+      {
+        "person_slug": "gemma-nha",
+        "role_slug": "verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "dominica-matthews",
+        "role_slug": "verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "sian-sharp",
+        "role_slug": "verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "simon-meadows",
+        "role_slug": "verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "gennadi-dubinsky",
+        "role_slug": "verdi/rigoletto/monterone"
+      },
+      {
+        "person_slug": "jennifer-bonner",
+        "role_slug": "verdi/rigoletto/page"
+      },
+      {
+        "person_slug": "katherine-wiles",
+        "role_slug": "verdi/rigoletto/page"
+      },
+      {
+        "person_slug": "dalibor-jenis",
+        "role_slug": "verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "david-parkin",
+        "role_slug": "verdi/rigoletto/sparafucile"
+      },
+      {
+        "person_slug": "malcolm-ede",
+        "role_slug": "verdi/rigoletto/usher"
+      }
+    ]
+  },
+  {
+    "id": "opera-australia/opera-australia-the-merry-widow-sydney",
+    "work_slug": "lehar/the-merry-widow",
+    "house_slug": "opera-australia",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera.org.au/productions/the-merry-widow-sydney/",
+    "creative_team": [
+      {
+        "person_slug": "olivia-jenkins",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "vanessa-scammell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jennifer-irwin",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "graeme-murphy-ao",
+        "function": "director"
+      },
+      {
+        "person_slug": "damien-cooper",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michael-scott-mitchell",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "richard-anderson",
+        "role_slug": "lehar/the-merry-widow/alexis-kromov"
+      },
+      {
+        "person_slug": "david-whitney",
+        "role_slug": "lehar/the-merry-widow/baron-mirko-zeta"
+      },
+      {
+        "person_slug": "john-longmuir",
+        "role_slug": "lehar/the-merry-widow/camille-de-rosillon"
+      },
+      {
+        "person_slug": "alexander-lewis",
+        "role_slug": "lehar/the-merry-widow/danilo-danilovich"
+      },
+      {
+        "person_slug": "alexander-hargreaves",
+        "role_slug": "lehar/the-merry-widow/dominik-bogdanovich"
+      },
+      {
+        "person_slug": "emma-pearson",
+        "role_slug": "lehar/the-merry-widow/hanna-glavari"
+      },
+      {
+        "person_slug": "tom-hamilton",
+        "role_slug": "lehar/the-merry-widow/konrad-pritschich"
+      },
+      {
+        "person_slug": "benjamin-rasheed",
+        "role_slug": "lehar/the-merry-widow/njegus"
+      },
+      {
+        "person_slug": "helen-sherman",
+        "role_slug": "lehar/the-merry-widow/olga-kromov"
+      },
+      {
+        "person_slug": "dominica-matthews",
+        "role_slug": "lehar/the-merry-widow/praskovia"
+      },
+      {
+        "person_slug": "iain-henderson",
+        "role_slug": "lehar/the-merry-widow/raoul-de-st-brioche"
+      },
+      {
+        "person_slug": "jane-ede",
+        "role_slug": "lehar/the-merry-widow/sylviane"
+      },
+      {
+        "person_slug": "alexandra-flood",
+        "role_slug": "lehar/the-merry-widow/valencienne"
+      },
+      {
+        "person_slug": "nathan-lay",
+        "role_slug": "lehar/the-merry-widow/viscount-nicolas-cascada"
+      }
+    ]
+  },
+  {
+    "id": "opera-australia/opera-australia-watershed-melbourne",
+    "work_slug": "twist/watershed-the-death-of-dr-duncan",
+    "house_slug": "opera-australia",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://opera.org.au/productions/watershed-melbourne/",
+    "creative_team": [
+      {
+        "person_slug": "brett-weymark",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "neil-armfield",
+        "function": "director"
+      },
+      {
+        "person_slug": "alan-john",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nigel-levings",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mark-oates",
+        "role_slug": "twist/watershed-the-death-of-dr-duncan/duncan-dunstan"
+      },
+      {
+        "person_slug": "blake-appelqvist",
+        "role_slug": "twist/watershed-the-death-of-dr-duncan/lost-boy"
+      },
+      {
+        "person_slug": "pelham-andrews",
+        "role_slug": "twist/watershed-the-death-of-dr-duncan/mick-o-shea-cop-lawyer"
+      },
+      {
+        "person_slug": "orchestra-victoria",
+        "role_slug": "twist/watershed-the-death-of-dr-duncan/orchestra"
+      }
+    ]
+  }
+]

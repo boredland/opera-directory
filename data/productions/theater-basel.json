@@ -1,0 +1,250 @@
+[
+  {
+    "id": "theater-basel/theater-basel-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/figaro",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "helio-vida",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "denise-heschl-sprung",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nikolaus-habjan",
+        "function": "director"
+      },
+      {
+        "person_slug": "meret-kundig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jakob-brossmann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-herakles",
+    "work_slug": "bryce-dessner/herakles-mad",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/herakles",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "andre-de-ridder",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "benjamin-wantig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "meret-kundig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "cornelius-hunziker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bert-zander",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-ifidonotreturn",
+    "work_slug": "hania-rani/if-i-do-not-return",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/ifidonotreturn",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "elise-boch",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "theresa-baumgartner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "theresa-baumgartner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-lammermoor",
+    "work_slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/lammermoor",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vincent-huguet",
+        "function": "director"
+      },
+      {
+        "person_slug": "elise-boch",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "cornelius-hunziker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pierre-yovanovitch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-mahagonny",
+    "work_slug": "kurt-weill/aufstieg-und-fall-der-stadt-mahagonny",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/mahagonny",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2025-08/tb_mahagonny_ohpringo_hoehn-38.jpg?itok=oAvUHuFU",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-klingele",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thomas-wise",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "geraldine-arnold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "benedikt-von-peter",
+        "function": "director"
+      },
+      {
+        "person_slug": "meret-kundig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sylvia-roth",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katrin-wittig",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "bert-zander",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-mosesundaron",
+    "work_slug": "arnold-schonberg/moses-und-aron",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/mosesundaron",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andre-de-ridder",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "benedikt-von-peter",
+        "function": "director"
+      },
+      {
+        "person_slug": "felix-rothenhausler",
+        "function": "director"
+      },
+      {
+        "person_slug": "benjamin-wantig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "cornelius-hunziker",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-regiment",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/regiment",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-basel/theater-basel-rusalka",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "theater-basel",
+    "is_revival": false,
+    "detail_url": "https://www.theater-basel.ch/de/rusalka",
+    "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "helio-vida",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "teresa-vergho",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "caterina-cianfarini",
+        "function": "director"
+      },
+      {
+        "person_slug": "benjamin-wantig",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "id": "pittsburgh-opera/pittsburgh-opera-orpheus-and-eurydice",
+    "work_slug": "christoph-willibald-gluck/orpheus-eurydice",
+    "house_slug": "pittsburgh-opera",
+    "is_revival": false,
+    "detail_url": "https://pittsburghopera.org/season/orpheus-and-eurydice",
+    "creative_team": [
+      {
+        "person_slug": "mark-trawka",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antony-walker",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "glenn-lewis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robert-perdziola",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jose-maria-condemi",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-gacka",
+        "function": "director"
+      },
+      {
+        "person_slug": "mary-ellen-stebbins",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "steven-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lea-nayak",
+        "role_slug": "christoph-willibald-gluck/orpheus-eurydice/amore"
+      },
+      {
+        "person_slug": "lauren-snouffer",
+        "role_slug": "christoph-willibald-gluck/orpheus-eurydice/eurydice"
+      },
+      {
+        "person_slug": "stephanie-doche",
+        "role_slug": "christoph-willibald-gluck/orpheus-eurydice/orpheus"
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh-opera/pittsburgh-opera-partenope",
+    "work_slug": "george-frideric-handel/partenope",
+    "house_slug": "pittsburgh-opera",
+    "is_revival": false,
+    "detail_url": "https://pittsburghopera.org/season/partenope",
+    "creative_team": [
+      {
+        "person_slug": "glenn-lewis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-beattie",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "haley-stamats",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-gacka",
+        "function": "director"
+      },
+      {
+        "person_slug": "marcus-dilliard",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ayanna-delk-lewis",
+        "role_slug": "george-frideric-handel/partenope/armindo"
+      },
+      {
+        "person_slug": "logan-wagner",
+        "role_slug": "george-frideric-handel/partenope/emilio"
+      },
+      {
+        "person_slug": "erik-nordstrom",
+        "role_slug": "george-frideric-handel/partenope/ormonte"
+      },
+      {
+        "person_slug": "lea-nayak",
+        "role_slug": "george-frideric-handel/partenope/partenope"
+      },
+      {
+        "person_slug": "maya-davis",
+        "role_slug": "george-frideric-handel/partenope/rosmira"
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh-opera/pittsburgh-opera-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "pittsburgh-opera",
+    "is_revival": false,
+    "detail_url": "https://pittsburghopera.org/season/rigoletto",
+    "creative_team": [
+      {
+        "person_slug": "mark-trawka",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antony-walker",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "glenn-lewis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elio-bucky",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-gacka",
+        "function": "director"
+      },
+      {
+        "person_slug": "tomer-zvulun",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-wierzel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "logan-wagner",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "drew-comer",
+        "role_slug": "giuseppe-verdi/rigoletto/ceprano"
+      },
+      {
+        "person_slug": "ayanna-delk-lewis",
+        "role_slug": "giuseppe-verdi/rigoletto/countess-ceprano"
+      },
+      {
+        "person_slug": "daniel-o-hearn",
+        "role_slug": "giuseppe-verdi/rigoletto/duke-of-mantua"
+      },
+      {
+        "person_slug": "susanne-burgess",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "maya-davis",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "maire-therese-carmack",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "erik-nordstrom",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "jason-budd",
+        "role_slug": "giuseppe-verdi/rigoletto/monterone"
+      },
+      {
+        "person_slug": "lea-nayak",
+        "role_slug": "giuseppe-verdi/rigoletto/page"
+      },
+      {
+        "person_slug": "sebastian-catana",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "peter-volpe",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh-opera/pittsburgh-opera-romeo-and-juliet",
+    "work_slug": "charles-gounod/romeo-juliet",
+    "house_slug": "pittsburgh-opera",
+    "is_revival": false,
+    "detail_url": "https://pittsburghopera.org/season/romeo-and-juliet",
+    "creative_team": [
+      {
+        "person_slug": "mark-trawka",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antony-walker",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "glenn-lewis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "doug-scholz-carlson",
+        "function": "director"
+      },
+      {
+        "person_slug": "matthew-ozawa",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-gacka",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jason-budd",
+        "role_slug": "charles-gounod/romeo-juliet/count-capulet"
+      },
+      {
+        "person_slug": "drew-comer",
+        "role_slug": "charles-gounod/romeo-juliet/duke-of-verona"
+      },
+      {
+        "person_slug": "matt-boehler",
+        "role_slug": "charles-gounod/romeo-juliet/friar-lawrence"
+      },
+      {
+        "person_slug": "meredith-arwady",
+        "role_slug": "charles-gounod/romeo-juliet/gertrude"
+      },
+      {
+        "person_slug": "lydia-katarina",
+        "role_slug": "charles-gounod/romeo-juliet/juliet"
+      },
+      {
+        "person_slug": "erik-nordstrom",
+        "role_slug": "charles-gounod/romeo-juliet/mercutio"
+      },
+      {
+        "person_slug": "oreste-cosimo",
+        "role_slug": "charles-gounod/romeo-juliet/romeo"
+      },
+      {
+        "person_slug": "corrie-stallings",
+        "role_slug": "charles-gounod/romeo-juliet/stephano"
+      },
+      {
+        "person_slug": "logan-wagner",
+        "role_slug": "charles-gounod/romeo-juliet/tybalt"
+      }
+    ]
+  },
+  {
+    "id": "pittsburgh-opera/pittsburgh-opera-working-for-the-macbeths",
+    "work_slug": "johanny-navarro/working-for-the-macbeths",
+    "house_slug": "pittsburgh-opera",
+    "is_revival": false,
+    "detail_url": "https://pittsburghopera.org/season/working-for-the-macbeths",
+    "creative_team": [
+      {
+        "person_slug": "glenn-lewis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "crystal-manich",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-gacka",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maya-davis",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/florinda"
+      },
+      {
+        "person_slug": "ayanna-delk-lewis",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/lady-macbeth"
+      },
+      {
+        "person_slug": "erik-nordstrom",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/macbeth"
+      },
+      {
+        "person_slug": "logan-wagner",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/macduff"
+      },
+      {
+        "person_slug": "lea-nayak",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/madam-alice-tairik"
+      },
+      {
+        "person_slug": "drew-comer",
+        "role_slug": "johanny-navarro/working-for-the-macbeths/witch-3-banquo"
+      }
+    ]
+  }
+]

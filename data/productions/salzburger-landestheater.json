@@ -1,0 +1,577 @@
+[
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-berlin-alexanderplatz",
+    "work_slug": "vivan-ketan-bhatti/berlin-alexanderplatz",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/berlin-alexanderplatz.html",
+    "creative_team": [
+      {
+        "person_slug": "chor-des-salzburger-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mario-el-fakih",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "leslie-suganandarajah",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-sunkel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nuran-david-calis",
+        "function": "director"
+      },
+      {
+        "person_slug": "flora-riezinger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefan-bolliger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anne-ehrlich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "larissa-enzi",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/die-stadt-spricht"
+      },
+      {
+        "person_slug": "luca-noel-bock",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/die-stadt-spricht"
+      },
+      {
+        "person_slug": "paul-clementi",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/die-stadt-spricht"
+      },
+      {
+        "person_slug": "sophie-borchhardt",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/die-stadt-spricht"
+      },
+      {
+        "person_slug": "axel-meinhardt",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/erzahler"
+      },
+      {
+        "person_slug": "george-humphreys",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/franz-biberkopf"
+      },
+      {
+        "person_slug": "nicole-lubinger",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/mieze-sonja-emilia-parsunke"
+      },
+      {
+        "person_slug": "connor-locke",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/miezes"
+      },
+      {
+        "person_slug": "julia-rath",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/miezes"
+      },
+      {
+        "person_slug": "tetiana-dyiu",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/miezes"
+      },
+      {
+        "person_slug": "tetiana-dyiu",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/minna"
+      },
+      {
+        "person_slug": "wolfgang-gotz",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/orchester"
+      },
+      {
+        "person_slug": "alessia-cancian",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/regieassistenz"
+      },
+      {
+        "person_slug": "alexander-kaimbacher",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/reinhold-moroskiewicz"
+      },
+      {
+        "person_slug": "connor-locke",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/schneider-innen"
+      },
+      {
+        "person_slug": "electra-lochhead",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/schneider-innen"
+      },
+      {
+        "person_slug": "kay-heles",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/schneider-innen"
+      },
+      {
+        "person_slug": "mona-akinola",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/schneider-innen"
+      },
+      {
+        "person_slug": "chong-sun",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/sperlinge"
+      },
+      {
+        "person_slug": "connor-locke",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/sperlinge"
+      },
+      {
+        "person_slug": "giorgia-deferro",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/sperlinge"
+      },
+      {
+        "person_slug": "alexander-huttner",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/tod-1"
+      },
+      {
+        "person_slug": "robert-glyndwr-garland",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/tod-2"
+      },
+      {
+        "person_slug": "daniele-macciantelli",
+        "role_slug": "vivan-ketan-bhatti/berlin-alexanderplatz/tod-3-metzger"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-der-geheime-schluessel-zum-universum",
+    "work_slug": "lucy-stephen-hawking-david-buckley/der-geheime-schlussel-zum-universum",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/der-geheime-schluessel-zum-universum.html",
+    "creative_team": [
+      {
+        "person_slug": "leslie-suganandarajah",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carl-philip-von-maldeghem",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-mika",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "lucy-stephen-hawking-david-buckley/der-geheime-schlussel-zum-universum/orchester"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-die-kleine-zauberfloete-3",
+    "work_slug": "wolfgang-amadeus-mozart/die-kleine-zauberflote",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/die-kleine-zauberfloete-3.html",
+    "creative_team": [
+      {
+        "person_slug": "tobias-meichsner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marco-dott",
+        "function": "director"
+      },
+      {
+        "person_slug": "christiane-silberhumer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "katrin-konig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "matthias-kronfuss",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ann-kathrin-meyler",
+        "role_slug": "wolfgang-amadeus-mozart/die-kleine-zauberflote/regieassistenz"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-eugen-onegin-2",
+    "work_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/eugen-onegin-2.html",
+    "creative_team": [
+      {
+        "person_slug": "louis-stiens",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-des-salzburger-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mario-el-fakih",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "leslie-suganandarajah",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-meichsner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "su-buhler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexandra-liedtke",
+        "function": "director"
+      },
+      {
+        "person_slug": "friederike-bernau",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "richard-schlager",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "philip-rubner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marta-grabovac-paulina-korobko-amaya-morocutti",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/das-kind-tatjana"
+      },
+      {
+        "person_slug": "michael-schober",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/ein-hauptmann"
+      },
+      {
+        "person_slug": "george-humphreys",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/eugen-onegin"
+      },
+      {
+        "person_slug": "yevheniy-kapitula",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/eugen-onegin"
+      },
+      {
+        "person_slug": "mona-akinola",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/filipjewna-genannt-njinja-amme"
+      },
+      {
+        "person_slug": "daniele-macciantelli",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/furst-gremin"
+      },
+      {
+        "person_slug": "kay-heles",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/guillot-kammerdiener"
+      },
+      {
+        "person_slug": "maria-bulgakova",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/larina-gutsbesitzerin"
+      },
+      {
+        "person_slug": "ilia-skvirskii",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/lenski-dichter-sein-freund"
+      },
+      {
+        "person_slug": "luke-sinclair",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/lenski-dichter-sein-freund"
+      },
+      {
+        "person_slug": "aleksandra-borodulina",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "tobias-meichsner",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "wolfgang-gotz",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "therese-troyer",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/olga-larinas-tochter"
+      },
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/orchester"
+      },
+      {
+        "person_slug": "ann-kathrin-meyler-alessia-cancian",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/regieassistenz"
+      },
+      {
+        "person_slug": "robert-glyndwr-garland",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/saretzki"
+      },
+      {
+        "person_slug": "nicole-lubinger",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-larinas-tochter"
+      },
+      {
+        "person_slug": "tatev-baroyan",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-larinas-tochter"
+      },
+      {
+        "person_slug": "ana-or-evic",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-und-onegin-aus-dem-buch-tanzer-innen"
+      },
+      {
+        "person_slug": "andrea-porro",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-und-onegin-aus-dem-buch-tanzer-innen"
+      },
+      {
+        "person_slug": "karine-de-matos",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-und-onegin-aus-dem-buch-tanzer-innen"
+      },
+      {
+        "person_slug": "yannick-neuffer",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/tatjana-und-onegin-aus-dem-buch-tanzer-innen"
+      },
+      {
+        "person_slug": "alexander-huttner",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/triquet-ein-franzose"
+      },
+      {
+        "person_slug": "gregoire-fedorenko",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/triquet-ein-franzose"
+      },
+      {
+        "person_slug": "vesselin-hristov",
+        "role_slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/vorsanger"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-haensel-und-gretel-2",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/haensel-und-gretel-2.html",
+    "creative_team": [
+      {
+        "person_slug": "salzburger-festspiele-und-theater-kinderchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "leslie-suganandarajah",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-n-m-lea",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib-die-hexe"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "thomas-mika",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/inszenierung-buhne-kostume"
+      },
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/orchester"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/sandmannchen-taumannchen"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-lamore-artigiano",
+    "work_slug": "florian-leopold-gassmann/l-amore-artigiano",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/lamore-artigiano.html",
+    "creative_team": [
+      {
+        "person_slug": "carlo-benedetto-cimento",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "amelie-niermeyer",
+        "function": "director"
+      },
+      {
+        "person_slug": "stefanie-seitz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "florian-leopold-gassmann/l-amore-artigiano/orchester"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-litaliana-in-algeri",
+    "work_slug": "gioachino-rossini/l-italiana-in-algeri",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/litaliana-in-algeri.html",
+    "creative_team": [
+      {
+        "person_slug": "paul-blackman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "herrenchor-des-salzburger-landestheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-benedetto-cimento",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "su-buhler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexandra-liedtke",
+        "function": "director"
+      },
+      {
+        "person_slug": "corinna-jarosch",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "philip-rubner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/artisten"
+      },
+      {
+        "person_slug": "nicole-lubinger",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/elvira"
+      },
+      {
+        "person_slug": "yevheniy-kapitula",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/haly"
+      },
+      {
+        "person_slug": "katie-coventry",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/isabella"
+      },
+      {
+        "person_slug": "marzia-marzo",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/isabella"
+      },
+      {
+        "person_slug": "theodore-browne",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/lindoro"
+      },
+      {
+        "person_slug": "daniele-macciantelli",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/mustafa"
+      },
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/orchester"
+      },
+      {
+        "person_slug": "george-humphreys",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/taddeo"
+      },
+      {
+        "person_slug": "mona-akinola",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/zulma"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-robinson-crusoe",
+    "work_slug": "jacques-offenbach/robinson-crusoe",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/robinson-crusoe.html",
+    "creative_team": [
+      {
+        "person_slug": "leslie-suganandarajah",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dorothee-joisten",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christiane-lutz",
+        "function": "director"
+      },
+      {
+        "person_slug": "natascha-maraval",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "jacques-offenbach/robinson-crusoe/orchester"
+      }
+    ]
+  },
+  {
+    "id": "salzburger-landestheater/salzburger-landestheater-tosca-2",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "salzburger-landestheater",
+    "is_revival": false,
+    "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/tosca-2.html",
+    "creative_team": [
+      {
+        "person_slug": "carlo-benedetto-cimento",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mozarteumorchester-salzburg",
+        "role_slug": "giacomo-puccini/tosca/orchester"
+      },
+      {
+        "person_slug": "thomas-mika",
+        "role_slug": "giacomo-puccini/tosca/szenische-einrichtung-ausstattung"
+      },
+      {
+        "person_slug": "thomas-wizany",
+        "role_slug": "giacomo-puccini/tosca/zeichnerische-gestaltung"
+      }
+    ]
+  }
+]

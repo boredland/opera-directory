@@ -1,0 +1,993 @@
+[
+  {
+    "id": "oper-graz/oper-graz-arizona-lady",
+    "work_slug": "emmerich-kalman/arizona-lady",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/arizona-lady/",
+    "creative_team": [
+      {
+        "person_slug": "evamaria-mayer",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "georgi-mladenov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-birnhuber",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-thausing",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-bruckner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "karl-wiedemann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "okarina-peter",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "timo-dentler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hansol-choi",
+        "role_slug": "emmerich-kalman/arizona-lady/1-schiedsrichter"
+      },
+      {
+        "person_slug": "daniel-kasmann",
+        "role_slug": "emmerich-kalman/arizona-lady/2-schiedsrichter"
+      },
+      {
+        "person_slug": "markus-murke",
+        "role_slug": "emmerich-kalman/arizona-lady/bentschley"
+      },
+      {
+        "person_slug": "michael-gro-schadl",
+        "role_slug": "emmerich-kalman/arizona-lady/bill-sanders"
+      },
+      {
+        "person_slug": "anna-brull",
+        "role_slug": "emmerich-kalman/arizona-lady/bonita"
+      },
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "emmerich-kalman/arizona-lady/cavarelli"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "emmerich-kalman/arizona-lady/chester-kingsbury-jun"
+      },
+      {
+        "person_slug": "pavel-silich",
+        "role_slug": "emmerich-kalman/arizona-lady/danny"
+      },
+      {
+        "person_slug": "janos-mischuretz",
+        "role_slug": "emmerich-kalman/arizona-lady/donald-mcdumb"
+      },
+      {
+        "person_slug": "adonia-martineau",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "diego-del-rey",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "florian-mozar",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "hannes-luttringhaus",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "kirsty-clarke",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "miya-kaser",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "philipp-imbach",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "sophia-esmeralda-vollmer",
+        "role_slug": "emmerich-kalman/arizona-lady/es-tanzen"
+      },
+      {
+        "person_slug": "markus-butter",
+        "role_slug": "emmerich-kalman/arizona-lady/harry-sullivan-sheriff"
+      },
+      {
+        "person_slug": "wolfgang-lampl",
+        "role_slug": "emmerich-kalman/arizona-lady/jim-slaughter"
+      },
+      {
+        "person_slug": "gihwang-yoon",
+        "role_slug": "emmerich-kalman/arizona-lady/johnny"
+      },
+      {
+        "person_slug": "christian-scherler",
+        "role_slug": "emmerich-kalman/arizona-lady/kommentator"
+      },
+      {
+        "person_slug": "frederike-haas",
+        "role_slug": "emmerich-kalman/arizona-lady/lona-farrell"
+      },
+      {
+        "person_slug": "natascha-sachs",
+        "role_slug": "emmerich-kalman/arizona-lady/lotteristin"
+      },
+      {
+        "person_slug": "rada-kirova",
+        "role_slug": "emmerich-kalman/arizona-lady/molly"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "emmerich-kalman/arizona-lady/nelly-nettleton"
+      },
+      {
+        "person_slug": "falk-witzurke",
+        "role_slug": "emmerich-kalman/arizona-lady/peligreen"
+      },
+      {
+        "person_slug": "richard-jahnig",
+        "role_slug": "emmerich-kalman/arizona-lady/rex"
+      },
+      {
+        "person_slug": "christof-messner",
+        "role_slug": "emmerich-kalman/arizona-lady/roy-dexter"
+      },
+      {
+        "person_slug": "adrian-berthely",
+        "role_slug": "emmerich-kalman/arizona-lady/zuni"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-castor-et-pollux",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/castor-et-pollux/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "bernhard-forck",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-shaposhnikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nanine-linning",
+        "function": "director"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-alphons",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "van-veen-mus",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "jip-mus",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "van-veen-mus",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alex-vazquez-gala",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/2-tanzer"
+      },
+      {
+        "person_slug": "filippo-cosso",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/2-tanzer"
+      },
+      {
+        "person_slug": "ann-kathrin-adam",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/2-tanzerinnen"
+      },
+      {
+        "person_slug": "laura-sophie-heise",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/2-tanzerinnen"
+      },
+      {
+        "person_slug": "sebastian-monti",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/castor"
+      },
+      {
+        "person_slug": "alfred-martinez",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/cgi-artist"
+      },
+      {
+        "person_slug": "will-frost",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/grand-pretre"
+      },
+      {
+        "person_slug": "daeho-kim",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/jupiter-une-voix"
+      },
+      {
+        "person_slug": "franz-gurtelschmied",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/mercure-athlete-une-autre-voix"
+      },
+      {
+        "person_slug": "sofia-vinnik",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/phebe"
+      },
+      {
+        "person_slug": "nikita-ivasechko",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/pollux"
+      },
+      {
+        "person_slug": "katharina-melnikova",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/telaire"
+      },
+      {
+        "person_slug": "marlin-miller",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/un-spartiate"
+      },
+      {
+        "person_slug": "jianwei-liu",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/une-ombre-heureuse"
+      },
+      {
+        "person_slug": "ekaterina-solunya",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/une-suivante-d-hebe"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-cosi-fan-tutte",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/cosi-fan-tutte/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "dinis-sousa",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "johannes-braun",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marius-burkert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sabin-fleck",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barbara-david-bruesch",
+        "function": "director"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "daniel-weiss",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alain-rappaport",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "georg-lendorff",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ann-kathrin-adam",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/amor"
+      },
+      {
+        "person_slug": "ekaterina-solunya",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "wilfried-zelinka",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "sofia-vinnik",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "ted-black",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "nikita-ivasechko",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-der-rosenkavalier",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/der-rosenkavalier/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vassilis-christopoulos",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "eva-maria-dessecker",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-m-krenn",
+        "function": "director"
+      },
+      {
+        "person_slug": "katharina-john",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-fuchs",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "sarah-kreuz",
+        "function": "video-designer"
+      },
+      {
+        "person_slug": "thomas-achitz",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "neira-muhic",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "wilfried-zelinka",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "daniel-kasmann",
+        "role_slug": "richard-strauss/der-rosenkavalier/der-haushofmeister-der-marschallin-der-haushofmeister-bei-faninal-ein-wirt"
+      },
+      {
+        "person_slug": "polina-pastirchak",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin-furstin-werdenberg"
+      },
+      {
+        "person_slug": "dominika-blazek",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "ingrid-niedermair-miller",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "ju-suk",
+        "role_slug": "richard-strauss/der-rosenkavalier/drei-adelige-waisen"
+      },
+      {
+        "person_slug": "will-frost",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-notar-ein-polizeikommissar"
+      },
+      {
+        "person_slug": "iurie-ciobanu",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
+      },
+      {
+        "person_slug": "adrian-berthely",
+        "role_slug": "richard-strauss/der-rosenkavalier/ein-tierhandler"
+      },
+      {
+        "person_slug": "marijana-nikolic",
+        "role_slug": "richard-strauss/der-rosenkavalier/eine-modistin"
+      },
+      {
+        "person_slug": "sangyeon-chae",
+        "role_slug": "richard-strauss/der-rosenkavalier/hausknecht"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "richard-strauss/der-rosenkavalier/jungfer-marianne-leitmetzerin"
+      },
+      {
+        "person_slug": "arthur-haas",
+        "role_slug": "richard-strauss/der-rosenkavalier/leopold"
+      },
+      {
+        "person_slug": "sofia-vinnik",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "andrea-fournier",
+        "role_slug": "richard-strauss/der-rosenkavalier/singschul"
+      },
+      {
+        "person_slug": "tetiana-miyus",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie"
+      },
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      },
+      {
+        "person_slug": "christian-scherler",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "gihwang-yoon",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "hansol-choi",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      },
+      {
+        "person_slug": "richard-jahnig",
+        "role_slug": "richard-strauss/der-rosenkavalier/vier-lakaien-vier-kellner"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-elektra",
+    "work_slug": "richard-strauss/elektra",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/elektra/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vassilis-christopoulos",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johannes-schadl",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "neira-muhic",
+        "role_slug": "richard-strauss/elektra/1-magd-die-vertraute"
+      },
+      {
+        "person_slug": "leah-bedenko",
+        "role_slug": "richard-strauss/elektra/2-magd-die-schlepptragerin"
+      },
+      {
+        "person_slug": "anna-brull",
+        "role_slug": "richard-strauss/elektra/3-magd"
+      },
+      {
+        "person_slug": "ekaterina-solunya",
+        "role_slug": "richard-strauss/elektra/4-magd"
+      },
+      {
+        "person_slug": "marjukka-tepponen",
+        "role_slug": "richard-strauss/elektra/chrysothemis"
+      },
+      {
+        "person_slug": "marijana-nikolic",
+        "role_slug": "richard-strauss/elektra/die-aufseherin"
+      },
+      {
+        "person_slug": "jianwei-liu",
+        "role_slug": "richard-strauss/elektra/ein-junger-diener"
+      },
+      {
+        "person_slug": "aile-asszonyi",
+        "role_slug": "richard-strauss/elektra/elektra"
+      },
+      {
+        "person_slug": "aris-argiris",
+        "role_slug": "richard-strauss/elektra/orest"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-hoffmanns-erzaehlungen",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/hoffmanns-erzaehlungen/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-braun",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-shaposhnikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "silke-fischer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nanine-linning",
+        "function": "director"
+      },
+      {
+        "person_slug": "neville-john-tranter",
+        "function": "director"
+      },
+      {
+        "person_slug": "tobias-ribitzki",
+        "function": "director"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-alphons",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stefan-rieckhoff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-pitichinaccio-frantz"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/antonia"
+      },
+      {
+        "person_slug": "johannes-kohler",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/chor-extrachor"
+      },
+      {
+        "person_slug": "nora-sourouzian",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/giulietta"
+      },
+      {
+        "person_slug": "richard-jahnig",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann"
+      },
+      {
+        "person_slug": "sangyeon-chae",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann"
+      },
+      {
+        "person_slug": "matthias-koziorowski",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann"
+      },
+      {
+        "person_slug": "anna-brull",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/la-muse-nicklausse"
+      },
+      {
+        "person_slug": "petr-sokolov",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dapertutto-dr-miracle"
+      },
+      {
+        "person_slug": "daeho-kim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/luther-crespel"
+      },
+      {
+        "person_slug": "ted-black",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael-spalanzani"
+      },
+      {
+        "person_slug": "tetiana-zhuravel",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia"
+      },
+      {
+        "person_slug": "markus-butter",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/schlemihl"
+      },
+      {
+        "person_slug": "ann-kathrin-adam",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/stella"
+      },
+      {
+        "person_slug": "nora-sourouzian",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/stimme-der-mutter"
+      },
+      {
+        "person_slug": "dimitri-fontolan",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-im-weissen-roessl",
+    "work_slug": "ralph-benatzky/im-wei-en-rossl",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/im-weissen-roessl/",
+    "creative_team": [
+      {
+        "person_slug": "sean-stephens",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marius-burkert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dirk-schmeding",
+        "function": "director"
+      },
+      {
+        "person_slug": "laura-bruckner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-alphons",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ralf-kaselau",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "christian-wei-enberger",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "janos-mischuretz",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/der-kaiser"
+      },
+      {
+        "person_slug": "felix-heuser",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/josepha-vogelhuber"
+      },
+      {
+        "person_slug": "ildiko-raimondi",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/kathi-prasidentin-des-jungfrauenvereins"
+      },
+      {
+        "person_slug": "nina-wei",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/leopold-brandmeyer"
+      },
+      {
+        "person_slug": "sieglinde-feldhofer",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/ottilie"
+      },
+      {
+        "person_slug": "nicolas-kohler",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/piccolo"
+      },
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/prof-dr-hinzelmann"
+      },
+      {
+        "person_slug": "jogi-kaiser",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/wilhelm-giesecke"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-la-boheme",
+    "work_slug": "ruggero-leoncavallo/la-boheme",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/la-boheme/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "daeho-kim",
+        "role_slug": "ruggero-leoncavallo/la-boheme/barbemuche"
+      },
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "ruggero-leoncavallo/la-boheme/gaudenzio"
+      },
+      {
+        "person_slug": "wilfried-zelinka",
+        "role_slug": "ruggero-leoncavallo/la-boheme/gustavo-colline"
+      },
+      {
+        "person_slug": "sieglinde-feldhofer",
+        "role_slug": "ruggero-leoncavallo/la-boheme/mimi"
+      },
+      {
+        "person_slug": "anna-brull",
+        "role_slug": "ruggero-leoncavallo/la-boheme/musette"
+      },
+      {
+        "person_slug": "petr-sokolov",
+        "role_slug": "ruggero-leoncavallo/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "ruggero-leoncavallo/la-boheme/schaunard"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-la-boheme-2026-05-07t041238",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/la-boheme-2026-05-07t041238/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vassilis-christopoulos",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-ribitzki",
+        "function": "director"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-alphons",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stefan-rieckhoff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wilfried-zelinka",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "markus-butter",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "daeho-kim",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "nikita-ivasechko",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "corina-koller",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "ekaterina-solunya",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "martin-fournier",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "pavel-petrov",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "gihwang-yoon",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollwache"
+      },
+      {
+        "person_slug": "andrea-fournier",
+        "role_slug": "giacomo-puccini/la-boheme/singschul"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-la-damnation-de-faust",
+    "work_slug": "hector-berlioz/la-damnation-de-faust",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/la-damnation-de-faust/",
+    "creative_team": [
+      {
+        "person_slug": "louis-stiens",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "johannes-braun",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "pavel-petrov",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/faust"
+      },
+      {
+        "person_slug": "anna-brull",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/marguerite"
+      },
+      {
+        "person_slug": "nikita-ivasechko",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/mephistopheles"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-monsters-paradise",
+    "work_slug": "olga-neuwirth/monster-s-paradise",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/monsters-paradise/",
+    "creative_team": [
+      {
+        "person_slug": "katharina-john",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "leah-bedenko",
+        "role_slug": "olga-neuwirth/monster-s-paradise/bampi"
+      },
+      {
+        "person_slug": "markus-butter",
+        "role_slug": "olga-neuwirth/monster-s-paradise/der-konig-prasident"
+      },
+      {
+        "person_slug": "nikita-ivasechko",
+        "role_slug": "olga-neuwirth/monster-s-paradise/ein-bar"
+      },
+      {
+        "person_slug": "eric-jurenas",
+        "role_slug": "olga-neuwirth/monster-s-paradise/tuckey-des-konigs-horiger-adlatus-ii-todesengel-i"
+      },
+      {
+        "person_slug": "lisa-marie-lebitschnig",
+        "role_slug": "olga-neuwirth/monster-s-paradise/vampi"
+      }
+    ]
+  },
+  {
+    "id": "oper-graz/oper-graz-rusalka",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "oper-graz",
+    "is_revival": false,
+    "detail_url": "https://oper-graz.buehnen-graz.com/produktion/rusalka/",
+    "creative_team": [
+      {
+        "person_slug": "johannes-kohler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vasily-barkhatov",
+        "function": "director"
+      },
+      {
+        "person_slug": "christin-hagemann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "juliane-schunke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-schmidt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dshamilja-kaiser",
+        "role_slug": "antonin-dvorak/rusalka/die-fremde-furstin"
+      },
+      {
+        "person_slug": "neira-muhic",
+        "role_slug": "antonin-dvorak/rusalka/dritte-elfe"
+      },
+      {
+        "person_slug": "ted-black",
+        "role_slug": "antonin-dvorak/rusalka/heger"
+      },
+      {
+        "person_slug": "ivan-orescanin",
+        "role_slug": "antonin-dvorak/rusalka/jager"
+      },
+      {
+        "person_slug": "markus-butter",
+        "role_slug": "antonin-dvorak/rusalka/jager"
+      },
+      {
+        "person_slug": "sofia-vinnik",
+        "role_slug": "antonin-dvorak/rusalka/kuchenjunge"
+      },
+      {
+        "person_slug": "nadja-mchantaf",
+        "role_slug": "antonin-dvorak/rusalka/rusalka"
+      },
+      {
+        "person_slug": "daeho-kim",
+        "role_slug": "antonin-dvorak/rusalka/wassermann"
+      },
+      {
+        "person_slug": "ekaterina-solunya",
+        "role_slug": "antonin-dvorak/rusalka/zweite-elfe"
+      }
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-10183",
+    "work_slug": "johann-strauss-d-y/laderlappen",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/forestallningar/laderlappen",
+    "creative_team": [
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alan-gilbert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jonas-osterberg-nilsson",
+        "function": "director"
+      },
+      {
+        "person_slug": "johanna-svensson",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "vivianne-holmberg",
+        "role_slug": "johann-strauss-d-y/laderlappen/adele-kammarjungfru"
+      },
+      {
+        "person_slug": "klas-hedlund",
+        "role_slug": "johann-strauss-d-y/laderlappen/alfred"
+      },
+      {
+        "person_slug": "jon-nilsson",
+        "role_slug": "johann-strauss-d-y/laderlappen/betjanten"
+      },
+      {
+        "person_slug": "jens-persson-hertzman",
+        "role_slug": "johann-strauss-d-y/laderlappen/doktor-falke"
+      },
+      {
+        "person_slug": "kristian-flor",
+        "role_slug": "johann-strauss-d-y/laderlappen/frank-fangelsedirektor"
+      },
+      {
+        "person_slug": "jonas-degerfeldt",
+        "role_slug": "johann-strauss-d-y/laderlappen/frosch-fangvaktare"
+      },
+      {
+        "person_slug": "per-lindstrom",
+        "role_slug": "johann-strauss-d-y/laderlappen/gabriel-von-eisenstein"
+      },
+      {
+        "person_slug": "jane-burnell",
+        "role_slug": "johann-strauss-d-y/laderlappen/ida-hennes-syster"
+      },
+      {
+        "person_slug": "niklas-bjorling-rygert",
+        "role_slug": "johann-strauss-d-y/laderlappen/notarie-blind"
+      },
+      {
+        "person_slug": "miriam-treichl",
+        "role_slug": "johann-strauss-d-y/laderlappen/prins-orlofsky"
+      },
+      {
+        "person_slug": "elin-rombo",
+        "role_slug": "johann-strauss-d-y/laderlappen/rosalinda-hans-hustru"
+      }
+    ]
+  },
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-1030",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/en/productions/tosca",
+    "creative_team": [
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andre-callegaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vitali-alekseenok",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ann-mari-anttila",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "knut-hendriksen",
+        "function": "director"
+      },
+      {
+        "person_slug": "hans-ake-sjoquist",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bjorn-brusewitz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kristian-flor",
+        "role_slug": "giacomo-puccini/tosca/angelotti"
+      },
+      {
+        "person_slug": "karl-magnus-fredriksson",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "andreas-lundmark",
+        "role_slug": "giacomo-puccini/tosca/en-fangvaktare"
+      },
+      {
+        "person_slug": "peter-achren",
+        "role_slug": "giacomo-puccini/tosca/en-fangvaktare"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "giacomo-puccini/tosca/en-herdegosse"
+      },
+      {
+        "person_slug": "christina-nilsson",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "elisabet-strid",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "malin-bystrom",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "daniel-johansson",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "markus-schwartz",
+        "role_slug": "giacomo-puccini/tosca/sakristanen"
+      },
+      {
+        "person_slug": "john-erik-eleby",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "niklas-bjorling-rygert",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-1036",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/en/productions/turandot",
+    "creative_team": [
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tobias-ringborg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marco-arturo-marelli",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jesper-taube",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "daniel-johansson",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "johan-edholm",
+        "role_slug": "giacomo-puccini/turandot/en-mandarin"
+      },
+      {
+        "person_slug": "anneli-jupither",
+        "role_slug": "giacomo-puccini/turandot/hovdam"
+      },
+      {
+        "person_slug": "louise-reitberger",
+        "role_slug": "giacomo-puccini/turandot/hovdam"
+      },
+      {
+        "person_slug": "yana-kleyn",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "wiktor-sundqvist",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "ola-eliasson",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "niklas-bjorling-rygert",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "fredrik-vaamonde",
+        "role_slug": "giacomo-puccini/turandot/prinsen-av-persien-sceniskt"
+      },
+      {
+        "person_slug": "wei-nan",
+        "role_slug": "giacomo-puccini/turandot/prinsen-av-persien-vokalt"
+      },
+      {
+        "person_slug": "kristian-flor",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "rebecca-nash",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  },
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-5204",
+    "work_slug": "mikael-karlsson/melancholia",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/en/productions/melancholia",
+    "creative_team": [
+      {
+        "person_slug": "charlotta-ofverholm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-molino",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "chrisi-karvonides-dushenko",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "slava-daubnerova",
+        "function": "director"
+      },
+      {
+        "person_slug": "tom-visser",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "boris-kudlicka",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "klas-hedlund",
+        "role_slug": "mikael-karlsson/melancholia/bean-counting-man"
+      },
+      {
+        "person_slug": "ida-ranzlov",
+        "role_slug": "mikael-karlsson/melancholia/claire"
+      },
+      {
+        "person_slug": "anne-sofie-von-otter",
+        "role_slug": "mikael-karlsson/melancholia/gaby"
+      },
+      {
+        "person_slug": "johan-edholm",
+        "role_slug": "mikael-karlsson/melancholia/jack"
+      },
+      {
+        "person_slug": "markus-schwartz",
+        "role_slug": "mikael-karlsson/melancholia/john"
+      },
+      {
+        "person_slug": "kerstin-avemo",
+        "role_slug": "mikael-karlsson/melancholia/justine"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "mikael-karlsson/melancholia/leo"
+      },
+      {
+        "person_slug": "jens-persson-hertzman",
+        "role_slug": "mikael-karlsson/melancholia/michael"
+      },
+      {
+        "person_slug": "jesper-taube",
+        "role_slug": "mikael-karlsson/melancholia/tim"
+      }
+    ]
+  },
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-6824",
+    "work_slug": "andrea-tarrodi/vilse",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/forestallningar/vilse",
+    "creative_team": [
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ellen-lamm",
+        "function": "director"
+      },
+      {
+        "person_slug": "erik-berglund",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rikke-juellund",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tessan-maria-lehmussaari",
+        "role_slug": "andrea-tarrodi/vilse/klara"
+      }
+    ]
+  },
+  {
+    "id": "royal-swedish-opera/royal-swedish-opera-9899",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "royal-swedish-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operan.se/en/productions/cosi-fan-tutte",
+    "creative_team": [
+      {
+        "person_slug": "jori-klomp",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alan-gilbert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andre-callegaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jasminda-asplund-blanco",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "clara-svard",
+        "function": "director"
+      },
+      {
+        "person_slug": "anna-wemmert",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marika-feinsilber",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jane-burnell",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "vivianne-holmberg",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      },
+      {
+        "person_slug": "jeremy-carpenter",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/don-alfonso"
+      },
+      {
+        "person_slug": "johanna-rudstrom",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/dorabella"
+      },
+      {
+        "person_slug": "david-portillo",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "mingjie-lei",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/ferrando"
+      },
+      {
+        "person_slug": "julia-sporsen",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/fiordiligi"
+      },
+      {
+        "person_slug": "kyle-miller",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      }
+    ]
+  }
+]
