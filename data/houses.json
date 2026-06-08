@@ -1551,6 +1551,16 @@
     "notes": "Magyar Állami Operaház, Budapest — full English /en/ mirror, no JSON-LD, no proxy. Live leg walks /en/programme/all/?evad={season} (current + next two announced seasons) → /en/programme/{season}/{slug}/ SSR detail pages. **Opera gate = a genre tag in project-cover-category containing 'opera' (or 'singspiel'; drops 'Opera exam'/ballet/cantata/concert/recital) AND a required Composer in the 'Authors' block.** Credits split off 'Creative team' + 'General cast' block-lists — **the Conductor sits in the cast block → promote any cast row whose label maps to a creative function** (else it leaks). EN labels + Hungarian fallback mapped in-adapter. Performances from the 'Performance dates' block (post-start-date/-day/-time); **venue_room read verbatim from post-location-name** (Hungarian State Opera / Erkel Theatre / Eiffel Art Studios / guest e.g. Dubai Opera; occasionally null). Backfill Wikidata Q36833 (the building entity — it carries the P272/P4647 links; the bare 'Hungarian State Opera' stub Q65122221 has none). 69 live."
   },
   {
+    "slug": "armenian-national-opera",
+    "name": "Armenian National Opera and Ballet Theatre",
+    "city": "Yerevan",
+    "country": "AM",
+    "website": "https://opera.am",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Alexander Spendiaryan National Academic Opera and Ballet Theatre, Yerevan. WordPress front (opera.am/public/en) + a separate ticketing host (ticket.opera.am), plain fetch (no proxy). Discovery: the repertoire page /public/en/repertoire is a grid of performance cards — each `<div class=item>` links a single dated show to `ticket.opera.am/en/details/{id}/{Composer “TITLE”}` and prints the day (`p.date-s`), month and start time; the link text carries composer + work title, and cards are grouped into productions by (composer + title). **Genre + creative team come from the ticket detail page**, which states the form ('Opera in 4 acts' / 'Ballet in 2 acts' — the opera filter) and a `{Label}: {Name} /honorific/` credit block (Musical director and conductor / Stage director / Set designer …, honorifics stripped). No singer cast is published, so productions carry creative + dates only. No year on the cards → inferred forward from today. Composer is abbreviated ('G. Bizet') and a few works are listed in Armenian script (Pagliacci, Sayat-Nova, Anoush) — kept faithfully; isPersonName accepts Armenian capitals (\\p{Lu}). Opera gate = ticket-page genre 'Opera' (not Ballet/Concert) AND a person-name composer; galas/concerts (no composer in the link) never enter. No Wikidata QID wired (wbsearchentities returned empty)."
+  },
+  {
     "slug": "sofia-opera",
     "name": "Sofia Opera and Ballet",
     "city": "Sofia",

@@ -180,6 +180,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "a-tigranyan/anoush",
+    "title": "ANOUSH",
+    "composer_slug": "a-tigranyan"
+  },
+  {
     "slug": "ab-14-jahren/open-class-i-anfanger-innen",
     "title": "Open Class I: Anfänger*innen",
     "composer_slug": "ab-14-jahren"
@@ -1945,9 +1950,29 @@
     "composer_slug": ""
   },
   {
+    "slug": "g-bizet/carmen",
+    "title": "CARMEN",
+    "composer_slug": "g-bizet"
+  },
+  {
     "slug": "g-f-handel/agrippina",
     "title": "Agrippina",
     "composer_slug": "g-f-handel"
+  },
+  {
+    "slug": "g-puccini/madame-butterfly",
+    "title": "Madame Butterfly",
+    "composer_slug": "g-puccini"
+  },
+  {
+    "slug": "g-verdi/otello",
+    "title": "Otello",
+    "composer_slug": "g-verdi"
+  },
+  {
+    "slug": "g-verdi/traviata",
+    "title": "Traviata",
+    "composer_slug": "g-verdi"
   },
   {
     "slug": "gabriela-lena-frank-libretto-by-nilo-cruz/el-ultimo-sueno-de-frida-y-diego",

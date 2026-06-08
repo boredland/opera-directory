@@ -1,5 +1,6 @@
 import { scrapeAaltoMusiktheaterEssen } from "./houses/aalto-musiktheater-essen";
 import { scrapeAnhaltischesTheaterDessau } from "./houses/anhaltisches-theater-dessau";
+import { scrapeArmenianNationalOpera } from "./houses/armenian-national-opera";
 import { scrapeArenaDiVerona } from "./houses/arena-di-verona";
 import { scrapeArizonaOpera } from "./houses/arizona-opera";
 import { scrapeAtlantaOpera } from "./houses/atlanta-opera";
@@ -233,6 +234,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "sng-opera-ljubljana": scrapeSngOperaLjubljana,
   "cnt-zagreb": scrapeCntZagreb,
   "sofia-opera": scrapeSofiaOpera,
+  "armenian-national-opera": scrapeArmenianNationalOpera,
   "budapest-operetta": scrapeBudapestOperetta,
   "wiener-volksoper": scrapeWienerVolksoper,
   "grand-theatre-de-geneve": scrapeGrandTheatreDeGeneve,

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "armenian-national-opera/armenian-national-opera-a-tigranyan-anoush",
+    "work_slug": "a-tigranyan/anoush",
+    "house_slug": "armenian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://ticket.opera.am/en/details/1608/A.Tigranyan%20%E2%80%9CANOUSH%E2%80%9D",
+    "creative_team": [
+      {
+        "person_slug": "vilen-galstyan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "atanes-arakelyan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gegham-griogoryan",
+        "function": "director"
+      },
+      {
+        "person_slug": "grisha-sahakyan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "armenian-national-opera/armenian-national-opera-g-bizet-carmen",
+    "work_slug": "g-bizet/carmen",
+    "house_slug": "armenian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://ticket.opera.am/en/details/1548/G.%20Bizet%20%E2%80%9CCARMEN%E2%80%9D",
+    "creative_team": [
+      {
+        "person_slug": "karen-durgaryan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "armen-meliksetyan",
+        "function": "director"
+      },
+      {
+        "person_slug": "davit-minasyan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "armenian-national-opera/armenian-national-opera-g-puccini-madame-butterfly",
+    "work_slug": "g-puccini/madame-butterfly",
+    "house_slug": "armenian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://ticket.opera.am/en/details/1601/G.%20Puccini%20%22Madame%20Butterfly%22",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "armenian-national-opera/armenian-national-opera-g-verdi-otello",
+    "work_slug": "g-verdi/otello",
+    "house_slug": "armenian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://ticket.opera.am/en/details/1627/G.%20Verdi%20%E2%80%9COtello%E2%80%9D",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "armenian-national-opera/armenian-national-opera-g-verdi-traviata",
+    "work_slug": "g-verdi/traviata",
+    "house_slug": "armenian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://ticket.opera.am/en/details/1575/G.%20Verdi%20%E2%80%9CTraviata%E2%80%9D",
+    "creative_team": [
+      {
+        "person_slug": "vardan-grigoryan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gegham-grigoryan",
+        "function": "director"
+      },
+      {
+        "person_slug": "avetis-barseghyan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]
