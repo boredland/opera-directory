@@ -77,6 +77,7 @@ import { scrapeOperaDeLausanne } from "./houses/opera-de-lausanne";
 import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaPhiladelphia } from "./houses/opera-philadelphia";
 import { scrapeOperaTheatreOfSaintLouis } from "./houses/opera-theatre-of-saint-louis";
+import { scrapeOperaZuid } from "./houses/opera-zuid";
 import { scrapeOpernfestspieleHeidenheim } from "./houses/opernfestspiele-heidenheim";
 import { scrapeOpernfestspieleStMargarethen } from "./houses/opernfestspiele-st-margarethen";
 import { scrapeOpernhausZuerich } from "./houses/opernhaus-zuerich";
@@ -251,6 +252,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "la-monnaie-de-munt": scrapeLaMonnaieDeMunt,
   "dutch-national-opera": scrapeDutchNationalOpera,
   "nederlandse-reisopera": scrapeNederlandseReisopera,
+  "opera-zuid": scrapeOperaZuid,
   "staatsoper-berlin": scrapeStaatsoperBerlin,
   "oper-koeln": scrapeOperKoeln,
   "semperoper-dresden": scrapeSemperoperDresden,

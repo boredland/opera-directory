@@ -1888,5 +1888,15 @@
     "strategy": "render",
     "enabled": true,
     "notes": "Dutch national TOURING opera company (Enschede) — each production plays a circuit of theatres, so performance rows carry their own '{Venue} {City}'. Next.js site, Dutch. **Discovery is static (/programma-index → /programma/{slug}) but the per-night tour schedule is client-rendered → detail pages read via fetchRendered (RENDER strategy; uses the fetch-proxy stealth render in CI, local Chromium in dev).** Each /programma/{slug}?tab=tour rendered page has it all: `<h1>` title; `<dt>Componist</dt><dd>` composer; `Artistiek team` + `Cast` `<h3>`s each followed by a `<p>` of `<strong>label</strong> name<br>` runs (Dutch labels mapped: Muzikale leiding→conductor, Regie→director, Choreografie→choreographer, Decorontwerp→set, Kostuumontwerp→costume, Lichtontwerp→lighting, Koordirigent→chorus-master; ensembles Koor/Dansers/Begeleiding dropped from cast); tour rows as '{day} {EnglishMonth} opera {start}-{end} {Venue} {City} Tickets' (**English month names in the tour widget; year taken from the Dutch full date 'DD maand YYYY' on the page**). Opera gate: composer + a Regie (director) + a cast → drops sing-alongs/talks/education. No Wikidata QID."
+  },
+  {
+    "slug": "opera-zuid",
+    "name": "Opera Zuid",
+    "city": "Maastricht",
+    "country": "NL",
+    "website": "https://operazuid.nl",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Touring opera company of the southern Netherlands (Maastricht). Headless WordPress + Next.js front end, Dutch. **WP REST exposes two CPTs: `agendaitem` = one row per dated performance, title 'Production – YYYY-MM-DD HH:MM' (the date source — the detail page only shows a run-range placeholder, sometimes 31 Dec 2099); `production` = slug + title + link.** Performances grouped to productions by normalized-title join (agendaitem name drops trailing '(8+)'/'(BOM …)' audience tags). Detail page /voorstelling/{slug}/: composer in `.composer`; creative + cast as `<div class={role}>{Label} <span>{Name}</span></div>` (Dutch labels Regie→director, Muzikale leiding→conductor, Decor→set, Kostuums→costume, Licht→lighting, Koor→chorus-master mapped; every other label = cast character role). agendaitem paginated (per_page=100). Only productions with scheduled agendaitems are emitted (current/announced; ~13 now). Opera gate: person-name composer (drops community/education agenda items without one). No Wikidata QID."
   }
 ]
