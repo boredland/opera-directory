@@ -190,6 +190,31 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-cavalleria-r",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1893-01-18",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/13/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/cavalleria_r/savalleria_scene1_byrazina.jpg",
+    "synopsis": "Based on the production by Arnaud Bernard. The Sicilian Quarter in New York, 1920s. Easter Sunday. Early morning. After a night spent with Lola, formerly his lover and now the wife of another man, Turiddu sings her a serenade at his departure. They go their separate ways, trying not to draw the attention of any passers-by. The day is warming up. The residents are coming to church for celebratory mass. Santuzza, Turiddu's betrothed, appears, tormented by jealous suspicions. She asks Lucia, Turiddu's mother, where the latter's son is; Lucia answers that on the eve of the celebration he set out for a neighbouring district to fetch wine. Their discussion is interrupted by the clamorous arrival of the merry fellow Alfio, Lola's husband; he has just returned from a trip and tells them of his business matters. A reference to Turiddu, whom Alfio recently saw near his home, confirms Santuzza in her guess. After the businessman has gone, Santuzza confides her fears to Lucia: Turiddu was once passionately in love with Lola and wanted to marry her but instead had to join the army; on his return, finding his former girlfriend married to Alfio, he was deeply saddened though he gradually developed feelings for Santuzza and they became engaged; on discovering this, Lola again resolved to charm Turiddu. Lucia, despairing at the news, goes to church and Santuzza remains to await her beloved, intent on extracting a confession from him. Turiddu arrives. Santuzza fires off her jealous accusations at him – he denies all, gives evasive answers and lies. As these declarations reach their height Lola appears and, singing a song, speaks with Turiddu in an ironical fashion. The women trade insults. After Lola departs, Santuzza again attempts to make her fiancé see reason, but he loses all self-control, spurns her and runs after the empty-headed flirt. In despair, the rejected Santuzza resolves to be avenged. Fate itself casts her into Alfio's path, and she reveals to him his wife's betrayal. ",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "arnaud-bernard",
+        "function": "costume-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-donjuan",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "house_slug": "mariinsky-theatre",
@@ -368,6 +393,35 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-evgenonegin-temirk",
+    "work_slug": "pyotr-tchaikovsky/eugene-onegin",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1982-11-13",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/15/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_temirk/_onegin_banner.jpg",
+    "synopsis": "The garden on the Larins&rsquo; estate . In the distance, Tatiana and Olga can be heard singing. Listening to them, Mrs Larina and Filippievna the nanny recall their own younger days. Visitors appear unexpectedly: Vladimir Lensky, the Larins&rsquo; neighbour and Olga&rsquo;s fiancé, has brought with him his friend Onegin – a young man recently come down to the country from the capital. While Lensky declares his love to Olga, the new visitor chats with Tatiana. The nanny notes how excited Tatiana is at the meeting. Tatiana&rsquo;s bedroom . Tatiana cannot sleep. Filippievna tries to dispel her anxiety with the tale of her own maidenly status. Once alone, Tatiana writes a letter to Onegin. With the arrival of dawn, she asks the nanny to deliver the letter. The Larins&rsquo; garden . Tatiana anxiously awaits a reply. Eugene appears – he is touched by her declaration but is unable to return her love. The Larins&rsquo; house . A ball in honour of Tatiana&rsquo;s name day. Lensky has convinced his friend to visit the Larins, but the party and the guests serve to irritate Onegin. In revenge, he begins to play court to Olga. The readiness with which the young woman accepts his attentions drives Lensky to despair. He starts a quarrel with Onegin and challenges him to a duel. An abandoned mill . Lensky and his second await the arrival of Onegin. Lensky mournfully and nostalgically contemplates the former &ldquo;golden days&rdquo; of his youth. At last the rival comes. The former friends are willing to forget any offence caused, but ideals of honour gain the upper hand. A shot rings out and Lensky drops down dead. A room in a luxurious mansion in St Petersburg . Following a lengthy absence, Onegin returns to live in the capital. He finds Tatiana a married woman, now at the centre of attention having taken her place in high society. Her husband Prince Gremin speaks to Onegin of his happiness. The transformation of the young woman he knew awakens feelings of love in Onegin&rsquo",
+    "creative_team": [
+      {
+        "person_slug": "dmitry-bryantsev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "yuri-temirkanov",
+        "function": "director"
+      },
+      {
+        "person_slug": "igor-ivanov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-falstaff-semistage",
     "work_slug": "giuseppe-verdi/falstaff",
     "house_slug": "mariinsky-theatre",
@@ -471,6 +525,55 @@
       {
         "person_slug": "valery-gergiev",
         "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-golden-cockerel-shishkina",
+    "work_slug": "nikolai-rimsky-korsakov/the-golden-cockerel",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2025-11-24",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/16/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/golden_cockerel_shishkina/_zolotoy_petushok_2025_eng.jpg",
+    "synopsis": "Prologue The Astrologer warns the audience: this is a tale of fantasy, yet one with a hidden meaning. Act I A chamber in Tsar (King) Dodon&rsquo;s palace. Neighbouring kingdoms threaten Dodon&rsquo;s realm with war, and the king and his boyars debate what to do. At the council Dodon&rsquo;s sons, Afron and Guidon, reveal both cowardice and recklessness. The boyars are about to resort to divination when the Astrologer appears. He presents the king with a Golden Cockerel that will warn of approaching danger. In gratitude for such a useful gift, Dodon promises: &ldquo;Thy first command I shall fulfil as my own.&rdquo; The Cockerel cries, &ldquo;Kiri-ku-ku! Rule on, but rule in sleep!&rdquo; The king and his courtiers fall asleep. In a dream Dodon sees a beautiful unknown maiden. Suddenly, the Cockerel gives a warning cry. All are alarmed. The Voivode (Commander) Polkan awakens the king, who sends his sons off to battle while he himself falls asleep again. The Cockerel sounds another alarm. Dodon arms himself and sets out on a campaign. Act II Night. The bodies of slain warriors lie scattered on the hills, among them Afron and Guidon, who have killed each other with their swords. The king arrives with his troops. Recognising his sons, he grieves for them, while Polkan calls for vengeance. They do not yet know that the brothers fought to the death for the favour of a mysterious beauty. Dawn breaks, revealing a splendid, ornamented pavilion. From it steps the Queen of Shemakha, light-footed and radiant, attended by her maidens. Dodon is struck: she is the very vision from his dream. The Queen declares she will conquer his land without raising a hand in battle. She enchants the old king and makes him dance with her maidens. The girls mock Dodon, but he is enraptured, ready to seat the Queen of Shemakha beside him on the throne. Act III A busy street in the capital. Atop a high spire perches the Golden Cockerel. The people anxiously await the royal procession. A golden char",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "antonia-shestakova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anna-shishkina",
+        "function": "director"
+      },
+      {
+        "person_slug": "anatoly-lyapin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anatoly-lyapin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "varvara-pletneva",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vladimir-petrov",
+        "function": "video-designer"
       }
     ],
     "cast": []
@@ -757,6 +860,60 @@
         "function": "lighting"
       }
     ],
+    "cast": [
+      {
+        "person_slug": "antonina-vesenina",
+        "role_slug": "mikhail-glinka/a-life-for-the-tsar/antonida"
+      },
+      {
+        "person_slug": "yaramir-nizamutdinov",
+        "role_slug": "mikhail-glinka/a-life-for-the-tsar/bogdan-sobinin"
+      },
+      {
+        "person_slug": "dmitry-grigoriev",
+        "role_slug": "mikhail-glinka/a-life-for-the-tsar/ivan-susanin"
+      },
+      {
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "mikhail-glinka/a-life-for-the-tsar/vanya"
+      }
+    ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lady-mackbet-mc",
+    "work_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1995-05-20",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/8/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/lady_mackbet_mc/_titul.jpg",
+    "synopsis": "Act I Scene 1. Katerina Lvovna leads an unhappy existence in the home of her husband, the distinguished merchant Zinovy Borisovich Ismailov. The marriage has produced no children. Katerina spends her time in agonising idleness, languishing in melancholy and loneliness. She is exasperated by her father-in-law Boris Timofeyevich, who is frustrated that she has been married five years and has failed to produce an heir. Zinovy Borisovich brings in Sergei, a new worker. Business forces Zinovy Borisovich to leave home for a period: the dam at the mill has burst. Ordered by Boris Timofeyevich the workers pretend they are sad when their master leaves. Katerina&rsquo;s cruel and suspicious father-in-law insists that Katerina swear fidelity to her husband. The cook Aksinya tells Katerina about Sergei: &ldquo;Name any woman who&rsquo;s taken his fancy, he&rsquo;ll get her into trouble.&rdquo; Scene 2. Taking advantage of the master&rsquo;s absence, the Ismailovs&rsquo; servants loaf around. Sergei and his friends mock and play tricks on the clumsy Aksinya. Katerina Lvovna enters the yard and defends the cook, threatening to do away with Sergei, the ring-leader. He proposes a battle of strength. At the peak of the jovial scuffle Boris Timofeyevich appears. He sends everyone back to work and threatens Katerina that he will tell her husband everything. Scene 3. Katerina Lvovna&rsquo;s bedroom. She is tormented by boredom and recalls how in her childhood she admired a pair of doves that billed and cooed around their nest… But now her life is to pass with no joy, no happiness. Sergei&rsquo;s unexpected appearance shatters her loneliness: he asks &ldquo;if I can borrow a book&rdquo; and speaks of woman&rsquo;s sorrowful lot, but all this is a mere ruse to seduce Katerina. In confusion she yields to him: Sergei has awoken hitherto unknown emotions. Act II Scene 4. Boris Timofeyevich cannot sleep, he sees thieves everywhere. He remembers how he found it hard to sleep in his younger ye",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tatiana-noginova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "irina-molostova",
+        "function": "director"
+      },
+      {
+        "person_slug": "vladimir-lukasevich",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "george-tsypin",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -971,6 +1128,51 @@
     "cast": []
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1991-10-31",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/14/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/oranges_petrov/не использовать_3orange_eng.jpg",
+    "synopsis": "Prologue. Parade of the Characters Everything begins unexpectedly: the Tragedians clash with the Comedians, while the Lyric Poets dream of romantic love and the Empty-Headed demand farce and amusing trifles. The quarrel sways from one side to the other until the Oddballs appear, shovel the fighters apart, and with great delight proclaim the beginning of an &ldquo;unparalleled&rdquo; spectacle entitled The Love for Three Oranges . Part One First Attraction. The Royal Council Gloom reigns in the palace. The physicians deliver a terrible diagnosis: the Prince suffers from an incurable &ldquo;hypochondriacal condition&rdquo;. The King despairs and bursts into tears, as does his attendant Pantalone. Yet the physicians believe that laughter may cure the Prince. Pantalone loudly summons Truffaldino, a master of comic entertainment. The King orders him to arrange a festive masquerade. He gives the same command to the First Minister Leander, who barely conceals his irritation – he secretly longs for the Prince&rsquo;s death. The Oddballs enthusiastically support the King&rsquo;s decision. Second Attraction. The Magical Duel Darkness envelops everything. With thunder and lightning, the magician Tchelio rises from the ground. Beside him stands Fata Morgana, surrounded by fire and smoke. The Oddballs watch in amazement. The magicians begin with a game of cards, which turns into a knightly duel resembling an ordinary brawl. Tchelio loses. Third Attraction. The Minister&rsquo;s Plot. A Black Magic Ritual At court Princess Clarice meets Leander. They discuss their plan to kill the Prince: Clarice will become heir, and Leander, after marrying her, will take the throne. Leander reveals that he has long tormented the Prince with tragic prose and heavy verse, hoping to drive him to death. The Tragedians suddenly burst in, shouting for &ldquo;High Tragedy! Lamentations! Murders!&rdquo; The Oddballs sweep them away again. Clarice demands more decisive means – poison or a bullet. A proce",
+    "creative_team": [
+      {
+        "person_slug": "ilya-ustyantsev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vyacheslav-okunev",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexander-petrov",
+        "function": "director"
+      },
+      {
+        "person_slug": "valentin-bakoyan",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vyacheslav-okunev",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "viktoria-zlotnikova",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-otello2022-smirnov",
     "work_slug": "giuseppe-verdi/otello",
     "house_slug": "mariinsky-theatre",
@@ -1037,37 +1239,20 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2006-04-03",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/8/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pajatzu/pagliacci_ganbaatar_akimov_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/20/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pajatzu/7.jpg",
     "synopsis": "PROLOGUE Before the curtain rises Tonio appears dressed as a clown. He explains to the audience what they are about to see on stage. \"Real are the tears and suffering that you are to see!\" Tonio exclaims. \"After all, an actor loves and hates just like everyone else, and a passionate heart beats beneath his clownish attire.\" ACT I The drama begins. A company of travelling comedians arrives in a small Italian village. The villagers joyfully greet Canio, the leader of the company, his actress wife Nedda, Tonio the clown and Beppe the actor. The performance will be in the evening, so one of the villagers suggests the comedians pass their time in the tavern. Canio and Beppe agree readily and ask Tonio to go too, but he declines. He is nursing a grievance against the company&acute;s jealous leader for offending him. Canio&acute;s jealousy is justified. In the village that they have come to Nedda has a lover – the young peasant Silvio. Left alone, Nedda dreams of meeting him. Having sneaked up unnoticed, Tonio declares his love for her. Nedda responds to the hideous clown&acute;s declarations with derisive laughter, cooling his passions with a lash of a whip. Impotent with rage Tonio leaves, threatening revenge. Meanwhile, despite the danger, Silvio appears, sincerely and lovingly devoted to Nedda. He implores her to abandon her life on the road and run away with him. Suddenly the wrathful voice of the company&acute;s leader is heard, Canio having rushed back to call for the offended clown. Silvio, however, manages to flee unrecognised. Canio insists that Nedda name her lover, but to no avail. Then he leaps at her with a knife. Beppe pulls Canio off and Tonio calms him, saying that the fugitive will return for the performance and there he will somehow give himself away. The show will begin soon… ACT II A merry crowd of villagers awaits the start of the entertainment. Tonio and Beppe show the audience to their seats; Silvio is among them. The plot being acted out is similar",
     "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
       {
         "person_slug": "vladimir-lukasevich",
         "function": "lighting"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "gamid-abdulov",
-        "role_slug": "ruggero-leoncavallo/pagliacci/beppe"
-      },
-      {
-        "person_slug": "yevgeny-akimov",
-        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
-      },
-      {
-        "person_slug": "oxana-shilova",
-        "role_slug": "ruggero-leoncavallo/pagliacci/nedda"
-      },
-      {
-        "person_slug": "vladislav-kupriyanov",
-        "role_slug": "ruggero-leoncavallo/pagliacci/silvio"
-      },
-      {
-        "person_slug": "ariunbaatar-ganbaatar",
-        "role_slug": "ruggero-leoncavallo/pagliacci/tonio"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-parsifal",
@@ -1138,6 +1323,39 @@
       },
       {
         "person_slug": "alexander-orlov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-rusalka-k3",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2009-07-15",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/16/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/rusalka_k3/rusalka_scene_by_razina.jpg",
+    "synopsis": "SYNOPSIS Act I Not far from the hut of Ježibaba, Rusalka sits forlornly on the shore of the lake. The wood nymphs have awoken the old Water-Sprite, Rusalka&rsquo;s father, with their singing, and he has swum to the surface of the lake. Frightened, the nymphs depart, and Rusalka tells her father of her grief. She has fallen passionately in love with a handsome prince and is ready to do whatever it takes just to be with him. She wishes to acquire a human soul. The Water-Sprite is dismayed: this love will bring his daughter much woe and grief. Because having a soul means to suffer! However, touched by his daughter&rsquo;s prayers, he sends her for advice to Ježibaba. Rusalka sets off for the old woman. The latter agrees to assist, but on a certain condition: when she becomes human, Rusalka will have no power of speech, and if she loses the love of the Prince she will be transformed into a will-o&rsquo;-the wisp of the swamp and lead her beloved to death. Rusalka agrees to the risks. The transformation is complete. As the sun rises over the lake, the Prince appears, having got lost while on a hunt. He sees the beautiful maiden, and, falling in love with her at first sight, he takes her to his castle. Act II AT the castle, the Prince is preparing for his wedding. The servants are all discussing the event in as lively a way as could be imagined, and are surprised by the mysterious appearance of the bride. The bride is downcast. A beautiful and coquettish Princess who is visiting the castle is taking up more and more of the Prince&rsquo;s attention. The ball begins, and celebratory music can be heard while the guests make merry in a carefree whirlwind of joy. The Water-Sprite, who has stolen into the park, sees with pain how his daughter is suffering in silence. Rusalka tries to draw her betrothed to her side, but he rejects her. In front of Rusalka, her eyes filled with misery, the Prince declares his love for the Princess. Rusalka runs from the castle, protesting to the ",
+    "creative_team": [
+      {
+        "person_slug": "pavel-teplov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "tatiana-yastrebova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexander-maskalin",
+        "function": "director"
+      },
+      {
+        "person_slug": "kamil-kutyev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sergei-grachev",
         "function": "set-designer"
       }
     ],
@@ -1406,7 +1624,7 @@
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
       },
       {
-        "person_slug": "polina-lapteva-chernichka",
+        "person_slug": "polina-lapteva",
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
       }
     ]
@@ -1472,6 +1690,56 @@
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-toska",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2007-05-31",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/28/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/toska/_banner_tosca_eng.jpg",
+    "synopsis": "The Church of Sant&rsquo;Andrea della Valle, Rome Angelotti, former Consul of the Republic of Rome and now a political prisoner who has escaped from prison, enters exhausted. He hides in the chapel of his sister, the Marchesa Attavanti. The artist Cavaradossi is working on an image of Mary Magdalene. The Sacristan is shocked that the painting resembles a woman in his congregation. Cavaradossi denies the resemblance: only Tosca occupies his thoughts and his brush could paint the features of no-one else. After the Sacristan leaves Angelotti emerges from the chapel. He knows the artist and trusts him, and so he begs for assistance. Hearing Tosca&rsquo;s voice, he hides again. The singer notices the painting of Mary Magdalene resembles the Marchesa Attavanti. Tosca&rsquo;s jealousy erupts but the artist manages to pacify her. Floria leaves and Cavaradossi offers the fugitive refuge in his home. Gunshots are heard – the escape has been discovered. The men hurry away. A celebratory mass begins. Scarpia, chief of police of Rome, and police agent Spoletta are among the worshippers. They are interested in the Attavanti Chapel where they expect to discover Angelotti, but find a fan left there by the Marchesa and an empty food basket. Seeing Tosca return to the church in the hopes of seeing her beloved again, Scarpia decides to seize his opportunity. He cunningly provokes Floria&rsquo;s jealousy. When she runs out of the church, Scarpia sends police agents after her, believing that the infuriated Tosca will lead them to the artist&rsquo;s secret hiding place. The Farnese Palace Scarpia is in his apartments awaiting news from his agents. His expectations are only half fulfilled: Tosca did lead them to Cavaradossi who has now been arrested but Angelotti remains at liberty. Scarpia hopes to torture the artist into revealing the truth and orders Tosca be brought to him. The chief of police himself begins Cavaradossi&rsquo;s interrogation but to no avail. The artist manages to whis",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "paul-curran",
+        "function": "director"
+      },
+      {
+        "person_slug": "david-jaques",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-traviata-kz",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2022-10-19",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/19/3_1300/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/_traviata_semistage_en.jpg",
+    "synopsis": "Act I Paris. A party is underway at the home of Violetta Valéry, a well-known demimondaine. Violetta&acute;s admirers are celebrating her return to health. Alfredo Germont is among the guests. He asks Gastone to introduce him as he is in love with her. At the request of the other guests, Alfredo sings a toast in her honour. As the others go to dance, Violetta is taken ill. She asks to be left alone. Alfredo, concerned that the woman he loves is ill, begs her to change her way of life and believe in his love. His love gives rise to Violetta&acute;s hopes for happiness. Act II Scene I A country house near Paris. Alfredo and Violetta live here in contentment. Annina, Violetta&acute;s maid, confesses to Alfredo that her mistress is secretly selling her belongings. Tormented by his conscience, Alfredo leaves for Paris to deal with these financial affairs. When she returns, Violetta cannot find Alfredo. Giuseppe the gardener gives her a letter from Flora. It is an invitation to a ball. Violetta lays it to one side in indifference – she will not attend. Suddenly, Alfredo&acute;s father Giorgio Germont appears. He accuses Violetta of ruining his son and soiling the family name. Violetta is in despair: she is mortally ill and has not long to live; her love for Alfredo is her only joy and comfort. Giorgio Germont is surprised at the sincerity of her emotions, but still insists that Violetta leaves his son. Violetta agrees and decides to sacrifice her own happiness. Alfredo returns from Paris. He is surprised by Violetta&acute;s perturbed manner. For the final time, she tells him of her undying love, then she leaves. Alfredo is overjoyed. \"Ah, this dear one lives only for my love!\" he says of Violetta. He is brought a letter; it is a letter of farewell from Violetta, in which she says she is returning to Baron Douphol. Alfredo is shocked. Giorgio Germont enters. He asks his son to return home to Provence. Alfredo does not listen to his father and he is unable to comprehend Vio",
+    "creative_team": [
+      {
+        "person_slug": "anna-shishkina",
+        "function": "director"
+      },
+      {
+        "person_slug": "anton-nikolaev",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-troyens",
@@ -1703,6 +1971,34 @@
       },
       {
         "person_slug": "gleb-filshtinsky",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-pell-as-et-m-lisande",
+    "work_slug": "claude-debussy/pelleas-et-melisande",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2019-10-24",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/13/3_1900/",
+    "synopsis": "Act I A dark forest in a faraway land . Prince Golaud, hunting a trail of blood, discovers a frightened, weeping girl sitting by a spring. Taken by her beauty and mystery, Golaud persuades her to come with him out of the forest. The castle in Allemonde . Geneviève, the mother of Golaud, reads a letter to the aged King Arkel. In it Golaud reveals that he is now married and asks for a permission to return home with his new wife. Arkel laments Golaud&rsquo;s failure to wed Princess Ursule whose union would have ended the war that cripples his nation. Pelléas, Golaud&rsquo;s half-brother, enters. He has received news that his friend is on his deathbed, and wants to travel to say goodbye to him. Arkel refuses, reminding Pelléas that his presence is needed at home to care for his own dying father. The lamps are lit for Golaud&rsquo;s return on top of the tower. A garden before the castle . Geneviève shows Mélisande the castle grounds: the dark forests of Allemonde and the sea beyond. Pelléas arrives. They look out to sea and notice the ship which brought Golaud and Mélisande departing the kingdom at full speed. Geneviève asks Pelléas to escort Mélisande home. Act II A sunny day in the forest . Pelléas has led Mélisande to the \"Blind Men's Well\". People used to believe it possessed miraculous powers to cure blindness. Mélisande plays with the ring Golaud gave her, throwing it up into the air until it slips from her fingers into the well. The clock strikes twelve. Pelléas urges Mélisande to tell Golaud the truth. A room in the castle . Golaud is with Mélisande. He is wounded, having fallen from his horse while hunting. He tells his wife that the horse suddenly bolted for no reason as the clock struck twelve. Mélisande tearfully implores Golaud to take her away from the old castle, where she is tormented by sadness and anxiety. She is unhappy as she cannot see the sky at the castle. Golaud takes Mélisande&rsquo;s hands to comfort her and notices the wedding ring is missing. ",
+    "creative_team": [
+      {
+        "person_slug": "sergei-zemlyansky",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexander-sivayev",
         "function": "lighting"
       }
     ],

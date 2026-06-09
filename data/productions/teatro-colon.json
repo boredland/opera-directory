@@ -92,7 +92,19 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "martina-nosetto",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "carolina-basaldua",
+        "function": "director"
+      },
+      {
         "person_slug": "pablo-maritano",
+        "function": "director"
+      },
+      {
+        "person_slug": "rodrigo-arena",
         "function": "director"
       },
       {
@@ -100,32 +112,19 @@
         "function": "lighting"
       },
       {
+        "person_slug": "sergio-reale",
+        "function": "lighting"
+      },
+      {
         "person_slug": "gonzalo-cordoba-estevez",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "julieta-kompel",
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "jaquelina-livieri",
-        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/giulietta"
-      },
-      {
-        "person_slug": "yaritza-veliz",
-        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/giulietta"
-      },
-      {
-        "person_slug": "ekaterina-vorontsova",
-        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/romeo"
-      },
-      {
-        "person_slug": "silvia-tro-santafe",
-        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/romeo"
-      },
-      {
-        "person_slug": "ioan-hotea",
-        "role_slug": "vincenzo-bellini/i-capuleti-e-i-montecchi/tebaldo"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "teatro-colon/les-contes-d-hoffmann/2026",

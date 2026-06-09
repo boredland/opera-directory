@@ -1072,7 +1072,8 @@
     "slug": "adam-benzwi",
     "name": "Adam Benzwi",
     "professions": [
-      "conductor"
+      "conductor",
+      "singer"
     ]
   },
   {
@@ -2118,6 +2119,13 @@
     ]
   },
   {
+    "slug": "alejandro-azorin",
+    "name": "Alejandro Azorín",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "alejandro-balinas",
     "name": "Alejandro Baliñas",
     "professions": [
@@ -2910,6 +2918,13 @@
     ]
   },
   {
+    "slug": "alexander-maskalin",
+    "name": "Alexander Maskalin",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "alexander-meier-dorzen-shy-bach",
     "name": "Alexander Meier-Dörzen&shy;bach",
     "professions": [
@@ -3032,6 +3047,13 @@
   {
     "slug": "alexander-sivaev",
     "name": "Alexander Sivaev",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
+    "slug": "alexander-sivayev",
+    "name": "Alexander Sivayev",
     "professions": [
       "lighting"
     ]
@@ -7028,6 +7050,13 @@
     ]
   },
   {
+    "slug": "anna-shishkina",
+    "name": "Anna Shishkina",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "anna-shulgina",
     "name": "Anna Shulgina",
     "professions": [
@@ -8125,10 +8154,24 @@
     ]
   },
   {
+    "slug": "antonia-shestakova",
+    "name": "Antonia Shestakova",
+    "professions": [
+      "costume-designer"
+    ]
+  },
+  {
     "slug": "antonin-dvorak",
     "name": "Antonín Dvořák",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "antonina-vesenina",
+    "name": "Antonina Vesenina",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -8540,6 +8583,7 @@
     "slug": "arnaud-bernard",
     "name": "ARNAUD BERNARD",
     "professions": [
+      "costume-designer",
       "director"
     ]
   },
@@ -9572,6 +9616,13 @@
   {
     "slug": "balkis",
     "name": "Balkis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "balkiya-zhanburchinova",
+    "name": "Balkiya Zhanburchinova",
     "professions": [
       "singer"
     ]
@@ -12901,6 +12952,13 @@
     ]
   },
   {
+    "slug": "carolina-basaldua",
+    "name": "Carolina Basaldúa",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "carolina-lopez-moreno",
     "name": "Carolina López Moreno",
     "professions": [
@@ -13728,6 +13786,13 @@
   {
     "slug": "chiara-polese",
     "name": "Chiara Polese",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "chiara-scarrone",
+    "name": "Chiara Scarrone",
     "professions": [
       "singer"
     ]
@@ -16592,6 +16657,13 @@
     ]
   },
   {
+    "slug": "daniel-busch",
+    "name": "Daniel Busch",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "daniel-c-schindler",
     "name": "Daniel C. Schindler",
     "professions": [
@@ -17737,6 +17809,13 @@
     "name": "David Jagodic",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "david-jaques",
+    "name": "David Jaques",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -19228,8 +19307,22 @@
     ]
   },
   {
+    "slug": "dmitry-bryantsev",
+    "name": "Dmitry Bryantsev",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "dmitry-golovnin",
     "name": "Dmitry Golovnin",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "dmitry-grigoriev",
+    "name": "Dmitry Grigoriev",
     "professions": [
       "singer"
     ]
@@ -20116,6 +20209,13 @@
     "name": "Eberhard Rex",
     "professions": [
       "Einstudierung Luzerner Kantorei"
+    ]
+  },
+  {
+    "slug": "eberhard-streul",
+    "name": "Eberhard Streul |",
+    "professions": [
+      "composer"
     ]
   },
   {
@@ -21326,6 +21426,13 @@
   {
     "slug": "elisabeth-teige",
     "name": "Elisabeth Teige",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "elisabeth-vincenti",
+    "name": "Elisabeth Vincenti",
     "professions": [
       "singer"
     ]
@@ -22558,6 +22665,13 @@
     "name": "Erica Eloff",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "erica-ferguson",
+    "name": "Erica Ferguson",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -25106,6 +25220,13 @@
     ]
   },
   {
+    "slug": "francesca-berruto",
+    "name": "Francesca Berruto",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "francesca-cassinari",
     "name": "Francesca Cassinari",
     "professions": [
@@ -27203,6 +27324,13 @@
     ]
   },
   {
+    "slug": "george-tsypin",
+    "name": "George Tsypin",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "georges-bizet",
     "name": "Georges Bizet",
     "professions": [
@@ -29243,6 +29371,13 @@
     "name": "Gustave Charpentier",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "gustavo-carvalho",
+    "name": "Gustavo Carvalho",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -31586,6 +31721,13 @@
     ]
   },
   {
+    "slug": "igor-ivanov",
+    "name": "Igor Ivanov",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "igor-onishchenko",
     "name": "Igor Onishchenko",
     "professions": [
@@ -32447,6 +32589,13 @@
     "name": "Irina Kashuba",
     "professions": [
       "choreographer"
+    ]
+  },
+  {
+    "slug": "irina-molostova",
+    "name": "Irina Molostova",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -35771,6 +35920,13 @@
     ]
   },
   {
+    "slug": "joan-ivars-ribes",
+    "name": "Joan Ivars Ribes",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "joan-martin-royo",
     "name": "Joan Martín-Royo",
     "professions": [
@@ -39068,6 +39224,13 @@
     ]
   },
   {
+    "slug": "julieta-kompel",
+    "name": "Julieta Kompel",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "juliette-amirault",
     "name": "Juliette Amirault",
     "professions": [
@@ -39739,6 +39902,13 @@
     "name": "KAMIL BEN HSAÏN LACHIRI",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "kamil-kutyev",
+    "name": "Kamil Kutyev",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -42812,6 +42982,13 @@
     ]
   },
   {
+    "slug": "laetitia-arztmann",
+    "name": "Laetitia Arztmann",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "laia-valles",
     "name": "Laia Vallés",
     "professions": [
@@ -45726,6 +45903,13 @@
     ]
   },
   {
+    "slug": "lucas-erni",
+    "name": "Lucas Erni",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "lucas-meachem",
     "name": "Lucas Meachem",
     "professions": [
@@ -47729,6 +47913,13 @@
     "name": "Marcin Lakomicki, Eva Di Domenico",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "marcio-mota",
+    "name": "Márcio Mota",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -50653,6 +50844,13 @@
     "name": "Martina Myskohlid",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "martina-nosetto",
+    "name": "Martina Nosetto",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -54383,6 +54581,13 @@
     ]
   },
   {
+    "slug": "mirjam-miller",
+    "name": "Mirjam Miller",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "mirjam-neururer",
     "name": "Mirjam Neururer",
     "professions": [
@@ -55365,6 +55570,13 @@
     ]
   },
   {
+    "slug": "nami-ito",
+    "name": "Nami Ito",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "nanami-chiba",
     "name": "Nanami Chiba",
     "professions": [
@@ -55966,7 +56178,8 @@
     "slug": "neshama-nashman",
     "name": "Neshama Nashman",
     "professions": [
-      "choreographer"
+      "choreographer",
+      "singer"
     ]
   },
   {
@@ -56636,6 +56849,13 @@
     "name": "Niklas Heinecke",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "niklas-jendrics",
+    "name": "Niklas Jendrics",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -61035,6 +61255,13 @@
     ]
   },
   {
+    "slug": "phoebe-kilminster",
+    "name": "Phoebe Kilminster",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "phoenix",
     "name": "Phoenix",
     "professions": [
@@ -61509,6 +61736,13 @@
   {
     "slug": "polina-artsis",
     "name": "Polina Artsis",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "polina-lapteva",
+    "name": "Polina Lapteva",
     "professions": [
       "singer"
     ]
@@ -64305,6 +64539,13 @@
     ]
   },
   {
+    "slug": "rodrigo-arena",
+    "name": "Rodrigo Arena",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "rodrigo-garull",
     "name": "Rodrigo Garull",
     "professions": [
@@ -65072,6 +65313,13 @@
   {
     "slug": "rudis-vilsons",
     "name": "Rūdis Vilsons",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "rudolf-buchbinder",
+    "name": "Rudolf Buchbinder",
     "professions": [
       "singer"
     ]
@@ -67256,6 +67504,13 @@
     ]
   },
   {
+    "slug": "sergei-grachev",
+    "name": "Sergei Grachev",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "sergei-kiselev",
     "name": "Sergei Kiselev",
     "professions": [
@@ -67321,6 +67576,13 @@
   {
     "slug": "sergei-vikharev",
     "name": "Sergei Vikharev",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
+    "slug": "sergei-zemlyansky",
+    "name": "Sergei Zemlyansky",
     "professions": [
       "choreographer"
     ]
@@ -67407,6 +67669,13 @@
     "name": "Sergio Raonic Lukovic",
     "professions": [
       "director"
+    ]
+  },
+  {
+    "slug": "sergio-reale",
+    "name": "Sergio Reale",
+    "professions": [
+      "lighting"
     ]
   },
   {
@@ -67904,6 +68173,13 @@
     "name": "Silvia Aymonino",
     "professions": [
       "costume-designer"
+    ]
+  },
+  {
+    "slug": "silvia-beltrami",
+    "name": "Silvia Beltrami",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -68545,6 +68821,13 @@
     ]
   },
   {
+    "slug": "skyler-maxey-wert",
+    "name": "Skyler Maxey-Wert",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "slava-daubnerova",
     "name": "Sláva Daubnerová",
     "professions": [
@@ -68738,6 +69021,7 @@
     "slug": "sofiia-melnyk",
     "name": "Sofiia Melnyk",
     "professions": [
+      "singer",
       "video-designer"
     ]
   },
@@ -69179,6 +69463,13 @@
   {
     "slug": "sophie-marilley",
     "name": "Sophie Marilley",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "sophie-martin",
+    "name": "Sophie Martin",
     "professions": [
       "singer"
     ]
@@ -71143,7 +71434,8 @@
     "slug": "sydney-roslin",
     "name": "Sydney Roslin",
     "professions": [
-      "director"
+      "director",
+      "singer"
     ]
   },
   {
@@ -71813,6 +72105,13 @@
     "name": "Tatiana Yaneva",
     "professions": [
       "choreographer"
+    ]
+  },
+  {
+    "slug": "tatiana-yastrebova",
+    "name": "Tatiana Yastrebova",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -74713,6 +75012,13 @@
     ]
   },
   {
+    "slug": "valentin-bakoyan",
+    "name": "Valentin Bakoyan",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "valentin-daumler",
     "name": "Valentin Däumler",
     "professions": [
@@ -75118,6 +75424,13 @@
     "name": "Varvara Nikishina",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "varvara-pletneva",
+    "name": "Varvara Pletneva",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -75756,6 +76069,13 @@
     ]
   },
   {
+    "slug": "viktorija-kaminskaite",
+    "name": "Viktorija Kaminskaite",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "viktorija-miskunaite",
     "name": "Viktorija Miškūnaitė",
     "professions": [
@@ -76285,6 +76605,13 @@
     "name": "Vladimir Moroz",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "vladimir-petrov",
+    "name": "Vladimir Petrov",
+    "professions": [
+      "video-designer"
     ]
   },
   {
@@ -77115,6 +77442,13 @@
     ]
   },
   {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman",
+    "name": "Wolfgang Amadeus Mozart Libretto von Eman",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
     "slug": "wolfgang-bankl",
     "name": "Wolfgang Bankl",
     "professions": [
@@ -77681,6 +78015,13 @@
     "name": "Yannis Thavoris",
     "professions": [
       "set-designer"
+    ]
+  },
+  {
+    "slug": "yaramir-nizamutdinov",
+    "name": "Yaramir Nizamutdinov",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -78314,6 +78655,13 @@
     "professions": [
       "director",
       "singer"
+    ]
+  },
+  {
+    "slug": "yuri-temirkanov",
+    "name": "Yuri Temirkanov",
+    "professions": [
+      "director"
     ]
   },
   {

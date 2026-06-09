@@ -2295,9 +2295,19 @@
     "name": "Mitarbeit Choreografie"
   },
   {
+    "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/musikalische-leitung-und-arrangement",
+    "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
+    "name": "Musikalische Leitung und Arrangement"
+  },
+  {
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/orchester",
     "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
     "name": "Orchester"
+  },
+  {
+    "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/orchestration",
+    "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
+    "name": "Orchestration"
   },
   {
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/szenische-einrichtung",
@@ -8258,6 +8268,11 @@
     "slug": "engelbert-humperdinck/konigskinder/der-ratsalteste",
     "work_slug": "engelbert-humperdinck/konigskinder",
     "name": "Der Ratsälteste"
+  },
+  {
+    "slug": "engelbert-humperdinck/konigskinder/der-spielmann",
+    "work_slug": "engelbert-humperdinck/konigskinder",
+    "name": "Der Spielmann"
   },
   {
     "slug": "engelbert-humperdinck/konigskinder/der-wirt",
@@ -16330,6 +16345,11 @@
     "name": "ruiz / ein bote"
   },
   {
+    "slug": "giuseppe-verdi/der-troubadour/azucena",
+    "work_slug": "giuseppe-verdi/der-troubadour",
+    "name": "Azucena"
+  },
+  {
     "slug": "giuseppe-verdi/der-troubadour/ferrando",
     "work_slug": "giuseppe-verdi/der-troubadour",
     "name": "Ferrando"
@@ -16953,6 +16973,11 @@
     "slug": "giuseppe-verdi/la-traviata/anthony-clark-evans-dublin-22-24-may",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Anthony Clark Evans (Dublin 22, 24 May)"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/assistant-stage-director",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Assistant Stage Director"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/ballet-couple",
@@ -27870,6 +27895,26 @@
     "name": "Tim"
   },
   {
+    "slug": "mikhail-glinka/a-life-for-the-tsar/antonida",
+    "work_slug": "mikhail-glinka/a-life-for-the-tsar",
+    "name": "Antonida"
+  },
+  {
+    "slug": "mikhail-glinka/a-life-for-the-tsar/bogdan-sobinin",
+    "work_slug": "mikhail-glinka/a-life-for-the-tsar",
+    "name": "Bogdan Sobinin"
+  },
+  {
+    "slug": "mikhail-glinka/a-life-for-the-tsar/ivan-susanin",
+    "work_slug": "mikhail-glinka/a-life-for-the-tsar",
+    "name": "Ivan Susanin"
+  },
+  {
+    "slug": "mikhail-glinka/a-life-for-the-tsar/vanya",
+    "work_slug": "mikhail-glinka/a-life-for-the-tsar",
+    "name": "Vanya"
+  },
+  {
     "slug": "miklos-kocsar/hungarian-christmas/grandpa",
     "work_slug": "miklos-kocsar/hungarian-christmas",
     "name": "Grandpa"
@@ -36040,14 +36085,54 @@
     "name": "Arrangement"
   },
   {
+    "slug": "signaturen/artur",
+    "work_slug": "signaturen",
+    "name": "Artur"
+  },
+  {
     "slug": "signaturen/choreographische-einstudierung",
     "work_slug": "signaturen",
     "name": "Choreographische Einstudierung"
   },
   {
+    "slug": "signaturen/edo",
+    "work_slug": "signaturen",
+    "name": "Edo"
+  },
+  {
+    "slug": "signaturen/ein-mensch",
+    "work_slug": "signaturen",
+    "name": "ein Mensch"
+  },
+  {
+    "slug": "signaturen/floor",
+    "work_slug": "signaturen",
+    "name": "Floor"
+  },
+  {
+    "slug": "signaturen/igone",
+    "work_slug": "signaturen",
+    "name": "Igone"
+  },
+  {
+    "slug": "signaturen/james",
+    "work_slug": "signaturen",
+    "name": "James"
+  },
+  {
+    "slug": "signaturen/jozef",
+    "work_slug": "signaturen",
+    "name": "Jozef"
+  },
+  {
     "slug": "signaturen/klavier",
     "work_slug": "signaturen",
     "name": "Klavier"
+  },
+  {
+    "slug": "signaturen/michaela",
+    "work_slug": "signaturen",
+    "name": "Michaela"
   },
   {
     "slug": "signaturen/musik",
@@ -36060,6 +36145,26 @@
     "name": "Orchester"
   },
   {
+    "slug": "signaturen/sasha",
+    "work_slug": "signaturen",
+    "name": "Sasha"
+  },
+  {
+    "slug": "signaturen/suzanna",
+    "work_slug": "signaturen",
+    "name": "Suzanna"
+  },
+  {
+    "slug": "signaturen/tochter",
+    "work_slug": "signaturen",
+    "name": "Tochter"
+  },
+  {
+    "slug": "signaturen/vito",
+    "work_slug": "signaturen",
+    "name": "Vito"
+  },
+  {
     "slug": "silvester-shy-konzert/dirigent-akkordeon-und-gesang",
     "work_slug": "silvester-shy-konzert",
     "name": "Dirigent, Akkordeon und Gesang"
@@ -36070,9 +36175,24 @@
     "name": "Jazz-Klavier und Gesang"
   },
   {
+    "slug": "sir-arthur-sullivan/the-pirates-of-penzance/assistant-stage-director",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "name": "Assistant Stage Director"
+  },
+  {
+    "slug": "sir-arthur-sullivan/the-pirates-of-penzance/edith",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "name": "Edith"
+  },
+  {
     "slug": "sir-arthur-sullivan/the-pirates-of-penzance/frederic",
     "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
     "name": "Frederic"
+  },
+  {
+    "slug": "sir-arthur-sullivan/the-pirates-of-penzance/kate",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "name": "Kate"
   },
   {
     "slug": "sir-arthur-sullivan/the-pirates-of-penzance/mabel",
@@ -36083,6 +36203,16 @@
     "slug": "sir-arthur-sullivan/the-pirates-of-penzance/ruth",
     "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
     "name": "Ruth"
+  },
+  {
+    "slug": "sir-arthur-sullivan/the-pirates-of-penzance/samuel",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "name": "Samuel"
+  },
+  {
+    "slug": "sir-arthur-sullivan/the-pirates-of-penzance/sergeant-of-police",
+    "work_slug": "sir-arthur-sullivan/the-pirates-of-penzance",
+    "name": "Sergeant of Police"
   },
   {
     "slug": "sir-arthur-sullivan/the-pirates-of-penzance/the-pirate-king",
@@ -36298,6 +36428,11 @@
     "slug": "spyridon-samaras/flora-mirabilis/valdo",
     "work_slug": "spyridon-samaras/flora-mirabilis",
     "name": "Valdo"
+  },
+  {
+    "slug": "staatskapelle-berlin-gastspiel-in-shanghai/klavier-und-musikalische-leitung",
+    "work_slug": "staatskapelle-berlin-gastspiel-in-shanghai",
+    "name": "Klavier und musikalische Leitung"
   },
   {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai/einstudierung-chor",
@@ -38698,6 +38833,111 @@
     "slug": "wolfang-amadeus-mozart/cosi-fan-tutte/tizio",
     "work_slug": "wolfang-amadeus-mozart/cosi-fan-tutte",
     "name": "Tizio"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-dame",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "1. Dame"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-knabe",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "1. Knabe"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-dame",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "2. Dame"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-knabe",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "2. Knabe"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-dame",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "3. Dame"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-knabe",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "3. Knabe"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/chordirektor",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Chordirektor"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/erster-geharnischter",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Erster Geharnischter"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/kinderchorleitung",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Kinderchorleitung"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/konigin-der-nacht",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Königin der Nacht"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/monostatos",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Monostatos"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/orchester",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Orchester"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/pamina",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Pamina"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papagena",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Papagena"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papageno",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Papageno"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sarastro",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Sarastro"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sprecher-priester",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Sprecher / Priester"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/statisterie",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Statisterie"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/tamino",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Tamino"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/video-und-illustration",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Video und Illustration"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/zweiter-geharnischter",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "name": "Zweiter Geharnischter"
   },
   {
     "slug": "wolfgang-amadeus-mozart/bastien-und-bastienne-the-telephone/bastien",

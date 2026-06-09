@@ -63,6 +63,24 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/226742",
+    "work_slug": "daniel-johannes-mayr/nessun-dorma",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/nessun-dorma/226742",
+    "creative_team": [
+      {
+        "person_slug": "daniel-johannes-mayr",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexandra-pape",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/227934",
     "work_slug": "giuseppe-verdi/otello",
     "house_slug": "theater-bonn",
@@ -149,6 +167,15 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/228776",
+    "work_slug": "kehrauskonzert",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/kehrauskonzert/228776",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/232436",
     "work_slug": "oxana-omelchuk/laterna-magica",
     "house_slug": "theater-bonn",
@@ -158,6 +185,24 @@
       {
         "person_slug": "avishay-shalom",
         "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/236585",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/tosca/236585",
+    "creative_team": [
+      {
+        "person_slug": "will-humburg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-gatto",
+        "function": "director"
       }
     ],
     "cast": []

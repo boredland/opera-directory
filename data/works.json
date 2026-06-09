@@ -715,8 +715,18 @@
     "composer_slug": "boris-charmatz-terrain-zu-mozarts-requ"
   },
   {
+    "slug": "brad-carroll/bajazzo-darf-nicht-platzen-lend-me-a-tenor-das-musical",
+    "title": "Bajazzo darf nicht platzen! Lend Me A Tenor - Das Musical",
+    "composer_slug": "brad-carroll"
+  },
+  {
     "slug": "brad-carroll/lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
     "title": "Lend Me A Tenor Bajazzo darf nicht platzen - Das Musical",
+    "composer_slug": "brad-carroll"
+  },
+  {
+    "slug": "brad-carroll/soiree-lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
+    "title": "Soirée Lend Me A Tenor! Bajazzo darf nicht platzen - Das Musical",
     "composer_slug": "brad-carroll"
   },
   {
@@ -1265,6 +1275,11 @@
     "composer_slug": "dmitri-sjostakovitsj"
   },
   {
+    "slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk",
+    "title": "Lady Macbeth of Mtsensk",
+    "composer_slug": "dmitry-shostakovich"
+  },
+  {
     "slug": "dmitry-shostakovich/the-nose",
     "title": "The Nose",
     "composer_slug": "dmitry-shostakovich"
@@ -1318,6 +1333,11 @@
     "slug": "ebbe-und-flut",
     "title": "Ebbe und Flut",
     "composer_slug": ""
+  },
+  {
+    "slug": "eberhard-streul/papageno-spielt-auf-der-zauberflote",
+    "title": "Papageno spielt auf der Zauberflöte",
+    "composer_slug": "eberhard-streul"
   },
   {
     "slug": "echoes-of-baroque/laissez-durer-la-nuit",
@@ -4495,6 +4515,11 @@
     "composer_slug": "nikolai-rimski-korsakow"
   },
   {
+    "slug": "nikolai-rimsky-korsakov/the-golden-cockerel",
+    "title": "The Golden Cockerel",
+    "composer_slug": "nikolai-rimsky-korsakov"
+  },
+  {
     "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
     "title": "The Tsar’s Bride",
     "composer_slug": "nikolai-rimsky-korsakov"
@@ -4503,6 +4528,11 @@
     "slug": "nino-rota/der-florentiner-hut",
     "title": "Der Florentiner Hut",
     "composer_slug": "nino-rota"
+  },
+  {
+    "slug": "offentliche-generalprobe-zum-6-sinfoniekonzert-mahler-6",
+    "title": "Öffentliche Generalprobe zum 6. Sinfoniekonzert/Mahler 6",
+    "composer_slug": ""
   },
   {
     "slug": "offentliche-probe-werther",
@@ -4855,6 +4885,11 @@
     "composer_slug": "pietro-mascagni-ruggero-leoncavallo"
   },
   {
+    "slug": "pietro-mascagni/cavalleria-rusticana",
+    "title": "Cavalleria rusticana",
+    "composer_slug": "pietro-mascagni"
+  },
+  {
     "slug": "pietro-mascagni/cavalleria-rusticana-gianni-schicchi",
     "title": "CAVALLERIA RUSTICANA, GIANNI SCHICCHI",
     "composer_slug": "pietro-mascagni"
@@ -5073,6 +5108,11 @@
     "slug": "rebecca-fritzsche-nazli-saremi/prasentation-club-indigo",
     "title": "Präsentation Club Indigo",
     "composer_slug": "rebecca-fritzsche-nazli-saremi"
+  },
+  {
+    "slug": "resonanzboden",
+    "title": "Resonanzboden",
+    "composer_slug": ""
   },
   {
     "slug": "riccardo-zandonai/romeo-und-julia",
@@ -5405,6 +5445,11 @@
     "composer_slug": "sergei-prokofiev"
   },
   {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "title": "The Love for Three Oranges",
+    "composer_slug": "sergei-prokofiev"
+  },
+  {
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "title": "Die Liebe zu den drei Orangen",
     "composer_slug": "sergei-s-prokofjew"
@@ -5563,6 +5608,11 @@
     "slug": "spyridon-samaras/flora-mirabilis",
     "title": "Flora mirabilis",
     "composer_slug": "spyridon-samaras"
+  },
+  {
+    "slug": "staatskapelle-berlin-gastspiel-in-shanghai",
+    "title": "Staatskapelle Berlin: Gastspiel in Shanghai",
+    "composer_slug": ""
   },
   {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai",
@@ -6113,6 +6163,11 @@
     "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
     "title": "Oper am Klavier II - Zaide",
     "composer_slug": "wolfgang-amade-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "title": "Die Zauberflöte",
+    "composer_slug": "wolfgang-amadeus-mozart-libretto-von-eman"
   },
   {
     "slug": "wolfgang-amadeus-mozart/bastien-und-bastienne-the-telephone",

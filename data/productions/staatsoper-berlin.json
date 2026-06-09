@@ -495,6 +495,10 @@
         "role_slug": "engelbert-humperdinck/konigskinder/der-ratsalteste"
       },
       {
+        "person_slug": "christian-gerhaher",
+        "role_slug": "engelbert-humperdinck/konigskinder/der-spielmann"
+      },
+      {
         "person_slug": "friedrich-hamel",
         "role_slug": "engelbert-humperdinck/konigskinder/der-wirt"
       },
@@ -688,6 +692,10 @@
       {
         "person_slug": "philippe-jordan",
         "function": "conductor"
+      },
+      {
+        "person_slug": "kirsten-dephoff",
+        "function": "costume-designer"
       },
       {
         "person_slug": "vasily-barkhatov",
@@ -1535,6 +1543,20 @@
       {
         "person_slug": "hanseong-yun",
         "role_slug": "camille-saint-saens/samson-et-dalila/zweiter-philister"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-berlin/staatskapelle-berlin-gastspiel-in-shanghai-29972",
+    "work_slug": "staatskapelle-berlin-gastspiel-in-shanghai",
+    "house_slug": "staatsoper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-berlin.de/de/veranstaltungen/staatskapelle-berlin-gastspiel-in-shanghai.29972/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "rudolf-buchbinder",
+        "role_slug": "staatskapelle-berlin-gastspiel-in-shanghai/klavier-und-musikalische-leitung"
       }
     ]
   },

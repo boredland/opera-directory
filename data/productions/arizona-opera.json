@@ -110,6 +110,30 @@
         "role_slug": "giuseppe-verdi/la-traviata/alfredo"
       },
       {
+        "person_slug": "francesca-herrera",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "sydney-roslin",
+        "role_slug": "giuseppe-verdi/la-traviata/assistant-stage-director"
+      },
+      {
+        "person_slug": "jason-edelstein",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "jose-olivares",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "rosario-armas",
+        "role_slug": "giuseppe-verdi/la-traviata/flora"
+      },
+      {
+        "person_slug": "cameron-howard",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
         "person_slug": "richard-ollarsaba",
         "role_slug": "giuseppe-verdi/la-traviata/germont"
       },
@@ -138,8 +162,20 @@
     ],
     "cast": [
       {
+        "person_slug": "sydney-roslin",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/assistant-stage-director"
+      },
+      {
+        "person_slug": "francesca-herrera",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/edith"
+      },
+      {
         "person_slug": "brad-bickhardt",
         "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/frederic"
+      },
+      {
+        "person_slug": "rosario-armas",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/kate"
       },
       {
         "person_slug": "veronique-filloux",
@@ -148,6 +184,14 @@
       {
         "person_slug": "jenni-bank",
         "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/ruth"
+      },
+      {
+        "person_slug": "jason-edelstein",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/samuel"
+      },
+      {
+        "person_slug": "jose-olivares",
+        "role_slug": "sir-arthur-sullivan/the-pirates-of-penzance/sergeant-of-police"
       },
       {
         "person_slug": "craig-irvin",

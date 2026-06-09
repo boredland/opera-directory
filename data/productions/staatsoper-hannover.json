@@ -282,6 +282,10 @@
     ],
     "cast": [
       {
+        "person_slug": "silvia-beltrami",
+        "role_slug": "giuseppe-verdi/der-troubadour/azucena"
+      },
+      {
         "person_slug": "shavleg-armasi",
         "role_slug": "giuseppe-verdi/der-troubadour/ferrando"
       },
@@ -359,10 +363,6 @@
       {
         "person_slug": "cristiana-oliveira",
         "role_slug": "giuseppe-verdi/der-troubadour/leonora"
-      },
-      {
-        "person_slug": "joseph-dahdah",
-        "role_slug": "giuseppe-verdi/der-troubadour/manrico"
       }
     ]
   },
@@ -618,10 +618,6 @@
       {
         "person_slug": "shavleg-armasi",
         "role_slug": "richard-wagner/lohengrin/heinrich-der-vogler-deutscher-konig"
-      },
-      {
-        "person_slug": "ewa-vesin",
-        "role_slug": "richard-wagner/lohengrin/ortrud-seine-gemahlin"
       }
     ]
   },
@@ -748,10 +744,6 @@
       {
         "person_slug": "peter-schone",
         "role_slug": "pascal-dusapin/il-viaggio-dante/dante"
-      },
-      {
-        "person_slug": "christel-loetzsch",
-        "role_slug": "pascal-dusapin/il-viaggio-dante/der-junge-dante"
       },
       {
         "person_slug": "olga-jelinkova",
@@ -1050,10 +1042,6 @@
       {
         "person_slug": "philipp-grigorian",
         "function": "set-designer"
-      },
-      {
-        "person_slug": "paul-veritas-pillong",
-        "function": "video-designer"
       }
     ],
     "cast": [
