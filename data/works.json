@@ -425,6 +425,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "aristophanes/lysistrata",
+    "title": "Lysistrata",
+    "composer_slug": "aristophanes"
+  },
+  {
     "slug": "arnold-schonberg-frank-martin/warten-auf-heute",
     "title": "Warten auf heute",
     "composer_slug": "arnold-schonberg-frank-martin"
@@ -715,6 +720,11 @@
     "composer_slug": "boris-charmatz-terrain-zu-mozarts-requ"
   },
   {
+    "slug": "brad-carroll/bajazzo-darf-nicht-platzen-lend-me-a-tenor",
+    "title": "Bajazzo darf nicht platzen! ( Lend Me A Tenor)",
+    "composer_slug": "brad-carroll"
+  },
+  {
     "slug": "brad-carroll/bajazzo-darf-nicht-platzen-lend-me-a-tenor-das-musical",
     "title": "Bajazzo darf nicht platzen! Lend Me A Tenor - Das Musical",
     "composer_slug": "brad-carroll"
@@ -722,6 +732,11 @@
   {
     "slug": "brad-carroll/lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
     "title": "Lend Me A Tenor Bajazzo darf nicht platzen - Das Musical",
+    "composer_slug": "brad-carroll"
+  },
+  {
+    "slug": "brad-carroll/soiree-bajazzo-darf-nicht-platzen-lend-me-a-tenor",
+    "title": "Soirée Bajazzo darf nicht platzen! (Lend Me A Tenor)",
     "composer_slug": "brad-carroll"
   },
   {
@@ -848,6 +863,11 @@
     "slug": "carlisle-floyd/susannah",
     "title": "Susannah",
     "composer_slug": "carlisle-floyd"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren",
+    "title": "Der Diener zweier Herren",
+    "composer_slug": "carlo-goldoni"
   },
   {
     "slug": "cassie-kinoshi/the-monster-trilogy",
@@ -1247,6 +1267,11 @@
   {
     "slug": "die-mowe",
     "title": "Die Möwe",
+    "composer_slug": ""
+  },
+  {
+    "slug": "die-verkaufte-braut",
+    "title": "Die verkaufte Braut",
     "composer_slug": ""
   },
   {
@@ -2175,6 +2200,11 @@
     "composer_slug": "georg-friedrich-handel"
   },
   {
+    "slug": "georg-friedrich-handel/orest",
+    "title": "Orest",
+    "composer_slug": "georg-friedrich-handel"
+  },
+  {
     "slug": "georg-friedrich-handel/oreste",
     "title": "Oreste",
     "composer_slug": "georg-friedrich-handel"
@@ -2298,6 +2328,11 @@
     "slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
     "title": "Suor Angelica",
     "composer_slug": "giacomo-puccini-aus-il-trittico"
+  },
+  {
+    "slug": "giacomo-puccini-aus-raquo/suor-angelica",
+    "title": "Suor Angelica",
+    "composer_slug": "giacomo-puccini-aus-raquo"
   },
   {
     "slug": "giacomo-puccini-d/la-boheme",
@@ -3777,6 +3812,11 @@
   {
     "slug": "laura-kaminsky/lucidity",
     "title": "Lucidity",
+    "composer_slug": "laura-kaminsky"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea",
+    "title": "Lucidity (EEA)",
     "composer_slug": "laura-kaminsky"
   },
   {
@@ -5470,6 +5510,11 @@
     "composer_slug": "sevilla-deutsches-nationaltheater"
   },
   {
+    "slug": "sevilla-div-clas/spielfreude-x-barbiere",
+    "title": "Spielfreude x Barbiere",
+    "composer_slug": "sevilla-div-clas"
+  },
+  {
     "slug": "sevilla-von-gioacchino-rossini/il-barbiere-di-siviglia",
     "title": "Il barbiere di Siviglia",
     "composer_slug": "sevilla-von-gioacchino-rossini"
@@ -5603,6 +5648,11 @@
     "slug": "spielen/offener-theatertreff-8-bis-21-jahre",
     "title": "Offener Theatertreff (8 bis 21 Jahre)",
     "composer_slug": "spielen"
+  },
+  {
+    "slug": "spielplanvorstellung",
+    "title": "Spielplanvorstellung",
+    "composer_slug": ""
   },
   {
     "slug": "spyridon-samaras/flora-mirabilis",
@@ -5780,6 +5830,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "theaterworkshop-hoffmanns-erzahlungen",
+    "title": "Theaterworkshop Hoffmanns Erzählungen",
+    "composer_slug": ""
+  },
+  {
     "slug": "thierry-tidrow-di/nils-karlsson-daumling",
     "title": "Nils Karlsson Däumling",
     "composer_slug": "thierry-tidrow-di"
@@ -5893,6 +5948,11 @@
     "slug": "tyshawn-sorey/perle-noire-meditations-pour-josephine",
     "title": "Perle noire : méditations pour Joséphine",
     "composer_slug": "tyshawn-sorey"
+  },
+  {
+    "slug": "u25-preview",
+    "title": "U25-Preview",
+    "composer_slug": ""
   },
   {
     "slug": "uber-liebe-und-hass",
@@ -6090,6 +6150,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "weihnachtskonzert-2026",
+    "title": "Weihnachtskonzert 2026",
+    "composer_slug": ""
+  },
+  {
     "slug": "weihnachtskonzert-opernfreunde",
     "title": "Weihnachtskonzert Opernfreunde",
     "composer_slug": ""
@@ -6107,6 +6172,11 @@
   {
     "slug": "werkstatt-der-kreativitat-xvii",
     "title": "Werkstatt der Kreativität XVII",
+    "composer_slug": ""
+  },
+  {
+    "slug": "werkstatt-talk",
+    "title": "Werkstatt-Talk",
     "composer_slug": ""
   },
   {
@@ -6147,6 +6217,11 @@
   {
     "slug": "william-shakespeare/hamlet",
     "title": "Hamlet",
+    "composer_slug": "william-shakespeare"
+  },
+  {
+    "slug": "william-shakespeare/romeo-und-julia",
+    "title": "Romeo und Julia",
     "composer_slug": "william-shakespeare"
   },
   {
@@ -6323,6 +6398,11 @@
     "slug": "wolfgang-amadeus-mozart/zaide",
     "title": "Zaide",
     "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-bauer/magic-afternoon-asche",
+    "title": "Magic Afternoon / Asche",
+    "composer_slug": "wolfgang-bauer"
   },
   {
     "slug": "wolfgang-bohmer/offene-probe-des-musiktheaters",

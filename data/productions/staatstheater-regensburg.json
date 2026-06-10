@@ -605,6 +605,57 @@
     "cast": []
   },
   {
+    "id": "staatstheater-regensburg/lucidity",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "house_slug": "staatstheater-regensburg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-regensburg.de/produktionen/lucidity.html",
+    "creative_team": [
+      {
+        "person_slug": "tom-woods",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sebastian-ritschel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronny-scholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "david-herzog",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "kristopher-kempf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "davide-piva",
+        "role_slug": "laura-kaminsky/lucidity-eea/dante"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "laura-kaminsky/lucidity-eea/dr-claire-klugman"
+      },
+      {
+        "person_slug": "renate-behle",
+        "role_slug": "laura-kaminsky/lucidity-eea/lili"
+      },
+      {
+        "person_slug": "tomas-stitilis",
+        "role_slug": "laura-kaminsky/lucidity-eea/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "scarlett-pulwey",
+        "role_slug": "laura-kaminsky/lucidity-eea/sunny"
+      }
+    ]
+  },
+  {
     "id": "staatstheater-regensburg/next-to-normal",
     "work_slug": "tom-kitt-buch/next-to-normal",
     "house_slug": "staatstheater-regensburg",

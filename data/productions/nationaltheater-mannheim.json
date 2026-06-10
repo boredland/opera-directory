@@ -6021,7 +6021,20 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/mozart-schwarzenegger-hitler/4248/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "thomas-moked-blum",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/musik"
+      },
+      {
+        "person_slug": "isabella-sedlak",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/regie-und-konzept"
+      },
+      {
+        "person_slug": "vidina-popov",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/schauspiel"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/mozart-schwarzenegger-hitler-4249",
@@ -6030,7 +6043,20 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/mozart-schwarzenegger-hitler/4249/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "thomas-moked-blum",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/musik"
+      },
+      {
+        "person_slug": "isabella-sedlak",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/regie-und-konzept"
+      },
+      {
+        "person_slug": "vidina-popov",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/schauspiel"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/mozart-schwarzenegger-hitler-4250",
@@ -6039,7 +6065,20 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/mozart-schwarzenegger-hitler/4250/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "thomas-moked-blum",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/musik"
+      },
+      {
+        "person_slug": "isabella-sedlak",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/regie-und-konzept"
+      },
+      {
+        "person_slug": "vidina-popov",
+        "role_slug": "isabella-sedlak/mozart-schwarzenegger-hitler/schauspiel"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/mr-808-4227",
@@ -6807,7 +6846,40 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/sitzkissenkonzert-7045/4208/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "rahel-weiss",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/erzahlerin"
+      },
+      {
+        "person_slug": "jessica-salzmann",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/kunst-vermittlung"
+      },
+      {
+        "person_slug": "naomi-schmidt",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/musikalische-leitung-am-klavier"
+      },
+      {
+        "person_slug": "mitglieder-des-nto",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/orchester"
+      },
+      {
+        "person_slug": "yejy-nam",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/pamina"
+      },
+      {
+        "person_slug": "priya-pariyachart",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papagena"
+      },
+      {
+        "person_slug": "zacharias-galaviz-guerra",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papageno"
+      },
+      {
+        "person_slug": "dominic-lee",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/tamino"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/sitzkissenkonzert-7045-4209",
@@ -6816,7 +6888,40 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/sitzkissenkonzert-7045/4209/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "rahel-weiss",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/erzahlerin"
+      },
+      {
+        "person_slug": "jessica-salzmann",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/kunst-vermittlung"
+      },
+      {
+        "person_slug": "naomi-schmidt",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/musikalische-leitung-am-klavier"
+      },
+      {
+        "person_slug": "mitglieder-des-nto",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/orchester"
+      },
+      {
+        "person_slug": "yejy-nam",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/pamina"
+      },
+      {
+        "person_slug": "priya-pariyachart",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papagena"
+      },
+      {
+        "person_slug": "zacharias-galaviz-guerra",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papageno"
+      },
+      {
+        "person_slug": "dominic-lee",
+        "role_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/tamino"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/slime-studies-ein-gemaelde-entsteht-4393",

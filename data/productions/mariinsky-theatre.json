@@ -5,7 +5,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "1998-12-30",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/20/2_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/20/2_2000/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/aida/aida_mt2018.jpg",
     "synopsis": "Act I Scene 1. At the Pharaoh&rsquo;s palace at Memphis news arrives of an impending invasion by the Ethiopians. The High Priest Ramfis prays to Isis, the protectress of Egypt, to reveal the name of a military commander who can win the battle. Radames, head of the palace guard, dreams of being chosen by Isis and that if he heads the army he will be victorious and as a reward demand the freedom of his beloved – Aida, one of the Pharaoh&rsquo;s slaves. Amneris, the Pharaoh&rsquo;s daughter, is secretly in love with Radames. Seeing the young man looking deeply troubled, Amneris begins to guess at his love for the slave girl. Aida&rsquo;s confusion serves to increase her suspicions. Scene 2. A hall in the Pharaoh&rsquo;s palace. A messenger arrives with troubling news: the Ethiopians, headed by Amonasro their King, have entered Egypt. The will of the gods is revealed to the Pharaoh: the Egyptian forces will be led by Radames. He receives a blessing for victory. Scene 3. Aida is in despair. Her soul is consumed by a torturous battle between her love for Radames and fear of her father, King Amonasro. Scene 4. A temple in Memphis. A grand ceremony for Radames&rsquo; dedication is underway. The High Priest Ramfis presents him with a sacred sword and asks the gods to grant the Egyptian army victory. Act II Scene 5. Amneris&rsquo; chambers. She awaits the return of Radames who has been victorious over the Ethiopians. Whatever the cost, Amneris wants to know the truth about Aida&rsquo;s feelings. She tells the slave girl that Radames has been killed. Aida is unable to hide her grief. He is, however, alive, and Aida loves him – now Amneris knows it and demands that the slave girl renounce her love. Scene 6. On a square in Thebes everything is ready to greet the victors. Captive Ethiopians, among them Amonasro, are paraded before the Pharaoh. His daughter rushes to him, but he warns her not to reveal his name and title. To remove all suspicion he claims he is a military commande",
     "creative_team": [
@@ -142,7 +142,7 @@
         "role_slug": "giuseppe-verdi/simon-boccanegra/paolo-albiani"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "oleg-sychov",
         "role_slug": "giuseppe-verdi/simon-boccanegra/pietro"
       },
       {
@@ -1095,6 +1095,42 @@
     "cast": []
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-nabucco-2023",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "mariinsky-theatre",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/21/2_1300/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/Nabucco_2023/nabucco_banner.jpg",
+    "synopsis": "Act I: Jerusalem The Jews are praying that the Assyrian hordes who have laid siege to Jerusalem will be scattered and that the Throne of David will be freed of the impious. The high priest Zaccaria tells of hopes for their deliverance – the Jews have taken Fenena, Nabucco&acute;s youngest daughter, and she will act as a powerful bargaining weapon in the talks with the King of Babylon. The commander Ismaele brings news that Nabucco has launched an attack. Zaccaria wishes to entrust Ismaele with guarding Fenena, but it turns out that the young people are in love with each other… Ismaele swears he will free his beloved. Babylonian warriors burst in, headed by Abigaille, Nabucco&acute;s eldest daughter who is also in love with Ismaele… Abigaille proclaims Nabucco&acute;s glory. Finally the King of Babylon himself enters. Fenena rushes to her father then to Ismaele, but Zaccaria manages to catch her and raises his dagger over her. Nabucco tries to gain time, while Abigaille hopes that now her sister and rival will die. Suddenly Ismaele snatches the dagger from Zaccaria and frees Fenena. Defeated, the Jews are overpowered by the Assyrians; they curse Ismaele. Act II: The Impious One Once again Nabucco departs with his warriors for Judea, leaving Fenena on the throne. Meanwhile Abigaille has managed to obtain and destroy a document which states that in fact she is not Nabucco&acute;s daughter but the daughter of slaves. The high priest of Baal informs her that Fenena has freed the captive Jews and that conspirators have already spread news of Nabucco&acute;s death in order to proclaim Abigaille queen. Zaccaria proclaims a new miracle of the God of Israel – Fenena, daughter of the King of Babylon, has adopted the Jewish faith. Once again the Levites curse Ismaele, but Anna tells them that Fenena, whom he saved, is from now on one of them, and so Ismaele is pardoned. Abdallo tells of the death of Nabucco and implores Fenena to flee, but she has no intention of surrendering t",
+    "creative_team": [
+      {
+        "person_slug": "maria-korablyova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anna-shishkina",
+        "function": "director"
+      },
+      {
+        "person_slug": "anton-nikolaev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pyotr-okunev",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vadim-dulenko",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-nos",
     "work_slug": "dmitry-shostakovich/the-nose",
     "house_slug": "mariinsky-theatre",
@@ -1179,7 +1215,7 @@
     "premiere_date": "1887-11-26",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/15/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/otello2022_smirnov/otello_gerzmava_by_razina.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/otello2022_smirnov/otello_mavlyanov_by_razina.jpg",
     "creative_team": [
       {
         "person_slug": "konstantin-rylov",
@@ -1228,7 +1264,7 @@
         "role_slug": "giuseppe-verdi/otello/lodovico"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "nazhmiddin-mavlyanov",
         "role_slug": "giuseppe-verdi/otello/otello"
       }
     ]
@@ -1324,6 +1360,43 @@
       {
         "person_slug": "alexander-orlov",
         "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2005-05-06",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/20/2_1200/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/rigoletto/rigoleto_banner1.png",
+    "synopsis": "The action takes place in Mantua and its environs in the 16 th century. Act I A ball is underway in a magnificent hall at the Duke's palace. The corrupt ruler boasts of his love conquests to the courtier Borsa: soon he will seduce the beautiful stranger whom he meets at church. At the ball, the Duke also begins to flatter the Countess Ceprano. His jester Rigoletto makes fun of the Countess' husband. The courtiers plan to take revenge on the jester for his sharp tongue; one of them, Marullo, says that Rigoletto has set up home with a lover. Unexpectedly Count Monterone appears, having come to defend his daughter's tainted honour. But the hunchback's jokes shower no mercy on him. Monterone curses both the Duke and his servant. On the way home, in a dark street Rigoletto meets Sparafucile, a hired assassin who offers him his services. Thoughts of the curse give the jester no peace. He thinks about his own contemptible position, and this makes his blood boil with even more hatred to the courtiers. At home, Rigoletto greets his daughter, his only joy in life since his wife's death. They talk together companionably. Guarded from the world by the care and fear of her father, the young Gilda lives alone under the watchful eye of the servant Giovanna, together with whom she only leaves the house to go to church. As he departs, Rigoletto orders Giovanna to watch more carefully over the girl. The Duke observes them from his concealed position. He bribes the servant to keep her quiet. Calling himself Gualtier Maldè, a poor student, the Duke declares his love for Gilda. Their meeting is interrupted by a disturbance on the street and the Duke must flee. Left alone, the girl repeats the name of her unknown admirer. Courtiers in disguise arrive at Rigoletto's house in order to abduct Gilda. On encountering the jester, the plotters convince him that they wish to abduct Count Ceprano's wife. Rigoletto falls for the bait and helps them abduct his own daughter. Gilda's cries are heard ",
+    "creative_team": [
+      {
+        "person_slug": "alexandra-tikhomirova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gianandrea-noseda",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giovanna-avanzi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "irkin-gabitov",
+        "function": "director"
+      },
+      {
+        "person_slug": "damir-ismagilov",
+        "function": "lighting"
       }
     ],
     "cast": []

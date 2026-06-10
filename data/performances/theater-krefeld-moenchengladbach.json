@@ -89,6 +89,15 @@
     "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=1926"
   },
   {
+    "id": "theater-krefeld-moenchengladbach/der-bajazzo/2027-01-20/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/der-bajazzo",
+    "date": "2027-01-20",
+    "time": "18:45",
+    "venue_room": "Theater KR – Glasfoyer",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2764"
+  },
+  {
     "id": "theater-krefeld-moenchengladbach/der-bajazzo/2027-01-24/18:00",
     "production_id": "theater-krefeld-moenchengladbach/der-bajazzo",
     "date": "2027-01-24",
@@ -150,6 +159,15 @@
     "venue_room": "Theater Krefeld – Große Bühne",
     "status": "scheduled",
     "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2281"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti/2027-04-29/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti",
+    "date": "2027-04-29",
+    "time": "18:45",
+    "venue_room": "Theater MG – Theaterbar",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2766"
   },
   {
     "id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti/2027-05-02/18:00",
@@ -231,6 +249,15 @@
     "venue_room": "Theater Krefeld – Große Bühne",
     "status": "scheduled",
     "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=1658"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/la-boheme/2026-11-11/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/la-boheme",
+    "date": "2026-11-11",
+    "time": "18:45",
+    "venue_room": "Theater MG – Theaterbar",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2763"
   },
   {
     "id": "theater-krefeld-moenchengladbach/la-boheme/2026-11-14/19:30",
@@ -366,6 +393,15 @@
     "venue_room": "Theater Krefeld – Große Bühne",
     "status": "scheduled",
     "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2296"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/romeo-und-julia/2026-10-08/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/romeo-und-julia",
+    "date": "2026-10-08",
+    "time": "18:45",
+    "venue_room": "Theater MG – Theaterbar",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2761"
   },
   {
     "id": "theater-krefeld-moenchengladbach/romeo-und-julia/2026-10-11/19:30",

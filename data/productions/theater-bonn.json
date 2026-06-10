@@ -208,6 +208,24 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/236848",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/tosca/236848",
+    "creative_team": [
+      {
+        "person_slug": "will-humburg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-gatto",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/241629",
     "work_slug": "martin-tzonev/stadtteilkonzert",
     "house_slug": "theater-bonn",

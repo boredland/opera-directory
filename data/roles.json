@@ -5130,9 +5130,19 @@
     "name": "Golaud"
   },
   {
+    "slug": "claude-debussy/pelleas-et-melisande/la-berger",
+    "work_slug": "claude-debussy/pelleas-et-melisande",
+    "name": "la berger"
+  },
+  {
     "slug": "claude-debussy/pelleas-et-melisande/le-berger",
     "work_slug": "claude-debussy/pelleas-et-melisande",
     "name": "Le Berger"
+  },
+  {
+    "slug": "claude-debussy/pelleas-et-melisande/le-medecin",
+    "work_slug": "claude-debussy/pelleas-et-melisande",
+    "name": "le medecin"
   },
   {
     "slug": "claude-debussy/pelleas-et-melisande/le-petite-yniold",
@@ -5385,6 +5395,11 @@
     "name": "Apollo / 4. Spirito"
   },
   {
+    "slug": "claudio-monteverdi/l-orfeo/apollo-pastore-1-spirito-2-spirito-3",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Apollo / Pastore 1 / Spirito 2 / Spirito 3"
+  },
+  {
     "slug": "claudio-monteverdi/l-orfeo/botin-proserpina",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Botin / Proserpina"
@@ -5398,6 +5413,11 @@
     "slug": "claudio-monteverdi/l-orfeo/caronte-4-pastore-3-spirito",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Caronte / 4. Pastore / 3. Spirito"
+  },
+  {
+    "slug": "claudio-monteverdi/l-orfeo/caronte-plutone",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Caronte / Plutone"
   },
   {
     "slug": "claudio-monteverdi/l-orfeo/chordirektor",
@@ -5425,6 +5445,11 @@
     "name": "Euridice / Eco"
   },
   {
+    "slug": "claudio-monteverdi/l-orfeo/la-musica",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "La musica"
+  },
+  {
     "slug": "claudio-monteverdi/l-orfeo/la-musica-eyridice",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "La musica / Eyridice"
@@ -5438,6 +5463,11 @@
     "slug": "claudio-monteverdi/l-orfeo/messaggiera",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Messaggiera"
+  },
+  {
+    "slug": "claudio-monteverdi/l-orfeo/messaggiera-speranza",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Messaggiera / Speranza"
   },
   {
     "slug": "claudio-monteverdi/l-orfeo/messagiera-proserpina",
@@ -5460,6 +5490,11 @@
     "name": "Orfeo"
   },
   {
+    "slug": "claudio-monteverdi/l-orfeo/pastore-2-spirito-1",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Pastore 2 / Spirito 1"
+  },
+  {
     "slug": "claudio-monteverdi/l-orfeo/pastore-i-spirito",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Pastore I / Spirito"
@@ -5473,6 +5508,11 @@
     "slug": "claudio-monteverdi/l-orfeo/plutone",
     "work_slug": "claudio-monteverdi/l-orfeo",
     "name": "Plutone"
+  },
+  {
+    "slug": "claudio-monteverdi/l-orfeo/proserpina",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "name": "Proserpina"
   },
   {
     "slug": "claudio-monteverdi/l-orfeo/proserpina-1-pastore",
@@ -6280,6 +6320,11 @@
     "name": "Orchester"
   },
   {
+    "slug": "die-kleine-zauberflote/1-dame",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "1. Dame"
+  },
+  {
     "slug": "die-kleine-zauberflote/2-dame",
     "work_slug": "die-kleine-zauberflote",
     "name": "2. Dame"
@@ -6288,6 +6333,11 @@
     "slug": "die-kleine-zauberflote/3-dame",
     "work_slug": "die-kleine-zauberflote",
     "name": "3. Dame"
+  },
+  {
+    "slug": "die-kleine-zauberflote/konigin-der-nacht",
+    "work_slug": "die-kleine-zauberflote",
+    "name": "Königin der Nacht"
   },
   {
     "slug": "die-kleine-zauberflote/monostatos",
@@ -6423,6 +6473,41 @@
     "slug": "die-mowe/orchester",
     "work_slug": "die-mowe",
     "name": "Orchester"
+  },
+  {
+    "slug": "die-verkaufte-braut/esmeralda-komodiantin",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Esmeralda, Komödiantin"
+  },
+  {
+    "slug": "die-verkaufte-braut/hata-seine-frau",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Háta, seine Frau"
+  },
+  {
+    "slug": "die-verkaufte-braut/jenik-michas-sohn-aus-erster-ehe",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Jeník, Míchas Sohn aus erster Ehe"
+  },
+  {
+    "slug": "die-verkaufte-braut/kecal-heiratsvermittler",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Kecal, Heiratsvermittler"
+  },
+  {
+    "slug": "die-verkaufte-braut/krusina-ein-bauer",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Krušina, ein Bauer"
+  },
+  {
+    "slug": "die-verkaufte-braut/marenka-beider-tochter",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Mařenka, beider Tochter"
+  },
+  {
+    "slug": "die-verkaufte-braut/vasek-beider-sohn",
+    "work_slug": "die-verkaufte-braut",
+    "name": "Vašek, beider Sohn"
   },
   {
     "slug": "dmitri-schostakowitsch/lady-macbeth-von-mzensk/aksinja",
@@ -10140,6 +10225,26 @@
     "name": "Jamie / Lord Boxington"
   },
   {
+    "slug": "frederick-loewe/my-fair-lady/lady-boxington",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Lady Boxington"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/lord-boxington",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Lord Boxington"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/madchen-1",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Mädchen 1"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/madchen-2",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Mädchen 2"
+  },
+  {
     "slug": "frederick-loewe/my-fair-lady/mrs-eynsford-hill",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Mrs. Eynsford-Hill"
@@ -10198,6 +10303,11 @@
     "slug": "frederick-loewe/my-fair-lady/vierter-obsthandler",
     "work_slug": "frederick-loewe/my-fair-lady",
     "name": "Vierter Obsthändler"
+  },
+  {
+    "slug": "frederick-loewe/my-fair-lady/wirt",
+    "work_slug": "frederick-loewe/my-fair-lady",
+    "name": "Wirt"
   },
   {
     "slug": "frederick-loewe/my-fair-lady/zweiter-obsthandler",
@@ -11435,6 +11545,51 @@
     "name": "Tolomeo"
   },
   {
+    "slug": "georg-friedrich-handel/orest/gitarre",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Gitarre"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/hermione",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Hermione"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/iphigenie",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Iphigenie"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/komposition",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Komposition"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/orchester",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Orchester"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/orest",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Orest"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/pylades",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Pylades"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/statisterie",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Statisterie"
+  },
+  {
+    "slug": "georg-friedrich-handel/orest/thoas",
+    "work_slug": "georg-friedrich-handel/orest",
+    "name": "Thoas"
+  },
+  {
     "slug": "georg-friedrich-handel/ottone/adelberto",
     "work_slug": "georg-friedrich-handel/ottone",
     "name": "Adelberto"
@@ -12267,6 +12422,11 @@
   {
     "slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa",
     "work_slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
+    "name": "Suor Genovieffa"
+  },
+  {
+    "slug": "giacomo-puccini-aus-raquo/suor-angelica/suor-genovieffa",
+    "work_slug": "giacomo-puccini-aus-raquo/suor-angelica",
     "name": "Suor Genovieffa"
   },
   {
@@ -20435,6 +20595,21 @@
     "name": "Tenor"
   },
   {
+    "slug": "isabella-sedlak/mozart-schwarzenegger-hitler/musik",
+    "work_slug": "isabella-sedlak/mozart-schwarzenegger-hitler",
+    "name": "Musik"
+  },
+  {
+    "slug": "isabella-sedlak/mozart-schwarzenegger-hitler/regie-und-konzept",
+    "work_slug": "isabella-sedlak/mozart-schwarzenegger-hitler",
+    "name": "Regie und Konzept"
+  },
+  {
+    "slug": "isabella-sedlak/mozart-schwarzenegger-hitler/schauspiel",
+    "work_slug": "isabella-sedlak/mozart-schwarzenegger-hitler",
+    "name": "Schauspiel"
+  },
+  {
     "slug": "isabelle-aboulker/les-enfants-du-levant/augustine-bremond-docteur-grimaldi-la-comtesse-de-pourtales",
     "work_slug": "isabelle-aboulker/les-enfants-du-levant",
     "name": "Augustine Brémond / Docteur Grimaldi / La Comtesse de Pourtalès"
@@ -24938,6 +25113,31 @@
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one/hannah-younger",
     "work_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
     "name": "Hannah Younger"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea/dante",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "name": "Dante"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea/dr-claire-klugman",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "name": "Dr. Claire Klugman"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea/lili",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "name": "Lili"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea/regieassistenz-abendspielleitung",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "name": "Regieassistenz & Abendspielleitung"
+  },
+  {
+    "slug": "laura-kaminsky/lucidity-eea/sunny",
+    "work_slug": "laura-kaminsky/lucidity-eea",
+    "name": "Sunny"
   },
   {
     "slug": "laura-kaminsky/lucidity/dante",
@@ -32815,6 +33015,11 @@
     "name": "Fourth maid"
   },
   {
+    "slug": "richard-strauss/elektra/funfte-magd",
+    "work_slug": "richard-strauss/elektra",
+    "name": "Fünfte Magd"
+  },
+  {
     "slug": "richard-strauss/elektra/her-confidante",
     "work_slug": "richard-strauss/elektra",
     "name": "Her confidante"
@@ -36220,6 +36425,46 @@
     "name": "The Pirate King"
   },
   {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/erzahlerin",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Erzählerin"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/kunst-vermittlung",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Kunst & Vermittlung"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/musikalische-leitung-am-klavier",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Musikalische Leitung am Klavier"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/orchester",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Orchester"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/pamina",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Pamina"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papagena",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Papagena"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/papageno",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Papageno"
+  },
+  {
+    "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg/tamino",
+    "work_slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
+    "name": "Tamino"
+  },
+  {
     "slug": "slavo-solovic/mouflon-ancijas/bear-bat-theatre",
     "work_slug": "slavo-solovic/mouflon-ancijas",
     "name": "Bear / Bat / Theatre"
@@ -37183,6 +37428,11 @@
     "slug": "thomas-ades/the-exterminating-angel/colonel-alvaro-gomez",
     "work_slug": "thomas-ades/the-exterminating-angel",
     "name": "Colonel Álvaro Gómez"
+  },
+  {
+    "slug": "thomas-ades/the-exterminating-angel/doctor-carlos-conde",
+    "work_slug": "thomas-ades/the-exterminating-angel",
+    "name": "Doctor Carlos Conde"
   },
   {
     "slug": "thomas-ades/the-exterminating-angel/edmundo-de-nobile",
@@ -40080,9 +40330,19 @@
     "name": "Contessa Almaviva"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "name": "Count"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count-almaviva",
     "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
     "name": "Count Almaviva"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "name": "Countess"
   },
   {
     "slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess-almaviva",

@@ -333,6 +333,69 @@
     ]
   },
   {
+    "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-45800",
+    "work_slug": "georg-friedrich-handel/orest",
+    "house_slug": "tiroler-landestheater-innsbruck",
+    "is_revival": false,
+    "detail_url": "https://www.landestheater.at/produktionen/orest",
+    "creative_team": [
+      {
+        "person_slug": "rafael-salas-chia",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mirella-weingarten",
+        "function": "director"
+      },
+      {
+        "person_slug": "sonja-honold",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "mirella-weingarten",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "robert-pockfu",
+        "role_slug": "georg-friedrich-handel/orest/gitarre"
+      },
+      {
+        "person_slug": "annina-wachter",
+        "role_slug": "georg-friedrich-handel/orest/hermione"
+      },
+      {
+        "person_slug": "anastasia-lerman",
+        "role_slug": "georg-friedrich-handel/orest/iphigenie"
+      },
+      {
+        "person_slug": "albrecht-ziepert",
+        "role_slug": "georg-friedrich-handel/orest/komposition"
+      },
+      {
+        "person_slug": "tenm-tiroler-ensemble-f-neue-musik",
+        "role_slug": "georg-friedrich-handel/orest/orchester"
+      },
+      {
+        "person_slug": "georg-a-bochow",
+        "role_slug": "georg-friedrich-handel/orest/orest"
+      },
+      {
+        "person_slug": "jason-lee",
+        "role_slug": "georg-friedrich-handel/orest/pylades"
+      },
+      {
+        "person_slug": "statisterie-des-tiroler-landestheaters",
+        "role_slug": "georg-friedrich-handel/orest/statisterie"
+      },
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "georg-friedrich-handel/orest/thoas"
+      }
+    ]
+  },
+  {
     "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-46008",
     "work_slug": "jules-massenet/don-quichotte",
     "house_slug": "tiroler-landestheater-innsbruck",

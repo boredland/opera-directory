@@ -17,12 +17,20 @@
     ],
     "cast": [
       {
+        "person_slug": "danita-weatherstone",
+        "role_slug": "die-kleine-zauberflote/1-dame"
+      },
+      {
         "person_slug": "janja-vuletic",
         "role_slug": "die-kleine-zauberflote/2-dame"
       },
       {
         "person_slug": "vanessa-lisette-lopez-gallegos",
         "role_slug": "die-kleine-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "silja-schindler",
+        "role_slug": "die-kleine-zauberflote/konigin-der-nacht"
       },
       {
         "person_slug": "derek-rue",
@@ -51,6 +59,222 @@
     ]
   },
   {
+    "id": "theater-trier/die-verkaufte-braut",
+    "work_slug": "die-verkaufte-braut",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/die-verkaufte-braut.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "wouter-padberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ryan-mcbryde",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-kuhn",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "die-verkaufte-braut/esmeralda-komodiantin"
+      },
+      {
+        "person_slug": "janja-vuletic",
+        "role_slug": "die-verkaufte-braut/hata-seine-frau"
+      },
+      {
+        "person_slug": "gustavo-eda",
+        "role_slug": "die-verkaufte-braut/jenik-michas-sohn-aus-erster-ehe"
+      },
+      {
+        "person_slug": "karsten-schroter",
+        "role_slug": "die-verkaufte-braut/kecal-heiratsvermittler"
+      },
+      {
+        "person_slug": "yuriy-hadzetskyy",
+        "role_slug": "die-verkaufte-braut/krusina-ein-bauer"
+      },
+      {
+        "person_slug": "danita-weatherstone",
+        "role_slug": "die-verkaufte-braut/marenka-beider-tochter"
+      },
+      {
+        "person_slug": "derek-rue",
+        "role_slug": "die-verkaufte-braut/vasek-beider-sohn"
+      }
+    ]
+  },
+  {
+    "id": "theater-trier/elektra",
+    "work_slug": "richard-strauss/elektra",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/elektra.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "gmd-jochem-hochstenbach",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "malte-kuhn",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "derek-rue",
+        "role_slug": "richard-strauss/elektra/aegisth"
+      },
+      {
+        "person_slug": "danita-weatherstone",
+        "role_slug": "richard-strauss/elektra/chrysothemis"
+      },
+      {
+        "person_slug": "karsten-schroter",
+        "role_slug": "richard-strauss/elektra/der-pfleger-des-orest"
+      },
+      {
+        "person_slug": "silja-schindler",
+        "role_slug": "richard-strauss/elektra/die-aufseherin"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "richard-strauss/elektra/die-schlepptragerin"
+      },
+      {
+        "person_slug": "daniela-kohler",
+        "role_slug": "richard-strauss/elektra/elektra"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "richard-strauss/elektra/funfte-magd"
+      },
+      {
+        "person_slug": "janja-vuletic",
+        "role_slug": "richard-strauss/elektra/klytamnestra"
+      },
+      {
+        "person_slug": "carl-rumstadt",
+        "role_slug": "richard-strauss/elektra/orest"
+      }
+    ]
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/haensel-und-gretel.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "martin-folz",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "wouter-padberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "charlotte-morache",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "benedikt-arnold",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-kuhn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susanne-reinhardt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfred-peter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "janja-vuletic",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/die-knusperhexe"
+      },
+      {
+        "person_slug": "danita-weatherstone",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "yuriy-hadzetskyy",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder"
+      }
+    ]
+  },
+  {
+    "id": "theater-trier/lorfeo",
+    "work_slug": "claudio-monteverdi/l-orfeo",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/lorfeo.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "fernando-melo",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gmd-jochem-hochstenbach",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "fernando-melo",
+        "function": "director"
+      },
+      {
+        "person_slug": "malte-kuhn",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gustavo-eda",
+        "role_slug": "claudio-monteverdi/l-orfeo/apollo-pastore-1-spirito-2-spirito-3"
+      },
+      {
+        "person_slug": "karsten-schroter",
+        "role_slug": "claudio-monteverdi/l-orfeo/caronte-plutone"
+      },
+      {
+        "person_slug": "lara-rieken",
+        "role_slug": "claudio-monteverdi/l-orfeo/la-musica"
+      },
+      {
+        "person_slug": "janja-vuletic",
+        "role_slug": "claudio-monteverdi/l-orfeo/messaggiera-speranza"
+      },
+      {
+        "person_slug": "yuriy-hadzetskyy",
+        "role_slug": "claudio-monteverdi/l-orfeo/orfeo"
+      },
+      {
+        "person_slug": "derek-rue",
+        "role_slug": "claudio-monteverdi/l-orfeo/pastore-2-spirito-1"
+      },
+      {
+        "person_slug": "danita-weatherstone",
+        "role_slug": "claudio-monteverdi/l-orfeo/proserpina"
+      }
+    ]
+  },
+  {
     "id": "theater-trier/my-fair-lady-2",
     "work_slug": "frederick-loewe/my-fair-lady",
     "house_slug": "theater-trier",
@@ -60,6 +284,10 @@
       {
         "person_slug": "adriana-mortelliti",
         "function": "choreographer"
+      },
+      {
+        "person_slug": "martin-folz",
+        "function": "chorus-master"
       },
       {
         "person_slug": "wouter-padberg",
@@ -108,6 +336,22 @@
         "role_slug": "frederick-loewe/my-fair-lady/jamie"
       },
       {
+        "person_slug": "cynthia-nay",
+        "role_slug": "frederick-loewe/my-fair-lady/lady-boxington"
+      },
+      {
+        "person_slug": "carsten-emmerich",
+        "role_slug": "frederick-loewe/my-fair-lady/lord-boxington"
+      },
+      {
+        "person_slug": "angela-pavonet",
+        "role_slug": "frederick-loewe/my-fair-lady/madchen-1"
+      },
+      {
+        "person_slug": "regine-buschmann",
+        "role_slug": "frederick-loewe/my-fair-lady/madchen-2"
+      },
+      {
         "person_slug": "silvia-lefringhausen",
         "role_slug": "frederick-loewe/my-fair-lady/mrs-eynsford-hill"
       },
@@ -126,7 +370,25 @@
       {
         "person_slug": "giovanni-rupp",
         "role_slug": "frederick-loewe/my-fair-lady/prof-henry-higgins"
+      },
+      {
+        "person_slug": "tim-heisse",
+        "role_slug": "frederick-loewe/my-fair-lady/wirt"
       }
     ]
+  },
+  {
+    "id": "theater-trier/weihnachtskonzert-2026",
+    "work_slug": "weihnachtskonzert-2026",
+    "house_slug": "theater-trier",
+    "is_revival": false,
+    "detail_url": "https://www.theater-trier.de/produktionen/weihnachtskonzert-2026.html?m=47",
+    "creative_team": [
+      {
+        "person_slug": "martin-folz",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
   }
 ]

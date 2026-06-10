@@ -384,6 +384,102 @@
     ]
   },
   {
+    "id": "gerhart-hauptmann-theater-goerlitz/nabucco-bz",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "gerhart-hauptmann-theater-goerlitz",
+    "is_revival": false,
+    "presentation_note": "Oper von Giuseppe Verdi",
+    "detail_url": "https://www.g-h-t.de/de/spielplan-musiktheater/nabucco-bz/2027-01-22/0/",
+    "creative_team": [
+      {
+        "person_slug": "albert-seidl",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anja-nicklich",
+        "function": "director"
+      },
+      {
+        "person_slug": "martin-stefke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thorsten-klein",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "antonia-mautner-markhof",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hyeongwoo-kim",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "patricia-bansch",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "yvonne-reich",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "johanna-brault",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "piotr-ozimkowski",
+        "role_slug": "giuseppe-verdi/nabucco/inspizient"
+      },
+      {
+        "person_slug": "yalun-zhang",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "maximilian-zimmermann",
+        "role_slug": "giuseppe-verdi/nabucco/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "olga-dribas",
+        "role_slug": "giuseppe-verdi/nabucco/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "ulrich-kern",
+        "role_slug": "giuseppe-verdi/nabucco/musikalische-leitung-dirigat"
+      },
+      {
+        "person_slug": "martin-barta",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "milos-horak",
+        "role_slug": "giuseppe-verdi/nabucco/oberpriester"
+      },
+      {
+        "person_slug": "peter-fabig",
+        "role_slug": "giuseppe-verdi/nabucco/oberpriester"
+      },
+      {
+        "person_slug": "philippe-wiederkehr",
+        "role_slug": "giuseppe-verdi/nabucco/regieassistent"
+      },
+      {
+        "person_slug": "josef-pietschmann",
+        "role_slug": "giuseppe-verdi/nabucco/soufflage"
+      },
+      {
+        "person_slug": "lukas-wieners",
+        "role_slug": "giuseppe-verdi/nabucco/verantwortlicher-buhnenmeister"
+      },
+      {
+        "person_slug": "young-kwon",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
     "id": "gerhart-hauptmann-theater-goerlitz/orpheus",
     "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
     "house_slug": "gerhart-hauptmann-theater-goerlitz",

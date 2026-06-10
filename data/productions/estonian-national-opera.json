@@ -156,7 +156,52 @@
         "function": "director"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "mart-laur",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/antonio"
+      },
+      {
+        "person_slug": "kadri-nirgi",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/barbarina"
+      },
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
+      },
+      {
+        "person_slug": "mart-madiste",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/basilio"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "tamar-nugis",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count"
+      },
+      {
+        "person_slug": "annabel-soode",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess"
+      },
+      {
+        "person_slug": "rafael-dicenta",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/don-curzio"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "janne-sevtsenko",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "kristel-partna",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
   },
   {
     "id": "estonian-national-opera/estonian-national-opera-lohengrin",
@@ -727,7 +772,40 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "priit-volmer",
+        "role_slug": "claude-debussy/pelleas-et-melisande/arkel"
+      },
+      {
+        "person_slug": "aule-urb",
+        "role_slug": "claude-debussy/pelleas-et-melisande/genevieve"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "claude-debussy/pelleas-et-melisande/golaud"
+      },
+      {
+        "person_slug": "tiit-kaljund",
+        "role_slug": "claude-debussy/pelleas-et-melisande/la-berger"
+      },
+      {
+        "person_slug": "mart-laur",
+        "role_slug": "claude-debussy/pelleas-et-melisande/le-medecin"
+      },
+      {
+        "person_slug": "karis-trass",
+        "role_slug": "claude-debussy/pelleas-et-melisande/melisande"
+      },
+      {
+        "person_slug": "samy-camps",
+        "role_slug": "claude-debussy/pelleas-et-melisande/pelleas"
+      },
+      {
+        "person_slug": "elena-brazhnyk",
+        "role_slug": "claude-debussy/pelleas-et-melisande/yniold"
+      }
+    ]
   },
   {
     "id": "estonian-national-opera/estonian-national-opera-peter-grimes",

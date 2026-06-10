@@ -76,6 +76,168 @@
     "ticket_url": "https://theatertrier.reservix.de/p/reservix/event/2504937"
   },
   {
+    "id": "theater-trier/die-verkaufte-braut/2027-06-12/19:30",
+    "production_id": "theater-trier/die-verkaufte-braut",
+    "date": "2027-06-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/die-verkaufte-braut/2027-06-15/19:30",
+    "production_id": "theater-trier/die-verkaufte-braut",
+    "date": "2027-06-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/die-verkaufte-braut/2027-06-19/19:30",
+    "production_id": "theater-trier/die-verkaufte-braut",
+    "date": "2027-06-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/die-verkaufte-braut/2027-06-25/19:30",
+    "production_id": "theater-trier/die-verkaufte-braut",
+    "date": "2027-06-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/die-verkaufte-braut/2027-06-27/16:00",
+    "production_id": "theater-trier/die-verkaufte-braut",
+    "date": "2027-06-27",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/elektra/2027-04-23/19:30",
+    "production_id": "theater-trier/elektra",
+    "date": "2027-04-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/elektra/2027-04-25/16:00",
+    "production_id": "theater-trier/elektra",
+    "date": "2027-04-25",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-11-14/19:30",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-11-14",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-11-17/19:30",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-11-17",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-11-22/18:00",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-11-22",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-11-29/16:00",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-11-29",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-12-05/19:30",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-12-05",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-12-22/18:00",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-12-22",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-12-25/18:00",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-12-25",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/haensel-und-gretel/2026-12-29/19:30",
+    "production_id": "theater-trier/haensel-und-gretel",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-02-20/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-02-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-02-23/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-02-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-02-26/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-02-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-02-28/16:00",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-02-28",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-03-02/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-03-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-03-06/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-03-06",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/lorfeo/2027-03-10/19:30",
+    "production_id": "theater-trier/lorfeo",
+    "date": "2027-03-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-trier/my-fair-lady-2/2026-09-04/19:30",
     "production_id": "theater-trier/my-fair-lady-2",
     "date": "2026-09-04",
@@ -101,5 +263,29 @@
     "venue_room": "Großes Haus",
     "status": "scheduled",
     "ticket_url": "https://theatertrier.reservix.de/p/reservix/event/2543660"
+  },
+  {
+    "id": "theater-trier/weihnachtskonzert-2026/2026-12-19/18:00",
+    "production_id": "theater-trier/weihnachtskonzert-2026",
+    "date": "2026-12-19",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/weihnachtskonzert-2026/2026-12-20/11:00",
+    "production_id": "theater-trier/weihnachtskonzert-2026",
+    "date": "2026-12-20",
+    "time": "11:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-trier/weihnachtskonzert-2026/2026-12-20/16:00",
+    "production_id": "theater-trier/weihnachtskonzert-2026",
+    "date": "2026-12-20",
+    "time": "16:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
   }
 ]

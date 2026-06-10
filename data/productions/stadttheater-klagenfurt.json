@@ -1,5 +1,32 @@
 [
   {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/aida/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-cosi-fan-tutte",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/cosi-fan-tutte/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-der-diener-zweier-herren",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/der-diener-zweier-herren/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-der-liebestrank-lelisir-damore",
     "work_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore",
     "house_slug": "stadttheater-klagenfurt",
@@ -53,6 +80,15 @@
         "role_slug": "gaetano-donizetti/der-liebestrank-l-elisir-d-amore/nemorino"
       }
     ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-magic-afternoon-asche",
+    "work_slug": "wolfgang-bauer/magic-afternoon-asche",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/magic-afternoon-asche/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-orfeo-ed-euridice",
@@ -271,6 +307,15 @@
         "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus-gottin-der-liebe"
       }
     ]
+  },
+  {
+    "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-romeo-und-julia",
+    "work_slug": "william-shakespeare/romeo-und-julia",
+    "house_slug": "stadttheater-klagenfurt",
+    "is_revival": false,
+    "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/romeo-und-julia/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-tristan-und-isolde",
