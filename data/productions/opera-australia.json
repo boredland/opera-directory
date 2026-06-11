@@ -72,6 +72,25 @@
     ]
   },
   {
+    "id": "opera-australia/opera-australia-opera-up-late-melbourne",
+    "work_slug": "hosted-by-reuben-kaye/opera-up-late",
+    "house_slug": "opera-australia",
+    "is_revival": false,
+    "detail_url": "https://opera.org.au/productions/opera-up-late-melbourne/",
+    "creative_team": [
+      {
+        "person_slug": "shaun-rennie",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "reuben-kaye",
+        "role_slug": "hosted-by-reuben-kaye/opera-up-late/host"
+      }
+    ]
+  },
+  {
     "id": "opera-australia/opera-australia-rigoletto-sydney",
     "work_slug": "verdi/rigoletto",
     "house_slug": "opera-australia",

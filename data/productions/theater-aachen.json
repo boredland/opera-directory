@@ -1,7 +1,7 @@
 [
   {
     "id": "theater-aachen/candide",
-    "work_slug": "leonard-bernstein-broadway-revival/candide",
+    "work_slug": "leonard-bernstein-buch-von-hugh-wheeler/candide",
     "house_slug": "theater-aachen",
     "is_revival": false,
     "detail_url": "https://www.theateraachen.de/de/produktionen/candide.html",
@@ -152,6 +152,10 @@
     "is_revival": false,
     "detail_url": "https://www.theateraachen.de/de/produktionen/furioso.html",
     "creative_team": [
+      {
+        "person_slug": "cordula-dauper",
+        "function": "director"
+      },
       {
         "person_slug": "isabelle-becker",
         "function": "dramaturgy"
@@ -465,7 +469,7 @@
   },
   {
     "id": "theater-aachen/suor-angelica",
-    "work_slug": "giacomo-puccini-aus-raquo/suor-angelica",
+    "work_slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
     "house_slug": "theater-aachen",
     "is_revival": false,
     "detail_url": "https://www.theateraachen.de/de/produktionen/suor-angelica.html",
@@ -482,7 +486,7 @@
     "cast": [
       {
         "person_slug": "anastasia-patsakidou",
-        "role_slug": "giacomo-puccini-aus-raquo/suor-angelica/suor-genovieffa"
+        "role_slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa"
       }
     ]
   },

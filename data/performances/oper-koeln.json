@@ -1672,6 +1672,22 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-koeln/musiktheaterlabor/2026-11-03/19:00",
+    "production_id": "oper-koeln/musiktheaterlabor",
+    "date": "2026-11-03",
+    "time": "19:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/musiktheaterlabor/2027-05-25/19:00",
+    "production_id": "oper-koeln/musiktheaterlabor",
+    "date": "2027-05-25",
+    "time": "19:00",
+    "venue_room": "Glockengasse ",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-koeln/my-fair-lady/2027-03-06/19:30",
     "production_id": "oper-koeln/my-fair-lady",
     "date": "2027-03-06",
@@ -2221,6 +2237,14 @@
     "date": "2026-07-05",
     "time": "19:00",
     "venue_room": "StaatenHaus Saal 2 ",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-butterfly/2027-06-02/18:30",
+    "production_id": "oper-koeln/theaterworkshop-butterfly",
+    "date": "2027-06-02",
+    "time": "18:30",
+    "venue_room": "Opernfoyer",
     "status": "scheduled"
   },
   {

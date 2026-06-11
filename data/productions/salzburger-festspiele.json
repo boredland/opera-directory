@@ -8,16 +8,8 @@
     "detail_url": "https://www.salzburgerfestspiele.at/p/ariadne-auf-naxos-2026",
     "creative_team": [
       {
-        "person_slug": "ashley-alexandra-wright",
-        "function": "choreographer"
-      },
-      {
         "person_slug": "manfred-honeck",
         "function": "conductor"
-      },
-      {
-        "person_slug": "franck-evin",
-        "function": "lighting"
       },
       {
         "person_slug": "ersan-mondtag",
@@ -58,12 +50,12 @@
         "role_slug": "richard-strauss/ariadne-auf-naxos/ein-musiklehrer"
       },
       {
-        "person_slug": "blaz-stajnko",
-        "role_slug": "richard-strauss/ariadne-auf-naxos/ein-peruckenmacher"
+        "person_slug": "fabio-dorizzi",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/ein-offizier"
       },
       {
-        "person_slug": "jonas-hacker",
-        "role_slug": "richard-strauss/ariadne-auf-naxos/ein-tanzmeister"
+        "person_slug": "blaz-stajnko",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/ein-peruckenmacher"
       },
       {
         "person_slug": "leon-kosavic",
@@ -290,6 +282,10 @@
         "role_slug": "georges-bizet/carmen/morales"
       },
       {
+        "person_slug": "fons-dhossche",
+        "role_slug": "georges-bizet/carmen/performer-innen-von-peeping-tom"
+      },
+      {
         "person_slug": "matthias-winckhler",
         "role_slug": "georges-bizet/carmen/zuniga"
       }
@@ -469,18 +465,6 @@
       {
         "person_slug": "adam-fischer",
         "function": "conductor"
-      },
-      {
-        "person_slug": "bernadette-salzmann",
-        "function": "costume-designer"
-      },
-      {
-        "person_slug": "bernd-gallasch",
-        "function": "lighting"
-      },
-      {
-        "person_slug": "mara-wild",
-        "function": "video-designer"
       }
     ],
     "cast": [
@@ -546,6 +530,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "hans-werner-henze/der-prinz-von-homburg/1-offizier"
+      },
       {
         "person_slug": "tanja-ariane-baumgartner",
         "role_slug": "hans-werner-henze/der-prinz-von-homburg/die-kurfurstin"

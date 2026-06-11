@@ -63,6 +63,10 @@
     "detail_url": "https://stadttheaterbremerhaven.de/luisa-miller/",
     "creative_team": [
       {
+        "person_slug": "edward-mauritius-munch",
+        "function": "CHÖRE"
+      },
+      {
         "person_slug": "marco-comin",
         "function": "conductor"
       },
@@ -79,8 +83,32 @@
         "function": "dramaturgy"
       },
       {
-        "person_slug": "schirin-badafaras",
-        "function": "THEATERPÄDAGOGIK"
+        "person_slug": "chor-des-stadttheaters-bremerhaven",
+        "function": "LAURA"
+      },
+      {
+        "person_slug": "timothy-edlin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "boshan-milkov",
+        "function": "MILLER"
+      },
+      {
+        "person_slug": "jorrit-van-den-ham",
+        "function": "MUSIKALISCHE EINSTUDIERUNG"
+      },
+      {
+        "person_slug": "annika-ellen-flindt",
+        "function": "REGIEASSISTENZ & ABENDSPIELLEITUNG"
+      },
+      {
+        "person_slug": "weilian-wang",
+        "function": "RODOLFO"
+      },
+      {
+        "person_slug": "hartmut-brusch",
+        "function": "STUDIENLEITUNG"
       }
     ],
     "cast": []

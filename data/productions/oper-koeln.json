@@ -357,6 +357,10 @@
         "role_slug": "richard-strauss/der-rosenkavalier/annina"
       },
       {
+        "person_slug": "rene-neumann",
+        "role_slug": "richard-strauss/der-rosenkavalier/co-kostumbildner"
+      },
+      {
         "person_slug": "patrick-zielke",
         "role_slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau"
       },
@@ -1575,6 +1579,15 @@
     ]
   },
   {
+    "id": "oper-koeln/musiktheaterlabor",
+    "work_slug": "musiktheaterlabor",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/musiktheaterlabor/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-koeln/my-fair-lady",
     "work_slug": "frederick-loewe/my-fair-lady",
     "house_slug": "oper-koeln",
@@ -2170,6 +2183,15 @@
         "role_slug": "gioacchino-rossini/tancredi/tancredi"
       }
     ]
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-butterfly",
+    "work_slug": "theaterworkshop-butterfly",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/theaterworkshop-butterfly/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "oper-koeln/theaterworkshop-hoffmanns-erzahlungen",

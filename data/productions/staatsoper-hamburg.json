@@ -959,7 +959,7 @@
   },
   {
     "id": "staatsoper-hamburg/ballett-3049-familien-und-jugendeinfuehrungen",
-    "work_slug": "familien-und-jugendeinfuhrungen",
+    "work_slug": "familien-und-jugend-shy-einfuhrungen",
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3049-familien-und-jugendeinfuehrungen",
@@ -4246,6 +4246,15 @@
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484991-podiumsdiskussion-wie-politisch-kann-muss-sollte-musiktheater-sein",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485001-ausgeflogen",
+    "work_slug": "ausgeflogen",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147485001-ausgeflogen",
     "creative_team": [],
     "cast": []
   },

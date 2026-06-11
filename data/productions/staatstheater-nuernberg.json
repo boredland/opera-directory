@@ -53,6 +53,24 @@
     "cast": []
   },
   {
+    "id": "staatstheater-nuernberg/der-barbier-von-sevilla",
+    "work_slug": "gioacchino-rossini/der-barbier-von-sevilla",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/der-barbier-von-sevilla/04-07-2027/1800",
+    "creative_team": [
+      {
+        "person_slug": "christopher-schumann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nikolaus-habjan",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "staatstheater-nuernberg/der-freischuetz",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "house_slug": "staatstheater-nuernberg",

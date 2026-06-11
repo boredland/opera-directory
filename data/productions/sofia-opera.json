@@ -12931,5 +12931,145 @@
         "role_slug": "lubomir-denev/alma/mezzosoprano-and-actress"
       }
     ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-995",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/995",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nela-stoyanova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "giacomo-andrico",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "roman-burdenko",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
+      },
+      {
+        "person_slug": "emil-pavlov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/beppe"
+      },
+      {
+        "person_slug": "jorge-de-leon",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
+        "person_slug": "tsveta-sarambelieva",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lola"
+      },
+      {
+        "person_slug": "vesela-yaneva",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/mamma-lucia"
+      },
+      {
+        "person_slug": "mariangela-sicilia",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
+      },
+      {
+        "person_slug": "gergana-rusekova",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "atanas-mladenov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/silvio"
+      },
+      {
+        "person_slug": "jorge-de-leon",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-997",
+    "work_slug": "archpriest-kiril-popov/echo-of-1876-the-hermit-of-rila",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/997",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "zhorzh-dimitrov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marta-mironska",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nela-stoyanova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tihomir-pavlov",
+        "role_slug": "archpriest-kiril-popov/echo-of-1876-the-hermit-of-rila/lyrics"
+      },
+      {
+        "person_slug": "georgi-strezov",
+        "role_slug": "archpriest-kiril-popov/echo-of-1876-the-hermit-of-rila/orchestration"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-999",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/999",
+    "creative_team": [
+      {
+        "person_slug": "svetlin-ivelinov",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "ioanna-manoledaki",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   }
 ]
