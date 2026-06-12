@@ -12948,6 +12948,10 @@
         "function": "conductor"
       },
       {
+        "person_slug": "francesco-rosa",
+        "function": "conductor"
+      },
+      {
         "person_slug": "nela-stoyanova",
         "function": "costume-designer"
       },
@@ -12966,12 +12970,32 @@
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
       },
       {
+        "person_slug": "ventseslav-anastasov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
+      },
+      {
+        "person_slug": "vesselin-mihaylov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/alfio"
+      },
+      {
         "person_slug": "emil-pavlov",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/beppe"
       },
       {
+        "person_slug": "hrisimir-damyanov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/beppe"
+      },
+      {
+        "person_slug": "amadi-lagha",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
         "person_slug": "jorge-de-leon",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/canio"
+      },
+      {
+        "person_slug": "ina-petrova",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/lola"
       },
       {
         "person_slug": "tsveta-sarambelieva",
@@ -12982,11 +13006,23 @@
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/mamma-lucia"
       },
       {
-        "person_slug": "mariangela-sicilia",
+        "person_slug": "milla-mihova",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
       },
       {
+        "person_slug": "stanislava-momekova",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/nedda"
+      },
+      {
+        "person_slug": "gabriela-georgieva",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
         "person_slug": "gergana-rusekova",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
+      },
+      {
+        "person_slug": "radostina-nikolaeva",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/santuzza"
       },
       {
@@ -12994,7 +13030,27 @@
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/silvio"
       },
       {
+        "person_slug": "fabian-veloz",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
+        "person_slug": "roman-burdenko",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
+        "person_slug": "vesselin-mihaylov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/tonio"
+      },
+      {
         "person_slug": "jorge-de-leon",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      },
+      {
+        "person_slug": "kostadin-andreev",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
+      },
+      {
+        "person_slug": "vincenzo-costanzo",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/turiddu"
       }
     ]

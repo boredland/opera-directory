@@ -403,6 +403,149 @@
     "cast": []
   },
   {
+    "id": "semperoper-dresden/62482",
+    "work_slug": "charles-gounod/romeo-et-juliette",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/romeo-et-juliette/62482.html",
+    "creative_team": [
+      {
+        "person_slug": "jan-hoffmann",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giampaolo-bisanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robert-jindra",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "julia-kornacka",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barbara-wysocka",
+        "function": "director"
+      },
+      {
+        "person_slug": "benedikt-stampfli",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "barbara-hanicka",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "barbara-wysocka",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jin-yu",
+        "role_slug": "charles-gounod/romeo-et-juliette/benvolio"
+      },
+      {
+        "person_slug": "jongwoo-hong",
+        "role_slug": "charles-gounod/romeo-et-juliette/benvolio"
+      },
+      {
+        "person_slug": "oleksandr-pushniak",
+        "role_slug": "charles-gounod/romeo-et-juliette/capulet"
+      },
+      {
+        "person_slug": "meinhardt-mobius",
+        "role_slug": "charles-gounod/romeo-et-juliette/frere-jean"
+      },
+      {
+        "person_slug": "wojciech-tabis",
+        "role_slug": "charles-gounod/romeo-et-juliette/frere-jean"
+      },
+      {
+        "person_slug": "brent-michael-smith",
+        "role_slug": "charles-gounod/romeo-et-juliette/frere-laurent"
+      },
+      {
+        "person_slug": "peter-kellner",
+        "role_slug": "charles-gounod/romeo-et-juliette/frere-laurent"
+      },
+      {
+        "person_slug": "marina-prudenskaya",
+        "role_slug": "charles-gounod/romeo-et-juliette/gertrude"
+      },
+      {
+        "person_slug": "michal-doron",
+        "role_slug": "charles-gounod/romeo-et-juliette/gertrude"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "charles-gounod/romeo-et-juliette/gregorio"
+      },
+      {
+        "person_slug": "david-roy",
+        "role_slug": "charles-gounod/romeo-et-juliette/gregorio"
+      },
+      {
+        "person_slug": "amina-edris",
+        "role_slug": "charles-gounod/romeo-et-juliette/juliette"
+      },
+      {
+        "person_slug": "emily-pogorelc",
+        "role_slug": "charles-gounod/romeo-et-juliette/juliette"
+      },
+      {
+        "person_slug": "tilmann-ronnebeck",
+        "role_slug": "charles-gounod/romeo-et-juliette/le-duc-de-verone"
+      },
+      {
+        "person_slug": "anton-beliaev",
+        "role_slug": "charles-gounod/romeo-et-juliette/mercutio"
+      },
+      {
+        "person_slug": "danylo-matviienko",
+        "role_slug": "charles-gounod/romeo-et-juliette/mercutio"
+      },
+      {
+        "person_slug": "gerrit-illenberger",
+        "role_slug": "charles-gounod/romeo-et-juliette/paris"
+      },
+      {
+        "person_slug": "vladyslav-buialskyi",
+        "role_slug": "charles-gounod/romeo-et-juliette/paris"
+      },
+      {
+        "person_slug": "bekhzod-davronov",
+        "role_slug": "charles-gounod/romeo-et-juliette/romeo"
+      },
+      {
+        "person_slug": "duke-kim",
+        "role_slug": "charles-gounod/romeo-et-juliette/romeo"
+      },
+      {
+        "person_slug": "emily-sierra",
+        "role_slug": "charles-gounod/romeo-et-juliette/stephano"
+      },
+      {
+        "person_slug": "valerie-eickhoff",
+        "role_slug": "charles-gounod/romeo-et-juliette/stephano"
+      },
+      {
+        "person_slug": "brian-michael-moore",
+        "role_slug": "charles-gounod/romeo-et-juliette/tybalt"
+      },
+      {
+        "person_slug": "james-ley",
+        "role_slug": "charles-gounod/romeo-et-juliette/tybalt"
+      }
+    ]
+  },
+  {
     "id": "semperoper-dresden/62699",
     "work_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
     "house_slug": "semperoper-dresden",

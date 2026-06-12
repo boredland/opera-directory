@@ -136,6 +136,16 @@
     ]
   },
   {
+    "id": "landesbuehnen-sachsen/5bb5a5e2-2769-4f5a-b404-dff675c75cba",
+    "work_slug": "carl-maria-von-weber/freischutz-tischtheater",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Ein Spiel nach der romantischen Oper von Carl Maria von Weber",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/der-freischuetz-fuer-jung-und-alt/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "landesbuehnen-sachsen/8ee96024-b64f-47d4-a396-5c83f6cb6566",
     "work_slug": "elena-langer/the-lion-s-face",
     "house_slug": "landesbuehnen-sachsen",
@@ -304,10 +314,6 @@
     "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/im-weissen-roessl-2/",
     "creative_team": [
       {
-        "person_slug": "karolina-dieter",
-        "function": "choreographer"
-      },
-      {
         "person_slug": "jan-arvid-pree",
         "function": "conductor"
       },
@@ -326,11 +332,11 @@
     ],
     "cast": [
       {
-        "person_slug": "daniele-pilato",
-        "role_slug": "ralph-benatzky/im-wei-en-rossl/chordirektor"
+        "person_slug": "johannes-wollrab",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
       },
       {
-        "person_slug": "johannes-wollrab",
+        "person_slug": "kay-frenzel",
         "role_slug": "ralph-benatzky/im-wei-en-rossl/dr-otto-siedler"
       },
       {
@@ -347,6 +353,10 @@
       },
       {
         "person_slug": "franziska-abram",
+        "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
+      },
+      {
+        "person_slug": "greta-hermens",
         "role_slug": "ralph-benatzky/im-wei-en-rossl/klarchen-seine-tochter"
       },
       {
@@ -375,10 +385,6 @@
       },
       {
         "person_slug": "florian-neubauer",
-        "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
-      },
-      {
-        "person_slug": "jannik-harneit",
         "role_slug": "ralph-benatzky/im-wei-en-rossl/sigismund-sulzheimer"
       },
       {
@@ -504,6 +510,10 @@
       {
         "person_slug": "wolf-dieter-goock",
         "role_slug": "carl-maria-von-weber/der-freischutz/kuno"
+      },
+      {
+        "person_slug": "hans-georg-priese",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
       },
       {
         "person_slug": "ido-beit-halachmi",

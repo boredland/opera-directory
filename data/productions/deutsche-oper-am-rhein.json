@@ -248,10 +248,6 @@
         "role_slug": "jerry-bock-musik/anatevka/hodel"
       },
       {
-        "person_slug": "romana-noack",
-        "role_slug": "jerry-bock-musik/anatevka/jente"
-      },
-      {
         "person_slug": "gunes-gurle",
         "role_slug": "jerry-bock-musik/anatevka/lazar-wolf"
       },
@@ -829,20 +825,92 @@
     ],
     "cast": [
       {
+        "person_slug": "gustavo-carvalho",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allan-gray-zeitungsjunge-arzt"
+      },
+      {
+        "person_slug": "dukin-seo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allans-freund"
+      },
+      {
+        "person_slug": "sophie-martin",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanche-dubois"
+      },
+      {
+        "person_slug": "clara-nougue-cazenave",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanches-schwester"
+      },
+      {
+        "person_slug": "stella-byers",
+        "role_slug": "john-neumeier/endstation-sehnsucht/brautjungfer-mit-ihren-begleiter"
+      },
+      {
         "person_slug": "john-neumeier",
         "role_slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie"
+      },
+      {
+        "person_slug": "ulrich-kupas",
+        "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
+      },
+      {
+        "person_slug": "francesca-berruto",
+        "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
         "person_slug": "julia-schinke",
         "role_slug": "john-neumeier/endstation-sehnsucht/dramaturgische-betreuung"
       },
       {
+        "person_slug": "skyler-maxey-wert",
+        "role_slug": "john-neumeier/endstation-sehnsucht/ein-soldat"
+      },
+      {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-mutter"
+      },
+      {
+        "person_slug": "ordep-rodriguez-chacon",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-vater"
+      },
+      {
+        "person_slug": "nelson-lopez-garlo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/harold-mitchell-mitch"
+      },
+      {
+        "person_slug": "lauren-alving",
+        "role_slug": "john-neumeier/endstation-sehnsucht/hochzeitsgaste"
+      },
+      {
+        "person_slug": "niklas-jendrics",
+        "role_slug": "john-neumeier/endstation-sehnsucht/kiefaber"
+      },
+      {
+        "person_slug": "daniela-matys",
+        "role_slug": "john-neumeier/endstation-sehnsucht/margarete"
+      },
+      {
         "person_slug": "sergei-prokofjew",
         "role_slug": "john-neumeier/endstation-sehnsucht/musik"
       },
       {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/pflegerin"
+      },
+      {
         "person_slug": "alexandr-ivanov",
         "role_slug": "john-neumeier/endstation-sehnsucht/pianist"
+      },
+      {
+        "person_slug": "joan-ivars-ribes",
+        "role_slug": "john-neumeier/endstation-sehnsucht/shaw"
+      },
+      {
+        "person_slug": "olgert-collaku",
+        "role_slug": "john-neumeier/endstation-sehnsucht/stanley-kowalski"
+      },
+      {
+        "person_slug": "martine-michelle-labreze",
+        "role_slug": "john-neumeier/endstation-sehnsucht/tante-jessie"
       }
     ]
   },
@@ -860,20 +928,92 @@
     ],
     "cast": [
       {
+        "person_slug": "gustavo-carvalho",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allan-gray-zeitungsjunge-arzt"
+      },
+      {
+        "person_slug": "dukin-seo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allans-freund"
+      },
+      {
+        "person_slug": "sophie-martin",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanche-dubois"
+      },
+      {
+        "person_slug": "clara-nougue-cazenave",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanches-schwester"
+      },
+      {
+        "person_slug": "stella-byers",
+        "role_slug": "john-neumeier/endstation-sehnsucht/brautjungfer-mit-ihren-begleiter"
+      },
+      {
         "person_slug": "john-neumeier",
         "role_slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie"
+      },
+      {
+        "person_slug": "ulrich-kupas",
+        "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
+      },
+      {
+        "person_slug": "francesca-berruto",
+        "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
         "person_slug": "julia-schinke",
         "role_slug": "john-neumeier/endstation-sehnsucht/dramaturgische-betreuung"
       },
       {
+        "person_slug": "skyler-maxey-wert",
+        "role_slug": "john-neumeier/endstation-sehnsucht/ein-soldat"
+      },
+      {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-mutter"
+      },
+      {
+        "person_slug": "ordep-rodriguez-chacon",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-vater"
+      },
+      {
+        "person_slug": "nelson-lopez-garlo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/harold-mitchell-mitch"
+      },
+      {
+        "person_slug": "lauren-alving",
+        "role_slug": "john-neumeier/endstation-sehnsucht/hochzeitsgaste"
+      },
+      {
+        "person_slug": "niklas-jendrics",
+        "role_slug": "john-neumeier/endstation-sehnsucht/kiefaber"
+      },
+      {
+        "person_slug": "daniela-matys",
+        "role_slug": "john-neumeier/endstation-sehnsucht/margarete"
+      },
+      {
         "person_slug": "sergei-prokofjew",
         "role_slug": "john-neumeier/endstation-sehnsucht/musik"
       },
       {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/pflegerin"
+      },
+      {
         "person_slug": "alexandr-ivanov",
         "role_slug": "john-neumeier/endstation-sehnsucht/pianist"
+      },
+      {
+        "person_slug": "joan-ivars-ribes",
+        "role_slug": "john-neumeier/endstation-sehnsucht/shaw"
+      },
+      {
+        "person_slug": "olgert-collaku",
+        "role_slug": "john-neumeier/endstation-sehnsucht/stanley-kowalski"
+      },
+      {
+        "person_slug": "martine-michelle-labreze",
+        "role_slug": "john-neumeier/endstation-sehnsucht/tante-jessie"
       }
     ]
   },
@@ -891,20 +1031,92 @@
     ],
     "cast": [
       {
+        "person_slug": "gustavo-carvalho",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allan-gray-zeitungsjunge-arzt"
+      },
+      {
+        "person_slug": "dukin-seo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allans-freund"
+      },
+      {
+        "person_slug": "sophie-martin",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanche-dubois"
+      },
+      {
+        "person_slug": "clara-nougue-cazenave",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanches-schwester"
+      },
+      {
+        "person_slug": "stella-byers",
+        "role_slug": "john-neumeier/endstation-sehnsucht/brautjungfer-mit-ihren-begleiter"
+      },
+      {
         "person_slug": "john-neumeier",
         "role_slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie"
+      },
+      {
+        "person_slug": "ulrich-kupas",
+        "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
+      },
+      {
+        "person_slug": "francesca-berruto",
+        "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
         "person_slug": "julia-schinke",
         "role_slug": "john-neumeier/endstation-sehnsucht/dramaturgische-betreuung"
       },
       {
+        "person_slug": "skyler-maxey-wert",
+        "role_slug": "john-neumeier/endstation-sehnsucht/ein-soldat"
+      },
+      {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-mutter"
+      },
+      {
+        "person_slug": "ordep-rodriguez-chacon",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-vater"
+      },
+      {
+        "person_slug": "nelson-lopez-garlo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/harold-mitchell-mitch"
+      },
+      {
+        "person_slug": "lauren-alving",
+        "role_slug": "john-neumeier/endstation-sehnsucht/hochzeitsgaste"
+      },
+      {
+        "person_slug": "niklas-jendrics",
+        "role_slug": "john-neumeier/endstation-sehnsucht/kiefaber"
+      },
+      {
+        "person_slug": "daniela-matys",
+        "role_slug": "john-neumeier/endstation-sehnsucht/margarete"
+      },
+      {
         "person_slug": "sergei-prokofjew",
         "role_slug": "john-neumeier/endstation-sehnsucht/musik"
       },
       {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/pflegerin"
+      },
+      {
         "person_slug": "alexandr-ivanov",
         "role_slug": "john-neumeier/endstation-sehnsucht/pianist"
+      },
+      {
+        "person_slug": "joan-ivars-ribes",
+        "role_slug": "john-neumeier/endstation-sehnsucht/shaw"
+      },
+      {
+        "person_slug": "olgert-collaku",
+        "role_slug": "john-neumeier/endstation-sehnsucht/stanley-kowalski"
+      },
+      {
+        "person_slug": "martine-michelle-labreze",
+        "role_slug": "john-neumeier/endstation-sehnsucht/tante-jessie"
       }
     ]
   },
@@ -922,20 +1134,92 @@
     ],
     "cast": [
       {
+        "person_slug": "gustavo-carvalho",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allan-gray-zeitungsjunge-arzt"
+      },
+      {
+        "person_slug": "dukin-seo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/allans-freund"
+      },
+      {
+        "person_slug": "sophie-martin",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanche-dubois"
+      },
+      {
+        "person_slug": "clara-nougue-cazenave",
+        "role_slug": "john-neumeier/endstation-sehnsucht/blanches-schwester"
+      },
+      {
+        "person_slug": "stella-byers",
+        "role_slug": "john-neumeier/endstation-sehnsucht/brautjungfer-mit-ihren-begleiter"
+      },
+      {
         "person_slug": "john-neumeier",
         "role_slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie"
+      },
+      {
+        "person_slug": "ulrich-kupas",
+        "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
+      },
+      {
+        "person_slug": "francesca-berruto",
+        "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
         "person_slug": "julia-schinke",
         "role_slug": "john-neumeier/endstation-sehnsucht/dramaturgische-betreuung"
       },
       {
+        "person_slug": "skyler-maxey-wert",
+        "role_slug": "john-neumeier/endstation-sehnsucht/ein-soldat"
+      },
+      {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-mutter"
+      },
+      {
+        "person_slug": "ordep-rodriguez-chacon",
+        "role_slug": "john-neumeier/endstation-sehnsucht/gro-vater"
+      },
+      {
+        "person_slug": "nelson-lopez-garlo",
+        "role_slug": "john-neumeier/endstation-sehnsucht/harold-mitchell-mitch"
+      },
+      {
+        "person_slug": "lauren-alving",
+        "role_slug": "john-neumeier/endstation-sehnsucht/hochzeitsgaste"
+      },
+      {
+        "person_slug": "niklas-jendrics",
+        "role_slug": "john-neumeier/endstation-sehnsucht/kiefaber"
+      },
+      {
+        "person_slug": "daniela-matys",
+        "role_slug": "john-neumeier/endstation-sehnsucht/margarete"
+      },
+      {
         "person_slug": "sergei-prokofjew",
         "role_slug": "john-neumeier/endstation-sehnsucht/musik"
       },
       {
+        "person_slug": "virginia-segarra-vidal",
+        "role_slug": "john-neumeier/endstation-sehnsucht/pflegerin"
+      },
+      {
         "person_slug": "alexandr-ivanov",
         "role_slug": "john-neumeier/endstation-sehnsucht/pianist"
+      },
+      {
+        "person_slug": "joan-ivars-ribes",
+        "role_slug": "john-neumeier/endstation-sehnsucht/shaw"
+      },
+      {
+        "person_slug": "olgert-collaku",
+        "role_slug": "john-neumeier/endstation-sehnsucht/stanley-kowalski"
+      },
+      {
+        "person_slug": "martine-michelle-labreze",
+        "role_slug": "john-neumeier/endstation-sehnsucht/tante-jessie"
       }
     ]
   },
@@ -2838,7 +3122,7 @@
         "role_slug": "signaturen/ein-mensch"
       },
       {
-        "person_slug": "francesca-berruto",
+        "person_slug": "ako-sago",
         "role_slug": "signaturen/floor"
       },
       {
@@ -2973,7 +3257,7 @@
         "role_slug": "signaturen/ein-mensch"
       },
       {
-        "person_slug": "francesca-berruto",
+        "person_slug": "ako-sago",
         "role_slug": "signaturen/floor"
       },
       {
@@ -3181,7 +3465,7 @@
         "function": "choreographer"
       },
       {
-        "person_slug": "christoph-stocker",
+        "person_slug": "katharina-mullner",
         "function": "conductor"
       },
       {

@@ -932,7 +932,36 @@
     "is_revival": false,
     "detail_url": "https://www.landestheater-linz.at/stuecke/detail?ref=202520262034",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "yongcheol-kim",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/allazim"
+      },
+      {
+        "person_slug": "christian-taubenheim",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/erzahler"
+      },
+      {
+        "person_slug": "alexandre-bianque",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/gomatz"
+      },
+      {
+        "person_slug": "benedikt-ofner",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/musikalische-leitung-klavier"
+      },
+      {
+        "person_slug": "christoph-blitt",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/projektleitung-dramaturgie-und-moderation-xd-xa-xd-xa-xd-xa-zusammenstellung-dramaturgie-und-moderation"
+      },
+      {
+        "person_slug": "yonah-raupers",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/sultan-soliman"
+      },
+      {
+        "person_slug": "tina-josephine-jaeger",
+        "role_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/zaide"
+      }
+    ]
   },
   {
     "id": "landestheater-linz/oper-am-klavier-iii-der-graf-von-gleichen/2025-26",

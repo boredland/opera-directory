@@ -2240,6 +2240,14 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-koeln/theaterworkhop-rusalka/2027-05-11/18:30",
+    "production_id": "oper-koeln/theaterworkhop-rusalka",
+    "date": "2027-05-11",
+    "time": "18:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-koeln/theaterworkshop-butterfly/2027-06-02/18:30",
     "production_id": "oper-koeln/theaterworkshop-butterfly",
     "date": "2027-06-02",
@@ -2261,6 +2269,30 @@
     "date": "2026-12-09",
     "time": "18:30",
     "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-macbeth/2027-04-27/18:30",
+    "production_id": "oper-koeln/theaterworkshop-macbeth",
+    "date": "2027-04-27",
+    "time": "18:30",
+    "venue_room": "Erfrischungsraum Nord",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-my-fair-lady/2027-03-03/18:30",
+    "production_id": "oper-koeln/theaterworkshop-my-fair-lady",
+    "date": "2027-03-03",
+    "time": "18:30",
+    "venue_room": "Opernfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-my-fair-lady/2027-04-22/18:30",
+    "production_id": "oper-koeln/theaterworkshop-my-fair-lady",
+    "date": "2027-04-22",
+    "time": "18:30",
+    "venue_room": "Erfrischungsraum Nord",
     "status": "scheduled"
   },
   {

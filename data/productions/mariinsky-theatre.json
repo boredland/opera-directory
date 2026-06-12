@@ -52,10 +52,43 @@
         "role_slug": "giuseppe-verdi/aida/ramfis"
       },
       {
-        "person_slug": "miroslav-molchanov",
+        "person_slug": "vladimir-feliauer",
         "role_slug": "giuseppe-verdi/aida/the-pharaoh"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-attila",
+    "work_slug": "giuseppe-verdi/attila",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2010-07-13",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/5/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/attila/attila2_eng.jpg",
+    "synopsis": "Aquileia and the Adriatic lagoons and the environs of Rome, circa mid 5th century. Prologue As Attila and his warriors have triumphed over Italy, Attila&rsquo;s prisoners include Odabella, the daughter of the ruler of Aquileia who fell on the battlefield. Odabella creates a great impression on Attila. He presents her with his sword and takes her into his entourage. Ezio, a Roman general, comes to parley with Attila, but the latter rejects his proposal. Meanwhile Foresto, Odabella&rsquo;s betrothed, arrives at Rio-Alto and urges the refugees from Aquileia to build a new city – Venice. Act I Meeting Foresto, Odabella convinces him that she has not betrayed the Italian cause. She was merely awaiting an opportunity to settle accounts with the tyrant and kill him. Meanwhile, Attila is trying to shake off the memory of a nightmare he had the previous night: an imposing old man barred the Huns&rsquo; road to Rome. But his courage fails when the nightmare becomes a reality. Pope Leo enters the camp to prevent Attila&rsquo;s advance on Rome. Attila recognises in him the old man from his dreams. Act II Foresto and Ezio, a guest at one of Attila&rsquo;s banquets, lay plans for the defeat of the Huns. Foresto reveals that tonight the Huns&rsquo; leader is to be poisoned – the Roman warriors must be at the ready to attack the enemy camp at any moment. Sinister omens darken the atmosphere at the feast, and the king is only saved from being poisoned by Odabella&rsquo;s intervention: unwilling to cede the right to revenge to anyone else, she warns Attila of the attempt on his life. Attila declares that she shall be his bride the next day and then he will lead his warriors to Rome. Taking advantage of the general rejoicing, the girl urges Foresto, who has tried to poison Attila, to flee. Act III During the wedding ceremony, the Romans surround the Huns&rsquo; camp and, when they attack, Odabella stabs Attila.",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "arturo-gama",
+        "function": "director"
+      },
+      {
+        "person_slug": "yevgeny-ganzburg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frank-philipp-schlo-mann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-balmaskarad",
@@ -211,6 +244,10 @@
       {
         "person_slug": "roman-shirokikh",
         "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "maxim-daminov",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
       }
     ]
   },
@@ -342,7 +379,7 @@
         "role_slug": "giuseppe-verdi/don-carlo/don-carlo"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "irina-churilova",
         "role_slug": "giuseppe-verdi/don-carlo/elisabeth-de-valois"
       },
       {
@@ -520,6 +557,31 @@
       },
       {
         "person_slug": "anatoly-lyapin",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-fanciulla-west",
+    "work_slug": "giacomo-puccini/la-fanciulla-del-west",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2025-07-08",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/fanciulla_west/wildwest_banner.jpg",
+    "synopsis": "A gold prospectors' camp at the foothills in California during the Gold Rush. Act I Dusk. In the Polka saloon, things are getting lively: the miners are assembling after their day's work. They are playing cards, exchanging news and ordering drinks and cigars. The bartender Nick is busy with his customers. The game stops when the local bard Jake Wallace sings a melancholy song and plunges everyone into nostalgia. Jim Larkens cannot stop crying; he is sick to the back teeth of this life and wants to go home. The lads all chip in to pay for his journey. Those playing cards discover a cheat and are ready to attack him. Sheriff Rance attaches a marked card to Sid's chest as a mark of shame and steers him out of the saloon. The Wells Fargo agent Ashby drops into the Polka and relates how his hunt for a band of Mexican bandits headed by Ramerrez is progressing. Meanwhile, a quarrel flares up between the sheriff and the prospector Sonora: both are claiming the favour of Minnie, the saloon's owner. A fight ensues. At the very height of the struggle, a revolver goes off – it is Minnie. The prospectors greet the beauty in delight. In order to atone for their guilt in what has happened, they bring her presents. The men gather around the girl for a lesson – to hear the Bible read. The pony express arrives with letters. Ashby is delighted with a message he has received: Ramerrez' lover tells him where the bandit will be that night. The prospectors all read their letters from family, while Nick tells of a peculiar stranger outside who is asking for whiskey and soda. Left alone with Minnie, the sheriff hastens to pour out his feelings. He admits that he has never loved anyone, but that now he would surrender all his treasure for just one kiss from her. Minnie dreams of another life, and she remembers her parents. The appearance of the stranger who calls himself Dick Johnson (it is actually Ramerrez) interrupts their conversation. The stranger recognises in Minnie the girl he once m",
+    "creative_team": [
+      {
+        "person_slug": "arnaud-bernard",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anatoly-lyapin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "arnaud-bernard",
         "function": "lighting"
       }
     ],
@@ -1183,7 +1245,7 @@
     "house_slug": "mariinsky-theatre",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/21/2_1300/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/Nabucco_2023/nabucco_banner.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/Nabucco_2023/nabucco_vasilyevv_by_vilchuk.jpg",
     "synopsis": "Act I: Jerusalem The Jews are praying that the Assyrian hordes who have laid siege to Jerusalem will be scattered and that the Throne of David will be freed of the impious. The high priest Zaccaria tells of hopes for their deliverance – the Jews have taken Fenena, Nabucco&acute;s youngest daughter, and she will act as a powerful bargaining weapon in the talks with the King of Babylon. The commander Ismaele brings news that Nabucco has launched an attack. Zaccaria wishes to entrust Ismaele with guarding Fenena, but it turns out that the young people are in love with each other… Ismaele swears he will free his beloved. Babylonian warriors burst in, headed by Abigaille, Nabucco&acute;s eldest daughter who is also in love with Ismaele… Abigaille proclaims Nabucco&acute;s glory. Finally the King of Babylon himself enters. Fenena rushes to her father then to Ismaele, but Zaccaria manages to catch her and raises his dagger over her. Nabucco tries to gain time, while Abigaille hopes that now her sister and rival will die. Suddenly Ismaele snatches the dagger from Zaccaria and frees Fenena. Defeated, the Jews are overpowered by the Assyrians; they curse Ismaele. Act II: The Impious One Once again Nabucco departs with his warriors for Judea, leaving Fenena on the throne. Meanwhile Abigaille has managed to obtain and destroy a document which states that in fact she is not Nabucco&acute;s daughter but the daughter of slaves. The high priest of Baal informs her that Fenena has freed the captive Jews and that conspirators have already spread news of Nabucco&acute;s death in order to proclaim Abigaille queen. Zaccaria proclaims a new miracle of the God of Israel – Fenena, daughter of the King of Babylon, has adopted the Jewish faith. Once again the Levites curse Ismaele, but Anna tells them that Fenena, whom he saved, is from now on one of them, and so Ismaele is pardoned. Abdallo tells of the death of Nabucco and implores Fenena to flee, but she has no intention of surrendering t",
     "creative_team": [
       {
@@ -1211,7 +1273,28 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "tatiana-serjan",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "ekaterina-lukash",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "alexander-trofimov",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "vyacheslav-vasilyev",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "yakov-strizhak",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-nos",
@@ -1242,6 +1325,27 @@
       {
         "person_slug": "zinovy-margolin",
         "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-obruchenie-v-m",
+    "work_slug": "sergei-prokofiev/betrothal-in-a-monastery",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2025-07-03",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/10/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/obruchenie_v_m/m3/_obruch_monast_m3_eng.jpg",
+    "synopsis": "Act I In 18 th -century Seville Don Jerome arranges to marry his daughter Louisa to Mendoza, an ugly but very rich old fish merchant who has not seen the girl but is enthusiastic. He hears the penniless Antonio serenading Louisa and vows that the wedding must take place soon. Act II Louise&rsquo;s duenna hatches a plan that will allow Louisa to marry Antonio and herself to snare Mendoza and his money: Don Jerome must believe that the duenna is acting as a go-between for the lovers; he will then dismiss her but Louisa will put on the duenna&rsquo;s clothes, escape and elope with Antonio. The duenna, disguised as Louisa, will marry Mendoza instead. Having escaped, Louisa comes across her friend Clara who, feigning distress at her lover&rsquo;s over-ardent behavior (her lover is Louisa&rsquo;s brother Ferdinand), has decided to take refuge in a monastery. Disguised, this time as Clara, Louisa enlists Mendoza&rsquo;s help in finding Antonio – the merchant is only too pleased to divert his rival&rsquo;s attentions away from Louisa (as he thinks). At Don Jerome&rsquo;s house Mendoza meets &lsquo;Louisa&rsquo; (the duenna); he is won over by her flattery and the couple plan to elope. Act III Antonio meets the real Louisa and Mendoza, still ignorant of her identity, smiles on young love. Don Jerome, interrupted in his amateur music making, unwittingly blesses the separate marriages of Louisa and Mendoza. At the concert Clara pines for Ferdinand. Act IV A visit from Mendoza and Antonio interrupts the joyous feasting of the monks at the monastery. Ferdinand also arrives and, believing that Antonio is about to marry Clara, stars a fight. Confusions are resolved and the monks bless all three marriages. At the wedding ball planned for Louisa, Don Jerome learns of the turn of events and is eventually reconciled to them; his daughter has married a pauper, but Ferdinand has married an heiress.",
+    "creative_team": [
+      {
+        "person_slug": "nikita-gribanov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "svetlana-kavtaradze",
+        "function": "lighting"
       }
     ],
     "cast": []
@@ -1482,7 +1586,32 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "maharram-huseynov",
+        "role_slug": "giuseppe-verdi/rigoletto/count-monterone"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giuseppe-verdi/rigoletto/duke-of-mantua"
+      },
+      {
+        "person_slug": "yulia-suleimanova",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "natalia-yevstafieva",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "pavel-yankovsky",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "yuri-vlasov",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-rusalka-k3",
@@ -1696,7 +1825,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2003-04-17",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/3/3_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/17/3_1900/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/Suor_Angelica/sestra_ang_chamber.jpg",
     "synopsis": "A spring evening in the garden of a convent. Sister Angelica, the daughter of a noble Florentine family, has taken the veil in order to atone for her sin: an illicit passion when young which resulted in the birth of an illegitimate child. Seven years have passed, though she is unable to forget her son. The strains of an Ave Maria can be heard from the convent chapel. A group of nuns emerges from the chapel after the service. The Monitress admonishes those who are late for vespers. For missing the service they will be punished and the latecomers enter the convent in order to fulfil the wishes of the Monitress. Sister Genovieffa observes that the fountain is on the verge of turning gold from the rays of the setting sun as it always does for three evenings during May, a sign of divine grace from the Blessed Virgin Mary. A melancholy moment follows as the nuns recall a sister who died a year ago. Sister Genovieffa suggests that &ldquo;Perhaps her soul might desire a libation from the fountain?&rdquo; Answering her question, Sister Angelica declares that desires only come to fruition for the living – the dead have already fulfilled their earthly purpose and their destinies cannot be changed. Displeased with the theme of the conversation, the Monitress reminds them that, as nuns, all desires are forbidden to them. Sister Genovieffa begs to differ: she, for example, yearns to hold a pet lamb. And yet another sister has a wish. The nuns laughingly reply that it must be for something tasty to eat. Drawn into the conversation, to the amazement of all Sister Angelica denies wishing for anything. Their surprise is easily explained – all know that she has been craving news from her family – that same family which forced her to take the veil. The Nursing Sister rushes in, much distressed: a nun has been stung by a wasp and is in great pain. Angelica swiftly prepares a herbal remedy. The Nursing Sister leaves, praising Angelica&rsquo;s skill. Two Alms Sisters appear. They mention ",
     "creative_team": [

@@ -139,7 +139,7 @@
   },
   {
     "id": "oper-koeln/das-grand-hotel-der-gefuhle",
-    "work_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "house_slug": "oper-koeln",
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/das-grand-hotel-der-gefuhle/",
@@ -172,47 +172,47 @@
     "cast": [
       {
         "person_slug": "frederik-schauhoff",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
       },
       {
         "person_slug": "tobias-lusser",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
       },
       {
         "person_slug": "elena-plaza-cebrian",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
       },
       {
         "person_slug": "laura-kriese",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
       },
       {
         "person_slug": "elisabeth-freyhoff",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
       },
       {
         "person_slug": "maike-raschke",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
       },
       {
         "person_slug": "gurzenich-orchester-koln",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/orchester"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/orchester"
       },
       {
         "person_slug": "shunyao-li",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
       },
       {
         "person_slug": "wesley-harrison",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
       },
       {
         "person_slug": "alina-konig-rannenberg",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
       },
       {
         "person_slug": "lana-sophie-westendorf",
-        "role_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
       }
     ]
   },
@@ -2185,6 +2185,15 @@
     ]
   },
   {
+    "id": "oper-koeln/theaterworkhop-rusalka",
+    "work_slug": "theaterworkhop-rusalka",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/theaterworkhop-rusalka/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-koeln/theaterworkshop-butterfly",
     "work_slug": "theaterworkshop-butterfly",
     "house_slug": "oper-koeln",
@@ -2199,6 +2208,24 @@
     "house_slug": "oper-koeln",
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/theaterworkshop-hoffmanns-erzahlungen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-macbeth",
+    "work_slug": "theaterworkshop-macbeth",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/theaterworkshop-macbeth/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/theaterworkshop-my-fair-lady",
+    "work_slug": "theaterworkshop-my-fair-lady",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/theaterworkshop-my-fair-lady/",
     "creative_team": [],
     "cast": []
   },

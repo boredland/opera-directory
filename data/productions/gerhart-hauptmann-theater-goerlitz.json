@@ -288,6 +288,41 @@
     ]
   },
   {
+    "id": "gerhart-hauptmann-theater-goerlitz/messeschlager-gisela",
+    "work_slug": "gerd-natschinski/messeschlager-gisela",
+    "house_slug": "gerhart-hauptmann-theater-goerlitz",
+    "is_revival": false,
+    "presentation_note": "Operette in einem Vorspiel und drei Akten von Gerd Natschinski",
+    "detail_url": "https://www.g-h-t.de/de/spielplan-musiktheater/messeschlager-gisela/2027-06-12/13846/",
+    "creative_team": [
+      {
+        "person_slug": "wagner-moreira",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "albert-seidl",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ulrich-kern",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "director"
+      },
+      {
+        "person_slug": "thorsten-klein",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "gerhart-hauptmann-theater-goerlitz/nabucco",
     "work_slug": "giuseppe-verdi/nabucco",
     "house_slug": "gerhart-hauptmann-theater-goerlitz",

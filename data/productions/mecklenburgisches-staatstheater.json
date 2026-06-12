@@ -1,5 +1,62 @@
 [
   {
+    "id": "mecklenburgisches-staatstheater/die-kleine-meerjungfrau-2026002730",
+    "work_slug": "john-h-ybye/die-kleine-meerjungfrau",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/die-kleine-meerjungfrau-2026002730.html",
+    "creative_team": [
+      {
+        "person_slug": "aki-schmitt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "reinhild-kohncke",
+        "function": "director"
+      },
+      {
+        "person_slug": "thomas-schmidt-ehrenberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "silke-von-patay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mecklenburgische-staatskapelle",
+        "role_slug": "john-h-ybye/die-kleine-meerjungfrau/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester"
+      },
+      {
+        "person_slug": "linnea-vogel",
+        "role_slug": "john-h-ybye/die-kleine-meerjungfrau/die-kleine-meerjungfrau"
+      },
+      {
+        "person_slug": "reinhild-kohncke",
+        "role_slug": "john-h-ybye/die-kleine-meerjungfrau/erzahlerin"
+      },
+      {
+        "person_slug": "katrin-hubner",
+        "role_slug": "john-h-ybye/die-kleine-meerjungfrau/stimme-der-kleinen-meerjungfrau-sopran"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburgisches-staatstheater/va-pensiero-opernchorgala",
+    "work_slug": "va-pensiero-opernchorgala",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/va-pensiero-opernchorgala.html",
+    "creative_team": [
+      {
+        "person_slug": "dominik-beykirch",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mecklenburgisches-staatstheater/vergessene-komponistinnen",
     "work_slug": "vergessene-komponistinnen",
     "house_slug": "mecklenburgisches-staatstheater",

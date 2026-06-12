@@ -24,6 +24,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-attila/2026-07-05/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-attila",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "venue_room": "Mariinsky II",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-balmaskarad/2026-07-20/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-balmaskarad",
     "date": "2026-07-20",
@@ -115,6 +123,14 @@
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-falstaff-semistage/2026-07-04/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-falstaff-semistage",
     "date": "2026-07-04",
+    "time": "19:00",
+    "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-fanciulla-west/2026-07-18/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-fanciulla-west",
+    "date": "2026-07-18",
     "time": "19:00",
     "venue_room": "Concert Hall",
     "status": "scheduled"
@@ -272,6 +288,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-obruchenie-v-m/2026-07-10/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-obruchenie-v-m",
+    "date": "2026-07-10",
+    "time": "19:00",
+    "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov/2026-07-14/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
     "date": "2026-07-14",
@@ -384,6 +408,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-suor-angelica/2026-07-17/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-suor-angelica",
+    "date": "2026-07-17",
+    "time": "19:00",
+    "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-svadbafig-alex/2026-06-29/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-svadbafig-alex",
     "date": "2026-06-29",
@@ -469,6 +501,14 @@
     "date": "2026-06-26",
     "time": "19:00",
     "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-turandot/2026-07-31/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-turandot",
+    "date": "2026-07-31",
+    "time": "19:00",
+    "venue_room": "Mariinsky II",
     "status": "scheduled"
   },
   {

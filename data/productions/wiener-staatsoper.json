@@ -248,10 +248,6 @@
     "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Carmen/D-Carmen_2024-09-05DSC_2950.jpg",
     "creative_team": [
       {
-        "person_slug": "asher-fisch",
-        "function": "conductor"
-      },
-      {
         "person_slug": "bertrand-de-billy",
         "function": "conductor"
       },
@@ -262,19 +258,11 @@
     ],
     "cast": [
       {
-        "person_slug": "elmina-hasan",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
         "person_slug": "jusung-gabriel-park",
         "role_slug": "georges-bizet/carmen/dancaire"
       },
       {
         "person_slug": "charles-castronovo",
-        "role_slug": "georges-bizet/carmen/don-jose"
-      },
-      {
-        "person_slug": "freddie-de-tommaso",
         "role_slug": "georges-bizet/carmen/don-jose"
       },
       {
@@ -290,24 +278,12 @@
         "role_slug": "georges-bizet/carmen/frasquita"
       },
       {
-        "person_slug": "ilia-staple",
-        "role_slug": "georges-bizet/carmen/frasquita"
-      },
-      {
-        "person_slug": "anita-monserrat",
-        "role_slug": "georges-bizet/carmen/mercedes"
-      },
-      {
         "person_slug": "anna-bondarenko",
         "role_slug": "georges-bizet/carmen/micaela"
       },
       {
         "person_slug": "florina-ilie",
         "role_slug": "georges-bizet/carmen/micaela"
-      },
-      {
-        "person_slug": "alex-ilvakhin",
-        "role_slug": "georges-bizet/carmen/morales-sergeant"
       },
       {
         "person_slug": "carlos-osuna",

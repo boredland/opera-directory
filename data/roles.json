@@ -4720,6 +4720,16 @@
     "name": "Benvolio"
   },
   {
+    "slug": "charles-gounod/romeo-et-juliette/capulet",
+    "work_slug": "charles-gounod/romeo-et-juliette",
+    "name": "Capulet"
+  },
+  {
+    "slug": "charles-gounod/romeo-et-juliette/frere-jean",
+    "work_slug": "charles-gounod/romeo-et-juliette",
+    "name": "Frère Jean"
+  },
+  {
     "slug": "charles-gounod/romeo-et-juliette/frere-laurent",
     "work_slug": "charles-gounod/romeo-et-juliette",
     "name": "Frère Laurent"
@@ -4758,6 +4768,11 @@
     "slug": "charles-gounod/romeo-et-juliette/mercutio",
     "work_slug": "charles-gounod/romeo-et-juliette",
     "name": "Mercutio"
+  },
+  {
+    "slug": "charles-gounod/romeo-et-juliette/paris",
+    "work_slug": "charles-gounod/romeo-et-juliette",
+    "name": "Pâris"
   },
   {
     "slug": "charles-gounod/romeo-et-juliette/romeo",
@@ -6250,6 +6265,16 @@
     "name": "Werkstatt"
   },
   {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/gitarre",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Gitarre"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/kontrabass",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Kontrabass"
+  },
+  {
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/kuratiert-von",
     "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "name": "Kuratiert von"
@@ -6258,6 +6283,51 @@
     "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/mit",
     "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
     "name": "Mit"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/oboe-englischhorn-zurna",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Oboe, Englischhorn, Zurna"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/percussion-1",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Percussion 1"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/percussion-2",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Percussion 2"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/reeds-1",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Reeds 1"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/reeds-2",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Reeds 2"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/sprecher",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Sprecher"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/sprecherin-vocals",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Sprecherin, Vocals"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/violine",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Violine"
+  },
+  {
+    "slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade/violoncello",
+    "work_slug": "die-fusion-von-jazz-mit-lyrik-in-der-tischlerei/jazz-lyrics-iv-scheherazade",
+    "name": "Violoncello"
   },
   {
     "slug": "die-gro-e-stille/fagott",
@@ -9535,6 +9605,11 @@
     "name": "Prinz Sou-Chong"
   },
   {
+    "slug": "franz-lehar/das-land-des-lachelns/prinz-sou-chong-marz-20-april-2-10-16",
+    "work_slug": "franz-lehar/das-land-des-lachelns",
+    "name": "Prinz Sou-Chong (März: 20, April: 2/10/16)"
+  },
+  {
     "slug": "franz-lehar/das-land-des-lachelns/tschang-sou-chongs-onkel",
     "work_slug": "franz-lehar/das-land-des-lachelns",
     "name": "Tschang, Sou-Chongs Onkel"
@@ -11338,6 +11413,16 @@
     "slug": "georg-friedrich-handel/alcina/cembalo",
     "work_slug": "georg-friedrich-handel/alcina",
     "name": "Cembalo"
+  },
+  {
+    "slug": "georg-friedrich-handel/alcina/kontrabass",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Kontrabass"
+  },
+  {
+    "slug": "georg-friedrich-handel/alcina/laute-theorbe-barockgitarre",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "name": "Laute / Theorbe / Barockgitarre"
   },
   {
     "slug": "georg-friedrich-handel/alcina/melisso",
@@ -14185,6 +14270,11 @@
     "name": "First Handmaid"
   },
   {
+    "slug": "giacomo-puccini/turandot/henker-roboter-krankenschwester",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Henker / Roboter / Krankenschwester"
+  },
+  {
     "slug": "giacomo-puccini/turandot/hovdam",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Hovdam"
@@ -14223,6 +14313,11 @@
     "slug": "giacomo-puccini/turandot/mandarin",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Mandarin"
+  },
+  {
+    "slug": "giacomo-puccini/turandot/mond-roboter-kaiser-altoum-burger",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Mond / Roboter / Kaiser Altoum / Bürger"
   },
   {
     "slug": "giacomo-puccini/turandot/orchester",
@@ -17593,6 +17688,11 @@
     "slug": "giuseppe-verdi/la-traviata/un-domestico",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Un domestico"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/un-domestico-di-flora-un-commissionario",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Un Domestico di Flora/ Un Commissionario"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres",
@@ -23525,9 +23625,64 @@
     "name": "Choreografie & Inszenierung"
   },
   {
+    "slug": "john-h-ybye/die-kleine-meerjungfrau/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester",
+    "work_slug": "john-h-ybye/die-kleine-meerjungfrau",
+    "name": "Chor Opernchor des Mecklenburgischen Staatstheaters Orchester"
+  },
+  {
+    "slug": "john-h-ybye/die-kleine-meerjungfrau/die-kleine-meerjungfrau",
+    "work_slug": "john-h-ybye/die-kleine-meerjungfrau",
+    "name": "Die kleine Meerjungfrau"
+  },
+  {
+    "slug": "john-h-ybye/die-kleine-meerjungfrau/erzahlerin",
+    "work_slug": "john-h-ybye/die-kleine-meerjungfrau",
+    "name": "Erzählerin"
+  },
+  {
+    "slug": "john-h-ybye/die-kleine-meerjungfrau/stimme-der-kleinen-meerjungfrau-sopran",
+    "work_slug": "john-h-ybye/die-kleine-meerjungfrau",
+    "name": "Stimme der kleinen Meerjungfrau (Sopran)"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/allan-gray-zeitungsjunge-arzt",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Allan Gray / Zeitungsjunge / Arzt"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/allans-freund",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Allans Freund"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/blanche-dubois",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Blanche DuBois"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/blanches-schwester",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Blanches Schwester"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/brautjungfer-mit-ihren-begleiter",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Brautjungfer mit ihren Begleiter"
+  },
+  {
     "slug": "john-neumeier/endstation-sehnsucht/buhne-kostume-licht-dramaturgie",
     "work_slug": "john-neumeier/endstation-sehnsucht",
     "name": "Bühne / Kostüme / Licht / Dramaturgie"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/der-general",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Der General"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Die Stadt New Orleans"
   },
   {
     "slug": "john-neumeier/endstation-sehnsucht/dramaturgische-betreuung",
@@ -23535,14 +23690,69 @@
     "name": "Dramaturgische Betreuung"
   },
   {
+    "slug": "john-neumeier/endstation-sehnsucht/ein-soldat",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Ein Soldat"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/gro-mutter",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Großmutter"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/gro-vater",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Großvater"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/harold-mitchell-mitch",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Harold Mitchell (Mitch)"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/hochzeitsgaste",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Hochzeitsgäste"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/kiefaber",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Kiefaber"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/margarete",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Margarete"
+  },
+  {
     "slug": "john-neumeier/endstation-sehnsucht/musik",
     "work_slug": "john-neumeier/endstation-sehnsucht",
     "name": "Musik"
   },
   {
+    "slug": "john-neumeier/endstation-sehnsucht/pflegerin",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Pflegerin"
+  },
+  {
     "slug": "john-neumeier/endstation-sehnsucht/pianist",
     "work_slug": "john-neumeier/endstation-sehnsucht",
     "name": "Pianist"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/shaw",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Shaw"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/stanley-kowalski",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Stanley Kowalski"
+  },
+  {
+    "slug": "john-neumeier/endstation-sehnsucht/tante-jessie",
+    "work_slug": "john-neumeier/endstation-sehnsucht",
+    "name": "Tante Jessie"
   },
   {
     "slug": "jonathan-dove/der-geheime-garten/videodesign",
@@ -28315,6 +28525,36 @@
     "name": "Solistin"
   },
   {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Dankbarkeit"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Freude"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Hoteldirektorin"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/orchester",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Orchester"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Traurigkeit"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Wut"
+  },
+  {
     "slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit",
     "work_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "name": "Dankbarkeit"
@@ -28358,6 +28598,11 @@
     "slug": "mittsommerfeier-im-venezianischen-stil/maskenball/und",
     "work_slug": "mittsommerfeier-im-venezianischen-stil/maskenball",
     "name": "Und"
+  },
+  {
+    "slug": "mittsommerfeier-im-venezianischen-stil/maskenball/w-a-mozart",
+    "work_slug": "mittsommerfeier-im-venezianischen-stil/maskenball",
+    "name": "W. A. Mozart"
   },
   {
     "slug": "mittsu/orchester",
@@ -37085,9 +37330,19 @@
     "name": "Barkeeper"
   },
   {
+    "slug": "strangers-in-the-night/barkeeper-george",
+    "work_slug": "strangers-in-the-night",
+    "name": "Barkeeper George"
+  },
+  {
     "slug": "strangers-in-the-night/choreografie-inszenierung",
     "work_slug": "strangers-in-the-night",
     "name": "Choreografie & Inszenierung"
+  },
+  {
+    "slug": "strangers-in-the-night/choreografie-inszenierung-lichtdesign",
+    "work_slug": "strangers-in-the-night",
+    "name": "Choreografie, Inszenierung & Lichtdesign"
   },
   {
     "slug": "strangers-in-the-night/frank",
@@ -39195,6 +39450,41 @@
     "name": "Tizio"
   },
   {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/allazim",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Allazim"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/erzahler",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Erzähler"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/gomatz",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Gomatz"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/musikalische-leitung-klavier",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Musikalische Leitung, Klavier"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/projektleitung-dramaturgie-und-moderation-xd-xa-xd-xa-xd-xa-zusammenstellung-dramaturgie-und-moderation",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Projektleitung, Dramaturgie und Moderation&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Zusammenstellung, Dramaturgie und Moderation"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/sultan-soliman",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Sultan Soliman"
+  },
+  {
+    "slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide/zaide",
+    "work_slug": "wolfgang-amade-mozart/oper-am-klavier-ii-zaide",
+    "name": "Zaide"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-dame",
     "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
     "name": "1. Dame"
@@ -39343,6 +39633,11 @@
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers/lauren-scully",
     "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte-school-for-lovers",
     "name": "Lauren Scully"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/abendspielleitung",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Abendspielleitung"
   },
   {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/abendspielleitung-regieassistenz",

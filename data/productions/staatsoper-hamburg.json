@@ -1405,11 +1405,29 @@
   },
   {
     "id": "staatsoper-hamburg/details-2147484977-theaternacht-hamburg",
-    "work_slug": "theaternacht-hamburg",
+    "work_slug": "theater-shy-nacht-hamburg",
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/2147484977-theaternacht-hamburg",
     "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-2147485003-offene-probe-der-oper-macbeth-von-giuseppe-verdi",
+    "work_slug": "offene-probe-der-oper-macbeth-von-giuseppe-verdi",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/2147485003-offene-probe-der-oper-macbeth-von-giuseppe-verdi",
+    "creative_team": [
+      {
+        "person_slug": "tomas-hanus",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-kratzer",
+        "function": "director"
+      }
+    ],
     "cast": []
   },
   {
@@ -2886,10 +2904,6 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "11-6-26",
-        "function": "conductor"
-      },
-      {
         "person_slug": "13-12-26",
         "function": "conductor"
       },
@@ -2934,10 +2948,6 @@
         "function": "conductor"
       },
       {
-        "person_slug": "tohar-gil",
-        "function": "conductor"
-      },
-      {
         "person_slug": "barbara-drosihn",
         "function": "costume-designer"
       },
@@ -2970,10 +2980,6 @@
       {
         "person_slug": "jonah-hoskins",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/conte-almaviva"
-      },
-      {
-        "person_slug": "11-6-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/don-bartolo"
       },
       {
         "person_slug": "13-12-26",
@@ -3028,10 +3034,6 @@
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
       },
       {
-        "person_slug": "11-6-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
-      },
-      {
         "person_slug": "13-12-26",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
       },
@@ -3074,10 +3076,6 @@
       {
         "person_slug": "william-desbiens",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
-      },
-      {
-        "person_slug": "11-6-26",
-        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
       },
       {
         "person_slug": "13-12-26",
@@ -4267,7 +4265,7 @@
     "creative_team": [],
     "cast": [
       {
-        "person_slug": "ehemaligen-alsterspatzen",
+        "person_slug": "ehemalige-alsterspatzen",
         "role_slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen/gaste"
       },
       {

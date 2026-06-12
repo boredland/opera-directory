@@ -22,6 +22,14 @@
     "status": "scheduled"
   },
   {
+    "id": "semperoper-dresden/61859/2026-06-21/14:00",
+    "production_id": "semperoper-dresden/61859",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "venue_room": "Semperoper Dresden",
+    "status": "scheduled"
+  },
+  {
     "id": "semperoper-dresden/61859/2026-06-21/19:00",
     "production_id": "semperoper-dresden/61859",
     "date": "2026-06-21",
@@ -88,6 +96,14 @@
     "production_id": "semperoper-dresden/62376",
     "date": "2026-06-10",
     "venue_room": "Dresdner Neustadt",
+    "status": "scheduled"
+  },
+  {
+    "id": "semperoper-dresden/62482/2026-07-01/19:00",
+    "production_id": "semperoper-dresden/62482",
+    "date": "2026-07-01",
+    "time": "19:00",
+    "venue_room": "Semperoper Dresden",
     "status": "scheduled"
   },
   {
