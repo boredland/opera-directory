@@ -2006,5 +2006,115 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Lyon opera house. Nuxt (Vue) SSR, French, plain fetch (200 to crawler UA, no proxy), no schema.org Event JSON-LD. **Genre is in the URL (/saison-{YYYY-YYYY}/opera/{slug} vs /danse/ /concert/) — that IS the opera filter.** Season listings /programmation-reservations/saison-{YYYY-YYYY} link productions; current+next season = live leg (no deep archive). Detail page: `<h1>` title; composer after 'Un opéra de {X}'; **creative team AND cast both as `<h2>{label}</h2>{name}` pairs** — French function labels (Direction musicale→conductor, Mise en scène→director, Scénographie/Décors→set, Lumières→lighting, Costumes→costume, Chœurs→chorus-master) → creative, every other label = cast character role (trailing */**/*** debut markers stripped). **Run date RANGE printed in HTML ('4 oct. - 20 oct. 2026'); individual nights with times live as ISO `startDate`s in the inline window.__NUXT__ state → performances = state startDates within the run range.** No Wikidata QID."
+  },
+  {
+    "slug": "teatro-dell-opera-di-roma",
+    "name": "Teatro dell'Opera di Roma",
+    "city": "Rome",
+    "country": "IT",
+    "website": "https://www.operaroma.it",
+    "wikidata": "Q1050350",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Rome fondazione lirica — WordPress/WPML SPA, no JSON-LD/REST-for-shows, no proxy. The season page is fed by ONE admin-ajax fragment: /wp-admin/admin-ajax.php?action=stagione&lang=it returns EVERY show of every season (2018→) as li.spettacolo cards (a.title, composer div.musica-di, discipline div.terms, date range + venue). **Opera filter = the Italian discipline term 'Opere' in div.terms** (drops Balletti/Concerti/Pop/Tournée/Off/Extra/Teatro Digitale; 'Caracalla Festival'/'Circo Massimo' are VENUE terms not disciplines), backed by a required composer byline. Detail /spettacoli/{slug}/: h1 title, div.subtitle-1 'Musica di {X}' (Circo Massimo summer pages drop the 'di'), div.ruoli creative team (Italian labels mapped in-adapter; cast role→singer too irregular → empty), ul.datelist perfs (.giorno/.mese + ORE HH:MM, **NO year → take it from the listing card's date range; the detail stagione-show label LAGS a year**), venue from widget_dove (Teatro Costanzi / Terme di Caracalla / Circo Massimo). Backfill Wikidata Q1050350 (the building, 64 premieres incl. Tosca 1900; company Q113486288 has 2). 8 live."
+  },
+  {
+    "slug": "teatro-regio-torino",
+    "name": "Teatro Regio Torino",
+    "city": "Turin",
+    "country": "IT",
+    "website": "https://www.teatroregio.torino.it",
+    "wikidata": "Q183202",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Turin fondazione lirica — Drupal SSR, no JSON-LD/API, no proxy. One 'opera e balletto' season shares the /opera-e-balletto-{YYYY-YYYY}/{slug} tree + detail template across opera AND ballet, both carrying a composer byline — so **the opera gate is the presence of a sung voice-type cast (views-field-name = Soprano/Tenore/Basso/…); ballets list dancers with no voice type** (drops Swan Lake/Caravaggio/Romeo e Giulietta). Discover detail URLs from the homepage + /calendario/opera + /biglietti/opera-e-balletto-{YYYY-YYYY} (current+next, rollover-robust; old season URLs 404). Composer in the views-field-title h1 'Title<span> | Composer</span>'; performances views-field-field-event-config-date-1 `<time>` rows (**the Z is fake → trust the displayed HH:MM**); **creative team puts the NAME BEFORE the label (opposite of La Scala) and one label can combine functions** ('regia, scene, costumi, coreografia e luci' → emit per matched function). Cast names strip '(Regio Ensemble)' hints. Backfill Wikidata Q183202 (the building, 92 works incl. Bohème 1896/Manon Lescaut 1893 premieres; fondazione Q55372505 has 0). 2 live (rest of season played out)."
+  },
+  {
+    "slug": "teatro-comunale-di-bologna",
+    "name": "Teatro Comunale di Bologna",
+    "city": "Bologna",
+    "country": "IT",
+    "website": "https://www.tcbo.it",
+    "wikidata": "Q2306368",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Bologna fondazione lirica (playing the temporary Comunale Nouveau + Teatro Manzoni during the historic theatre's restoration) — WordPress/uncode, no proxy. Events are a `portfolio` CPT at /eventi/{slug}/ under eventi_cat (opera/danza/concerti/altri-eventi). **Detail pages carry NO per-night dates → the announced future comes from the server-rendered homepage event-calendar carousel (craqEventCalendarSlide: day + Italian month + eventCalendarTerms + /eventi/{slug}/ link + '{venue}, HH:MM'); term='Opera' is the staged-opera filter, nights group by slug; the carousel OMITS the year → inferred forward from today.** Detail page then yields title (h2 span), composer (the h4 span under it = REQUIRED gate), credits as 'label<br><strong>name</strong>' across h5 blocks + 'Team creativo'/'Personaggi e interpreti' p-rows (Italian labels mapped, alternate-night casts split on '/'), dropping 'in forma di concerto' concert-form billings. Backfill Wikidata Q2306368 (~32 works incl. Don Carlos 1867 premiere). 1 live (Napoli Milionaria/Rota)."
+  },
+  {
+    "slug": "teatro-massimo-palermo",
+    "name": "Teatro Massimo",
+    "city": "Palermo",
+    "country": "IT",
+    "website": "https://www.teatromassimo.it",
+    "wikidata": "Q261439",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Palermo fondazione lirica (Italy's largest opera house by volume) — no proxy. **The /calendario/ page embeds the ENTIRE dated programme as an inline `var events = [ … ]` array (1731 rows, 2017→future) in one fetch** — one object per performed night with permalink, category_slug, local-time year/month/day + time, place (room). Filter category_slug==='opere' (the opera gate), group by permalink, fetch each IT /event/{slug}/ detail once for composer (5 byline formats incl. 'Musiche di'/'Musica di'/genre-line-ending-'di'/bare-name) + event__artists-info__text credits (Italian labels mapped; cast under 'Personaggi e interpreti'). No JSON-LD (Yoast only); WP REST event 401s. **CAVEAT: the house occasionally mis-tags non-operas as 'opere' (Giselle ballet, the musicals My Fair Lady / Lady Be Good) — kept faithful to the house taxonomy + composer gate (corpo di ballo is not a usable discriminator — Aida has one); resolver/QA catches these.** Calendar page ~1.8MB/~6s. Backfill Wikidata Q261439 (8 premieres). 4 live / 44 backfill."
+  },
+  {
+    "slug": "teatro-carlo-felice-genova",
+    "name": "Teatro Carlo Felice",
+    "city": "Genoa",
+    "country": "IT",
+    "website": "https://operacarlofelicegenova.it",
+    "wikidata": "Q2299021",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Genoa fondazione lirica — WordPress, no proxy (the verified www.carlofelicegenova.it 301s to operacarlofelicegenova.it = canonical). Opera shows are a `show` CPT gated by the `discipline` taxonomy → **/wp-json/wp/v2/show?discipline=4 (the 'lirica' term; balletto=2, sinfonica=5) is the opera filter** and returns every staged opera across all seasons (~49) in one call (the window gates performances, not which shows). REST acf unexposed + content.rendered omits the calendar → fetch each /spettacolo/{slug}/ SSR detail: composer from 'Musica di <strong>{X}</strong>' (current) or the first-paragraph '{form} … di {X}' / reversed 'Title {Composer} {form}' byline (older pages), REQUIRED; performances from table.dkr-calendar-table (DD/MM/YYYY, Ore HH:MM, vivaticket/'non più disponibili' status); creative+cast from 'label<br><strong>Name</strong>' rows with `<em>Role</em>` marking sung characters + per-night '(16,18,20)' rotations + Accademia '*' flattened. Backfill Wikidata Q2299021 (~39 works incl. Amleto/Faccio 1865). 2 live / 34 backfill."
+  },
+  {
+    "slug": "teatro-petruzzelli-bari",
+    "name": "Teatro Petruzzelli",
+    "city": "Bari",
+    "country": "IT",
+    "website": "https://www.fondazionepetruzzelli.it",
+    "wikidata": "Q845510",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Bari fondazione lirica — WordPress, no JSON-LD, no structured cast, no proxy. Use the REST API (/wp-json/wp/v2/eventi?categories=) ONLY as a per-season INDEX (ids + detail links); load-bearing data (precise per-night dates/times, composer, creative team) is on the SSR /eventi/{slug}/ detail page. **Opera strand = category opera-e-balletto (id 16) with per-year child terms (2014…2025) + a current-season sibling ob-{year} (e.g. ob-2026)**; incremental walks ob-{year}/+1 + the latest year-child, backfill walks year-children to window.since (floor 2021 — older markup thins). **Opera gate on the detail page: composer REQUIRED (title composer-segment → div.autore_evento full name → content 'musica di {X}'/leading 'di {X}', EXCLUDING the 'libretto di' librettist) + a `direttore` conductor credit + no ballet marker (Balletto in/scuola di ballo/teatro danza; a bare 'corpo di ballo' is fine).** Performances from the Orari Spettacoli block (div.date 'WEEKDAY DD MONTH YYYY - HH:MM | turno', Italian months, 24h). Credits `<em>label</em> <strong>Name</strong>` — names fracture across adjacent bold tags → strip boundaries, split on |/comma/' e '. Backfill Wikidata Q845510 (4 premieres; WDQS 403s datacenter IPs → relies on the proxy in CI). cast empty (none published). 4 live / 23 backfill."
+  },
+  {
+    "slug": "teatro-verdi-trieste",
+    "name": "Teatro Lirico Giuseppe Verdi",
+    "city": "Trieste",
+    "country": "IT",
+    "website": "https://www.teatroverdi-trieste.com",
+    "wikidata": "Q2294135",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Trieste fondazione lirica (+ famous operetta tradition) — WordPress, no season index, no proxy (.it domain doesn't resolve — use .com). JSON-LD is Yoast boilerplate. **Detail URLs from the open wp-json/wp/v2/spettacoli REST (paginated newest-first; returns each show twice it+en → keep only /it/spettacoli/ links); incremental reads 2 pages, backfill up to 8.** Facts from the SSR detail DOM (REST acf/meta unexposed): title h1.spettacolo-header-title; **composer = opera gate, from the Informazioni paragraphs 'Musica di {X}', fallback bare 'di {X}', last-resort 'da {work} di {X}'** (the header small-title is the GENRE not composer; one-act reductions credit the adapter); dates from the header `<strong>` Italian day-list spanning months under one trailing year ('27, 28 febbraio, 1, 6, 7, 8 marzo 2026'), times not published → null; credits spettacolo-ruolo/spettacolo-artista across 'La produzione' (creative) + 'Personaggi e interpreti' (cast), Italian labels mapped. Keep opera AND operetta (Kálmán/Benatzky); drop balletto/danza/recital + STAGIONE SINFONICA concerts. **Site 429s on rapid sequential fetches → the adapter paces detail fetches ~1.1s apart with a 429-aware backoff retry (no proxy for this host); proxy:false.** Backfill Wikidata Q2294135 (31 premieres incl. Verdi's Stiffelio 1850/Il corsaro 1848; company Q113070645 has 0). 4 live / 63 backfill."
+  },
+  {
+    "slug": "teatro-lirico-di-cagliari",
+    "name": "Teatro Lirico di Cagliari",
+    "city": "Cagliari",
+    "country": "IT",
+    "website": "https://www.liricocagliari.it",
+    "wikidata": "Q1453465",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Cagliari (Sardinia) fondazione lirica — WordPress + Elementor, no proxy (teatroliricodicagliari.it 301s to liricocagliari.it). Programming is an `evento` CPT tagged by categoria-evento (Opera/Danza/Concerti/Rotte Sonore). **The `opera` term IS the staged-opera filter: resolve its id via /wp-json/wp/v2/categoria-evento?slug=opera, list /wp-json/wp/v2/evento?categoria-evento={id}, then scrape each SSR detail (REST omits the body; JSON-LD Yoast-only).** Composer from 'Musica di {X}' (gate); cast `role <strong>Singer</strong>` lines in the 'Cast' block (one opera prints these without bold → cast empty, faithful); creative 'label Name' in 'Team creativo' (Italian labels mapped). **Performance cards (.widget-date-item) carry day-of-week + DD/MM + HH:MM but NO year, and the 'dal…al…YYYY' byline is an unreliable placeholder → infer the year PER PRODUCTION by voting each card's printed weekday against the calendar (robust to the site's occasional mistyped weekday).** Site holds only the current season (~30 events, no archive); Wikidata Q1453465 has 0 P4647/P272 → backfill empty. 3 live."
+  },
+  {
+    "slug": "teatro-regio-di-parma",
+    "name": "Teatro Regio di Parma",
+    "city": "Parma",
+    "country": "IT",
+    "website": "https://teatroregioparma.it",
+    "wikidata": "Q2096472",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Parma teatro di tradizione + home of the autumn Festival Verdi — block-theme WordPress (LiteSpeed), no proxy. A `show` CPT at /wp-json/wp/v2/show with a show-category taxonomy segregates the cartellone. **Pull the staged-opera strands — terms opera, festival-verdi + per-season variants stagione-{NN}-opera / edizione-{NN}-festival-verdi, resolved at runtime from /wp-json/wp/v2/show-category** — then parse each show's content.rendered Gutenberg markup (REST payload has no structured fields): composer from the 'Musica <strong>…</strong>' byline (fallback div.subtitle — the byline FIXES subtitle typos like 'Vicenzo Bellini'), **performances from the header `<ul class=dates>` ('{D}<br>{mon}<br>{YYYY}' — the only year-bearing source; stripHtml eats the <br> newlines so split on /\\s+/), times matched back from show-date rows on day+month**, creative 'label <strong>Name</strong>', cast div.profile cards. **Opera gate (mirrors La Scala): person-name composer + ≥1 dated perf + ≥1 sung character-role cast** (drops prove-aperte/talks/galas/concerti/recital + the Ramificazioni dance series). Festival Verdi autumn productions captured. Backfill Wikidata Q2096472 (31 works, all pre-1990 premieres). 9 live."
+  },
+  {
+    "slug": "teatro-donizetti-bergamo",
+    "name": "Fondazione Teatro Donizetti",
+    "city": "Bergamo",
+    "country": "IT",
+    "website": "https://www.teatrodonizetti.it",
+    "wikidata": "Q3516755",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Bergamo teatro di tradizione + home of the autumn Donizetti Opera festival (same Avada/WordPress stack as the festival site donizettiopera.org) — no proxy. Listing pages are JS-rendered → **discovery rides the custom calendar plugin at ecal.teatrodonizetti.it/api/calendar_feed (POST urlencoded start/end/lang/categorie/calendari/view=listMonthCustom, empty filters → all ~181 events)** which carries slug/title/data_std/ora/altreDate[] (Italian 'DD mese YYYY')/luogo/categorie[]. Keep only opera-{year} / il-festival-donizetti-opera / opera-concerti categories, then fetch each /it/evento/{slug}/ detail — **season operas serve content on teatrodonizetti.it, the current festival edition on donizettiopera.org, so try BOTH per slug and keep the one with a 'musica di' byline**. Detail opera gate: 'musica di {Composer}' + a non-balletto/concerto genre line + sung cast (drops the danced Carmen + Opera&Concerti concerti). Credits 'label <strong>Name</strong>' (<em> locandina or p.MsoNormal block; <br> sometimes inside </strong>, names split across adjacent strongs; 'musica di' added to NON_ROLE to stop it leaking to cast). Past festival editions are content-less stubs → Wikidata backfill Q3516755 (~16 dated premieres 1828–1967; company Q113482159 has 0). 5 live."
   }
 ]
