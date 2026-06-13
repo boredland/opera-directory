@@ -42,15 +42,15 @@
       },
       {
         "person_slug": "anne-preu",
-        "role_slug": "richard-strauss/arabella/arabella-seine-tochter"
-      },
-      {
-        "person_slug": "kathrin-rieger-loeck",
-        "role_slug": "richard-strauss/arabella/begleiterin-der-arabella"
+        "role_slug": "richard-strauss/arabella/arabella-ihre-tochter"
       },
       {
         "person_slug": "julia-gromball",
         "role_slug": "richard-strauss/arabella/die-fiakermilli"
+      },
+      {
+        "person_slug": "michael-schmortte",
+        "role_slug": "richard-strauss/arabella/djura-diener-des-mandryka"
       },
       {
         "person_slug": "andreas-veit",
@@ -77,14 +77,6 @@
         "role_slug": "richard-strauss/arabella/graf-waldner-rittermeister-a-d"
       },
       {
-        "person_slug": "statisterie",
-        "role_slug": "richard-strauss/arabella/groom-kellner"
-      },
-      {
-        "person_slug": "michael-schmortte",
-        "role_slug": "richard-strauss/arabella/jankel-diener-des-mandryka"
-      },
-      {
         "person_slug": "alejandro-larraga-schleske",
         "role_slug": "richard-strauss/arabella/mandryka"
       },
@@ -94,11 +86,11 @@
       },
       {
         "person_slug": "roman-koshmanov",
-        "role_slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka"
+        "role_slug": "richard-strauss/arabella/welko-diener-des-mandryka"
       },
       {
         "person_slug": "natalie-image",
-        "role_slug": "richard-strauss/arabella/zdenka-seine-tochter"
+        "role_slug": "richard-strauss/arabella/zdenka-ihre-tochter"
       }
     ]
   },
@@ -128,6 +120,10 @@
       {
         "person_slug": "benita-roth",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "rene-gruner",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -141,15 +137,15 @@
       },
       {
         "person_slug": "anne-preu",
-        "role_slug": "richard-strauss/arabella/arabella-seine-tochter"
-      },
-      {
-        "person_slug": "kathrin-rieger-loeck",
-        "role_slug": "richard-strauss/arabella/begleiterin-der-arabella"
+        "role_slug": "richard-strauss/arabella/arabella-ihre-tochter"
       },
       {
         "person_slug": "julia-gromball",
         "role_slug": "richard-strauss/arabella/die-fiakermilli"
+      },
+      {
+        "person_slug": "michael-schmortte",
+        "role_slug": "richard-strauss/arabella/djura-diener-des-mandryka"
       },
       {
         "person_slug": "andreas-veit",
@@ -176,14 +172,6 @@
         "role_slug": "richard-strauss/arabella/graf-waldner-rittermeister-a-d"
       },
       {
-        "person_slug": "statisterie",
-        "role_slug": "richard-strauss/arabella/groom-kellner"
-      },
-      {
-        "person_slug": "michael-schmortte",
-        "role_slug": "richard-strauss/arabella/jankel-diener-des-mandryka"
-      },
-      {
         "person_slug": "alejandro-larraga-schleske",
         "role_slug": "richard-strauss/arabella/mandryka"
       },
@@ -193,11 +181,11 @@
       },
       {
         "person_slug": "roman-koshmanov",
-        "role_slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka"
+        "role_slug": "richard-strauss/arabella/welko-diener-des-mandryka"
       },
       {
         "person_slug": "natalie-image",
-        "role_slug": "richard-strauss/arabella/zdenka-seine-tochter"
+        "role_slug": "richard-strauss/arabella/zdenka-ihre-tochter"
       }
     ]
   },
@@ -254,7 +242,7 @@
     ],
     "cast": [
       {
-        "person_slug": "juan-camillo-yepes-acevedo",
+        "person_slug": "juan-camilo-yepes-acevedo",
         "role_slug": "pietro-mascagni/cavalleria-rusticana-pagliacci/1-bauer"
       },
       {

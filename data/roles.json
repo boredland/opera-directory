@@ -2390,6 +2390,11 @@
     "name": "Esmeralda"
   },
   {
+    "slug": "bedrich-smetana/die-verkaufte-braut/esmeralda-komodiantin",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Esmeralda, Komödiantin"
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut/hans",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Hans"
@@ -2405,6 +2410,11 @@
     "name": "Háta (Agnes)"
   },
   {
+    "slug": "bedrich-smetana/die-verkaufte-braut/hata-seine-frau",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Háta, seine Frau"
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut/inszenierung-und-kostume",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Inszenierung und Kostüme"
@@ -2415,9 +2425,19 @@
     "name": "Jeník"
   },
   {
+    "slug": "bedrich-smetana/die-verkaufte-braut/jenik-michas-sohn-aus-erster-ehe",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Jeník, Míchas Sohn aus erster Ehe"
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut/kecal",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Kecal"
+  },
+  {
+    "slug": "bedrich-smetana/die-verkaufte-braut/kecal-heiratsvermittler",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Kecal, Heiratsvermittler"
   },
   {
     "slug": "bedrich-smetana/die-verkaufte-braut/kezal",
@@ -2430,6 +2450,11 @@
     "name": "Kruschina"
   },
   {
+    "slug": "bedrich-smetana/die-verkaufte-braut/krusina-ein-bauer",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Krušina, ein Bauer"
+  },
+  {
     "slug": "bedrich-smetana/die-verkaufte-braut/ludmila",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Ludmila"
@@ -2438,6 +2463,11 @@
     "slug": "bedrich-smetana/die-verkaufte-braut/marenka",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Mařenka"
+  },
+  {
+    "slug": "bedrich-smetana/die-verkaufte-braut/marenka-beider-tochter",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Mařenka, beider Tochter"
   },
   {
     "slug": "bedrich-smetana/die-verkaufte-braut/marie",
@@ -2458,6 +2488,11 @@
     "slug": "bedrich-smetana/die-verkaufte-braut/vasek",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Vašek"
+  },
+  {
+    "slug": "bedrich-smetana/die-verkaufte-braut/vasek-beider-sohn",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Vašek, beider Sohn"
   },
   {
     "slug": "bedrich-smetana/die-verkaufte-braut/wenzel",
@@ -3585,6 +3620,11 @@
     "name": "Stellvertretende Leitung Terrain"
   },
   {
+    "slug": "break-the-stage/szenische-einstudierung",
+    "work_slug": "break-the-stage",
+    "name": "Szenische Einstudierung"
+  },
+  {
     "slug": "brett-dean/of-one-blood/elizabeth-i",
     "work_slug": "brett-dean/of-one-blood",
     "name": "Elizabeth I"
@@ -3853,6 +3893,11 @@
     "slug": "camille-saint-saens/samson-et-dalila/high-priest-of-dagon",
     "work_slug": "camille-saint-saens/samson-et-dalila",
     "name": "High Priest of Dagon"
+  },
+  {
+    "slug": "camille-saint-saens/samson-et-dalila/musikalische-leitung-kiril-stankow-regie",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "name": "Musikalische Leitung Kiril Stankow Regie"
   },
   {
     "slug": "camille-saint-saens/samson-et-dalila/oberpriester-des-dagon",
@@ -7420,6 +7465,51 @@
     "name": "Violine"
   },
   {
+    "slug": "elektra/aegisth",
+    "work_slug": "elektra",
+    "name": "Aegisth"
+  },
+  {
+    "slug": "elektra/chrysothemis",
+    "work_slug": "elektra",
+    "name": "Chrysothemis"
+  },
+  {
+    "slug": "elektra/der-pfleger-des-orest",
+    "work_slug": "elektra",
+    "name": "Der Pfleger des Orest"
+  },
+  {
+    "slug": "elektra/die-aufseherin",
+    "work_slug": "elektra",
+    "name": "Die Aufseherin"
+  },
+  {
+    "slug": "elektra/die-schlepptragerin",
+    "work_slug": "elektra",
+    "name": "Die Schleppträgerin"
+  },
+  {
+    "slug": "elektra/elektra",
+    "work_slug": "elektra",
+    "name": "Elektra"
+  },
+  {
+    "slug": "elektra/funfte-magd",
+    "work_slug": "elektra",
+    "name": "Fünfte Magd"
+  },
+  {
+    "slug": "elektra/klytamnestra",
+    "work_slug": "elektra",
+    "name": "Klytämnestra"
+  },
+  {
+    "slug": "elektra/orest",
+    "work_slug": "elektra",
+    "name": "Orest"
+  },
+  {
     "slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer/anfuhrerin-des-vogelzugs",
     "work_slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "name": "Anführerin des Vogelzugs"
@@ -8685,6 +8775,11 @@
     "name": "Mordred"
   },
   {
+    "slug": "errata/regie-zino-wey-kostume-pascale-martin-dramaturgie",
+    "work_slug": "errata",
+    "name": "Regie Zino Wey Kostüme Pascale Martin Dramaturgie"
+  },
+  {
     "slug": "eugen-suchon/svatopluk/blagota",
     "work_slug": "eugen-suchon/svatopluk",
     "name": "Blagota"
@@ -9148,6 +9243,56 @@
     "slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike/videodesign",
     "work_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike",
     "name": "Videodesign"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/calisto",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Calisto"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/diana",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Diana"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/endimione",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Endimione"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/giove",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Giove"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/giunone",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Giunone"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/linfea",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Linfea"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/mercurio",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Mercurio"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/pane",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Pane"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/satirino",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Satirino"
+  },
+  {
+    "slug": "francesco-cavalli/la-calisto/silvano",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "name": "Silvano"
   },
   {
     "slug": "francesco-cilea/adriana-lecouvreur/a-butler",
@@ -11255,6 +11400,31 @@
     "name": "Talbot"
   },
   {
+    "slug": "gaetano-donizetti/opera-on-wheels-il-campanello/don-annibale-pistacchio",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "name": "Don Annibale Pistacchio"
+  },
+  {
+    "slug": "gaetano-donizetti/opera-on-wheels-il-campanello/enrico",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "name": "Enrico"
+  },
+  {
+    "slug": "gaetano-donizetti/opera-on-wheels-il-campanello/madama-rosa",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "name": "Madama Rosa"
+  },
+  {
+    "slug": "gaetano-donizetti/opera-on-wheels-il-campanello/serafina",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "name": "Serafina"
+  },
+  {
+    "slug": "gaetano-donizetti/opera-on-wheels-il-campanello/spiridione",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "name": "Spiridione"
+  },
+  {
     "slug": "gaetano-donizetti/the-elixir-of-love/adina",
     "work_slug": "gaetano-donizetti/the-elixir-of-love",
     "name": "Adina"
@@ -11728,6 +11898,46 @@
     "slug": "georg-friedrich-handel/ottone/teofane",
     "work_slug": "georg-friedrich-handel/ottone",
     "name": "Teofane"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/almirena",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Almirena"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/argante",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Argante"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/armida",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Armida"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/choregrafie",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Choregrafie"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/eustazio",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Eustazio"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/goffredo",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Goffredo"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/mago-cristiano",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Mago cristiano"
+  },
+  {
+    "slug": "georg-friedrich-handel/rinaldo/rinaldo",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "name": "Rinaldo"
   },
   {
     "slug": "georg-friedrich-handel/xerxes/amastre",
@@ -17180,6 +17390,11 @@
     "name": "Melitone (gesungen)"
   },
   {
+    "slug": "giuseppe-verdi/la-forza-del-destino/padre-guardiano",
+    "work_slug": "giuseppe-verdi/la-forza-del-destino",
+    "name": "Padre Guardiano"
+  },
+  {
     "slug": "giuseppe-verdi/la-forza-del-destino/preziosilla",
     "work_slug": "giuseppe-verdi/la-forza-del-destino",
     "name": "Preziosilla"
@@ -17740,9 +17955,19 @@
     "name": "Federica"
   },
   {
+    "slug": "giuseppe-verdi/luisa-miller/federica-herzogin-von-ostheim",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "name": "Federica, Herzogin von Ostheim"
+  },
+  {
     "slug": "giuseppe-verdi/luisa-miller/graf-von-walter",
     "work_slug": "giuseppe-verdi/luisa-miller",
     "name": "Graf von Walter"
+  },
+  {
+    "slug": "giuseppe-verdi/luisa-miller/graf-von-walter-sein-vater",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "name": "Graf von Walter, sein Vater"
   },
   {
     "slug": "giuseppe-verdi/luisa-miller/il-conte-di-walter",
@@ -17758,6 +17983,11 @@
     "slug": "giuseppe-verdi/luisa-miller/luisa",
     "work_slug": "giuseppe-verdi/luisa-miller",
     "name": "Luisa"
+  },
+  {
+    "slug": "giuseppe-verdi/luisa-miller/luisa-miller",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "name": "Luisa Miller"
   },
   {
     "slug": "giuseppe-verdi/luisa-miller/miller",
@@ -18888,6 +19118,46 @@
     "slug": "giuseppe-verdi/simon-boccanegra/un-capitano",
     "work_slug": "giuseppe-verdi/simon-boccanegra",
     "name": "Un Capitano"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/dorotea",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Dorotea"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/federico",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Federico"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/jorg",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Jorg"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/lina",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Lina"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/mitarbeit-buhne",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Mitarbeit Bühne"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/raffaele",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Raffaele"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/stankar",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Stankar"
+  },
+  {
+    "slug": "giuseppe-verdi/stiffelio/stiffelio",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "name": "Stiffelio"
   },
   {
     "slug": "giuseppe-verdi/un-ballo-in-maschera/a-judge",
@@ -24770,14 +25040,39 @@
     "name": "Orchester"
   },
   {
+    "slug": "kids-only-3-ich-zieh-aus/horn",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "name": "Horn"
+  },
+  {
     "slug": "kids-only-3-ich-zieh-aus/orchester",
     "work_slug": "kids-only-3-ich-zieh-aus",
     "name": "Orchester"
   },
   {
+    "slug": "kids-only-3-ich-zieh-aus/posaune",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "name": "Posaune"
+  },
+  {
     "slug": "kids-only-3-ich-zieh-aus/schauspieler",
     "work_slug": "kids-only-3-ich-zieh-aus",
     "name": "Schauspieler"
+  },
+  {
+    "slug": "kids-only-3-ich-zieh-aus/trompete",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "name": "Trompete"
+  },
+  {
+    "slug": "kids-only-3-ich-zieh-aus/viola",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "name": "Viola"
+  },
+  {
+    "slug": "kids-only-3-ich-zieh-aus/violine",
+    "work_slug": "kids-only-3-ich-zieh-aus",
+    "name": "Violine"
   },
   {
     "slug": "kids-only-3-pssst-streng-geheim/orchester",
@@ -26210,6 +26505,16 @@
     "name": "Velma"
   },
   {
+    "slug": "leonard-evers/gold/jacob",
+    "work_slug": "leonard-evers/gold",
+    "name": "Jacob"
+  },
+  {
+    "slug": "leonard-evers/gold/schlagwerk",
+    "work_slug": "leonard-evers/gold",
+    "name": "Schlagwerk"
+  },
+  {
     "slug": "leos-janacek-thomas-ades/vanishings/mitarbeit-buhne",
     "work_slug": "leos-janacek-thomas-ades/vanishings",
     "name": "Mitarbeit Bühne"
@@ -27190,6 +27495,11 @@
     "name": "Alte Leonore"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/autorin-maike-graf-besetzung-leonore",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Autorin Maike Graf Besetzung Leonore"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/besetzung",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Besetzung"
@@ -27198,6 +27508,11 @@
     "slug": "ludwig-van-beethoven/fidelio/buhnen-und-kostumbild",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Bühnen- und Kostümbild"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Chor Opernchor des Mecklenburgischen Staatstheaters Orchester"
   },
   {
     "slug": "ludwig-van-beethoven/fidelio/dessen-frau-unter-dem-namen-fidelio",
@@ -27335,6 +27650,11 @@
     "name": "Prisoner 2"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-dramaturgie",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Regie Kerstin Steeb Bühne und Video Christopher Dippert Kostüme Sofia Dorazio Brockhausen Dramaturgie"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/rocco",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Rocco"
@@ -27343,6 +27663,11 @@
     "slug": "ludwig-van-beethoven/fidelio/rocco-gaoler",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Rocco, gaoler"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/rocco-gerard-farreras-florestan-roman-payer-pizarro",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Rocco Gerard Farreras Florestan Roman Payer Pizarro"
   },
   {
     "slug": "ludwig-van-beethoven/fidelio/second-prisoner",
@@ -27358,6 +27683,41 @@
     "slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Zweiter Gefangener"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/don-fernando",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Don Fernando"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/don-pizarro",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Don Pizarro"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/florestan",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Florestan"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/jaquino",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Jaquino"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/leonore",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Leonore"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/marzelline",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Marzelline"
+  },
+  {
+    "slug": "ludwig-van-beethoven/leonore/rocco",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "name": "Rocco"
   },
   {
     "slug": "luigi-cherubini/medea/capitano-della-guardia",
@@ -27578,6 +27938,21 @@
     "slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2/regiehospitanz",
     "work_slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2",
     "name": "Regiehospitanz"
+  },
+  {
+    "slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/finn",
+    "work_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe",
+    "name": "Finn"
+  },
+  {
+    "slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/sangerin-ameise-note-u-a",
+    "work_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe",
+    "name": "Sängerin / Ameise / Note u. a."
+  },
+  {
+    "slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/taube-note-u-a",
+    "work_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe",
+    "name": "Taube / Note u. a."
   },
   {
     "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik/augustus-gier",
@@ -27888,6 +28263,26 @@
     "slug": "mark-anthony-turnage/festen/trine",
     "work_slug": "mark-anthony-turnage/festen",
     "name": "Trine"
+  },
+  {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/die-ahnen-der-addams-family",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Die Ahnen der Addams Family"
+  },
+  {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/gomez-addams",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Gomez Addams"
+  },
+  {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/mal-beineke",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Mal Beineke"
+  },
+  {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/wednesday-addams",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Wednesday Addams"
   },
   {
     "slug": "martin-nachbar-urauffuhrung/wenn-ich-s-nicht-tanzen-kann-fuhl-ich-s-nicht-7/buhne-kostum",
@@ -28328,6 +28723,36 @@
     "slug": "michail-glinka/ruslan-und-ljudmila/swetosar",
     "work_slug": "michail-glinka/ruslan-und-ljudmila",
     "name": "Swetosar"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/alexandre-adolphus-bastable",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Alexandre / Adolphus Bastable"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/das-portrat",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Das Porträt"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/lady-magnesia-armande",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Lady Magnesia / Armande"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/phyllis-philomene",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Phyllis / Philomène"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/sir-george-oskar",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Sir George / Oskar"
+  },
+  {
+    "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/tanzer",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "name": "Tänzer"
   },
   {
     "slug": "mieczys-aw-weinberg/the-idiot/lebedev",
@@ -29365,6 +29790,46 @@
     "name": "Levko"
   },
   {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/amelfa",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Amelfa"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/der-astrologe",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Der Astrologe"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/der-goldene-hahn",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Der goldene Hahn"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/die-konigin-von-schemacha",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Die Königin von Schemacha"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/general-polkan",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "General Polkan"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/konig-dodon",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "König Dodon"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/prinz-afron",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Prinz Afron"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/der-goldene-hahn/prinz-gwidon",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "name": "Prinz Gwidon"
+  },
+  {
     "slug": "nikolai-rimski-korsakow/die-zarenbraut/bomelius",
     "work_slug": "nikolai-rimski-korsakow/die-zarenbraut",
     "name": "Bomelius"
@@ -30360,6 +30825,11 @@
     "name": "__________"
   },
   {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/bewegungs-und-puppenspielcoach",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Bewegungs- und Puppenspielcoach"
+  },
+  {
     "slug": "pierangelo-valtinoni/der-kleine-prinz/der-kleine-prinz",
     "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
     "name": "Der kleine Prinz"
@@ -30385,9 +30855,19 @@
     "name": "Die Rose/Die Eitle/Die Mutter"
   },
   {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/fuchs-passant-1",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Fuchs / Passant 1"
+  },
+  {
     "slug": "pierangelo-valtinoni/der-kleine-prinz/fuchs-passantin",
     "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
     "name": "Fuchs/Passantin"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/mutter-die-eitle-rose",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Mutter / Die Eitle / Rose"
   },
   {
     "slug": "pierangelo-valtinoni/der-kleine-prinz/pilot",
@@ -30405,9 +30885,19 @@
     "name": "Regieassistenz / Abendspielleitung"
   },
   {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/schlange-passant-2-konig",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Schlange / Passant 2 / König"
+  },
+  {
     "slug": "pierangelo-valtinoni/der-kleine-prinz/szen-einstudierung",
     "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
     "name": "szen. Einstudierung"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/vater-geschaftsmann",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "Vater / Geschäftsmann"
   },
   {
     "slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/alfio",
@@ -32265,6 +32755,11 @@
     "name": "Arabella"
   },
   {
+    "slug": "richard-strauss/arabella/arabella-ihre-tochter",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Arabella, ihre Tochter"
+  },
+  {
     "slug": "richard-strauss/arabella/arabella-seine-tochter",
     "work_slug": "richard-strauss/arabella",
     "name": "Arabella, seine Tochter"
@@ -32283,6 +32778,11 @@
     "slug": "richard-strauss/arabella/djura",
     "work_slug": "richard-strauss/arabella",
     "name": "Djura"
+  },
+  {
+    "slug": "richard-strauss/arabella/djura-diener-des-mandryka",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Djura, Diener des Mandryka"
   },
   {
     "slug": "richard-strauss/arabella/ein-zimmerkellner",
@@ -32365,6 +32865,11 @@
     "name": "Welko"
   },
   {
+    "slug": "richard-strauss/arabella/welko-diener-des-mandryka",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Welko, Diener des Mandryka"
+  },
+  {
     "slug": "richard-strauss/arabella/welko-leibhusar-des-mandryka",
     "work_slug": "richard-strauss/arabella",
     "name": "Welko, Leibhusar des Mandryka"
@@ -32373,6 +32878,11 @@
     "slug": "richard-strauss/arabella/zdenka",
     "work_slug": "richard-strauss/arabella",
     "name": "Zdenka"
+  },
+  {
+    "slug": "richard-strauss/arabella/zdenka-ihre-tochter",
+    "work_slug": "richard-strauss/arabella",
+    "name": "Zdenka, Ihre Tochter"
   },
   {
     "slug": "richard-strauss/arabella/zdenka-seine-tochter",
@@ -34120,6 +34630,11 @@
     "name": "Holländer"
   },
   {
+    "slug": "richard-wagner/der-fliegende-hollander/inszenierung-und-licht",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "name": "Inszenierung und Licht"
+  },
+  {
     "slug": "richard-wagner/der-fliegende-hollander/mary",
     "work_slug": "richard-wagner/der-fliegende-hollander",
     "name": "Mary"
@@ -34158,6 +34673,11 @@
     "slug": "richard-wagner/der-fliegende-hollander/steuermann",
     "work_slug": "richard-wagner/der-fliegende-hollander",
     "name": "Steuermann"
+  },
+  {
+    "slug": "richard-wagner/der-fliegende-hollander/szenische-neueinstudierung",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "name": "Szenische Neueinstudierung"
   },
   {
     "slug": "richard-wagner/der-fliegende-hollander/the-dutchman",
@@ -34763,6 +35283,11 @@
     "slug": "richard-wagner/lohengrin/heinrich-der-vogler-german-king",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Heinrich der Vogler, German king"
+  },
+  {
+    "slug": "richard-wagner/lohengrin/henry-the-fowler",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Henry the Fowler"
   },
   {
     "slug": "richard-wagner/lohengrin/herzog-gottfried",
@@ -37060,6 +37585,11 @@
     "name": "Artists"
   },
   {
+    "slug": "stephen-oliver/mario-und-der-zauberer/regie-corinna-tetzel-buhne-sigi-colpe-kostume-katja-pech-dramaturgie",
+    "work_slug": "stephen-oliver/mario-und-der-zauberer",
+    "name": "Regie Corinna Tetzel Bühne Sigi Colpe Kostüme Katja Pech Dramaturgie"
+  },
+  {
     "slug": "stephen-sondheim/follies/ben-1941",
     "work_slug": "stephen-sondheim/follies",
     "name": "Ben (1941)"
@@ -38225,6 +38755,11 @@
     "name": "Oscar"
   },
   {
+    "slug": "un-ballo-in-maschera/regie-christian-weise-buhne-julia-oschatz-kostume-josa-marx-choreografie-alan-barnes-dramaturgie",
+    "work_slug": "un-ballo-in-maschera",
+    "name": "Regie Christian Weise Bühne Julia Oschatz Kostüme Josa Marx Choreografie Alan Barnes Dramaturgie"
+  },
+  {
     "slug": "un-ballo-in-maschera/renato",
     "work_slug": "un-ballo-in-maschera",
     "name": "Renato"
@@ -38240,9 +38775,19 @@
     "name": "Samuel"
   },
   {
+    "slug": "un-ballo-in-maschera/samuel-gerard-farreras-silvano",
+    "work_slug": "un-ballo-in-maschera",
+    "name": "Samuel Gerard Farreras Silvano"
+  },
+  {
     "slug": "un-ballo-in-maschera/silvano",
     "work_slug": "un-ballo-in-maschera",
     "name": "Silvano"
+  },
+  {
+    "slug": "un-ballo-in-maschera/studienlelitung",
+    "work_slug": "un-ballo-in-maschera",
+    "name": "Studienlelitung"
   },
   {
     "slug": "un-ballo-in-maschera/tom",
@@ -38903,6 +39448,26 @@
     "slug": "vivan-ketan-bhatti/berlin-alexanderplatz/tod-3-metzger",
     "work_slug": "vivan-ketan-bhatti/berlin-alexanderplatz",
     "name": "Tod 3 / Metzger"
+  },
+  {
+    "slug": "vocks-de-schwindt/queer-opera-love/abendbesetzung",
+    "work_slug": "vocks-de-schwindt/queer-opera-love",
+    "name": "Abendbesetzung"
+  },
+  {
+    "slug": "vocks-de-schwindt/queer-opera-love/dramaturgische-begleitung",
+    "work_slug": "vocks-de-schwindt/queer-opera-love",
+    "name": "Dramaturgische Begleitung"
+  },
+  {
+    "slug": "vocks-de-schwindt/queer-opera-love/performance",
+    "work_slug": "vocks-de-schwindt/queer-opera-love",
+    "name": "Performance"
+  },
+  {
+    "slug": "vocks-de-schwindt/queer-opera-love/text-und-inszenierung",
+    "work_slug": "vocks-de-schwindt/queer-opera-love",
+    "name": "Text und Inszenierung"
   },
   {
     "slug": "w-a-mozart-und-szenen-einer-ehe-von-i/ciao-amore/abendspielleitung-regieassistenz",

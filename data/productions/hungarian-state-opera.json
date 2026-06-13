@@ -2679,6 +2679,55 @@
     ]
   },
   {
+    "id": "hungarian-state-opera/opera-on-wheels-il-campanello/2025-2026",
+    "work_slug": "gaetano-donizetti/opera-on-wheels-il-campanello",
+    "house_slug": "hungarian-state-opera",
+    "premiere_season": "2025/2026",
+    "is_revival": false,
+    "detail_url": "https://www.opera.hu/en/programme/2025-2026/opera-on-wheels-the-night-bell/",
+    "image_url": "https://www.opera.hu/static/default/asset/img/social/default-facebook-share.jpg",
+    "creative_team": [
+      {
+        "person_slug": "gabor-csiki",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-erdelyi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "attila-toronykoy",
+        "function": "director"
+      },
+      {
+        "person_slug": "attila-toronykoy",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "laszlo-szvetek",
+        "role_slug": "gaetano-donizetti/opera-on-wheels-il-campanello/don-annibale-pistacchio"
+      },
+      {
+        "person_slug": "mate-fulep",
+        "role_slug": "gaetano-donizetti/opera-on-wheels-il-campanello/enrico"
+      },
+      {
+        "person_slug": "maria-farkasreti",
+        "role_slug": "gaetano-donizetti/opera-on-wheels-il-campanello/madama-rosa"
+      },
+      {
+        "person_slug": "zsuzsanna-kapi",
+        "role_slug": "gaetano-donizetti/opera-on-wheels-il-campanello/serafina"
+      },
+      {
+        "person_slug": "ninh-duc-hoang-long",
+        "role_slug": "gaetano-donizetti/opera-on-wheels-il-campanello/spiridione"
+      }
+    ]
+  },
+  {
     "id": "hungarian-state-opera/parazsfuvolacska-the-magic-flute-for-children/2026-2027",
     "work_slug": "wolfgang-amadeus-mozart/parazsfuvolacska-the-magic-flute-for-children",
     "house_slug": "hungarian-state-opera",

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1514",
+    "work_slug": "giuseppe-verdi/stiffelio",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2025-26/1514/Stiffelio",
+    "creative_team": [
+      {
+        "person_slug": "jeremie-rhorer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefanie-seitz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vasily-barkhatov",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alexander-sivaev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christian-schmidt",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "andreas-deinert",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "stepanka-pucalkova",
+        "role_slug": "giuseppe-verdi/stiffelio/dorotea"
+      },
+      {
+        "person_slug": "james-kryshak",
+        "role_slug": "giuseppe-verdi/stiffelio/federico"
+      },
+      {
+        "person_slug": "alessio-cacciamani",
+        "role_slug": "giuseppe-verdi/stiffelio/jorg"
+      },
+      {
+        "person_slug": "joyce-el-khoury",
+        "role_slug": "giuseppe-verdi/stiffelio/lina"
+      },
+      {
+        "person_slug": "sascha-roder",
+        "role_slug": "giuseppe-verdi/stiffelio/mitarbeit-buhne"
+      },
+      {
+        "person_slug": "luigi-morassi",
+        "role_slug": "giuseppe-verdi/stiffelio/raffaele"
+      },
+      {
+        "person_slug": "franco-vassallo",
+        "role_slug": "giuseppe-verdi/stiffelio/stankar"
+      },
+      {
+        "person_slug": "luciano-ganci",
+        "role_slug": "giuseppe-verdi/stiffelio/stiffelio"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1515",
+    "work_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2025-26/1515/Lady-Magnesia-Zweimal-Alexander",
+    "creative_team": [
+      {
+        "person_slug": "steffi-wieser",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "irene-delgado-jimenez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-bernreitner",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franz-tscheck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "manfred-rainer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jacob-phillips",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/alexandre-adolphus-bastable"
+      },
+      {
+        "person_slug": "timothy-edlin",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/das-portrat"
+      },
+      {
+        "person_slug": "josefine-gohmann",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/lady-magnesia-armande"
+      },
+      {
+        "person_slug": "wilma-kvamme",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/phyllis-philomene"
+      },
+      {
+        "person_slug": "peter-kirk",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/sir-george-oskar"
+      },
+      {
+        "person_slug": "johann-ebert",
+        "role_slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander/tanzer"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "work_slug": "francesco-cavalli/la-calisto",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1616/La-Calisto",
+    "creative_team": [
+      {
+        "person_slug": "beate-vollack",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "christina-pluhar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yashi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "director"
+      },
+      {
+        "person_slug": "kai-we-ler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "silke-bauer",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "roman-hagenbrock",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "vera-lotte-boecker",
+        "role_slug": "francesco-cavalli/la-calisto/calisto"
+      },
+      {
+        "person_slug": "luciana-mancini",
+        "role_slug": "francesco-cavalli/la-calisto/diana"
+      },
+      {
+        "person_slug": "arnaud-gluck",
+        "role_slug": "francesco-cavalli/la-calisto/endimione"
+      },
+      {
+        "person_slug": "milan-siljanov",
+        "role_slug": "francesco-cavalli/la-calisto/giove"
+      },
+      {
+        "person_slug": "giuseppina-bridelli",
+        "role_slug": "francesco-cavalli/la-calisto/giunone"
+      },
+      {
+        "person_slug": "marcel-beekman",
+        "role_slug": "francesco-cavalli/la-calisto/linfea"
+      },
+      {
+        "person_slug": "renato-dolcini",
+        "role_slug": "francesco-cavalli/la-calisto/mercurio"
+      },
+      {
+        "person_slug": "juan-sancho",
+        "role_slug": "francesco-cavalli/la-calisto/pane"
+      },
+      {
+        "person_slug": "jake-arditti",
+        "role_slug": "francesco-cavalli/la-calisto/satirino"
+      },
+      {
+        "person_slug": "joao-fernandes",
+        "role_slug": "francesco-cavalli/la-calisto/silvano"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1617/Der-fliegende-Hollaender",
+    "creative_team": [
+      {
+        "person_slug": "robert-jindra",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ursula-kudrna",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "philipp-stolzl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wilhelm-schwinghammer",
+        "role_slug": "richard-wagner/der-fliegende-hollander/daland"
+      },
+      {
+        "person_slug": "jordan-shanahan",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-hollander"
+      },
+      {
+        "person_slug": "james-ley",
+        "role_slug": "richard-wagner/der-fliegende-hollander/der-steuermann"
+      },
+      {
+        "person_slug": "cameron-becker",
+        "role_slug": "richard-wagner/der-fliegende-hollander/erik"
+      },
+      {
+        "person_slug": "philipp-stolzl",
+        "role_slug": "richard-wagner/der-fliegende-hollander/inszenierung-und-licht"
+      },
+      {
+        "person_slug": "ieva-prudnikovaite",
+        "role_slug": "richard-wagner/der-fliegende-hollander/mary"
+      },
+      {
+        "person_slug": "ambur-braid",
+        "role_slug": "richard-wagner/der-fliegende-hollander/senta"
+      },
+      {
+        "person_slug": "philipp-m-krenn",
+        "role_slug": "richard-wagner/der-fliegende-hollander/szenische-neueinstudierung"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1618/Der-kleine-Prinz",
+    "creative_team": [
+      {
+        "person_slug": "gabor-kali",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "louisa-muller",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "malcolm-rippeth",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "madeleine-boyd",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "angelo-konzett",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/bewegungs-und-puppenspielcoach"
+      },
+      {
+        "person_slug": "emilie-renard",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/der-kleine-prinz"
+      },
+      {
+        "person_slug": "susan-zarrabi",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/fuchs-passant-1"
+      },
+      {
+        "person_slug": "katerina-von-bennigsen",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/mutter-die-eitle-rose"
+      },
+      {
+        "person_slug": "wilhelm-schwinghammer",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/pilot"
+      },
+      {
+        "person_slug": "zoltan-nagy",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/schlange-passant-2-konig"
+      },
+      {
+        "person_slug": "alexander-kaimbacher",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/vater-geschaftsmann"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "work_slug": "nikolai-rimski-korsakow/der-goldene-hahn",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1619/Der-goldene-Hahn",
+    "creative_team": [
+      {
+        "person_slug": "valentin-uryupin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maxim-didenko",
+        "function": "director"
+      },
+      {
+        "person_slug": "kai-we-ler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gleb-filshtinsky",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "galya-solodovnikova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "khatuna-mikaberidze",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/amelfa"
+      },
+      {
+        "person_slug": "andrei-popov",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/der-astrologe"
+      },
+      {
+        "person_slug": "georgina-furstenberg",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/der-goldene-hahn"
+      },
+      {
+        "person_slug": "liv-redpath",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/die-konigin-von-schemacha"
+      },
+      {
+        "person_slug": "alexander-vassiliev",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/general-polkan"
+      },
+      {
+        "person_slug": "gunther-groissbock",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/konig-dodon"
+      },
+      {
+        "person_slug": "dmitry-cheblykov",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/prinz-afron"
+      },
+      {
+        "person_slug": "alexey-neklyudov",
+        "role_slug": "nikolai-rimski-korsakow/der-goldene-hahn/prinz-gwidon"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "work_slug": "ludwig-van-beethoven/leonore",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1620/Leonore",
+    "creative_team": [
+      {
+        "person_slug": "giedre-slekyte",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "silke-bauer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "ludwig-van-beethoven/leonore/don-fernando"
+      },
+      {
+        "person_slug": "christoph-pohl",
+        "role_slug": "ludwig-van-beethoven/leonore/don-pizarro"
+      },
+      {
+        "person_slug": "attilio-glaser",
+        "role_slug": "ludwig-van-beethoven/leonore/florestan"
+      },
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "ludwig-van-beethoven/leonore/jaquino"
+      },
+      {
+        "person_slug": "julia-kleiter",
+        "role_slug": "ludwig-van-beethoven/leonore/leonore"
+      },
+      {
+        "person_slug": "jasmin-delfs",
+        "role_slug": "ludwig-van-beethoven/leonore/marzelline"
+      },
+      {
+        "person_slug": "patrick-zielke",
+        "role_slug": "ludwig-van-beethoven/leonore/rocco"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "work_slug": "georg-friedrich-handel/rinaldo",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1621/Rinaldo",
+    "creative_team": [
+      {
+        "person_slug": "francesco-corti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nadja-loschky",
+        "function": "director"
+      },
+      {
+        "person_slug": "yvonne-gebauer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "karl-wiedemann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "katharina-schlipf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "melissa-petit",
+        "role_slug": "georg-friedrich-handel/rinaldo/almirena"
+      },
+      {
+        "person_slug": "alejandro-balinas-vieites",
+        "role_slug": "georg-friedrich-handel/rinaldo/argante"
+      },
+      {
+        "person_slug": "kateryna-kasper",
+        "role_slug": "georg-friedrich-handel/rinaldo/armida"
+      },
+      {
+        "person_slug": "thomas-wilhelm",
+        "role_slug": "georg-friedrich-handel/rinaldo/choregrafie"
+      },
+      {
+        "person_slug": "remy-bres-feuillet",
+        "role_slug": "georg-friedrich-handel/rinaldo/eustazio"
+      },
+      {
+        "person_slug": "yuriy-mynenko",
+        "role_slug": "georg-friedrich-handel/rinaldo/goffredo"
+      },
+      {
+        "person_slug": "dominique-visse",
+        "role_slug": "georg-friedrich-handel/rinaldo/mago-cristiano"
+      },
+      {
+        "person_slug": "carlo-vistoli",
+        "role_slug": "georg-friedrich-handel/rinaldo/rinaldo"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "work_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1622/Klangstreich--Eine-Note-tanzt-aus-der-Reihe",
+    "creative_team": [
+      {
+        "person_slug": "anisha-bondy",
+        "function": "director"
+      },
+      {
+        "person_slug": "kai-we-ler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franz-tscheck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "renate-vogg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ivo-kovrigar",
+        "role_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/finn"
+      },
+      {
+        "person_slug": "anita-rosati",
+        "role_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/sangerin-ameise-note-u-a"
+      },
+      {
+        "person_slug": "ella-feldmeier",
+        "role_slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/taube-note-u-a"
+      }
+    ]
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "work_slug": "leonard-evers/gold",
+    "house_slug": "theater-an-der-wien",
+    "is_revival": false,
+    "detail_url": "https://www.theater-wien.at/de/spielplan/saison2026-27/1624/Gold",
+    "creative_team": [
+      {
+        "person_slug": "elena-artisi",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-schroder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "mirjam-miller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "therese-troyer",
+        "role_slug": "leonard-evers/gold/jacob"
+      },
+      {
+        "person_slug": "hannes-schoggl",
+        "role_slug": "leonard-evers/gold/schlagwerk"
+      }
+    ]
+  }
+]

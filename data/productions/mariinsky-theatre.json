@@ -645,12 +645,28 @@
     ],
     "cast": [
       {
+        "person_slug": "tba",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/don-alvaro"
+      },
+      {
         "person_slug": "alexey-markov",
         "role_slug": "giuseppe-verdi/la-forza-del-destino/don-carlo"
       },
       {
         "person_slug": "elena-stikhina",
         "role_slug": "giuseppe-verdi/la-forza-del-destino/donna-leonora"
+      },
+      {
+        "person_slug": "alexander-nikitin",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/fra-melitone"
+      },
+      {
+        "person_slug": "yuri-vorobiev",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/padre-guardiano"
+      },
+      {
+        "person_slug": "elena-gorlo",
+        "role_slug": "giuseppe-verdi/la-forza-del-destino/preziosilla"
       }
     ]
   },
@@ -1149,6 +1165,64 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lohengrin",
+    "work_slug": "richard-wagner/lohengrin",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1999-07-01",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/8/1/2_1800/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/lohengrin/lohengrin_stikhina_skorohodov_by_razina.jpg",
+    "synopsis": "Antwerp, the first half of the 10 th century. The Duke of Brabant has died, leaving his children Elsa and Gottfried as wards of his kinsman, Friedrich von Telramund, who has also been granted the right to Elsa&rsquo;s hand in marriage. One day Elsa and Gottfried went to the forest, and Elsa returned alone. Suspecting Elsa of having murdered her brother in collusion with an unknown lover, Telramund has married Ortrud, the last descendant of an ancient noble family. In actual fact, Ortrud has used witchcraft to transform Gottfried into a swan, and it is she who has convinced Telramund of Elsa&rsquo;s guilt. Act I King Heinrich der Vogler (Henry the Fowler) of Saxony has come to Brabant to recruit knights for his wars against the advancing enemy armies. By the shore of the River Scheldt he encounters Telramund, who accuses Elsa of murdering her brother and claiming the ducal throne. The King summons Elsa. Rather than answering the charge, she recounts her dream of a knight in shining armour who descends from the skies to rescue her from such accusations. Unable to reach a verdict as to whether she is guilty or innocent, the King announces trial by combat, leaving judgement to God. Telramund is prepared to fight, but who will defend Elsa? After twice repeated calls by the royal herald and Elsa&rsquo;s fervent prayers, Lohengrin appears. He comes ashore from a longboat drawn by a snow-white swan. Lohengrin is prepared to defend Elsa&rsquo;s honour and marry her on one condition: she must never ask his name. Elsa consents. Lohengrin wins the duel against Telramund but spares the latter&rsquo;s life. Act II The citadel of Antwerp at night. The outcast Telramund and Ortrud are lurking in the shadows; he accuses her of deceit. Ortrud derides his cowardice, claiming that Lohengrin used evil magic powers to win the duel. To conquer Lohengrin, she and Telramund must convince Elsa to break her oath and ask the forbidden question. Elsa appears at her window; she is filled with ha",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "oksana-zinchenko",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "konstantin-pluzhnikov",
+        "function": "director"
+      },
+      {
+        "person_slug": "yegor-kartashov",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "yevgeny-lysyk",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elena-stikhina",
+        "role_slug": "richard-wagner/lohengrin/elsa"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "richard-wagner/lohengrin/henry-the-fowler"
+      },
+      {
+        "person_slug": "sergei-skorokhodov",
+        "role_slug": "richard-wagner/lohengrin/lohengrin"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "richard-wagner/lohengrin/ortrud"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "richard-wagner/lohengrin/telramund"
+      }
+    ]
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-madambatt",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "house_slug": "mariinsky-theatre",
@@ -1189,7 +1263,7 @@
         "role_slug": "giacomo-puccini/madama-butterfly/cio-san"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "andrei-zorin",
         "role_slug": "giacomo-puccini/madama-butterfly/goro"
       },
       {
@@ -1201,7 +1275,7 @@
         "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "natalia-yevstafieva",
         "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
       }
     ]
@@ -1588,11 +1662,11 @@
     ],
     "cast": [
       {
-        "person_slug": "maharram-huseynov",
+        "person_slug": "nikolai-kamensky",
         "role_slug": "giuseppe-verdi/rigoletto/count-monterone"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "roman-shirokikh",
         "role_slug": "giuseppe-verdi/rigoletto/duke-of-mantua"
       },
       {
@@ -2161,7 +2235,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "akhmed-agadi",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "yekaterina-goncharova",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "alexander-timchenko",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "andrei-spekhov",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "andrei-zorin",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "zhanna-dombrovskaya",
+        "role_slug": "giacomo-puccini/turandot/princess-turandot"
+      },
+      {
+        "person_slug": "alexander-morozov",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-valkiria-2023",

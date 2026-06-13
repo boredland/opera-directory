@@ -94,6 +94,29 @@
     ]
   },
   {
+    "id": "oper-leipzig/break-the-stage-836",
+    "work_slug": "break-the-stage",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/break-the-stage/836",
+    "creative_team": [
+      {
+        "person_slug": "sara-cornelia-brandao",
+        "function": "choreographer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mieke-mullerschon",
+        "role_slug": "break-the-stage/szenische-einstudierung"
+      },
+      {
+        "person_slug": "sara-cornelia-brandao",
+        "role_slug": "break-the-stage/szenische-einstudierung"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/carmen-44",
     "work_slug": "georges-bizet/carmen",
     "house_slug": "oper-leipzig",
@@ -357,10 +380,6 @@
       },
       {
         "person_slug": "maria-vittoria-scamarda",
-        "role_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike/stewardesses"
-      },
-      {
-        "person_slug": "vivian-wang",
         "role_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike/stewardesses"
       },
       {

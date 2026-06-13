@@ -43,6 +43,152 @@
     ]
   },
   {
+    "id": "mecklenburgisches-staatstheater/errata",
+    "work_slug": "errata",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/errata.html",
+    "creative_team": [
+      {
+        "person_slug": "aki-schmitt",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "judith-lebiez",
+        "role_slug": "errata/regie-zino-wey-kostume-pascale-martin-dramaturgie"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburgisches-staatstheater/fidelio",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/fidelio.html",
+    "creative_team": [
+      {
+        "person_slug": "gabor-hontvari",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "karen-leiber",
+        "role_slug": "ludwig-van-beethoven/fidelio/autorin-maike-graf-besetzung-leonore"
+      },
+      {
+        "person_slug": "mecklenburgische-staatskapelle",
+        "role_slug": "ludwig-van-beethoven/fidelio/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester"
+      },
+      {
+        "person_slug": "martin-gerke",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-fernando"
+      },
+      {
+        "person_slug": "andre-schmidtke",
+        "role_slug": "ludwig-van-beethoven/fidelio/erster-gefangener"
+      },
+      {
+        "person_slug": "sebastian-koppl",
+        "role_slug": "ludwig-van-beethoven/fidelio/jaquino"
+      },
+      {
+        "person_slug": "anna-graf",
+        "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
+      },
+      {
+        "person_slug": "judith-lebiez",
+        "role_slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-dramaturgie"
+      },
+      {
+        "person_slug": "brian-davis",
+        "role_slug": "ludwig-van-beethoven/fidelio/rocco-gerard-farreras-florestan-roman-payer-pizarro"
+      },
+      {
+        "person_slug": "olaf-mei-ner",
+        "role_slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburgisches-staatstheater/mario-und-der-zauberer",
+    "work_slug": "stephen-oliver/mario-und-der-zauberer",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/mario-und-der-zauberer.html",
+    "creative_team": [
+      {
+        "person_slug": "martin-schelhaas",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-schmidt-ehrenberg",
+        "role_slug": "stephen-oliver/mario-und-der-zauberer/regie-corinna-tetzel-buhne-sigi-colpe-kostume-katja-pech-dramaturgie"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburgisches-staatstheater/samson-et-dalila",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/samson-et-dalila.html",
+    "creative_team": [
+      {
+        "person_slug": "silke-von-patay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-schmidt-ehrenberg",
+        "role_slug": "camille-saint-saens/samson-et-dalila/musikalische-leitung-kiril-stankow-regie"
+      }
+    ]
+  },
+  {
+    "id": "mecklenburgisches-staatstheater/un-ballo-in-maschera",
+    "work_slug": "un-ballo-in-maschera",
+    "house_slug": "mecklenburgisches-staatstheater",
+    "is_revival": false,
+    "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/un-ballo-in-maschera.html",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "karen-leiber",
+        "role_slug": "un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "anna-cavaliero",
+        "role_slug": "un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "thomas-schmidt-ehrenberg",
+        "role_slug": "un-ballo-in-maschera/regie-christian-weise-buhne-julia-oschatz-kostume-josa-marx-choreografie-alan-barnes-dramaturgie"
+      },
+      {
+        "person_slug": "brian-davis",
+        "role_slug": "un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "martin-gerke",
+        "role_slug": "un-ballo-in-maschera/samuel-gerard-farreras-silvano"
+      },
+      {
+        "person_slug": "martin-schelhaas",
+        "role_slug": "un-ballo-in-maschera/studienlelitung"
+      },
+      {
+        "person_slug": "gala-el-hadidi",
+        "role_slug": "un-ballo-in-maschera/ulrica"
+      }
+    ]
+  },
+  {
     "id": "mecklenburgisches-staatstheater/va-pensiero-opernchorgala",
     "work_slug": "va-pensiero-opernchorgala",
     "house_slug": "mecklenburgisches-staatstheater",

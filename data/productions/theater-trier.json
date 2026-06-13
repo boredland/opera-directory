@@ -60,7 +60,7 @@
   },
   {
     "id": "theater-trier/die-verkaufte-braut",
-    "work_slug": "die-verkaufte-braut",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "house_slug": "theater-trier",
     "is_revival": false,
     "detail_url": "https://www.theater-trier.de/produktionen/die-verkaufte-braut.html?m=47",
@@ -81,37 +81,37 @@
     "cast": [
       {
         "person_slug": "lara-rieken",
-        "role_slug": "die-verkaufte-braut/esmeralda-komodiantin"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/esmeralda-komodiantin"
       },
       {
         "person_slug": "janja-vuletic",
-        "role_slug": "die-verkaufte-braut/hata-seine-frau"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/hata-seine-frau"
       },
       {
         "person_slug": "gustavo-eda",
-        "role_slug": "die-verkaufte-braut/jenik-michas-sohn-aus-erster-ehe"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/jenik-michas-sohn-aus-erster-ehe"
       },
       {
         "person_slug": "karsten-schroter",
-        "role_slug": "die-verkaufte-braut/kecal-heiratsvermittler"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/kecal-heiratsvermittler"
       },
       {
         "person_slug": "yuriy-hadzetskyy",
-        "role_slug": "die-verkaufte-braut/krusina-ein-bauer"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/krusina-ein-bauer"
       },
       {
         "person_slug": "danita-weatherstone",
-        "role_slug": "die-verkaufte-braut/marenka-beider-tochter"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/marenka-beider-tochter"
       },
       {
         "person_slug": "derek-rue",
-        "role_slug": "die-verkaufte-braut/vasek-beider-sohn"
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/vasek-beider-sohn"
       }
     ]
   },
   {
     "id": "theater-trier/elektra",
-    "work_slug": "richard-strauss/elektra",
+    "work_slug": "elektra",
     "house_slug": "theater-trier",
     "is_revival": false,
     "detail_url": "https://www.theater-trier.de/produktionen/elektra.html?m=47",
@@ -128,39 +128,39 @@
     "cast": [
       {
         "person_slug": "derek-rue",
-        "role_slug": "richard-strauss/elektra/aegisth"
+        "role_slug": "elektra/aegisth"
       },
       {
         "person_slug": "danita-weatherstone",
-        "role_slug": "richard-strauss/elektra/chrysothemis"
+        "role_slug": "elektra/chrysothemis"
       },
       {
         "person_slug": "karsten-schroter",
-        "role_slug": "richard-strauss/elektra/der-pfleger-des-orest"
+        "role_slug": "elektra/der-pfleger-des-orest"
       },
       {
         "person_slug": "silja-schindler",
-        "role_slug": "richard-strauss/elektra/die-aufseherin"
+        "role_slug": "elektra/die-aufseherin"
       },
       {
         "person_slug": "lara-rieken",
-        "role_slug": "richard-strauss/elektra/die-schlepptragerin"
+        "role_slug": "elektra/die-schlepptragerin"
       },
       {
         "person_slug": "daniela-kohler",
-        "role_slug": "richard-strauss/elektra/elektra"
+        "role_slug": "elektra/elektra"
       },
       {
         "person_slug": "lara-rieken",
-        "role_slug": "richard-strauss/elektra/funfte-magd"
+        "role_slug": "elektra/funfte-magd"
       },
       {
         "person_slug": "janja-vuletic",
-        "role_slug": "richard-strauss/elektra/klytamnestra"
+        "role_slug": "elektra/klytamnestra"
       },
       {
         "person_slug": "carl-rumstadt",
-        "role_slug": "richard-strauss/elektra/orest"
+        "role_slug": "elektra/orest"
       }
     ]
   },

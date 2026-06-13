@@ -1,0 +1,552 @@
+[
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1514/2026-05-13/",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1514",
+    "date": "2026-05-13",
+    "venue_room": "Theater an der Wien",
+    "status": "past"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1514/2026-05-21/",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1514",
+    "date": "2026-05-21",
+    "venue_room": "Theater an der Wien",
+    "status": "past"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1515/2026-06-14/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1515",
+    "date": "2026-06-14",
+    "time": "19:00",
+    "venue_room": "Kammeroper",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1515/2026-06-16/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1515",
+    "date": "2026-06-16",
+    "time": "19:00",
+    "venue_room": "Kammeroper",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1515/2026-06-19/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1515",
+    "date": "2026-06-19",
+    "time": "19:00",
+    "venue_room": "Kammeroper",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-06/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-06",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-16/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-16",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-19/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-19",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-21/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-21",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-24/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-24",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-26/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-26",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1616/2026-09-28/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1616",
+    "date": "2026-09-28",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-04/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-04",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-17/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-17",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-20/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-20",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-22/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-22",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-25/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-25",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-28/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-28",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1617/2026-10-30/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1617",
+    "date": "2026-10-30",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-18/16:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-18",
+    "time": "16:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-18/18:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-18",
+    "time": "18:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-19/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-19",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-19/16:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-19",
+    "time": "16:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-21/10:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-21",
+    "time": "10:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-21/12:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-21",
+    "time": "12:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-22/10:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-22",
+    "time": "10:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-22/12:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-22",
+    "time": "12:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-27/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-27",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-27/16:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-27",
+    "time": "16:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-28/17:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-28",
+    "time": "17:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1618/2026-12-28/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1618",
+    "date": "2026-12-28",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-10/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-10",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-22/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-22",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-24/15:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-24",
+    "time": "15:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-26/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-26",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-29/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-29",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-01-31/15:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-01-31",
+    "time": "15:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1619/2027-02-02/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1619",
+    "date": "2027-02-02",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-02-14/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-02-14",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-02-27/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-02-27",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-03-02/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-03-02",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-03-04/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-03-04",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-03-07/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-03-07",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-03-09/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-03-09",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1620/2027-03-12/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1620",
+    "date": "2027-03-12",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-03-21/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-03-21",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-09/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-09",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-11/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-11",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-14/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-14",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-16/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-16",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-18/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-18",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-21/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-21",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-23/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-23",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1621/2027-04-25/19:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1621",
+    "date": "2027-04-25",
+    "time": "19:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-11/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-11",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-11/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-11",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-14/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-14",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-16/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-16",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-18/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-18",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-18/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-18",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1622/2026-10-20/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1622",
+    "date": "2026-10-20",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-13/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-13",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-16/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-16",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-17/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-17",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-17/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-17",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-23/09:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-23",
+    "time": "09:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-23/11:30",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-23",
+    "time": "11:30",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-24/11:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-24",
+    "time": "11:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-an-der-wien/theater-an-der-wien-1624/2027-04-24/14:00",
+    "production_id": "theater-an-der-wien/theater-an-der-wien-1624",
+    "date": "2027-04-24",
+    "time": "14:00",
+    "venue_room": "Theater an der Wien",
+    "status": "scheduled"
+  }
+]

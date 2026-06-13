@@ -1,5 +1,97 @@
 [
   {
+    "id": "theater-muenster/1173",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/the-addams-family-1173.html",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "chorsolo",
+        "role_slug": "marshall-brickman-rick-elice/the-addams-family/die-ahnen-der-addams-family"
+      },
+      {
+        "person_slug": "sebastian-smulders",
+        "role_slug": "marshall-brickman-rick-elice/the-addams-family/gomez-addams"
+      },
+      {
+        "person_slug": "nn",
+        "role_slug": "marshall-brickman-rick-elice/the-addams-family/mal-beineke"
+      },
+      {
+        "person_slug": "friederike-bauer",
+        "role_slug": "marshall-brickman-rick-elice/the-addams-family/wednesday-addams"
+      }
+    ]
+  },
+  {
+    "id": "theater-muenster/1180",
+    "work_slug": "henry-purcell/dido-and-aeneas-ariadne",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/dido-and-aeneas-ariadne-1180.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-muenster/1182",
+    "work_slug": "adrian-laugsch/drag-spirits-the-poet-and-the-sun",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/drag-spirits-the-poet-and-the-sun-1182.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-muenster/1185",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/le-nozze-di-figaro-1185.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-muenster/1195",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-muenster/1198",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "house_slug": "theater-muenster",
+    "is_revival": false,
+    "detail_url": "https://www.theater-muenster.com/produktionen/luisa-miller-1198.html",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "wioletta-hebrowska",
+        "role_slug": "giuseppe-verdi/luisa-miller/federica-herzogin-von-ostheim"
+      },
+      {
+        "person_slug": "kihoon-yoo",
+        "role_slug": "giuseppe-verdi/luisa-miller/graf-von-walter-sein-vater"
+      },
+      {
+        "person_slug": "marlena-devoe",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa-miller"
+      },
+      {
+        "person_slug": "sinfonieorchester-munster",
+        "role_slug": "giuseppe-verdi/luisa-miller/orchester"
+      },
+      {
+        "person_slug": "garrie-davislim",
+        "role_slug": "giuseppe-verdi/luisa-miller/rodolfo"
+      }
+    ]
+  },
+  {
     "id": "theater-muenster/906",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream-ein-sommernachtstraum",
     "house_slug": "theater-muenster",

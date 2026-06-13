@@ -71,6 +71,13 @@
     "status": "sold_out"
   },
   {
+    "id": "teatro-real/los-estunmen/2025-26/2026-06-12/20:00",
+    "production_id": "teatro-real/los-estunmen/2025-26",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "status": "sold_out"
+  },
+  {
     "id": "teatro-real/romeo-y-julieta/2025-26/2026-05-27/19:30",
     "production_id": "teatro-real/romeo-y-julieta/2025-26",
     "date": "2026-05-27",
@@ -154,6 +161,14 @@
     "id": "teatro-real/romeo-y-julieta/2025-26/2026-06-10/19:30",
     "production_id": "teatro-real/romeo-y-julieta/2025-26",
     "date": "2026-06-10",
+    "time": "19:30",
+    "venue_room": "Sala Principal",
+    "status": "sold_out"
+  },
+  {
+    "id": "teatro-real/romeo-y-julieta/2025-26/2026-06-12/19:30",
+    "production_id": "teatro-real/romeo-y-julieta/2025-26",
+    "date": "2026-06-12",
     "time": "19:30",
     "venue_room": "Sala Principal",
     "status": "sold_out"

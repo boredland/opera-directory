@@ -6466,7 +6466,7 @@
   },
   {
     "id": "nationaltheater-mannheim/party-im-garten-der-kuenste-4231",
-    "work_slug": "party-im-garten-der-kunste",
+    "work_slug": "mit-dj-musicguru/party-im-garten-der-kunste",
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/party-im-garten-der-kuenste/4231/",
@@ -6616,7 +6616,24 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/queer-opera-love/4404/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "idee",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/abendbesetzung"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/dramaturgische-begleitung"
+      },
+      {
+        "person_slug": "klaus-schirdewahn",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/performance"
+      },
+      {
+        "person_slug": "vocks-de-schwindt",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/text-und-inszenierung"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/queer-opera-love-4405",
@@ -6625,7 +6642,24 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/queer-opera-love/4405/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "idee",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/abendbesetzung"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/dramaturgische-begleitung"
+      },
+      {
+        "person_slug": "klaus-schirdewahn",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/performance"
+      },
+      {
+        "person_slug": "vocks-de-schwindt",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/text-und-inszenierung"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/queer-opera-love-4406",
@@ -6634,7 +6668,24 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/queer-opera-love/4406/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "idee",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/abendbesetzung"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/dramaturgische-begleitung"
+      },
+      {
+        "person_slug": "klaus-schirdewahn",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/performance"
+      },
+      {
+        "person_slug": "vocks-de-schwindt",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/text-und-inszenierung"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/queer-opera-love-4407",
@@ -6643,7 +6694,24 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/queer-opera-love/4407/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "idee",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/abendbesetzung"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/dramaturgische-begleitung"
+      },
+      {
+        "person_slug": "klaus-schirdewahn",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/performance"
+      },
+      {
+        "person_slug": "vocks-de-schwindt",
+        "role_slug": "vocks-de-schwindt/queer-opera-love/text-und-inszenierung"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/schloss-in-flammen-5662-3436",
