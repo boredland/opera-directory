@@ -1,0 +1,2134 @@
+[
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream-2/2024-02-09/19:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream-2",
+    "date": "2024-02-09",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream-2/2024-02-10/19:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream-2",
+    "date": "2024-02-10",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream/2023-10-13/20:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream",
+    "date": "2023-10-13",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream/2023-10-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream",
+    "date": "2023-10-15",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream/2023-10-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream",
+    "date": "2023-10-17",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/a-midsummer-nights-dream/2023-10-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/a-midsummer-nights-dream",
+    "date": "2023-10-19",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/alba-eroica/1909-10/1910-05-05/",
+    "production_id": "teatro-carlo-felice-genova/alba-eroica/1909-10",
+    "date": "1910-05-05",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/alina/1827-28/1828-05-12/",
+    "production_id": "teatro-carlo-felice-genova/alina/1827-28",
+    "date": "1828-05-12",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/amleto/1864-65/1865-05-30/",
+    "production_id": "teatro-carlo-felice-genova/amleto/1864-65",
+    "date": "1865-05-30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/amori-e-trappole/1849-50/1850-04-27/",
+    "production_id": "teatro-carlo-felice-genova/amori-e-trappole/1849-50",
+    "date": "1850-04-27",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/andrea-chenier/2025-02-06/20:00",
+    "production_id": "teatro-carlo-felice-genova/andrea-chenier",
+    "date": "2025-02-06",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/andrea-chenier/2025-02-09/15:00",
+    "production_id": "teatro-carlo-felice-genova/andrea-chenier",
+    "date": "2025-02-09",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/andrea-chenier/2025-02-12/20:00",
+    "production_id": "teatro-carlo-felice-genova/andrea-chenier",
+    "date": "2025-02-12",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/andrea-chenier/2025-02-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/andrea-chenier",
+    "date": "2025-02-15",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-18/20:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-18",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-19/15:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-19",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-20/15:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-20",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-25/20:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-25",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-26/20:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-26",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anna-bolena/2022-02-27/15:00",
+    "production_id": "teatro-carlo-felice-genova/anna-bolena",
+    "date": "2022-02-27",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/annibale-ballo-storico/1888-89/1889-01-01/",
+    "production_id": "teatro-carlo-felice-genova/annibale-ballo-storico/1888-89",
+    "date": "1889-01-01",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/anteprima-i-due-foscari/2023-03-28/20:00",
+    "production_id": "teatro-carlo-felice-genova/anteprima-i-due-foscari",
+    "date": "2023-03-28",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/beatrice-di-tenda/2024-03-15/20:00",
+    "production_id": "teatro-carlo-felice-genova/beatrice-di-tenda",
+    "date": "2024-03-15",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/beatrice-di-tenda/2024-03-17/15:00",
+    "production_id": "teatro-carlo-felice-genova/beatrice-di-tenda",
+    "date": "2024-03-17",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/beatrice-di-tenda/2024-03-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/beatrice-di-tenda",
+    "date": "2024-03-19",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/beatrice-di-tenda/2024-03-22/20:00",
+    "production_id": "teatro-carlo-felice-genova/beatrice-di-tenda",
+    "date": "2024-03-22",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/bianca-e-fernando/1825-26/1826-05-30/",
+    "production_id": "teatro-carlo-felice-genova/bianca-e-fernando/1825-26",
+    "date": "1826-05-30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/caterina-di-cleves/1837-38/1838-01-31/",
+    "production_id": "teatro-carlo-felice-genova/caterina-di-cleves/1837-38",
+    "date": "1838-01-31",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-14/20:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-14",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-15",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-16/15:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-16",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-21/20:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-21",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-22/20:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-22",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cavalleria-rusticana/2025-11-23/15:00",
+    "production_id": "teatro-carlo-felice-genova/cavalleria-rusticana",
+    "date": "2025-11-23",
+    "time": "15:00",
+    "venue_room": "Turno FA1",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/colombo/1827-28/1828-06-21/",
+    "production_id": "teatro-carlo-felice-genova/colombo/1827-28",
+    "date": "1828-06-21",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cristina-di-svezia/1839-40/1840-06-06/",
+    "production_id": "teatro-carlo-felice-genova/cristina-di-svezia/1839-40",
+    "date": "1840-06-06",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/cristoforo-colombo/1892-93/1892-10-06/",
+    "production_id": "teatro-carlo-felice-genova/cristoforo-colombo/1892-93",
+    "date": "1892-10-06",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-carlo/1853-54/1854-02-11/",
+    "production_id": "teatro-carlo-felice-genova/don-carlo/1853-54",
+    "date": "1854-02-11",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-garzia/1838-39/1838-12-26/",
+    "production_id": "teatro-carlo-felice-genova/don-garzia/1838-39",
+    "date": "1838-12-26",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-03/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-03",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-04/15:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-04",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-05/15:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-05",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-10/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-10",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-11/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-11",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-giovanni/2025-10-12/15:00",
+    "production_id": "teatro-carlo-felice-genova/don-giovanni",
+    "date": "2025-10-12",
+    "time": "15:00",
+    "venue_room": "Turno FA1",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-06/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-06",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-07/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-07",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-08/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-08",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-09/20:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-09",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-10/15:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-10",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/don-pasquale/2023-06-11/15:00",
+    "production_id": "teatro-carlo-felice-genova/don-pasquale",
+    "date": "2023-06-11",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/donata/1937-38/1938-02-20/",
+    "production_id": "teatro-carlo-felice-genova/donata/1937-38",
+    "date": "1938-02-20",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/e-pazza/1836-37/1837-01-01/",
+    "production_id": "teatro-carlo-felice-genova/e-pazza/1836-37",
+    "date": "1837-01-01",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/edita-di-lorno/1852-53/1853-06-01/",
+    "production_id": "teatro-carlo-felice-genova/edita-di-lorno/1852-53",
+    "date": "1853-06-01",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/edith/2023-12-17/15:00",
+    "production_id": "teatro-carlo-felice-genova/edith",
+    "date": "2023-12-17",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/edith/2023-12-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/edith",
+    "date": "2023-12-19",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/edith/2023-12-21/20:00",
+    "production_id": "teatro-carlo-felice-genova/edith",
+    "date": "2023-12-21",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/eidelberga-mia/1907-08/1908-02-27/",
+    "production_id": "teatro-carlo-felice-genova/eidelberga-mia/1907-08",
+    "date": "1908-02-27",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/elisa-di-montalfieri/1831-32/1832-05-01/",
+    "production_id": "teatro-carlo-felice-genova/elisa-di-montalfieri/1831-32",
+    "date": "1832-05-01",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/ezzelino-da-romano/1862-63/1863-05-28/",
+    "production_id": "teatro-carlo-felice-genova/ezzelino-da-romano/1862-63",
+    "date": "1863-05-28",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/falstaff/2025-03-07/20:00",
+    "production_id": "teatro-carlo-felice-genova/falstaff",
+    "date": "2025-03-07",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/falstaff/2025-03-09/15:00",
+    "production_id": "teatro-carlo-felice-genova/falstaff",
+    "date": "2025-03-09",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/falstaff/2025-03-11/20:00",
+    "production_id": "teatro-carlo-felice-genova/falstaff",
+    "date": "2025-03-11",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/falstaff/2025-03-13/20:00",
+    "production_id": "teatro-carlo-felice-genova/falstaff",
+    "date": "2025-03-13",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/giulio-cesare/1935-36/1936-02-08/",
+    "production_id": "teatro-carlo-felice-genova/giulio-cesare/1935-36",
+    "date": "1936-02-08",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/hernani/1843-44/1843-12-26/",
+    "production_id": "teatro-carlo-felice-genova/hernani/1843-44",
+    "date": "1843-12-26",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-03-31/20:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-03-31",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-04-01/15:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-04-01",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-04-02/15:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-04-02",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-04-06/20:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-04-06",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-04-07/20:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-04-07",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-due-foscari/2023-04-08/15:00",
+    "production_id": "teatro-carlo-felice-genova/i-due-foscari",
+    "date": "2023-04-08",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/i-fidanzati/1855-56/1856-02-07/",
+    "production_id": "teatro-carlo-felice-genova/i-fidanzati/1855-56",
+    "date": "1856-02-07",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/idomeneo/2024-02-16/20:00",
+    "production_id": "teatro-carlo-felice-genova/idomeneo",
+    "date": "2024-02-16",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/idomeneo/2024-02-18/15:00",
+    "production_id": "teatro-carlo-felice-genova/idomeneo",
+    "date": "2024-02-18",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/idomeneo/2024-02-23/20:00",
+    "production_id": "teatro-carlo-felice-genova/idomeneo",
+    "date": "2024-02-23",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/idomeneo/2024-02-25/15:00",
+    "production_id": "teatro-carlo-felice-genova/idomeneo",
+    "date": "2024-02-25",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-14/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-14",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-15",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-16/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-16",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-18/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-18",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-19",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2/2024-06-20/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-barbiere-di-siviglia-2",
+    "date": "2024-06-20",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze/2024-12-13/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze",
+    "date": "2024-12-13",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze/2024-12-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze",
+    "date": "2024-12-15",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze/2024-12-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-cappello-di-paglia-di-firenze",
+    "date": "2024-12-17",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-corsaro/2024-05-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-corsaro",
+    "date": "2024-05-17",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-corsaro/2024-05-19/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-corsaro",
+    "date": "2024-05-19",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-corsaro/2024-05-24/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-corsaro",
+    "date": "2024-05-24",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-corsaro/2024-05-26/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-corsaro",
+    "date": "2024-05-26",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-gondoliero/1850-51/1851-02-20/",
+    "production_id": "teatro-carlo-felice-genova/il-gondoliero/1850-51",
+    "date": "1851-02-20",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-romito-di-provenza/1845-46/1846-01-01/",
+    "production_id": "teatro-carlo-felice-genova/il-romito-di-provenza/1845-46",
+    "date": "1846-01-01",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trionfo-delle-donne/1841-42/1841-12-04/",
+    "production_id": "teatro-carlo-felice-genova/il-trionfo-delle-donne/1841-42",
+    "date": "1841-12-04",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-15/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-15",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-17/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-17",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-18/15:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-18",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-20/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-20",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-22/17:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-22",
+    "time": "17:00",
+    "venue_room": "Turno FA2",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/il-trovatore/2026-01-23/20:00",
+    "production_id": "teatro-carlo-felice-genova/il-trovatore",
+    "date": "2026-01-23",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/l-avaro/1840-41/1840-10-24/",
+    "production_id": "teatro-carlo-felice-genova/l-avaro/1840-41",
+    "date": "1840-10-24",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/l-intrusa/1939-40/1940-02-15/",
+    "production_id": "teatro-carlo-felice-genova/l-intrusa/1939-40",
+    "date": "1940-02-15",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-12/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-12",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-13/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-13",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-14/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-14",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-19",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-20/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-20",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2024-04-21/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme",
+    "date": "2024-04-21",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-16/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-16",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-17",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-18/17:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-18",
+    "time": "17:00",
+    "venue_room": "Turno FA2",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-19",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-20/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-20",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-boheme/2025-2026/2026-06-21/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-boheme/2025-2026",
+    "date": "2026-06-21",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "scheduled",
+    "ticket_url": "https://operacarlofelicegenova.vivaticket.it/it/event/la-boheme/274111"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-11-25/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-11-25",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-11-27/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-11-27",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-11-29/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-11-29",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-12-02/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-12-02",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-12-03/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-12-03",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-cenerentola/2022-12-04/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-cenerentola",
+    "date": "2022-12-04",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-pulce-d-oro/1939-40/1940-02-15/",
+    "production_id": "teatro-carlo-felice-genova/la-pulce-d-oro/1939-40",
+    "date": "1940-02-15",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-12/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-12",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-14/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-14",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-15/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-15",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-16/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-16",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-17",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-18/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-18",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-2/2025-01-19/15:00",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-2",
+    "date": "2025-01-19",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-3/2025-05-01/19:30",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-3",
+    "date": "2025-05-01",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/la-traviata-3/2025-05-03/19:30",
+    "production_id": "teatro-carlo-felice-genova/la-traviata-3",
+    "date": "2025-05-03",
+    "time": "19:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/le-astuzie-di-bertoldo/1933-34/1934-01-10/",
+    "production_id": "teatro-carlo-felice-genova/le-astuzie-di-bertoldo/1933-34",
+    "date": "1934-01-10",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/lo-stendardo-di-s-giorgio/1940-41/1941-03-09/",
+    "production_id": "teatro-carlo-felice-genova/lo-stendardo-di-s-giorgio/1940-41",
+    "date": "1941-03-09",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/lucia-di-lammermoor/2024-11-15/20:00",
+    "production_id": "teatro-carlo-felice-genova/lucia-di-lammermoor",
+    "date": "2024-11-15",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/lucia-di-lammermoor/2024-11-17/15:00",
+    "production_id": "teatro-carlo-felice-genova/lucia-di-lammermoor",
+    "date": "2024-11-17",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/lucia-di-lammermoor/2024-11-22/20:00",
+    "production_id": "teatro-carlo-felice-genova/lucia-di-lammermoor",
+    "date": "2024-11-22",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/lucia-di-lammermoor/2024-11-24/15:00",
+    "production_id": "teatro-carlo-felice-genova/lucia-di-lammermoor",
+    "date": "2024-11-24",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/luisa-strozzi/1840-41/1841-06-26/",
+    "production_id": "teatro-carlo-felice-genova/luisa-strozzi/1840-41",
+    "date": "1841-06-26",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-15/20:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-15",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-16/15:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-16",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-17/15:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-17",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-22/20:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-22",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-23/20:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-23",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/macbeth/2026-05-24/15:00",
+    "production_id": "teatro-carlo-felice-genova/macbeth",
+    "date": "2026-05-24",
+    "time": "15:00",
+    "venue_room": "Turno FA1",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-19/20:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-19",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-20/15:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-20",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-21/15:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-21",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-26/20:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-26",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-27/20:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-27",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/madama-butterfly/2024-01-28/15:00",
+    "production_id": "teatro-carlo-felice-genova/madama-butterfly",
+    "date": "2024-01-28",
+    "time": "15:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/mameli/1915-16/1916-04-27/",
+    "production_id": "teatro-carlo-felice-genova/mameli/1915-16",
+    "date": "1916-04-27",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-02/20:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-02",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-03/20:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-03",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-05/20:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-05",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-06/15:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-06",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-10/20:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-10",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/norma/2023-05-11/20:00",
+    "production_id": "teatro-carlo-felice-genova/norma",
+    "date": "2023-05-11",
+    "time": "20:00",
+    "venue_room": "Turno F.A.",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/osti-e-non-osti/1846-47/1846-10-14/",
+    "production_id": "teatro-carlo-felice-genova/osti-e-non-osti/1846-47",
+    "date": "1846-10-14",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/papa-martin/1870-71/1871-03-04/",
+    "production_id": "teatro-carlo-felice-genova/papa-martin/1870-71",
+    "date": "1871-03-04",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-13/20:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-13",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-14/15:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-14",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-15",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-20/20:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-20",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-21/20:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-21",
+    "time": "20:00",
+    "venue_room": "Turno L",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/rigoletto/2022-05-22/15:00",
+    "production_id": "teatro-carlo-felice-genova/rigoletto",
+    "date": "2022-05-22",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/salvator-rosa/1873-74/1874-03-21/",
+    "production_id": "teatro-carlo-felice-genova/salvator-rosa/1873-74",
+    "date": "1874-03-21",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tancreda/1847-48/1847-12-26/",
+    "production_id": "teatro-carlo-felice-genova/tancreda/1847-48",
+    "date": "1847-12-26",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-10/20:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-10",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-11/20:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-11",
+    "time": "20:00",
+    "venue_room": "Turno FA2",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-12/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-12",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-17/20:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-17",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-18/17:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-18",
+    "time": "17:00",
+    "venue_room": "Turno FA2",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca-26/2026-04-19/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca-26",
+    "date": "2026-04-19",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-02-24/20:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-02-24",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-02-25/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-02-25",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-02-26/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-02-26",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-03-03/20:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-03-03",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-03-04/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-03-04",
+    "time": "15:00",
+    "venue_room": "Turno T",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tosca/2023-03-05/15:00",
+    "production_id": "teatro-carlo-felice-genova/tosca",
+    "date": "2023-03-05",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tristan-und-isolde/2026-02-13/18:30",
+    "production_id": "teatro-carlo-felice-genova/tristan-und-isolde",
+    "date": "2026-02-13",
+    "time": "18:30",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tristan-und-isolde/2026-02-15/15:00",
+    "production_id": "teatro-carlo-felice-genova/tristan-und-isolde",
+    "date": "2026-02-15",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tristan-und-isolde/2026-02-20/18:30",
+    "production_id": "teatro-carlo-felice-genova/tristan-und-isolde",
+    "date": "2026-02-20",
+    "time": "18:30",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/tristan-und-isolde/2026-02-22/15:00",
+    "production_id": "teatro-carlo-felice-genova/tristan-und-isolde",
+    "date": "2026-02-22",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-01-27/20:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-01-27",
+    "time": "20:00",
+    "venue_room": "Turno A",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-01-28/15:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-01-28",
+    "time": "15:00",
+    "venue_room": "Turno F",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-01-29/15:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-01-29",
+    "time": "15:00",
+    "venue_room": "Turno C",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-02-03/20:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-02-03",
+    "time": "20:00",
+    "venue_room": "Turno B",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-02-04/15:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-02-04",
+    "time": "15:00",
+    "venue_room": "Turno T",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-ballo-in-maschera/2023-02-05/15:00",
+    "production_id": "teatro-carlo-felice-genova/un-ballo-in-maschera",
+    "date": "2023-02-05",
+    "time": "15:00",
+    "venue_room": "Turno R",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/un-capriccio-di-donna/1869-70/1870-03-10/",
+    "production_id": "teatro-carlo-felice-genova/un-capriccio-di-donna/1869-70",
+    "date": "1870-03-10",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/virginia/1842-43/1843-02-21/",
+    "production_id": "teatro-carlo-felice-genova/virginia/1842-43",
+    "date": "1843-02-21",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-02/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-02",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-02/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-02",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-03/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-03",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-03/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-03",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-04/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-04",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-04/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-04",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-05/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-05",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-05/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-05",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-07/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-07",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-08/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-08",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-08/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-08",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-09/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-09",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-09/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-09",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-10/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-10",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-10/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-10",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-11/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-11",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-11/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-11",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-12/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-12",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-12/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-12",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-14/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-14",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-15/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-15",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-15/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-15",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-16/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-16",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-16/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-16",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-17/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-17",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-17/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-17",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-19/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-19",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-19/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-19",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-21/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-21",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-22/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-22",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-22/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-22",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-23/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-23",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-23/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-23",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-24/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-24",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-24/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-24",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-25/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-25",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-25/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-25",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-2/2023-05-27/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena-2",
+    "date": "2023-05-27",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-28/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-28",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-28/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-28",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-29/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-29",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-30/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-30",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-31/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-31",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-10-31/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-10-31",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-04/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-04",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-04/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-04",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-05/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-05",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-05/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-05",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-06/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-06",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-06/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-06",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-07/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-07",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-07/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-07",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-11/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-11",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-11/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-11",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-12/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-12",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-12/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-12",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-13/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-13",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-13/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-13",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-14/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-14",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-14/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-14",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-15/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-15",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-15/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-15",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-18/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-18",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-18/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-18",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-19/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-19",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena-3/2024-11-19/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena-3",
+    "date": "2024-11-19",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-08/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-08",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-08/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-08",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-09/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-09",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-09/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-09",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-10/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-10",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-11/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-11",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-11/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-11",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-12/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-12",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-15/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-15",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-15/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-15",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-16/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-16",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-16/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-16",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-17/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-17",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-17/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-17",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-18/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-18",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-18/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-18",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-20/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-20",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-24/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-24",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-24/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-24",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-25/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-25",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-25/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-25",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-29/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-29",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-03-29/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-03-29",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-01/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-01",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-01/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-01",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-02/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-02",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-06/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-06",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-06/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-06",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-07/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-07",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-08/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-08",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-13/09:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-13",
+    "time": "09:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-13/11:30",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-13",
+    "time": "11:30",
+    "status": "past"
+  },
+  {
+    "id": "teatro-carlo-felice-genova/zena/2022-04-23/15:00",
+    "production_id": "teatro-carlo-felice-genova/zena",
+    "date": "2022-04-23",
+    "time": "15:00",
+    "status": "past"
+  }
+]

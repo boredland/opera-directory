@@ -1,0 +1,846 @@
+[
+  {
+    "id": "teatro-petruzzelli-bari/andrea-del-sarto/1930-31",
+    "work_slug": "antonio-lega/andrea-del-sarto",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "1930/31",
+    "premiere_date": "1931-02-10",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109244600",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/ascesa-e-caduta-della-citta-di-mahagonny/2025",
+    "work_slug": "weill-brecht/ascesa-e-caduta-della-citta-di-mahagonny",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/ascesa-e-caduta-della-citta-di-mahagonny/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "valentina-escobar",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "luka-hauser",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giancarlo-colis",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "henning-brockhaus",
+        "function": "director"
+      },
+      {
+        "person_slug": "pasquale-mari",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "margherita-palli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/bona-sforza/2026",
+    "work_slug": "zygmunt-krauze/bona-sforza",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/bona-sforza-krautze-14-20-settembre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "piotr-sulkowski",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ma-gorzata-s-oniowska",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michal-znaniecki",
+        "function": "director"
+      },
+      {
+        "person_slug": "dawid-karolak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "luigi-scoglio",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/carmen/2025",
+    "work_slug": "bizet/carmen",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/carmen/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "emanuela-aymone",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jordi-bernacer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jamie-vartan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tom-rogers",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stephen-medcalf",
+        "function": "director"
+      },
+      {
+        "person_slug": "simon-corder",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "jamie-vartan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/don-carlo/2025",
+    "work_slug": "verdi/don-carlo",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/don-carlo/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "diego-matheuz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "joseph-franconi-lee",
+        "function": "director"
+      },
+      {
+        "person_slug": "claudio-schmid",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alessandro-ciammarughi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/don-giovanni/2021",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2021",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/don-giovanni/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2021/07/Don-Giovanni-ok.jpg",
+    "creative_team": [
+      {
+        "person_slug": "fabrizio-cassi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sascha-goetzel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maurizio-galante",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "giorgio-ferrara",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiammetta-baldiserri",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dante-ferretti",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "francesca-lo-schiavo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/falstaff/2026",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/falstaff-verdi-7-15-marzo/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vincenzo-milletari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tiziano-musetti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "luca-ronconi",
+        "function": "director"
+      },
+      {
+        "person_slug": "marina-bianchi",
+        "function": "director"
+      },
+      {
+        "person_slug": "a-j-weissbard",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tiziano-santi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/gara-damore/1872-73",
+    "work_slug": "eliodoro-bianchi/gara-damore",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "1872/73",
+    "premiere_date": "1873-07-01",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109241463",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/giulio-cesare/2025",
+    "work_slug": "handel/giulio-cesare",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/giulio-cesare/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "thomas-wilhelm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "stefano-montanari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "agostino-cavalca",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "diane-clement",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/il-barbiere-di-siviglia/2026",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/il-barbiere-di-siviglia-rossini-16-22-dicembre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefano-montanari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "massimo-cantini-parrini",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-luchetti",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alessandro-camera",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/il-corsaro/2025",
+    "work_slug": "verdi/il-corsaro",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/il-corsaro/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefano-montanari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vera-marzot",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "grazia-pulvirenti",
+        "function": "director"
+      },
+      {
+        "person_slug": "lamberto-puggelli",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrea-borelli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marco-capuana",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/il-gobbo-del-califfo/2026",
+    "work_slug": "franco-casavola/il-gobbo-del-califfo",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/il-gobbo-del-califfo-casavola-21-24-maggio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "matteo-dal-maso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franca-squarciapino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mariano-dammacco",
+        "function": "director"
+      },
+      {
+        "person_slug": "angelo-linzalata",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "mariano-dammacco",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "angelo-linzalata",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/il-labirinto-di-creta/2024",
+    "work_slug": "nicola-piovani/il-labirinto-di-creta",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/il-labirinto-di-creta-16-22-maggio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "nicola-piovani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "angelo-linzalata",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/il-trovatore/2026",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/il-trovatore-verdi-18-27-ottobre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "vincenzo-milletari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-verde",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "director"
+      },
+      {
+        "person_slug": "antonio-castro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gio-forma",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/l-angelo-di-fuoco/2024",
+    "work_slug": "sergej-prokof-ev/l-angelo-di-fuoco",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/langelo-di-fuoco-17-23-aprile/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "manuela-lo-sicco",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "roberta-peroni",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jordi-bernacer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vanessa-sannino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "emma-dante",
+        "function": "director"
+      },
+      {
+        "person_slug": "federico-gagliardi",
+        "function": "director"
+      },
+      {
+        "person_slug": "christian-zucaro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "carmine-maringola",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/la-cecchina/2026",
+    "work_slug": "niccolo-piccinni/la-cecchina",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/la-cecchina-piccinni-21-28-gennaio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "florence-bas",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "stefano-montanari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "massimo-cantini-parrini",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-luchetti",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alessandro-camera",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/la-fille-du-regiment/2024",
+    "work_slug": "gaetano-donizetti/la-fille-du-regiment",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/la-fille-du-regiment-8-14-novembre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "riccardo-bisatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barbe-doucet",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/la-traviata/2026",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/la-traviata-verdi-18-26-aprile/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2025/06/ob-2026.png",
+    "creative_team": [
+      {
+        "person_slug": "stephane-phavorin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jordi-bernacer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maria-grazia-chiuri",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pierpaolo-piccioli",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "valentino-garavani",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sofia-coppola",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nathan-crowley",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/le-astuzie-d-amore/1935-36",
+    "work_slug": "franco-casavola/le-astuzie-d-amore",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "1935/36",
+    "premiere_date": "1936-01-29",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109002210",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/madama-butterfly/2024",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/madama-butterfly-3-10-marzo/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "giovanni-farina",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giacomo-sagripanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pier-luigi-pizzi",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/manon-lescaut/2025",
+    "work_slug": "puccini/manon-lescaut",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/manon-lescaut/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "gheorghe-iancu",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "letizia-giuliani",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-cilluffo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "massimo-pizzi-gasparon-contarini",
+        "function": "director"
+      },
+      {
+        "person_slug": "massimo-pizzi-gasparon-contarini",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/maritana/1910-11",
+    "work_slug": "gaetano-tarantini/maritana",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "1910/11",
+    "premiere_date": "1911-02-14",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109242783",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/nabucco/2021",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2021",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/nabucco-giuseppe-verdi/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2021/09/Nabucco-x-sito-1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "fabrizio-cassi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "renato-palumbo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-aymonino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alessandra-de-angelis",
+        "function": "director"
+      },
+      {
+        "person_slug": "leo-muscato",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-verazzi",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tiziano-santi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/rigoletto/2024",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/rigoletto-7-13-giugno/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "giuseppe-bonanno",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "renato-palumbo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cecilia-ligorio-scene-francesco-frigeri-costumi-marco-piemontese",
+        "function": "director"
+      },
+      {
+        "person_slug": "john-turturro",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/the-rape-of-lucretia/2025",
+    "work_slug": "britten/the-rape-of-lucretia",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2025",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/the-rape-of-lucretia/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2024/09/opera_2025.png",
+    "creative_team": [
+      {
+        "person_slug": "jordi-bernacer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yannis-kokkos",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/tosca/2021",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2021",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/tosca-giacomo-puccini/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2021/10/Tosca-2014.jpg",
+    "creative_team": [
+      {
+        "person_slug": "fabrizio-cassi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giampaolo-bisanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mario-pontiggia",
+        "function": "director"
+      },
+      {
+        "person_slug": "bruno-ciulli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "francesco-zito",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/tosca/2024",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2024",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/tosca-20-28-dicembre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2023/11/Icona-OPERA-2024-1-scaled.jpg",
+    "creative_team": [
+      {
+        "person_slug": "marco-medved",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-cilluffo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hugo-de-ana",
+        "function": "director"
+      },
+      {
+        "person_slug": "valerio-alfieri",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  }
+]

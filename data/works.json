@@ -210,6 +210,38 @@
     "composer_slug": ""
   },
   {
+    "slug": "achille-montuoro/fieschi",
+    "wikidata": "Q55713053",
+    "title": "Fieschi",
+    "composer_slug": "achille-montuoro",
+    "world_premiere": "1869-03-20",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "achille-peri/ester-d-engaddi",
+    "wikidata": "Q109002144",
+    "title": "Ester d'Engaddi",
+    "composer_slug": "achille-peri",
+    "world_premiere": "1843-02-19",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "achille-peri/i-fidanzati",
+    "wikidata": "Q109242546",
+    "title": "I fidanzati",
+    "composer_slug": "achille-peri",
+    "world_premiere": "1856-02-07",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "achille-peri/tancreda",
+    "wikidata": "Q109242758",
+    "title": "Tancreda",
+    "composer_slug": "achille-peri",
+    "world_premiere": "1847-12-26",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "adam-guettel-craig-lucas/das-licht-auf-der-piazza",
     "title": "Das Licht auf der Piazza",
     "composer_slug": "adam-guettel-craig-lucas"
@@ -220,6 +252,19 @@
     "composer_slug": "adam-guettel"
   },
   {
+    "slug": "adolfo-gandino/imelda",
+    "wikidata": "Q109002492",
+    "title": "Imelda",
+    "composer_slug": "adolfo-gandino",
+    "world_premiere": "1936-12-10",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "adolphe-adam/giselle",
+    "title": "Giselle",
+    "composer_slug": "adolphe-adam"
+  },
+  {
     "slug": "adolphe-adam/le-postillon-de-lonjumeau",
     "title": "Le postillon de Lonjumeau",
     "composer_slug": "adolphe-adam"
@@ -228,6 +273,38 @@
     "slug": "adrian-laugsch/drag-spirits-the-poet-and-the-sun",
     "title": "Drag Spirits: The Poet and the Sun",
     "composer_slug": "adrian-laugsch"
+  },
+  {
+    "slug": "adriano-guarnieri/trionfo-della-notte",
+    "wikidata": "Q109243981",
+    "title": "Trionfo della notte",
+    "composer_slug": "adriano-guarnieri",
+    "world_premiere": "1987-02-03",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "adriano-lualdi/la-figlia-del-re",
+    "wikidata": "Q109002520",
+    "title": "La figlia del Re",
+    "composer_slug": "adriano-lualdi",
+    "world_premiere": "1922-03-18",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "adriano-lualdi/lumawig-e-la-saetta",
+    "wikidata": "Q109002298",
+    "title": "Lumawig e la saetta",
+    "composer_slug": "adriano-lualdi",
+    "world_premiere": "1937-01-23",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "agidius-karl-lickl/la-disfida-di-barletta",
+    "wikidata": "Q109001274",
+    "title": "La disfida di Barletta",
+    "composer_slug": "agidius-karl-lickl",
+    "world_premiere": "1848-02-02",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "aidas-rivalin",
@@ -275,9 +352,67 @@
     "composer_slug": "alberto-caruso"
   },
   {
+    "slug": "alberto-donini-ricostruzione/pagliacci-al-mulino",
+    "title": "Pagliacci / Al Mulino",
+    "composer_slug": "alberto-donini-ricostruzione"
+  },
+  {
+    "slug": "alberto-franchetti/cristoforo-colombo",
+    "wikidata": "Q3697690",
+    "title": "Cristoforo Colombo",
+    "composer_slug": "alberto-franchetti",
+    "world_premiere": "1892-10-06",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "alberto-iginio-randegger/maria-di-breval",
+    "wikidata": "Q109002482",
+    "title": "Maria di Breval",
+    "composer_slug": "alberto-iginio-randegger",
+    "world_premiere": "1925-04-01",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "alberto-mazzucato/hernani",
+    "wikidata": "Q109244047",
+    "title": "Hernani",
+    "composer_slug": "alberto-mazzucato",
+    "world_premiere": "1843-12-26",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "alcina",
     "title": "Alcina",
     "composer_slug": ""
+  },
+  {
+    "slug": "aleksandr-porfir-evic-borodin/il-principe-igor",
+    "title": "Il Principe Igor",
+    "composer_slug": "aleksandr-porfir-evic-borodin"
+  },
+  {
+    "slug": "alessandro-nini/cristina-di-svezia",
+    "wikidata": "Q109241993",
+    "title": "Cristina di Svezia",
+    "composer_slug": "alessandro-nini",
+    "world_premiere": "1840-06-06",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "alessandro-nini/virginia",
+    "wikidata": "Q109242029",
+    "title": "Virginia",
+    "composer_slug": "alessandro-nini",
+    "world_premiere": "1843-02-21",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "alessandro-orsini/i-burgravi",
+    "wikidata": "Q109241434",
+    "title": "I Burgravi",
+    "composer_slug": "alessandro-orsini",
+    "world_premiere": "1881-12-11",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "alessandro-scarlatti/kain-und-abel",
@@ -288,6 +423,14 @@
     "slug": "alessandro-scarlatti/la-giuditta",
     "title": "La Giuditta",
     "composer_slug": "alessandro-scarlatti"
+  },
+  {
+    "slug": "alessandro-severo",
+    "wikidata": "Q109244419",
+    "title": "Alessandro Severo",
+    "composer_slug": "",
+    "world_premiere": "1758-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
     "slug": "alexander-r-schwei-und-lena-rei-ner-treffpunkt-20-45-uhr-am-buhneneingang-in-der-bertoldstra-e-46/the-bat-bomb",
@@ -315,6 +458,38 @@
     "composer_slug": "alfred-schnittke"
   },
   {
+    "slug": "alfredo-casella/la-donna-serpente",
+    "wikidata": "Q27921329",
+    "title": "La donna serpente",
+    "composer_slug": "alfredo-casella",
+    "world_premiere": "1932-03-17",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "alfredo-catalani/elda",
+    "wikidata": "Q3721194",
+    "title": "Elda",
+    "composer_slug": "alfredo-catalani",
+    "world_premiere": "1880-01-31",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "alfredo-catalani/loreley",
+    "wikidata": "Q2289136",
+    "title": "Loreley",
+    "composer_slug": "alfredo-catalani",
+    "world_premiere": "1890-02-16",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "alfredo-keil/irene",
+    "wikidata": "Q109244485",
+    "title": "Irene",
+    "composer_slug": "alfredo-keil",
+    "world_premiere": "1893-03-22",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "all-that-musical",
     "title": "All that Musical!",
     "composer_slug": ""
@@ -333,6 +508,11 @@
     "slug": "alma-deutscher/cinderella",
     "title": "cinderella",
     "composer_slug": "alma-deutscher"
+  },
+  {
+    "slug": "aloisius-ludwig-minkus-balletto-in-tre-atti/don-chisciotte",
+    "title": "Don Chisciotte",
+    "composer_slug": "aloisius-ludwig-minkus-balletto-in-tre-atti"
   },
   {
     "slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen",
@@ -380,6 +560,30 @@
     "composer_slug": "andrew-lloyd-webber"
   },
   {
+    "slug": "angelo-musco/il-gattopardo",
+    "wikidata": "Q109241763",
+    "title": "Il Gattopardo",
+    "composer_slug": "angelo-musco",
+    "world_premiere": "1967-12-19",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "angelo-tarchi/il-trionfo-di-clelia",
+    "wikidata": "Q5826942",
+    "title": "Il trionfo di Clelia",
+    "composer_slug": "angelo-tarchi",
+    "world_premiere": "1786-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "angelo-villanis/la-vergine-di-kent",
+    "wikidata": "Q109241984",
+    "title": "La vergine di Kent",
+    "composer_slug": "angelo-villanis",
+    "world_premiere": "1856-03-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "anmeldung-erforderlich-unter/treffpunkt-buhneneingang-fantastisches-kinderzimmer-marchenhafte-figuren-blick-hinter-die-kulissen-mit-ratselrallye-alles-nur-kein-hut-blick-hinter-die-kulissen",
     "title": "Treffpunkt: Bühneneingang : Fantastisches Kinderzimmer : Märchenhafte Figuren : Blick hinter die Kulissen mit Rätselrallye : Alles, nur kein Hut! : Blick hinter die Kulissen",
     "composer_slug": "anmeldung-erforderlich-unter"
@@ -390,6 +594,14 @@
     "composer_slug": "anna-thorvaldsdottir"
   },
   {
+    "slug": "annibale-bizzelli/il-dottor-oss",
+    "wikidata": "Q109002519",
+    "title": "Il dottor Oss",
+    "composer_slug": "annibale-bizzelli",
+    "world_premiere": "1936-04-25",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "anno-schreier/cosa-nostra",
     "title": "Cosa Nostra",
     "composer_slug": "anno-schreier"
@@ -398,6 +610,11 @@
     "slug": "anno-schreier/peter-van-pels",
     "title": "Peter van Pels",
     "composer_slug": "anno-schreier"
+  },
+  {
+    "slug": "anton-bruckner/iv-concerto",
+    "title": "IV Concerto",
+    "composer_slug": "anton-bruckner"
   },
   {
     "slug": "antonia-bembo/ercole-amante",
@@ -413,6 +630,126 @@
     "slug": "antonio",
     "title": "Antonio",
     "composer_slug": ""
+  },
+  {
+    "slug": "antonio-buzzi/ermengarda",
+    "wikidata": "Q109001493",
+    "title": "Ermengarda",
+    "composer_slug": "antonio-buzzi",
+    "world_premiere": "1853-02-10",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "antonio-cagnoni/amori-e-trappole",
+    "wikidata": "Q109241496",
+    "title": "Amori e trappole",
+    "composer_slug": "antonio-cagnoni",
+    "world_premiere": "1850-04-27",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-cagnoni/francesca-da-rimini",
+    "wikidata": "Q136822636",
+    "title": "Francesca da Rimini",
+    "composer_slug": "antonio-cagnoni",
+    "world_premiere": "1878-02-19",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "antonio-cagnoni/la-fioraja",
+    "wikidata": "Q109241717",
+    "title": "La fioraja",
+    "composer_slug": "antonio-cagnoni",
+    "world_premiere": "1853-11-24",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "antonio-cagnoni/papa-martin",
+    "wikidata": "Q109241718",
+    "title": "Papà Martin",
+    "composer_slug": "antonio-cagnoni",
+    "world_premiere": "1871-03-04",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-cagnoni/un-capriccio-di-donna",
+    "wikidata": "Q109242577",
+    "title": "Un capriccio di donna",
+    "composer_slug": "antonio-cagnoni",
+    "world_premiere": "1870-03-10",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-carlos-gomes/salvator-rosa",
+    "wikidata": "Q2759357",
+    "title": "Salvator Rosa",
+    "composer_slug": "antonio-carlos-gomes",
+    "world_premiere": "1874-03-21",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-costamagna/don-garzia",
+    "wikidata": "Q109241738",
+    "title": "Don Garzia",
+    "composer_slug": "antonio-costamagna",
+    "world_premiere": "1838-12-26",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-costamagna/e-pazza",
+    "wikidata": "Q109241410",
+    "title": "È pazza",
+    "composer_slug": "antonio-costamagna",
+    "world_premiere": "1837-01-01",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-granara/elisa-di-montalfieri",
+    "wikidata": "Q109242212",
+    "title": "Elisa di Montalfieri",
+    "composer_slug": "antonio-granara",
+    "world_premiere": "1832-05-01",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "antonio-lega/andrea-del-sarto",
+    "wikidata": "Q109244600",
+    "title": "Andrea del sarto",
+    "composer_slug": "antonio-lega",
+    "world_premiere": "1931-02-10",
+    "world_premiere_house_slug": "teatro-petruzzelli-bari"
+  },
+  {
+    "slug": "antonio-salieri/annibale-in-capua",
+    "wikidata": "Q15783575",
+    "title": "Annibale in Capua",
+    "composer_slug": "antonio-salieri",
+    "world_premiere": "1801-05-19",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "antonio-smareglia/nozze-istriane",
+    "wikidata": "Q966299",
+    "title": "Nozze istriane",
+    "composer_slug": "antonio-smareglia",
+    "world_premiere": "1895-03-28",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "antonio-traversari/don-cesar-de-bazan",
+    "wikidata": "Q109242630",
+    "title": "Don César de Bazan",
+    "composer_slug": "antonio-traversari",
+    "world_premiere": "1857-08-25",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "antonio-veretti/burlesca",
+    "wikidata": "Q109242479",
+    "title": "Burlesca",
+    "composer_slug": "antonio-veretti",
+    "world_premiere": "1955-01-29",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "antonio-vivaldi/bajazet",
@@ -475,6 +812,19 @@
     "composer_slug": "arthur-sullivan"
   },
   {
+    "slug": "arturo-buzzi-peccia/la-forza-d-amore",
+    "wikidata": "Q109002436",
+    "title": "La forza d'amore",
+    "composer_slug": "arturo-buzzi-peccia",
+    "world_premiere": "1897-03-06",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "arvo-part-robert-wilson/adam-s-passion",
+    "title": "Adam’s Passion",
+    "composer_slug": "arvo-part-robert-wilson"
+  },
+  {
     "slug": "astor-piazzolla/maria-de-buenos-aires",
     "title": "María de Buenos Aires",
     "composer_slug": "astor-piazzolla"
@@ -530,6 +880,22 @@
     "composer_slug": "aydan-mugan"
   },
   {
+    "slug": "azio-corghi/amorsacro-amorprofano",
+    "wikidata": "Q109243818",
+    "title": "Amorsacro/Amorprofano",
+    "composer_slug": "azio-corghi",
+    "world_premiere": "1994-01-29",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "azio-corghi/gargantua",
+    "wikidata": "Q109244286",
+    "title": "Gargantua",
+    "composer_slug": "azio-corghi",
+    "world_premiere": "1984-05-02",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "babbel",
     "title": "Babbel",
     "composer_slug": ""
@@ -548,6 +914,30 @@
     "slug": "backstage-fuhrung-fur-abonnent-innen",
     "title": "Backstage-Führung für Abonnent*innen",
     "composer_slug": ""
+  },
+  {
+    "slug": "baldassare-galuppi/adriano-in-siria",
+    "wikidata": "Q137185592",
+    "title": "Adriano in Siria",
+    "composer_slug": "baldassare-galuppi",
+    "world_premiere": "1740-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "baldassare-galuppi/issipile",
+    "wikidata": "Q5922965",
+    "title": "Issipile",
+    "composer_slug": "baldassare-galuppi",
+    "world_premiere": "1737-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "baldassare-galuppi/la-clemenza-di-tito",
+    "wikidata": "Q5966229",
+    "title": "La clemenza di Tito",
+    "composer_slug": "baldassare-galuppi",
+    "world_premiere": "1760-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "ballett-shy-insider-innen",
@@ -680,6 +1070,30 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "bernardo-ottani/arminio",
+    "wikidata": "Q109244792",
+    "title": "Arminio",
+    "composer_slug": "bernardo-ottani",
+    "world_premiere": "1781-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "bernardo-ottani/la-clemenza-di-tito",
+    "wikidata": "Q5966241",
+    "title": "La clemenza di Tito",
+    "composer_slug": "bernardo-ottani",
+    "world_premiere": "1797-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "bernardo-sabadini/il-favore-degli-dei",
+    "wikidata": "Q136530543",
+    "title": "Il favore degli dei",
+    "composer_slug": "bernardo-sabadini",
+    "world_premiere": "1690-05-25",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
     "slug": "bernd-alois-zimmermann/die-soldaten",
     "title": "Die Soldaten",
     "composer_slug": "bernd-alois-zimmermann"
@@ -770,6 +1184,11 @@
     "composer_slug": "brad-carroll"
   },
   {
+    "slug": "brahms/iv-concerto",
+    "title": "IV concerto",
+    "composer_slug": "brahms"
+  },
+  {
     "slug": "brandy-butler/mitosis-an-lsd-opera",
     "title": "Mitosis – An LSD Opera",
     "composer_slug": "brandy-butler"
@@ -800,9 +1219,22 @@
     "composer_slug": "britten"
   },
   {
+    "slug": "britten/the-rape-of-lucretia",
+    "title": "THE RAPE OF LUCRETIA",
+    "composer_slug": "britten"
+  },
+  {
     "slug": "bruche-demokratie-in-zeiten-ihrer-regression",
     "title": "Brüche – Demokratie in Zeiten ihrer Regression",
     "composer_slug": ""
+  },
+  {
+    "slug": "bruno-barilli/emiral",
+    "wikidata": "Q109242460",
+    "title": "Emiral",
+    "composer_slug": "bruno-barilli",
+    "world_premiere": "1924-03-11",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "bruno-franceschini/picobello-ahoi",
@@ -900,9 +1332,57 @@
     "composer_slug": "carlisle-floyd"
   },
   {
+    "slug": "carlo-emery-coen/antonio-foscarini",
+    "wikidata": "Q109244718",
+    "title": "Antonio Foscarini",
+    "composer_slug": "carlo-emery-coen",
+    "world_premiere": "1841-11-24",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "carlo-evasio-soliva/berenice-d-armenia",
+    "wikidata": "Q97177909",
+    "title": "Berenice d'Armenia",
+    "composer_slug": "carlo-evasio-soliva",
+    "world_premiere": "1817-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "carlo-gaetano-mezzacapo/almansor",
+    "wikidata": "Q109244451",
+    "title": "Almansor",
+    "composer_slug": "carlo-gaetano-mezzacapo",
+    "world_premiere": "1881-01-01",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "carlo-goldoni/der-diener-zweier-herren",
     "title": "Der Diener zweier Herren",
     "composer_slug": "carlo-goldoni"
+  },
+  {
+    "slug": "carlo-pedrotti/marion-delorme",
+    "wikidata": "Q136981269",
+    "title": "Marion Delorme",
+    "composer_slug": "carlo-pedrotti",
+    "world_premiere": "1865-11-16",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "carlo-pedrotti/mazeppa",
+    "wikidata": "Q109242554",
+    "title": "Mazeppa",
+    "composer_slug": "carlo-pedrotti",
+    "world_premiere": "1861-12-03",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "carmine-guarino/balilla",
+    "wikidata": "Q109002230",
+    "title": "Balilla",
+    "composer_slug": "carmine-guarino",
+    "world_premiere": "1934-01-01",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "cassie-kinoshi/the-monster-trilogy",
@@ -1010,9 +1490,22 @@
     "composer_slug": "christoph-willibald-gluck-und-nicolas-francois-guillard"
   },
   {
+    "slug": "christoph-willibald-gluck/alceste",
+    "title": "Alceste",
+    "composer_slug": "christoph-willibald-gluck"
+  },
+  {
     "slug": "christoph-willibald-gluck/der-bekehrte-trunkenbold",
     "title": "Der bekehrte Trunkenbold",
     "composer_slug": "christoph-willibald-gluck"
+  },
+  {
+    "slug": "christoph-willibald-gluck/il-trionfo-di-clelia",
+    "wikidata": "Q18351031",
+    "title": "Il trionfo di Clelia",
+    "composer_slug": "christoph-willibald-gluck",
+    "world_premiere": "1763-05-14",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
   },
   {
     "slug": "christoph-willibald-gluck/iphigenie-en-aulide-br-iphigenie-in-aulis",
@@ -1038,6 +1531,20 @@
     "slug": "christoph-willibald-gluck/orpheus-eurydice",
     "title": "ORPHEUS & EURYDICE",
     "composer_slug": "christoph-willibald-gluck"
+  },
+  {
+    "slug": "christoph-willibald-gluck/poro",
+    "wikidata": "Q5393008",
+    "title": "Poro",
+    "composer_slug": "christoph-willibald-gluck"
+  },
+  {
+    "slug": "ciro-pinsuti/il-mercante-di-venezia",
+    "wikidata": "Q109242616",
+    "title": "Il mercante di Venezia",
+    "composer_slug": "ciro-pinsuti",
+    "world_premiere": "1873-11-08",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
   },
   {
     "slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
@@ -1087,6 +1594,11 @@
   {
     "slug": "claudio-monteverdi/il-ritorno-d-ulisse-in-patria",
     "title": "Il ritorno d’Ulisse in patria",
+    "composer_slug": "claudio-monteverdi"
+  },
+  {
+    "slug": "claudio-monteverdi/il-ritorno-di-ulisse-in-patria",
+    "title": "Il ritorno di Ulisse in patria",
     "composer_slug": "claudio-monteverdi"
   },
   {
@@ -1225,6 +1737,14 @@
     "composer_slug": "david-sebba"
   },
   {
+    "slug": "davide-perez/farnace",
+    "wikidata": "Q11926476",
+    "title": "Farnace",
+    "composer_slug": "davide-perez",
+    "world_premiere": "1750-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "der-abschied-die-geister-von-w-at",
     "title": "Der Abschied/Die Geister von W. (AT)",
     "composer_slug": ""
@@ -1335,6 +1855,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "direttore-jader-bignamini/giacomo-puccini-manon-lescaut",
+    "title": "Giacomo Puccini - Manon Lescaut",
+    "composer_slug": "direttore-jader-bignamini"
+  },
+  {
     "slug": "dirk-kaftan/tosca",
     "title": "Tosca",
     "composer_slug": "dirk-kaftan"
@@ -1363,6 +1888,30 @@
     "slug": "dmitry-shostakovich/the-nose",
     "title": "The Nose",
     "composer_slug": "dmitry-shostakovich"
+  },
+  {
+    "slug": "domenech-terradellas/didone-abbandonata",
+    "wikidata": "Q5805774",
+    "title": "Didone abbandonata",
+    "composer_slug": "domenech-terradellas",
+    "world_premiere": "1750-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "domenico-cimarosa/artaserse",
+    "wikidata": "Q5706511",
+    "title": "Artaserse",
+    "composer_slug": "domenico-cimarosa",
+    "world_premiere": "1784-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "domenico-monleone/alba-eroica",
+    "wikidata": "Q109244389",
+    "title": "Alba eroica",
+    "composer_slug": "domenico-monleone",
+    "world_premiere": "1910-05-05",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "don-giovanni-justin-bieber-remix",
@@ -1410,6 +1959,11 @@
     "composer_slug": "dvorak"
   },
   {
+    "slug": "e-teatro-di-jacques-offenbach/fabbrica-offenbach",
+    "title": "FABBRICA OFFENBACH",
+    "composer_slug": "e-teatro-di-jacques-offenbach"
+  },
+  {
     "slug": "ebbe-und-flut",
     "title": "Ebbe und Flut",
     "composer_slug": ""
@@ -1430,9 +1984,46 @@
     "composer_slug": "ede-poldini"
   },
   {
+    "slug": "edoardo-m-poggi/bufera-d-amore",
+    "wikidata": "Q109244498",
+    "title": "Bufera d'amore",
+    "composer_slug": "edoardo-m-poggi",
+    "world_premiere": "1917-10-14",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "edoardo-mascheroni/lorenza",
+    "wikidata": "Q109002506",
+    "title": "Lorenza",
+    "composer_slug": "edoardo-mascheroni",
+    "world_premiere": "1901-04-13",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "edoardo-vera/valeria",
+    "wikidata": "Q136813493",
+    "title": "Valeria",
+    "composer_slug": "edoardo-vera",
+    "world_premiere": "1869-03-16",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "edouard-lalo/christopher-franklin",
+    "title": "Christopher Franklin",
+    "composer_slug": "edouard-lalo"
+  },
+  {
     "slug": "edvard-grieg/peer-gynt",
     "title": "Peer Gynt",
     "composer_slug": "edvard-grieg"
+  },
+  {
+    "slug": "egidio-duni/l-olimpiade",
+    "wikidata": "Q137373666",
+    "title": "L'olimpiade",
+    "composer_slug": "egidio-duni",
+    "world_premiere": "1755-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
     "slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
@@ -1550,6 +2141,14 @@
     "composer_slug": "elena-langer"
   },
   {
+    "slug": "eliodoro-bianchi/gara-damore",
+    "wikidata": "Q109241463",
+    "title": "Gara damore",
+    "composer_slug": "eliodoro-bianchi",
+    "world_premiere": "1873-07-01",
+    "world_premiere_house_slug": "teatro-petruzzelli-bari"
+  },
+  {
     "slug": "elisabeth-naske/vom-kleinen-maulwurf-der-wissen-wollte-wer-ihm-auf-den-kopf-gemacht-hat",
     "title": "Vom kleinen Maulwurf, der wissen wollte, wer ihm auf den Kopf gemacht hat",
     "composer_slug": "elisabeth-naske"
@@ -1570,9 +2169,33 @@
     "composer_slug": "emanuel-schikaneder"
   },
   {
+    "slug": "emanuele-biletta/l-abazia-di-kelso",
+    "wikidata": "Q109244322",
+    "title": "L'abazia di Kelso",
+    "composer_slug": "emanuele-biletta",
+    "world_premiere": "1854-03-04",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "emanuele-muzio/la-sorrentina",
+    "wikidata": "Q109241943",
+    "title": "La sorrentina",
+    "composer_slug": "emanuele-muzio",
+    "world_premiere": "1857-11-14",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
     "slug": "emil-und-die-detektive-7",
     "title": "Emil und die Detektive (7+)",
     "composer_slug": ""
+  },
+  {
+    "slug": "emilio-cianchi/leone-isauro",
+    "wikidata": "Q109241488",
+    "title": "Leone Isauro",
+    "composer_slug": "emilio-cianchi",
+    "world_premiere": "1862-03-25",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "emily-bronte/sturmhohe",
@@ -1615,6 +2238,11 @@
     "composer_slug": "emmerich-kalman"
   },
   {
+    "slug": "emmerich-kalman/la-bajadera",
+    "title": "La Bajadera",
+    "composer_slug": "emmerich-kalman"
+  },
+  {
     "slug": "ena-brennan/breathwork",
     "title": "Breathwork",
     "composer_slug": "ena-brennan"
@@ -1643,6 +2271,14 @@
     "slug": "engelbert-humperdinck/konigskinder",
     "title": "Königskinder",
     "composer_slug": "engelbert-humperdinck"
+  },
+  {
+    "slug": "enrico-de-leva/camargo",
+    "wikidata": "Q109001227",
+    "title": "Camargo",
+    "composer_slug": "enrico-de-leva",
+    "world_premiere": "1898-03-02",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "ensemble-in-residence/wooden-elephant",
@@ -1680,6 +2316,19 @@
     "composer_slug": "erich-wolfgang-korngold"
   },
   {
+    "slug": "ermanno-wolf-ferrari-intermezzo-in-un-atto/il-segreto-di-susanna",
+    "title": "Il segreto di Susanna",
+    "composer_slug": "ermanno-wolf-ferrari-intermezzo-in-un-atto"
+  },
+  {
+    "slug": "ermanno-wolf-ferrari/la-vedova-scaltra",
+    "wikidata": "Q3824772",
+    "title": "La vedova scaltra",
+    "composer_slug": "ermanno-wolf-ferrari",
+    "world_premiere": "1931-03-05",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "ernest-chausson/le-roi-arthus",
     "title": "Le roi Arthus",
     "composer_slug": "ernest-chausson"
@@ -1698,6 +2347,14 @@
     "slug": "errata",
     "title": "Errata!",
     "composer_slug": ""
+  },
+  {
+    "slug": "errico-petrella/la-contessa-d-amalfi",
+    "wikidata": "Q100697318",
+    "title": "La Contessa d'Amalfi",
+    "composer_slug": "errico-petrella",
+    "world_premiere": "1864-03-08",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "errollyn-wallen/cautionary-tales",
@@ -1723,6 +2380,47 @@
     "slug": "evangelia-rigaki/old-ghosts",
     "title": "Old Ghosts",
     "composer_slug": "evangelia-rigaki"
+  },
+  {
+    "slug": "ezio-bosso/ezio-bosso",
+    "title": "Ezio Bosso",
+    "composer_slug": "ezio-bosso"
+  },
+  {
+    "slug": "f-j-haydn/note-d-estate-in-citta",
+    "title": "Note d’estate in città",
+    "composer_slug": "f-j-haydn"
+  },
+  {
+    "slug": "f-schubert/concerto-aperitivo-20-2",
+    "title": "Concerto Aperitivo 20.2",
+    "composer_slug": "f-schubert"
+  },
+  {
+    "slug": "f-schubert/fulvio-fogliazza",
+    "title": "Fulvio Fogliazza",
+    "composer_slug": "f-schubert"
+  },
+  {
+    "slug": "fabio-campana/mazeppa",
+    "wikidata": "Q109242725",
+    "title": "Mazeppa",
+    "composer_slug": "fabio-campana",
+    "world_premiere": "1850-11-06",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "fabio-vacchi/il-viaggio",
+    "wikidata": "Q109002406",
+    "title": "Il viaggio",
+    "composer_slug": "fabio-vacchi",
+    "world_premiere": "1990-01-01",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "fabrizio-lamberti/zena",
+    "title": "Zêna",
+    "composer_slug": "fabrizio-lamberti"
   },
   {
     "slug": "falstaff-giuseppe-verdi-1893",
@@ -1780,9 +2478,75 @@
     "composer_slug": ""
   },
   {
+    "slug": "federico-ricci/la-prigione-di-edimburgo",
+    "wikidata": "Q117824314",
+    "title": "La prigione di Edimburgo",
+    "composer_slug": "federico-ricci",
+    "world_premiere": "1838-03-13",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "federico-ricci/prigioni-di-edimburgo",
+    "wikidata": "Q109241523",
+    "title": "Prigioni di Edimburgo",
+    "composer_slug": "federico-ricci",
+    "world_premiere": "1838-03-13",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "felice-romani/i-capuleti-e-i-montecchi",
+    "title": "I Capuleti e i Montecchi",
+    "composer_slug": "felice-romani"
+  },
+  {
+    "slug": "feliciano-strepponi/gli-illinesi",
+    "wikidata": "Q109242125",
+    "title": "Gli illinesi",
+    "composer_slug": "feliciano-strepponi",
+    "world_premiere": "1829-11-01",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
     "slug": "felix-mendelssohn-bartholdy-im-schloss",
     "title": "Felix Mendelssohn Bartholdy im Schloss",
     "composer_slug": ""
+  },
+  {
+    "slug": "felix-mendelssohn-bartholdy/i-concerto",
+    "title": "I Concerto",
+    "composer_slug": "felix-mendelssohn-bartholdy"
+  },
+  {
+    "slug": "ferdinando-baroni/ricciarda",
+    "wikidata": "Q109242099",
+    "title": "Ricciarda",
+    "composer_slug": "ferdinando-baroni",
+    "world_premiere": "1847-09-25",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "ferdinando-bertoni/tancredi",
+    "wikidata": "Q137939790",
+    "title": "Tancredi",
+    "composer_slug": "ferdinando-bertoni",
+    "world_premiere": "1766-12-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "ferdinando-orlandi/rodrigo-di-valenza",
+    "wikidata": "Q109241474",
+    "title": "Rodrigo di Valenza",
+    "composer_slug": "ferdinando-orlandi",
+    "world_premiere": "1820-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "ferdinando-paer/griselda-ossia-la-virtu-al-cimento",
+    "wikidata": "Q97176620",
+    "title": "Griselda, ossia La virtù al cimento",
+    "composer_slug": "ferdinando-paer",
+    "world_premiere": "1798-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
     "slug": "ferdinando-paer/leonora",
@@ -1815,6 +2579,19 @@
     "composer_slug": "festliche-operngala-mit-synchronfeuerwerk"
   },
   {
+    "slug": "figaro/concerto-di-natale",
+    "title": "Concerto di Natale",
+    "composer_slug": "figaro"
+  },
+  {
+    "slug": "filippo-marchetti/romeo-e-giulietta",
+    "wikidata": "Q109241373",
+    "title": "Romeo e Giulietta",
+    "composer_slug": "filippo-marchetti",
+    "world_premiere": "1865-10-24",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
     "slug": "film-orpheus",
     "title": "Film: Orpheus",
     "composer_slug": ""
@@ -1828,6 +2605,11 @@
     "slug": "finola-merivale/out-of-the-ordinary-as-an-ngnach",
     "title": "Out of the Ordinary As an nGnách",
     "composer_slug": "finola-merivale"
+  },
+  {
+    "slug": "fiorenzo-carpi/la-porta-divisoria-il-castello-del-duca-barbablu",
+    "title": "La porta divisoria/Il castello del Duca Barbablù",
+    "composer_slug": "fiorenzo-carpi"
   },
   {
     "slug": "florian-leopold-gassmann/l-amore-artigiano",
@@ -1865,6 +2647,14 @@
     "composer_slug": "francesco-cavalli"
   },
   {
+    "slug": "francesco-chiaromonte/il-gondoliero",
+    "wikidata": "Q109001210",
+    "title": "Il Gondoliero",
+    "composer_slug": "francesco-chiaromonte",
+    "world_premiere": "1851-02-20",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "francesco-cilea-in-konzertanter-auffuhrung/l-arlesiana",
     "title": "L’Arlesiana",
     "composer_slug": "francesco-cilea-in-konzertanter-auffuhrung"
@@ -1873,6 +2663,22 @@
     "slug": "francesco-cilea/adriana-lecouvreur",
     "title": "Adriana Lecouvreur",
     "composer_slug": "francesco-cilea"
+  },
+  {
+    "slug": "francesco-cortesi/il-trovatore",
+    "wikidata": "Q109244468",
+    "title": "Il trovatore",
+    "composer_slug": "francesco-cortesi",
+    "world_premiere": "1852-03-07",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "francesco-feo/arsace",
+    "wikidata": "Q109244803",
+    "title": "Arsace",
+    "composer_slug": "francesco-feo",
+    "world_premiere": "1741-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "francesco-filidei/accabadora",
@@ -1885,6 +2691,37 @@
     "composer_slug": "francesco-filidei"
   },
   {
+    "slug": "francesco-gnecco-opera-in-un-atto/pasticci-a-trieste",
+    "title": "Pasticci a Trieste",
+    "composer_slug": "francesco-gnecco-opera-in-un-atto"
+  },
+  {
+    "slug": "francesco-maria-piave/rigoletto",
+    "title": "Rigoletto",
+    "composer_slug": "francesco-maria-piave"
+  },
+  {
+    "slug": "francesco-morlacchi/colombo",
+    "wikidata": "Q109242045",
+    "title": "Colombo",
+    "composer_slug": "francesco-morlacchi",
+    "world_premiere": "1828-06-21",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "francesco-sampieri/gli-illinesi",
+    "wikidata": "Q137661208",
+    "title": "Gli Illinesi",
+    "composer_slug": "francesco-sampieri",
+    "world_premiere": "1823-05-07",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "francis-poulenc/dialoghi-delle-carmelitane",
+    "title": "Dialoghi delle carmelitane",
+    "composer_slug": "francis-poulenc"
+  },
+  {
     "slug": "francis-poulenc/dialogues-des-carmelites",
     "title": "Dialogues des Carmélites",
     "composer_slug": "francis-poulenc"
@@ -1893,6 +2730,102 @@
     "slug": "francis-poulenc/la-voix-humaine",
     "title": "La Voix Humaine",
     "composer_slug": "francis-poulenc"
+  },
+  {
+    "slug": "franco-alfano/cyrano-de-bergerac",
+    "wikidata": "Q967946",
+    "title": "Cyrano de Bergerac",
+    "composer_slug": "franco-alfano",
+    "world_premiere": "1936-01-22",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-alfano/sakuntala",
+    "wikidata": "Q3945218",
+    "title": "Sakùntala",
+    "composer_slug": "franco-alfano",
+    "world_premiere": "1921-12-10",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "franco-battiato/genesis-opera",
+    "wikidata": "Q3759658",
+    "title": "Genesis (opera)",
+    "composer_slug": "franco-battiato",
+    "world_premiere": "1987-04-26",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "franco-casavola/il-castello-nel-bosco",
+    "wikidata": "Q109241643",
+    "title": "Il castello nel bosco",
+    "composer_slug": "franco-casavola",
+    "world_premiere": "1931-01-24",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-casavola/il-gobbo-del-califfo",
+    "wikidata": "Q109002528",
+    "title": "Il gobbo del Califfo",
+    "composer_slug": "franco-casavola",
+    "world_premiere": "1929-05-04",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-casavola/le-astuzie-d-amore",
+    "wikidata": "Q109002210",
+    "title": "Le astuzie d'amore",
+    "composer_slug": "franco-casavola",
+    "world_premiere": "1936-01-29",
+    "world_premiere_house_slug": "teatro-petruzzelli-bari"
+  },
+  {
+    "slug": "franco-casavola/molto-strepito-per-nulla",
+    "wikidata": "Q109242788",
+    "title": "Molto strepito per nulla",
+    "composer_slug": "franco-casavola",
+    "world_premiere": "1953-01-31",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-casavola/operazioni-aritmetiche",
+    "wikidata": "Q109244469",
+    "title": "Operazioni aritmetiche",
+    "composer_slug": "franco-casavola",
+    "world_premiere": "1953-01-31",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-faccio/amleto",
+    "wikidata": "Q3614379",
+    "title": "Amleto",
+    "composer_slug": "franco-faccio",
+    "world_premiere": "1865-05-30",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "franco-mannino/luisella",
+    "wikidata": "Q109002485",
+    "title": "Luisella",
+    "composer_slug": "franco-mannino",
+    "world_premiere": "1969-02-28",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "franco-vittadini/anima-allegra",
+    "wikidata": "Q109002098",
+    "title": "Anima Allegra",
+    "composer_slug": "franco-vittadini",
+    "world_premiere": "1921-04-15",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "franco-vittadini/caracciolo",
+    "wikidata": "Q109002099",
+    "title": "Caracciolo",
+    "composer_slug": "franco-vittadini",
+    "world_premiere": "1938-02-08",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "frank-schwemmer/kuchenoper",
@@ -1908,6 +2841,11 @@
     "slug": "franklin-fuhrung",
     "title": "Franklin-Führung",
     "composer_slug": ""
+  },
+  {
+    "slug": "franz-joseph-haydn/iii-concerto",
+    "title": "III Concerto",
+    "composer_slug": "franz-joseph-haydn"
   },
   {
     "slug": "franz-lehar/das-land-des-lachelns",
@@ -1937,6 +2875,11 @@
   {
     "slug": "franz-lehar/giuditta",
     "title": "GIUDITTA",
+    "composer_slug": "franz-lehar"
+  },
+  {
+    "slug": "franz-lehar/la-vedova-allegra",
+    "title": "La vedova allegra",
     "composer_slug": "franz-lehar"
   },
   {
@@ -2105,6 +3048,37 @@
     "composer_slug": "gabriela-lena-frank"
   },
   {
+    "slug": "gaetano-coronaro/la-creola",
+    "wikidata": "Q109242578",
+    "title": "La creola",
+    "composer_slug": "gaetano-coronaro",
+    "world_premiere": "1878-11-24",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "gaetano-donizetti-la-figlia-del-reggimento-opera-comique-in-due-atti/la-fille-du-regiment",
+    "title": "La fille du régiment",
+    "composer_slug": "gaetano-donizetti-la-figlia-del-reggimento-opera-comique-in-due-atti"
+  },
+  {
+    "slug": "gaetano-donizetti-roberto-devereux/roberto-devereux",
+    "title": "Roberto Devereux",
+    "composer_slug": "gaetano-donizetti-roberto-devereux"
+  },
+  {
+    "slug": "gaetano-donizetti/alahor-in-granata",
+    "title": "Alahor in Granata",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
+    "slug": "gaetano-donizetti/alina",
+    "wikidata": "Q648981",
+    "title": "Alina",
+    "composer_slug": "gaetano-donizetti",
+    "world_premiere": "1828-05-12",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "gaetano-donizetti/anna-bolena",
     "title": "ANNA BOLENA",
     "composer_slug": "gaetano-donizetti"
@@ -2155,6 +3129,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/l-esule-di-roma",
+    "title": "L'esule di Roma",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/la-favorite",
     "title": "La Favorite",
     "composer_slug": "gaetano-donizetti"
@@ -2170,6 +3149,11 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-donizetti/le-convenienze-ed-inconvenienze-teatrali",
+    "title": "Le convenienze ed inconvenienze teatrali",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
     "slug": "gaetano-donizetti/lucia-di-lammermoor",
     "title": "Lucia di Lammermoor",
     "composer_slug": "gaetano-donizetti"
@@ -2177,6 +3161,11 @@
   {
     "slug": "gaetano-donizetti/lucrece-borgia",
     "title": "Lucrèce Borgia",
+    "composer_slug": "gaetano-donizetti"
+  },
+  {
+    "slug": "gaetano-donizetti/lucrezia-borgia",
+    "title": "Lucrezia Borgia",
     "composer_slug": "gaetano-donizetti"
   },
   {
@@ -2200,9 +3189,65 @@
     "composer_slug": "gaetano-donizetti"
   },
   {
+    "slug": "gaetano-latilla/demofoonte",
+    "wikidata": "Q5802278",
+    "title": "Demofoonte",
+    "composer_slug": "gaetano-latilla",
+    "world_premiere": "1738-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gaetano-latilla/zenobia",
+    "wikidata": "Q2885743",
+    "title": "Zenobia",
+    "composer_slug": "gaetano-latilla",
+    "world_premiere": "1742-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gaetano-luporini/i-dispetti-amorosi",
+    "wikidata": "Q109241377",
+    "title": "I dispetti amorosi",
+    "composer_slug": "gaetano-luporini",
+    "world_premiere": "1894-02-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gaetano-pugnani/achille-in-sciro",
+    "wikidata": "Q5702013",
+    "title": "Achille in Sciro",
+    "composer_slug": "gaetano-pugnani",
+    "world_premiere": "1785-01-15",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gaetano-pugnani/demofoonte",
+    "wikidata": "Q5802331",
+    "title": "Demofoonte",
+    "composer_slug": "gaetano-pugnani",
+    "world_premiere": "1787-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gaetano-tarantini/maritana",
+    "wikidata": "Q109242783",
+    "title": "Maritana",
+    "composer_slug": "gaetano-tarantini",
+    "world_premiere": "1911-02-14",
+    "world_premiere_house_slug": "teatro-petruzzelli-bari"
+  },
+  {
     "slug": "gala-der-staatlichen-ballettschule",
     "title": "Gala der Staatlichen Ballettschule",
     "composer_slug": ""
+  },
+  {
+    "slug": "gaspare-scuderi/donata",
+    "wikidata": "Q109002517",
+    "title": "Donata",
+    "composer_slug": "gaspare-scuderi",
+    "world_premiere": "1938-02-20",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "gaspare-spontini/la-vestale",
@@ -2225,6 +3270,30 @@
     "composer_slug": "geatano-donizetti"
   },
   {
+    "slug": "geminiano-giacomelli/demetrio",
+    "wikidata": "Q5802135",
+    "title": "Demetrio",
+    "composer_slug": "geminiano-giacomelli",
+    "world_premiere": "1737-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "geminiano-giacomelli/scipione-in-cartagine-nuova",
+    "wikidata": "Q17081935",
+    "title": "Scipione in Cartagine nuova",
+    "composer_slug": "geminiano-giacomelli",
+    "world_premiere": "1730-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "gennaro-manna/demofoonte",
+    "wikidata": "Q5802317",
+    "title": "Demofoonte",
+    "composer_slug": "gennaro-manna",
+    "world_premiere": "1754-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "georg-frideric-handel/radamisto",
     "title": "Radamisto",
     "composer_slug": "georg-frideric-handel"
@@ -2233,6 +3302,11 @@
     "slug": "georg-friedrich-h-ndel/agrippina",
     "title": "AGRIPPINA",
     "composer_slug": "georg-friedrich-h-ndel"
+  },
+  {
+    "slug": "georg-friedrich-handel-dramma-musicale-in-tre-atti/alcina",
+    "title": "Alcina",
+    "composer_slug": "georg-friedrich-handel-dramma-musicale-in-tre-atti"
   },
   {
     "slug": "georg-friedrich-handel/agrippina",
@@ -2277,6 +3351,11 @@
   {
     "slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
     "title": "Giulio Cesare in Egitto",
+    "composer_slug": "georg-friedrich-handel"
+  },
+  {
+    "slug": "georg-friedrich-handel/il-trionfo-del-tempo-e-del-disinganno",
+    "title": "Il Trionfo del Tempo e del Disinganno",
     "composer_slug": "georg-friedrich-handel"
   },
   {
@@ -2365,6 +3444,11 @@
     "composer_slug": "george-gershwin-u-a"
   },
   {
+    "slug": "george-gershwin/lady-be-good",
+    "title": "Lady, Be Good!",
+    "composer_slug": "george-gershwin"
+  },
+  {
     "slug": "george-gershwin/porgy-and-bess",
     "title": "Porgy and Bess",
     "composer_slug": "george-gershwin"
@@ -2405,9 +3489,25 @@
     "composer_slug": "gerd-natschinski"
   },
   {
+    "slug": "giacomo-manzoni/per-massimiliano-robespierre",
+    "wikidata": "Q109242811",
+    "title": "Per Massimiliano Robespierre",
+    "composer_slug": "giacomo-manzoni",
+    "world_premiere": "1975-04-12",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
     "slug": "giacomo-meyerbeer/les-huguenots",
     "title": "Les Huguenots",
     "composer_slug": "giacomo-meyerbeer"
+  },
+  {
+    "slug": "giacomo-meyerbeer/semiramide-riconosciuta",
+    "wikidata": "Q3478440",
+    "title": "Semiramide riconosciuta",
+    "composer_slug": "giacomo-meyerbeer",
+    "world_premiere": "1819-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
@@ -2425,13 +3525,46 @@
     "composer_slug": "giacomo-puccini-d"
   },
   {
+    "slug": "giacomo-puccini-dramma-lirico-in-tre-atti/turandot",
+    "title": "Turandot",
+    "composer_slug": "giacomo-puccini-dramma-lirico-in-tre-atti"
+  },
+  {
+    "slug": "giacomo-puccini-maurice-ravel/gianni-schicchi-l-heure-espagnole",
+    "title": "Gianni Schicchi L’heure espagnole",
+    "composer_slug": "giacomo-puccini-maurice-ravel"
+  },
+  {
+    "slug": "giacomo-puccini-melodramma-in-tre-atti/tosca",
+    "title": "Tosca",
+    "composer_slug": "giacomo-puccini-melodramma-in-tre-atti"
+  },
+  {
+    "slug": "giacomo-puccini-opera-lirica-in-quattro-quadri/la-boheme",
+    "title": "La Bohème",
+    "composer_slug": "giacomo-puccini-opera-lirica-in-quattro-quadri"
+  },
+  {
     "slug": "giacomo-puccini/best-of-puccini",
     "title": "Best of Puccini",
     "composer_slug": "giacomo-puccini"
   },
   {
+    "slug": "giacomo-puccini/die-boheme",
+    "wikidata": "Q188621",
+    "title": "Die Bohème",
+    "composer_slug": "giacomo-puccini",
+    "world_premiere": "1896-02-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "giacomo-puccini/gianni-schicchi",
     "title": "Gianni Schicchi",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
+    "slug": "giacomo-puccini/il-tabarro-suor-angelica-gianni-schicchi",
+    "title": "Il Tabarro – Suor Angelica – Gianni Schicchi",
     "composer_slug": "giacomo-puccini"
   },
   {
@@ -2462,7 +3595,10 @@
   {
     "slug": "giacomo-puccini/manon-lescaut",
     "title": "Manon Lescaut",
-    "composer_slug": "giacomo-puccini"
+    "composer_slug": "giacomo-puccini",
+    "wikidata": "Q459341",
+    "world_premiere": "1893-02-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "giacomo-puccini/opera-camion-2026-il-maggio-in-piazza",
@@ -2487,7 +3623,10 @@
   {
     "slug": "giacomo-puccini/tosca",
     "title": "Tosca",
-    "composer_slug": "giacomo-puccini"
+    "composer_slug": "giacomo-puccini",
+    "wikidata": "Q192941",
+    "world_premiere": "1900-01-14",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "giacomo-puccini/turandot",
@@ -2498,6 +3637,30 @@
     "slug": "giacomo-puccini/und-es-leuchteten-die-sterne",
     "title": "Und es leuchteten die Sterne",
     "composer_slug": "giacomo-puccini"
+  },
+  {
+    "slug": "giacomo-rust/adriano-in-siria",
+    "wikidata": "Q5658459",
+    "title": "Adriano in Siria",
+    "composer_slug": "giacomo-rust",
+    "world_premiere": "1781-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giampaolo-testoni/alice",
+    "wikidata": "Q109002314",
+    "title": "Alice",
+    "composer_slug": "giampaolo-testoni",
+    "world_premiere": "1993-04-30",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "giampiero-tintori/le-maschera-della-morte-rossa",
+    "wikidata": "Q109002480",
+    "title": "Le maschera della morte rossa",
+    "composer_slug": "giampiero-tintori",
+    "world_premiere": "1959-01-07",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
     "slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti",
@@ -2515,6 +3678,22 @@
     "composer_slug": "gian-carlo-menotti"
   },
   {
+    "slug": "gian-francesco-de-majo/catone-in-utica",
+    "wikidata": "Q2839289",
+    "title": "Catone in Utica",
+    "composer_slug": "gian-francesco-de-majo",
+    "world_premiere": "1763-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gian-francesco-malipiero/giulio-cesare",
+    "wikidata": "Q109241423",
+    "title": "Giulio Cesare",
+    "composer_slug": "gian-francesco-malipiero",
+    "world_premiere": "1936-02-08",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "gilbert-and-sullivan/h-m-s-pinafore",
     "title": "H.M.S. Pinafore",
     "composer_slug": "gilbert-and-sullivan"
@@ -2523,6 +3702,22 @@
     "slug": "gilbert-sullivan/the-pirates-of-penzance",
     "title": "The Pirates of Penzance",
     "composer_slug": "gilbert-sullivan"
+  },
+  {
+    "slug": "gino-marinuzzi/barberina",
+    "wikidata": "Q109002070",
+    "title": "Barberina",
+    "composer_slug": "gino-marinuzzi",
+    "world_premiere": "1903-05-05",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "gino-marinuzzi/le-avventure-di-pinocchio",
+    "wikidata": "Q109242790",
+    "title": "Le avventure di Pinocchio",
+    "composer_slug": "gino-marinuzzi",
+    "world_premiere": "1956-05-22",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "gioacchino-rossini/assepoester",
@@ -2575,6 +3770,16 @@
     "composer_slug": "gioachino-antonio-rossini"
   },
   {
+    "slug": "gioachino-rossini-almaviva/il-barbiere-di-siviglia",
+    "title": "Il barbiere di Siviglia",
+    "composer_slug": "gioachino-rossini-almaviva"
+  },
+  {
+    "slug": "gioachino-rossini-dramma-giocoso-in-due-atti/l-italiana-in-algeri",
+    "title": "L’italiana in Algeri",
+    "composer_slug": "gioachino-rossini-dramma-giocoso-in-due-atti"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla",
     "title": "Der Barbier von Sevilla",
     "composer_slug": "gioachino-rossini"
@@ -2582,6 +3787,11 @@
   {
     "slug": "gioachino-rossini/die-reise-nach-reims",
     "title": "Die Reise nach Reims",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/figaro-operacamion",
+    "title": "Figaro! OperaCamion",
     "composer_slug": "gioachino-rossini"
   },
   {
@@ -2680,6 +3890,11 @@
     "composer_slug": "gioachino-rossini"
   },
   {
+    "slug": "gioachino-rossini/oleg-caetani",
+    "title": "Oleg Caetani",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
     "slug": "gioachino-rossini/rossini-s-cinderella",
     "title": "Rossini's Cinderella",
     "composer_slug": "gioachino-rossini"
@@ -2715,9 +3930,341 @@
     "composer_slug": "giorgio-battistelli"
   },
   {
+    "slug": "giorgio-battistelli/fedeli-d-amore",
+    "title": "Fedeli d’amore",
+    "composer_slug": "giorgio-battistelli"
+  },
+  {
+    "slug": "giorgio-battistelli/julius-caesar",
+    "wikidata": "Q112144800",
+    "title": "Julius Caesar",
+    "composer_slug": "giorgio-battistelli",
+    "world_premiere": "2021-11-20",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "giorgio-federico-ghedini/la-pulce-d-oro",
+    "wikidata": "Q109002471",
+    "title": "La pulce d'oro",
+    "composer_slug": "giorgio-federico-ghedini",
+    "world_premiere": "1940-02-15",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "giovanni-battista-borghi/adriano-in-siria",
+    "wikidata": "Q5658436",
+    "title": "Adriano in Siria",
+    "composer_slug": "giovanni-battista-borghi",
+    "world_premiere": "1759-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giovanni-bottesini/ero-e-leandro",
+    "wikidata": "Q109242619",
+    "title": "Ero e Leandro",
+    "composer_slug": "giovanni-bottesini",
+    "world_premiere": "1879-01-11",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giovanni-masi/la-disfatta-di-dario",
+    "wikidata": "Q136688910",
+    "title": "La disfatta di Dario",
+    "composer_slug": "giovanni-masi",
+    "world_premiere": "1774-01-22",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giovanni-pacini/ester-d-engaddi",
+    "wikidata": "Q136796451",
+    "title": "Ester d'Engaddi",
+    "composer_slug": "giovanni-pacini",
+    "world_premiere": "1848-02-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giovanni-pacini/i-crociati-in-tolemaide",
+    "wikidata": "Q109242035",
+    "title": "I crociati in Tolemaide",
+    "composer_slug": "giovanni-pacini",
+    "world_premiere": "1828-11-13",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giovanni-pacini/la-regina-di-cipro",
+    "wikidata": "Q109242033",
+    "title": "La regina di Cipro",
+    "composer_slug": "giovanni-pacini",
+    "world_premiere": "1846-02-07",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giovanni-paisiello-intermezzo-in-due-parti/la-serva-padrona",
+    "title": "La serva padrona",
+    "composer_slug": "giovanni-paisiello-intermezzo-in-due-parti"
+  },
+  {
+    "slug": "giovanni-paisiello/la-serva-padrona",
+    "title": "La Serva Padrona",
+    "composer_slug": "giovanni-paisiello"
+  },
+  {
+    "slug": "giovanni-schmidt/elisabetta-regina-d-inghilterra",
+    "title": "Elisabetta Regina d'Inghilterra",
+    "composer_slug": "giovanni-schmidt"
+  },
+  {
+    "slug": "giovanni-sollima/acquaprofonda",
+    "title": "Acquaprofonda",
+    "composer_slug": "giovanni-sollima"
+  },
+  {
+    "slug": "giovanni-tadolini/almanzor",
+    "wikidata": "Q109242638",
+    "title": "Almanzor",
+    "composer_slug": "giovanni-tadolini",
+    "world_premiere": "1827-01-01",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giovanni-tadolini/moctar-gran-visir-di-adrianopoli",
+    "wikidata": "Q109241769",
+    "title": "Moctar gran visir di Adrianopoli",
+    "composer_slug": "giovanni-tadolini",
+    "world_premiere": "1824-05-01",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "girolamo-frigimelica-roberti/mitridate-eupatore",
+    "title": "Mitridate Eupatore",
+    "composer_slug": "girolamo-frigimelica-roberti"
+  },
+  {
     "slug": "giueseppe-verdi/la-traviata",
     "title": "La traviata",
     "composer_slug": "giueseppe-verdi"
+  },
+  {
+    "slug": "giulio-litta/edita-di-lorno",
+    "wikidata": "Q128241791",
+    "title": "Edita di Lorno",
+    "composer_slug": "giulio-litta",
+    "world_premiere": "1853-06-01",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "giulio-viozzi/il-sasso-pagano",
+    "wikidata": "Q109002429",
+    "title": "Il sasso pagano",
+    "composer_slug": "giulio-viozzi",
+    "world_premiere": "1962-03-10",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giulio-viozzi/un-intervento-notturno",
+    "wikidata": "Q109002305",
+    "title": "Un intervento notturno",
+    "composer_slug": "giulio-viozzi",
+    "world_premiere": "1957-01-26",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-apolloni/gustavo-wasa",
+    "wikidata": "Q3779998",
+    "title": "Gustavo Wasa",
+    "composer_slug": "giuseppe-apolloni",
+    "world_premiere": "1872-11-05",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-arena/artaserse",
+    "wikidata": "Q5706489",
+    "title": "Artaserse",
+    "composer_slug": "giuseppe-arena",
+    "world_premiere": "1741-01-21",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-arena/la-clemenza-di-tito",
+    "wikidata": "Q5966223",
+    "title": "La clemenza di Tito",
+    "composer_slug": "giuseppe-arena",
+    "world_premiere": "1738-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-colla/didone",
+    "wikidata": "Q5805740",
+    "title": "Didone",
+    "composer_slug": "giuseppe-colla",
+    "world_premiere": "1773-01-23",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-farinelli/giulietta",
+    "wikidata": "Q137555298",
+    "title": "Giulietta",
+    "composer_slug": "giuseppe-farinelli",
+    "world_premiere": "1802-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "giuseppe-ferdinando-brivio/l-olimpiade",
+    "wikidata": "Q5967633",
+    "title": "L’olimpiade",
+    "composer_slug": "giuseppe-ferdinando-brivio",
+    "world_premiere": "1737-03-05",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-giacosa/madama-butterfly",
+    "title": "Madama Butterfly",
+    "composer_slug": "giuseppe-giacosa"
+  },
+  {
+    "slug": "giuseppe-giordani/ariarate",
+    "wikidata": "Q109244780",
+    "title": "Ariarate",
+    "composer_slug": "giuseppe-giordani",
+    "world_premiere": "1789-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-mule/al-lupo",
+    "wikidata": "Q108899563",
+    "title": "Al Lupo!",
+    "composer_slug": "giuseppe-mule",
+    "world_premiere": "1919-11-13",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "giuseppe-mule/dafni",
+    "wikidata": "Q109002052",
+    "title": "Dafni",
+    "composer_slug": "giuseppe-mule",
+    "world_premiere": "1928-03-14",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "giuseppe-mule/la-baronessa-di-carini",
+    "wikidata": "Q109001215",
+    "title": "La Baronessa di Carini",
+    "composer_slug": "giuseppe-mule",
+    "world_premiere": "1912-04-16",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "giuseppe-mule/la-monacella-della-fontana",
+    "wikidata": "Q109002073",
+    "title": "La monacella della fontana",
+    "composer_slug": "giuseppe-mule",
+    "world_premiere": "1923-02-17",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-mule/la-zolfara",
+    "wikidata": "Q109002093",
+    "title": "La zolfara",
+    "composer_slug": "giuseppe-mule",
+    "world_premiere": "1939-02-25",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "giuseppe-nicolini/angelica-e-medoro-ossia-l-orlando",
+    "wikidata": "Q109244608",
+    "title": "Angelica e Medoro ossia l'Orlando",
+    "composer_slug": "giuseppe-nicolini",
+    "world_premiere": "1810-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-nicolini/il-conte-di-lenosse",
+    "wikidata": "Q109241578",
+    "title": "Il conte di Lenosse",
+    "composer_slug": "giuseppe-nicolini",
+    "world_premiere": "1801-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "giuseppe-nicolini/l-eroe-di-lancastro",
+    "wikidata": "Q109241533",
+    "title": "L'eroe di Lancastro",
+    "composer_slug": "giuseppe-nicolini",
+    "world_premiere": "1821-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-persiani/attila-in-aquileja",
+    "wikidata": "Q109244885",
+    "title": "Attila in Aquileja",
+    "composer_slug": "giuseppe-persiani",
+    "world_premiere": "1827-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "giuseppe-rota/ginevra-di-scozia",
+    "wikidata": "Q109241599",
+    "title": "Ginevra di Scozia",
+    "composer_slug": "giuseppe-rota",
+    "world_premiere": "1862-02-22",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "giuseppe-rota/penelope",
+    "wikidata": "Q109241658",
+    "title": "Penelope",
+    "composer_slug": "giuseppe-rota",
+    "world_premiere": "1866-03-21",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-sarti/siroe-re-di-persia",
+    "wikidata": "Q10902647",
+    "title": "Siroe, re di Persia",
+    "composer_slug": "giuseppe-sarti",
+    "world_premiere": "1779-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "giuseppe-sinico/aurora-di-nevers",
+    "wikidata": "Q109244896",
+    "title": "Aurora di Nevers",
+    "composer_slug": "giuseppe-sinico",
+    "world_premiere": "1861-03-12",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-sinico/i-moschettieri",
+    "wikidata": "Q109242558",
+    "title": "I moschettieri",
+    "composer_slug": "giuseppe-sinico",
+    "world_premiere": "1859-03-26",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "giuseppe-verdi-melodramma-in-tre-atti/la-traviata",
+    "title": "La Traviata",
+    "composer_slug": "giuseppe-verdi-melodramma-in-tre-atti"
+  },
+  {
+    "slug": "giuseppe-verdi-melodramma-in-tre-atti/rigoletto",
+    "title": "Rigoletto",
+    "composer_slug": "giuseppe-verdi-melodramma-in-tre-atti"
+  },
+  {
+    "slug": "giuseppe-verdi-melodramma-in-un-prologo-e-tre-atti/simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer_slug": "giuseppe-verdi-melodramma-in-un-prologo-e-tre-atti"
+  },
+  {
+    "slug": "giuseppe-verdi-opera-in-quattro-atti/aida",
+    "title": "Aida",
+    "composer_slug": "giuseppe-verdi-opera-in-quattro-atti"
+  },
+  {
+    "slug": "giuseppe-verdi-simon-boccanegra/simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer_slug": "giuseppe-verdi-simon-boccanegra"
   },
   {
     "slug": "giuseppe-verdi-termine-karten-figure-clas/rigoletto",
@@ -2750,6 +4297,16 @@
     "composer_slug": "giuseppe-verdi"
   },
   {
+    "slug": "giuseppe-verdi/alzira",
+    "title": "Alzira",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/anteprima-i-due-foscari",
+    "title": "Anteprima I due Foscari",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
     "slug": "giuseppe-verdi/attila",
     "title": "Attila",
     "composer_slug": "giuseppe-verdi"
@@ -2772,12 +4329,48 @@
   {
     "slug": "giuseppe-verdi/don-carlos",
     "title": "Don Carlos",
+    "composer_slug": "giuseppe-verdi",
+    "wikidata": "Q179110",
+    "world_premiere": "1867-03-11",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "giuseppe-verdi/ernani",
+    "title": "Ernani",
     "composer_slug": "giuseppe-verdi"
   },
   {
     "slug": "giuseppe-verdi/falstaff",
     "title": "Falstaff",
     "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/giappone-2019-la-traviata",
+    "title": "Giappone 2019 – La traviata",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/giovanna-d-arco",
+    "title": "Giovanna d’Arco",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/i-due-foscari",
+    "title": "I due Foscari",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/i-masnadieri",
+    "title": "I masnadieri",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/il-corsaro",
+    "wikidata": "Q467289",
+    "title": "Il corsaro",
+    "composer_slug": "giuseppe-verdi",
+    "world_premiere": "1848-10-25",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "giuseppe-verdi/il-trovatore",
@@ -2795,8 +4388,18 @@
     "composer_slug": "giuseppe-verdi"
   },
   {
+    "slug": "giuseppe-verdi/la-storia-della-traviata",
+    "title": "La storia della Traviata",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata",
     "title": "La traviata",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/les-vepres-siciliennes",
+    "title": "Les vêpres siciliennes",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -2807,6 +4410,11 @@
   {
     "slug": "giuseppe-verdi/macbeth",
     "title": "Macbeth",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/messa-di-requiem",
+    "title": "Messa di Requiem",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -2837,11 +4445,19 @@
   {
     "slug": "giuseppe-verdi/stiffelio",
     "title": "Stiffelio",
-    "composer_slug": "giuseppe-verdi"
+    "composer_slug": "giuseppe-verdi",
+    "wikidata": "Q371584",
+    "world_premiere": "1850-11-16",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "giuseppe-verdi/un-ballo-in-maschera",
     "title": "Un ballo in maschera",
+    "composer_slug": "giuseppe-verdi"
+  },
+  {
+    "slug": "giuseppe-verdi/una-traviata-da-cortile",
+    "title": "Una Traviata da cortile",
     "composer_slug": "giuseppe-verdi"
   },
   {
@@ -2870,6 +4486,14 @@
     "composer_slug": "greg-caffrey"
   },
   {
+    "slug": "gregorio-sciroli/alessandro-nell-indie",
+    "wikidata": "Q5665687",
+    "title": "Alessandro nell’Indie",
+    "composer_slug": "gregorio-sciroli",
+    "world_premiere": "1764-05-31",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
     "slug": "gregory-spears/fellow-travelers",
     "title": "Fellow Travelers",
     "composer_slug": "gregory-spears"
@@ -2878,6 +4502,54 @@
     "slug": "grigori-frid/das-tagebuch-der-anne-frank",
     "title": "Das Tagebuch der Anne Frank",
     "composer_slug": "grigori-frid"
+  },
+  {
+    "slug": "gualtiero-sanelli/camoens",
+    "wikidata": "Q109242745",
+    "title": "Camoëns",
+    "composer_slug": "gualtiero-sanelli",
+    "world_premiere": "1851-12-25",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "gualtiero-sanelli/il-fornaretto",
+    "wikidata": "Q109241781",
+    "title": "Il fornaretto",
+    "composer_slug": "gualtiero-sanelli",
+    "world_premiere": "1851-03-24",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "gualtiero-sanelli/luisa-strozzi",
+    "wikidata": "Q109241960",
+    "title": "Luisa Strozzi",
+    "composer_slug": "gualtiero-sanelli",
+    "world_premiere": "1846-05-27",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "guido-guerrini/la-vigna",
+    "wikidata": "Q109242779",
+    "title": "La vigna",
+    "composer_slug": "guido-guerrini",
+    "world_premiere": "1935-03-07",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "guido-laccetti/i-carnasciali",
+    "wikidata": "Q109002510",
+    "title": "I Carnasciali",
+    "composer_slug": "guido-laccetti",
+    "world_premiere": "1925-02-13",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "guido-pannain/l-intrusa",
+    "wikidata": "Q109002491",
+    "title": "L'intrusa",
+    "composer_slug": "guido-pannain",
+    "world_premiere": "1940-02-15",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "guillaume-tell",
@@ -2905,6 +4577,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "handel/giulio-cesare",
+    "title": "GIULIO CESARE",
+    "composer_slug": "handel"
+  },
+  {
     "slug": "handel/semele",
     "title": "Semele",
     "composer_slug": "handel"
@@ -2920,6 +4597,16 @@
     "composer_slug": "hannes-huttner-und-gerhard-lahr"
   },
   {
+    "slug": "hans-christian-andersen/il-castello-incantato",
+    "title": "Il Castello Incantato",
+    "composer_slug": "hans-christian-andersen"
+  },
+  {
+    "slug": "hans-krasa-opera-per-bambini-in-due-parti/brundibar",
+    "title": "Brundibár",
+    "composer_slug": "hans-krasa-opera-per-bambini-in-due-parti"
+  },
+  {
     "slug": "hans-krasa/brundibar",
     "title": "Brundibár",
     "composer_slug": "hans-krasa"
@@ -2932,6 +4619,11 @@
   {
     "slug": "hans-werner-henze/el-cimarron",
     "title": "El Cimarrón",
+    "composer_slug": "hans-werner-henze"
+  },
+  {
+    "slug": "hans-werner-henze/hans-werner-henze-100",
+    "title": "Hans Werner Henze 100",
     "composer_slug": "hans-werner-henze"
   },
   {
@@ -3008,6 +4700,19 @@
     "slug": "henrike-iglesias-hempel-urauffuhrung/hall-of-fans-13",
     "title": "Hall of Fans (13+)",
     "composer_slug": "henrike-iglesias-hempel-urauffuhrung"
+  },
+  {
+    "slug": "henry-cohen/antonio-foscarini",
+    "wikidata": "Q136914004",
+    "title": "Antonio Foscarini",
+    "composer_slug": "henry-cohen",
+    "world_premiere": "1841-11-18",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "henry-murger-ed-musicali-e-f-kalmus-co/la-boheme",
+    "title": "La Bohème",
+    "composer_slug": "henry-murger-ed-musicali-e-f-kalmus-co"
   },
   {
     "slug": "henry-purcell/best-of-handel-dido-aeneas",
@@ -3125,6 +4830,22 @@
     "composer_slug": ""
   },
   {
+    "slug": "igino-robbiani/anna-karenine",
+    "wikidata": "Q109244631",
+    "title": "Anna Karenine",
+    "composer_slug": "igino-robbiani",
+    "world_premiere": "1924-05-06",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "ignaz-holzbauer/nitteti",
+    "wikidata": "Q6043396",
+    "title": "Nitteti",
+    "composer_slug": "ignaz-holzbauer",
+    "world_premiere": "1758-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "igor-stravinskij/the-rake-s-progress",
     "title": "The Rake's Progress",
     "composer_slug": "igor-stravinskij"
@@ -3153,6 +4874,14 @@
     "slug": "igor-strawinsky/the-rake-s-progress",
     "title": "The Rake’s Progress",
     "composer_slug": "igor-strawinsky"
+  },
+  {
+    "slug": "ildebrando-pizzetti/lo-straniero",
+    "wikidata": "Q16573232",
+    "title": "Lo straniero",
+    "composer_slug": "ildebrando-pizzetti",
+    "world_premiere": "1930-04-29",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "in-memoriam",
@@ -3205,6 +4934,14 @@
     "composer_slug": "italienisches-intermezzo"
   },
   {
+    "slug": "italo-montemezzi/hellera",
+    "wikidata": "Q109001784",
+    "title": "Héllera",
+    "composer_slug": "italo-montemezzi",
+    "world_premiere": "1909-03-17",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "ivan-pl-zajc/nikola-subic-zrinjski",
     "title": "Nikola Šubić Zrinjski",
     "composer_slug": "ivan-pl-zajc"
@@ -3213,6 +4950,16 @@
     "slug": "ivo-josipovic/lennon",
     "title": "LENNON",
     "composer_slug": "ivo-josipovic"
+  },
+  {
+    "slug": "j-s-bach/concerto-aperitivo-20-3",
+    "title": "Concerto Aperitivo 20.3",
+    "composer_slug": "j-s-bach"
+  },
+  {
+    "slug": "jacques-ibert/paolo-longo",
+    "title": "Paolo Longo",
+    "composer_slug": "jacques-ibert"
   },
   {
     "slug": "jacques-offenbach/amusez-vous-jacques-offenbach",
@@ -3295,6 +5042,11 @@
     "composer_slug": "jason-powell"
   },
   {
+    "slug": "jean-jacques-rousseau/mozartiade-ovvero-bastiano-e-bastiana",
+    "title": "Mozartiade (ovvero Bastiano e Bastiana)",
+    "composer_slug": "jean-jacques-rousseau"
+  },
+  {
     "slug": "jean-philippe-rameau/castor-et-pollux",
     "title": "Castor et Pollux",
     "composer_slug": "jean-philippe-rameau"
@@ -3360,9 +5112,25 @@
     "composer_slug": "joe-masteroff-john-kander-und-fred-ebb"
   },
   {
+    "slug": "johann-adolph-hasse/catone-in-utica",
+    "wikidata": "Q5758858",
+    "title": "Catone in Utica",
+    "composer_slug": "johann-adolph-hasse",
+    "world_premiere": "1731-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "johann-casimir-eule/piraten-fluchen-nicht",
     "title": "Piraten fluchen nicht",
     "composer_slug": "johann-casimir-eule"
+  },
+  {
+    "slug": "johann-christian-bach/artaserse",
+    "wikidata": "Q5706491",
+    "title": "Artaserse",
+    "composer_slug": "johann-christian-bach",
+    "world_premiere": "1760-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "johann-sebastian-bach/johannes-passion",
@@ -3373,6 +5141,22 @@
     "slug": "johann-sebastian-bach/weihnachtsoratorium",
     "title": "WEIHNACHTSORATORIUM",
     "composer_slug": "johann-sebastian-bach"
+  },
+  {
+    "slug": "johann-simon-mayr/demetrio",
+    "wikidata": "Q5802153",
+    "title": "Demetrio",
+    "composer_slug": "johann-simon-mayr",
+    "world_premiere": "1823-12-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "johann-simon-mayr/ginevra-di-scozia",
+    "wikidata": "Q1136482",
+    "title": "Ginevra di Scozia",
+    "composer_slug": "johann-simon-mayr",
+    "world_premiere": "1801-04-21",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "johann-strau-sohn/die-fledermaus",
@@ -3550,6 +5334,22 @@
     "composer_slug": "jorge-sosa"
   },
   {
+    "slug": "josef-myslivecek/il-trionfo-di-clelia",
+    "wikidata": "Q3500517",
+    "title": "Il trionfo di Clelia",
+    "composer_slug": "josef-myslivecek",
+    "world_premiere": "1767-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "josef-myslivecek/nitteti",
+    "wikidata": "Q5806193",
+    "title": "Nitteti",
+    "composer_slug": "josef-myslivecek",
+    "world_premiere": "1770-04-29",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
     "slug": "joseph-beer/polnische-hochzeit",
     "title": "Polnische Hochzeit",
     "composer_slug": "joseph-beer"
@@ -3558,6 +5358,22 @@
     "slug": "joseph-martin-kraus/proserpina",
     "title": "Proserpina",
     "composer_slug": "joseph-martin-kraus"
+  },
+  {
+    "slug": "joseph-stuntz/argene-e-dalmiro",
+    "wikidata": "Q109241535",
+    "title": "Argene e Dalmiro",
+    "composer_slug": "joseph-stuntz",
+    "world_premiere": "1821-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "jules-massenet/ariana",
+    "wikidata": "Q109244771",
+    "title": "Ariana",
+    "composer_slug": "jules-massenet",
+    "world_premiere": "1907-12-19",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "jules-massenet/don-quichotte",
@@ -3585,6 +5401,14 @@
     "composer_slug": "julien-chavaz"
   },
   {
+    "slug": "julio-cesar-brero/le-roi-des-gourmets",
+    "wikidata": "Q109002463",
+    "title": "Le Roi des gourmets",
+    "composer_slug": "julio-cesar-brero",
+    "world_premiere": "1964-12-10",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "junge-choreo-shy-graf-innen",
     "title": "Junge Choreo&shy;graf:innen",
     "composer_slug": ""
@@ -3608,6 +5432,11 @@
     "slug": "kaija-saariaho-u-a/grammar-of-dreams",
     "title": "Grammar of Dreams",
     "composer_slug": "kaija-saariaho-u-a"
+  },
+  {
+    "slug": "kaija-saariaho/adriana-mater",
+    "title": "Adriana Mater",
+    "composer_slug": "kaija-saariaho"
   },
   {
     "slug": "kaija-saariaho/innocence",
@@ -3955,6 +5784,14 @@
     "composer_slug": "laura-kaminsky"
   },
   {
+    "slug": "lauro-rossi/la-contessa-di-mons",
+    "wikidata": "Q109244246",
+    "title": "La contessa di Mons",
+    "composer_slug": "lauro-rossi",
+    "world_premiere": "1874-01-31",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "lauschkonzert",
     "title": "Lauschkonzert",
     "composer_slug": ""
@@ -4010,6 +5847,11 @@
     "composer_slug": "leonard-bernstein"
   },
   {
+    "slug": "leonard-bernstein/mass",
+    "title": "Mass",
+    "composer_slug": "leonard-bernstein"
+  },
+  {
     "slug": "leonard-bernstein/trouble-in-tahiti-herzog-blaubarts-burg",
     "title": "Trouble in Tahiti / Herzog Blaubarts Burg",
     "composer_slug": "leonard-bernstein"
@@ -4035,9 +5877,43 @@
     "composer_slug": "leonard-evers"
   },
   {
+    "slug": "leonardo-leo/achille-in-sciro",
+    "wikidata": "Q5702001",
+    "title": "Achille in Sciro",
+    "composer_slug": "leonardo-leo",
+    "world_premiere": "1740-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "leonardo-leo/ciro-riconosciuto",
+    "wikidata": "Q5770270",
+    "title": "Ciro riconosciuto",
+    "composer_slug": "leonardo-leo",
+    "world_premiere": "1739-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "leonardo-vinci/medo",
+    "wikidata": "Q137391931",
+    "title": "Medo",
+    "composer_slug": "leonardo-vinci",
+    "world_premiere": "1728-06-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "leopold-stokowski/pedro-halffter-caro",
+    "title": "Pedro Halffter Caro",
+    "composer_slug": "leopold-stokowski"
+  },
+  {
     "slug": "leos-janacek-thomas-ades/vanishings",
     "title": "Vanishings",
     "composer_slug": "leos-janacek-thomas-ades"
+  },
+  {
+    "slug": "leos-janacek/da-una-casa-di-morti",
+    "title": "Da una casa di morti",
+    "composer_slug": "leos-janacek"
   },
   {
     "slug": "leos-janacek/das-schlaue-fuchslein",
@@ -4062,6 +5938,11 @@
   {
     "slug": "leos-janacek/jenufa-jeji-pastorkyna",
     "title": "Jenůfa (Její pastorkyňa)",
+    "composer_slug": "leos-janacek"
+  },
+  {
+    "slug": "leos-janacek/kat-a-kabanova",
+    "title": "Kát’a Kabanová",
     "composer_slug": "leos-janacek"
   },
   {
@@ -4095,6 +5976,11 @@
     "composer_slug": "leos-janacek"
   },
   {
+    "slug": "lera-auerbach/lera-auerbach",
+    "title": "Lera Auerbach",
+    "composer_slug": "lera-auerbach"
+  },
+  {
     "slug": "les-aventures-du-roi-pausole",
     "title": "Les Aventures du Roi Pausole",
     "composer_slug": ""
@@ -4118,6 +6004,14 @@
     "slug": "libretti-lesen",
     "title": "Libretti lesen",
     "composer_slug": ""
+  },
+  {
+    "slug": "licinio-refice/cecilia",
+    "wikidata": "Q3664095",
+    "title": "Cecilia",
+    "composer_slug": "licinio-refice",
+    "world_premiere": "1934-02-15",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "lieblingsort",
@@ -4153,6 +6047,46 @@
     "slug": "lissabon/die-nacht-von-lissabon",
     "title": "Die Nacht von Lissabon",
     "composer_slug": "lissabon"
+  },
+  {
+    "slug": "lodovico-rocca/monte-ivnor",
+    "wikidata": "Q109002097",
+    "title": "Monte Ivnòr",
+    "composer_slug": "lodovico-rocca",
+    "world_premiere": "1939-12-23",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "lorenzo-ferrero/charlotte-corday",
+    "wikidata": "Q15999750",
+    "title": "Charlotte Corday",
+    "composer_slug": "lorenzo-ferrero",
+    "world_premiere": "1989-02-21",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "lorenzo-ferrero/marilyn",
+    "wikidata": "Q17636205",
+    "title": "Marilyn",
+    "composer_slug": "lorenzo-ferrero",
+    "world_premiere": "1980-02-23",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "lorenzo-ferrero/salvatore-giuliano",
+    "wikidata": "Q7406658",
+    "title": "Salvatore Giuliano",
+    "composer_slug": "lorenzo-ferrero",
+    "world_premiere": "1986-01-25",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "lorenzo-perosi/il-giudizio-universale",
+    "wikidata": "Q11926478",
+    "title": "Il Giudizio Universale",
+    "composer_slug": "lorenzo-perosi",
+    "world_premiere": "1904-04-08",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "lostanzen-auf-der-buhne",
@@ -4195,9 +6129,48 @@
     "composer_slug": "lucia-ronchetti-1963"
   },
   {
+    "slug": "lucia-ronchetti/inferno",
+    "title": "Inferno",
+    "composer_slug": "lucia-ronchetti"
+  },
+  {
+    "slug": "lucia-ronchetti/le-avventure-di-pinocchio",
+    "title": "Le avventure di Pinocchio",
+    "composer_slug": "lucia-ronchetti"
+  },
+  {
     "slug": "lucia-wunsch/lacrimosa",
     "title": "Lacrimosa",
     "composer_slug": "lucia-wunsch"
+  },
+  {
+    "slug": "luciano-chailly/il-canto-del-cigno",
+    "wikidata": "Q109002304",
+    "title": "Il canto del cigno",
+    "composer_slug": "luciano-chailly",
+    "world_premiere": "1957-11-16",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "luciano-chailly/l-idiota",
+    "wikidata": "Q3819152",
+    "title": "L'idiota",
+    "composer_slug": "luciano-chailly",
+    "world_premiere": "1970-02-14",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "luciano-chailly/sogno-ma-forse-no",
+    "wikidata": "Q109242803",
+    "title": "Sogno (ma forse no)",
+    "composer_slug": "luciano-chailly",
+    "world_premiere": "1975-01-28",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "lucio-dalla/l-anno-che-verra",
+    "title": "L’anno che verrà",
+    "composer_slug": "lucio-dalla"
   },
   {
     "slug": "lucy-armstrong/spark",
@@ -4215,6 +6188,11 @@
     "composer_slug": "ludger-vollmer-und-jenny-erpenbeck"
   },
   {
+    "slug": "ludovico-einaudi/winter-journey",
+    "title": "Winter Journey",
+    "composer_slug": "ludovico-einaudi"
+  },
+  {
     "slug": "ludwig-van-beethoven-in-einer-erweiterten-lesart/fidelio-focus-fade",
     "title": "Fidelio: Focus & Fade",
     "composer_slug": "ludwig-van-beethoven-in-einer-erweiterten-lesart"
@@ -4225,14 +6203,111 @@
     "composer_slug": "ludwig-van-beethoven"
   },
   {
+    "slug": "ludwig-van-beethoven/gianluigi-gelmetti",
+    "title": "Gianluigi Gelmetti",
+    "composer_slug": "ludwig-van-beethoven"
+  },
+  {
+    "slug": "ludwig-van-beethoven/ii-concerto",
+    "title": "II Concerto",
+    "composer_slug": "ludwig-van-beethoven"
+  },
+  {
     "slug": "ludwig-van-beethoven/leonore",
     "title": "Leonore",
     "composer_slug": "ludwig-van-beethoven"
   },
   {
+    "slug": "ludwig-van-beethoven/sinfonia-n-9",
+    "title": "Sinfonia n.9",
+    "composer_slug": "ludwig-van-beethoven"
+  },
+  {
+    "slug": "ludwig-van-beethoven/valentina-peleggi",
+    "title": "Valentina Peleggi",
+    "composer_slug": "ludwig-van-beethoven"
+  },
+  {
+    "slug": "luigi-boccherini/marta-gardolinska",
+    "title": "Marta Gardolińska",
+    "composer_slug": "luigi-boccherini"
+  },
+  {
+    "slug": "luigi-cherubini/ifigenia-in-aulide",
+    "wikidata": "Q3792164",
+    "title": "Ifigenia in Aulide",
+    "composer_slug": "luigi-cherubini",
+    "world_premiere": "1788-01-12",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "luigi-cherubini/medea",
     "title": "Medea",
     "composer_slug": "luigi-cherubini"
+  },
+  {
+    "slug": "luigi-ferrari-trecate/buricchio-avventure-di-un-monello",
+    "wikidata": "Q109241910",
+    "title": "Buricchio: avventure di un monello",
+    "composer_slug": "luigi-ferrari-trecate",
+    "world_premiere": "1948-11-05",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "luigi-ferrari-trecate/le-astuzie-di-bertoldo",
+    "wikidata": "Q109241760",
+    "title": "Le astuzie di Bertoldo",
+    "composer_slug": "luigi-ferrari-trecate",
+    "world_premiere": "1934-01-10",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "luigi-majocchi/il-segreto",
+    "wikidata": "Q109242643",
+    "title": "Il segreto",
+    "composer_slug": "luigi-majocchi",
+    "world_premiere": "1833-02-26",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "luigi-mancinelli/isora-di-provenza",
+    "wikidata": "Q109002150",
+    "title": "Isora di Provenza",
+    "composer_slug": "luigi-mancinelli",
+    "world_premiere": "1884-10-02",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "luigi-ricci/il-nuovo-figaro",
+    "wikidata": "Q52146313",
+    "title": "Il nuovo Figaro",
+    "composer_slug": "luigi-ricci",
+    "world_premiere": "1832-02-15",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "luigi-savi/caterina-di-cleves",
+    "wikidata": "Q109242066",
+    "title": "Caterina di Clèves",
+    "composer_slug": "luigi-savi",
+    "world_premiere": "1838-01-31",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "luigi-savi/il-cid",
+    "wikidata": "Q109242649",
+    "title": "Il Cid",
+    "composer_slug": "luigi-savi",
+    "world_premiere": "1834-01-22",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "luigi-savi/l-avaro",
+    "wikidata": "Q109242065",
+    "title": "L'avaro",
+    "composer_slug": "luigi-savi",
+    "world_premiere": "1840-10-24",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "luke-styles/sitcom",
@@ -4280,9 +6355,80 @@
     "composer_slug": ""
   },
   {
+    "slug": "marco-betta/cenere",
+    "title": "Cenere",
+    "composer_slug": "marco-betta"
+  },
+  {
+    "slug": "marco-podda/l-oro-del-diavolo",
+    "title": "L’Oro del Diavolo",
+    "composer_slug": "marco-podda"
+  },
+  {
+    "slug": "marco-taralli/alessandro-cadario",
+    "title": "Alessandro Cadario",
+    "composer_slug": "marco-taralli"
+  },
+  {
     "slug": "maria-lazar-urauffuhrung/veritas-eine-hexenjagd",
     "title": "Veritas: Eine Hexenjagd",
     "composer_slug": "maria-lazar-urauffuhrung"
+  },
+  {
+    "slug": "mario-bugamelli/una-domenica",
+    "wikidata": "Q109243765",
+    "title": "Una domenica",
+    "composer_slug": "mario-bugamelli",
+    "world_premiere": "1967-02-11",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "mario-peragallo/ginevra-degli-almieri",
+    "wikidata": "Q109001797",
+    "title": "Ginevra degli Almieri",
+    "composer_slug": "mario-peragallo",
+    "world_premiere": "1937-02-13",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "mario-peragallo/lo-stendardo-di-s-giorgio",
+    "wikidata": "Q109002015",
+    "title": "Lo stendardo di S. Giorgio",
+    "composer_slug": "mario-peragallo",
+    "world_premiere": "1941-03-09",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "mario-persico/la-bisbetica-domata",
+    "wikidata": "Q109002508",
+    "title": "La bisbetica domata",
+    "composer_slug": "mario-persico",
+    "world_premiere": "1931-02-12",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "mario-persico/la-locandiera",
+    "wikidata": "Q109002488",
+    "title": "La locandiera",
+    "composer_slug": "mario-persico",
+    "world_premiere": "1941-03-17",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "mario-zafred/amleto",
+    "wikidata": "Q109002345",
+    "title": "Amleto",
+    "composer_slug": "mario-zafred",
+    "world_premiere": "1961-01-07",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "mario-zafred/wallenstein",
+    "wikidata": "Q109002346",
+    "title": "Wallenstein",
+    "composer_slug": "mario-zafred",
+    "world_premiere": "1965-03-18",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "mark-adamo/little-women",
@@ -4345,6 +6491,16 @@
     "composer_slug": ""
   },
   {
+    "slug": "matteo-d-amico/la-vita-nuda",
+    "title": "La vita nuda",
+    "composer_slug": "matteo-d-amico"
+  },
+  {
+    "slug": "matteo-musumeci/arlechin-e-colombina",
+    "title": "Arlechin e Colombina",
+    "composer_slug": "matteo-musumeci"
+  },
+  {
     "slug": "matthaus-passion",
     "title": "Matthäus-Passion",
     "composer_slug": ""
@@ -4353,6 +6509,11 @@
     "slug": "maurice-ravel/l-enfant-et-les-sortileges-l-heure-espagnole",
     "title": "L’enfant et les sortilèges / L’heure espagnole",
     "composer_slug": "maurice-ravel"
+  },
+  {
+    "slug": "maurizio-fabrizio/edith",
+    "title": "Édith",
+    "composer_slug": "maurizio-fabrizio"
   },
   {
     "slug": "mdr-klassik-zum-jahr-der-stimme/klassik-karaoke",
@@ -4398,6 +6559,14 @@
     "slug": "michael-william-balfe/falstaff",
     "title": "Falstaff",
     "composer_slug": "michael-william-balfe"
+  },
+  {
+    "slug": "michael-william-balfe/pittore-e-duca",
+    "wikidata": "Q109242631",
+    "title": "Pittore e Duca",
+    "composer_slug": "michael-william-balfe",
+    "world_premiere": "1854-02-21",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "michael-william-balfe/the-rose-of-castile",
@@ -4685,6 +6854,27 @@
     "composer_slug": "naomi-sanfo-ansorge"
   },
   {
+    "slug": "natale-canti/savitri",
+    "wikidata": "Q109242455",
+    "title": "Savitri",
+    "composer_slug": "natale-canti",
+    "world_premiere": "1894-12-01",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "natale-perelli/osti-e-non-osti",
+    "wikidata": "Q109242189",
+    "title": "Osti e non osti",
+    "composer_slug": "natale-perelli",
+    "world_premiere": "1846-10-14",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "naturlaut-voce-di-natura/iii-concerto",
+    "title": "III concerto",
+    "composer_slug": "naturlaut-voce-di-natura"
+  },
+  {
     "slug": "neue-welten",
     "title": "NEUE WELTEN",
     "composer_slug": ""
@@ -4695,9 +6885,88 @@
     "composer_slug": ""
   },
   {
+    "slug": "niccolo-antonio-zingarelli/annibale-in-torino",
+    "wikidata": "Q109241625",
+    "title": "Annibale in Torino",
+    "composer_slug": "niccolo-antonio-zingarelli",
+    "world_premiere": "1792-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "niccolo-jommelli/bajazet",
+    "wikidata": "Q21081741",
+    "title": "Bajazet",
+    "composer_slug": "niccolo-jommelli",
+    "world_premiere": "1753-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "niccolo-jommelli/demetrio",
+    "wikidata": "Q21082093",
+    "title": "Demetrio",
+    "composer_slug": "niccolo-jommelli",
+    "world_premiere": "1749-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "niccolo-jommelli/semiramide-riconosciuta",
+    "wikidata": "Q6124855",
+    "title": "Semiramide riconosciuta",
+    "composer_slug": "niccolo-jommelli",
+    "world_premiere": "1742-01-20",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "niccolo-paganini/kahchun-wong",
+    "title": "Kahchun Wong",
+    "composer_slug": "niccolo-paganini"
+  },
+  {
+    "slug": "niccolo-piccinni/la-cecchina",
+    "title": "LA CECCHINA",
+    "composer_slug": "niccolo-piccinni"
+  },
+  {
+    "slug": "nicola-piovani/il-labirinto-di-creta",
+    "title": "IL LABIRINTO DI CRETA",
+    "composer_slug": "nicola-piovani"
+  },
+  {
     "slug": "nicola-piovani/romanzo-criminale",
     "title": "Romanzo criminale",
     "composer_slug": "nicola-piovani"
+  },
+  {
+    "slug": "nicola-vaccai/bianca-di-messina",
+    "wikidata": "Q109241892",
+    "title": "Bianca di Messina",
+    "composer_slug": "nicola-vaccai",
+    "world_premiere": "1826-02-02",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "nicola-vaccai/marco-visconti",
+    "wikidata": "Q109242661",
+    "title": "Marco Visconti",
+    "composer_slug": "nicola-vaccai",
+    "world_premiere": "1838-01-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "nicola-vaccai/pietro-il-grande",
+    "wikidata": "Q109241759",
+    "title": "Pietro il Grande",
+    "composer_slug": "nicola-vaccai",
+    "world_premiere": "1824-01-17",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "nicolo-sauli/il-romito-di-provenza",
+    "wikidata": "Q109242694",
+    "title": "Il romito di Provenza",
+    "composer_slug": "nicolo-sauli",
+    "world_premiere": "1846-01-01",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "night-songs-relaxed-listening-session",
@@ -4757,6 +7026,19 @@
   {
     "slug": "nino-rota/der-florentiner-hut",
     "title": "Der Florentiner Hut",
+    "composer_slug": "nino-rota"
+  },
+  {
+    "slug": "nino-rota/il-cappello-di-paglia-di-firenze",
+    "wikidata": "Q1157165",
+    "title": "Il cappello di paglia di Firenze",
+    "composer_slug": "nino-rota",
+    "world_premiere": "1955-04-02",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "nino-rota/napoli-milionaria",
+    "title": "NAPOLI MILIONARIA",
     "composer_slug": "nino-rota"
   },
   {
@@ -4935,14 +7217,83 @@
     "composer_slug": "oscar-straus"
   },
   {
+    "slug": "oscar-straus/sogno-di-un-valzer-in-concerto",
+    "title": "“Sogno di un valzer” in concerto",
+    "composer_slug": "oscar-straus"
+  },
+  {
+    "slug": "otto-nicolai/enrico-ii",
+    "wikidata": "Q109242688",
+    "title": "Enrico II",
+    "composer_slug": "otto-nicolai",
+    "world_premiere": "1839-11-26",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
+    "slug": "otto-nicolai/gildippa-e-odoardo",
+    "wikidata": "Q109242216",
+    "title": "Gildippa e Odoardo",
+    "composer_slug": "otto-nicolai",
+    "world_premiere": "1840-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "otto-nicolai/il-templario",
+    "wikidata": "Q1960525",
+    "title": "Il templario",
+    "composer_slug": "otto-nicolai",
+    "world_premiere": "1840-02-11",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "ottorino-respighi/la-fiamma",
     "title": "La fiamma",
-    "composer_slug": "ottorino-respighi"
+    "composer_slug": "ottorino-respighi",
+    "wikidata": "Q6466141",
+    "world_premiere": "1934-01-23",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "ottorino-respighi/la-pentola-magica",
+    "wikidata": "Q109241660",
+    "title": "La pentola magica",
+    "composer_slug": "ottorino-respighi",
+    "world_premiere": "1920-11-19",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "ottorino-respighi/marie-victoire",
+    "wikidata": "Q1888651",
+    "title": "Marie Victoire",
+    "composer_slug": "ottorino-respighi",
+    "world_premiere": "2004-01-27",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "ottorino-respighi/semirama",
+    "wikidata": "Q15622156",
+    "title": "Semirâma",
+    "composer_slug": "ottorino-respighi",
+    "world_premiere": "1910-11-20",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "ottorino-respighi/sevres-de-la-vieille-france",
+    "wikidata": "Q109001774",
+    "title": "Sèvres de la vieille France",
+    "composer_slug": "ottorino-respighi",
+    "world_premiere": "1920-11-01",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "oxana-omelchuk/laterna-magica",
     "title": "Laterna Magica",
     "composer_slug": "oxana-omelchuk"
+  },
+  {
+    "slug": "padre-sergio/piovani-dirige-piovani",
+    "title": "Piovani dirige Piovani",
+    "composer_slug": "padre-sergio"
   },
   {
     "slug": "palette-meets-die-oper",
@@ -4968,6 +7319,22 @@
     "slug": "pascal-dusapin/passion",
     "title": "Passion",
     "composer_slug": "pascal-dusapin"
+  },
+  {
+    "slug": "pasquale-anfossi/armida",
+    "wikidata": "Q137786607",
+    "title": "Armida",
+    "composer_slug": "pasquale-anfossi",
+    "world_premiere": "1770-01-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "pasquale-cafaro/creso",
+    "wikidata": "Q137205367",
+    "title": "Creso",
+    "composer_slug": "pasquale-cafaro",
+    "world_premiere": "1768-01-23",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "passing-by",
@@ -5013,6 +7380,11 @@
     "slug": "paul-moravec/the-shining-eea",
     "title": "The Shining (EEA)",
     "composer_slug": "paul-moravec"
+  },
+  {
+    "slug": "pauline-viardot-versione-ritmica-italiana-di-vincenzo-de-vivo/cenerentola",
+    "title": "Cenerentola",
+    "composer_slug": "pauline-viardot-versione-ritmica-italiana-di-vincenzo-de-vivo"
   },
   {
     "slug": "paulus-hochgatterer/die-entfuhrung-aus-dem-serail-2026",
@@ -5070,6 +7442,31 @@
     "composer_slug": "peter-tschaikowsky"
   },
   {
+    "slug": "petr-il-ic-cajkovskij-scene-liriche-in-tre-atti-e-sette-quadri/evgenij-onegin",
+    "title": "Evgenij Onegin",
+    "composer_slug": "petr-il-ic-cajkovskij-scene-liriche-in-tre-atti-e-sette-quadri"
+  },
+  {
+    "slug": "petr-il-ic-cajkovskij/evgenij-onegin",
+    "title": "Evgenij Onegin",
+    "composer_slug": "petr-il-ic-cajkovskij"
+  },
+  {
+    "slug": "petr-il-ic-cajkovskij/fabrizio-maria-carminati",
+    "title": "Fabrizio Maria Carminati",
+    "composer_slug": "petr-il-ic-cajkovskij"
+  },
+  {
+    "slug": "petr-il-ic-cajkovskij/niksa-bareza",
+    "title": "Nikša Bareza",
+    "composer_slug": "petr-il-ic-cajkovskij"
+  },
+  {
+    "slug": "petr-il-ic-cajkovskij/pedro-halffter-caro",
+    "title": "Pedro Halffter Caro",
+    "composer_slug": "petr-il-ic-cajkovskij"
+  },
+  {
     "slug": "philip-glass/in-der-strafkolonie",
     "title": "In der Strafkolonie",
     "composer_slug": "philip-glass"
@@ -5120,6 +7517,46 @@
     "composer_slug": "pierangelo-valtinoni"
   },
   {
+    "slug": "pietro-antonio-coppola/gli-illinesi",
+    "wikidata": "Q137661228",
+    "title": "Gli Illinesi",
+    "composer_slug": "pietro-antonio-coppola",
+    "world_premiere": "1835-12-27",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "pietro-combi/luisa-strozzi",
+    "wikidata": "Q109241822",
+    "title": "Luisa Strozzi",
+    "composer_slug": "pietro-combi",
+    "world_premiere": "1841-06-26",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "pietro-floridia/la-colonia-libera",
+    "wikidata": "Q109241369",
+    "title": "La colonia libera",
+    "composer_slug": "pietro-floridia",
+    "world_premiere": "1899-05-07",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "pietro-generali/bajazet",
+    "wikidata": "Q109244943",
+    "title": "Bajazet",
+    "composer_slug": "pietro-generali",
+    "world_premiere": "1814-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "pietro-generali/le-lagrime-di-una-vedova",
+    "wikidata": "Q109241803",
+    "title": "Le lagrime di una vedova",
+    "composer_slug": "pietro-generali",
+    "world_premiere": "1802-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
     "slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci",
     "title": "Cavalleria rusticana & Pagliacci",
     "composer_slug": "pietro-mascagni-ruggero-leoncavallo"
@@ -5127,7 +7564,10 @@
   {
     "slug": "pietro-mascagni/cavalleria-rusticana",
     "title": "Cavalleria rusticana",
-    "composer_slug": "pietro-mascagni"
+    "composer_slug": "pietro-mascagni",
+    "wikidata": "Q221806",
+    "world_premiere": "1890-05-17",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "pietro-mascagni/cavalleria-rusticana-gianni-schicchi",
@@ -5147,7 +7587,34 @@
   {
     "slug": "pietro-mascagni/iris",
     "title": "Iris",
-    "composer_slug": "pietro-mascagni"
+    "composer_slug": "pietro-mascagni",
+    "wikidata": "Q474647",
+    "world_premiere": "1898-11-22",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "pietro-mascagni/l-amico-fritz",
+    "wikidata": "Q578706",
+    "title": "L’amico Fritz",
+    "composer_slug": "pietro-mascagni",
+    "world_premiere": "1891-10-31",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "pietro-mascagni/lodoletta",
+    "wikidata": "Q751851",
+    "title": "Lodoletta",
+    "composer_slug": "pietro-mascagni",
+    "world_premiere": "1917-04-30",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "pietro-raimondi/il-trionfo-delle-donne",
+    "wikidata": "Q136461518",
+    "title": "Il trionfo delle donne",
+    "composer_slug": "pietro-raimondi",
+    "world_premiere": "1841-12-04",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
   },
   {
     "slug": "piotr-iljic-cajkovskij/eugene-onegin",
@@ -5225,6 +7692,14 @@
     "composer_slug": ""
   },
   {
+    "slug": "primo-riccitelli/madonna-oretta",
+    "wikidata": "Q3842418",
+    "title": "Madonna Oretta",
+    "composer_slug": "primo-riccitelli",
+    "world_premiere": "1932-02-04",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "proben-shy-besuche-am-vormittag",
     "title": "Proben&shy;besuche am Vormittag",
     "composer_slug": ""
@@ -5240,8 +7715,18 @@
     "composer_slug": ""
   },
   {
+    "slug": "puccini-bartok/il-tabarro-il-castello-del-principe-barbablu",
+    "title": "Il tabarro Il castello del Principe Barbablù",
+    "composer_slug": "puccini-bartok"
+  },
+  {
     "slug": "puccini/la-boheme",
     "title": "La Bohème",
+    "composer_slug": "puccini"
+  },
+  {
+    "slug": "puccini/manon-lescaut",
+    "title": "MANON LESCAUT",
     "composer_slug": "puccini"
   },
   {
@@ -5300,6 +7785,14 @@
     "composer_slug": "pyotr-tchaikovsky"
   },
   {
+    "slug": "quirino-gasparini/mitridate-re-di-ponto",
+    "wikidata": "Q137787249",
+    "title": "Mitridate re di Ponto",
+    "composer_slug": "quirino-gasparini",
+    "world_premiere": "1767-01-31",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "r-strauss/der-rosenkavalier",
     "title": "Der Rosenkavalier",
     "composer_slug": "r-strauss"
@@ -5310,6 +7803,14 @@
     "composer_slug": "rachel-danziger-van-embden"
   },
   {
+    "slug": "raimondo-rodriguez/antony",
+    "wikidata": "Q109244726",
+    "title": "Antony",
+    "composer_slug": "raimondo-rodriguez",
+    "world_premiere": "1924-02-23",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
+  },
+  {
     "slug": "ralf-gscheidle/marla-die-maifliege",
     "title": "Marla, die Maifliege",
     "composer_slug": "ralf-gscheidle"
@@ -5318,6 +7819,11 @@
     "slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl",
     "title": "Im weißen Rössl",
     "composer_slug": "ralph-benatzky-robert-gilbert"
+  },
+  {
+    "slug": "ralph-benatzky/al-cavallino-bianco",
+    "title": "Al Cavallino bianco",
+    "composer_slug": "ralph-benatzky"
   },
   {
     "slug": "ralph-benatzky/im-wei-en-rossl",
@@ -5355,9 +7861,81 @@
     "composer_slug": "rebecca-fritzsche-nazli-saremi"
   },
   {
+    "slug": "renzo-rossellini/canti-del-golfo-di-napoli",
+    "wikidata": "Q109242489",
+    "title": "Canti del Golfo di Napoli",
+    "composer_slug": "renzo-rossellini",
+    "world_premiere": "1954-12-26",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "renzo-rossellini/racconto-d-inverno",
+    "wikidata": "Q109002470",
+    "title": "Racconto d'inverno",
+    "composer_slug": "renzo-rossellini",
+    "world_premiere": "1947-04-22",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "renzo-rossellini/uno-sguardo-dal-ponte",
+    "wikidata": "Q17082369",
+    "title": "Uno sguardo dal ponte",
+    "composer_slug": "renzo-rossellini",
+    "world_premiere": "1961-03-11",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "resonanzboden",
     "title": "Resonanzboden",
     "composer_slug": ""
+  },
+  {
+    "slug": "riccardo-broschi/ezio",
+    "wikidata": "Q5658691",
+    "title": "Ezio",
+    "composer_slug": "riccardo-broschi",
+    "world_premiere": "1731-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "riccardo-broschi/merope",
+    "wikidata": "Q11777502",
+    "title": "Merope",
+    "composer_slug": "riccardo-broschi",
+    "world_premiere": "1732-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "riccardo-zandonai/biancaneve",
+    "wikidata": "Q109002507",
+    "title": "Biancaneve",
+    "composer_slug": "riccardo-zandonai",
+    "world_premiere": "1951-03-31",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "riccardo-zandonai/francesca-da-rimini",
+    "wikidata": "Q2718706",
+    "title": "Francesca da Rimini",
+    "composer_slug": "riccardo-zandonai",
+    "world_premiere": "1914-02-19",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "riccardo-zandonai/giulietta-e-romeo",
+    "wikidata": "Q109001803",
+    "title": "Giulietta e Romeo",
+    "composer_slug": "riccardo-zandonai",
+    "world_premiere": "1922-02-14",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "riccardo-zandonai/la-farsa-amorosa",
+    "wikidata": "Q427877",
+    "title": "La farsa amorosa",
+    "composer_slug": "riccardo-zandonai",
+    "world_premiere": "1933-02-22",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "riccardo-zandonai/romeo-und-julia",
@@ -5510,6 +8088,11 @@
     "composer_slug": "richard-wagner"
   },
   {
+    "slug": "richard-wagner/tristan-und-isolde-tristano-e-isotta",
+    "title": "Tristan und Isolde (Tristano e Isotta)",
+    "composer_slug": "richard-wagner"
+  },
+  {
     "slug": "richard-wagner/twilight-of-the-gods",
     "title": "Twilight of the Gods",
     "composer_slug": "richard-wagner"
@@ -5530,6 +8113,14 @@
     "composer_slug": "robert-oboussier"
   },
   {
+    "slug": "roberto-hazon/agenzia-matrimoniale",
+    "wikidata": "Q109002416",
+    "title": "Agenzia matrimoniale",
+    "composer_slug": "roberto-hazon",
+    "world_premiere": "1962-01-03",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
     "slug": "rodgers-hammerstein/rodgers-hammerstein-s-cinderella",
     "title": "Rodgers & Hammerstein’s Cinderella",
     "composer_slug": "rodgers-hammerstein"
@@ -5543,6 +8134,19 @@
     "slug": "romantik-uber-den-dachern-der-stadt/skyline-konzert-i",
     "title": "Skyline Konzert I",
     "composer_slug": "romantik-uber-den-dachern-der-stadt"
+  },
+  {
+    "slug": "romualdo-marenco/annibale-ballo-storico",
+    "wikidata": "Q109244694",
+    "title": "Annibale (ballo storico)",
+    "composer_slug": "romualdo-marenco",
+    "world_premiere": "1889-01-01",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "ron-siemiginowski/mimma",
+    "title": "Mimma",
+    "composer_slug": "ron-siemiginowski"
   },
   {
     "slug": "rosenkranz-guldenstern/ins-kalte-wasser",
@@ -5565,6 +8169,11 @@
     "composer_slug": "rossini"
   },
   {
+    "slug": "ruggero-leoncavallo-opera-in-due-atti/pagliacci",
+    "title": "Pagliacci",
+    "composer_slug": "ruggero-leoncavallo-opera-in-due-atti"
+  },
+  {
     "slug": "ruggero-leoncavallo-pietro-mascagni/pagliacci-cavalleria-rusticana",
     "title": "Pagliacci / Cavalleria rusticana",
     "composer_slug": "ruggero-leoncavallo-pietro-mascagni"
@@ -5580,9 +8189,25 @@
     "composer_slug": "ruggero-leoncavallo"
   },
   {
+    "slug": "ruggero-leoncavallo/mameli",
+    "wikidata": "Q109244211",
+    "title": "Mameli",
+    "composer_slug": "ruggero-leoncavallo",
+    "world_premiere": "1916-04-27",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "ruggero-leoncavallo/pagliacci",
     "title": "Pagliacci",
     "composer_slug": "ruggero-leoncavallo"
+  },
+  {
+    "slug": "ruggero-manna/jacopo-di-valenza",
+    "wikidata": "Q109241548",
+    "title": "Jacopo di Valenza",
+    "composer_slug": "ruggero-manna",
+    "world_premiere": "1832-11-15",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "ryan-trew/come-closer",
@@ -5593,6 +8218,32 @@
     "slug": "sacre-chor",
     "title": "Sacre Chor",
     "composer_slug": ""
+  },
+  {
+    "slug": "sala-grande/carmen",
+    "title": "Carmen",
+    "composer_slug": "sala-grande"
+  },
+  {
+    "slug": "sala-grande/dido-and-aeneas",
+    "title": "Dido and Aeneas",
+    "composer_slug": "sala-grande"
+  },
+  {
+    "slug": "salvador-sarmiento/elmina",
+    "wikidata": "Q109242755",
+    "title": "Elmina",
+    "composer_slug": "salvador-sarmiento",
+    "world_premiere": "1851-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "salvatore-rispoli/nitteti",
+    "wikidata": "Q10973656",
+    "title": "Nitteti",
+    "composer_slug": "salvatore-rispoli",
+    "world_premiere": "1782-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "salvatore-sciarrino/l-agamennone",
@@ -5608,6 +8259,14 @@
     "slug": "samuel-penderbayne/die-verzauberte-stadt",
     "title": "Die verzauberte Stadt",
     "composer_slug": "samuel-penderbayne"
+  },
+  {
+    "slug": "samuele-levi/ginevra-degli-almieri",
+    "wikidata": "Q109242678",
+    "title": "Ginevra degli Almieri",
+    "composer_slug": "samuele-levi",
+    "world_premiere": "1840-03-17",
+    "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
     "slug": "sandra-engelhardt/we-do-opera-coco-superstar",
@@ -5645,6 +8304,46 @@
     "composer_slug": "sasha-waltz"
   },
   {
+    "slug": "saverio-mercadante/didone-abbandonata",
+    "wikidata": "Q3707033",
+    "title": "Didone abbandonata",
+    "composer_slug": "saverio-mercadante",
+    "world_premiere": "1823-01-18",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "saverio-mercadante/ezio",
+    "wikidata": "Q3736348",
+    "title": "Ezio",
+    "composer_slug": "saverio-mercadante",
+    "world_premiere": "1827-02-03",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "saverio-mercadante/francesca-donato",
+    "wikidata": "Q3749391",
+    "title": "Francesca Donato",
+    "composer_slug": "saverio-mercadante",
+    "world_premiere": "1835-02-14",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "saverio-mercadante/i-normanni-a-parigi",
+    "wikidata": "Q3791075",
+    "title": "I normanni a Parigi",
+    "composer_slug": "saverio-mercadante",
+    "world_premiere": "1832-02-02",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "saverio-mercadante/nitocri",
+    "wikidata": "Q3877356",
+    "title": "Nitocri",
+    "composer_slug": "saverio-mercadante",
+    "world_premiere": "1824-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
     "slug": "scarlatti/la-dirindina",
     "title": "La Dirindina",
     "composer_slug": "scarlatti"
@@ -5680,6 +8379,14 @@
     "composer_slug": "sebastian-schwab-nach-otfried-preu-ler"
   },
   {
+    "slug": "serafino-amedeo-de-ferrari/don-carlo",
+    "wikidata": "Q109244048",
+    "title": "Don Carlo",
+    "composer_slug": "serafino-amedeo-de-ferrari",
+    "world_premiere": "1854-02-11",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "serenata",
     "title": "Serenata",
     "composer_slug": ""
@@ -5703,6 +8410,21 @@
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "title": "Die Liebe zu den drei Orangen",
     "composer_slug": "sergei-s-prokofjew"
+  },
+  {
+    "slug": "sergej-prokof-ev/gunter-neuhold",
+    "title": "Günter Neuhold",
+    "composer_slug": "sergej-prokof-ev"
+  },
+  {
+    "slug": "sergej-prokof-ev/l-angelo-di-fuoco",
+    "title": "L’angelo di fuoco",
+    "composer_slug": "sergej-prokof-ev"
+  },
+  {
+    "slug": "sergej-prokof-ev/pierino-e-il-lupo",
+    "title": "Pierino e il lupo",
+    "composer_slug": "sergej-prokof-ev"
   },
   {
     "slug": "serguei-prokofiev/l-amour-des-trois-oranges",
@@ -5750,6 +8472,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "silvia-colasanti/l-ultimo-viaggio-di-sindbad",
+    "title": "L’ultimo viaggio di Sindbad",
+    "composer_slug": "silvia-colasanti"
+  },
+  {
     "slug": "sing-halleluja",
     "title": "\"Sing Halleluja!\"",
     "composer_slug": ""
@@ -5778,6 +8505,16 @@
     "slug": "sitzkissenkonzert-zur-zauberflote/in-der-magischen-burg",
     "title": "In der magischen Burg",
     "composer_slug": "sitzkissenkonzert-zur-zauberflote"
+  },
+  {
+    "slug": "siviglia-basso-cristian-saitta/concerto-di-fine-anno-2021",
+    "title": "Concerto di fine anno 2021",
+    "composer_slug": "siviglia-basso-cristian-saitta"
+  },
+  {
+    "slug": "siviglia/concerto-di-fine-anno-2023",
+    "title": "Concerto di fine anno 2023",
+    "composer_slug": "siviglia"
   },
   {
     "slug": "slavo-solovic/mouflon-ancijas",
@@ -5870,6 +8607,14 @@
     "composer_slug": "spyridon-samaras"
   },
   {
+    "slug": "spyros-samaras/medge",
+    "wikidata": "Q109244265",
+    "title": "Medgè",
+    "composer_slug": "spyros-samaras",
+    "world_premiere": "1888-12-11",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
     "slug": "staatskapelle-berlin-gastspiel-in-shanghai",
     "title": "Staatskapelle Berlin: Gastspiel in Shanghai",
     "composer_slug": ""
@@ -5878,6 +8623,59 @@
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai",
     "title": "Staatskapelle Berlin: Opern-Gastspiel in Shanghai",
     "composer_slug": ""
+  },
+  {
+    "slug": "stagno-di-hans-christian-andersen/il-castello-incantato",
+    "title": "Il Castello incantato",
+    "composer_slug": "stagno-di-hans-christian-andersen"
+  },
+  {
+    "slug": "stanislao-gastaldon/mala-pasqua",
+    "wikidata": "Q3843726",
+    "title": "Mala Pasqua!",
+    "composer_slug": "stanislao-gastaldon",
+    "world_premiere": "1890-04-09",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "stefano-donaudy/sperduti-nel-buio",
+    "wikidata": "Q109002446",
+    "title": "Sperduti nel buio",
+    "composer_slug": "stefano-donaudy",
+    "world_premiere": "1907-04-27",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
+  },
+  {
+    "slug": "stefano-gobatti/i-goti",
+    "wikidata": "Q16564336",
+    "title": "I Goti",
+    "composer_slug": "stefano-gobatti",
+    "world_premiere": "1873-11-30",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "stefano-gobatti/luce",
+    "wikidata": "Q109002061",
+    "title": "Luce",
+    "composer_slug": "stefano-gobatti",
+    "world_premiere": "1875-11-26",
+    "world_premiere_house_slug": "teatro-comunale-di-bologna"
+  },
+  {
+    "slug": "stefano-pavesi/elisabetta-d-inghilterra",
+    "wikidata": "Q109241395",
+    "title": "Elisabetta d'Inghilterra",
+    "composer_slug": "stefano-pavesi",
+    "world_premiere": "1809-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "stefano-pavesi/nitteti",
+    "wikidata": "Q6043404",
+    "title": "Nitteti",
+    "composer_slug": "stefano-pavesi",
+    "world_premiere": "1811-12-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
     "slug": "stephan-thoss/shakespeare-love",
@@ -5948,6 +8746,22 @@
     "slug": "susanne-rieber/prasentation-club-blau",
     "title": "Präsentation Club Blau",
     "composer_slug": "susanne-rieber"
+  },
+  {
+    "slug": "sylvano-bussotti/bergkristall",
+    "wikidata": "Q109002373",
+    "title": "Bergkristall",
+    "composer_slug": "sylvano-bussotti",
+    "world_premiere": "1974-06-08",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "sylvano-bussotti/fedra",
+    "wikidata": "Q109002344",
+    "title": "Fedra",
+    "composer_slug": "sylvano-bussotti",
+    "world_premiere": "1988-04-19",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
     "slug": "szomor-gyorgy/monte-cristo-grofja",
@@ -6145,6 +8959,22 @@
     "composer_slug": "tom-weinberger"
   },
   {
+    "slug": "tomaso-benvenuti/guglielmo-shakespeare",
+    "wikidata": "Q109242539",
+    "title": "Guglielmo Shakespeare",
+    "composer_slug": "tomaso-benvenuti",
+    "world_premiere": "1861-01-01",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "tommaso-traetta/il-solimano",
+    "wikidata": "Q11926479",
+    "title": "Il Solimano",
+    "composer_slug": "tommaso-traetta",
+    "world_premiere": "1759-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
     "slug": "tone-texte-ein-musikalisch-literarischer-abend-mit-ks-anke-berndt-und-toni-burghard-friedrich",
     "title": "Töne & Texte: Ein musikalisch-literarischer Abend mit KS Anke Berndt und Toni Burghard Friedrich",
     "composer_slug": ""
@@ -6195,6 +9025,14 @@
     "composer_slug": ""
   },
   {
+    "slug": "ubaldo-pacchierotti/eidelberga-mia",
+    "wikidata": "Q137645792",
+    "title": "Eidelberga mia!",
+    "composer_slug": "ubaldo-pacchierotti",
+    "world_premiere": "1908-02-27",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "uber-liebe-und-hass",
     "title": "Über Liebe und Hass",
     "composer_slug": ""
@@ -6208,6 +9046,14 @@
     "slug": "umberto-giordano/andrea-chenier",
     "title": "Andrea Chénier",
     "composer_slug": "umberto-giordano"
+  },
+  {
+    "slug": "umberto-giordano/mese-mariano",
+    "wikidata": "Q6821183",
+    "title": "Mese mariano",
+    "composer_slug": "umberto-giordano",
+    "world_premiere": "1910-03-17",
+    "world_premiere_house_slug": "teatro-massimo-palermo"
   },
   {
     "slug": "un-ballo-in-maschera",
@@ -6245,6 +9091,22 @@
     "composer_slug": ""
   },
   {
+    "slug": "valentino-bucchi/lettere-di-una-monaca-portoghese",
+    "wikidata": "Q109242865",
+    "title": "Lettere di una monaca portoghese",
+    "composer_slug": "valentino-bucchi",
+    "world_premiere": "1972-01-01",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "valentino-fioravanti/l-arte-contro-l-arte",
+    "wikidata": "Q109244828",
+    "title": "L'arte contro l'arte",
+    "composer_slug": "valentino-fioravanti",
+    "world_premiere": "1798-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
     "slug": "vasco-mendonca/hedda-gabler",
     "title": "Hedda Gabler",
     "composer_slug": "vasco-mendonca"
@@ -6257,6 +9119,16 @@
   {
     "slug": "verdi/aida",
     "title": "Aida",
+    "composer_slug": "verdi"
+  },
+  {
+    "slug": "verdi/don-carlo",
+    "title": "DON CARLO",
+    "composer_slug": "verdi"
+  },
+  {
+    "slug": "verdi/il-corsaro",
+    "title": "IL CORSARO",
     "composer_slug": "verdi"
   },
   {
@@ -6295,6 +9167,24 @@
     "composer_slug": "viktor-aslund"
   },
   {
+    "slug": "vincenzo-bellini-melodramma-in-due-atti/la-sonnambula",
+    "title": "La sonnambula",
+    "composer_slug": "vincenzo-bellini-melodramma-in-due-atti"
+  },
+  {
+    "slug": "vincenzo-bellini/beatrice-di-tenda",
+    "title": "Beatrice di Tenda",
+    "composer_slug": "vincenzo-bellini"
+  },
+  {
+    "slug": "vincenzo-bellini/bianca-e-fernando",
+    "wikidata": "Q794532",
+    "title": "Bianca e Fernando",
+    "composer_slug": "vincenzo-bellini",
+    "world_premiere": "1826-05-30",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
     "slug": "vincenzo-bellini/i-capuleti-e-i-montecchi",
     "title": "I Capuleti e i Montecchi",
     "composer_slug": "vincenzo-bellini"
@@ -6323,6 +9213,67 @@
     "slug": "vincenzo-bellini/the-capulets-and-the-montagues",
     "title": "THE CAPULETS AND THE MONTAGUES",
     "composer_slug": "vincenzo-bellini"
+  },
+  {
+    "slug": "vincenzo-bellini/zaira",
+    "wikidata": "Q144419",
+    "title": "Zaira",
+    "composer_slug": "vincenzo-bellini",
+    "world_premiere": "1829-05-16",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "vincenzo-fabrizi/amore-per-interesse",
+    "wikidata": "Q109244578",
+    "title": "Amore per interesse",
+    "composer_slug": "vincenzo-fabrizi",
+    "world_premiere": "1786-12-26",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "vincenzo-federici/l-olimpiade",
+    "wikidata": "Q5967643",
+    "title": "L’olimpiade",
+    "composer_slug": "vincenzo-federici",
+    "world_premiere": "1789-01-26",
+    "world_premiere_house_slug": "teatro-regio-torino"
+  },
+  {
+    "slug": "vincenzo-maria-noberasco/ezzelino-da-romano",
+    "wikidata": "Q136784865",
+    "title": "Ezzelino da Romano",
+    "composer_slug": "vincenzo-maria-noberasco",
+    "world_premiere": "1863-05-28",
+    "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "vincenzo-michetti/la-grazia",
+    "wikidata": "Q109002495",
+    "title": "La grazia",
+    "composer_slug": "vincenzo-michetti",
+    "world_premiere": "1923-03-31",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "vincenzo-pucitta/le-nozze-senza-sposa",
+    "wikidata": "Q109242199",
+    "title": "Le nozze senza sposa",
+    "composer_slug": "vincenzo-pucitta",
+    "world_premiere": "1800-01-01",
+    "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "virgilio-mortari/il-contratto",
+    "wikidata": "Q109002419",
+    "title": "Il contratto",
+    "composer_slug": "virgilio-mortari",
+    "world_premiere": "1964-04-18",
+    "world_premiere_house_slug": "teatro-dell-opera-di-roma"
+  },
+  {
+    "slug": "vittorio-montalti/un-romano-a-marte",
+    "title": "Un romano a Marte",
+    "composer_slug": "vittorio-montalti"
   },
   {
     "slug": "viva-la-diva",
@@ -6358,6 +9309,11 @@
     "slug": "w-a-mozart/the-marriage-of-figaro",
     "title": "The Marriage of Figaro",
     "composer_slug": "w-a-mozart"
+  },
+  {
+    "slug": "w-shakespeare/progetti-contemporanei",
+    "title": "Progetti contemporanei",
+    "composer_slug": "w-shakespeare"
   },
   {
     "slug": "wagner-gala-mit-catherine-foster",
@@ -6403,6 +9359,11 @@
     "slug": "weihnachtskonzert-opernfreunde",
     "title": "Weihnachtskonzert Opernfreunde",
     "composer_slug": ""
+  },
+  {
+    "slug": "weill-brecht/ascesa-e-caduta-della-citta-di-mahagonny",
+    "title": "ASCESA E CADUTA DELLA CITTÀ DI MAHAGONNY",
+    "composer_slug": "weill-brecht"
   },
   {
     "slug": "wen-liu/yum",
@@ -6485,13 +9446,43 @@
     "composer_slug": "wolfgang-amade-mozart"
   },
   {
+    "slug": "wolfgang-amadeus-mozart-e-di-gioachino-rossini/le-nozze-di-figaro-fantasia-in-un-atto",
+    "title": "Le Nozze di Figaro (Fantasia in un atto)",
+    "composer_slug": "wolfgang-amadeus-mozart-e-di-gioachino-rossini"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
     "title": "Die Zauberflöte",
     "composer_slug": "wolfgang-amadeus-mozart-libretto-von-eman"
   },
   {
+    "slug": "wolfgang-amadeus-mozart-o-sia-la-scuola-degli-amanti/cosi-fan-tutte",
+    "title": "Così fan tutte",
+    "composer_slug": "wolfgang-amadeus-mozart-o-sia-la-scuola-degli-amanti"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-opera-in-due-atti/die-zauberflote-il-flauto-magico",
+    "title": "Die Zauberflöte (Il flauto magico)",
+    "composer_slug": "wolfgang-amadeus-mozart-opera-in-due-atti"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-singspiel-in-un-atto-k-50/bastiano-e-bastiana",
+    "title": "Bastiano e Bastiana",
+    "composer_slug": "wolfgang-amadeus-mozart-singspiel-in-un-atto-k-50"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart-singspiel-in-un-atto-k-50/mozartiade",
+    "title": "Mozartiade",
+    "composer_slug": "wolfgang-amadeus-mozart-singspiel-in-un-atto-k-50"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/bastien-und-bastienne-the-telephone",
     "title": "Bastien und Bastienne / The Telephone",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/concerto-di-capodanno",
+    "title": "Concerto di Capodanno",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
@@ -6575,6 +9566,16 @@
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/il-flauto-magico",
+    "title": "Il Flauto Magico",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/il-ratto-dal-serraglio",
+    "title": "Il ratto dal serraglio",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito",
     "title": "La clemenza di Tito",
     "composer_slug": "wolfgang-amadeus-mozart"
@@ -6610,6 +9611,11 @@
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/oleg-caetani",
+    "title": "Oleg Caetani",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/parazsfuvolacska-the-magic-flute-for-children",
     "title": "Parázsfuvolácska (The Magic Flute for Children)",
     "composer_slug": "wolfgang-amadeus-mozart"
@@ -6637,6 +9643,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/titus",
     "title": "Titus",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/v-concerto",
+    "title": "V Concerto",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
@@ -6700,6 +9711,11 @@
     "composer_slug": "yana-shliabanska"
   },
   {
+    "slug": "zacharia-paliashvili/abesalom-ed-eteri",
+    "title": "Abesalom ed Eteri",
+    "composer_slug": "zacharia-paliashvili"
+  },
+  {
     "slug": "zara-ali/codeborn",
     "title": "Codeborn",
     "composer_slug": "zara-ali"
@@ -6718,5 +9734,10 @@
     "slug": "zsofia-taller/leander-and-linseed",
     "title": "Leander and Linseed",
     "composer_slug": "zsofia-taller"
+  },
+  {
+    "slug": "zygmunt-krauze/bona-sforza",
+    "title": "BONA SFORZA",
+    "composer_slug": "zygmunt-krauze"
   }
 ]

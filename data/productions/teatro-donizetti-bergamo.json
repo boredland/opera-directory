@@ -1,0 +1,269 @@
+[
+  {
+    "id": "teatro-donizetti-bergamo/alahor-in-granata/2026",
+    "work_slug": "gaetano-donizetti/alahor-in-granata",
+    "house_slug": "teatro-donizetti-bergamo",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.donizettiopera.org/it/evento/alahor-in-granata/",
+    "image_url": "https://www.donizettiopera.org/wp-content/themes/Avada/assets/images/logo.png",
+    "creative_team": [
+      {
+        "person_slug": "salvo-sgro",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chiara-cattani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marco-piemontese",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "benedetto-sicca-papa",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-giusti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "luigi-ferrigno",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "grisha-martirosyan",
+        "role_slug": "gaetano-donizetti/alahor-in-granata/alahor"
+      },
+      {
+        "person_slug": "dave-monaco",
+        "role_slug": "gaetano-donizetti/alahor-in-granata/alamar"
+      },
+      {
+        "person_slug": "laura-verrecchia",
+        "role_slug": "gaetano-donizetti/alahor-in-granata/muley-hassem"
+      },
+      {
+        "person_slug": "cristina-de-carolis",
+        "role_slug": "gaetano-donizetti/alahor-in-granata/sulima"
+      },
+      {
+        "person_slug": "mira-alkhovik",
+        "role_slug": "gaetano-donizetti/alahor-in-granata/zobeida"
+      }
+    ]
+  },
+  {
+    "id": "teatro-donizetti-bergamo/l-esule-di-roma/2026",
+    "work_slug": "gaetano-donizetti/l-esule-di-roma",
+    "house_slug": "teatro-donizetti-bergamo",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.donizettiopera.org/it/evento/l-esule-di-roma/",
+    "image_url": "https://www.donizettiopera.org/wp-content/themes/Avada/assets/images/logo.png",
+    "creative_team": [
+      {
+        "person_slug": "salvo-sgro",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-bartels",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "katharina-thoma",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiammetta-baldiserri",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lidia-fridman",
+        "role_slug": "gaetano-donizetti/l-esule-di-roma/argelia"
+      },
+      {
+        "person_slug": "vittoria-vimercati",
+        "role_slug": "gaetano-donizetti/l-esule-di-roma/leontina"
+      },
+      {
+        "person_slug": "luca-pisaroni",
+        "role_slug": "gaetano-donizetti/l-esule-di-roma/murena"
+      },
+      {
+        "person_slug": "sergey-romanovsky",
+        "role_slug": "gaetano-donizetti/l-esule-di-roma/settimio"
+      }
+    ]
+  },
+  {
+    "id": "teatro-donizetti-bergamo/le-convenienze-ed-inconvenienze-teatrali/2026",
+    "work_slug": "gaetano-donizetti/le-convenienze-ed-inconvenienze-teatrali",
+    "house_slug": "teatro-donizetti-bergamo",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.donizettiopera.org/it/evento/le-convenienze-ed-inconvenienze-teatrali/",
+    "image_url": "https://www.donizettiopera.org/wp-content/themes/Avada/assets/images/logo.png",
+    "creative_team": [
+      {
+        "person_slug": "alberto-zanardi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "omar-cepparolli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ilaria-ariemme",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "silvia-paoli",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiammetta-baldiserri",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eleonora-de-leo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "paolo-bordogna",
+        "role_slug": "gaetano-donizetti/le-convenienze-ed-inconvenienze-teatrali/agata"
+      },
+      {
+        "person_slug": "elene-gvritishvili",
+        "role_slug": "gaetano-donizetti/le-convenienze-ed-inconvenienze-teatrali/daria"
+      },
+      {
+        "person_slug": "mattia-venni",
+        "role_slug": "gaetano-donizetti/le-convenienze-ed-inconvenienze-teatrali/impresario"
+      }
+    ]
+  },
+  {
+    "id": "teatro-donizetti-bergamo/turandot/2027",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "teatro-donizetti-bergamo",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.teatrodonizetti.it/it/evento/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "riccardo-bianchi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nadir-dal-grande",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gianluca-moro",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "eduardo-niave",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "roberto-aronica",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "paolo-ingrasciotta",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "giacomo-leone",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "baopeng-wang",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "caterina-meldolesi",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "libby-sokolowski",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "francesco-la-gattuta",
+        "role_slug": "giacomo-puccini/turandot/un-mandarino"
+      }
+    ]
+  },
+  {
+    "id": "teatro-donizetti-bergamo/un-ballo-in-maschera/2027",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "teatro-donizetti-bergamo",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.teatrodonizetti.it/it/evento/un-ballo-in-maschera/",
+    "creative_team": [
+      {
+        "person_slug": "maximiliano-banos",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-solinas",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "roberto-catalano",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alessia-battini",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
+      },
+      {
+        "person_slug": "yuer-ye",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
+      },
+      {
+        "person_slug": "jun-young-choi",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/renato"
+      },
+      {
+        "person_slug": "carlo-raffaelli",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/riccardo"
+      },
+      {
+        "person_slug": "graziano-dallavalle",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/samuel"
+      },
+      {
+        "person_slug": "maurizio-bove",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/silvano"
+      },
+      {
+        "person_slug": "diego-maffezzoni",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/tom"
+      },
+      {
+        "person_slug": "ioanna-kykna",
+        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
+      }
+    ]
+  }
+]
