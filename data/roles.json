@@ -375,6 +375,21 @@
     "name": "Schlagzeug"
   },
   {
+    "slug": "akos-hoffmann/die-kleine-meerjungfrau/erzahlerin",
+    "work_slug": "akos-hoffmann/die-kleine-meerjungfrau",
+    "name": "Erzählerin"
+  },
+  {
+    "slug": "akos-hoffmann/die-kleine-meerjungfrau/orchester",
+    "work_slug": "akos-hoffmann/die-kleine-meerjungfrau",
+    "name": "Orchester"
+  },
+  {
+    "slug": "akos-hoffmann/die-kleine-meerjungfrau/szenische-gestaltung",
+    "work_slug": "akos-hoffmann/die-kleine-meerjungfrau",
+    "name": "Szenische Gestaltung"
+  },
+  {
     "slug": "alan-menken/a-notre-dame-i-toronyor/a-demon-vizkopo",
     "work_slug": "alan-menken/a-notre-dame-i-toronyor",
     "name": "A Démon Vízköpő"
@@ -5833,6 +5848,16 @@
     "slug": "daniel-bjarnason/passion-of-the-common-man/tenor",
     "work_slug": "daniel-bjarnason/passion-of-the-common-man",
     "name": "Tenor"
+  },
+  {
+    "slug": "das-kind-und-das-ding/kind",
+    "work_slug": "das-kind-und-das-ding",
+    "name": "Kind"
+  },
+  {
+    "slug": "das-kind-und-das-ding/regie-und-libretto",
+    "work_slug": "das-kind-und-das-ding",
+    "name": "Regie und Libretto"
   },
   {
     "slug": "das-lehrerzimmer/ali",
@@ -25080,6 +25105,26 @@
     "name": "Orchester"
   },
   {
+    "slug": "kinsun-chan/parts-and-pieces/choreografie-konzept",
+    "work_slug": "kinsun-chan/parts-and-pieces",
+    "name": "Choreografie & Konzept"
+  },
+  {
+    "slug": "kinsun-chan/parts-and-pieces/choreografische-assistenz",
+    "work_slug": "kinsun-chan/parts-and-pieces",
+    "name": "Choreografische Assistenz"
+  },
+  {
+    "slug": "kinsun-chan/parts-and-pieces/solo-pianist",
+    "work_slug": "kinsun-chan/parts-and-pieces",
+    "name": "Solo-Pianist"
+  },
+  {
+    "slug": "kinsun-chan/parts-and-pieces/tanzer-innen",
+    "work_slug": "kinsun-chan/parts-and-pieces",
+    "name": "Tänzer*innen"
+  },
+  {
     "slug": "klangvolles-musik-shy-abenteuer/musikalische-leitung-akkordeon-und-klavier",
     "work_slug": "klangvolles-musik-shy-abenteuer",
     "name": "Musikalische Leitung, Akkordeon und Klavier"
@@ -27650,6 +27695,11 @@
     "name": "Prisoner 2"
   },
   {
+    "slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-autorin-maike-graf-dramaturgie",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Regie Kerstin Steeb Bühne und Video Christopher Dippert Kostüme Sofia Dorazio Brockhausen Autorin Maike Graf Dramaturgie"
+  },
+  {
     "slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-dramaturgie",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Regie Kerstin Steeb Bühne und Video Christopher Dippert Kostüme Sofia Dorazio Brockhausen Dramaturgie"
@@ -29083,6 +29133,16 @@
     "slug": "moderierte-kammermusik-in-der-tischlerei/6-tischlereikonzert-quergeister/violoncello",
     "work_slug": "moderierte-kammermusik-in-der-tischlerei/6-tischlereikonzert-quergeister",
     "name": "Violoncello"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/a-scrivener",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "A Scrivener"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/marfa",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Marfa"
   },
   {
     "slug": "modest-musorgsky/sorochintsy-fair/a-gypsy",

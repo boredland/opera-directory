@@ -608,6 +608,125 @@
     ]
   },
   {
+    "id": "semperoper-dresden/62704",
+    "work_slug": "kinsun-chan/parts-and-pieces",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/parts-and-pieces/62704.html",
+    "creative_team": [
+      {
+        "person_slug": "christian-kass",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anja-jungheinrich",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "kinsun-chan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kinsun-chan",
+        "role_slug": "kinsun-chan/parts-and-pieces/choreografie-konzept"
+      },
+      {
+        "person_slug": "jacqueline-lopez",
+        "role_slug": "kinsun-chan/parts-and-pieces/choreografische-assistenz"
+      },
+      {
+        "person_slug": "gianmarco-rughetti",
+        "role_slug": "kinsun-chan/parts-and-pieces/solo-pianist"
+      },
+      {
+        "person_slug": "anastasiia-turianska",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "anna-katherine-mccoy",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "carl-becker",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "chang-yuan-lin",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "christian-bauch",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "damiano-felici",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "dustin-eliot",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "gloria-todeschini",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "juan-sebastian-valdez",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "kanata-ijima",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "madoka-ishikawa",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "magdalen-wood",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "mattia-baccon",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "mira-speyer",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "niko-adachi",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "samantha-eve",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "santiago-rousselbin",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "sarika-emi",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "sava-milojevic",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "vincenzo-mola",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      },
+      {
+        "person_slug": "yazmin-verhage",
+        "role_slug": "kinsun-chan/parts-and-pieces/tanzer-innen"
+      }
+    ]
+  },
+  {
     "id": "semperoper-dresden/62706",
     "work_slug": "georges-bizet/carmen",
     "house_slug": "semperoper-dresden",

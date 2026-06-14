@@ -9,6 +9,15 @@
     "cast": []
   },
   {
+    "id": "oper-halle/arien-und-aperol",
+    "work_slug": "arien-und-aperol",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/arien-und-aperol/272278",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/cafe-international",
     "work_slug": "cafe-international",
     "house_slug": "oper-halle",
@@ -31,7 +40,7 @@
     "work_slug": "handel-lounge",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276989",
+    "detail_url": "https://www.buehnen-halle.de/de/program/handel-lounge/276990",
     "creative_team": [],
     "cast": []
   },
@@ -104,6 +113,15 @@
     "house_slug": "oper-halle",
     "is_revival": false,
     "detail_url": "https://www.buehnen-halle.de/de/program/papageno-spielt-auf-der-zauberflote/260964",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/rigoletto",
+    "work_slug": "giuseppe-verdi-termine-karten-figure-clas/rigoletto",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/rigoletto/274000",
     "creative_team": [],
     "cast": []
   },

@@ -254,6 +254,49 @@
     ]
   },
   {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "work_slug": "akos-hoffmann/die-kleine-meerjungfrau",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/die-kleine-meerjungfrau/367",
+    "creative_team": [
+      {
+        "person_slug": "christoph-johannes-eichhorn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vanessa-raths",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "romy-sarakacianis",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "frank-schmutzler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sabine-topfer",
+        "role_slug": "akos-hoffmann/die-kleine-meerjungfrau/erzahlerin"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "akos-hoffmann/die-kleine-meerjungfrau/orchester"
+      },
+      {
+        "person_slug": "anna-evans",
+        "role_slug": "akos-hoffmann/die-kleine-meerjungfrau/szenische-gestaltung"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/eurydike-795",
     "work_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike",
     "house_slug": "oper-leipzig",
@@ -678,6 +721,15 @@
         "role_slug": "lauschkonzert/orchester"
       }
     ]
+  },
+  {
+    "id": "oper-leipzig/musikalischer-vorspann-917",
+    "work_slug": "musikalischer-vorspann",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/musikalischer-vorspann/917",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "oper-leipzig/regina-811",

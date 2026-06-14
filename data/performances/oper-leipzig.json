@@ -77,6 +77,27 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367/2026-06-17/10:00",
+    "production_id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "date": "2026-06-17",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367/2026-06-18/10:00",
+    "production_id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "date": "2026-06-18",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367/2026-09-04/10:00",
+    "production_id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "date": "2026-09-04",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -259,6 +280,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/musikalischer-vorspann-917/2026-06-18/21:30",
+    "production_id": "oper-leipzig/musikalischer-vorspann-917",
+    "date": "2026-06-18",
+    "time": "21:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/regina-811/2026-04-25/19:00",
     "production_id": "oper-leipzig/regina-811",
     "date": "2026-04-25",
@@ -297,6 +325,13 @@
     "id": "oper-leipzig/strangers-in-the-night-788/2026-06-16/19:30",
     "production_id": "oper-leipzig/strangers-in-the-night-788",
     "date": "2026-06-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-06-19/19:30",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-06-19",
     "time": "19:30",
     "status": "scheduled"
   },

@@ -213,10 +213,10 @@
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-bohema",
     "work_slug": "giacomo-puccini/la-boheme",
     "house_slug": "mariinsky-theatre",
-    "premiere_date": "2025-01-08",
+    "premiere_date": "2001-03-15",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/13/3_1901/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/bohema/semistaged/new_version_vzyatysheva_2025/_boheme_kz_25_titul_by_vilchuk.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/13/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/bohema/2022_bogema.jpg",
     "synopsis": "The opera is set in Paris in the 1930s. Act I An attic in the Latin Quarter; Christmas Eve Rodolfo and Marcello complain of the bitter cold. They need to light their stove: Marcello suggests using a chair, but Rodolfo offers the manuscript of the play he is writing and they banter ironically as they enjoy the fleeting warmth. Colline enters and the remaining acts of the play are burnt. Colline brings wood, cigars and wine, followed by Schaunard, who explains that an Englishman engaged him to play his violin incessantly, to hasten the death of a neighbour&rsquo;s noisy parrot: after three days he had the bird poisoned. The friends&rsquo; decision to eat in the Latin Quarter is interrupted by Benoit, their landlord who has come for the rent. They ply him with wine until he boasts of his amorous conquests: he prefers plump women to skinny ones like his wife. The Bohemians pretend outrage at Benoit&rsquo;s infidelity and push him out. They prepare to leave for the Cafè Momus, but Rodolfo says he will stay behind to finish writing an article. There is a noise outside the door. It is a girl who asks for a light for her candle; she feels faint after climbing the stairs. As she is leaving, her candle flickers out again and she realises she has lost her key. Rodolfo&rsquo;s candle goes out too as he helps her. He takes her cold hand and tells her of his life as a poet. She says her name is Mimì and describes her simple life as a flower embroiderer. The voices of Rodolfo&rsquo;s friends are heard, telling him to hurry. He answers and turns to find Mimì bathed in moonlight. They declare their love for each other. Mimì asks if she may join the four friends in the Cafè Momus. Rodolfo at first wants to stay, but eventually they leave, singing of love. Act II The Cafè Momus in the Latin Quarter It is a bustling Christmas scene; hawkers and traders advertise their wares; Rodolfo and Mimì wander through the crowd. They sit down and order dinner. Rodolfo introduces Mimì to his friend",
     "creative_team": [
       {
@@ -224,8 +224,20 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "alexandra-vzyatysheva",
+        "person_slug": "gianandrea-noseda",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ian-judge",
         "function": "director"
+      },
+      {
+        "person_slug": "nigel-levings",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tim-goodchild",
+        "function": "set-designer"
       }
     ],
     "cast": [
@@ -238,7 +250,7 @@
         "role_slug": "giacomo-puccini/la-boheme/mimi"
       },
       {
-        "person_slug": "valeria-lebedeva",
+        "person_slug": "valeria-lebedieva",
         "role_slug": "giacomo-puccini/la-boheme/musetta"
       },
       {
@@ -792,7 +804,7 @@
         "role_slug": "giacomo-meyerbeer/les-huguenots/marcel"
       },
       {
-        "person_slug": "anastasia-kalagina",
+        "person_slug": "antonina-vesenina",
         "role_slug": "giacomo-meyerbeer/les-huguenots/marguerite-de-valois"
       },
       {
@@ -931,7 +943,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2022-07-27",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/13/1_1200/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/9/1_1900/",
     "synopsis": "Act I In the palace of Mustafa , Bey of Algiers, the ruler has grown weary of his obedient and modest wife Elvira and desires to marry a daring and seductive Italian. He orders his corsair captain Ali to find him a foreign beauty. Mustafa offers his favorite Italian slave, Lindoro, Elvira's hand in marriage. Resisting the ruler's whim, Lindoro lists the qualities his bride should possess, but Mustafa leaves the youth with no choice. On the seashore, corsairs led by Ali divide the spoils from a shipwreck. Among the captives is the Italian Isabella, who set out in search of her beloved Lindoro accompanied by her new suitor Taddeo, who she presents as her uncle. Taddeo is terrified at the thought of captivity, but Isabella is confident in her power over any man. In the Bey's palace , neither Lindoro, faithful to his beloved, nor Elvira, whose heart belongs to Mustafa, wish to unite their destinies. However, when the Bey promises to send Lindoro back to his homeland with a bag of gold if he takes Elvira with him, Lindoro agrees. The Bey is informed of the captured Italian woman. In despair, Elvira begs Lindoro to bid Mustafa farewell before leaving. The Bey's concubines and eunuchs praise the invincible Bey. Isabella captivates Mustafa with her beauty; he completely loses his head and immediately grants her request to pardon Taddeo, who had angered captain Ali. Lindoro, arriving with Elvira and Zulma to bid the Bey farewell, unexpectedly encounters his beloved. Discovering that Mustafa is ready to forsake his wife for her, Isabella rejects his advances and demands the slave Lindoro for herself. Mustafa, driven mad with passion, becomes the laughingstock of all: from a lion, he has turned into a donkey. Act II In the palace, they discuss Mustafa's romantic follies. Ali assures Elvira that the cunning Italian will soon be exposed. Mustafa sends Isabella an invitation to coffee, boasting that he will soon conquer the beauty. Meanwhile, Lindoro tries to convince Isabella th",
     "creative_team": [
       {
@@ -963,36 +975,7 @@
         "function": "video-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "yulia-suleimanova",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/elvira"
-      },
-      {
-        "person_slug": "pavel-shmulevich",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/haly"
-      },
-      {
-        "person_slug": "tsvetana-omeltchuk",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/isabella"
-      },
-      {
-        "person_slug": "denis-zakirov",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/lindoro"
-      },
-      {
-        "person_slug": "yakov-strizhak",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/mustafa"
-      },
-      {
-        "person_slug": "vladimir-moroz",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/taddeo"
-      },
-      {
-        "person_slug": "anna-shulgina",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/zulma"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-jiznzatsarja",
@@ -1037,6 +1020,52 @@
       {
         "person_slug": "yekaterina-sergeyeva",
         "role_slug": "mikhail-glinka/a-life-for-the-tsar/vanya"
+      }
+    ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-khovanshina",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1952-07-13",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/8/2/2_1700/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/khovanshina/khovan_semenchuk_by_razina.jpg",
+    "synopsis": "Act I Red Square in Moscow. Dawn. The boyar Shaklovity – a protégé of Tsarevna Sofia – is dictating an anonymous letter to Peter I in which he denounces the head of the streltsys (a privileged military core instituted by Ivan the Terrible) Ivan Khovansky for planning to place this son on the throne and re-establish the old order in Russia. At the same time, the streltsys scouts praise themselves for their recent victory over the loathsome boyars. In memory of these bloody events a column is erected on the square onto which the names of the executed are carved. Strangers just arriving halt at the column. They make the scrivener read out the words to them. In gloomy contemplation they are struck down by the thought of sedition and the streltsys &rsquo; despotism. To welcoming cries from the streltsy Prince Ivan Khovansky appears. He is followed by his son Andrei who is pursuing his love for Emma, a girl from the German sloboda . Through his promises and threats he will win Emma&rsquo;s love. Marfa, Andrei&rsquo;s new sweetheart, comes to her defence. Returning, Ivan Khovansky witnesses this scene. He himself has taken a fancy to Emma, but Andrei is ready to kill her rather than let his father have her. The knife held over the girl is imperiously removed by Dosifei, the leader of the dissenters. Act II The study of Prince Vasily Golitsyn, the favourite of Tsarevna Sofia. The Prince is immersed in gloomy thoughts and he is seized by a fear of the future. The pastor from the German sloboda comes to him with a complaint about the Khovanskys&rsquo; arbitrariness, but the Prince does not with to hear him. Marfa comes into the chamber through a secret door. Under the guise of a fortune-teller, Marfa predicts the Prince will face disgrace. Superstitious, Golitsyn is left confused. In order to keep the prophesy a secret he orders a servant to kill the fortune-teller, but Marfa manages to conceal herself. At Golitsyn&rsquo;s house the opponents of Peter I have assembled. Golits",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "leonid-baratov",
+        "function": "director"
+      },
+      {
+        "person_slug": "yuri-laptev",
+        "function": "director"
+      },
+      {
+        "person_slug": "vladimir-lukasevich",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "fyodor-fyodorovsky",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "modest-musorgsky/khovanshchina/a-scrivener"
+      },
+      {
+        "person_slug": "ekaterina-semenchuk",
+        "role_slug": "modest-musorgsky/khovanshchina/marfa"
       }
     ]
   },
@@ -1558,7 +1587,7 @@
     "premiere_date": "1997-05-11",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/2_1700/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/parsifal/1_parsifal_banner.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/parsifal/parsifal_vekua_scene_by_vilchuk.png",
     "synopsis": "The devout king Titurel has received two wondrous relics from the Angels, the Holy Grail (the cup from which Christ drank at the Last Supper and in which his blood was caught when he was crucified) and the spear with which his side was pierced. They are kept in the Castle of the Grail. Titurel has founded a Brotherhood of Knights who, miraculously strengthened by the relics, ride out into the world to help those in distress. The knight Klingsor tried to gain acceptance into the Brotherhood, but could not fulfil the law of chastity and so castrated himself in order to kill off his lustful desires. Titurel turned him away, and in revenge Klingsor transformed part of the surrounding wilderness into a magic castle and garden. Here he has created bewitching young maidens whose purpose is to seduce the knights, and he ultimately hopes to gain possession of the Grail. Amfortas, having taken over as king of the Grail from his father Titurel, sees that an increasing number of knights are falling under Klingsor&acute;s power and so leaves to do battle with the evil magician, armed with the sacred spear. However, he is seduced by a mysterious maiden. Klingsor seizes the spear and inflicts a wound in Amfortas&acute; side. This wound will not close, and the king is left in agony. Act One – Autumn A clearing near the Castle of the Grail. Gurnemanz, an elderly knight, rouses the squires from morning prayer and instructs them to prepare for the king&acute;s daily bath in the Holy Lake. A woman comes riding by in a great hurry. It is Kundry, enigmatic messenger of the knights of the Grail. She selflessly undergoes tribulation to serve the Brotherhood, yet always remains abrupt and cold. She has brought a balsam from afar in an attempt to heal the wounded Amfortas, and falls to the ground exhausted. The king is borne in on a litter. He has spent another night in great pain; a medicinal herb brought to him by the knight Gawain has proved to be ineffective. He now wants to try the bals",
     "creative_team": [
       {
@@ -1582,7 +1611,16 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "mikhail-vekua",
+        "role_slug": "richard-wagner/parsifal/parsifal"
+      },
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "richard-wagner/parsifal/titurel"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-pdame2015",
@@ -1831,10 +1869,6 @@
       },
       {
         "person_slug": "konstantin-rylov",
-        "function": "chorus-master"
-      },
-      {
-        "person_slug": "pavel-teplov",
         "function": "chorus-master"
       },
       {

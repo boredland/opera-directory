@@ -726,6 +726,15 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-berlin/familienfuehrung-17896236",
+    "work_slug": "treffpunkt-kassenhalle/familienfuhrung",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/familienfuehrung.17896236",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-berlin/fuehrung-17896189",
     "work_slug": "treffpunkt-kassenhalle/fuhrung",
     "house_slug": "deutsche-oper-berlin",
@@ -740,6 +749,15 @@
     "house_slug": "deutsche-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/fuehrung.17896190",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-berlin/fuehrung-17896191",
+    "work_slug": "treffpunkt-kassenhalle/fuhrung",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/fuehrung.17896191",
     "creative_team": [],
     "cast": []
   },
@@ -1358,6 +1376,97 @@
       },
       {
         "person_slug": "seungeun-oh",
+        "role_slug": "giacomo-puccini/turandot/zweite-damenstimme"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-berlin/turandot-17823748",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/turandot.17823748",
+    "creative_team": [
+      {
+        "person_slug": "christian-lindhorst",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "daniel-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-gault",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lorenzo-fioroni",
+        "function": "director"
+      },
+      {
+        "person_slug": "paul-zoller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "clemens-bieber",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "seokjong-baek",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/turandot/chore"
+      },
+      {
+        "person_slug": "jeremy-bines",
+        "role_slug": "giacomo-puccini/turandot/chore"
+      },
+      {
+        "person_slug": "kinderchor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/turandot/chore"
+      },
+      {
+        "person_slug": "volodymyr-morozov",
+        "role_slug": "giacomo-puccini/turandot/ein-mandarin"
+      },
+      {
+        "person_slug": "gyumi-park",
+        "role_slug": "giacomo-puccini/turandot/erste-damenstimme"
+      },
+      {
+        "person_slug": "nina-solodovnikova",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/turandot/orchester"
+      },
+      {
+        "person_slug": "kangyoon-shine-lee",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "michael-bachtadze",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "thomas-cilluffo",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "byung-gil-kim",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "catherine-foster",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      },
+      {
+        "person_slug": "asahi-wada",
         "role_slug": "giacomo-puccini/turandot/zweite-damenstimme"
       }
     ]
