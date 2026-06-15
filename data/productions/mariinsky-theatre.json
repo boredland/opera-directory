@@ -657,7 +657,7 @@
     ],
     "cast": [
       {
-        "person_slug": "tba",
+        "person_slug": "akhmed-agadi",
         "role_slug": "giuseppe-verdi/la-forza-del-destino/don-alvaro"
       },
       {
@@ -1550,7 +1550,7 @@
         "role_slug": "giuseppe-verdi/otello/iago"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "yevgeny-nikitin",
         "role_slug": "giuseppe-verdi/otello/lodovico"
       },
       {
@@ -2271,7 +2271,7 @@
     ],
     "cast": [
       {
-        "person_slug": "akhmed-agadi",
+        "person_slug": "karlen-manukyan",
         "role_slug": "giacomo-puccini/turandot/calaf"
       },
       {
@@ -2406,7 +2406,28 @@
     "image_url": "https://www.mariinsky.ru/images/cms/data/concerts900/kz/zory_ru1.jpg",
     "synopsis": "Setting – Karelia Time – 1942 and the present day Prologue There are some tourists at a pier on Lake Legontovo. One of them is singing &ldquo;Again night passes over the dark fields.&rdquo; A veteran soldier appears, followed by four girls dressed in forage-caps and overcoats in the style of 1942. One of them calls on the rest to remember the war: &ldquo;May the living recall and may generations know the bleak truth of this battle won by soldiers.&rdquo; Part I A hut which is home to women anti-aircraft gunners. There is a comfortable, non-army atmosphere and the girls are singing &ldquo;In the skies the sun&rsquo;s rays have brightened.&rdquo; Lyuda Yolkina jokingly tells her friends of a date she has been on. Vaskov appears; he tries to be stern with his staff and reminds them of regulations. &ldquo;You remember? The female sex...&rdquo; they reply to him. The commandant leaves, waving his arm at them. The girls joke and gossip until a squabble erupts. Sonya, trying to calm the arguing women, reads a poem – Blok&rsquo;s My Darling, My Prince, My Bridegroom. Subsequently the action unfolds in parallel in the girls&rsquo; room and Vaskov&rsquo;s hut. Marya and the commandant speak of a woman&rsquo;s duty during war. Polina brings the girls a gramophone. Hearing the music, the commandant resolves to put a stop to his staff&rsquo;s amusement and sets off to the girls&rsquo; quarters. Zhenka sings a romance to the famous poem by Simonov Wait for Me. The girls are dancing to the gramophone. Vaskov appears and the girls are embarrassed. Liza, who is in love with the sergeant-major, attempts to offer some hospitality, but Rita demonstratively insists it is late: &ldquo;Regulations!&rdquo; All depart. Zhenka meets Rita in secret and takes her into town for a date at night. The sergeant-major is distressed that he cannot find a common language with his staff. He tells Marya about his wife&rsquo;s infidelity and the death of his child: &ldquo;here I have forgotten how people",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "maria-bayankina",
+        "role_slug": "kirill-molchanov/the-dawns-here-are-quiet/liza-brichkina"
+      },
+      {
+        "person_slug": "irina-shishkova",
+        "role_slug": "kirill-molchanov/the-dawns-here-are-quiet/rita-osyanina"
+      },
+      {
+        "person_slug": "margarita-ivanova",
+        "role_slug": "kirill-molchanov/the-dawns-here-are-quiet/sonia-gurvich"
+      },
+      {
+        "person_slug": "andrei-serov",
+        "role_slug": "kirill-molchanov/the-dawns-here-are-quiet/vaskov"
+      },
+      {
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "kirill-molchanov/the-dawns-here-are-quiet/zhenka-komelkova"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-the-rake-s-progress",

@@ -21,6 +21,13 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-aida/2027-04-11/18:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-aida",
+    "date": "2027-04-11",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-carmen/2026-06-18/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-carmen",
     "date": "2026-06-18",
@@ -38,6 +45,13 @@
     "id": "latvian-national-opera/latvian-national-opera-carmen/2026-12-17/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-carmen",
     "date": "2026-12-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-carmen/2027-01-08/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-carmen",
+    "date": "2027-01-08",
     "time": "19:00",
     "status": "scheduled"
   },
@@ -70,6 +84,13 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-cavalleria-rusticana-pagliacci/2027-01-13/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-cavalleria-rusticana-pagliacci",
+    "date": "2027-01-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-der-rosenkavalier/2026-10-08/18:00",
     "production_id": "latvian-national-opera/latvian-national-opera-der-rosenkavalier",
     "date": "2026-10-08",
@@ -91,6 +112,13 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-der-rosenkavalier/2027-03-25/18:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-der-rosenkavalier",
+    "date": "2027-03-25",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-la-boheme/2026-06-17/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-la-boheme",
     "date": "2026-06-17",
@@ -108,6 +136,13 @@
     "id": "latvian-national-opera/latvian-national-opera-la-boheme/2026-10-22/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-la-boheme",
     "date": "2026-10-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-la-boheme/2027-01-28/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-la-boheme",
+    "date": "2027-01-28",
     "time": "19:00",
     "status": "scheduled"
   },
@@ -133,6 +168,13 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-la-traviata/2027-02-03/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-la-traviata",
+    "date": "2027-02-03",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-lelisir-damore/2026-06-12/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-lelisir-damore",
     "date": "2026-06-12",
@@ -154,9 +196,37 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-lelisir-damore/2027-01-21/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-lelisir-damore",
+    "date": "2027-01-21",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-les-contes-dhoffmann/2026-10-16/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-les-contes-dhoffmann",
     "date": "2026-10-16",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-les-contes-dhoffmann/2027-02-06/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-les-contes-dhoffmann",
+    "date": "2027-02-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-macbeth/2027-01-23/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-macbeth",
+    "date": "2027-01-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-macbeth/2027-03-05/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-macbeth",
+    "date": "2027-03-05",
     "time": "19:00",
     "status": "scheduled"
   },
@@ -172,6 +242,34 @@
     "production_id": "latvian-national-opera/latvian-national-opera-nabucco",
     "date": "2026-12-20",
     "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-nabucco/2027-01-16/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-nabucco",
+    "date": "2027-01-16",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-nabucco/2027-03-03/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-nabucco",
+    "date": "2027-03-03",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-rosa-alchemica/2027-05-20/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-rosa-alchemica",
+    "date": "2027-05-20",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-rosa-alchemica/2027-05-21/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-rosa-alchemica",
+    "date": "2027-05-21",
+    "time": "19:00",
     "status": "scheduled"
   },
   {
@@ -224,6 +322,13 @@
     "status": "scheduled"
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-tosca/2027-02-13/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-tosca",
+    "date": "2027-02-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-turandot/2026-09-11/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-turandot",
     "date": "2026-09-11",
@@ -234,6 +339,48 @@
     "id": "latvian-national-opera/latvian-national-opera-turandot/2026-11-06/19:00",
     "production_id": "latvian-national-opera/latvian-national-opera-turandot",
     "date": "2026-11-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-turandot/2027-02-11/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-turandot",
+    "date": "2027-02-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-turandot/2027-03-21/18:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-turandot",
+    "date": "2027-03-21",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera/2027-02-25/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera",
+    "date": "2027-02-25",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera/2027-02-26/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera",
+    "date": "2027-02-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera/2027-02-27/15:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera",
+    "date": "2027-02-27",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera/2027-03-19/19:00",
+    "production_id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera",
+    "date": "2027-03-19",
     "time": "19:00",
     "status": "scheduled"
   }

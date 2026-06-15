@@ -509,7 +509,7 @@
     "house_slug": "latvian-national-opera",
     "is_revival": false,
     "detail_url": "https://www.opera.lv/en/production/der-rosenkavalier/",
-    "image_url": "https://cdn.opera.lv/shows/large_rozes-kavalieris_3fafb3a.jpg",
+    "image_url": "https://cdn.opera.lv/shows/large_rozes-kavalieris_3ff11ce.jpg",
     "creative_team": [
       {
         "person_slug": "elina-gedina",
@@ -1831,6 +1831,37 @@
     ]
   },
   {
+    "id": "latvian-national-opera/latvian-national-opera-rosa-alchemica",
+    "work_slug": "krists-auznieks/rosa-alchemica",
+    "house_slug": "latvian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.lv/en/production/rosa-alchemica/",
+    "image_url": "https://cdn.opera.lv/shows/large_rosa-alchemica_62ed2f7.jpg",
+    "creative_team": [
+      {
+        "person_slug": "aigars-meri",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aivis-greters",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "davis-simanis",
+        "function": "director"
+      },
+      {
+        "person_slug": "niks-cipruss",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "monika-korpa",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "latvian-national-opera/latvian-national-opera-salome",
     "work_slug": "richard-strauss/salome",
     "house_slug": "latvian-national-opera",
@@ -2425,5 +2456,40 @@
         "role_slug": "giacomo-puccini/turandot/turandot"
       }
     ]
+  },
+  {
+    "id": "latvian-national-opera/latvian-national-opera-un-ballo-in-maschera",
+    "work_slug": "giuseppe-verdi/un-ballo-in-maschera",
+    "house_slug": "latvian-national-opera",
+    "is_revival": false,
+    "detail_url": "https://www.opera.lv/en/production/un-ballo-in-maschera/",
+    "image_url": "https://cdn.opera.lv/shows/large_masku-balle_56c612e.jpg",
+    "creative_team": [
+      {
+        "person_slug": "michele-cosentino",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "martins-ozolins",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lorena-marin",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marina-bianchi",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrea-borelli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "leila-fteita",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   }
 ]

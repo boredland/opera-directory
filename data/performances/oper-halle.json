@@ -28,6 +28,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-halle/die-hochzeit-des-figaro/2026-09-15/17:30",
+    "production_id": "oper-halle/die-hochzeit-des-figaro",
+    "date": "2026-09-15",
+    "time": "17:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-halle/die-kinder-des-monsieur-mathieu/2026-06-20/18:00",
     "production_id": "oper-halle/die-kinder-des-monsieur-mathieu",
     "date": "2026-06-20",
@@ -46,6 +53,13 @@
     "production_id": "oper-halle/die-kinder-des-monsieur-mathieu",
     "date": "2026-07-01",
     "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-halle/die-kinder-des-monsieur-mathieu/2026-09-06/15:00",
+    "production_id": "oper-halle/die-kinder-des-monsieur-mathieu",
+    "date": "2026-09-06",
+    "time": "15:00",
     "status": "scheduled"
   },
   {

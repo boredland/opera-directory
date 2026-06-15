@@ -953,6 +953,73 @@
     ]
   },
   {
+    "id": "komische-oper-berlin/mokka-hits-1471",
+    "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/mokka-hits/1471/",
+    "creative_team": [
+      {
+        "person_slug": "christopher-tolle",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "wolfgang-behrens",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "johannes-scherfling",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "saskia-wunsch",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "inga-diestel",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/chore"
+      },
+      {
+        "person_slug": "eleonore-turri",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/innen"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/komparserie"
+      },
+      {
+        "person_slug": "mariana-souza",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/mitarbeit-choreografie"
+      },
+      {
+        "person_slug": "adam-benzwi",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/musikalische-leitung-und-arrangement"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/orchester"
+      },
+      {
+        "person_slug": "daniel-busch",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/orchestration"
+      },
+      {
+        "person_slug": "axel-ranisch",
+        "role_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/szenische-einrichtung"
+      }
+    ]
+  },
+  {
     "id": "komische-oper-berlin/nils-holgerssons-wundersame-abenteuer-1165",
     "work_slug": "elena-kats-chernin/nils-holgerssons-wundersame-abenteuer",
     "house_slug": "komische-oper-berlin",

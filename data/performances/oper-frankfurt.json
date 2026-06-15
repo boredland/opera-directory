@@ -748,6 +748,12 @@
     "status": "few_left"
   },
   {
+    "id": "oper-frankfurt/der-zar-die-kluge/2026-06-14/",
+    "production_id": "oper-frankfurt/der-zar-die-kluge",
+    "date": "2026-06-14",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/der-zar-die-kluge/2026-06-14/18:00",
     "production_id": "oper-frankfurt/der-zar-die-kluge",
     "date": "2026-06-14",
@@ -1439,6 +1445,12 @@
     "id": "oper-frankfurt/konzerte-kammermusik/2026-05-03/",
     "production_id": "oper-frankfurt/konzerte-kammermusik",
     "date": "2026-05-03",
+    "status": "past"
+  },
+  {
+    "id": "oper-frankfurt/konzerte-kammermusik/2026-06-14/",
+    "production_id": "oper-frankfurt/konzerte-kammermusik",
+    "date": "2026-06-14",
     "status": "past"
   },
   {

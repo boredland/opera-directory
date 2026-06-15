@@ -126,6 +126,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/eurydike-795/2026-06-26/19:30",
+    "production_id": "oper-leipzig/eurydike-795",
+    "date": "2026-06-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/faust-eine-deutsche-volkssage-808/2026-06-05/19:30",
     "production_id": "oper-leipzig/faust-eine-deutsche-volkssage-808",
     "date": "2026-06-05",
@@ -172,6 +179,27 @@
     "production_id": "oper-leipzig/giulio-cesare-in-egitto-584",
     "date": "2026-06-27",
     "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hausfuhrung-oper-639/2026-06-20/14:00",
+    "production_id": "oper-leipzig/hausfuhrung-oper-639",
+    "date": "2026-06-20",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hausfuhrung-oper-639/2026-08-29/14:00",
+    "production_id": "oper-leipzig/hausfuhrung-oper-639",
+    "date": "2026-08-29",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hausfuhrung-oper-639/2026-09-19/14:00",
+    "production_id": "oper-leipzig/hausfuhrung-oper-639",
+    "date": "2026-09-19",
+    "time": "14:00",
     "status": "scheduled"
   },
   {
@@ -332,6 +360,13 @@
     "id": "oper-leipzig/strangers-in-the-night-788/2026-06-19/19:30",
     "production_id": "oper-leipzig/strangers-in-the-night-788",
     "date": "2026-06-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-06-30/19:30",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-06-30",
     "time": "19:30",
     "status": "scheduled"
   },
