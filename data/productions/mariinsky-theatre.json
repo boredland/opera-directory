@@ -1851,7 +1851,40 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andrei-serov",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/bottom"
+      },
+      {
+        "person_slug": "sergei-romanov",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/demetrius"
+      },
+      {
+        "person_slug": "irina-mataeva",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/helena"
+      },
+      {
+        "person_slug": "darya-ryabokon",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/hermia"
+      },
+      {
+        "person_slug": "alexander-timchenko",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/lysander"
+      },
+      {
+        "person_slug": "ivan-borodulin",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/oberon"
+      },
+      {
+        "person_slug": "alexei-soldatov",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/puck"
+      },
+      {
+        "person_slug": "larisa-yelina",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/tytania"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sorochinskaya-ustyantsev",
@@ -2287,7 +2320,7 @@
         "role_slug": "giacomo-puccini/turandot/ping"
       },
       {
-        "person_slug": "andrei-zorin",
+        "person_slug": "oleg-balashov",
         "role_slug": "giacomo-puccini/turandot/pong"
       },
       {
@@ -2327,7 +2360,7 @@
     "premiere_date": "2022-12-29",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/28/2_1300/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/zauberflote_2022/zauberflote_scene6_by_neff.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/zauberflote_2022/zauberflote_felyauer_by_vilchuk.jpg",
     "synopsis": "Act I Prince Tamino is attacked by a huge and terrifying serpent and he loses consciousness. The Three Ladies appear and they kill the snake. Tamino is saved from death, while his saviours argue as to who will protect the youth. Failing to come to an agreement they leave to tell their sovereign, the Queen of the Night. Tamino awakes and sees a strange man –Papageno the bird catcher. He catches birds for the Queen of the Night. The Prince assumes that Papageno had saved him and Papageno does not deny it. But Papageno will be punished for lying: the Three Ladies return and place a mask on him with a gag. Tamino is given a portrait of an incredibly beautiful girl. Tamino falls in love with her immediately. The Ladies tell him that Pamina has been abducted by the powerful and cruel Sarastro. The Queen of the Night appears amid thunder and lightning. She begs Tamino to save her daughter and as a reward promises to bless their union. The Three Ladies remove Papageno&rsquo;s mask and make him swear that he will never lie again. They give Tamino a magic flute that will help him overcome any obstacles on the way, and to Papageno they give bells that can delight the heart. Together with the Three Boys, Tamino and Papageno set out on their way. At Sarastro&rsquo;s palace three slaves are mocking the Moor Monostatos for having let his captive escape. Suddenly Monostatos appears with the fugitive, and he sends everyone away so he can be alone with Pamina. Meanwhile, Papageno sneaks into Pamina&rsquo;s room, and when Monostatos comes in to kiss her they unexpectedly meet and flee from each other. Distractedly, Pamina calls for her mother, but then she awakes and remembers what has happened and is left in despair. Meanwhile Papageno returns to Pamina and explains that he has been sent by her mother, the Queen of the Night. Papageno tells the girl of Prince Tamino&rsquo;s love for her –Pamina is perturbed by the very word &ldquo;love&rdquo;. Together they flee. On the way Papageno ",
     "creative_team": [
       {
@@ -2347,7 +2380,32 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kira-loginova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "kristina-gontsa",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "alexander-gontsa",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "vladimir-feliauer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "klim-tikhonov",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "larisa-yudina",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/the-queen-of-the-night"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-zolotoreina-2023",

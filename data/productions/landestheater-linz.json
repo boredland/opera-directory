@@ -149,6 +149,10 @@
     ],
     "cast": [
       {
+        "person_slug": "chor-des-landestheaters-linz",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/chor"
+      },
+      {
         "person_slug": "bruckner-orchester-linz",
         "role_slug": "emmerich-kalman/die-csardasfurstin/orchester"
       }
@@ -294,6 +298,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "chor-des-landestheaters-linz",
+        "role_slug": "gaetano-donizetti/don-pasquale/chor"
+      },
       {
         "person_slug": "adam-kim",
         "role_slug": "gaetano-donizetti/don-pasquale/doktor-malatesta"

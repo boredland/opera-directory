@@ -528,6 +528,14 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-altenburg-gera/la-traviata-2156/2026-09-27/11:00",
+    "production_id": "theater-altenburg-gera/la-traviata-2156",
+    "date": "2026-09-27",
+    "time": "11:00",
+    "venue_room": "Theaterzelt Altenburg",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-altenburg-gera/la-traviata-2156/2026-10-11/18:00",
     "production_id": "theater-altenburg-gera/la-traviata-2156",
     "date": "2026-10-11",
@@ -541,6 +549,14 @@
     "date": "2026-10-16",
     "time": "19:30",
     "venue_room": "Theaterzelt Altenburg",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-altenburg-gera/la-traviata-2156/2026-10-25/11:00",
+    "production_id": "theater-altenburg-gera/la-traviata-2156",
+    "date": "2026-10-25",
+    "time": "11:00",
+    "venue_room": "Konzertsaal Gera",
     "status": "scheduled"
   },
   {

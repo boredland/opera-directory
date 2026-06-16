@@ -151,6 +151,10 @@
         "role_slug": "giacomo-puccini/la-boheme/colline"
       },
       {
+        "person_slug": "maurizio-panto",
+        "role_slug": "giacomo-puccini/la-boheme/doganiere"
+      },
+      {
         "person_slug": "mihai-damian",
         "role_slug": "giacomo-puccini/la-boheme/marcello"
       },
@@ -177,6 +181,10 @@
       {
         "person_slug": "nicolo-rigano",
         "role_slug": "giacomo-puccini/la-boheme/sergente-dei-doganieri"
+      },
+      {
+        "person_slug": "samuele-pedergnani",
+        "role_slug": "giacomo-puccini/la-boheme/un-venditore-di-prugne"
       }
     ]
   },
@@ -236,6 +244,10 @@
       {
         "person_slug": "mihai-damian",
         "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "andrea-vincenti",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
       },
       {
         "person_slug": "nicolo-ceriani",

@@ -45,6 +45,14 @@
     "status": "scheduled"
   },
   {
+    "id": "semperoper-dresden/61859/2026-07-04/19:00",
+    "production_id": "semperoper-dresden/61859",
+    "date": "2026-07-04",
+    "time": "19:00",
+    "venue_room": "Semperoper Dresden",
+    "status": "scheduled"
+  },
+  {
     "id": "semperoper-dresden/61954/2026-06-11/",
     "production_id": "semperoper-dresden/61954",
     "date": "2026-06-11",
@@ -202,6 +210,13 @@
     "id": "semperoper-dresden/62704/2026-07-04/",
     "production_id": "semperoper-dresden/62704",
     "date": "2026-07-04",
+    "venue_room": "Staatsschauspiel, Kleines Haus 1",
+    "status": "scheduled"
+  },
+  {
+    "id": "semperoper-dresden/62704/2026-07-05/",
+    "production_id": "semperoper-dresden/62704",
+    "date": "2026-07-05",
     "venue_room": "Staatsschauspiel, Kleines Haus 1",
     "status": "scheduled"
   },

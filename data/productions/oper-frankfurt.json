@@ -488,7 +488,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "takeshi-moriuchi-alden-gatt",
+        "person_slug": "takeshi-moriuchi",
         "function": "conductor"
       },
       {
@@ -556,6 +556,14 @@
       {
         "person_slug": "taehan-kim",
         "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
+      },
+      {
+        "person_slug": "akeshi-moriuchi",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-leitung-t"
+      },
+      {
+        "person_slug": "alden-gatt",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-leitung-t"
       }
     ]
   },
@@ -1479,7 +1487,7 @@
   },
   {
     "id": "oper-frankfurt/kristina-mkhitaryan",
-    "work_slug": "kristina-mkhitaryan-sopran-sasha-yankevych-klavier",
+    "work_slug": "kristina-mkhitaryan-sopran-pavel-nebolsin-klavier",
     "house_slug": "oper-frankfurt",
     "is_revival": false,
     "detail_url": "https://oper-frankfurt.de/de/spielplan/kristina-mkhitaryan/",
@@ -2678,7 +2686,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "thomas-guggeis-simone-di-felice",
+        "person_slug": "thomas-guggeis",
         "function": "conductor"
       },
       {

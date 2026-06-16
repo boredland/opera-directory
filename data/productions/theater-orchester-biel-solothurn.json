@@ -14,8 +14,86 @@
     "house_slug": "theater-orchester-biel-solothurn",
     "is_revival": false,
     "detail_url": "https://www.tobs.ch/spielplan/detail/falstaff",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "valentin-vassilev",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "franco-trinca",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dieter-kaegi",
+        "function": "director"
+      },
+      {
+        "person_slug": "meike-lieser",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "dirk-hofacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michele-pequegnat",
+        "role_slug": "michael-william-balfe/falstaff/cameriera"
+      },
+      {
+        "person_slug": "leo-vettoretti",
+        "role_slug": "michael-william-balfe/falstaff/cameriere"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "role_slug": "michael-william-balfe/falstaff/korrepetition"
+      },
+      {
+        "person_slug": "samuele-d-amico",
+        "role_slug": "michael-william-balfe/falstaff/lichtgestaltung"
+      },
+      {
+        "person_slug": "marta-pluda",
+        "role_slug": "michael-william-balfe/falstaff/miss-annetta-page"
+      },
+      {
+        "person_slug": "remy-burnens",
+        "role_slug": "michael-william-balfe/falstaff/mr-carlo-fenton"
+      },
+      {
+        "person_slug": "charles-rice",
+        "role_slug": "michael-william-balfe/falstaff/mr-ford"
+      },
+      {
+        "person_slug": "konstantin-nazlamov",
+        "role_slug": "michael-william-balfe/falstaff/mr-page"
+      },
+      {
+        "person_slug": "gemma-ni-bhriain",
+        "role_slug": "michael-william-balfe/falstaff/mrs-page"
+      },
+      {
+        "person_slug": "anastasia-evdaimon",
+        "role_slug": "michael-william-balfe/falstaff/mrs-quickly"
+      },
+      {
+        "person_slug": "bianca-tognocchi",
+        "role_slug": "michael-william-balfe/falstaff/mrs-rosa-ford"
+      },
+      {
+        "person_slug": "larissa-copetti-campi",
+        "role_slug": "michael-william-balfe/falstaff/regieassistenz-und-lnspizienz"
+      },
+      {
+        "person_slug": "leonardo-galeazzi",
+        "role_slug": "michael-william-balfe/falstaff/sir-john-falstaff"
+      }
+    ]
   },
   {
     "id": "theater-orchester-biel-solothurn/la-boheme",
@@ -239,7 +317,61 @@
     "house_slug": "theater-orchester-biel-solothurn",
     "is_revival": false,
     "detail_url": "https://www.tobs.ch/spielplan/detail/trennt-euch",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "josephine-korda",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "meike-lieser",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "florian-barth",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "konstantin-nazlamov",
+        "role_slug": "christian-henking/trennt-euch/der-barkeeper"
+      },
+      {
+        "person_slug": "conor-prendiville",
+        "role_slug": "christian-henking/trennt-euch/der-geliebte"
+      },
+      {
+        "person_slug": "wolfgang-resch",
+        "role_slug": "christian-henking/trennt-euch/der-vater"
+      },
+      {
+        "person_slug": "josy-santos",
+        "role_slug": "christian-henking/trennt-euch/die-freundin-claire"
+      },
+      {
+        "person_slug": "marion-grange",
+        "role_slug": "christian-henking/trennt-euch/die-mutter"
+      },
+      {
+        "person_slug": "anna-beatriz-gomes",
+        "role_slug": "christian-henking/trennt-euch/die-tochter"
+      },
+      {
+        "person_slug": "riccardo-fiscato",
+        "role_slug": "christian-henking/trennt-euch/korrepetition"
+      },
+      {
+        "person_slug": "michael-nobs",
+        "role_slug": "christian-henking/trennt-euch/lichtgestaltung"
+      },
+      {
+        "person_slug": "deborah-epstein",
+        "role_slug": "christian-henking/trennt-euch/lnszenierung"
+      },
+      {
+        "person_slug": "damien-liger",
+        "role_slug": "christian-henking/trennt-euch/regieassistenz-und-lnspizienz"
+      }
+    ]
   }
 ]

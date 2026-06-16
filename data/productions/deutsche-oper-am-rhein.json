@@ -284,7 +284,7 @@
         "role_slug": "jerry-bock-musik/anatevka/rabbi"
       },
       {
-        "person_slug": "andres-sulbaran",
+        "person_slug": "martin-petschan",
         "role_slug": "jerry-bock-musik/anatevka/sascha"
       },
       {
@@ -582,8 +582,22 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/das-kind-und-das-ding/3389/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kim-holtappels",
+        "role_slug": "das-kind-und-das-ding/kind"
+      },
+      {
+        "person_slug": "michaela-dicu",
+        "role_slug": "das-kind-und-das-ding/regie-und-libretto"
+      }
+    ]
   },
   {
     "id": "deutsche-oper-am-rhein/das-kind-und-das-ding-3390",
@@ -591,8 +605,22 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/das-kind-und-das-ding/3390/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kim-holtappels",
+        "role_slug": "das-kind-und-das-ding/kind"
+      },
+      {
+        "person_slug": "michaela-dicu",
+        "role_slug": "das-kind-und-das-ding/regie-und-libretto"
+      }
+    ]
   },
   {
     "id": "deutsche-oper-am-rhein/die-koenigin-von-saba-2801",

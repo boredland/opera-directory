@@ -327,7 +327,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "felix-bender",
+        "person_slug": "andres-orozco-estrada",
         "function": "conductor"
       },
       {
@@ -397,7 +397,7 @@
         "role_slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-notar"
       },
       {
-        "person_slug": "dmitry-ivanchey",
+        "person_slug": "young-woo-kim",
         "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
       },
       {
@@ -409,7 +409,7 @@
         "role_slug": "richard-strauss/der-rosenkavalier/eine-modistin"
       },
       {
-        "person_slug": "ks-miljenko-turk",
+        "person_slug": "christian-miedl",
         "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
       },
       {
@@ -445,7 +445,7 @@
         "role_slug": "richard-strauss/der-rosenkavalier/orchester"
       },
       {
-        "person_slug": "elsa-benoit",
+        "person_slug": "giulia-montanari",
         "role_slug": "richard-strauss/der-rosenkavalier/sophie"
       },
       {
@@ -901,7 +901,12 @@
     "house_slug": "oper-koeln",
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/fest-der-operette/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "adam-benzwi",
+        "function": "conductor"
+      }
+    ],
     "cast": [
       {
         "person_slug": "gurzenich-orchester-koln",

@@ -7,7 +7,15 @@
     "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/marilyn-forever-/-twice-through-the-heart",
     "creative_team": [
       {
+        "person_slug": "harald-dietz",
+        "function": "Bildprojektionen"
+      },
+      {
         "person_slug": "michael-falk",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "peter-kattermann",
         "function": "conductor"
       },
       {
@@ -28,6 +36,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "amy-brinkman-davis-sena-uto-christopher-von-mamman-eugen-rabkov",
+        "role_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/jazz-trio"
+      },
       {
         "person_slug": "annina-olivia-battaglia",
         "role_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart/marilyn"

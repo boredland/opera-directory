@@ -708,6 +708,77 @@
     ]
   },
   {
+    "id": "deutsche-oper-berlin/ein-sommernachtstraum-18013881",
+    "work_slug": "ein-sommernachtstraum",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/ein-sommernachtstraum.18013881",
+    "creative_team": [
+      {
+        "person_slug": "robert-reimer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "leo-kulas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "edward-clug-katja-wiegand",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "tomaz-premzl",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marko-japelj",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rok-predin",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "matthew-knight",
+        "role_slug": "ein-sommernachtstraum/demetrius"
+      },
+      {
+        "person_slug": "clotilde-tran",
+        "role_slug": "ein-sommernachtstraum/helena"
+      },
+      {
+        "person_slug": "meiri-maeda",
+        "role_slug": "ein-sommernachtstraum/hermia"
+      },
+      {
+        "person_slug": "weronika-frodyma",
+        "role_slug": "ein-sommernachtstraum/hippolyta-i-titania"
+      },
+      {
+        "person_slug": "edward-clug",
+        "role_slug": "ein-sommernachtstraum/konzept-libretto-und-choreographie"
+      },
+      {
+        "person_slug": "kalle-wigle",
+        "role_slug": "ein-sommernachtstraum/lysander"
+      },
+      {
+        "person_slug": "milko-lazar",
+        "role_slug": "ein-sommernachtstraum/musik"
+      },
+      {
+        "person_slug": "leroy-mokgatle",
+        "role_slug": "ein-sommernachtstraum/puck"
+      },
+      {
+        "person_slug": "cohen-aitchison-dugas",
+        "role_slug": "ein-sommernachtstraum/theseus-i-oberon"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-berlin/familienfuehrung-17896234",
     "work_slug": "treffpunkt-kassenhalle/familienfuhrung",
     "house_slug": "deutsche-oper-berlin",
@@ -925,6 +996,15 @@
     "house_slug": "deutsche-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/helden.17857349",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-berlin/helden-18013910",
+    "work_slug": "helden",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/helden.18013910",
     "creative_team": [],
     "cast": []
   },
@@ -1195,6 +1275,15 @@
     "house_slug": "deutsche-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/training-zum-zuschauen.17857348",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-berlin/training-zum-zuschauen-18013889",
+    "work_slug": "training-zum-zuschauen",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/training-zum-zuschauen.18013889",
     "creative_team": [],
     "cast": []
   },

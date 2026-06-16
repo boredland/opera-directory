@@ -1,5 +1,13 @@
 [
   {
+    "id": "theater-vorpommern/carmen-202526/2026-07-05/18:00",
+    "production_id": "theater-vorpommern/carmen-202526",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "venue_room": "Theater Stralsund",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-vorpommern/carmen/2026-07-05/18:00",
     "production_id": "theater-vorpommern/carmen",
     "date": "2026-07-05",
@@ -20,6 +28,22 @@
     "production_id": "theater-vorpommern/don-giovanni",
     "date": "2026-06-17",
     "time": "18:00",
+    "venue_room": "Theater Stralsund",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-vorpommern/the-shining-202526/2026-06-21/18:00",
+    "production_id": "theater-vorpommern/the-shining-202526",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "venue_room": "Theater Stralsund",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-vorpommern/the-shining-202526/2026-07-11/19:30",
+    "production_id": "theater-vorpommern/the-shining-202526",
+    "date": "2026-07-11",
+    "time": "19:30",
     "venue_room": "Theater Stralsund",
     "status": "scheduled"
   },

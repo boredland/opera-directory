@@ -1,10 +1,37 @@
 [
   {
+    "id": "staatstheater-braunschweig/carmen",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "staatstheater-braunschweig",
+    "is_revival": false,
+    "detail_url": "https://staatstheater-braunschweig.de/produktion/carmen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-braunschweig/clivia",
+    "work_slug": "nico-dostal/clivia",
+    "house_slug": "staatstheater-braunschweig",
+    "is_revival": false,
+    "detail_url": "https://staatstheater-braunschweig.de/produktion/clivia",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatstheater-braunschweig/der-freischuetz",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "house_slug": "staatstheater-braunschweig",
     "is_revival": false,
     "detail_url": "https://staatstheater-braunschweig.de/produktion/der-freischuetz",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-braunschweig/figaros-hochzeit",
+    "work_slug": "wolfgang-amadeus-mozart/figaros-hochzeit",
+    "house_slug": "staatstheater-braunschweig",
+    "is_revival": false,
+    "detail_url": "https://staatstheater-braunschweig.de/produktion/figaros-hochzeit",
     "creative_team": [],
     "cast": []
   },
@@ -23,6 +50,24 @@
     "house_slug": "staatstheater-braunschweig",
     "is_revival": false,
     "detail_url": "https://staatstheater-braunschweig.de/produktion/innocence",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-braunschweig/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "staatstheater-braunschweig",
+    "is_revival": false,
+    "detail_url": "https://staatstheater-braunschweig.de/produktion/la-boheme",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatstheater-braunschweig/lorelei",
+    "work_slug": "hans-sommer/lorelei",
+    "house_slug": "staatstheater-braunschweig",
+    "is_revival": false,
+    "detail_url": "https://staatstheater-braunschweig.de/produktion/lorelei",
     "creative_team": [],
     "cast": []
   }

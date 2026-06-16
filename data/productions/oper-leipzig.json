@@ -741,6 +741,113 @@
     "cast": []
   },
   {
+    "id": "oper-leipzig/pique-dame-740",
+    "work_slug": "peter-i-tschaikowski/pique-dame",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/pique-dame/740",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-leipzig",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-gedschold",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-gault",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "lorenzo-fioroni",
+        "function": "director"
+      },
+      {
+        "person_slug": "marlene-hahn",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-alphons",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sebastian-hannak",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sophie-bauer",
+        "role_slug": "peter-i-tschaikowski/pique-dame/einstudierung-kinderchor"
+      },
+      {
+        "person_slug": "franz-xaver-schlecht",
+        "role_slug": "peter-i-tschaikowski/pique-dame/furst-jeletzkij"
+      },
+      {
+        "person_slug": "kathrin-goring",
+        "role_slug": "peter-i-tschaikowski/pique-dame/gouvernante"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "peter-i-tschaikowski/pique-dame/graf-tomskij-zlatagor"
+      },
+      {
+        "person_slug": "ulrike-schneider",
+        "role_slug": "peter-i-tschaikowski/pique-dame/grafin"
+      },
+      {
+        "person_slug": "brenden-gunnell",
+        "role_slug": "peter-i-tschaikowski/pique-dame/hermann"
+      },
+      {
+        "person_slug": "solen-mainguene",
+        "role_slug": "peter-i-tschaikowski/pique-dame/lisa"
+      },
+      {
+        "person_slug": "merit-nath-gobl",
+        "role_slug": "peter-i-tschaikowski/pique-dame/mascha-prilepa"
+      },
+      {
+        "person_slug": "peter-dolinsek",
+        "role_slug": "peter-i-tschaikowski/pique-dame/narumow"
+      },
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "peter-i-tschaikowski/pique-dame/orchester"
+      },
+      {
+        "person_slug": "younghwi-ko",
+        "role_slug": "peter-i-tschaikowski/pique-dame/pianistin"
+      },
+      {
+        "person_slug": "maya-gour",
+        "role_slug": "peter-i-tschaikowski/pique-dame/polina-milovzor"
+      },
+      {
+        "person_slug": "evert-sooster",
+        "role_slug": "peter-i-tschaikowski/pique-dame/surin"
+      },
+      {
+        "person_slug": "daniel-arnaldos",
+        "role_slug": "peter-i-tschaikowski/pique-dame/tschaplitzkij"
+      },
+      {
+        "person_slug": "dan-karlstrom",
+        "role_slug": "peter-i-tschaikowski/pique-dame/tschekalinskij"
+      },
+      {
+        "person_slug": "mate-gal",
+        "role_slug": "peter-i-tschaikowski/pique-dame/zeremonienmeister"
+      },
+      {
+        "person_slug": "ruben-olivares",
+        "role_slug": "peter-i-tschaikowski/pique-dame/zeremonienmeister"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/regina-811",
     "work_slug": "albert-lortzing/regina",
     "house_slug": "oper-leipzig",

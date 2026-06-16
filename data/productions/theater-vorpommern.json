@@ -107,6 +107,113 @@
     ]
   },
   {
+    "id": "theater-vorpommern/carmen-202526",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "theater-vorpommern",
+    "is_revival": false,
+    "detail_url": "https://www.theater-vorpommern.de/de/programm/carmen-202526",
+    "creative_team": [
+      {
+        "person_slug": "jorg-pitschmann",
+        "function": "Chöre"
+      },
+      {
+        "person_slug": "stefano-fossat",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "david-behnke",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "florian-csizmadia",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lisa-henningsohn",
+        "function": "Dialogproben Soufflage"
+      },
+      {
+        "person_slug": "aurelia-eggers",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephanie-langenberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "saskia-becker",
+        "function": "Inspizienz"
+      },
+      {
+        "person_slug": "kirsten-heitmann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "david-behnke",
+        "function": "Musikalische Assistenz"
+      },
+      {
+        "person_slug": "frida-jasper",
+        "function": "Regieassistenz & Abendspielleitung"
+      },
+      {
+        "person_slug": "eva-humburg",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "beatrice-fritz",
+        "function": "Studiumspraktikum"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kadi-jurgens",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "raul-alonso",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "sotiris-charalampous",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "maciej-koz-owski",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "sina-puffay",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "uta-wendler",
+        "role_slug": "georges-bizet/carmen/lillas-pastia"
+      },
+      {
+        "person_slug": "anna-maria-tietze",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "antje-bornemeier",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "alexandru-constantinescu",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "semjon-bulinsky",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "jovan-koscica",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
     "id": "theater-vorpommern/das-tagebuch-der-anne-frank",
     "work_slug": "grigori-frid/das-tagebuch-der-anne-frank",
     "house_slug": "theater-vorpommern",
@@ -160,6 +267,15 @@
     "house_slug": "theater-vorpommern",
     "is_revival": false,
     "detail_url": "https://www.theater-vorpommern.de/de/programm/the-shining",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-vorpommern/the-shining-202526",
+    "work_slug": "paul-moravec/the-shining",
+    "house_slug": "theater-vorpommern",
+    "is_revival": false,
+    "detail_url": "https://www.theater-vorpommern.de/de/programm/the-shining-202526",
     "creative_team": [],
     "cast": []
   }
