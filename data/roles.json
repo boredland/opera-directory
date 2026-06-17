@@ -11410,6 +11410,21 @@
     "name": "Leonardo"
   },
   {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-1",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Aldeano #1"
+  },
+  {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-2-young-man",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Aldeano #2/Young Man"
+  },
+  {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-3",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Aldeano #3"
+  },
+  {
     "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/catrina",
     "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
     "name": "Catrina"
@@ -11423,6 +11438,21 @@
     "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida",
     "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
     "name": "Frida"
+  },
+  {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-1",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Frida Image #1"
+  },
+  {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-2",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Frida Image #2"
+  },
+  {
+    "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-3-frida",
+    "work_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego",
+    "name": "Frida Image #3/Frida"
   },
   {
     "slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/leonardo",
@@ -18200,6 +18230,11 @@
     "name": "Aida, Ethiopian princess"
   },
   {
+    "slug": "giuseppe-verdi/aida/alte-amneris",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "Alte Amneris"
+  },
+  {
     "slug": "giuseppe-verdi/aida/amneris",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Amneris"
@@ -18290,6 +18325,11 @@
     "name": "Italian libretto by"
   },
   {
+    "slug": "giuseppe-verdi/aida/junge-amneris",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "Junge Amneris"
+  },
+  {
     "slug": "giuseppe-verdi/aida/king",
     "work_slug": "giuseppe-verdi/aida",
     "name": "King"
@@ -18353,6 +18393,11 @@
     "slug": "giuseppe-verdi/aida/sacerdotessa",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Sacerdotessa"
+  },
+  {
+    "slug": "giuseppe-verdi/aida/schatten-der-amneris",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "Schatten der Amneris"
   },
   {
     "slug": "giuseppe-verdi/aida/tanzer",
@@ -26805,6 +26850,11 @@
     "name": "Werther"
   },
   {
+    "slug": "julien-chavaz/neverland/konzept",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Konzept"
+  },
+  {
     "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/alexia",
     "work_slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence",
     "name": "Alexia"
@@ -28350,6 +28400,11 @@
     "name": "Viscount Nicolas Cascada"
   },
   {
+    "slug": "leo-delibes/lakme-in-concert/ellen",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "name": "Ellen"
+  },
+  {
     "slug": "leo-delibes/lakme-in-concert/frederic",
     "work_slug": "leo-delibes/lakme-in-concert",
     "name": "Frédéric"
@@ -28360,14 +28415,34 @@
     "name": "Gérald"
   },
   {
+    "slug": "leo-delibes/lakme-in-concert/hadji",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "name": "Hadji"
+  },
+  {
     "slug": "leo-delibes/lakme-in-concert/lakme",
     "work_slug": "leo-delibes/lakme-in-concert",
     "name": "Lakmé"
   },
   {
+    "slug": "leo-delibes/lakme-in-concert/mallika",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "name": "Mallika"
+  },
+  {
+    "slug": "leo-delibes/lakme-in-concert/miss-benson",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "name": "Miss Benson"
+  },
+  {
     "slug": "leo-delibes/lakme-in-concert/nilakantha",
     "work_slug": "leo-delibes/lakme-in-concert",
     "name": "Nilakantha"
+  },
+  {
+    "slug": "leo-delibes/lakme-in-concert/rose",
+    "work_slug": "leo-delibes/lakme-in-concert",
+    "name": "Rose"
   },
   {
     "slug": "leo-delibes/lakme/a-chinese-merchant",
@@ -32958,6 +33033,106 @@
     "slug": "nino-rota/napoli-milionaria/una-voce-una-donna-del-popolo",
     "work_slug": "nino-rota/napoli-milionaria",
     "name": "UNA VOCE/UNA DONNA DEL POPOLO"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/ballett",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Ballett"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/bill-snibson",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Bill Snibson"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/bob-barking",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Bob Barking"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/buhne-kostum",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/charles-hethersett",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Charles Hethersett"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/constable",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Constable"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/gerald-bolingbroke",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Gerald Bolingbroke"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/herbert-parchester",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Herbert Parchester"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/kochin",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Köchin"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/lady-jacqueline-carstone",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Lady Jacqueline Carstone"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/madchen-aus-lambeth",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Mädchen aus Lambeth"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/maria-herzogin-von-dene",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Maria, Herzogin von Dene"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/mrs-brown",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Mrs. Brown"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/mrs-wirtz-schlaechter",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Mrs. Wirtz-Schlaechter"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/mrs-worthington-worthington",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Mrs. Worthington-Worthington"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/orchester",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Orchester"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/sally-smith",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Sally Smith"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/sir-jasper-tring",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Sir Jasper Tring"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/sir-john-tremayne",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Sir John Tremayne"
+  },
+  {
+    "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/zusatzchor",
+    "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
+    "name": "Zusatzchor"
   },
   {
     "slug": "olga-neuwirth/monster-s-paradise/bampi",
@@ -37595,6 +37770,11 @@
     "name": "Fifth Jew"
   },
   {
+    "slug": "richard-strauss/salome/fifth-jew-second-soldier",
+    "work_slug": "richard-strauss/salome",
+    "name": "Fifth Jew/Second Soldier"
+  },
+  {
     "slug": "richard-strauss/salome/first-jew",
     "work_slug": "richard-strauss/salome",
     "name": "First Jew"
@@ -37603,6 +37783,11 @@
     "slug": "richard-strauss/salome/first-nazarene",
     "work_slug": "richard-strauss/salome",
     "name": "First Nazarene"
+  },
+  {
+    "slug": "richard-strauss/salome/first-nazarene-first-soldier",
+    "work_slug": "richard-strauss/salome",
+    "name": "First Nazarene/First Soldier"
   },
   {
     "slug": "richard-strauss/salome/first-soldier",
@@ -37848,6 +38033,11 @@
     "slug": "richard-strauss/salome/sinead-campbell-wallace",
     "work_slug": "richard-strauss/salome",
     "name": "Sinéad Campbell Wallace"
+  },
+  {
+    "slug": "richard-strauss/salome/slave",
+    "work_slug": "richard-strauss/salome",
+    "name": "Slave"
   },
   {
     "slug": "richard-strauss/salome/stephen-hanna",
@@ -46320,9 +46510,29 @@
     "name": "Violoncello"
   },
   {
+    "slug": "wunderland/choreografie-und-inszenierung",
+    "work_slug": "wunderland",
+    "name": "Choreografie und Inszenierung"
+  },
+  {
+    "slug": "wunderland/choreografische-assistenz",
+    "work_slug": "wunderland",
+    "name": "Choreografische Assistenz"
+  },
+  {
     "slug": "wunderland/ensemble",
     "work_slug": "wunderland",
     "name": "Ensemble"
+  },
+  {
+    "slug": "wunderland/musik-arrangiert-und-orchestriert-von",
+    "work_slug": "wunderland",
+    "name": "Musik arrangiert und orchestriert von"
+  },
+  {
+    "slug": "wunderland/musikalische-assistenz",
+    "work_slug": "wunderland",
+    "name": "Musikalische Assistenz"
   },
   {
     "slug": "wunderland/musikalische-beratung",

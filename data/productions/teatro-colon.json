@@ -84,8 +84,28 @@
     "detail_url": "https://teatrocolon.org.ar/produccion/i-capuleti-e-i-montecchi",
     "creative_team": [
       {
-        "person_slug": "evelino-pido",
+        "person_slug": "tulio-boni",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "enrique-sivieri",
         "function": "conductor"
+      },
+      {
+        "person_slug": "luigi-pretti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-bassi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "wenceslao-fumi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anibal-lapiz",
+        "function": "costume-designer"
       },
       {
         "person_slug": "emilia-tambutti",
@@ -96,7 +116,15 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "roberto-oswald",
+        "function": "costume-designer"
+      },
+      {
         "person_slug": "carolina-basaldua",
+        "function": "director"
+      },
+      {
+        "person_slug": "margarita-wallmann",
         "function": "director"
       },
       {
@@ -121,6 +149,10 @@
       },
       {
         "person_slug": "julieta-kompel",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "roberto-oswald",
         "function": "set-designer"
       }
     ],

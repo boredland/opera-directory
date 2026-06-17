@@ -144,6 +144,10 @@
     "detail_url": "https://theaterbremen.de/de_DE/programm/der-freischuetz.1398908",
     "creative_team": [
       {
+        "person_slug": "jacqueline-davenport",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "yu-sugimoto",
         "function": "conductor"
       },
@@ -158,6 +162,10 @@
       {
         "person_slug": "pia-syrbe",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-kemmetmuller",
+        "function": "lighting"
       },
       {
         "person_slug": "johanna-pfau",
@@ -188,6 +196,10 @@
       {
         "person_slug": "frederike-kruger",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "norman-plathe-narr",
+        "function": "lighting"
       },
       {
         "person_slug": "marton-agh",

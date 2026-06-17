@@ -12,7 +12,7 @@
     "id": "oper-koeln/aidas-rivalin",
     "work_slug": "aidas-rivalin",
     "house_slug": "oper-koeln",
-    "is_revival": false,
+    "is_revival": true,
     "detail_url": "https://www.oper.koeln/de/produktion/aidas-rivalin/",
     "creative_team": [
       {
@@ -34,20 +34,8 @@
     ],
     "cast": [
       {
-        "person_slug": "dorrit-bauerecker",
-        "role_slug": "aidas-rivalin/akkordeon"
-      },
-      {
         "person_slug": "ks-dalia-schaechter",
         "role_slug": "aidas-rivalin/idee"
-      },
-      {
-        "person_slug": "ks-dalia-schaechter",
-        "role_slug": "aidas-rivalin/mezzosopran"
-      },
-      {
-        "person_slug": "kurt-fuhrmann",
-        "role_slug": "aidas-rivalin/schlagzeug"
       }
     ]
   },
@@ -397,7 +385,7 @@
         "role_slug": "richard-strauss/der-rosenkavalier/ein-polizeikommissar-notar"
       },
       {
-        "person_slug": "young-woo-kim",
+        "person_slug": "dmitry-ivanchey",
         "role_slug": "richard-strauss/der-rosenkavalier/ein-sanger"
       },
       {
@@ -410,6 +398,10 @@
       },
       {
         "person_slug": "christian-miedl",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "ks-miljenko-turk",
         "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
       },
       {

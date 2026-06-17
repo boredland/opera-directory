@@ -314,7 +314,12 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "julien-chavaz",
+        "role_slug": "julien-chavaz/neverland/konzept"
+      }
+    ]
   },
   {
     "id": "theater-magdeburg/rodgers-hammersteins-cinderella",

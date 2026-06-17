@@ -432,10 +432,6 @@
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1911-wunderland",
     "creative_team": [
       {
-        "person_slug": "alexei-ratmansky",
-        "function": "choreographer"
-      },
-      {
         "person_slug": "2-7-26",
         "function": "conductor"
       },
@@ -460,11 +456,23 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "christian-kaas",
+        "function": "lighting"
+      },
+      {
         "person_slug": "sebastian-hannak",
         "function": "set-designer"
       }
     ],
     "cast": [
+      {
+        "person_slug": "alexei-ratmansky",
+        "role_slug": "wunderland/choreografie-und-inszenierung"
+      },
+      {
+        "person_slug": "kyle-davis",
+        "role_slug": "wunderland/choreografische-assistenz"
+      },
       {
         "person_slug": "2-7-26",
         "role_slug": "wunderland/ensemble"
@@ -486,8 +494,12 @@
         "role_slug": "wunderland/ensemble"
       },
       {
-        "person_slug": "vasily-ratmansky",
-        "role_slug": "wunderland/musikalische-beratung"
+        "person_slug": "philip-feeney",
+        "role_slug": "wunderland/musik-arrangiert-und-orchestriert-von"
+      },
+      {
+        "person_slug": "vasyl-ratmansky",
+        "role_slug": "wunderland/musikalische-assistenz"
       },
       {
         "person_slug": "12-11-26",
@@ -524,10 +536,6 @@
       {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
         "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "philip-feeney",
-        "role_slug": "wunderland/orchestriert-und-arrangiert-von"
       },
       {
         "person_slug": "vivien-arnold",

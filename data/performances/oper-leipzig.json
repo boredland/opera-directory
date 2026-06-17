@@ -308,6 +308,27 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/me-and-my-girl-521/2026-05-23/19:00",
+    "production_id": "oper-leipzig/me-and-my-girl-521",
+    "date": "2026-05-23",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "oper-leipzig/me-and-my-girl-521/2026-06-20/19:00",
+    "production_id": "oper-leipzig/me-and-my-girl-521",
+    "date": "2026-06-20",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/me-and-my-girl-521/2026-06-21/15:00",
+    "production_id": "oper-leipzig/me-and-my-girl-521",
+    "date": "2026-06-21",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/musikalischer-vorspann-917/2026-06-18/21:30",
     "production_id": "oper-leipzig/musikalischer-vorspann-917",
     "date": "2026-06-18",
@@ -381,6 +402,13 @@
     "id": "oper-leipzig/strangers-in-the-night-788/2026-06-30/19:30",
     "production_id": "oper-leipzig/strangers-in-the-night-788",
     "date": "2026-06-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/strangers-in-the-night-788/2026-07-01/19:30",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2026-07-01",
     "time": "19:30",
     "status": "scheduled"
   },

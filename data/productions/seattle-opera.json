@@ -14,9 +14,29 @@
       {
         "person_slug": "carolyn-kuan",
         "function": "conductor"
+      },
+      {
+        "person_slug": "eloise-kazan",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jorge-ballina",
+        "function": "set-designer"
       }
     ],
     "cast": [
+      {
+        "person_slug": "ilya-silchukou",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-1"
+      },
+      {
+        "person_slug": "demetrious-sampson-jr",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-2-young-man"
+      },
+      {
+        "person_slug": "alan-williams",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/aldeano-3"
+      },
       {
         "person_slug": "amanda-batista",
         "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/catrina"
@@ -28,6 +48,18 @@
       {
         "person_slug": "daniela-mack",
         "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida"
+      },
+      {
+        "person_slug": "tess-altiveros",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-1"
+      },
+      {
+        "person_slug": "michelle-mariposa",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-2"
+      },
+      {
+        "person_slug": "guadalupe-paz",
+        "role_slug": "gabriela-lena-frank/el-ultimo-sueno-de-frida-y-diego/frida-image-3-frida"
       },
       {
         "person_slug": "jake-ingbar",
@@ -122,9 +154,17 @@
       {
         "person_slug": "daniela-candillari",
         "function": "conductor"
+      },
+      {
+        "person_slug": "ranleigh-starling",
+        "function": "lighting"
       }
     ],
     "cast": [
+      {
+        "person_slug": "alexa-jarvis",
+        "role_slug": "leo-delibes/lakme-in-concert/ellen"
+      },
       {
         "person_slug": "christian-pursell",
         "role_slug": "leo-delibes/lakme-in-concert/frederic"
@@ -134,12 +174,28 @@
         "role_slug": "leo-delibes/lakme-in-concert/gerald"
       },
       {
+        "person_slug": "john-marzano",
+        "role_slug": "leo-delibes/lakme-in-concert/hadji"
+      },
+      {
         "person_slug": "aigul-khismatullina",
         "role_slug": "leo-delibes/lakme-in-concert/lakme"
       },
       {
+        "person_slug": "julie-boulianne",
+        "role_slug": "leo-delibes/lakme-in-concert/mallika"
+      },
+      {
+        "person_slug": "margaret-gawrysiak",
+        "role_slug": "leo-delibes/lakme-in-concert/miss-benson"
+      },
+      {
         "person_slug": "nicholas-newton",
         "role_slug": "leo-delibes/lakme-in-concert/nilakantha"
+      },
+      {
+        "person_slug": "tess-altiveros",
+        "role_slug": "leo-delibes/lakme-in-concert/rose"
       }
     ]
   },
@@ -174,6 +230,18 @@
     ],
     "cast": [
       {
+        "person_slug": "nathan-stark",
+        "role_slug": "richard-strauss/salome/fifth-jew-second-soldier"
+      },
+      {
+        "person_slug": "scott-conner",
+        "role_slug": "richard-strauss/salome/first-nazarene-first-soldier"
+      },
+      {
+        "person_slug": "zhengyi-bai",
+        "role_slug": "richard-strauss/salome/fourth-jew"
+      },
+      {
         "person_slug": "chad-shelton",
         "role_slug": "richard-strauss/salome/herod"
       },
@@ -196,6 +264,18 @@
       {
         "person_slug": "brenda-rae",
         "role_slug": "richard-strauss/salome/salome"
+      },
+      {
+        "person_slug": "martin-bakari",
+        "role_slug": "richard-strauss/salome/second-jew"
+      },
+      {
+        "person_slug": "alexa-jarvis",
+        "role_slug": "richard-strauss/salome/slave"
+      },
+      {
+        "person_slug": "john-marzano",
+        "role_slug": "richard-strauss/salome/third-jew"
       }
     ]
   }

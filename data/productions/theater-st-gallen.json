@@ -5,7 +5,7 @@
     "house_slug": "theater-st-gallen",
     "is_revival": false,
     "detail_url": "https://www.konzertundtheater.ch/programm/spielplan-25-26/aida/",
-    "image_url": "https://tsg-6a25.kxcdn.com/content-images/image720/47012b80af11ff7822033af39f90c02a/5605/47_aida_2526_1361x1620px.jpg",
+    "image_url": "https://tsg-6a25.kxcdn.com/content-images/image720/5abb3a255138f1bcdd5e7c53ff46910c/6468/konzert_und_theater_st_gallen_aida_2026_001.jpg",
     "creative_team": [
       {
         "person_slug": "rachele-pedrocchi",
@@ -42,6 +42,10 @@
         "role_slug": "giuseppe-verdi/aida/aida"
       },
       {
+        "person_slug": "elenita-queiroz",
+        "role_slug": "giuseppe-verdi/aida/alte-amneris"
+      },
+      {
         "person_slug": "libby-sokolowski",
         "role_slug": "giuseppe-verdi/aida/amneris"
       },
@@ -60,6 +64,10 @@
       {
         "person_slug": "olivia-smith",
         "role_slug": "giuseppe-verdi/aida/hohepriesterin"
+      },
+      {
+        "person_slug": "daria-gerig-anais-puyal",
+        "role_slug": "giuseppe-verdi/aida/junge-amneris"
       },
       {
         "person_slug": "jonas-jud",
@@ -82,8 +90,8 @@
         "role_slug": "giuseppe-verdi/aida/regieassistenz-und-abendspielleitung"
       },
       {
-        "person_slug": "innen-elenita-queiroz-daria-gerig-anais-puyal-sara-pena-cagigas-sara-pennella-steven-forster",
-        "role_slug": "giuseppe-verdi/aida/tanzer"
+        "person_slug": "sara-pena-cagigas-sara-pennella-steven-forster",
+        "role_slug": "giuseppe-verdi/aida/schatten-der-amneris"
       }
     ]
   }
