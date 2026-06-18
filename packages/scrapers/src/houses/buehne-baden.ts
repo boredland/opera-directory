@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -228,7 +229,7 @@ function parseGermanDate(block: string): IsoDate | null {
   if (!m?.[1] || !m?.[2] || !m?.[3]) return null;
   const month = MONTHS[m[2].toLowerCase()];
   if (!month) return null;
-  return `${m[3]}-${month}-${m[1].padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3], month, m[1]);
 }
 
 const ROLE_ITEM_RE = /<li\b[^>]*class="roles__item[^"]*"[^>]*>([\s\S]*?)<\/li>/g;

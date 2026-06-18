@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -212,7 +213,7 @@ function parseGermanDate(text: string): IsoDate | null {
   const m = text.match(/(\d{1,2})\.\s*([A-Za-zäöü]+)\s*(\d{4})/);
   const month = m ? GERMAN_MONTHS[m[2] ?? ""] : undefined;
   if (!m || !month) return null;
-  return `${m[3]}-${month}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[1] ?? "");
 }
 
 /** Singer cell: `<a>Name</a> <small><i>Role</i></small>` per `<br>`. */

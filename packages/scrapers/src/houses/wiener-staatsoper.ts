@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -327,7 +328,8 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
     if (!dm?.[1] || !dm[2] || !ym?.[1]) continue;
     const month = MONTHS[dm[2].toLowerCase()];
     if (!month) continue;
-    const date = `${ym[1]}-${String(month).padStart(2, "0")}-${dm[1].padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(ym[1] ?? "", month, dm[1]);
+    if (!date) continue;
 
     const tm = row.match(/col-2">\s*<p>\s*(\d{1,2}:\d{2})/);
     const time = tm?.[1] ? tm[1].padStart(5, "0") : null;

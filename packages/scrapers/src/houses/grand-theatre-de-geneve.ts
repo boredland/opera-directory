@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Grand Théâtre de Genève (`spielplan-html` strategy) — Switzerland's largest
@@ -396,9 +397,8 @@ function expandPhrase(phrase: string, year: number): IsoDate[] {
     const month = word ? MONTHS[word] : undefined;
     if (!month) continue;
     for (const d of pending) {
-      dates.push(
-        `${year}-${String(month).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate,
-      );
+      const iso = isoFromParts(year, month, d);
+      if (iso) dates.push(iso);
     }
     pending = [];
   }

@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -173,7 +174,7 @@ function parseDate(block: string): IsoDate | null {
   if (!dd || !my) return null;
   const mm = MONTHS[(my[1] ?? "").toLowerCase()];
   if (!mm) return null;
-  return `${my[2]}-${mm}-${dd.padStart(2, "0")}` as IsoDate;
+  return isoFromParts(my[2] ?? "", mm, dd);
 }
 
 function parseTime(block: string): string | null {

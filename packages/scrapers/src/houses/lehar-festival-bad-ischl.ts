@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -142,8 +143,8 @@ function parsePerformances(
   )) {
     const dm = stripHtml(day ?? "").match(/(\d{1,2})\.(\d{1,2})\./);
     if (!dm) continue;
-    const date =
-      `${year}-${(dm[2] ?? "").padStart(2, "0")}-${(dm[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, dm[2] ?? "", dm[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
 
     const time = parseTime(timeCell ?? "");
@@ -170,7 +171,7 @@ function parsePerformances(
 function parsePremiereDate(premiere: string): IsoDate | null {
   const m = premiere.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
   if (!m) return null;
-  return `${m[3]}-${(m[2] ?? "").padStart(2, "0")}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", m[2] ?? "", m[1] ?? "");
 }
 
 /** "19.30 Uhr" / "19:30" → "19:30". */

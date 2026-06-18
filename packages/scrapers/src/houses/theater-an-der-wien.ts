@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -358,9 +359,9 @@ function looksLikeComposer(text: string): boolean {
 
 /** Parse the listing's "DD.MM.YYYY–DD.MM.YYYY" (or single "DD.MM.YYYY") range. */
 function parseRange(text: string): [IsoDate, IsoDate] | null {
-  const dates = [...stripHtml(text).matchAll(/(\d{2})\.(\d{2})\.(\d{4})/g)].map(
-    ([, d, m, y]) => `${y}-${m}-${d}` as IsoDate,
-  );
+  const dates = [...stripHtml(text).matchAll(/(\d{2})\.(\d{2})\.(\d{4})/g)]
+    .map(([, d, m, y]) => isoFromParts(y ?? "", m ?? "", d ?? ""))
+    .filter((d): d is IsoDate => d !== null);
   const first = dates[0];
   const last = dates[dates.length - 1];
   if (!first || !last) return null;

@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Opéra de Lausanne (`spielplan-html`) — the Vaud/Lausanne opera house. WordPress
@@ -220,10 +220,10 @@ function parsePerformances(html: string, seasonStartYear: number): RawPerformanc
 
   const today = new Date().toISOString().slice(0, 10);
   return days
-    .map((day) => {
-      const date =
-        `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
-      return { date, status: (date < today ? "past" : "scheduled") as RawPerformance["status"] };
+    .flatMap((day) => {
+      const date = isoFromParts(year, month, day);
+      if (!date) return [];
+      return [{ date, status: (date < today ? "past" : "scheduled") as RawPerformance["status"] }];
     })
     .sort((a, b) => a.date.localeCompare(b.date));
 }

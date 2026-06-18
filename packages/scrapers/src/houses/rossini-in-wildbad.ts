@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -154,12 +155,14 @@ function parseCalendarRows(html: string): CalEntry[] {
     const [, dd, monthName, yyyy] = dm;
     const mm = MONTHS[(monthName ?? "").toLowerCase()];
     if (!mm || !dd || !yyyy) continue;
+    const date = isoFromParts(yyyy, mm, dd);
+    if (!date) continue;
 
     const times = [...row.matchAll(/🕢\s*(\d{1,2}:\d{2})/g)];
     out.push({
       slug,
       title: "",
-      date: `${yyyy}-${mm}-${dd.padStart(2, "0")}` as IsoDate,
+      date,
       time: times.at(-1)?.[1] ?? null,
     });
   }

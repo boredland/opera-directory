@@ -1,7 +1,7 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -148,7 +148,8 @@ function parseTermine(html: string, year: number | null, window: ScrapeWindow): 
   for (const [, dd, mm, hh, min] of block.matchAll(
     /\b(\d{1,2})\.(\d{1,2})\.\s*(\d{1,2})[:.](\d{2})\s*UHR/gi,
   )) {
-    const date = `${year}-${(mm ?? "").padStart(2, "0")}-${(dd ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, mm ?? "", dd ?? "");
+    if (!date) continue;
     const time = `${(hh ?? "").padStart(2, "0")}:${min}`;
     const key = `${date}|${time}`;
     if ((window.since && date < window.since) || seen.has(key)) continue;
