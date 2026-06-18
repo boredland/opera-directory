@@ -2127,5 +2127,16 @@
     "strategy": "json-api",
     "enabled": true,
     "notes": "Nice municipal opera — WordPress, no proxy (use www.opera-nice.org; the opera.nice.fr host is unreachable from datacenter IPs). Uniquely clean among the French houses: the `events` CPT exposes FULLY STRUCTURED acf over the open REST API, so no detail-page HTML parsing. **Discovery + all facts in one paginated sweep of /wp-json/wp/v2/events?event_types=26,158 (the 'Opéra' taxonomy term fr 26 + en dup 158 = the genre gate, applied server-side); acf rides along in the list payload.** Per row: title.rendered = work; **acf.credits[] = {role,names} with a controlled vocabulary — role 'composer' is the opera gate, 'musical-direction'/'music'→conductor, 'stage-direction'→director, 'choreography'→choreographer** (co-credits split on &/,/' et '); acf.event_dates[] = nights as {start_date 'YYYYMMDD', start_time 'HH:MM:SS'}. Cast (singer→role) is not published structured → cast empty (faithful). Opera-category items without a composer credit (galas/concerts mis-tagged 'Opéra') fail the gate. Backfill Wikidata Q608423. 7 live."
+  },
+  {
+    "slug": "opera-national-du-capitole",
+    "name": "Opéra national du Capitole",
+    "city": "Toulouse",
+    "country": "FR",
+    "website": "https://opera.toulouse.fr",
+    "wikidata": "Q3091701",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Toulouse — WordPress `onct-events` CPT, no proxy. **Discovery + facts in one paginated sweep of /wp-json/wp/v2/onct-events?onct-event-type=5 (term 5 'Opéra' = the server-side genre gate); the list payload carries content.rendered + meta, so no per-detail fetch.** Composer (opera gate) = meta.onct-event-short-desc ('Luigi Cherubini (1760-1842)' → life-dates trimmed). **Performances: the house publishes only the run BOUNDS, not the individual nights (the dated body mentions are audiodescription séances/talks) → emit opening (meta.onct-event-timestamp) + closing (onct-event-end-timestamp) Unix instants in Europe/Paris local time; middle nights unavailable.** Credits in content.rendered Gutenberg: creative = ocre `<strong><em>Label</em></strong>` paragraphs before the 'distribution' heading + the following `<strong>Name</strong>` (French labels mapped); cast = `<em>Role</em></p><p><strong>Singer</strong>` pairs (the `</em></p>` boundary distinguishes a character role from a creative label whose em sits inside strong; marketing blurbs carry no em-role → excluded; ensemble orchestre/chœur dropped). Older seasons thin on cast (markup variants). Backfill Wikidata Q3091701. ~26 since 2023."
   }
 ]
