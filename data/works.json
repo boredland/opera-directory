@@ -802,6 +802,11 @@
     "composer_slug": "arnold-schonberg"
   },
   {
+    "slug": "arnold-schonberg/transfigure-12-vies-de-schonberg",
+    "title": "Transfiguré – 12 vies de Schönberg",
+    "composer_slug": "arnold-schonberg"
+  },
+  {
     "slug": "arrigo-boito/mefistofele",
     "title": "Mefistofele",
     "composer_slug": "arrigo-boito"
@@ -1055,6 +1060,11 @@
     "composer_slug": "benjamin-britten"
   },
   {
+    "slug": "benjamin-britten/l-arche-de-noe",
+    "title": "L’arche de noé",
+    "composer_slug": "benjamin-britten"
+  },
+  {
     "slug": "benjamin-britten/owen-wingrave",
     "title": "Owen Wingrave",
     "composer_slug": "benjamin-britten"
@@ -1172,6 +1182,11 @@
     "slug": "bnnyhunna/lennox",
     "title": "Lennox",
     "composer_slug": "bnnyhunna"
+  },
+  {
+    "slug": "bohuslav-martinu/juliette-ou-la-cle-des-songes",
+    "title": "Juliette ou la Clé des songes",
+    "composer_slug": "bohuslav-martinu"
   },
   {
     "slug": "bohuslav-martinu/the-greek-passion",
@@ -1465,6 +1480,11 @@
     "composer_slug": "charles-lecocq"
   },
   {
+    "slug": "charles-lecoq/la-fille-de-madame-angot",
+    "title": "La Fille de Madame Angot",
+    "composer_slug": "charles-lecoq"
+  },
+  {
     "slug": "charles-villiers-stanford/much-ado-about-nothing",
     "title": "Much Ado About Nothing",
     "composer_slug": "charles-villiers-stanford"
@@ -1715,6 +1735,11 @@
     "slug": "daniel-bjarnason/passion-of-the-common-man",
     "title": "Passion of the Common Man",
     "composer_slug": "daniel-bjarnason"
+  },
+  {
+    "slug": "daniel-d-adamo-bela-bartok/le-chateau-de-barbe-bleue",
+    "title": "Le Château de Barbe-Bleue",
+    "composer_slug": "daniel-d-adamo-bela-bartok"
   },
   {
     "slug": "daniel-johannes-mayr/nessun-dorma",
@@ -2863,6 +2888,11 @@
     "world_premiere_house_slug": "teatro-dell-opera-di-roma"
   },
   {
+    "slug": "francois-adrien-boieldieu/la-dame-blanche",
+    "title": "La dame blanche",
+    "composer_slug": "francois-adrien-boieldieu"
+  },
+  {
     "slug": "frank-schwemmer/kuchenoper",
     "title": "Küchenoper",
     "composer_slug": "frank-schwemmer"
@@ -2871,6 +2901,11 @@
     "slug": "frank-wildhorn/jekyll-es-hyde",
     "title": "Jekyll és Hyde",
     "composer_slug": "frank-wildhorn"
+  },
+  {
+    "slug": "frank-zappa/200-motels-the-suites",
+    "title": "200 motels – the suites",
+    "composer_slug": "frank-zappa"
   },
   {
     "slug": "franklin-fuhrung",
@@ -2915,6 +2950,11 @@
   {
     "slug": "franz-lehar/la-vedova-allegra",
     "title": "La vedova allegra",
+    "composer_slug": "franz-lehar"
+  },
+  {
+    "slug": "franz-lehar/la-veuve-joyeuse",
+    "title": "La veuve joyeuse",
     "composer_slug": "franz-lehar"
   },
   {
@@ -3339,6 +3379,11 @@
     "composer_slug": "georg-friedrich-h-ndel"
   },
   {
+    "slug": "georg-friedrich-haendel/orlando",
+    "title": "Orlando",
+    "composer_slug": "georg-friedrich-haendel"
+  },
+  {
     "slug": "georg-friedrich-handel-dramma-musicale-in-tre-atti/alcina",
     "title": "Alcina",
     "composer_slug": "georg-friedrich-handel-dramma-musicale-in-tre-atti"
@@ -3593,6 +3638,11 @@
     "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
+    "slug": "giacomo-puccini/edgar",
+    "title": "Edgar",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
     "slug": "giacomo-puccini/gianni-schicchi",
     "title": "Gianni Schicchi",
     "composer_slug": "giacomo-puccini"
@@ -3615,6 +3665,11 @@
   {
     "slug": "giacomo-puccini/la-fanciulla-del-west",
     "title": "La fanciulla del West",
+    "composer_slug": "giacomo-puccini"
+  },
+  {
+    "slug": "giacomo-puccini/le-villi",
+    "title": "Le Villi",
     "composer_slug": "giacomo-puccini"
   },
   {
@@ -3902,6 +3957,11 @@
   {
     "slug": "gioachino-rossini/la-scala-di-seta",
     "title": "La scala di seta",
+    "composer_slug": "gioachino-rossini"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville",
+    "title": "Le Barbier de Séville",
     "composer_slug": "gioachino-rossini"
   },
   {
@@ -4896,6 +4956,11 @@
     "composer_slug": "igor-stravinskij"
   },
   {
+    "slug": "igor-stravinsky-francis-poulenc/le-rossignol-les-mamelles",
+    "title": "Le rossignol / les mamelles",
+    "composer_slug": "igor-stravinsky-francis-poulenc"
+  },
+  {
     "slug": "igor-stravinsky/the-rake-s-progress",
     "title": "The Rake’s Progress",
     "composer_slug": "igor-stravinsky"
@@ -5037,8 +5102,18 @@
     "composer_slug": "jacques-offenbach"
   },
   {
+    "slug": "jacques-offenbach/le-voyage-dans-la-lune",
+    "title": "Le voyage dans la lune",
+    "composer_slug": "jacques-offenbach"
+  },
+  {
     "slug": "jacques-offenbach/les-contes-d-hoffmann",
     "title": "Les Contes d’Hoffmann",
+    "composer_slug": "jacques-offenbach"
+  },
+  {
+    "slug": "jacques-offenbach/orphee-aux-enfers",
+    "title": "Orphée aux enfers",
     "composer_slug": "jacques-offenbach"
   },
   {
@@ -5100,6 +5175,11 @@
     "slug": "jason-powell/fortuna-the-time-bender-vs-the-schoolgirls-of-doom",
     "title": "Fortuna the Time Bender vs. The Schoolgirls of Doom",
     "composer_slug": "jason-powell"
+  },
+  {
+    "slug": "jean-baptiste-lully/phaeton",
+    "title": "Phaéton",
+    "composer_slug": "jean-baptiste-lully"
   },
   {
     "slug": "jean-jacques-rousseau/mozartiade-ovvero-bastiano-e-bastiana",
@@ -6263,6 +6343,11 @@
     "composer_slug": "ludger-vollmer-und-jenny-erpenbeck"
   },
   {
+    "slug": "ludovic-halevy-edouard-noel/pomme-d-rsquo-api-le-singe-d-rsquo-une-nuit-d-rsquo-ete",
+    "title": "Pomme d&rsquo;Api / Le Singe d&rsquo;une nuit d&rsquo;été",
+    "composer_slug": "ludovic-halevy-edouard-noel"
+  },
+  {
     "slug": "ludovico-einaudi/winter-journey",
     "title": "Winter Journey",
     "composer_slug": "ludovico-einaudi"
@@ -6657,6 +6742,11 @@
     "slug": "michail-glinka/ruslan-und-ljudmila",
     "title": "Ruslan und Ljudmila",
     "composer_slug": "michail-glinka"
+  },
+  {
+    "slug": "michele-reverdy/le-cosmicomiche",
+    "title": "Le cosmicomiche",
+    "composer_slug": "michele-reverdy"
   },
   {
     "slug": "mieczys-aw-weinberg-bohuslav-martinu/lady-magnesia-zweimal-alexander",
@@ -7567,6 +7657,11 @@
     "composer_slug": "petr-il-ic-cajkovskij"
   },
   {
+    "slug": "philip-glass/aknathen",
+    "title": "Aknathen",
+    "composer_slug": "philip-glass"
+  },
+  {
     "slug": "philip-glass/in-der-strafkolonie",
     "title": "In der Strafkolonie",
     "composer_slug": "philip-glass"
@@ -7579,6 +7674,11 @@
   {
     "slug": "philip-glass/les-enfants-terribles",
     "title": "Les Enfants terribles",
+    "composer_slug": "philip-glass"
+  },
+  {
+    "slug": "philip-glass/satyagraha",
+    "title": "Satyagraha",
     "composer_slug": "philip-glass"
   },
   {
@@ -7615,6 +7715,11 @@
     "slug": "pierangelo-valtinoni/die-reise-zu-planet-9",
     "title": "Die Reise zu Planet 9",
     "composer_slug": "pierangelo-valtinoni"
+  },
+  {
+    "slug": "pierre-jodlowski/la-ralentie",
+    "title": "La ralentie",
+    "composer_slug": "pierre-jodlowski"
   },
   {
     "slug": "pietro-antonio-coppola/gli-illinesi",
@@ -7827,6 +7932,11 @@
   {
     "slug": "puccini/manon-lescaut",
     "title": "MANON LESCAUT",
+    "composer_slug": "puccini"
+  },
+  {
+    "slug": "puccini/recital-ermonela-jaho",
+    "title": "Récital ermonela jaho",
     "composer_slug": "puccini"
   },
   {
@@ -8180,6 +8290,11 @@
   {
     "slug": "richard-wagner/tristan-and-isolde-tristan-und-isolde",
     "title": "TRISTAN AND ISOLDE (Tristan und Isolde)",
+    "composer_slug": "richard-wagner"
+  },
+  {
+    "slug": "richard-wagner/tristan-et-isolde",
+    "title": "Tristan et Isolde",
     "composer_slug": "richard-wagner"
   },
   {
@@ -9191,6 +9306,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "unsuk-chin/alice-au-pays-des-merveilles",
+    "title": "Alice au pays des merveilles",
+    "composer_slug": "unsuk-chin"
+  },
+  {
     "slug": "unterwelten",
     "title": "Unterwelten",
     "composer_slug": ""
@@ -9428,6 +9548,11 @@
   {
     "slug": "w-a-mozart/ciao-amore",
     "title": "Ciao amore!",
+    "composer_slug": "w-a-mozart"
+  },
+  {
+    "slug": "w-a-mozart/la-clemence-de-titus",
+    "title": "La Clémence de Titus",
     "composer_slug": "w-a-mozart"
   },
   {
@@ -9713,6 +9838,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/la-finta-giardiniera-die-gartnerin-aus-liebe",
     "title": "La Finta Giardiniera (Die Gärtnerin aus Liebe)",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-flute-enchantee",
+    "title": "La Flûte enchantée",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
