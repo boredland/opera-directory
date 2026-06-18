@@ -2116,5 +2116,16 @@
     "strategy": "json-api",
     "enabled": true,
     "notes": "Bergamo teatro di tradizione + home of the autumn Donizetti Opera festival (same Avada/WordPress stack as the festival site donizettiopera.org) — no proxy. Listing pages are JS-rendered → **discovery rides the custom calendar plugin at ecal.teatrodonizetti.it/api/calendar_feed (POST urlencoded start/end/lang/categorie/calendari/view=listMonthCustom, empty filters → all ~181 events)** which carries slug/title/data_std/ora/altreDate[] (Italian 'DD mese YYYY')/luogo/categorie[]. Keep only opera-{year} / il-festival-donizetti-opera / opera-concerti categories, then fetch each /it/evento/{slug}/ detail — **season operas serve content on teatrodonizetti.it, the current festival edition on donizettiopera.org, so try BOTH per slug and keep the one with a 'musica di' byline**. Detail opera gate: 'musica di {Composer}' + a non-balletto/concerto genre line + sung cast (drops the danced Carmen + Opera&Concerti concerti). Credits 'label <strong>Name</strong>' (<em> locandina or p.MsoNormal block; <br> sometimes inside </strong>, names split across adjacent strongs; 'musica di' added to NON_ROLE to stop it leaking to cast). Past festival editions are content-less stubs → Wikidata backfill Q3516755 (~16 dated premieres 1828–1967; company Q113482159 has 0). 5 live."
+  },
+  {
+    "slug": "opera-nice-cote-d-azur",
+    "name": "Opéra de Nice Côte d'Azur",
+    "city": "Nice",
+    "country": "FR",
+    "website": "https://www.opera-nice.org",
+    "wikidata": "Q608423",
+    "strategy": "json-api",
+    "enabled": true,
+    "notes": "Nice municipal opera — WordPress, no proxy (use www.opera-nice.org; the opera.nice.fr host is unreachable from datacenter IPs). Uniquely clean among the French houses: the `events` CPT exposes FULLY STRUCTURED acf over the open REST API, so no detail-page HTML parsing. **Discovery + all facts in one paginated sweep of /wp-json/wp/v2/events?event_types=26,158 (the 'Opéra' taxonomy term fr 26 + en dup 158 = the genre gate, applied server-side); acf rides along in the list payload.** Per row: title.rendered = work; **acf.credits[] = {role,names} with a controlled vocabulary — role 'composer' is the opera gate, 'musical-direction'/'music'→conductor, 'stage-direction'→director, 'choreography'→choreographer** (co-credits split on &/,/' et '); acf.event_dates[] = nights as {start_date 'YYYYMMDD', start_time 'HH:MM:SS'}. Cast (singer→role) is not published structured → cast empty (faithful). Opera-category items without a composer credit (galas/concerts mis-tagged 'Opéra') fail the gate. Backfill Wikidata Q608423. 7 live."
   }
 ]
