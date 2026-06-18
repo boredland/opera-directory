@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Los Angeles Opera (`jsonld-event` strategy) — Tier-1 US opera company, season
@@ -279,7 +280,7 @@ function heroOpeningDate(html: string): IsoDate | null {
   );
   const month = m ? MONTHS[m[1]?.toLowerCase() ?? ""] : undefined;
   if (!m || !month) return null;
-  return `${m[3]}-${month}-${(m[2] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[2] ?? "");
 }
 
 const MONTHS: Record<string, string> = {

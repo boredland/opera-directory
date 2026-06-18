@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Tulsa Opera (`spielplan-html` strategy) — a regional US opera company (Tulsa,
@@ -262,7 +262,8 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
   )) {
     const month = MONTHS[(monthName ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${year}-${month}-${(day ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year ?? "", month, day ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = to24h(hour ?? "", minute ?? "", meridian ?? "");
     const key = `${date}|${time}`;

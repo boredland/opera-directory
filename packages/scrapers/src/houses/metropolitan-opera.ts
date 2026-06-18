@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Metropolitan Opera — two sources, one per leg of the timeline:
@@ -441,7 +442,7 @@ function parseUsDate(text: string): IsoDate | null {
   const m = text.match(/([A-Z][a-z]+) (\d{1,2}), (\d{4})/);
   const month = m ? US_MONTHS[m[1]?.toLowerCase() ?? ""] : undefined;
   if (!m || !month) return null;
-  return `${m[3]}-${month}-${(m[2] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[2] ?? "");
 }
 
 /** US opera seasons run Sep–Aug: an Oct 1883 date belongs to "1883/84". */

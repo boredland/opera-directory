@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Virginia Opera (`json-api` strategy) — the official opera company of the
@@ -362,7 +363,7 @@ function resolveDate(
     const d = new Date(Date.UTC(year, mon - 1, day));
     if (d.getUTCMonth() !== mon - 1) continue;
     if (d.getUTCDay() === wd) {
-      return `${year}-${String(mon).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+      return isoFromParts(year, mon, day);
     }
   }
   return null;

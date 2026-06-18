@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Fort Worth Opera (`spielplan-html` strategy) — the oldest opera company in
@@ -298,7 +299,8 @@ function parsePerformances(lines: string[], window: ScrapeWindow): RawPerformanc
     if (!dm) continue;
     const month = MONTHS[(dm[1] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${dm[3]}-${month}-${(dm[2] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", month, dm[2] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
 
     const times = [...line.matchAll(/(\d{1,2}):(\d{2})\s*([ap])\.?\s*m/gi)];

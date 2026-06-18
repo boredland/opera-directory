@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Minnesota Opera (`spielplan-html` strategy) — a year-round US opera company in
@@ -345,7 +346,7 @@ function isoFor(
   if (!m) return null;
   const monthNum = Number.parseInt(month, 10);
   const year = monthNum >= 8 ? m[1] : m[2];
-  return `${year}-${month}-${dayStr.padStart(2, "0")}` as IsoDate;
+  return isoFromParts(year ?? "", month, dayStr);
 }
 
 /** A headline run range (`May 7–22, 2022` / `April 30 – May 8, 2022`) → its start
@@ -356,7 +357,7 @@ function parseDateRange(subtitle: string): IsoDate | null {
   if (!m) return null;
   const month = MONTHS[(m[1] ?? "").toLowerCase()];
   if (!month) return null;
-  return `${m[3]}-${month}-${(m[2] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[2] ?? "");
 }
 
 /** "7:30pm" / "2pm" / "10am" → 24h "HH:MM". */

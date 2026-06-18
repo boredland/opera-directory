@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Sarasota Opera (`spielplan-html` strategy) — US opera company in Sarasota,
@@ -355,7 +356,7 @@ function parseDate(text: string): IsoDate | null {
   if (!m) return null;
   const month = MONTHS[(m[1] ?? "").toLowerCase()];
   if (!month) return null;
-  return `${m[3]}-${month}-${(m[2] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[2] ?? "");
 }
 
 /** "7:30PM" / "1:30PM" → 24h "HH:MM"; null when no time is printed. */

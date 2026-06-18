@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Austin Opera (`spielplan-html` strategy) — US opera company in Austin, Texas
@@ -325,20 +326,26 @@ function expandDates(text: string): IsoDate[] {
       const start = Number.parseInt(rangeA, 10);
       const end = Number.parseInt(rangeB, 10);
       if (end >= start && end <= 31) {
-        for (let d = start; d <= end; d++) dates.push(isoDay(year, month, d));
+        for (let d = start; d <= end; d++) {
+          const iso = isoDay(year, month, d);
+          if (iso) dates.push(iso);
+        }
       }
       continue;
     }
     if (single) {
       const n = Number.parseInt(single, 10);
-      if (n >= 1 && n <= 31) dates.push(isoDay(year, month, n));
+      if (n >= 1 && n <= 31) {
+        const iso = isoDay(year, month, n);
+        if (iso) dates.push(iso);
+      }
     }
   }
   return dates;
 }
 
-function isoDay(year: string, month: string, day: number): IsoDate {
-  return `${year}-${month}-${String(day).padStart(2, "0")}` as IsoDate;
+function isoDay(year: string, month: string, day: number): IsoDate | null {
+  return isoFromParts(year, month, day);
 }
 
 /** "Sung in Italian…" / "Sung in Spanish & English…" → the first language's code. */

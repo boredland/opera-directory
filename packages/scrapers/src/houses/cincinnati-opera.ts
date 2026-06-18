@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Cincinnati Opera (`spielplan-html` strategy) — the second-oldest opera company
@@ -223,7 +223,8 @@ function parsePerformances(
     const times = parseTimes(m[4] ?? "");
 
     for (const day of days) {
-      const date = `${year}-${month}-${day.padStart(2, "0")}` as IsoDate;
+      const date = isoFromParts(year, month, day);
+      if (!date) continue;
       if (window.since && date < window.since) continue;
       for (const time of times.length ? times : [null]) {
         const key = `${date}|${time ?? ""}`;

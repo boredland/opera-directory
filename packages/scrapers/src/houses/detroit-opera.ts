@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, fetchJson, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Detroit Opera (`json-api` strategy) — a year-round US opera company in Detroit,
@@ -294,7 +294,8 @@ function parsePerformances(
     if (!month) continue;
     const monthNum = Number.parseInt(month, 10);
     const year = monthNum < range.startMonth ? range.year + 1 : range.year;
-    const date = `${year}-${month}-${(dayStr ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, dayStr ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = parseTime(timeStr ?? "");
     const key = `${date}|${time ?? ""}`;

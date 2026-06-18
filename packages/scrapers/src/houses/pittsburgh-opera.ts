@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Pittsburgh Opera (`spielplan-html` strategy) — a year-round US opera company in
@@ -361,7 +361,8 @@ function parsePerformances(dateText: string, window: ScrapeWindow): RawPerforman
       continue;
     }
     if (!day || !month) continue;
-    const date = `${year}-${month}-${day.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     if (seen.has(date)) continue;
     seen.add(date);

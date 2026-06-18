@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * San Diego Opera (`spielplan-html` strategy) — a year-round US opera company
@@ -201,7 +201,8 @@ function parsePerformances(
     if (!year) continue;
     const month = MONTHS[(dm[1] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${year}-${month}-${(dm[2] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, dm[2] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
 
     const time = parseTime(tm);

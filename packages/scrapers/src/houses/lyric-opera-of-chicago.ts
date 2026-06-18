@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Lyric Opera of Chicago (`spielplan-html` strategy) — a Tier-1 US opera company
@@ -255,8 +255,8 @@ function parsePerformances(
     const text = stripHtml(block ?? "");
     const dm = text.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
     if (!dm) continue;
-    const date =
-      `${dm[3]}-${(dm[1] ?? "").padStart(2, "0")}-${(dm[2] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", dm[1] ?? "", dm[2] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = parseClock(text);
 

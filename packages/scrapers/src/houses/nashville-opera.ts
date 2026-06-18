@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Nashville Opera (`spielplan-html` strategy) — a US regional opera company
@@ -331,7 +332,7 @@ function isoDate(month: string, day: string, year: string): IsoDate | null {
     .slice(0, month.toLowerCase().startsWith("sept") ? 4 : 3);
   const mm = MONTHS[key];
   if (!mm) return null;
-  return `${year}-${mm}-${day.padStart(2, "0")}` as IsoDate;
+  return isoFromParts(year, mm, day);
 }
 
 /** "7:30 PM" / "3:00 PM" → 24h "HH:MM". */
