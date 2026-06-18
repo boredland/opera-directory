@@ -185,21 +185,6 @@
     "composer_slug": "a-tigranyan"
   },
   {
-    "slug": "ab-14-jahren/open-class-i-anfanger-innen",
-    "title": "Open Class I: Anfänger*innen",
-    "composer_slug": "ab-14-jahren"
-  },
-  {
-    "slug": "ab-14-jahren/open-class-ii-mittelstufe-fortgeschritten",
-    "title": "Open Class II: Mittelstufe / Fortgeschritten",
-    "composer_slug": "ab-14-jahren"
-  },
-  {
-    "slug": "ab-3-jahren/das-kind-und-das-ding",
-    "title": "Das Kind und das Ding",
-    "composer_slug": "ab-3-jahren"
-  },
-  {
     "slug": "abschlusskonzert-der-punkakademie/punkakademie-jede-kann-s",
     "title": "PUNKAKADEMIE: JEDE KANN’S!",
     "composer_slug": "abschlusskonzert-der-punkakademie"
@@ -437,11 +422,6 @@
     "composer_slug": "",
     "world_premiere": "1758-01-01",
     "world_premiere_house_slug": "teatro-regio-di-parma"
-  },
-  {
-    "slug": "alexander-r-schwei-und-lena-rei-ner-treffpunkt-20-45-uhr-am-buhneneingang-in-der-bertoldstra-e-46/the-bat-bomb",
-    "title": "The Bat Bomb!",
-    "composer_slug": "alexander-r-schwei-und-lena-rei-ner-treffpunkt-20-45-uhr-am-buhneneingang-in-der-bertoldstra-e-46"
   },
   {
     "slug": "alexander-r-schwei/the-bat-bomb",
@@ -785,11 +765,6 @@
     "slug": "antonio-vivaldi/l-olimpiade",
     "title": "L’Olimpiade",
     "composer_slug": "antonio-vivaldi"
-  },
-  {
-    "slug": "archpriest-kiril-popov/echo-of-1876-the-hermit-of-rila",
-    "title": "ECHO OF 1876 / THE HERMIT OF RILA",
-    "composer_slug": "archpriest-kiril-popov"
   },
   {
     "slug": "archpriest-kiril-popov/the-hermit-of-rila",
@@ -1147,11 +1122,6 @@
     "composer_slug": "bernhard-lang"
   },
   {
-    "slug": "bertolt-brecht-mit-der-musik-von-kurt-wei/die-dreigroschenoper",
-    "title": "Die Dreigroschenoper",
-    "composer_slug": "bertolt-brecht-mit-der-musik-von-kurt-wei"
-  },
-  {
     "slug": "bertolt-brecht-text-und-kurt-weill-mus/die-dreigroschenoper",
     "title": "Die Dreigroschenoper",
     "composer_slug": "bertolt-brecht-text-und-kurt-weill-mus"
@@ -1232,23 +1202,8 @@
     "composer_slug": "brad-carroll"
   },
   {
-    "slug": "brad-carroll/bajazzo-darf-nicht-platzen-lend-me-a-tenor-das-musical",
-    "title": "Bajazzo darf nicht platzen! Lend Me A Tenor - Das Musical",
-    "composer_slug": "brad-carroll"
-  },
-  {
-    "slug": "brad-carroll/lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
-    "title": "Lend Me A Tenor Bajazzo darf nicht platzen - Das Musical",
-    "composer_slug": "brad-carroll"
-  },
-  {
     "slug": "brad-carroll/soiree-bajazzo-darf-nicht-platzen-lend-me-a-tenor",
     "title": "Soirée Bajazzo darf nicht platzen! (Lend Me A Tenor)",
-    "composer_slug": "brad-carroll"
-  },
-  {
-    "slug": "brad-carroll/soiree-lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
-    "title": "Soirée Lend Me A Tenor! Bajazzo darf nicht platzen - Das Musical",
     "composer_slug": "brad-carroll"
   },
   {
@@ -1404,14 +1359,6 @@
     "slug": "carlisle-floyd/susannah",
     "title": "Susannah",
     "composer_slug": "carlisle-floyd"
-  },
-  {
-    "slug": "carlo-emery-coen/antonio-foscarini",
-    "wikidata": "Q109244718",
-    "title": "Antonio Foscarini",
-    "composer_slug": "carlo-emery-coen",
-    "world_premiere": "1841-11-24",
-    "world_premiere_house_slug": "teatro-comunale-di-bologna"
   },
   {
     "slug": "carlo-evasio-soliva/berenice-d-armenia",
@@ -1570,11 +1517,6 @@
     "composer_slug": "christoph-ritter"
   },
   {
-    "slug": "christoph-willibald-gluck-und-nicolas-francois-guillard/iphigenie-en-tauride",
-    "title": "Iphigénie en Tauride",
-    "composer_slug": "christoph-willibald-gluck-und-nicolas-francois-guillard"
-  },
-  {
     "slug": "christoph-willibald-gluck/alceste",
     "title": "Alceste",
     "composer_slug": "christoph-willibald-gluck"
@@ -1700,11 +1642,6 @@
     "slug": "claudio-monteverdi/le-couronnement-de-poppee",
     "title": "Le Couronnement de Poppée",
     "composer_slug": "claudio-monteverdi"
-  },
-  {
-    "slug": "claudio-santoro-fur-alle-ab-14-jahren/alma",
-    "title": "Alma",
-    "composer_slug": "claudio-santoro-fur-alle-ab-14-jahren"
   },
   {
     "slug": "claudio-santoro/alma",
@@ -1854,11 +1791,6 @@
     "world_premiere_house_slug": "opera-de-lille"
   },
   {
-    "slug": "der-abschied-die-geister-von-w-at",
-    "title": "Der Abschied/Die Geister von W. (AT)",
-    "composer_slug": ""
-  },
-  {
     "slug": "der-feurige-engel",
     "title": "Der feurige Engel",
     "composer_slug": ""
@@ -1952,11 +1884,6 @@
   {
     "slug": "die-stadtischen-buhnen-frankfurt-beim-museumsuferfest-2026",
     "title": "Die Städtischen Bühnen Frankfurt beim Museumsuferfest 2026",
-    "composer_slug": ""
-  },
-  {
-    "slug": "die-verkaufte-braut",
-    "title": "Die verkaufte Braut",
     "composer_slug": ""
   },
   {
@@ -2152,11 +2079,6 @@
     "composer_slug": "ein-blick-hinter-die-kulissen"
   },
   {
-    "slug": "ein-fall-fur-figaro",
-    "title": "Ein Fall für Figaro",
-    "composer_slug": ""
-  },
-  {
     "slug": "ein-gemalde-entsteht/slime-studies",
     "title": "Slime Studies",
     "composer_slug": "ein-gemalde-entsteht"
@@ -2293,11 +2215,6 @@
     "composer_slug": "ellen-reid"
   },
   {
-    "slug": "emanuel-schikaneder/die-zauberflote",
-    "title": "Die Zauberflöte",
-    "composer_slug": "emanuel-schikaneder"
-  },
-  {
     "slug": "emanuele-biletta/l-abazia-di-kelso",
     "wikidata": "Q109244322",
     "title": "L'abazia di Kelso",
@@ -2418,11 +2335,6 @@
     "slug": "ensemble-modern-nach-john-cage/atlas-eclipticalis",
     "title": "Atlas Eclipticalis",
     "composer_slug": "ensemble-modern-nach-john-cage"
-  },
-  {
-    "slug": "ente-tod-und-tulpe",
-    "title": "Ente, Tod und Tulpe",
-    "composer_slug": ""
   },
   {
     "slug": "episodes",
@@ -2586,11 +2498,6 @@
   {
     "slug": "familien-und-jugend-shy-einfuhrungen",
     "title": "Familien- und Jugend&shy;einführungen",
-    "composer_slug": ""
-  },
-  {
-    "slug": "familien-und-jugendeinfuhrungen",
-    "title": "Familien- und Jugendeinführungen",
     "composer_slug": ""
   },
   {
@@ -3211,16 +3118,6 @@
     "composer_slug": ""
   },
   {
-    "slug": "fur-jugendliche-erwachsene-ab-16-jahre/mixed-abled-tanzunterricht-ii",
-    "title": "Mixed-abled Tanzunterricht II",
-    "composer_slug": "fur-jugendliche-erwachsene-ab-16-jahre"
-  },
-  {
-    "slug": "fur-kinder-bis-einschl-15-jahre/mixed-abled-tanzunterricht",
-    "title": "Mixed-abled Tanzunterricht",
-    "composer_slug": "fur-kinder-bis-einschl-15-jahre"
-  },
-  {
     "slug": "furst-igor",
     "title": "Fürst Igor",
     "composer_slug": ""
@@ -3759,11 +3656,6 @@
     "slug": "giacomo-puccini-aus-il-trittico/suor-angelica",
     "title": "Suor Angelica",
     "composer_slug": "giacomo-puccini-aus-il-trittico"
-  },
-  {
-    "slug": "giacomo-puccini-aus-raquo/suor-angelica",
-    "title": "Suor Angelica",
-    "composer_slug": "giacomo-puccini-aus-raquo"
   },
   {
     "slug": "giacomo-puccini-d/la-boheme",
@@ -4547,16 +4439,6 @@
     "composer_slug": "giuseppe-verdi-termine-karten-figure-clas"
   },
   {
-    "slug": "giuseppe-verdi-und-francesco-maria-piave-einfuhrung-30-minuten-vor-vorstellungsbeginn/rigoletto",
-    "title": "Rigoletto",
-    "composer_slug": "giuseppe-verdi-und-francesco-maria-piave-einfuhrung-30-minuten-vor-vorstellungsbeginn"
-  },
-  {
-    "slug": "giuseppe-verdi-und-francesco-maria-piave/la-traviata",
-    "title": "La traviata",
-    "composer_slug": "giuseppe-verdi-und-francesco-maria-piave"
-  },
-  {
     "slug": "giuseppe-verdi/aida",
     "title": "Aida",
     "composer_slug": "giuseppe-verdi"
@@ -4983,11 +4865,6 @@
     "world_premiere_house_slug": "staatsoper-hamburg"
   },
   {
-    "slug": "henri-meilhac/carmen",
-    "title": "Carmen",
-    "composer_slug": "henri-meilhac"
-  },
-  {
     "slug": "henrik-albrecht/heidi",
     "title": "Heidi",
     "composer_slug": "henrik-albrecht"
@@ -5131,11 +5008,6 @@
     "slug": "ian-cusson/empire-of-wild",
     "title": "Empire of Wild",
     "composer_slug": "ian-cusson"
-  },
-  {
-    "slug": "idomeneo",
-    "title": "Idomeneo",
-    "composer_slug": ""
   },
   {
     "slug": "idomeneo-re-di-creta",
@@ -5474,11 +5346,6 @@
     "composer_slug": "jerry-bock-musik"
   },
   {
-    "slug": "jerry-herman-und-harvey-fierstein/la-cage-aux-folles",
-    "title": "La Cage aux Folles",
-    "composer_slug": "jerry-herman-und-harvey-fierstein"
-  },
-  {
     "slug": "jerry-herman/ein-kafig-voller-narren",
     "title": "Ein Käfig voller Narren",
     "composer_slug": "jerry-herman"
@@ -5550,11 +5417,6 @@
     "composer_slug": "johann-simon-mayr",
     "world_premiere": "1801-04-21",
     "world_premiere_house_slug": "teatro-verdi-trieste"
-  },
-  {
-    "slug": "johann-strau-sohn/die-fledermaus",
-    "title": "Die Fledermaus",
-    "composer_slug": "johann-strau-sohn"
   },
   {
     "slug": "johann-strau/die-fledermaus",
@@ -5680,11 +5542,6 @@
     "slug": "john-neumeier/endstation-sehnsucht",
     "title": "Endstation Sehnsucht",
     "composer_slug": "john-neumeier"
-  },
-  {
-    "slug": "jonathan-dove-und-alasdair-middleton-eine-kooperation-mit-der-hochschule-fur-musik-freiburg/the-enchanted-pig",
-    "title": "The Enchanted Pig",
-    "composer_slug": "jonathan-dove-und-alasdair-middleton-eine-kooperation-mit-der-hochschule-fur-musik-freiburg"
   },
   {
     "slug": "jonathan-dove/der-geheime-garten",
@@ -5857,11 +5714,6 @@
     "composer_slug": ""
   },
   {
-    "slug": "kammerkonzert-9/in-memoriam",
-    "title": "In Memoriam",
-    "composer_slug": "kammerkonzert-9"
-  },
-  {
     "slug": "kammermusik",
     "title": "Kammermusik",
     "composer_slug": ""
@@ -6008,11 +5860,6 @@
     "composer_slug": ""
   },
   {
-    "slug": "komische-oper/la-mamma",
-    "title": "La Mamma!",
-    "composer_slug": "komische-oper"
-  },
-  {
     "slug": "kommando-himmelfahrt-uber-ki-und-den-wun/e-l-i-z-a",
     "title": "E.L.I.Z.A.",
     "composer_slug": "kommando-himmelfahrt-uber-ki-und-den-wun"
@@ -6065,11 +5912,6 @@
   {
     "slug": "kristina-mkhitaryan-sopran-pavel-nebolsin-klavier",
     "title": "Kristina Mkhitaryan (Sopran) / Pavel Nebolsin (Klavier)",
-    "composer_slug": ""
-  },
-  {
-    "slug": "kristina-mkhitaryan-sopran-sasha-yankevych-klavier",
-    "title": "Kristina Mkhitaryan (Sopran) / Sasha Yankevych (Klavier)",
     "composer_slug": ""
   },
   {
@@ -6128,11 +5970,6 @@
     "composer_slug": ""
   },
   {
-    "slug": "la-fleur-mit-musik-von-jacques-offenbach/amusez-vous-jacques-offenbach",
-    "title": "Amusez-vous: Jacques Offenbach",
-    "composer_slug": "la-fleur-mit-musik-von-jacques-offenbach"
-  },
-  {
     "slug": "la-fleur-nach-emmerich-kalman/das-phantom-der-operette",
     "title": "Das Phantom der Operette",
     "composer_slug": "la-fleur-nach-emmerich-kalman"
@@ -6176,11 +6013,6 @@
     "slug": "landschaftsmusik",
     "title": "Landschaftsmusik",
     "composer_slug": ""
-  },
-  {
-    "slug": "lars-von-trier-und-niels-v-rsel-und-musik-von-richard-wagner/europa",
-    "title": "Europa",
-    "composer_slug": "lars-von-trier-und-niels-v-rsel-und-musik-von-richard-wagner"
   },
   {
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
@@ -6239,11 +6071,6 @@
     "slug": "leo-delibes/lakme-in-concert",
     "title": "Lakmé in Concert",
     "composer_slug": "leo-delibes"
-  },
-  {
-    "slug": "leonard-bernstein-broadway-revival/candide",
-    "title": "Candide",
-    "composer_slug": "leonard-bernstein-broadway-revival"
   },
   {
     "slug": "leonard-bernstein-buch-von-hugh-wheeler/candide",
@@ -6920,11 +6747,6 @@
     "composer_slug": "mathilde-wantenaar"
   },
   {
-    "slug": "matineekonzert",
-    "title": "Matineekonzert",
-    "composer_slug": ""
-  },
-  {
     "slug": "matteo-d-amico/la-vita-nuda",
     "title": "La vita nuda",
     "composer_slug": "matteo-d-amico"
@@ -6948,11 +6770,6 @@
     "slug": "maurizio-fabrizio/edith",
     "title": "Édith",
     "composer_slug": "maurizio-fabrizio"
-  },
-  {
-    "slug": "mdr-klassik-zum-jahr-der-stimme/klassik-karaoke",
-    "title": "Klassik Karaoke",
-    "composer_slug": "mdr-klassik-zum-jahr-der-stimme"
   },
   {
     "slug": "mdr-klassik-zum-jahr/klassik-karaoke",
@@ -7121,11 +6938,6 @@
     "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "title": "Das Grand Hotel der Gefühle",
     "composer_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a"
-  },
-  {
-    "slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
-    "title": "Das Grand Hotel der Gefühle",
-    "composer_slug": "mit-musik-von-bizet-verdi-mozatz-rossini-ravel-u-a"
   },
   {
     "slug": "mit-raumlabor/hocker-bauen",
@@ -7799,11 +7611,6 @@
     "composer_slug": "param-vir"
   },
   {
-    "slug": "party-im-garten-der-kunste",
-    "title": "Party im Garten der Künste",
-    "composer_slug": ""
-  },
-  {
     "slug": "pascal-dusapin/il-viaggio-dante",
     "title": "Il Viaggio, Dante",
     "composer_slug": "pascal-dusapin"
@@ -7838,11 +7645,6 @@
     "slug": "paul-abraham/ball-im-savoy",
     "title": "BALL IM SAVOY",
     "composer_slug": "paul-abraham"
-  },
-  {
-    "slug": "paul-hindemith-und-robert-seitz/wir-finden-stadt",
-    "title": "Wir finden Stadt",
-    "composer_slug": "paul-hindemith-und-robert-seitz"
   },
   {
     "slug": "paul-hindemith/neues-vom-tage",
@@ -8147,11 +7949,6 @@
     "slug": "piotr-iljic-cajkovskij/eugene-onegin",
     "title": "Eugene Onegin",
     "composer_slug": "piotr-iljic-cajkovskij"
-  },
-  {
-    "slug": "piraten-fluchen-nicht",
-    "title": "Piraten fluchen nicht",
-    "composer_slug": ""
   },
   {
     "slug": "pjotr-iljitsch-tschaikowski/eugen-onegin",
@@ -9005,11 +8802,6 @@
     "composer_slug": "sevilla-div-clas"
   },
   {
-    "slug": "sevilla-von-gioacchino-rossini/il-barbiere-di-siviglia",
-    "title": "Il barbiere di Siviglia",
-    "composer_slug": "sevilla-von-gioacchino-rossini"
-  },
-  {
     "slug": "sezen-aksu/istanbul",
     "title": "Istanbul",
     "composer_slug": "sezen-aksu"
@@ -9110,11 +8902,6 @@
   {
     "slug": "soiree-des-opernstudios",
     "title": "Soiree des Opernstudios",
-    "composer_slug": ""
-  },
-  {
-    "slug": "soiree-lend-me-a-tenor-bajazzo-darf-nicht-platzen-das-musical",
-    "title": "Soirée Lend Me A Tenor Bajazzo darf nicht platzen - Das Musical",
     "composer_slug": ""
   },
   {
@@ -9458,11 +9245,6 @@
   {
     "slug": "theater-sneak",
     "title": "Theater-Sneak",
-    "composer_slug": ""
-  },
-  {
-    "slug": "theaternacht-hamburg",
-    "title": "Theaternacht Hamburg",
     "composer_slug": ""
   },
   {
@@ -9934,11 +9716,6 @@
     "composer_slug": "w-a-mozart-und-szenen-einer-ehe-von-i"
   },
   {
-    "slug": "w-a-mozart/ciao-amore",
-    "title": "Ciao amore!",
-    "composer_slug": "w-a-mozart"
-  },
-  {
     "slug": "w-a-mozart/la-clemence-de-titus",
     "title": "La Clémence de Titus",
     "composer_slug": "w-a-mozart"
@@ -10009,11 +9786,6 @@
     "composer_slug": "wen-liu"
   },
   {
-    "slug": "werkschau-der-wald-der-wolf-und-wir",
-    "title": "Werkschau »Der Wald. Der Wolf. Und Wir.«",
-    "composer_slug": ""
-  },
-  {
     "slug": "werkstatt-der-kreativitat-xvii",
     "title": "Werkstatt der Kreativität XVII",
     "composer_slug": ""
@@ -10042,11 +9814,6 @@
     "slug": "what-a-wonderful-world",
     "title": "What a wonderful world",
     "composer_slug": ""
-  },
-  {
-    "slug": "wiebke-hetmanek-und-johann-casimir-eule/ritter-eisenfra",
-    "title": "Ritter Eisenfraß",
-    "composer_slug": "wiebke-hetmanek-und-johann-casimir-eule"
   },
   {
     "slug": "wiebke-hetmanek/ritter-eisenfra",
