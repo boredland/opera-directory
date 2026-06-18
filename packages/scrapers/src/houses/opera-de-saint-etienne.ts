@@ -30,15 +30,17 @@ import { isoFromParts } from "./_dates";
  *     role (→ cast) — disambiguated by whether X maps to a known creative function;
  *     Livret / Orchestre / Chœur / Maîtrise lines are dropped.
  *
- * Incremental scrapes the current + next season; backfill walks the season slugs
- * back (the archive is live) and adds Wikidata (Q3354530).
+ * We cover the previous/current/next season, whose lyric pages link productions
+ * as `/otse/saison-YY-YY/…/s-<id>/` (year derivable from the season slug). The
+ * deeper archive is linked as `/otse/l-opera/les-saisons-passees/…` whose detail
+ * pages omit the year AND the weekday+date doesn't pin it uniquely (e.g. Nov 6/8
+ * fall on the same weekdays in 2011/2016/2022), so it's intentionally NOT walked;
+ * deep past would come from Wikidata (Q3354530), which currently has no works.
  */
 
 const BASE = "https://opera.saint-etienne.fr";
 /** Opéra de Saint-Étienne — verified via wbgetentities: Q3354530, P17 = France. */
 const WIKIDATA_QID = "Q3354530";
-/** Oldest season (start year) to walk in an unbounded backfill. */
-const BACKFILL_FLOOR_YEAR = 2010;
 
 const MONTHS: Record<string, string> = {
   janvier: "01",
@@ -128,20 +130,16 @@ function recentPastFloor(): IsoDate {
   return new Date(Date.now() - 45 * 86_400_000).toISOString().slice(0, 10) as IsoDate;
 }
 
-/** The "YY-YY" season slugs to walk: current+next (incremental) or a range back. */
-function seasonsFor(window: ScrapeWindow): string[] {
+/**
+ * The "YY-YY" season slugs to scrape: previous, current, next. (Same in both
+ * modes — only these expose lyric productions with a reliably datable year; see
+ * the file header on why the deeper archive is left to Wikidata.)
+ */
+function seasonsFor(_window: ScrapeWindow): string[] {
   const now = new Date();
   const m = now.getUTCMonth() + 1;
   const currentStart = m >= 9 ? now.getUTCFullYear() : now.getUTCFullYear() - 1;
-  if (window.mode !== "backfill") {
-    return [seasonSlug(currentStart), seasonSlug(currentStart + 1)];
-  }
-  const floor = window.since
-    ? Number.parseInt(window.since.slice(0, 4), 10) - 1
-    : BACKFILL_FLOOR_YEAR;
-  const out: string[] = [];
-  for (let y = currentStart + 1; y >= floor; y--) out.push(seasonSlug(y));
-  return out;
+  return [currentStart - 1, currentStart, currentStart + 1].map(seasonSlug);
 }
 
 function seasonSlug(startYear: number): string {
