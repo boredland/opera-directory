@@ -1,6 +1,6 @@
 import { describe, expect, it } from "bun:test";
 import type { Performance, Person, Production, Role, Work } from "@opera-directory/schema";
-import { findOrphans } from "./prune";
+import { findOrphans, pruneStore } from "./prune";
 import { CanonicalStore } from "./store";
 
 function makeStore(opts: {
@@ -185,5 +185,38 @@ describe("findOrphans", () => {
     expect(orphans.works).toEqual(["orphan-w"]);
     expect(orphans.persons).toEqual(["orphan-p"]);
     expect(orphans.roles).toEqual(["orphan-r"]);
+  });
+});
+
+describe("pruneStore (fixpoint)", () => {
+  it("removes a composer orphaned only by pruning its orphan work (transitive cascade)", () => {
+    // work-x is referenced by nothing; composer-x is referenced ONLY by work-x.
+    // A single findOrphans pass sees work-x as orphan but composer-x as referenced.
+    // pruneStore must iterate: remove work-x → composer-x becomes orphan → remove it.
+    const store = makeStore({
+      works: [baseWork("work-x", "composer-x")],
+      persons: [basePerson("composer-x")],
+    });
+    // One pass keeps the composer:
+    expect(findOrphans(store).persons).not.toContain("composer-x");
+
+    const removed = pruneStore(store);
+    expect(removed.works).toEqual(["work-x"]);
+    expect(removed.persons).toEqual(["composer-x"]);
+    // Store is now at a fixpoint — nothing left to prune.
+    const after = findOrphans(store);
+    expect(after.works.length + after.persons.length + after.roles.length).toBe(0);
+  });
+
+  it("leaves a fully-referenced store untouched", () => {
+    const store = makeStore({
+      works: [baseWork("work-y", "composer-y")],
+      persons: [basePerson("composer-y")],
+      productions: [baseProduction("test-house/work-y/2024", "work-y")],
+    });
+    const removed = pruneStore(store);
+    expect(removed.works).toEqual([]);
+    expect(removed.persons).toEqual([]);
+    expect(removed.roles).toEqual([]);
   });
 });

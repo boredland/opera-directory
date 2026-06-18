@@ -42,15 +42,50 @@ export function findOrphans(store: CanonicalStore): {
   };
 }
 
+/**
+ * Remove every zero-reference global entity, iterating to a fixpoint: pruning an
+ * orphan work drops its `composer_slug` reference, which can orphan that composer,
+ * and so on. Mutates the store in place; the caller decides whether to persist.
+ * Returns the cumulative removed set (sorted) across all rounds.
+ */
+export function pruneStore(store: CanonicalStore): {
+  persons: string[];
+  works: string[];
+  roles: string[];
+} {
+  const removed = {
+    persons: new Set<string>(),
+    works: new Set<string>(),
+    roles: new Set<string>(),
+  };
+  let round = findOrphans(store);
+  while (round.persons.length + round.works.length + round.roles.length > 0) {
+    for (const s of round.persons) {
+      store.persons.delete(s);
+      removed.persons.add(s);
+    }
+    for (const s of round.roles) {
+      store.roles.delete(s);
+      removed.roles.add(s);
+    }
+    for (const s of round.works) {
+      store.works.delete(s);
+      removed.works.add(s);
+    }
+    round = findOrphans(store);
+  }
+  return {
+    persons: [...removed.persons].sort(),
+    works: [...removed.works].sort(),
+    roles: [...removed.roles].sort(),
+  };
+}
+
 export async function prune(dir: string, apply: boolean): Promise<PruneReport> {
   const store = await CanonicalStore.load(dir);
-  const orphans = findOrphans(store);
-  if (apply) {
-    for (const s of orphans.persons) store.persons.delete(s);
-    for (const s of orphans.roles) store.roles.delete(s);
-    for (const s of orphans.works) store.works.delete(s);
-    await store.save(dir);
-  }
+  // pruneStore mutates the in-memory store to a fixpoint; in dry-run we just don't save it.
+  const orphans = pruneStore(store);
+  if (apply) await store.save(dir);
   return {
     orphans,
     counts: {
