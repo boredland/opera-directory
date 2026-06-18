@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Croatian National Theatre in Zagreb — Opera (`spielplan-html`) — Hrvatsko
@@ -96,7 +96,8 @@ function collectDates(home: string): Map<string, RawPerformance[]> {
     const day = Number.parseInt(m[2] ?? "", 10);
     const month = Number.parseInt(m[3] ?? "", 10);
     const year = month >= curMonth ? now.getFullYear() : now.getFullYear() + 1;
-    const date = iso(year, month, day);
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     const time = `${m[4]}:${m[5]}`;
     const list = out.get(slug) ?? [];
     if (!list.some((p) => p.date === date && p.time === time)) {
@@ -201,8 +202,4 @@ function ogImage(html: string): string | null {
     html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/)?.[1] ??
     null
   );
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

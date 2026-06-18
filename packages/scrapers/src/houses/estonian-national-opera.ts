@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Estonian National Opera (`spielplan-html`) — Rahvusooper Estonia, Tallinn (opera
@@ -206,7 +206,12 @@ function parsePerformances(html: string): RawPerformance[] {
   )) {
     const month = EN_MONTHS[(m[2] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = iso(Number.parseInt(m[3] ?? "", 10), month, Number.parseInt(m[1] ?? "", 10));
+    const date = isoFromParts(
+      Number.parseInt(m[3] ?? "", 10),
+      month,
+      Number.parseInt(m[1] ?? "", 10),
+    );
+    if (!date) continue;
     const time = m[4] ?? null;
     const key = `${date}|${time}`;
     if (seen.has(key)) continue;
@@ -251,8 +256,4 @@ function ogImage(html: string): string | null {
     html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/)?.[1] ??
     null
   );
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

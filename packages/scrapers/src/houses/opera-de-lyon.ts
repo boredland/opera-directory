@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Opéra de Lyon (`spielplan-html`) — the Lyon opera house. Nuxt (Vue) SSR site,
@@ -204,10 +205,10 @@ function parseRange(html: string): { start: IsoDate; end: IsoDate } | null {
         ? endY - 1
         : endY;
     if (startMo && endMo) {
-      return {
-        start: iso(startY, startMo, Number.parseInt(m[1] ?? "", 10)),
-        end: iso(endY, endMo, Number.parseInt(m[4] ?? "", 10)),
-      };
+      const start = isoFromParts(startY, startMo, Number.parseInt(m[1] ?? "", 10));
+      const end = isoFromParts(endY, endMo, Number.parseInt(m[4] ?? "", 10));
+      if (!start || !end) return null;
+      return { start, end };
     }
   }
   const s = text.match(/(\d{1,2})\s+([a-zà-ÿ]+)\.?\s+(20\d{2})/i);
@@ -216,13 +217,10 @@ function parseRange(html: string): { start: IsoDate; end: IsoDate } | null {
       FR_MONTHS[(s[2] ?? "").slice(0, 4).toLowerCase()] ??
       FR_MONTHS[(s[2] ?? "").slice(0, 3).toLowerCase()];
     if (mo) {
-      const d = iso(Number.parseInt(s[3] ?? "", 10), mo, Number.parseInt(s[1] ?? "", 10));
+      const d = isoFromParts(Number.parseInt(s[3] ?? "", 10), mo, Number.parseInt(s[1] ?? "", 10));
+      if (!d) return null;
       return { start: d, end: d };
     }
   }
   return null;
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

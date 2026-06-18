@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Irish National Opera (`spielplan-html`) — Ireland's national company (founded
@@ -360,7 +361,7 @@ function parseDate(
   const month = MONTHS[(m[2] ?? "").slice(0, 3).toLowerCase()];
   if (!month || day < 1 || day > 31) return null;
   const year = monthYear.byMonth[month] ?? monthYear.fallback;
-  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+  return isoFromParts(year, month, day);
 }
 
 /** "7.30pm" → "19:30"; "8pm" → "20:00"; "11am" → "11:00". */

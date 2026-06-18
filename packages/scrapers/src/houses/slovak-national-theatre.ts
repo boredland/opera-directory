@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Slovak National Theatre — Opera (`spielplan-html`) — Opera SND, Bratislava (the
@@ -150,11 +150,12 @@ function parsePerformances(html: string): RawPerformance[] {
   for (const m of html.matchAll(
     /class="on-date">\s*(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\s*<\/span>[\s\S]{0,160}?class="time-from">\s*(\d{1,2}:\d{2})/g,
   )) {
-    const date = iso(
+    const date = isoFromParts(
       Number.parseInt(m[3] ?? "", 10),
       Number.parseInt(m[2] ?? "", 10),
       Number.parseInt(m[1] ?? "", 10),
     );
+    if (!date) continue;
     const time = m[4] ?? null;
     const key = `${date}|${time}`;
     if (seen.has(key)) continue;
@@ -186,8 +187,4 @@ function ogImage(html: string): string | null {
     html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/)?.[1] ??
     null
   );
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

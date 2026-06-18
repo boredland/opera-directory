@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Armenian National Opera and Ballet Theatre (`spielplan-html`) — A. Spendiaryan
@@ -132,7 +132,8 @@ function parseCards(html: string): Card[] {
     if (!month) continue;
     const day = Number.parseInt(dm[1] ?? "", 10);
     const year = month >= curMonth ? now.getFullYear() : now.getFullYear() + 1;
-    const date = iso(year, month, day);
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     const time = item.match(/\b(\d{2}:\d{2})\b/)?.[1] ?? null;
     cards.push({
       id: link[2] ?? "",
@@ -204,8 +205,4 @@ function isPersonName(text: string): boolean {
     if (NAME_PARTICLES.has(bare.toLowerCase())) return true;
     return /^\p{Lu}/u.test(bare); // \p{Lu} covers Armenian capital letters too
   });
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

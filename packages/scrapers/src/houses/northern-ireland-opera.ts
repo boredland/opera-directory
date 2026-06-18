@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Northern Ireland Opera (`spielplan-html`) — Belfast-based national company for
@@ -266,14 +267,11 @@ function parseDateField(
   const time = parseTime(stripHtml(html));
   const venue_room = html.match(VENUES)?.[1] ?? null;
 
-  const performances = uniqueDays.map((day) => ({
-    date: `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate,
-    time,
-    venue_room,
-    status: nightStatus(
-      `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate,
-    ),
-  }));
+  const performances = uniqueDays.flatMap((day) => {
+    const date = isoFromParts(year, month, day);
+    if (!date) return [];
+    return [{ date, time, venue_room, status: nightStatus(date) }];
+  });
   return { performances, season: null };
 }
 

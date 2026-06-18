@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, fetchRendered, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Nederlandse Reisopera (`render`) — the Dutch national touring opera company
@@ -173,8 +173,8 @@ function parseTour(html: string): RawPerformance[] {
     const month = EN_MONTHS[(m[2] ?? "").toLowerCase()];
     const day = Number.parseInt(m[1] ?? "", 10);
     if (!month || day < 1 || day > 31) continue;
-    const date =
-      `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     const time = m[3] ?? null;
     const venue_room = (m[4] ?? "").replace(/\s+/g, " ").trim() || null;
     const key = `${date}|${venue_room ?? ""}`;

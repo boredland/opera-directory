@@ -1,6 +1,7 @@
 import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, fetchJson, stripHtml } from "../fetch";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Opera Collective Ireland (`spielplan-html`) — a Dublin/Carlingford company
@@ -191,8 +192,8 @@ function parseDatesAndVenues(html: string): RawPerformance[] {
         inlineVenue(row) ?? nearestVenue(fallbackVenues, cursor / Math.max(1, block.length));
       for (const day of (m[1] ?? "").split(/\s*,\s*/).map((d) => Number.parseInt(d, 10))) {
         if (day < 1 || day > 31) continue;
-        const date =
-          `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+        const date = isoFromParts(year, month, day);
+        if (!date) continue;
         const key = `${date}|${venue_room ?? ""}`;
         if (seen.has(key)) continue;
         seen.add(key);

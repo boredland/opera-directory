@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Greek National Opera (`spielplan-html`) — Athens, the national opera of Greece,
@@ -239,8 +240,8 @@ function parsePerformances(html: string): RawPerformance[] {
     for (const dayStr of (g[1] ?? "").split(",")) {
       const day = Number.parseInt(dayStr.trim(), 10);
       if (!day) continue;
-      const date = iso(year, mo, day);
-      if (seen.has(date)) continue;
+      const date = isoFromParts(year, mo, day);
+      if (!date || seen.has(date)) continue;
       seen.add(date);
       out.push({ date, time, status: date < today ? "past" : "scheduled" });
     }
@@ -276,8 +277,4 @@ function ogImage(html: string): string | null {
     html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/)?.[1] ??
     null
   );
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }

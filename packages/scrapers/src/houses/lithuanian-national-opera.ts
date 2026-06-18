@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Lithuanian National Opera and Ballet Theatre (`spielplan-html`) — LNOBT, Vilnius.
@@ -187,7 +187,8 @@ function parsePerformances(html: string): RawPerformance[] {
     } else if (m[2]) {
       month = EN_MONTHS[m[2].toLowerCase()] ?? month;
     } else if (m[3] && year && month) {
-      const date = iso(year, month, Number.parseInt(m[3], 10));
+      const date = isoFromParts(year, month, Number.parseInt(m[3], 10));
+      if (!date) continue;
       const time = m[4] ?? null;
       const key = `${date}|${time}`;
       if (seen.has(key)) continue;
@@ -232,8 +233,4 @@ function ogImage(html: string): string | null {
     html.match(/<meta[^>]+content="([^"]+)"[^>]+property="og:image"/)?.[1] ??
     null
   );
-}
-
-function iso(y: number, m: number, d: number): IsoDate {
-  return `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}` as IsoDate;
 }
