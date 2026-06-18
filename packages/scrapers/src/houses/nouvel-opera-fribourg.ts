@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import type {
   HouseScrapeResult,
@@ -7,6 +6,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * NOF — Nouvel Opéra Fribourg (`spielplan-html`) — a Fribourg company producing
@@ -178,10 +178,8 @@ function parsePerformances(html: string): RawPerformance[] {
       /(\d{1,2})\.(\d{1,2})\.(\d{2,4})\s*[—–-]\s*(\d{1,2}):(\d{2})/,
     );
     if (!m) continue;
-    const yy = m[3] ?? "";
-    const year = yy.length === 2 ? 2000 + Number.parseInt(yy, 10) : Number.parseInt(yy, 10);
-    const date =
-      `${year}-${(m[2] ?? "").padStart(2, "0")}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(m[3] ?? "", m[2] ?? "", m[1] ?? "");
+    if (!date) continue;
     const time = `${(m[4] ?? "").padStart(2, "0")}:${m[5]}`;
     const venue = stripHtml((span ?? "").replace(/[\s\S]*<br\s*\/?>/i, "")) || null;
     const key = `${date}|${time}`;

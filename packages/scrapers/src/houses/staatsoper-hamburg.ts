@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -63,8 +63,8 @@ function parseCalendar(html: string, window: ScrapeWindow): Map<string, RawPerfo
     const head = stripHtml(chunk.slice(0, 700));
     const dm = head.match(/(\d{1,2})\.(\d{1,2})\.(\d{2})\b/);
     if (!dm) continue;
-    const date =
-      `20${dm[3]}-${(dm[2] ?? "").padStart(2, "0")}-${(dm[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", dm[2] ?? "", dm[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const list = byPath.get(path) ?? byPath.set(path, []).get(path);
     const time = head.match(/\b(\d{1,2}:\d{2})\b/)?.[1] ?? null;

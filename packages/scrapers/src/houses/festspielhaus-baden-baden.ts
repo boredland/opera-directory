@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, fetchRendered, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -144,8 +144,8 @@ function parsePerformance(chunk: string, today: string): RawPerformance | null {
   if (!m) return null;
   const [, dd, mm, yy, time] = m;
   if (!dd || !mm || !yy) return null;
-  const year = yy.length === 2 ? `20${yy}` : yy;
-  const date = `${year}-${mm.padStart(2, "0")}-${dd.padStart(2, "0")}` as IsoDate;
+  const date = isoFromParts(yy, mm, dd);
+  if (!date) return null;
   return {
     date,
     time: time ?? null,

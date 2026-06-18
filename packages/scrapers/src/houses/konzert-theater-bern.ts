@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -251,7 +252,7 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
 
 function parseDate(m: RegExpMatchArray | null): IsoDate | null {
   if (!m?.[1] || !m[2] || !m[3]) return null;
-  return `${m[3]}-${m[2].padStart(2, "0")}-${m[1].padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3], m[2], m[1]);
 }
 
 function parseStatus(item: string, date: IsoDate, today: string): RawPerformance["status"] {
