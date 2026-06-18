@@ -2138,5 +2138,16 @@
     "strategy": "json-api",
     "enabled": true,
     "notes": "Toulouse — WordPress `onct-events` CPT, no proxy. **Discovery + facts in one paginated sweep of /wp-json/wp/v2/onct-events?onct-event-type=5 (term 5 'Opéra' = the server-side genre gate); the list payload carries content.rendered + meta, so no per-detail fetch.** Composer (opera gate) = meta.onct-event-short-desc ('Luigi Cherubini (1760-1842)' → life-dates trimmed). **Performances: the house publishes only the run BOUNDS, not the individual nights (the dated body mentions are audiodescription séances/talks) → emit opening (meta.onct-event-timestamp) + closing (onct-event-end-timestamp) Unix instants in Europe/Paris local time; middle nights unavailable.** Credits in content.rendered Gutenberg: creative = ocre `<strong><em>Label</em></strong>` paragraphs before the 'distribution' heading + the following `<strong>Name</strong>` (French labels mapped); cast = `<em>Role</em></p><p><strong>Singer</strong>` pairs (the `</em></p>` boundary distinguishes a character role from a creative label whose em sits inside strong; marketing blurbs carry no em-role → excluded; ensemble orchestre/chœur dropped). Older seasons thin on cast (markup variants). Backfill Wikidata Q3091701. ~26 since 2023."
+  },
+  {
+    "slug": "opera-de-lille",
+    "name": "Opéra de Lille",
+    "city": "Lille",
+    "country": "FR",
+    "website": "https://www.opera-lille.fr",
+    "wikidata": "Q3354558",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Lille — WordPress + Yoast, REST API 401-locked, no proxy. **Two HTML surfaces.** Discovery + genre gate + the only year-accurate per-night dates come from the site-wide `/calendrier/` widget: each performance is a `calendrier-YYYY-MM-DD` container with a `date-line-link` to `/spectacle/<slug>/` and a `date-line-categorie` span (the genre) — keep slugs whose genre is `opéra`/`opéra itinérant` and collect their ISO nights (the detail page prints day+month only, so the calendar carries the year across the season boundary). The calendar is forward-looking only (played nights are dropped) → live adapter = announced future. Per opera slug, fetch the detail page (current `sHeader` template): genre re-confirmed via `sHeader_catItem`; title=`sHeader_title`; composer=`sHeader_st` else the `Opéra de <strong>…</strong>` distribution byline else the `opéra de …` `sHeader_infos` line (opera gate). Distribution lives in `section_content` `<p>` paragraphs: the paragraph opening with 'Avec' is the cast (`<strong>Name</strong> Role`), the others are creative (`Label <strong>Name</strong>`, French labels mapped); ensemble (orchestre/chœur/danse) dropped. Per-night times matched onto the calendar nights from the `spectacle-details-date`/`-heure` rows by month+day. **Deep past = Wikidata Q3354558 — Lille's 57 P4647/P272 works are the richest French backfill of the set.** Note: archived (pre-`sHeader`) detail pages use an older `titre`/`auteur`/`spectacle-distribution-gauche|droite` template, but they aren't reachable via the forward-looking calendar, so only the current template is parsed."
   }
 ]

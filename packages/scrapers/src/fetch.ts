@@ -290,6 +290,12 @@ const NAMED_ENTITIES: Record<string, string> = {
   ndash: "–",
   mdash: "—",
   hellip: "…",
+  rsquo: "’",
+  lsquo: "‘",
+  rdquo: "”",
+  ldquo: "“",
+  laquo: "«",
+  raquo: "»",
   szlig: "ß",
   // Accented Latin letters — opera names and roles are full of them.
   agrave: "à",
