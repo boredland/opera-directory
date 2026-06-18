@@ -115,6 +115,9 @@ function parseComposer(html: string): string | null {
   return m?.[1]?.trim() || null;
 }
 
+/** A "name" that is actually a date ("1.1.27", "13.12.26", "13.12.2026 /") — not a person. */
+const DATE_LIKE_NAME = /^\s*\d{1,2}\.\d{1,2}\.\d{2,4}\b/;
+
 /**
  * Creative team + sung cast share one list:
  * `<li class="production-infos__item"><div class="label">Label</div>
@@ -133,7 +136,7 @@ function parseInfos(html: string): { creative_team: RawCredit[]; cast: RawCredit
     for (const nm of (m[2] ?? "").matchAll(/<span>([\s\S]*?)<\/span>/g)) {
       const name = stripHtml(nm[1] ?? "");
       const key = `${label}|${name}`;
-      if (!name || seen.has(key)) continue;
+      if (!name || DATE_LIKE_NAME.test(name) || seen.has(key)) continue;
       seen.add(key);
       const credit = normalizeGermanCredit(label, name);
       if (credit.function) creative_team.push(credit);
