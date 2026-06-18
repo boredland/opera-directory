@@ -221,8 +221,7 @@ function inlineVenue(row: string): string | null {
 
 /** month → year from the date-range heading + the block, plus a default year. */
 function buildMonthYearMap(html: string, block: string): Record<number | "default", number> {
-  const text =
-    stripHtml(html.slice(0, html.indexOf("Synopsis") + 1 || undefined)) + " " + stripHtml(block);
+  const text = `${stripHtml(html.slice(0, html.indexOf("Synopsis") + 1 || undefined))} ${stripHtml(block)}`;
   const map: Record<number | "default", number> = { default: 0 };
   for (const m of text.matchAll(/\b([A-Za-z]+)\s+(20\d{2})\b/g)) {
     const month = MONTHS[(m[1] ?? "").toLowerCase()];

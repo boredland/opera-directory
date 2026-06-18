@@ -55,9 +55,9 @@ export async function scrapeSofiaOpera(
   let ids: string[];
   try {
     const index = await fetchHtml(`${BASE}/en/repertoire?category=opera`, ctx);
-    ids = [...new Set([...index.matchAll(/\/en\/repertoire\/(\d+)/g)].map((m) => m[1] ?? ""))].filter(
-      Boolean,
-    );
+    ids = [
+      ...new Set([...index.matchAll(/\/en\/repertoire\/(\d+)/g)].map((m) => m[1] ?? "")),
+    ].filter(Boolean);
   } catch (err) {
     console.warn("sofia-opera: repertoire fetch failed:", err);
     return { house_slug: "sofia-opera", productions };
@@ -150,9 +150,7 @@ function parsePerformances(html: string): RawPerformance[] {
   const today = new Date().toISOString().slice(0, 10);
   const out: RawPerformance[] = [];
   const seen = new Set<string>();
-  for (const m of html.matchAll(
-    /class="title borders">\s*(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2})/g,
-  )) {
+  for (const m of html.matchAll(/class="title borders">\s*(\d{4}-\d{2}-\d{2})\s+(\d{2}:\d{2})/g)) {
     const date = m[1] as IsoDate;
     const time = m[2] ?? null;
     const key = `${date}|${time}`;
@@ -160,7 +158,9 @@ function parsePerformances(html: string): RawPerformance[] {
     seen.add(key);
     out.push({ date, time, status: date < today ? "past" : "scheduled" });
   }
-  return out.sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+  return out.sort(
+    (a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""),
+  );
 }
 
 const NAME_PARTICLES = new Set(["von", "van", "de", "da", "di", "del", "der", "le", "la", "den"]);

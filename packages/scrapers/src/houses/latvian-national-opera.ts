@@ -93,9 +93,7 @@ export async function scrapeLatvianNationalOpera(
 }
 
 function parseProduction(html: string, url: string): RawProduction | null {
-  const genre = stripHtml(
-    html.match(/class="slider__top-left">\s*<h2>([^<]+)<\/h2>/)?.[1] ?? "",
-  );
+  const genre = stripHtml(html.match(/class="slider__top-left">\s*<h2>([^<]+)<\/h2>/)?.[1] ?? "");
   if (!/opera/i.test(genre)) return null; // drops ballet
 
   const title = stripHtml(html.match(/class="open-show__title">([\s\S]*?)<\/h1>/)?.[1] ?? "");
@@ -187,7 +185,9 @@ function parsePerformances(html: string): RawPerformance[] {
     const date = iso(year, month, Number.parseInt(m[2] ?? "", 10));
     out.push({ date, time: m[3] ?? null, status: date < today ? "past" : "scheduled" });
   }
-  return out.sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+  return out.sort(
+    (a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""),
+  );
 }
 
 const NAME_PARTICLES = new Set(["von", "van", "de", "da", "di", "del", "der", "le", "la", "den"]);

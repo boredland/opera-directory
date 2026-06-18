@@ -161,7 +161,9 @@ function parsePerformances(html: string): RawPerformance[] {
     seen.add(key);
     out.push({ date, time, status: date < today ? "past" : "scheduled" });
   }
-  return out.sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+  return out.sort(
+    (a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""),
+  );
 }
 
 const NAME_PARTICLES = new Set(["von", "van", "de", "da", "di", "del", "der", "le", "la", "den"]);

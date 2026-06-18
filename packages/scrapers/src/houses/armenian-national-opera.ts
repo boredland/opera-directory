@@ -70,7 +70,10 @@ export async function scrapeArmenianNationalOpera(
 ): Promise<HouseScrapeResult> {
   const productions: RawProduction[] = [];
 
-  let groups: Map<string, { composer: string; title: string; href: string; perfs: RawPerformance[] }>;
+  let groups: Map<
+    string,
+    { composer: string; title: string; href: string; perfs: RawPerformance[] }
+  >;
   try {
     const html = await fetchHtml(REPERTOIRE, ctx);
     groups = groupCards(parseCards(html));
@@ -157,7 +160,8 @@ function groupCards(
       .replace(/[^a-z0-9Ѐ-׿]+/g, "-")
       .replace(/(^-|-$)/g, "");
     const g = groups.get(key) ?? { composer: c.composer, title: c.title, href: c.href, perfs: [] };
-    if (!g.perfs.some((p) => p.date === c.perf.date && p.time === c.perf.time)) g.perfs.push(c.perf);
+    if (!g.perfs.some((p) => p.date === c.perf.date && p.time === c.perf.time))
+      g.perfs.push(c.perf);
     groups.set(key, g);
   }
   return groups;
@@ -171,7 +175,7 @@ function parseCreative(html: string): RawCredit[] {
   const out: RawCredit[] = [];
   const seen = new Set<string>();
   for (const m of html.matchAll(
-    /(Musical director and conductor|Stage director|Set designer|Costume designer|Choreographer|Chorus ?master|Lighting designer|Conductor|Director)\s*:\s*([^<\/]+)/gi,
+    /(Musical director and conductor|Stage director|Set designer|Costume designer|Choreographer|Chorus ?master|Lighting designer|Conductor|Director)\s*:\s*([^</]+)/gi,
   )) {
     const fn = CREATIVE_FUNCTIONS.find(([re]) => re.test(m[1] ?? ""))?.[1];
     if (!fn) continue;

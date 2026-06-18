@@ -138,7 +138,9 @@ function parseCredits(html: string): { creative_team: RawCredit[]; cast: RawCred
   const creative_team: RawCredit[] = [];
   const creativeBlock = sliceBlock(html, "cf_dimomada");
   const seenCrew = new Set<string>();
-  for (const m of creativeBlock.matchAll(/([A-Za-z][A-Za-z ,/'’.-]{2,60}?):\s*<strong>\s*([^<]+)/g)) {
+  for (const m of creativeBlock.matchAll(
+    /([A-Za-z][A-Za-z ,/'’.-]{2,60}?):\s*<strong>\s*([^<]+)/g,
+  )) {
     const fn = CREATIVE_FUNCTIONS.find(([re]) => re.test(stripHtml(m[1] ?? "")))?.[1];
     if (!fn) continue;
     // A few labels list co-credits in one <strong> ("A, B"); split them out.
@@ -170,7 +172,11 @@ function parseCredits(html: string): { creative_team: RawCredit[]; cast: RawCred
     // A role is a character name: it starts with a letter. Footnote/edition lines
     // ("* of the", "(revised by") and production-credit labels are not cast.
     if (!role || !/^\p{L}/u.test(role)) continue;
-    if (/^(orchestra|chorus|ballet|with\b|featuring|dancers?\b|executive|producer|revised)/i.test(role))
+    if (
+      /^(orchestra|chorus|ballet|with\b|featuring|dancers?\b|executive|producer|revised)/i.test(
+        role,
+      )
+    )
       continue;
     if (/chorus|orchestra|ballet|ensemble|children/i.test(name)) continue;
     const key = `${role}|${name}`;
@@ -216,12 +222,17 @@ function parsePerformances(html: string): RawPerformance[] {
   if (i < 0) return [];
   const region = stripHtml(html.slice(i, i + 600));
   const time =
-    html.match(/Starts at:(?:&nbsp;|\s)*<strong>\s*(\d{1,2})[.:](\d{2})/)?.slice(1).join(":") ?? null;
+    html
+      .match(/Starts at:(?:&nbsp;|\s)*<strong>\s*(\d{1,2})[.:](\d{2})/)
+      ?.slice(1)
+      .join(":") ?? null;
   const today = new Date().toISOString().slice(0, 10);
   const out: RawPerformance[] = [];
   const seen = new Set<string>();
 
-  for (const g of region.matchAll(/(\d{1,2}(?:\s*,\s*\d{1,2})*)\s+([A-Za-z]{3})[a-z]*\.?\s+(\d{4})/g)) {
+  for (const g of region.matchAll(
+    /(\d{1,2}(?:\s*,\s*\d{1,2})*)\s+([A-Za-z]{3})[a-z]*\.?\s+(\d{4})/g,
+  )) {
     const mo = EN_MONTHS[(g[2] ?? "").slice(0, 3).toLowerCase()];
     const year = Number.parseInt(g[3] ?? "", 10);
     if (!mo || !year) continue;

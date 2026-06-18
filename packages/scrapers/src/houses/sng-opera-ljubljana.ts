@@ -66,7 +66,9 @@ export async function scrapeSngOperaLjubljana(
     const season = await fetchHtml(`${BASE}/en/seasoni-202425`, ctx);
     urls = [
       ...new Set(
-        [...season.matchAll(/\/en\/programme\/event\/opera\/[a-z0-9-]+/g)].map((m) => `${BASE}${m[0]}`),
+        [...season.matchAll(/\/en\/programme\/event\/opera\/[a-z0-9-]+/g)].map(
+          (m) => `${BASE}${m[0]}`,
+        ),
       ),
     ];
   } catch (err) {

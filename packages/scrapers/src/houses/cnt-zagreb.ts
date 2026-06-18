@@ -115,7 +115,9 @@ function parseProduction(
   const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "";
   const composer = stripHtml(h1.match(/<span[^>]*>([\s\S]*?)<\/span>/)?.[1] ?? "");
   // Title is the h1 text node between the composer span and the trailing duration span.
-  const title = stripHtml(h1.replace(/<span[^>]*>[\s\S]*?<\/span>/g, "")).replace(/\s*\d+\s*min\.?$/i, "").trim();
+  const title = stripHtml(h1.replace(/<span[^>]*>[\s\S]*?<\/span>/g, ""))
+    .replace(/\s*\d+\s*min\.?$/i, "")
+    .trim();
   if (!title || !isPersonName(composer)) return null;
 
   const creative_team = parsePairs(html, "Creatives", "creative");
@@ -167,7 +169,19 @@ function parsePairs(html: string, heading: string, kind: "creative" | "cast"): R
 }
 
 // "pl." is the Croatian nobiliary particle (plemeniti), e.g. "Ivan pl. Zajc".
-const NAME_PARTICLES = new Set(["von", "van", "de", "da", "di", "del", "der", "le", "la", "den", "pl"]);
+const NAME_PARTICLES = new Set([
+  "von",
+  "van",
+  "de",
+  "da",
+  "di",
+  "del",
+  "der",
+  "le",
+  "la",
+  "den",
+  "pl",
+]);
 
 function isPersonName(text: string): boolean {
   if (!text || /^\d/.test(text)) return false;

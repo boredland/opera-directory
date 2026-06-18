@@ -1,11 +1,5 @@
 import type { IsoDate } from "@opera-directory/schema";
-import {
-  extractEventJsonLd,
-  type FetchContext,
-  fetchHtml,
-  fetchRendered,
-  stripHtml,
-} from "../fetch";
+import { extractEventJsonLd, type FetchContext, fetchRendered, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
   HouseScrapeResult,

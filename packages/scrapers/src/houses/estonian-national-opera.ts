@@ -69,7 +69,9 @@ export async function scrapeEstonianNationalOpera(
   try {
     const index = await fetchHtml(`${BASE}/en/stagings/opera/`, ctx);
     urls = [
-      ...new Set([...index.matchAll(/href="(\/en\/staging\/[^"]+)"/g)].map((m) => `${BASE}${m[1]}`)),
+      ...new Set(
+        [...index.matchAll(/href="(\/en\/staging\/[^"]+)"/g)].map((m) => `${BASE}${m[1]}`),
+      ),
     ];
   } catch (err) {
     console.warn("estonian-national-opera: listing fetch failed:", err);
@@ -91,7 +93,7 @@ export async function scrapeEstonianNationalOpera(
 
 function parseProduction(html: string, url: string): RawProduction | null {
   const gc = genreComposer(html);
-  if (!gc || !gc.opera) return null; // opera/operetta only — drops ballet
+  if (!gc?.opera) return null; // opera/operetta only — drops ballet
 
   const title = stripHtml(html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "");
   const composer = gc.composer;
@@ -118,7 +120,9 @@ function parseProduction(html: string, url: string): RawProduction | null {
  *  ("[Comic] opera by {Composer}" or possessive "{Composer}'s [romantic] opera").
  *  Returns the first reading whose composer is a real person name. */
 function genreComposer(html: string): { opera: boolean; composer: string } | null {
-  for (const m of html.matchAll(/\b(opera|operetta|ballet)\b[^<]{0,20}?\bby\s+([^<(,\n]{2,45})/gi)) {
+  for (const m of html.matchAll(
+    /\b(opera|operetta|ballet)\b[^<]{0,20}?\bby\s+([^<(,\n]{2,45})/gi,
+  )) {
     const composer = stripHtml(m[2] ?? "").trim();
     if (isPersonName(composer)) return { opera: !/ballet/i.test(m[1] ?? ""), composer };
   }
@@ -209,7 +213,9 @@ function parsePerformances(html: string): RawPerformance[] {
     seen.add(key);
     out.push({ date, time, status: date < today ? "past" : "scheduled" });
   }
-  return out.sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+  return out.sort(
+    (a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""),
+  );
 }
 
 const NAME_PARTICLES = new Set([

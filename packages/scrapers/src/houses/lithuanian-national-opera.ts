@@ -119,7 +119,8 @@ function parseProduction(html: string, url: string): RawProduction | null {
 /** `div.oe_team_list` rows; the "Composer" row is split off, the rest mapped to a
  *  function (assistants / librettist dropped). `creators` may list co-credits. */
 function parseTeam(html: string): { composer: string; creative_team: RawCredit[] } {
-  const block = html.match(/oe_team_list[\s\S]*?(?=<\/div>\s*<\/div>\s*<\/div>|id="operaevents_)/)?.[0] ?? html;
+  const block =
+    html.match(/oe_team_list[\s\S]*?(?=<\/div>\s*<\/div>\s*<\/div>|id="operaevents_)/)?.[0] ?? html;
   let composer = "";
   const creative_team: RawCredit[] = [];
   const seen = new Set<string>();
@@ -154,9 +155,7 @@ function parseTeam(html: string): { composer: string; creative_team: RawCredit[]
 function parseCast(html: string): RawCredit[] {
   const out: RawCredit[] = [];
   const seen = new Set<string>();
-  for (const m of html.matchAll(
-    /<span>([^<]+)<\/span>\s*<span class="role">([^<]+)<\/span>/g,
-  )) {
+  for (const m of html.matchAll(/<span>([^<]+)<\/span>\s*<span class="role">([^<]+)<\/span>/g)) {
     const name = stripHtml(m[1] ?? "");
     const role = stripHtml(m[2] ?? "");
     if (!role || !/^\p{L}/u.test(role)) continue;
@@ -196,10 +195,24 @@ function parsePerformances(html: string): RawPerformance[] {
       out.push({ date, time, status: date < today ? "past" : "scheduled" });
     }
   }
-  return out.sort((a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""));
+  return out.sort(
+    (a, b) => a.date.localeCompare(b.date) || (a.time ?? "").localeCompare(b.time ?? ""),
+  );
 }
 
-const NAME_PARTICLES = new Set(["von", "van", "de", "da", "di", "del", "della", "der", "le", "la", "den"]);
+const NAME_PARTICLES = new Set([
+  "von",
+  "van",
+  "de",
+  "da",
+  "di",
+  "del",
+  "della",
+  "der",
+  "le",
+  "la",
+  "den",
+]);
 
 function isPersonName(text: string): boolean {
   if (!text || /^\d/.test(text)) return false;

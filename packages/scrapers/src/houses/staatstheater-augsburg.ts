@@ -48,7 +48,7 @@ export async function scrapeStaatstheaterAugsburg(
     const bySlug = new Map<string, { doc: AugsburgDoc; perfs: RawPerformance[] }>();
     for (const row of res.rows ?? []) {
       const d = row.doc;
-      if (!d || d.sorte !== "spieltermin" || !OPERA.test((d.thea_genre ?? "").trim())) continue;
+      if (d?.sorte !== "spieltermin" || !OPERA.test((d.thea_genre ?? "").trim())) continue;
       const slug = d.thea_link;
       const iso = d.beginn?.match(/(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})/);
       if (!slug || !iso) continue;
