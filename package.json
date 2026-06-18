@@ -13,6 +13,7 @@
     "ingest-raw": "bun packages/ingest/src/index.ts ingest-raw",
     "validate": "bun packages/ingest/src/index.ts validate",
     "scrape-report": "bun packages/ingest/src/index.ts scrape-report",
+    "prune": "bun packages/ingest/src/index.ts prune",
     "typecheck": "bun --filter '*' typecheck",
     "lint": "biome check .",
     "format": "biome format --write ."

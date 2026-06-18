@@ -10,6 +10,7 @@ import {
   type HouseScrapeResult,
   type ScrapeWindow,
 } from "@opera-directory/scrapers";
+import { prune } from "./prune";
 import { ingestRawProduction } from "./resolve";
 import { CanonicalStore } from "./store";
 import { validateData } from "./validate";
@@ -44,6 +45,7 @@ export function summarizeHealth(records: HealthRecord[]): HealthSummary {
   };
 }
 
+export * from "./prune";
 export * from "./resolve";
 export * from "./store";
 export * from "./validate";
@@ -265,6 +267,17 @@ if (import.meta.main) {
     console.log(
       `OK — ${report.counts.persons} persons, ${report.counts.works} works, ${report.warnings.length} sanity warning(s).`,
     );
+  } else if (cmd === "prune") {
+    const apply = process.argv.includes("--apply");
+    const report = await prune(DATA_DIR, apply);
+    console.log("orphans:", report.counts);
+    for (const [kind, list] of Object.entries(report.orphans)) {
+      if (list.length)
+        console.log(
+          `  ${kind} (${list.length}): ${list.slice(0, 10).join(", ")}${list.length > 10 ? " …" : ""}`,
+        );
+    }
+    console.log(apply ? "pruned + saved." : "dry-run — pass --apply to remove.");
   } else {
     const { slugs, window } = parseArgs(process.argv.slice(2));
     await runScrape(slugs, window);
