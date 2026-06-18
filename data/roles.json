@@ -1805,6 +1805,11 @@
     "name": "Der Wassermann"
   },
   {
+    "slug": "antonin-dvorak/rusalka/deuxieme-nymphe",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Deuxième Nymphe"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/die-fremde-furstin",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Die fremde Fürstin"
@@ -1868,6 +1873,26 @@
     "slug": "antonin-dvorak/rusalka/kuchenjunge",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Küchenjunge"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/la-princesse-etrangere",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "La Princesse étrangère"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/le-cuistot",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Le Cuistot"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/le-garde-forestier-le-chasseur",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Le Garde Forestier / Le Chasseur"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/le-prince",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Le Prince"
   },
   {
     "slug": "antonin-dvorak/rusalka/maquillage-et-perruques",
@@ -1938,6 +1963,11 @@
     "slug": "antonin-dvorak/rusalka/third-wood-sprite",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "Third Wood Sprite"
+  },
+  {
+    "slug": "antonin-dvorak/rusalka/troisieme-nymphe",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Troisième Nymphe"
   },
   {
     "slug": "antonin-dvorak/rusalka/vodnik",
@@ -3180,6 +3210,11 @@
     "name": "Collaborateur artistique"
   },
   {
+    "slug": "benjamin-britten/peter-grimes/deuxieme-niece",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Deuxième Nièce"
+  },
+  {
     "slug": "benjamin-britten/peter-grimes/ellen-orford",
     "work_slug": "benjamin-britten/peter-grimes",
     "name": "Ellen Orford"
@@ -3230,9 +3265,19 @@
     "name": "Peter Grimes"
   },
   {
+    "slug": "benjamin-britten/peter-grimes/premiere-niece",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Première Nièce"
+  },
+  {
     "slug": "benjamin-britten/peter-grimes/rev-horace-adams",
     "work_slug": "benjamin-britten/peter-grimes",
     "name": "Rev. Horace Adams"
+  },
+  {
+    "slug": "benjamin-britten/peter-grimes/reverend-horace-adams",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "name": "Révérend Horace Adams"
   },
   {
     "slug": "benjamin-britten/peter-grimes/swallow",
@@ -5970,9 +6015,39 @@
     "name": "Fortune / Drusilla"
   },
   {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/l-amour-le-page",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "L’Amour / Le Page"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/la-fortune-drusilla",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "La Fortune / Drusilla"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/la-vertu-la-demoiselle",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "La Vertu / La Demoiselle"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/liberto-un-soldat-un-familier-un-consul",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Liberto / Un Soldat / Un Familier / Un Consul"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/lucain-un-soldat-un-familier-un-tribun",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Lucain / Un Soldat / Un Familier / Un Tribun"
+  },
+  {
     "slug": "claudio-monteverdi/le-couronnement-de-poppee/neron",
     "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
     "name": "Néron"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/nerone",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Nerone"
   },
   {
     "slug": "claudio-monteverdi/le-couronnement-de-poppee/octavie-vertu",
@@ -5985,6 +6060,21 @@
     "name": "Othon"
   },
   {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/ottavia",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Ottavia"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/ottone",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Ottone"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/poppea",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Poppea"
+  },
+  {
     "slug": "claudio-monteverdi/le-couronnement-de-poppee/poppee-amour",
     "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
     "name": "Poppée / Amour"
@@ -5995,9 +6085,24 @@
     "name": "Restitution et orchestration"
   },
   {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/seneca",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Seneca"
+  },
+  {
     "slug": "claudio-monteverdi/le-couronnement-de-poppee/seneque",
     "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
     "name": "Sénèque"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/un-licteur-mercure-un-familier",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Un Licteur / Mercure / Un Familier"
+  },
+  {
+    "slug": "claudio-monteverdi/le-couronnement-de-poppee/venus",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "name": "Vénus"
   },
   {
     "slug": "cole-porter/kiss-me-kate/1st-man-ensemble",
@@ -9205,6 +9310,11 @@
     "name": "Sante, servo (mimo)"
   },
   {
+    "slug": "ernest-chausson/le-roi-arthus/allan",
+    "work_slug": "ernest-chausson/le-roi-arthus",
+    "name": "Allan"
+  },
+  {
     "slug": "ernest-chausson/le-roi-arthus/allan-ein-ritter",
     "work_slug": "ernest-chausson/le-roi-arthus",
     "name": "Allan / Ein Ritter"
@@ -9233,6 +9343,11 @@
     "slug": "ernest-chausson/le-roi-arthus/lyonnel",
     "work_slug": "ernest-chausson/le-roi-arthus",
     "name": "Lyonnel"
+  },
+  {
+    "slug": "ernest-chausson/le-roi-arthus/lyonnel-le-laboureur",
+    "work_slug": "ernest-chausson/le-roi-arthus",
+    "name": "Lyonnel / Le Laboureur"
   },
   {
     "slug": "ernest-chausson/le-roi-arthus/merlin",
@@ -10193,6 +10308,11 @@
     "slug": "francesco-cilea/adriana-lecouvreur/venus-goddess-of-beauty",
     "work_slug": "francesco-cilea/adriana-lecouvreur",
     "name": "Venus, goddess of beauty"
+  },
+  {
+    "slug": "francesco-cilea/adrienne-lecouvreur/majordome",
+    "work_slug": "francesco-cilea/adrienne-lecouvreur",
+    "name": "Majordome"
   },
   {
     "slug": "francesco-filidei/accabadora-oea/andria-bastiu",
@@ -12793,6 +12913,11 @@
     "slug": "georg-friedrich-h-ndel/agrippina/poppea",
     "work_slug": "georg-friedrich-h-ndel/agrippina",
     "name": "Poppea"
+  },
+  {
+    "slug": "georg-friedrich-haendel/jules-cesar/achilla",
+    "work_slug": "georg-friedrich-haendel/jules-cesar",
+    "name": "Achilla"
   },
   {
     "slug": "georg-friedrich-handel/agrippina/orchester",
@@ -17588,6 +17713,36 @@
     "slug": "gioachino-rossini/la-scala-di-seta/lucilla",
     "work_slug": "gioachino-rossini/la-scala-di-seta",
     "name": "Lucilla"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/don-basilio",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Don Basilio"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/figaro",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Figaro"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/fiorello",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Fiorello"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/le-comte-almaviva",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Le Comte Almaviva"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/le-docteur-bartolo",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Le Docteur Bartolo"
+  },
+  {
+    "slug": "gioachino-rossini/le-barbier-de-seville/rosina",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "name": "Rosina"
   },
   {
     "slug": "gioachino-rossini/le-comte-ory/alice",
@@ -23055,6 +23210,31 @@
     "name": "Sorceress"
   },
   {
+    "slug": "henry-purcell/king-arthur/basse",
+    "work_slug": "henry-purcell/king-arthur",
+    "name": "Basse"
+  },
+  {
+    "slug": "henry-purcell/king-arthur/haute-contre",
+    "work_slug": "henry-purcell/king-arthur",
+    "name": "Haute-contre"
+  },
+  {
+    "slug": "henry-purcell/king-arthur/soprano-1",
+    "work_slug": "henry-purcell/king-arthur",
+    "name": "Soprano 1"
+  },
+  {
+    "slug": "henry-purcell/king-arthur/soprano-2",
+    "work_slug": "henry-purcell/king-arthur",
+    "name": "Soprano 2"
+  },
+  {
+    "slug": "henry-purcell/king-arthur/taille",
+    "work_slug": "henry-purcell/king-arthur",
+    "name": "Taille"
+  },
+  {
     "slug": "heribert-feckler/petrosinella-lass-dein-haar-herunter/besetzung",
     "work_slug": "heribert-feckler/petrosinella-lass-dein-haar-herunter",
     "name": "Besetzung"
@@ -27125,6 +27305,21 @@
     "name": "Thaïs"
   },
   {
+    "slug": "jules-massenet/thais/un-cenobite",
+    "work_slug": "jules-massenet/thais",
+    "name": "Un Cénobite"
+  },
+  {
+    "slug": "jules-massenet/thais/un-homme-du-peuple",
+    "work_slug": "jules-massenet/thais",
+    "name": "Un Homme du peuple"
+  },
+  {
+    "slug": "jules-massenet/thais/un-serviteur",
+    "work_slug": "jules-massenet/thais",
+    "name": "Un Serviteur"
+  },
+  {
     "slug": "jules-massenet/werther/albert",
     "work_slug": "jules-massenet/werther",
     "name": "Albert"
@@ -28183,6 +28378,21 @@
     "slug": "l-olimpiade/megacle",
     "work_slug": "l-olimpiade",
     "name": "Megacle"
+  },
+  {
+    "slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/giuseppe-serviteur-de-violetta",
+    "work_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata",
+    "name": "Giuseppe, serviteur de Violetta"
+  },
+  {
+    "slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/un-commissionnaire",
+    "work_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata",
+    "name": "Un commissionnaire"
+  },
+  {
+    "slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/un-domestique-de-flora",
+    "work_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata",
+    "name": "Un domestique de Flora"
   },
   {
     "slug": "la-fleur-nach-emmerich-kalman/das-phantom-der-operette/arrangements",
@@ -30685,6 +30895,11 @@
     "name": "Creonte"
   },
   {
+    "slug": "luigi-cherubini/medea/deuxieme-servante",
+    "work_slug": "luigi-cherubini/medea",
+    "name": "Deuxième Servante"
+  },
+  {
     "slug": "luigi-cherubini/medea/first-maid",
     "work_slug": "luigi-cherubini/medea",
     "name": "First maid"
@@ -30883,6 +31098,36 @@
     "slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2/regiehospitanz",
     "work_slug": "manuel-moser-urauffuhrung/die-welt-ist-rund-2",
     "name": "Regiehospitanz"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/cleone-une-italienne",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Cléone / Une Italienne"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/creon",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Créon"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/creuse",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Créuse"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/jason",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Jason"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/medee",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Médée"
+  },
+  {
+    "slug": "marc-antoine-charpentier/medee/oronte",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "name": "Oronte"
   },
   {
     "slug": "marc-l-vogler/klangstreich-eine-note-tanzt-aus-der-reihe/finn",
@@ -39343,6 +39588,11 @@
     "slug": "richard-wagner/lohengrin/herzog-gottfried",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Herzog Gottfried"
+  },
+  {
+    "slug": "richard-wagner/lohengrin/le-roi-heinrich",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Le Roi Heinrich"
   },
   {
     "slug": "richard-wagner/lohengrin/lohengrin",

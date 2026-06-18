@@ -1,0 +1,986 @@
+[
+  {
+    "id": "opera-national-du-capitole/adrienne-lecouvreur/2024-25",
+    "work_slug": "francesco-cilea/adrienne-lecouvreur",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2024/25",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/adrienne-lecouvreur/",
+    "creative_team": [
+      {
+        "person_slug": "michele-cosentino",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "giampaolo-bisanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ivan-stefanutti",
+        "function": "director"
+      },
+      {
+        "person_slug": "claudio-schmid",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hun-kim",
+        "role_slug": "francesco-cilea/adrienne-lecouvreur/majordome"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/armide/2025-26",
+    "work_slug": "jean-baptiste-lully/armide",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/armide/",
+    "creative_team": [
+      {
+        "person_slug": "vincent-dumestre",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/carmen/2025-26",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/carmen-4409511/",
+    "creative_team": [
+      {
+        "person_slug": "eugenie-andrin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "francoise-raybaud-pace",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "rudy-sabounghi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jean-louis-grinda",
+        "function": "director"
+      },
+      {
+        "person_slug": "laurent-castaingt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rudy-sabounghi",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "gabriel-grinda",
+        "function": "video"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/don-giovanni/2025-26",
+    "work_slug": "wolfgang-amade-mozart/don-giovanni",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/don-giovanni-1598321/",
+    "creative_team": [
+      {
+        "person_slug": "riccardo-bisatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pierre-jean-larroque",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "agnes-jaoui",
+        "function": "director"
+      },
+      {
+        "person_slug": "bertrand-couderc",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eric-ruf",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "pierre-martin-oriol",
+        "function": "video"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/jules-cesar/2024-25",
+    "work_slug": "georg-friedrich-haendel/jules-cesar",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2024/25",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/jules-cesar/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-wilhelm",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "christophe-rousset",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "damiano-michieletto",
+        "function": "director"
+      },
+      {
+        "person_slug": "alessandro-carletti",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paolo-fantin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joan-martin-royo",
+        "role_slug": "georg-friedrich-haendel/jules-cesar/achilla"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/king-arthur/2026-27",
+    "work_slug": "henry-purcell/king-arthur",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/king-arthur-376416/",
+    "creative_team": [
+      {
+        "person_slug": "herve-niquet",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "andreas-wolf",
+        "role_slug": "henry-purcell/king-arthur/basse"
+      },
+      {
+        "person_slug": "cyril-auvity",
+        "role_slug": "henry-purcell/king-arthur/haute-contre"
+      },
+      {
+        "person_slug": "olivia-doray",
+        "role_slug": "henry-purcell/king-arthur/soprano-1"
+      },
+      {
+        "person_slug": "floriane-hasler",
+        "role_slug": "henry-purcell/king-arthur/soprano-2"
+      },
+      {
+        "person_slug": "romain-dayez",
+        "role_slug": "henry-purcell/king-arthur/taille"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/la-passagere/2025-26",
+    "work_slug": "mieczys-aw-weinberg/la-passagere",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/la-passagere-7818117/",
+    "creative_team": [
+      {
+        "person_slug": "francesco-angelico",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-d-zimmermann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "johannes-reitmeier",
+        "function": "director"
+      },
+      {
+        "person_slug": "ralph-kopp",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "thomas-dorfler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/la-traviata/2022-23",
+    "work_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2022/23",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/la-traviata-1207124/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "hun-kim",
+        "role_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/giuseppe-serviteur-de-violetta"
+      },
+      {
+        "person_slug": "bruno-vincent",
+        "role_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/un-commissionnaire"
+      },
+      {
+        "person_slug": "thierry-vincent",
+        "role_slug": "l-un-des-operas-les-plus-bouleversants-de-verdi/la-traviata/un-domestique-de-flora"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/le-barbier-de-seville/2026-27",
+    "work_slug": "gioachino-rossini/le-barbier-de-seville",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/le-barbier-de-seville-3209054/",
+    "creative_team": [
+      {
+        "person_slug": "alfonso-todisco",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alfred-mayerhofer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "josef-ernst-kopplinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "johannes-leiacker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "adolfo-corrado-sulkhan-jaiani",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/don-basilio"
+      },
+      {
+        "person_slug": "vincenzo-taormina-hugo-laporte",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/figaro"
+      },
+      {
+        "person_slug": "ramiro-maturana",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/fiorello"
+      },
+      {
+        "person_slug": "dave-monaco-juan-sancho",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/le-comte-almaviva"
+      },
+      {
+        "person_slug": "giulio-mastrototaro-riccardo-novaro",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/le-docteur-bartolo"
+      },
+      {
+        "person_slug": "juliette-mey-floriane-hasler",
+        "role_slug": "gioachino-rossini/le-barbier-de-seville/rosina"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/le-couronnement-de-poppee/2026-27",
+    "work_slug": "claudio-monteverdi/le-couronnement-de-poppee",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/le-couronnement-de-poppee-5342051/",
+    "creative_team": [
+      {
+        "person_slug": "emiliano-gonzalez-toro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jean-daniel-vuillermoz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mathilde-etienne",
+        "function": "director"
+      },
+      {
+        "person_slug": "herve-gary",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "antoine-fontaine",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emiliano-gonzalez-toro",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/arnalta"
+      },
+      {
+        "person_slug": "eleonore-pancrazi",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/l-amour-le-page"
+      },
+      {
+        "person_slug": "marie-perbost",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/la-fortune-drusilla"
+      },
+      {
+        "person_slug": "thais-rai-westphal",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/la-vertu-la-demoiselle"
+      },
+      {
+        "person_slug": "roberto-covatta",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/liberto-un-soldat-un-familier-un-consul"
+      },
+      {
+        "person_slug": "pierre-emmanuel-roubet",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/lucain-un-soldat-un-familier-un-tribun"
+      },
+      {
+        "person_slug": "maximiliano-danta",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/nerone"
+      },
+      {
+        "person_slug": "victoire-bunel",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/ottavia"
+      },
+      {
+        "person_slug": "william-shelton",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/ottone"
+      },
+      {
+        "person_slug": "adele-charvet",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/poppea"
+      },
+      {
+        "person_slug": "adrien-mathonat",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/seneca"
+      },
+      {
+        "person_slug": "fulvio-bettini",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/un-licteur-mercure-un-familier"
+      },
+      {
+        "person_slug": "cecile-piovan",
+        "role_slug": "claudio-monteverdi/le-couronnement-de-poppee/venus"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/le-roi-arthus/2026-27",
+    "work_slug": "ernest-chausson/le-roi-arthus",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/le-roi-arthus/",
+    "creative_team": [
+      {
+        "person_slug": "victorien-vanoosten",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alain-blanchot",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "aurelien-bory",
+        "function": "director"
+      },
+      {
+        "person_slug": "arno-veyrat",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julien-veronese",
+        "role_slug": "ernest-chausson/le-roi-arthus/allan"
+      },
+      {
+        "person_slug": "stephane-degout",
+        "role_slug": "ernest-chausson/le-roi-arthus/arthus"
+      },
+      {
+        "person_slug": "catherine-hunold",
+        "role_slug": "ernest-chausson/le-roi-arthus/genievre"
+      },
+      {
+        "person_slug": "bror-magnus-t-denes",
+        "role_slug": "ernest-chausson/le-roi-arthus/lancelot"
+      },
+      {
+        "person_slug": "valentin-thill",
+        "role_slug": "ernest-chausson/le-roi-arthus/lyonnel-le-laboureur"
+      },
+      {
+        "person_slug": "jean-francois-lapointe",
+        "role_slug": "ernest-chausson/le-roi-arthus/merlin"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/le-vaisseau-fantome/2024-25",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2024/25",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/le-vaisseau-fantome-90378/",
+    "creative_team": [
+      {
+        "person_slug": "frank-beermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-lacroix",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michel-fau",
+        "function": "director"
+      },
+      {
+        "person_slug": "joel-fabing",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "antoine-fontaine",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/les-boreades/2025-26",
+    "work_slug": "jean-philippe-rameau/les-boreades",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/les-boreades-4131547/",
+    "creative_team": [
+      {
+        "person_slug": "reinoud-van-mechelen",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/lohengrin/2026-27",
+    "work_slug": "richard-wagner/lohengrin",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/lohengrin-7115969/",
+    "creative_team": [
+      {
+        "person_slug": "michele-spotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "david-belugou",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "michel-fau",
+        "function": "director"
+      },
+      {
+        "person_slug": "joel-fabing",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "lilian-euzeby",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chiara-isotton",
+        "role_slug": "richard-wagner/lohengrin/elsa-von-brabant"
+      },
+      {
+        "person_slug": "jean-teitgen",
+        "role_slug": "richard-wagner/lohengrin/le-roi-heinrich"
+      },
+      {
+        "person_slug": "airam-hernandez",
+        "role_slug": "richard-wagner/lohengrin/lohengrin"
+      },
+      {
+        "person_slug": "sophie-koch",
+        "role_slug": "richard-wagner/lohengrin/ortrud"
+      },
+      {
+        "person_slug": "tommi-hakala",
+        "role_slug": "richard-wagner/lohengrin/telramund"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/lucia-di-lammermoor/2025-26",
+    "work_slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/lucia-di-lammermoor-7295517/",
+    "creative_team": [
+      {
+        "person_slug": "fabrizio-maria-carminati",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franca-squarciapino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nicolas-joel",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephen-taylor",
+        "function": "director"
+      },
+      {
+        "person_slug": "jacopo-pantani",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ezio-frigerio",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/medea/2026-27",
+    "work_slug": "luigi-cherubini/medea",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/medea-2353809/",
+    "creative_team": [
+      {
+        "person_slug": "dayner-tafur-diaz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "yannis-kokkos",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sulkhan-jaiani",
+        "role_slug": "luigi-cherubini/medea/creonte"
+      },
+      {
+        "person_slug": "katharina-semmelbeck",
+        "role_slug": "luigi-cherubini/medea/deuxieme-servante"
+      },
+      {
+        "person_slug": "roberto-alagna",
+        "role_slug": "luigi-cherubini/medea/giasone"
+      },
+      {
+        "person_slug": "florie-valiquette",
+        "role_slug": "luigi-cherubini/medea/glauce"
+      },
+      {
+        "person_slug": "karine-deshayes",
+        "role_slug": "luigi-cherubini/medea/medea"
+      },
+      {
+        "person_slug": "rose-naggar-tremblay",
+        "role_slug": "luigi-cherubini/medea/neris"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/medee/2026-27",
+    "work_slug": "marc-antoine-charpentier/medee",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/medee-5427762/",
+    "creative_team": [
+      {
+        "person_slug": "stephane-fuget",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "claire-lefilliatre",
+        "role_slug": "marc-antoine-charpentier/medee/cleone-une-italienne"
+      },
+      {
+        "person_slug": "frederic-caton",
+        "role_slug": "marc-antoine-charpentier/medee/creon"
+      },
+      {
+        "person_slug": "juliette-mey",
+        "role_slug": "marc-antoine-charpentier/medee/creuse"
+      },
+      {
+        "person_slug": "petr-nekoranec",
+        "role_slug": "marc-antoine-charpentier/medee/jason"
+      },
+      {
+        "person_slug": "marie-nicole-lemieux",
+        "role_slug": "marc-antoine-charpentier/medee/medee"
+      },
+      {
+        "person_slug": "etienne-bazola",
+        "role_slug": "marc-antoine-charpentier/medee/oronte"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/norma/2024-25",
+    "work_slug": "vincenzo-bellini/norma",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2024/25",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/norma-2064056/",
+    "creative_team": [
+      {
+        "person_slug": "jose-miguel-perez-sierra",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mine-vergez",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anne-delbee",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "abel-orain",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "hernan-penuela",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/orphee-aux-enfers/2024-25",
+    "work_slug": "jacques-offenbach/orphee-aux-enfers",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2024/25",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/orphee-aux-enfers-1976063/",
+    "creative_team": [
+      {
+        "person_slug": "ivo-bauchiero",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chloe-dufresne",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pierre-andre-weitz",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "olivier-py",
+        "function": "director"
+      },
+      {
+        "person_slug": "bertrand-killy",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/otello/2025-26",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/otello/",
+    "creative_team": [
+      {
+        "person_slug": "carlo-montanaro",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franca-squarciapino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "emilie-delbee",
+        "function": "director"
+      },
+      {
+        "person_slug": "nicolas-joel",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ezio-frigerio",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/peter-grimes/2026-27",
+    "work_slug": "benjamin-britten/peter-grimes",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/peter-grimes/",
+    "creative_team": [
+      {
+        "person_slug": "maxine-braham",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "frank-beermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitte-reiffenstuel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-alden",
+        "function": "director"
+      },
+      {
+        "person_slug": "adam-silverman",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paul-steinberg",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sarah-laulan",
+        "role_slug": "benjamin-britten/peter-grimes/auntie"
+      },
+      {
+        "person_slug": "thomas-ebenstein",
+        "role_slug": "benjamin-britten/peter-grimes/bob-boles"
+      },
+      {
+        "person_slug": "celine-laborie",
+        "role_slug": "benjamin-britten/peter-grimes/deuxieme-niece"
+      },
+      {
+        "person_slug": "yolanda-auyanet",
+        "role_slug": "benjamin-britten/peter-grimes/ellen-orford"
+      },
+      {
+        "person_slug": "yuri-kissin",
+        "role_slug": "benjamin-britten/peter-grimes/hobson"
+      },
+      {
+        "person_slug": "marie-gautrot",
+        "role_slug": "benjamin-britten/peter-grimes/mrs-sedley"
+      },
+      {
+        "person_slug": "iurii-samoilov",
+        "role_slug": "benjamin-britten/peter-grimes/ned-keene"
+      },
+      {
+        "person_slug": "nikolai-schukoff",
+        "role_slug": "benjamin-britten/peter-grimes/peter-grimes"
+      },
+      {
+        "person_slug": "helene-carpentier",
+        "role_slug": "benjamin-britten/peter-grimes/premiere-niece"
+      },
+      {
+        "person_slug": "christopher-ventris",
+        "role_slug": "benjamin-britten/peter-grimes/reverend-horace-adams"
+      },
+      {
+        "person_slug": "domenic-barberi",
+        "role_slug": "benjamin-britten/peter-grimes/swallow"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/rusalka/2026-27",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/rusalka-9268878/",
+    "creative_team": [
+      {
+        "person_slug": "giacomo-sagripanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-poda",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marion-vergez-pascal",
+        "role_slug": "antonin-dvorak/rusalka/deuxieme-nymphe"
+      },
+      {
+        "person_slug": "agnieszka-rehlis",
+        "role_slug": "antonin-dvorak/rusalka/jezibaba"
+      },
+      {
+        "person_slug": "ricarda-merbeth",
+        "role_slug": "antonin-dvorak/rusalka/la-princesse-etrangere"
+      },
+      {
+        "person_slug": "anne-lise-polchlopek",
+        "role_slug": "antonin-dvorak/rusalka/le-cuistot"
+      },
+      {
+        "person_slug": "timothee-varon",
+        "role_slug": "antonin-dvorak/rusalka/le-garde-forestier-le-chasseur"
+      },
+      {
+        "person_slug": "pavol-breslik",
+        "role_slug": "antonin-dvorak/rusalka/le-prince"
+      },
+      {
+        "person_slug": "ruzan-mantashyan",
+        "role_slug": "antonin-dvorak/rusalka/rusalka"
+      },
+      {
+        "person_slug": "svetlana-lifar",
+        "role_slug": "antonin-dvorak/rusalka/troisieme-nymphe"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "antonin-dvorak/rusalka/vodnik"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/salome/2025-26",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/salome-5041647/",
+    "creative_team": [
+      {
+        "person_slug": "beate-vollack",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "frank-beermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christof-cremer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "matthias-goerne",
+        "function": "director"
+      },
+      {
+        "person_slug": "vinicio-cheli",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/thais/2025-26",
+    "work_slug": "jules-massenet/thais",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/thais-7802939/",
+    "creative_team": [
+      {
+        "person_slug": "herve-niquet",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefano-poda",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "hun-kim",
+        "role_slug": "jules-massenet/thais/un-cenobite"
+      },
+      {
+        "person_slug": "alfredo-poesina",
+        "role_slug": "jules-massenet/thais/un-homme-du-peuple"
+      },
+      {
+        "person_slug": "hazar-mursitpinar",
+        "role_slug": "jules-massenet/thais/un-serviteur"
+      }
+    ]
+  },
+  {
+    "id": "opera-national-du-capitole/theodora/2025-26",
+    "work_slug": "georg-friedrich-haendel/theodora",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/theodora-1431556/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-national-du-capitole/tristan-et-isolde/2022-23",
+    "work_slug": "richard-wagner/tristan-et-isolde",
+    "house_slug": "opera-national-du-capitole",
+    "premiere_season": "2022/23",
+    "is_revival": false,
+    "detail_url": "https://opera.toulouse.fr/tristan-et-isolde/",
+    "creative_team": [],
+    "cast": []
+  }
+]
