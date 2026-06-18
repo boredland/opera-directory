@@ -83,6 +83,7 @@ import { scrapeOperaDeLausanne } from "./houses/opera-de-lausanne";
 import { scrapeOperaDeLille } from "./houses/opera-de-lille";
 import { scrapeOperaDeLyon } from "./houses/opera-de-lyon";
 import { scrapeOperaDeRouenNormandie } from "./houses/opera-de-rouen-normandie";
+import { scrapeOperaDeSaintEtienne } from "./houses/opera-de-saint-etienne";
 import { scrapeOperaNationalDeParis } from "./houses/opera-national-de-paris";
 import { scrapeOperaNationalDuCapitole } from "./houses/opera-national-du-capitole";
 import { scrapeOperaNiceCoteDAzur } from "./houses/opera-nice-cote-d-azur";
@@ -256,6 +257,7 @@ export const HOUSE_SCRAPERS: Record<string, HouseScraper> = {
   "opera-de-lille": scrapeOperaDeLille,
   "opera-de-lyon": scrapeOperaDeLyon,
   "opera-de-rouen-normandie": scrapeOperaDeRouenNormandie,
+  "opera-de-saint-etienne": scrapeOperaDeSaintEtienne,
   "opera-nice-cote-d-azur": scrapeOperaNiceCoteDAzur,
   "opera-national-du-capitole": scrapeOperaNationalDuCapitole,
   "nouvel-opera-fribourg": scrapeNouvelOperaFribourg,

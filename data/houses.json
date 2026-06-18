@@ -2160,5 +2160,16 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Rouen — WordPress, REST API OPEN, no proxy. Use operaorchestrenormandierouen.fr (the rebranded operaderouen.fr; Wikidata's P856 still lists the old domain). **Discovery + opera gate via REST**: the `spectacle` CPT at /wp-json/wp/v2/spectacle filtered to `genre=215` ('Opéra' — the house mixes concert/dance/territory tags into the same `genre` taxonomy, so the term id is the lyric filter; ~33 works across seasons). REST `acf` is empty and `content` is only a blurb → every fact is parsed from the `/programmation/<slug>/` detail HTML: title=REST `title.rendered`; composer=`<h2 class=\"event-title\">`; **performances from the `<h3 class=\"short\">Venue</h3><p>…</p>` blocks — each `<br>` line is 'Weekday DD month YYYY à HHhMM' with the FULL YEAR (no inference); non-date blocks (Durée/Tarif) don't match the line pattern**; distribution in `<div class=\"event-distribution\">` — creative=`Label <b>Name</b>` (FR labels mapped), cast=`<i>Role</i> <b>Name</b>` (the `<i>` marks a sung character); ensemble (orchestre/chœur/danseurs) dropped. Live 'Opéra en direct' cinema broadcasts are tagged opera too → excluded by slug (they duplicate the staged run). Backfill Wikidata Q111297694."
+  },
+  {
+    "slug": "opera-de-saint-etienne",
+    "name": "Opéra de Saint-Étienne",
+    "city": "Saint-Étienne",
+    "country": "FR",
+    "website": "https://opera.saint-etienne.fr",
+    "wikidata": "Q3354530",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Saint-Étienne — Opixido CMS, no proxy. **Use the bare host opera.saint-etienne.fr (www. does NOT resolve / HTTP 000).** Stable walkable URLs: a season's lyric programme is /otse/saison-YY-YY/spectacles//type-lyrique/ (note the DOUBLE slash; `type-lyrique` IS the opera gate vs type-piano/danse/jeune_public), each production at …/type-lyrique/<slug>/s-<id>/ (stable numeric id = source_production_id). Discovery: incremental = current+next season slugs derived from today (month>=9 → start year); backfill walks season slugs back to ~2010 (archive is live — e.g. 22-23 had 7 lyric works) + Wikidata Q3354530. Per detail page: title=`<h2 class=\"misob\">…<div>genre</div>` (text before the inner div); composer=`<div class=\"sstitre miso\">`; **performances from `<div class=\"lieu\">Venue</div><div class=\"date\">…</div>` blocks, each `<br>` line `<span>Weekday DD month </span> : HHh` — NO YEAR, inferred from the season slug (Sep–Dec→start year, Jan–Aug→end year)**; distribution `<div id=\"sd_distribution\">` is flat `<span class=\"bold\">X</span><br>Name` pairs (split on the bold span pairs label→name) — X mapping to a creative function → creative, Livret/Orchestre/Chœur/Maîtrise → dropped, else X is a sung character role → cast (bare 'Direction' after a chœur → chorus-master). Backfill Wikidata Q3354530."
   }
 ]
