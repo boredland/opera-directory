@@ -1,7 +1,7 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText } from "./_german-credits";
 
 /**
@@ -79,7 +79,8 @@ async function buildProduction(
   for (let i = 0; i < items.length; i++) {
     const dm = items[i]?.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
     if (!dm) continue;
-    const date = `${dm[3]}-${dm[2]?.padStart(2, "0")}-${dm[1]?.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", dm[2] ?? "", dm[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = items[i + 1]?.match(/^(\d{1,2}:\d{2})$/)?.[1] ?? null;
     const key = `${date}|${time ?? ""}`;

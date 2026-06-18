@@ -2,6 +2,7 @@ import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText } from "./_german-credits";
 
 /**
@@ -115,7 +116,7 @@ function parseDate(tr: string): IsoDate | null {
   if (!day || !my?.[1]) return null;
   const month = GERMAN_MONTHS[my[1].toLowerCase()];
   if (!month) return null;
-  return `${my[2]}-${month}-${day.padStart(2, "0")}` as IsoDate;
+  return isoFromParts(my[2] ?? "", month, day);
 }
 
 async function buildProduction(

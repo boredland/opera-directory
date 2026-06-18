@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -140,7 +140,8 @@ function parseTermine(html: string, window: ScrapeWindow): RawPerformance[] {
   for (const item of html.split('class="terminlist"').slice(1)) {
     const dm = item.match(/class="day">\s*(\d{2})\.(\d{2})\.(\d{2})\b/);
     if (!dm) continue;
-    const date = `20${dm[3]}-${dm[2]}-${dm[1]}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", dm[2] ?? "", dm[1] ?? "");
+    if (!date) continue;
     const time = item.match(/class="time">\s*(\d{1,2}:\d{2})/)?.[1] ?? null;
     if ((window.since && date < window.since) || seen.has(`${date}|${time}`)) continue;
     seen.add(`${date}|${time}`);

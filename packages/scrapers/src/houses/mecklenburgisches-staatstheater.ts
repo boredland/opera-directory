@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -89,7 +89,8 @@ function parseKalendarium(html: string, window: ScrapeWindow): Map<string, RawPe
     if (!am) continue;
     const month = MONTHS[(am[3] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${am[4]}-${month}-${am[2]?.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(am[4] ?? "", month, am[2] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = `${am[5]?.padStart(2, "0")}:${am[6]}`;
     const slug = am[1] ?? "";

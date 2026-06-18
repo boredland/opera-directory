@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -139,7 +139,8 @@ function parseTermine(html: string, seasonStart: number, window: ScrapeWindow): 
     if (!m) continue;
     const [, day, month, time] = m;
     const year = Number(month) >= 8 ? seasonStart : seasonStart + 1;
-    const date = `${year}-${month?.padStart(2, "0")}-${day?.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month ?? "", day ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     if (seen.has(`${date}|${time}`)) continue;
     seen.add(`${date}|${time}`);

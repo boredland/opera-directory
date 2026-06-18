@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -199,7 +200,8 @@ function parsePremiereDates(html: string, window: ScrapeWindow, today: string): 
   for (const [, town, d, mo, y] of block.matchAll(
     /<div>\s*([^,<]+?),\s*(\d{2})\.(\d{2})\.(\d{4})\s*<\/div>/g,
   )) {
-    const date = `${y}-${mo}-${d}` as IsoDate;
+    const date = isoFromParts(y ?? "", mo ?? "", d ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     rows.push({
       date,
@@ -217,7 +219,7 @@ function parseGermanDate(text: string): IsoDate | null {
   if (!m) return null;
   const month = GERMAN_MONTHS[(m[2] ?? "").toLowerCase()];
   if (!month) return null;
-  return `${m[3]}-${month}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[1] ?? "");
 }
 
 /** `.kreativteam` block = creative team (German function labels → mapped credit);

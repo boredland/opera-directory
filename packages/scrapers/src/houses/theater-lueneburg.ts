@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -215,7 +216,8 @@ function parseScheduleRows(html: string): ScheduleRow[] {
     if (!month || !bucketYear || !bucketMonth) continue;
     const monthNum = Number.parseInt(month, 10);
     const year = bucketYear + (monthNum < bucketMonth && bucketMonth - monthNum > 6 ? 1 : 0);
-    const date = `${year}-${month}-${(vm[2] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, vm[2] ?? "");
+    if (!date) continue;
     // 00:00 is the house's placeholder for an unannounced time.
     const time = vm[4] === "00" && vm[5] === "00" ? null : `${vm[4]}:${vm[5]}`;
 

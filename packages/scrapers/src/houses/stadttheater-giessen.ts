@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -242,9 +243,7 @@ async function parseCredits(
 function isoDate(ddmm: string | undefined, year: number): IsoDate | null {
   const m = ddmm?.match(/^(\d{1,2})\.(\d{1,2})\.?$/);
   if (!m) return null;
-  const day = m[1]?.padStart(2, "0");
-  const mon = m[2]?.padStart(2, "0");
-  return `${year}-${mon}-${day}` as IsoDate;
+  return isoFromParts(year, m[2] ?? "", m[1] ?? "");
 }
 
 function cleanText(value: string | undefined): string {

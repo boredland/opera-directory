@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -120,7 +121,8 @@ function parseCalendar(html: string): CalRow[] {
     if (!title || !slug || !dm) continue;
     const month = MONTHS[(dm[2] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${dm[3]}-${month}-${(dm[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", month, dm[1] ?? "");
+    if (!date) continue;
 
     const details =
       block.match(/class="details-column">([\s\S]*?)class="button-column"/)?.[1] ?? block;
