@@ -1,5 +1,16 @@
 [
   {
+    "id": "opera-de-lille/after-the-fairy-queen/2008-09",
+    "work_slug": "henry-purcell/after-the-fairy-queen",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2008/09",
+    "premiere_date": "2008-12-12",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57500582",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "opera-de-lille/alcina/2026-27",
     "work_slug": "georg-friedrich-handel/alcina",
     "house_slug": "opera-de-lille",
@@ -68,6 +79,17 @@
     ]
   },
   {
+    "id": "opera-de-lille/cendrillon/2011-12",
+    "work_slug": "cendrillon",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2011/12",
+    "premiere_date": "2011-12-09",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57513032",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "opera-de-lille/coup-fatal-2016-2017/2015-16",
     "work_slug": "coup-fatal-2016-2017",
     "house_slug": "opera-de-lille",
@@ -75,6 +97,204 @@
     "premiere_date": "2016-07-16",
     "is_revival": true,
     "detail_url": "https://www.wikidata.org/wiki/Q57501497",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/coup-fatal/2013-14",
+    "work_slug": "coup-fatal",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2014-06-10",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57513029",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/coup-fatal/2015-16",
+    "work_slug": "coup-fatal",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2015/16",
+    "premiere_date": "2015-09-05",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504689",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/d-a-cote/2017-18",
+    "work_slug": "nicolas-devos/d-a-cote",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2017/18",
+    "premiere_date": "2017-10-06",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57503339",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/dbddbb/2015-16",
+    "work_slug": "dbddbb",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2015/16",
+    "premiere_date": "2015-11-03",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507952",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/dbddbb/2016-17",
+    "work_slug": "dbddbb",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-09-23",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504829",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/dbddbb/2018-19",
+    "work_slug": "dbddbb",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2018/19",
+    "premiere_date": "2019-01-16",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507062",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/dfs/2016-17",
+    "work_slug": "dfs",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2017-07-01",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57698643",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/die-zauberflote/2004-05",
+    "work_slug": "die-zauberflote",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2004/05",
+    "premiere_date": "2005-04-26",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57510352",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/escorial/2012-13",
+    "work_slug": "george-alexander-van-dam/escorial",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2012/13",
+    "premiere_date": "2013-05-14",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504199",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/escorial/2013-14",
+    "work_slug": "george-alexander-van-dam/escorial",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2013-09-02",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57513323",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/escorial/2014-15",
+    "work_slug": "george-alexander-van-dam/escorial",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2015-01-14",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57698516",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/gaze-is-a-gap-is-a-ghost/2012-13",
+    "work_slug": "gaze-is-a-gap-is-a-ghost",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2012/13",
+    "premiere_date": "2012-10-19",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57508012",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/genesis/2013-14",
+    "work_slug": "kaspy-n-dia/genesis",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2014-07-05",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57501643",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/ghost-notes/2016-17",
+    "work_slug": "alexander-schubert/ghost-notes",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-11-20",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57502015",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/golden-hours-as-you-like-it/2014-15",
+    "work_slug": "brian-eno/golden-hours-as-you-like-it",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2015-07-07",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57509346",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/golden-hours-as-you-like-it/2016-17",
+    "work_slug": "brian-eno/golden-hours-as-you-like-it",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-09-22",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57515982",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/le-roi-des-loges/2007-08",
+    "work_slug": "jan-goovaerts/le-roi-des-loges",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2007/08",
+    "premiere_date": "2008-06-14",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57506773",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/les-pecheurs-de-perles/2018-19",
+    "work_slug": "adolphe-armand-bizet/les-pecheurs-de-perles",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2018/19",
+    "premiere_date": "2018-12-14",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57510147",
     "creative_team": [],
     "cast": []
   },
@@ -177,6 +397,17 @@
     ]
   },
   {
+    "id": "opera-de-lille/matsukaze/2014-15",
+    "work_slug": "toshio-hosokawa/matsukaze",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2014-09-30",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57505590",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "opera-de-lille/mitten-wir-im-leben-sind-bach6cellosuiten-2017-2018/2017-18",
     "work_slug": "johann-sebastian-bach/mitten-wir-im-leben-sind-bach6cellosuiten-2017-2018",
     "house_slug": "opera-de-lille",
@@ -184,6 +415,39 @@
     "premiere_date": "2017-08-26",
     "is_revival": true,
     "detail_url": "https://www.wikidata.org/wiki/Q57505553",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/mitten-wir-im-leben-sind-bach6cellosuiten/2017-18",
+    "work_slug": "johann-sebastian-bach/mitten-wir-im-leben-sind-bach6cellosuiten",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2017/18",
+    "premiere_date": "2018-07-04",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57511850",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/nicht-schlafen/2016-17",
+    "work_slug": "steven-prengels/nicht-schlafen",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-09-01",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57506621",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/nicht-schlafen/2018-19",
+    "work_slug": "steven-prengels/nicht-schlafen",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2018/19",
+    "premiere_date": "2018-11-09",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507977",
     "creative_team": [],
     "cast": []
   },
@@ -244,6 +508,50 @@
     ]
   },
   {
+    "id": "opera-de-lille/piano-string-quartet/2016-17",
+    "work_slug": "morton-feldman/piano-string-quartet",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2017-01-27",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504316",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/puz-zle/2011-12",
+    "work_slug": "jean-claude-acquaviva/puz-zle",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2011/12",
+    "premiere_date": "2012-07-20",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57510126",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/puz-zle/2016-17",
+    "work_slug": "jean-claude-acquaviva/puz-zle",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-10-21",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57506950",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/requiem-pour-l/2017-18",
+    "work_slug": "wolfgang-amadeus-mozart/requiem-pour-l",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2017/18",
+    "premiere_date": "2018-07-06",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57514056",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "opera-de-lille/tauberbach-2014-2015/2013-14",
     "work_slug": "tauberbach-2014-2015",
     "house_slug": "opera-de-lille",
@@ -251,6 +559,127 @@
     "premiere_date": "2014-07-11",
     "is_revival": true,
     "detail_url": "https://www.wikidata.org/wiki/Q57509658",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/tauberbach/2013-14",
+    "work_slug": "tauberbach-2014-2015",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2014-07-11",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57509658",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/tauberbach/2015-16",
+    "work_slug": "tauberbach",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2015/16",
+    "premiere_date": "2015-11-03",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507987",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/the-karaoke-dialogues/2013-14",
+    "work_slug": "the-karaoke-dialogues",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2014-05-13",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57501405",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/the-pyre/2012-13",
+    "work_slug": "peter-rehberg/the-pyre",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2012/13",
+    "premiere_date": "2013-05-29",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504893",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/the-pyre/2013-14",
+    "work_slug": "peter-rehberg/the-pyre",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2013-08-14",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57510853",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/the-pyre/2014-15",
+    "work_slug": "peter-rehberg/the-pyre",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2015-05-11",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57698842",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/the-sun-came/2012-13",
+    "work_slug": "the-sun-came",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2012/13",
+    "premiere_date": "2013-04-06",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507238",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/tragedy-of-a-friendship/2012-13",
+    "work_slug": "moritz-eggert/tragedy-of-a-friendship",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2012/13",
+    "premiere_date": "2013-05-15",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57504366",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/un-sacre-du-printemps/2014-15",
+    "work_slug": "igor-strawinsky/un-sacre-du-printemps",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2015-02-13",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57511052",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/un-sacre-du-printemps/2016-17",
+    "work_slug": "igor-strawinsky/un-sacre-du-printemps",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2016/17",
+    "premiere_date": "2016-12-02",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57505170",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/un-sacre-du-printemps/2017-18",
+    "work_slug": "igor-strawinsky/un-sacre-du-printemps",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2017/18",
+    "premiere_date": "2018-03-23",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57506059",
     "creative_team": [],
     "cast": []
   },
@@ -265,13 +694,46 @@
     "cast": []
   },
   {
+    "id": "opera-de-lille/vortex-temporum/2013-14",
+    "work_slug": "gerard-grisey/vortex-temporum",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2013/14",
+    "premiere_date": "2013-11-06",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57513330",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/vortex-temporum/2014-15",
+    "work_slug": "gerard-grisey/vortex-temporum",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2014/15",
+    "premiere_date": "2014-08-23",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57507051",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "opera-de-lille/vortex-temporum/2015-16",
     "work_slug": "gerard-grisey/vortex-temporum",
     "house_slug": "opera-de-lille",
     "premiere_season": "2015/16",
-    "premiere_date": "2015-10-02",
+    "premiere_date": "2016-07-29",
     "is_revival": true,
-    "detail_url": "https://www.wikidata.org/wiki/Q57502089",
+    "detail_url": "https://www.wikidata.org/wiki/Q57507902",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "opera-de-lille/xerse/2015-16",
+    "work_slug": "jean-baptiste-lully/xerse",
+    "house_slug": "opera-de-lille",
+    "premiere_season": "2015/16",
+    "premiere_date": "2015-10-02",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q57509855",
     "creative_team": [],
     "cast": []
   }
