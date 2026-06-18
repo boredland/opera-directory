@@ -2149,5 +2149,16 @@
     "strategy": "spielplan-html",
     "enabled": true,
     "notes": "Lille — WordPress + Yoast, REST API 401-locked, no proxy. **Two HTML surfaces.** Discovery + genre gate + the only year-accurate per-night dates come from the site-wide `/calendrier/` widget: each performance is a `calendrier-YYYY-MM-DD` container with a `date-line-link` to `/spectacle/<slug>/` and a `date-line-categorie` span (the genre) — keep slugs whose genre is `opéra`/`opéra itinérant` and collect their ISO nights (the detail page prints day+month only, so the calendar carries the year across the season boundary). The calendar is forward-looking only (played nights are dropped) → live adapter = announced future. Per opera slug, fetch the detail page (current `sHeader` template): genre re-confirmed via `sHeader_catItem`; title=`sHeader_title`; composer=`sHeader_st` else the `Opéra de <strong>…</strong>` distribution byline else the `opéra de …` `sHeader_infos` line (opera gate). Distribution lives in `section_content` `<p>` paragraphs: the paragraph opening with 'Avec' is the cast (`<strong>Name</strong> Role`), the others are creative (`Label <strong>Name</strong>`, French labels mapped); ensemble (orchestre/chœur/danse) dropped. Per-night times matched onto the calendar nights from the `spectacle-details-date`/`-heure` rows by month+day. **Deep past = Wikidata Q3354558 — Lille's 57 P4647/P272 works are the richest French backfill of the set.** Note: archived (pre-`sHeader`) detail pages use an older `titre`/`auteur`/`spectacle-distribution-gauche|droite` template, but they aren't reachable via the forward-looking calendar, so only the current template is parsed."
+  },
+  {
+    "slug": "opera-de-rouen-normandie",
+    "name": "Opéra de Rouen Normandie",
+    "city": "Rouen",
+    "country": "FR",
+    "website": "https://www.operaorchestrenormandierouen.fr",
+    "wikidata": "Q111297694",
+    "strategy": "spielplan-html",
+    "enabled": true,
+    "notes": "Rouen — WordPress, REST API OPEN, no proxy. Use operaorchestrenormandierouen.fr (the rebranded operaderouen.fr; Wikidata's P856 still lists the old domain). **Discovery + opera gate via REST**: the `spectacle` CPT at /wp-json/wp/v2/spectacle filtered to `genre=215` ('Opéra' — the house mixes concert/dance/territory tags into the same `genre` taxonomy, so the term id is the lyric filter; ~33 works across seasons). REST `acf` is empty and `content` is only a blurb → every fact is parsed from the `/programmation/<slug>/` detail HTML: title=REST `title.rendered`; composer=`<h2 class=\"event-title\">`; **performances from the `<h3 class=\"short\">Venue</h3><p>…</p>` blocks — each `<br>` line is 'Weekday DD month YYYY à HHhMM' with the FULL YEAR (no inference); non-date blocks (Durée/Tarif) don't match the line pattern**; distribution in `<div class=\"event-distribution\">` — creative=`Label <b>Name</b>` (FR labels mapped), cast=`<i>Role</i> <b>Name</b>` (the `<i>` marks a sung character); ensemble (orchestre/chœur/danseurs) dropped. Live 'Opéra en direct' cinema broadcasts are tagged opera too → excluded by slug (they duplicate the staged run). Backfill Wikidata Q111297694."
   }
 ]
