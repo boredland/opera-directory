@@ -12,9 +12,11 @@ import {
 } from "@opera-directory/scrapers";
 import { ingestRawProduction } from "./resolve";
 import { CanonicalStore } from "./store";
+import { validateData } from "./validate";
 
 export * from "./resolve";
 export * from "./store";
+export * from "./validate";
 
 /**
  * The pipeline, end to end:
@@ -172,6 +174,20 @@ if (import.meta.main) {
     await runScrapeRaw(slug, window);
   } else if (cmd === "ingest-raw") {
     await runIngestRaw();
+  } else if (cmd === "validate") {
+    const report = await validateData(DATA_DIR);
+    for (const w of report.warnings) console.warn("⚠", w);
+    for (const e of report.errors) console.error("✗", e);
+    console.log("validate:", report.counts);
+    if (report.errors.length) {
+      console.error(
+        `\n${report.errors.length} referential-integrity error(s) — the data graph is broken.`,
+      );
+      process.exit(1);
+    }
+    console.log(
+      `OK — ${report.counts.persons} persons, ${report.counts.works} works, ${report.warnings.length} sanity warning(s).`,
+    );
   } else {
     const { slugs, window } = parseArgs(process.argv.slice(2));
     await runScrape(slugs, window);
