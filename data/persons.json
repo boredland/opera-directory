@@ -1662,6 +1662,13 @@
     ]
   },
   {
+    "slug": "aedin-cosgrove",
+    "name": "Aedin Cosgrove",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "aes-f",
     "name": "AES+F",
     "professions": [
@@ -14611,6 +14618,13 @@
     ]
   },
   {
+    "slug": "camille-chopin",
+    "name": "Camille Chopin",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "camille-delaforge",
     "name": "Camille Delaforge",
     "professions": [
@@ -15697,6 +15711,13 @@
     "name": "Catherine Cook",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "catherine-fay",
+    "name": "Catherine Fay",
+    "professions": [
+      "costume-designer"
     ]
   },
   {
@@ -18694,6 +18715,13 @@
     "name": "Commissioner",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "conan-mcivor",
+    "name": "Conan McIvor",
+    "professions": [
+      "video"
     ]
   },
   {
@@ -26627,6 +26655,13 @@
     ]
   },
   {
+    "slug": "emmanuelle-haim",
+    "name": "Emmanuelle Haïm",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "emmerich-kalman",
     "name": "Emmerich Kálmán",
     "professions": [
@@ -29015,6 +29050,13 @@
     ]
   },
   {
+    "slug": "federico-sanz",
+    "name": "Federico Sanz",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "federico-zeno-bassanese",
     "name": "Federico Zeno Bassanese",
     "professions": [
@@ -31183,6 +31225,13 @@
     ]
   },
   {
+    "slug": "franziska-kronfoth",
+    "name": "Franziska Kronfoth",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
     "slug": "franziska-machens",
     "name": "Franziska Machens",
     "professions": [
@@ -33074,6 +33123,13 @@
     "name": "Gerard Farreras",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "gerard-grisey",
+    "name": "Gérard Grisey",
+    "professions": [
+      "composer"
     ]
   },
   {
@@ -42558,7 +42614,8 @@
     "slug": "jennifer-walshe",
     "name": "Jennifer Walshe",
     "professions": [
-      "composer"
+      "composer",
+      "director"
     ]
   },
   {
@@ -48265,6 +48322,13 @@
     ]
   },
   {
+    "slug": "katarzyna-borkowska",
+    "name": "Katarzyna Borkowska",
+    "professions": [
+      "lighting"
+    ]
+  },
+  {
     "slug": "katarzyna-coufal",
     "name": "Katarzyna Coufal",
     "professions": [
@@ -48838,6 +48902,13 @@
     "name": "Katrin Bachmann",
     "professions": [
       "choreographer"
+    ]
+  },
+  {
+    "slug": "katrin-bombe",
+    "name": "Katrin Bombe",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -51899,6 +51970,13 @@
     "name": "Léa Sirera",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "lea-theus",
+    "name": "Lea Theus",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -55420,6 +55498,13 @@
   {
     "slug": "luna-jusic",
     "name": "Luna Jušić",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "lunga-eric-hallam",
+    "name": "Lunga Eric Hallam",
     "professions": [
       "singer"
     ]
@@ -64338,6 +64423,13 @@
     ]
   },
   {
+    "slug": "mikolaj-karczewski",
+    "name": "Mikolaj Karczewski",
+    "professions": [
+      "choreographer"
+    ]
+  },
+  {
     "slug": "mila-schmidt",
     "name": "Mila Schmidt",
     "professions": [
@@ -64843,6 +64935,13 @@
     "name": "Mirko Roschkowski",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "miron-hakenbeck",
+    "name": "Miron Hakenbeck",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -66043,6 +66142,13 @@
     ]
   },
   {
+    "slug": "natalia-mieczak",
+    "name": "Natalia Mieczak",
+    "professions": [
+      "set-designer"
+    ]
+  },
+  {
     "slug": "natalia-pavlenko",
     "name": "Natalia Pavlenko",
     "professions": [
@@ -67037,6 +67143,13 @@
     ]
   },
   {
+    "slug": "nicolas-agullo",
+    "name": "Nicolás Agulló",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
     "slug": "nicolas-andre",
     "name": "Nicolas André",
     "professions": [
@@ -67070,6 +67183,13 @@
     "name": "Nicolas Brooymans",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "nicolas-chesneau",
+    "name": "Nicolas Chesneau",
+    "professions": [
+      "repetiteur"
     ]
   },
   {
@@ -69687,6 +69807,13 @@
   {
     "slug": "owen-lucas",
     "name": "Owen Lucas",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "owen-metsileng",
+    "name": "Owen Metsileng",
     "professions": [
       "singer"
     ]
@@ -81542,6 +81669,13 @@
     ]
   },
   {
+    "slug": "sir-willard-white",
+    "name": "Sir Willard White",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "siranush-khachatryan",
     "name": "Siranush Khachatryan",
     "professions": [
@@ -81579,6 +81713,13 @@
   {
     "slug": "sitzkissenkonzert-zur-zauberflote",
     "name": "Sitzkissenkonzert zur »Zauberflöte«",
+    "professions": [
+      "composer"
+    ]
+  },
+  {
+    "slug": "sivan-eldar",
+    "name": "Sivan Eldar",
     "professions": [
       "composer"
     ]
@@ -84980,6 +85121,13 @@
     "name": "Tamara Franetović Felbinger",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "tamara-gvozdenovic",
+    "name": "Tamara Gvozdenovic",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -90411,6 +90559,13 @@
     "name": "Virginia Segarra Vidal",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "virginie-dejos",
+    "name": "Virginie Déjos",
+    "professions": [
+      "chorus-master"
     ]
   },
   {
