@@ -46,9 +46,11 @@ export async function scrapeWikidataProductions(
   const byWork = new Map<string, RawProduction>();
   for (const b of data.results.bindings) {
     const workQid = b.item.value.split("/").pop() ?? b.item.value;
-    const title = b.itemLabel?.value?.trim();
+    const rawTitle = b.itemLabel?.value?.trim();
     // Skip items Wikidata can't label (label falls back to the bare QID) — no usable title.
-    if (!title || title === workQid) continue;
+    if (!rawTitle || rawTitle === workQid) continue;
+    // Some editors suffix the season onto the label ("Matsukaze (2014-2015)") — the work is the title.
+    const title = rawTitle.replace(/\s*\(\d{4}(?:\s*[-–/]\s*\d{2,4})?\)\s*$/, "").trim();
 
     const premiereDate = b.premiere ? (b.premiere.value.slice(0, 10) as IsoDate) : null;
     if (window.since && (!premiereDate || premiereDate < window.since)) continue;
@@ -80,7 +82,7 @@ SELECT ?item ?itemLabel ?composer ?composerLabel ?premiere ?rel WHERE {
   { ?item wdt:P272 wd:${qid} . BIND("production" AS ?rel) }
   OPTIONAL { ?item wdt:P86 ?composer . }
   OPTIONAL { ?item wdt:P1191 ?premiere . }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en,fr,it,es". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en,fr,it,es,nl,ru,cs,pl,hu,sv,da,fi,no,ca,pt,el,ro,et,lv,lt,sl,hr,uk". }
 }`;
 }
 
