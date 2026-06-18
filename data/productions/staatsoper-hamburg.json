@@ -1,5 +1,16 @@
 [
   {
+    "id": "staatsoper-hamburg/alessandro-stradella/1844-45",
+    "work_slug": "friedrich-von-flotow/alessandro-stradella",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1844/45",
+    "premiere_date": "1844-12-30",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q621393",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-hamburg/ballett-168-ballett-werkstatt",
     "work_slug": "ballett-werkstatt",
     "house_slug": "staatsoper-hamburg",
@@ -411,14 +422,6 @@
         "role_slug": "neue-welten/orchester"
       },
       {
-        "person_slug": "5-12-26",
-        "role_slug": "neue-welten/sanger"
-      },
-      {
-        "person_slug": "9-12-26",
-        "role_slug": "neue-welten/sanger"
-      },
-      {
         "person_slug": "thomas-hampson",
         "role_slug": "neue-welten/sanger"
       }
@@ -431,22 +434,6 @@
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1911-wunderland",
     "creative_team": [
-      {
-        "person_slug": "2-7-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "20-6-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "23-6-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "26-6-26",
-        "function": "conductor"
-      },
       {
         "person_slug": "vello-pahn",
         "function": "conductor"
@@ -474,22 +461,6 @@
         "role_slug": "wunderland/choreografische-assistenz"
       },
       {
-        "person_slug": "2-7-26",
-        "role_slug": "wunderland/ensemble"
-      },
-      {
-        "person_slug": "20-6-26",
-        "role_slug": "wunderland/ensemble"
-      },
-      {
-        "person_slug": "23-6-26",
-        "role_slug": "wunderland/ensemble"
-      },
-      {
-        "person_slug": "26-6-26",
-        "role_slug": "wunderland/ensemble"
-      },
-      {
         "person_slug": "hamburg-ballett",
         "role_slug": "wunderland/ensemble"
       },
@@ -500,38 +471,6 @@
       {
         "person_slug": "vasyl-ratmansky",
         "role_slug": "wunderland/musikalische-assistenz"
-      },
-      {
-        "person_slug": "12-11-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "18-11-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "2-7-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "20-3-27",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "20-6-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "23-6-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "26-6-26",
-        "role_slug": "wunderland/orchester"
-      },
-      {
-        "person_slug": "31-10-26",
-        "role_slug": "wunderland/orchester"
       },
       {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
@@ -787,26 +726,6 @@
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/201-der-nussknacker",
     "creative_team": [
       {
-        "person_slug": "1-1-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "16-12-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "17-12-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "22-12-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "27-12-26",
-        "function": "conductor"
-      },
-      {
         "person_slug": "omer-meir-wellber",
         "function": "conductor"
       },
@@ -823,38 +742,6 @@
       {
         "person_slug": "peter-tschaikowsky",
         "role_slug": "der-nussknacker/musik"
-      },
-      {
-        "person_slug": "1-1-27",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "11-10-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "16-12-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "17-12-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "22-12-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "25-12-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "27-12-26",
-        "role_slug": "der-nussknacker/orchester"
-      },
-      {
-        "person_slug": "27-12-26",
-        "role_slug": "der-nussknacker/orchester"
       },
       {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
@@ -953,10 +840,6 @@
         "function": "choreographer"
       },
       {
-        "person_slug": "4-7-26",
-        "function": "conductor"
-      },
-      {
         "person_slug": "markus-lehtinen",
         "function": "conductor"
       },
@@ -974,10 +857,6 @@
       }
     ],
     "cast": [
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/anna"
-      },
       {
         "person_slug": "laura-cazzaniga",
         "role_slug": "romantic-evolution-s/anna"
@@ -999,32 +878,16 @@
         "role_slug": "romantic-evolution-s/dramaturgische-assistenz"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/effie"
-      },
-      {
         "person_slug": "francesca-harvey",
         "role_slug": "romantic-evolution-s/effie"
-      },
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/ein-derwisch"
       },
       {
         "person_slug": "ida-stempelmann",
         "role_slug": "romantic-evolution-s/ein-derwisch"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/ein-silpho"
-      },
-      {
         "person_slug": "emiliano-torres",
         "role_slug": "romantic-evolution-s/ein-silpho"
-      },
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/eine-sylphe"
       },
       {
         "person_slug": "xue-lin",
@@ -1035,10 +898,6 @@
         "role_slug": "romantic-evolution-s/ensemble"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/erste-sylphide"
-      },
-      {
         "person_slug": "greta-jorgens",
         "role_slug": "romantic-evolution-s/erste-sylphide"
       },
@@ -1047,40 +906,12 @@
         "role_slug": "romantic-evolution-s/filmarbeit"
       },
       {
-        "person_slug": "17-1-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "17-1-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "18-1-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "25-3-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "8-1-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "9-1-27",
-        "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
         "person_slug": "ida-aldrian",
         "role_slug": "romantic-evolution-s/gesang"
       },
       {
         "person_slug": "katja-pieweck",
         "role_slug": "romantic-evolution-s/gesang"
-      },
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/gurn"
       },
       {
         "person_slug": "francesco-cortese",
@@ -1095,10 +926,6 @@
         "role_slug": "romantic-evolution-s/inszenierung-und-einstudierung"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/james"
-      },
-      {
         "person_slug": "jack-bruce",
         "role_slug": "romantic-evolution-s/james"
       },
@@ -1107,16 +934,8 @@
         "role_slug": "romantic-evolution-s/james"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/la-sylphide"
-      },
-      {
         "person_slug": "ida-praetorius",
         "role_slug": "romantic-evolution-s/la-sylphide"
-      },
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/madge"
       },
       {
         "person_slug": "louis-haslach",
@@ -1139,10 +958,6 @@
         "role_slug": "romantic-evolution-s/musik"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/my-heart-s-in-the-highlands"
-      },
-      {
         "person_slug": "florian-pohl",
         "role_slug": "romantic-evolution-s/my-heart-s-in-the-highlands"
       },
@@ -1151,40 +966,12 @@
         "role_slug": "romantic-evolution-s/my-heart-s-in-the-highlands"
       },
       {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/nancy"
-      },
-      {
         "person_slug": "justine-cramer",
         "role_slug": "romantic-evolution-s/nancy"
       },
       {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
         "role_slug": "romantic-evolution-s/orchester"
-      },
-      {
-        "person_slug": "17-1-27",
-        "role_slug": "romantic-evolution-s/solo-violine"
-      },
-      {
-        "person_slug": "18-1-27",
-        "role_slug": "romantic-evolution-s/solo-violine"
-      },
-      {
-        "person_slug": "25-3-27",
-        "role_slug": "romantic-evolution-s/solo-violine"
-      },
-      {
-        "person_slug": "4-7-26",
-        "role_slug": "romantic-evolution-s/solo-violine"
-      },
-      {
-        "person_slug": "8-1-27",
-        "role_slug": "romantic-evolution-s/solo-violine"
-      },
-      {
-        "person_slug": "9-1-27",
-        "role_slug": "romantic-evolution-s/solo-violine"
       },
       {
         "person_slug": "anton-barakhovsky",
@@ -1461,34 +1248,6 @@
         "role_slug": "a-cinderella-story/musik"
       },
       {
-        "person_slug": "13-9-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "14-10-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "15-10-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "15-9-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "16-10-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "17-9-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
-        "person_slug": "18-9-26",
-        "role_slug": "a-cinderella-story/orchester"
-      },
-      {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
         "role_slug": "a-cinderella-story/orchester"
       }
@@ -1630,56 +1389,28 @@
     ],
     "cast": [
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/boris-alexejewitsch-trigorin"
-      },
-      {
         "person_slug": "matias-oberlin",
         "role_slug": "die-mowe/boris-alexejewitsch-trigorin"
-      },
-      {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/ensemble"
       },
       {
         "person_slug": "hamburg-ballett",
         "role_slug": "die-mowe/ensemble"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/ilja-afanassewitsch-schamrajew"
-      },
-      {
         "person_slug": "florian-pohl",
         "role_slug": "die-mowe/ilja-afanassewitsch-schamrajew"
-      },
-      {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/irina-nikolajewna-arkadina"
       },
       {
         "person_slug": "anna-laudere",
         "role_slug": "die-mowe/irina-nikolajewna-arkadina"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/jewgenij-sergejewitsch-dorn"
-      },
-      {
         "person_slug": "joaquin-angelucci",
         "role_slug": "die-mowe/jewgenij-sergejewitsch-dorn"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/konstantin-kostja"
-      },
-      {
         "person_slug": "louis-musin",
         "role_slug": "die-mowe/konstantin-kostja"
-      },
-      {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/mascha"
       },
       {
         "person_slug": "xue-lin",
@@ -1702,10 +1433,6 @@
         "role_slug": "die-mowe/musik"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/nina-michajlowna-saretschnaja"
-      },
-      {
         "person_slug": "ana-torrequebrada",
         "role_slug": "die-mowe/nina-michajlowna-saretschnaja"
       },
@@ -1714,24 +1441,12 @@
         "role_slug": "die-mowe/orchester"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/pjotr-nikolajewitsch-sorin"
-      },
-      {
         "person_slug": "louis-haslach",
         "role_slug": "die-mowe/pjotr-nikolajewitsch-sorin"
       },
       {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/polina-andrejewna"
-      },
-      {
         "person_slug": "ida-stempelmann",
         "role_slug": "die-mowe/polina-andrejewna"
-      },
-      {
-        "person_slug": "3-7-26",
-        "role_slug": "die-mowe/semjon-semjonowitsch-medwedenko"
       },
       {
         "person_slug": "lennard-giesenberg",
@@ -1819,6 +1534,72 @@
     "cast": []
   },
   {
+    "id": "staatsoper-hamburg/benjamin/2017-18",
+    "work_slug": "peter-ruzicka/benjamin",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "2017/18",
+    "premiere_date": "2018-06-03",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q116009350",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/das-madchen-mit-den-schwefelholzern/1996-97",
+    "work_slug": "helmut-lachenmann/das-madchen-mit-den-schwefelholzern",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1996/97",
+    "premiere_date": "1997-01-26",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q79330148",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/das-wunder-der-heliane/1927-28",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1927/28",
+    "premiere_date": "1927-10-07",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q2659428",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/der-konig-kandaules/1996-97",
+    "work_slug": "alexander-von-zemlinsky/der-konig-kandaules",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1996/97",
+    "premiere_date": "1996-10-06",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q1195083",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/der-prinz-von-homburg/1959-60",
+    "work_slug": "hans-werner-henze/der-prinz-von-homburg",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1959/60",
+    "premiere_date": "1960-05-22",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q165590",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/des-matrosen-heimkehr/1884-85",
+    "work_slug": "franz-von-suppe/des-matrosen-heimkehr",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1884/85",
+    "premiere_date": "1885-05-04",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q30642839",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-hamburg/details-2147484969-der-musiker-und-autor-omer-meir-wellber-ein-portraet",
     "work_slug": "der-musiker-und-autor-omer-meir-wellber-ein-portrat",
     "house_slug": "staatsoper-hamburg",
@@ -1869,6 +1650,61 @@
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/289-fuehrung-durch-die-staatsoper",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/die-brautwahl/1911-12",
+    "work_slug": "ferruccio-busoni/die-brautwahl",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1911/12",
+    "premiere_date": "1912-04-13",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q3221327",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/die-hamburger-sindbadauken/2014-15",
+    "work_slug": "benjamin-gordon/die-hamburger-sindbadauken",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "2014/15",
+    "premiere_date": "2015-02-08",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q122417989",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/eine-gastrolle/1846-47",
+    "work_slug": "eine-gastrolle",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1846/47",
+    "premiere_date": "1847-01-14",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q110059496",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/five-brahms-waltzes-in-the-manner-of-isadora-duncan/1974-75",
+    "work_slug": "five-brahms-waltzes-in-the-manner-of-isadora-duncan",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1974/75",
+    "premiere_date": "1975-06-22",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q107088016",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/hilfe-hilfe-die-globolinks/1968-69",
+    "work_slug": "gian-carlo-menotti/hilfe-hilfe-die-globolinks",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1968/69",
+    "premiere_date": "1968-12-21",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q1618498",
     "creative_team": [],
     "cast": []
   },
@@ -2643,10 +2479,6 @@
     "creative_team": [],
     "cast": [
       {
-        "person_slug": "29-11-26",
-        "role_slug": "kids-only-2-durch-das-wurmloch-hindurch/orchester"
-      },
-      {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
         "role_slug": "kids-only-2-durch-das-wurmloch-hindurch/orchester"
       }
@@ -2700,30 +2532,6 @@
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484980-ta-ta-ta-taaa",
     "creative_team": [
-      {
-        "person_slug": "14-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "15-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "16-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "4-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "5-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "6-4-27",
-        "function": "conductor"
-      },
       {
         "person_slug": "omer-meir-wellber",
         "function": "conductor"
@@ -2800,6 +2608,28 @@
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/3149-croissant-mit-omer",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/la-campana-sommersa/1927-28",
+    "work_slug": "ottorino-respighi/la-campana-sommersa",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1927/28",
+    "premiere_date": "1927-11-18",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q6466004",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/mudder-mews/1905-06",
+    "work_slug": "mudder-mews",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1905/06",
+    "premiere_date": "1905-12-10",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q13188682",
     "creative_team": [],
     "cast": []
   },
@@ -2991,30 +2821,6 @@
         "role_slug": "giuseppe-verdi/la-traviata/annina"
       },
       {
-        "person_slug": "14-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "16-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "29-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "3-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "5-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "7-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
         "person_slug": "ida-aldrian",
         "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
       },
@@ -3025,30 +2831,6 @@
       {
         "person_slug": "peter-galliard",
         "role_slug": "giuseppe-verdi/la-traviata/gastone"
-      },
-      {
-        "person_slug": "14-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "16-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "29-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "3-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "5-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "7-1-27",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
       },
       {
         "person_slug": "andrei-bonda-shy-renko",
@@ -3250,22 +3032,6 @@
         "role_slug": "michail-glinka/ruslan-und-ljudmila/ruslan"
       },
       {
-        "person_slug": "10-12-26",
-        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
-      },
-      {
-        "person_slug": "29-11-26",
-        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
-      },
-      {
-        "person_slug": "6-12-26",
-        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
-      },
-      {
-        "person_slug": "8-12-26",
-        "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
-      },
-      {
         "person_slug": "alexander-roslavets",
         "role_slug": "michail-glinka/ruslan-und-ljudmila/swetosar"
       },
@@ -3432,7 +3198,7 @@
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
       },
       {
-        "person_slug": "colin-aikins",
+        "person_slug": "william-desbiens",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/fiorello"
       },
       {
@@ -3483,7 +3249,7 @@
         "role_slug": "henry-purcell/dido-and-aeneas/animationswerkstatt"
       },
       {
-        "person_slug": "eliza-boom",
+        "person_slug": "n-n",
         "role_slug": "henry-purcell/dido-and-aeneas/belinda"
       },
       {
@@ -3510,38 +3276,6 @@
       {
         "person_slug": "alice-merega-shy-glia",
         "function": "chorus-master"
-      },
-      {
-        "person_slug": "11-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "12-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "16-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "17-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "2-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "20-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "22-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "8-10-26",
-        "function": "conductor"
       },
       {
         "person_slug": "daniele-squeo",
@@ -3578,38 +3312,6 @@
         "role_slug": "giuseppe-verdi/macbeth/arzt"
       },
       {
-        "person_slug": "11-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "12-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "16-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "17-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "2-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "20-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "22-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
-        "person_slug": "8-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/banco"
-      },
-      {
         "person_slug": "aleksei-kulagin",
         "role_slug": "giuseppe-verdi/macbeth/banco"
       },
@@ -3630,38 +3332,6 @@
         "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
       },
       {
-        "person_slug": "11-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "12-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "16-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "17-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "2-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "20-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "22-9-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
-        "person_slug": "8-10-26",
-        "role_slug": "giuseppe-verdi/macbeth/macbeth"
-      },
-      {
         "person_slug": "kartal-karagedik",
         "role_slug": "giuseppe-verdi/macbeth/macbeth"
       },
@@ -3675,7 +3345,7 @@
       },
       {
         "person_slug": "colin-aikins",
-        "role_slug": "giuseppe-verdi/macbeth/malcom"
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
       }
     ]
   },
@@ -3820,30 +3490,6 @@
       {
         "person_slug": "christian-gunther",
         "function": "chorus-master"
-      },
-      {
-        "person_slug": "11-11-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "17-11-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "20-11-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "25-11-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "27-11-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "7-11-26",
-        "function": "conductor"
       },
       {
         "person_slug": "n-n",
@@ -3992,7 +3638,7 @@
     "cast": [
       {
         "person_slug": "lawrence-brownlee",
-        "role_slug": "gioachino-rossini/guillaume-tell/arnold-melchtal"
+        "role_slug": "gioachino-rossini/guillaume-tell/arnold-melcthal"
       },
       {
         "person_slug": "alexander-roslavets",
@@ -4001,38 +3647,6 @@
       {
         "person_slug": "jacques-imbrailo",
         "role_slug": "gioachino-rossini/guillaume-tell/guillaume-tell"
-      },
-      {
-        "person_slug": "19-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "2-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "24-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "25-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "27-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "30-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "4-3-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
-      },
-      {
-        "person_slug": "5-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/hedwige"
       },
       {
         "person_slug": "adriana-bignagni-lesca",
@@ -4051,38 +3665,6 @@
         "role_slug": "gioachino-rossini/guillaume-tell/leuthold"
       },
       {
-        "person_slug": "19-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "2-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "24-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "25-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "27-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "30-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "4-3-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
-        "person_slug": "5-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
-      },
-      {
         "person_slug": "emily-richter",
         "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
       },
@@ -4091,40 +3673,12 @@
         "role_slug": "gioachino-rossini/guillaume-tell/mathilde"
       },
       {
+        "person_slug": "willard-white",
+        "role_slug": "gioachino-rossini/guillaume-tell/melcthal"
+      },
+      {
         "person_slug": "colin-aikins",
         "role_slug": "gioachino-rossini/guillaume-tell/rodolphe"
-      },
-      {
-        "person_slug": "19-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "2-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "24-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "25-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "27-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "30-1-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "4-3-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
-      },
-      {
-        "person_slug": "5-2-27",
-        "role_slug": "gioachino-rossini/guillaume-tell/ruodi"
       },
       {
         "person_slug": "jonah-hoskins",
@@ -4191,34 +3745,6 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "16-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "18-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "21-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "23-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "3-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "6-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "9-3-27",
-        "function": "conductor"
-      },
-      {
         "person_slug": "omer-meir-wellber",
         "function": "conductor"
       },
@@ -4269,7 +3795,7 @@
         "role_slug": "peter-tschaikowsky/eugen-onegin/larina"
       },
       {
-        "person_slug": "dmitry-korchak",
+        "person_slug": "n-n",
         "role_slug": "peter-tschaikowsky/eugen-onegin/lenski"
       },
       {
@@ -4708,22 +4234,6 @@
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3121-wir-bauen-eine-neue-stadt",
     "creative_team": [
       {
-        "person_slug": "10-10-26",
-        "function": "childrens-chorus-master"
-      },
-      {
-        "person_slug": "11-10-26",
-        "function": "childrens-chorus-master"
-      },
-      {
-        "person_slug": "15-10-26",
-        "function": "childrens-chorus-master"
-      },
-      {
-        "person_slug": "8-10-26",
-        "function": "childrens-chorus-master"
-      },
-      {
         "person_slug": "alsterspatzen-kinder-und-jugendchor-der-hamburgischen-staatsoper",
         "function": "childrens-chorus-master"
       },
@@ -4811,7 +4321,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "keren-kagarlitsky",
+        "person_slug": "alexander-joel",
         "function": "conductor"
       },
       {
@@ -4953,27 +4463,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "12-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "17-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "2-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "6-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "7-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "francesco-ivan-ciampa",
+        "person_slug": "n-n",
         "function": "conductor"
       },
       {
@@ -4999,26 +4489,6 @@
     ],
     "cast": [
       {
-        "person_slug": "12-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
-      },
-      {
-        "person_slug": "17-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
-      },
-      {
-        "person_slug": "2-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
-      },
-      {
-        "person_slug": "6-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
-      },
-      {
-        "person_slug": "7-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
-      },
-      {
         "person_slug": "leah-hawkins",
         "role_slug": "giuseppe-verdi/un-ballo-in-maschera/amelia"
       },
@@ -5029,26 +4499,6 @@
       {
         "person_slug": "andrew-hamilton",
         "role_slug": "giuseppe-verdi/un-ballo-in-maschera/christiano"
-      },
-      {
-        "person_slug": "12-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
-      },
-      {
-        "person_slug": "17-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
-      },
-      {
-        "person_slug": "2-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
-      },
-      {
-        "person_slug": "6-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
-      },
-      {
-        "person_slug": "7-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/gustavo-iii"
       },
       {
         "person_slug": "anthony-ciaramitaro",
@@ -5077,26 +4527,6 @@
       {
         "person_slug": "narea-son",
         "role_slug": "giuseppe-verdi/un-ballo-in-maschera/oscar"
-      },
-      {
-        "person_slug": "12-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
-      },
-      {
-        "person_slug": "17-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
-      },
-      {
-        "person_slug": "2-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
-      },
-      {
-        "person_slug": "6-4-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
-      },
-      {
-        "person_slug": "7-2-27",
-        "role_slug": "giuseppe-verdi/un-ballo-in-maschera/ulrica"
       },
       {
         "person_slug": "annika-schlicht",
@@ -5320,22 +4750,6 @@
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/il-conte-d-almaviva"
       },
       {
-        "person_slug": "15-4-27",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
-      },
-      {
-        "person_slug": "17-4-27",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
-      },
-      {
-        "person_slug": "23-4-27",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
-      },
-      {
-        "person_slug": "25-4-27",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
-      },
-      {
         "person_slug": "julia-kleiter",
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/la-contessa-d-almaviva"
       },
@@ -5363,34 +4777,6 @@
       {
         "person_slug": "alice-merega-shy-glia",
         "function": "chorus-master"
-      },
-      {
-        "person_slug": "1-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "19-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "24-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "29-9-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "4-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "7-10-26",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "9-10-26",
-        "function": "conductor"
       },
       {
         "person_slug": "omer-meir-wellber",
@@ -5449,34 +4835,6 @@
       {
         "person_slug": "harf-zimmermann",
         "role_slug": "wolfgang-amadeus-mozart/don-giovanni/fotografie"
-      },
-      {
-        "person_slug": "1-10-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "19-9-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "24-9-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "29-9-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "4-10-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "7-10-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
-      },
-      {
-        "person_slug": "9-10-26",
-        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
       },
       {
         "person_slug": "alexander-roslavets",
@@ -5662,34 +5020,6 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "10-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "19-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "28-2-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "31-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "4-4-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "5-3-27",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "8-3-27",
-        "function": "conductor"
-      },
-      {
         "person_slug": "n-n",
         "function": "conductor"
       },
@@ -5720,34 +5050,6 @@
     ],
     "cast": [
       {
-        "person_slug": "10-4-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "19-3-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "28-2-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "31-3-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "4-4-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "5-3-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
-        "person_slug": "8-3-27",
-        "role_slug": "georges-bizet/carmen/carmen"
-      },
-      {
         "person_slug": "annika-schlicht",
         "role_slug": "georges-bizet/carmen/carmen"
       },
@@ -5762,34 +5064,6 @@
       {
         "person_slug": "stephen-costello",
         "role_slug": "georges-bizet/carmen/don-jose"
-      },
-      {
-        "person_slug": "10-4-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "19-3-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "28-2-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "31-3-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "4-4-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "5-3-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
-      },
-      {
-        "person_slug": "8-3-27",
-        "role_slug": "georges-bizet/carmen/escamillo"
       },
       {
         "person_slug": "andrei-bonda-shy-renko",
@@ -5832,5 +5106,85 @@
         "role_slug": "georges-bizet/carmen/zuniga"
       }
     ]
+  },
+  {
+    "id": "staatsoper-hamburg/pallas-athene-weint/1955-56",
+    "work_slug": "ernst-krenek/pallas-athene-weint",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1955/56",
+    "premiere_date": "1955-10-17",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q65197130",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/salome/2004-05",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "2004/05",
+    "premiere_date": "2005-03-10",
+    "is_revival": true,
+    "detail_url": "https://www.wikidata.org/wiki/Q57510156",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/stilles-meer/2015-16",
+    "work_slug": "toshio-hosokawa/stilles-meer",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "2015/16",
+    "premiere_date": "2016-01-24",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109605884",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/teodoro-korner/1902-03",
+    "work_slug": "stefano-donaudy/teodoro-korner",
+    "house_slug": "staatsoper-hamburg",
+    "premiere_season": "1902/03",
+    "premiere_date": "1902-11-27",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q109241615",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/wikidata-q28228048",
+    "work_slug": "ernst-krenek/sardakai",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q28228048",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/wikidata-q3138344",
+    "work_slug": "historia-von-d-johann-fausten",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q3138344",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/wikidata-q5447692",
+    "work_slug": "giselher-klebe/figaro-lasst-sich-scheiden",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q5447692",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/wikidata-q6119717",
+    "work_slug": "jacobowsky-und-der-oberst",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.wikidata.org/wiki/Q6119717",
+    "creative_team": [],
+    "cast": []
   }
 ]
