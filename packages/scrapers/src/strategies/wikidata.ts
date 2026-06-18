@@ -80,7 +80,7 @@ SELECT ?item ?itemLabel ?composer ?composerLabel ?premiere ?rel WHERE {
   { ?item wdt:P272 wd:${qid} . BIND("production" AS ?rel) }
   OPTIONAL { ?item wdt:P86 ?composer . }
   OPTIONAL { ?item wdt:P1191 ?premiere . }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en,fr,it,es". }
 }`;
 }
 
