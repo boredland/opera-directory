@@ -11,6 +11,10 @@
         "function": "chorus-master"
       },
       {
+        "person_slug": "enrico-calesso",
+        "function": "conductor"
+      },
+      {
         "person_slug": "matthew-toogood",
         "function": "conductor"
       },
@@ -45,6 +49,10 @@
         "role_slug": "giacomo-puccini/madama-butterfly/bonzo"
       },
       {
+        "person_slug": "cristiana-oliveira",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
         "person_slug": "theodora-varga",
         "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
       },
@@ -61,8 +69,16 @@
         "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
       },
       {
+        "person_slug": "greta-maria-lindmayr",
+        "role_slug": "giacomo-puccini/madama-butterfly/kind"
+      },
+      {
         "person_slug": "milo-jaindl",
         "role_slug": "giacomo-puccini/madama-butterfly/kind"
+      },
+      {
+        "person_slug": "qiong-wu",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-cugina"
       },
       {
         "person_slug": "yejin-kang",
@@ -71,6 +87,18 @@
       {
         "person_slug": "elissophie-davli",
         "role_slug": "giacomo-puccini/madama-butterfly/la-madre"
+      },
+      {
+        "person_slug": "fotini-athanasaki",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-madre"
+      },
+      {
+        "person_slug": "ana-akhmeteli",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-zia"
+      },
+      {
+        "person_slug": "qiong-wu",
+        "role_slug": "giacomo-puccini/madama-butterfly/la-zia"
       },
       {
         "person_slug": "tiroler-symphonieorchester-innsbruck",
@@ -85,8 +113,20 @@
         "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
       },
       {
+        "person_slug": "paolo-ingrasciotta",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
         "person_slug": "bernarda-klinar",
         "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "giacomo-puccini/madama-butterfly/yakuside-il-commissario-imperiale-l-ufficiale-del-registro"
+      },
+      {
+        "person_slug": "peter-thorn",
+        "role_slug": "giacomo-puccini/madama-butterfly/yakuside-il-commissario-imperiale-l-ufficiale-del-registro"
       },
       {
         "person_slug": "qi-wang",

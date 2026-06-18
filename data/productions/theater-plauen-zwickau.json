@@ -136,7 +136,12 @@
     "house_slug": "theater-plauen-zwickau",
     "is_revival": false,
     "detail_url": "https://www.theater-plauen-zwickau.de/spielplan.php?seite=0&id=2463",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "gmd-stefan-neubert",
+        "function": "conductor"
+      }
+    ],
     "cast": []
   },
   {

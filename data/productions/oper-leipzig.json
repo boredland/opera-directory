@@ -432,6 +432,161 @@
     ]
   },
   {
+    "id": "oper-leipzig/evita-728",
+    "work_slug": "evita",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/evita/728",
+    "creative_team": [
+      {
+        "person_slug": "mirko-mahr",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-der-musikalischen-komodie",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mathias-drechsler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-johannes-eichhorn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aleksandra-kica",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "inken-meents",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "beate-zoff",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-mierzwa",
+        "role_slug": "evita/admiral"
+      },
+      {
+        "person_slug": "jeffery-krueger",
+        "role_slug": "evita/augustin-magaldi"
+      },
+      {
+        "person_slug": "ballett-der-musikalischen-komodie",
+        "role_slug": "evita/ballett"
+      },
+      {
+        "person_slug": "johann-zumbult",
+        "role_slug": "evita/che"
+      },
+      {
+        "person_slug": "sophie-bauer",
+        "role_slug": "evita/einstudierung-kinderchor"
+      },
+      {
+        "person_slug": "olivia-delaure",
+        "role_slug": "evita/eva-evita-peron"
+      },
+      {
+        "person_slug": "hernan-atilio-vuga",
+        "role_slug": "evita/eva-perons-bruder"
+      },
+      {
+        "person_slug": "claudia-otte",
+        "role_slug": "evita/eva-perons-mutter"
+      },
+      {
+        "person_slug": "radoslaw-rydlewski",
+        "role_slug": "evita/eva-perons-onkel"
+      },
+      {
+        "person_slug": "maria-teresa-martini",
+        "role_slug": "evita/eva-perons-schwester-1"
+      },
+      {
+        "person_slug": "miranda-caasmann",
+        "role_slug": "evita/eva-perons-schwester-2"
+      },
+      {
+        "person_slug": "cornelia-drechsler",
+        "role_slug": "evita/eva-perons-tante"
+      },
+      {
+        "person_slug": "stefan-dittko",
+        "role_slug": "evita/geheimpolizist-1"
+      },
+      {
+        "person_slug": "bjorn-grandt",
+        "role_slug": "evita/geheimpolizist-2"
+      },
+      {
+        "person_slug": "cusch-jung",
+        "role_slug": "evita/inszenierung-und-licht"
+      },
+      {
+        "person_slug": "michael-raschle",
+        "role_slug": "evita/juan-peron"
+      },
+      {
+        "person_slug": "da-yung-cho",
+        "role_slug": "evita/juan-perons-geliebte"
+      },
+      {
+        "person_slug": "tobias-latte",
+        "role_slug": "evita/offizier-1"
+      },
+      {
+        "person_slug": "georg-fuhrer",
+        "role_slug": "evita/offizier-2"
+      },
+      {
+        "person_slug": "richard-mauersberger",
+        "role_slug": "evita/offizier-3"
+      },
+      {
+        "person_slug": "peter-waelsch",
+        "role_slug": "evita/offizier-4"
+      },
+      {
+        "person_slug": "richard-brook",
+        "role_slug": "evita/offizier-4"
+      },
+      {
+        "person_slug": "bjorn-grandt",
+        "role_slug": "evita/offizier-5"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "evita/orchester"
+      },
+      {
+        "person_slug": "carlo-bravo",
+        "role_slug": "evita/tangotanzer"
+      },
+      {
+        "person_slug": "pietro-pelleri",
+        "role_slug": "evita/tangotanzer"
+      },
+      {
+        "person_slug": "larissa-gomes",
+        "role_slug": "evita/tangotanzerin"
+      },
+      {
+        "person_slug": "stella-perniceni",
+        "role_slug": "evita/tangotanzerin"
+      },
+      {
+        "person_slug": "extrachor",
+        "role_slug": "evita/zusatzchor"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/faust-eine-deutsche-volkssage-808",
     "work_slug": "faust-eine-deutsche-volkssage",
     "house_slug": "oper-leipzig",

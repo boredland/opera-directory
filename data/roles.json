@@ -2920,6 +2920,11 @@
     "name": "Hippolyta, Queen of the Amazons (house debut)"
   },
   {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream/hyppolyta",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "name": "Hyppolyta"
+  },
+  {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/lysander",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Lysander"
@@ -3033,6 +3038,11 @@
     "slug": "benjamin-britten/a-midsummer-night-s-dream/starveling-a-tailor-moonshine",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "name": "Starveling, a tailor (Moonshine)"
+  },
+  {
+    "slug": "benjamin-britten/a-midsummer-night-s-dream/sterveling",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "name": "Sterveling"
   },
   {
     "slug": "benjamin-britten/a-midsummer-night-s-dream/theseus",
@@ -4630,6 +4640,41 @@
     "name": "Susannah Polk (Sat)"
   },
   {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/beatrice-rasponi",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "BEATRICE RASPONI"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/brighella-ein-gastwirt",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "BRIGHELLA, EIN GASTWIRT"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/clarice-seine-tochter",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "CLARICE, SEINE TOCHTER"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/dottore-lombardi",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "DOTTORE LOMBARDI"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/florindo-beatrices-liebhaber",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "FLORINDO, BEATRICES LIEBHABER"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/pantalone-de-bisogni",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "PANTALONE DE BISOGNI"
+  },
+  {
+    "slug": "carlo-goldoni/der-diener-zweier-herren/smeraldina-zofe-der-clarice",
+    "work_slug": "carlo-goldoni/der-diener-zweier-herren",
+    "name": "SMERALDINA, ZOFE DER CLARICE"
+  },
+  {
     "slug": "cassie-kinoshi/the-monster-trilogy/compositie",
     "work_slug": "cassie-kinoshi/the-monster-trilogy",
     "name": "Compositie"
@@ -5163,6 +5208,76 @@
     "slug": "charles-lecocq/la-fille-de-madame-angot/trenitz-un-incroyable",
     "work_slug": "charles-lecocq/la-fille-de-madame-angot",
     "name": "Trénitz, un Incroyable"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/a-friar",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "A Friar"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/beatrice",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Beatrice"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/benedick",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Benedick"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/borachio",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Borachio"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/claudio",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Claudio"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/dogberry",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Dogberry"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/don-john",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Don John"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/don-pedro",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Don Pedro"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/hero",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Hero"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/lenato",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Lenato"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/margaret",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Margaret"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/mit",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Mit"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/seacole",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Seacole"
+  },
+  {
+    "slug": "charles-villiers-stanford/viel-larm-um-nichts/verges",
+    "work_slug": "charles-villiers-stanford/viel-larm-um-nichts",
+    "name": "Verges"
   },
   {
     "slug": "choreographie-regie-marcos-morau/notte-morricone/buhnenbild-lichtdesign",
@@ -9255,6 +9370,136 @@
     "name": "Penelope"
   },
   {
+    "slug": "evita/admiral",
+    "work_slug": "evita",
+    "name": "Admiral"
+  },
+  {
+    "slug": "evita/augustin-magaldi",
+    "work_slug": "evita",
+    "name": "Augustín Magaldi"
+  },
+  {
+    "slug": "evita/ballett",
+    "work_slug": "evita",
+    "name": "Ballett"
+  },
+  {
+    "slug": "evita/che",
+    "work_slug": "evita",
+    "name": "Che"
+  },
+  {
+    "slug": "evita/einstudierung-kinderchor",
+    "work_slug": "evita",
+    "name": "Einstudierung Kinderchor"
+  },
+  {
+    "slug": "evita/eva-evita-peron",
+    "work_slug": "evita",
+    "name": "Eva (Evita) Perón"
+  },
+  {
+    "slug": "evita/eva-perons-bruder",
+    "work_slug": "evita",
+    "name": "Eva Peróns Bruder"
+  },
+  {
+    "slug": "evita/eva-perons-mutter",
+    "work_slug": "evita",
+    "name": "Eva Peróns Mutter"
+  },
+  {
+    "slug": "evita/eva-perons-onkel",
+    "work_slug": "evita",
+    "name": "Eva Peróns Onkel"
+  },
+  {
+    "slug": "evita/eva-perons-schwester-1",
+    "work_slug": "evita",
+    "name": "Eva Peróns Schwester 1"
+  },
+  {
+    "slug": "evita/eva-perons-schwester-2",
+    "work_slug": "evita",
+    "name": "Eva Peróns Schwester 2"
+  },
+  {
+    "slug": "evita/eva-perons-tante",
+    "work_slug": "evita",
+    "name": "Eva Peróns Tante"
+  },
+  {
+    "slug": "evita/geheimpolizist-1",
+    "work_slug": "evita",
+    "name": "Geheimpolizist 1"
+  },
+  {
+    "slug": "evita/geheimpolizist-2",
+    "work_slug": "evita",
+    "name": "Geheimpolizist 2"
+  },
+  {
+    "slug": "evita/inszenierung-und-licht",
+    "work_slug": "evita",
+    "name": "Inszenierung und Licht"
+  },
+  {
+    "slug": "evita/juan-peron",
+    "work_slug": "evita",
+    "name": "Juan Perón"
+  },
+  {
+    "slug": "evita/juan-perons-geliebte",
+    "work_slug": "evita",
+    "name": "Juan Peróns Geliebte"
+  },
+  {
+    "slug": "evita/offizier-1",
+    "work_slug": "evita",
+    "name": "Offizier 1"
+  },
+  {
+    "slug": "evita/offizier-2",
+    "work_slug": "evita",
+    "name": "Offizier 2"
+  },
+  {
+    "slug": "evita/offizier-3",
+    "work_slug": "evita",
+    "name": "Offizier 3"
+  },
+  {
+    "slug": "evita/offizier-4",
+    "work_slug": "evita",
+    "name": "Offizier 4"
+  },
+  {
+    "slug": "evita/offizier-5",
+    "work_slug": "evita",
+    "name": "Offizier 5"
+  },
+  {
+    "slug": "evita/orchester",
+    "work_slug": "evita",
+    "name": "Orchester"
+  },
+  {
+    "slug": "evita/tangotanzer",
+    "work_slug": "evita",
+    "name": "Tangotänzer"
+  },
+  {
+    "slug": "evita/tangotanzerin",
+    "work_slug": "evita",
+    "name": "Tangotänzerin"
+  },
+  {
+    "slug": "evita/zusatzchor",
+    "work_slug": "evita",
+    "name": "Zusatzchor"
+  },
+  {
     "slug": "ezio-bosso/ezio-bosso/orchestra-della",
     "work_slug": "ezio-bosso/ezio-bosso",
     "name": "Orchestra della"
@@ -9815,6 +10060,11 @@
     "name": "Duclos"
   },
   {
+    "slug": "francesco-cilea/adriana-lecouvreur/il-principe-bouillon",
+    "work_slug": "francesco-cilea/adriana-lecouvreur",
+    "name": "Il principe Bouillon"
+  },
+  {
     "slug": "francesco-cilea/adriana-lecouvreur/il-principe-di-bouillon",
     "work_slug": "francesco-cilea/adriana-lecouvreur",
     "name": "Il Principe di Bouillon"
@@ -9828,6 +10078,11 @@
     "slug": "francesco-cilea/adriana-lecouvreur/juno-goddess-of-happiness",
     "work_slug": "francesco-cilea/adriana-lecouvreur",
     "name": "Juno, goddess of happiness"
+  },
+  {
+    "slug": "francesco-cilea/adriana-lecouvreur/l-abate-di-chazeuil",
+    "work_slug": "francesco-cilea/adriana-lecouvreur",
+    "name": "L'abate di Chazeuil"
   },
   {
     "slug": "francesco-cilea/adriana-lecouvreur/la-principessa-di-bouillon",
@@ -9853,6 +10108,11 @@
     "slug": "francesco-cilea/adriana-lecouvreur/maurizio-count-of-saxony",
     "work_slug": "francesco-cilea/adriana-lecouvreur",
     "name": "Maurizio, Count of Saxony"
+  },
+  {
+    "slug": "francesco-cilea/adriana-lecouvreur/maurizio-di-sassonia",
+    "work_slug": "francesco-cilea/adriana-lecouvreur",
+    "name": "Maurizio di Sassonia"
   },
   {
     "slug": "francesco-cilea/adriana-lecouvreur/mercury-jupiter-s-messenger",
@@ -9923,6 +10183,11 @@
     "slug": "francesco-cilea/adriana-lecouvreur/the-abbe-de-chazeuil",
     "work_slug": "francesco-cilea/adriana-lecouvreur",
     "name": "The Abbé de Chazeuil"
+  },
+  {
+    "slug": "francesco-cilea/adriana-lecouvreur/un-maggiordomo",
+    "work_slug": "francesco-cilea/adriana-lecouvreur",
+    "name": "Un maggiordomo"
   },
   {
     "slug": "francesco-cilea/adriana-lecouvreur/venus-goddess-of-beauty",
@@ -11538,6 +11803,11 @@
     "slug": "gaetano-donizetti/anna-bolena/enrico-viii",
     "work_slug": "gaetano-donizetti/anna-bolena",
     "name": "Enrico VIII"
+  },
+  {
+    "slug": "gaetano-donizetti/anna-bolena/giovanna-di-seymour",
+    "work_slug": "gaetano-donizetti/anna-bolena",
+    "name": "Giovanna di Seymour"
   },
   {
     "slug": "gaetano-donizetti/anna-bolena/giovanna-seymour",
@@ -18355,6 +18625,11 @@
     "name": "Pharaon"
   },
   {
+    "slug": "giuseppe-verdi/aida/priesterin",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "PRIESTERIN"
+  },
+  {
     "slug": "giuseppe-verdi/aida/priestess",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Priestess"
@@ -19775,6 +20050,11 @@
     "name": "Toreador"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/un-commissionario",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Un commissionario"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/un-domestico",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Un domestico"
@@ -19783,6 +20063,11 @@
     "slug": "giuseppe-verdi/la-traviata/un-domestico-di-flora-un-commissionario",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Un Domestico di Flora/ Un Commissionario"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/un-servo",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Un servo"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres",
@@ -23345,6 +23630,11 @@
     "name": "Harfe"
   },
   {
+    "slug": "italienisches-intermezzo/symphoniker-im-foyer/klarinette",
+    "work_slug": "italienisches-intermezzo/symphoniker-im-foyer",
+    "name": "Klarinette"
+  },
+  {
     "slug": "italienisches-intermezzo/symphoniker-im-foyer/klavier",
     "work_slug": "italienisches-intermezzo/symphoniker-im-foyer",
     "name": "Klavier"
@@ -24463,6 +24753,41 @@
     "slug": "jake-heggie/dead-man-walking/younger-brother",
     "work_slug": "jake-heggie/dead-man-walking",
     "name": "Younger Brother"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/dancers",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Dancers"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/danica",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Danica"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/goat",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Goat"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/ivo",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Đivo"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/miho",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Miho"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/stanac",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Stanac"
+  },
+  {
+    "slug": "jakov-gotovac/stanac/vlaho",
+    "work_slug": "jakov-gotovac/stanac",
+    "name": "Vlaho"
   },
   {
     "slug": "james-matthew-barrie/peter-pan/cello",
@@ -35610,6 +35935,46 @@
     "name": "Tenor"
   },
   {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/erbprinz-karl-emanuel",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Erbprinz Karl Emanuel"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/hans",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Hans"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/mariandl",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Mariandl"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/mit",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Mit"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/prinzessin-flori",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Prinzessin Flori"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/von-krachwitz-effterdingen",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Von Krachwitz-Effterdingen"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/von-schneidebein",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Von Schneidebein"
+  },
+  {
+    "slug": "rachel-danziger-van-embden/die-dorfkomtesse/zuckerl",
+    "work_slug": "rachel-danziger-van-embden/die-dorfkomtesse",
+    "name": "Zuckerl"
+  },
+  {
     "slug": "ralf-gscheidle/marla-die-maifliege/buhne-kostum",
     "work_slug": "ralf-gscheidle/marla-die-maifliege",
     "name": "Bühne & Kostüm"
@@ -37315,6 +37680,11 @@
     "name": "Agamemnon"
   },
   {
+    "slug": "richard-strauss/elektra/agisth",
+    "work_slug": "richard-strauss/elektra",
+    "name": "Ägisth"
+  },
+  {
     "slug": "richard-strauss/elektra/an-old-servant",
     "work_slug": "richard-strauss/elektra",
     "name": "An old servant"
@@ -37403,6 +37773,11 @@
     "slug": "richard-strauss/elektra/die-zweite-magd-seconda-ancella",
     "work_slug": "richard-strauss/elektra",
     "name": "Die zweite Magd / Seconda ancella"
+  },
+  {
+    "slug": "richard-strauss/elektra/dritte-magd",
+    "work_slug": "richard-strauss/elektra",
+    "name": "Dritte Magd"
   },
   {
     "slug": "richard-strauss/elektra/ein-alter-diener",
@@ -37543,6 +37918,16 @@
     "slug": "richard-strauss/elektra/video-art",
     "work_slug": "richard-strauss/elektra",
     "name": "Video-Art"
+  },
+  {
+    "slug": "richard-strauss/elektra/vierte-madg",
+    "work_slug": "richard-strauss/elektra",
+    "name": "Vierte Madg"
+  },
+  {
+    "slug": "richard-strauss/elektra/zweite-magd",
+    "work_slug": "richard-strauss/elektra",
+    "name": "Zweite Magd"
   },
   {
     "slug": "richard-strauss/salome/",
@@ -39910,6 +40295,11 @@
     "name": "Kurwenal"
   },
   {
+    "slug": "richard-wagner/tristan-und-isolde/marke",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "name": "Marke"
+  },
+  {
     "slug": "richard-wagner/tristan-und-isolde/melot",
     "work_slug": "richard-wagner/tristan-und-isolde",
     "name": "Melot"
@@ -39953,6 +40343,16 @@
     "slug": "richard-wagner/tristan-und-isolde/tristan-s-double",
     "work_slug": "richard-wagner/tristan-und-isolde",
     "name": "Tristan's double"
+  },
+  {
+    "slug": "richard-wagner/tristan-und-isolde/un-giovane-marinaio-un-pastore",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "name": "Un giovane marinaio / Un pastore"
+  },
+  {
+    "slug": "richard-wagner/tristan-und-isolde/un-pilota",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "name": "Un pilota"
   },
   {
     "slug": "richard-wagner/twilight-of-the-gods/alberich",

@@ -5,8 +5,42 @@
     "house_slug": "stadttheater-klagenfurt",
     "is_revival": false,
     "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/aida/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "sabine-arthold",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chin-chao-lin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "emmanuela-cossar",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "aron-stiehl",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-stingl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tetjana-prybura",
+        "role_slug": "giuseppe-verdi/aida/priesterin"
+      }
+    ]
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-cosi-fan-tutte",
@@ -14,8 +48,30 @@
     "house_slug": "stadttheater-klagenfurt",
     "is_revival": false,
     "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/cosi-fan-tutte/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "gunter-wallner",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nilufar-k-munzing",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-hansel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "britta-lammers",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luisa-mordel",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/despina"
+      }
+    ]
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-der-diener-zweier-herren",
@@ -23,8 +79,42 @@
     "house_slug": "stadttheater-klagenfurt",
     "is_revival": false,
     "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/der-diener-zweier-herren/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "hans-mrak",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "raphaela-most",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/beatrice-rasponi"
+      },
+      {
+        "person_slug": "arthur-klemt",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/brighella-ein-gastwirt"
+      },
+      {
+        "person_slug": "bettina-schwarz",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/clarice-seine-tochter"
+      },
+      {
+        "person_slug": "rudi-widerhofer",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/dottore-lombardi"
+      },
+      {
+        "person_slug": "thomas-frank",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/florindo-beatrices-liebhaber"
+      },
+      {
+        "person_slug": "dominik-warta",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/pantalone-de-bisogni"
+      },
+      {
+        "person_slug": "doris-hindinger",
+        "role_slug": "carlo-goldoni/der-diener-zweier-herren/smeraldina-zofe-der-clarice"
+      }
+    ]
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-der-liebestrank-lelisir-damore",

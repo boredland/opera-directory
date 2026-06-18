@@ -59,6 +59,15 @@
     "cast": []
   },
   {
+    "id": "oper-dortmund/drag-party",
+    "work_slug": "jamie-c-cecilie-bomstad-on-unsplash/drag-party",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/drag-party/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-dortmund/familiensingen",
     "work_slug": "familiensingen",
     "house_slug": "oper-dortmund",
@@ -83,6 +92,20 @@
     "is_revival": false,
     "detail_url": "https://www.theaterdo.de/produktionen/detail/nils-karlsson-daeumling/",
     "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-dortmund/rudeltanzen",
+    "work_slug": "rudeltanzen",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/rudeltanzen/",
+    "creative_team": [
+      {
+        "person_slug": "florian-koch",
+        "function": "conductor"
+      }
+    ],
     "cast": []
   },
   {

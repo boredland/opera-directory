@@ -55,7 +55,44 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/erbprinz-karl-emanuel"
+      },
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/hans"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/mariandl"
+      },
+      {
+        "person_slug": "opernchor-des-tfn",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/mit"
+      },
+      {
+        "person_slug": "tfn-philharmonie",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/mit"
+      },
+      {
+        "person_slug": "neele-kramer",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/prinzessin-flori"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/von-krachwitz-effterdingen"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/von-schneidebein"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "rachel-danziger-van-embden/die-dorfkomtesse/zuckerl"
+      }
+    ]
   },
   {
     "id": "theater-fuer-niedersachsen/die-goettin-der-vernunft",
@@ -382,7 +419,72 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/a-friar"
+      },
+      {
+        "person_slug": "marlene-mesa",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/beatrice"
+      },
+      {
+        "person_slug": "eddie-mofokeng",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/benedick"
+      },
+      {
+        "person_slug": "julian-rohde",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/borachio"
+      },
+      {
+        "person_slug": "david-soto-zambrana",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/claudio"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/dogberry"
+      },
+      {
+        "person_slug": "tobias-hieronimi",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/don-john"
+      },
+      {
+        "person_slug": "andrey-andreychik",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/don-pedro"
+      },
+      {
+        "person_slug": "gabriele-jocaite",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/hero"
+      },
+      {
+        "person_slug": "simon-wittkowsky",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/lenato"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/margaret"
+      },
+      {
+        "person_slug": "extrachor-des-tfn",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/mit"
+      },
+      {
+        "person_slug": "opernchor-des-tfn",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/mit"
+      },
+      {
+        "person_slug": "tfn-philharmonie",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/mit"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/seacole"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "charles-villiers-stanford/viel-larm-um-nichts/verges"
+      }
+    ]
   },
   {
     "id": "theater-fuer-niedersachsen/wilhelm-tell-guillaume-tell",

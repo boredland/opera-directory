@@ -1,5 +1,413 @@
 [
   {
+    "id": "maggio-musicale-fiorentino/a-midsummer-night-s-dream/2027",
+    "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/a-midsummer-nights-dream",
+    "creative_team": [
+      {
+        "person_slug": "kim-brandstrup",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ivor-bolton",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "luis-carvalho",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "deborah-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "urs-schonebaum",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christof-hetzer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "barnaby-rea",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/bottom"
+      },
+      {
+        "person_slug": "jacques-imbrailo",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/demetrius"
+      },
+      {
+        "person_slug": "ru-charlesworth",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/flute"
+      },
+      {
+        "person_slug": "christina-gansch",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/helena"
+      },
+      {
+        "person_slug": "simone-mcintosh",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/hermia"
+      },
+      {
+        "person_slug": "clare-presland",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/hyppolyta"
+      },
+      {
+        "person_slug": "sam-furness",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/lysander"
+      },
+      {
+        "person_slug": "iestyn-davies",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/oberon"
+      },
+      {
+        "person_slug": "daniel-abelson",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/puck"
+      },
+      {
+        "person_slug": "henry-waddington",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/quince"
+      },
+      {
+        "person_slug": "john-graham-hall",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/snout"
+      },
+      {
+        "person_slug": "stephen-richardson",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/snug"
+      },
+      {
+        "person_slug": "william-dazeley",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/sterveling"
+      },
+      {
+        "person_slug": "thomas-oliemans",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/theseus"
+      },
+      {
+        "person_slug": "jennifer-france",
+        "role_slug": "benjamin-britten/a-midsummer-night-s-dream/tytania"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/adriana-lecouvreur/2027",
+    "work_slug": "francesco-cilea/adriana-lecouvreur",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/adriana-lecouvreur-2027",
+    "creative_team": [
+      {
+        "person_slug": "gianni-santucci",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-lanzillotta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carla-ricotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "arnaud-bernard",
+        "function": "director"
+      },
+      {
+        "person_slug": "patrick-meeus",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "virgile-koering",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chiara-isotton-marta-mari-19",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/adriana-lecouvreur"
+      },
+      {
+        "person_slug": "nicola-ulivieri",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/il-principe-bouillon"
+      },
+      {
+        "person_slug": "didier-pieri",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/l-abate-di-chazeuil"
+      },
+      {
+        "person_slug": "ksenia-dudnikova-madamigella-jouvenot-chiara-salerno-madamigella-dangeville-hinano-yorimitsu",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/la-principessa-di-bouillon"
+      },
+      {
+        "person_slug": "piero-pretti",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/maurizio-di-sassonia"
+      },
+      {
+        "person_slug": "roberto-de-candia",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/michonnet"
+      },
+      {
+        "person_slug": "yukang-zheng",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/poisson"
+      },
+      {
+        "person_slug": "jiazhou-wang",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/quinault"
+      },
+      {
+        "person_slug": "alessndro-lanzi",
+        "role_slug": "francesco-cilea/adriana-lecouvreur/un-maggiordomo"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/anna-bolena/2027",
+    "work_slug": "gaetano-donizetti/anna-bolena",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/anna-bolena",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-spotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elena-beccaro",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-bernard",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-alba",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alberto-beltrame",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jessica-pratt",
+        "role_slug": "gaetano-donizetti/anna-bolena/anna-bolena"
+      },
+      {
+        "person_slug": "alex-esposito",
+        "role_slug": "gaetano-donizetti/anna-bolena/enrico-viii"
+      },
+      {
+        "person_slug": "raffaella-lupinacci",
+        "role_slug": "gaetano-donizetti/anna-bolena/giovanna-di-seymour"
+      },
+      {
+        "person_slug": "rene-barbera",
+        "role_slug": "gaetano-donizetti/anna-bolena/lord-riccardo-percy"
+      },
+      {
+        "person_slug": "alberto-petricca",
+        "role_slug": "gaetano-donizetti/anna-bolena/lord-rochefort"
+      },
+      {
+        "person_slug": "alexandru-tiba",
+        "role_slug": "gaetano-donizetti/anna-bolena/sir-hervey"
+      },
+      {
+        "person_slug": "aleksandra-maeteleva",
+        "role_slug": "gaetano-donizetti/anna-bolena/smeton"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/don-giovanni/2027",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/don-giovanni-2027",
+    "creative_team": [
+      {
+        "person_slug": "marco-caudera",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniele-gatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nika-campisi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-menghini",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-panella",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alex-esposito",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "dave-monaco",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "mariangela-sicilia",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "michele-losier",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "jongmin-park",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "luca-micheletti",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "ludovico-filippo-ravizza",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "desiree-giove",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/elektra/2027",
+    "work_slug": "richard-strauss/elektra",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/elektra",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniele-gatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thibault-vancraenenbroeck",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stephane-braunschweig",
+        "function": "director"
+      },
+      {
+        "person_slug": "marion-hewlett",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nikolai-schukoff",
+        "role_slug": "richard-strauss/elektra/agisth"
+      },
+      {
+        "person_slug": "vida-mikneviciute",
+        "role_slug": "richard-strauss/elektra/chrysothemis"
+      },
+      {
+        "person_slug": "frederic-jost",
+        "role_slug": "richard-strauss/elektra/der-pfleger-des-orest"
+      },
+      {
+        "person_slug": "natalie-lewis",
+        "role_slug": "richard-strauss/elektra/die-aufseherin"
+      },
+      {
+        "person_slug": "zeynep-seray-ozcan",
+        "role_slug": "richard-strauss/elektra/die-aufseherin"
+      },
+      {
+        "person_slug": "giulia-alletto",
+        "role_slug": "richard-strauss/elektra/die-schlepptragerin"
+      },
+      {
+        "person_slug": "juana-shtrepi",
+        "role_slug": "richard-strauss/elektra/die-vertraute"
+      },
+      {
+        "person_slug": "vivien-georgiev",
+        "role_slug": "richard-strauss/elektra/dritte-magd"
+      },
+      {
+        "person_slug": "juan-carlos-villalobos",
+        "role_slug": "richard-strauss/elektra/ein-alter-diener"
+      },
+      {
+        "person_slug": "alexandru-tiba",
+        "role_slug": "richard-strauss/elektra/ein-junger-diener"
+      },
+      {
+        "person_slug": "ricarda-merbeth",
+        "role_slug": "richard-strauss/elektra/elektra"
+      },
+      {
+        "person_slug": "ilaria-monteverdi",
+        "role_slug": "richard-strauss/elektra/funfte-magd"
+      },
+      {
+        "person_slug": "violeta-urmana",
+        "role_slug": "richard-strauss/elektra/klytamnestra"
+      },
+      {
+        "person_slug": "christof-fischesser",
+        "role_slug": "richard-strauss/elektra/orest"
+      },
+      {
+        "person_slug": "caterina-meldolesi",
+        "role_slug": "richard-strauss/elektra/vierte-madg"
+      },
+      {
+        "person_slug": "erica-cortese",
+        "role_slug": "richard-strauss/elektra/zweite-magd"
+      }
+    ]
+  },
+  {
     "id": "maggio-musicale-fiorentino/giulio-cesare-in-egitto/2026",
     "work_slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
     "house_slug": "maggio-musicale-fiorentino",
@@ -128,6 +536,118 @@
     ]
   },
   {
+    "id": "maggio-musicale-fiorentino/il-trovatore/2027",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/il-trovatore-2027",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini-regia-leo-muscato-scene-andrea-belli",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniele-gatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "margherita-baldoni-luci-alessandro-verazzi",
+        "function": "costume-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gabriele-viviani-leonora-mariangela-sicilia-azucena-valentina-pernozzoli-manrico-antonio-poli-ferrando-riccardo-zanellato-ines-chiara-salerno-ruiz-francesco-congiu-un-vecchio-zingaro-nicolo-ayroldi-un-messo-luca-tamani",
+        "role_slug": "giuseppe-verdi/il-trovatore/il-conte-di-luna"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/la-traviata/2027",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/la-traviata-2027",
+    "creative_team": [
+      {
+        "person_slug": "elena-barsotti",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alessandro-bonato",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "veronica-patuelli",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stefania-grazioli",
+        "function": "director"
+      },
+      {
+        "person_slug": "valerio-tiberi",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "roberta-lazzeri",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "22",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "juana-shtrepi-alfredo-germont-anthony-ciaramitaro-giorgio-germont-luca-salsi-min-kim-20",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "erica-cortese",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "cristiano-olivieri",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "davide-ciarrochi",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "matteo-torcaso",
+        "role_slug": "giuseppe-verdi/la-traviata/il-barone-douphol"
+      },
+      {
+        "person_slug": "juan-carlos-villalobos",
+        "role_slug": "giuseppe-verdi/la-traviata/il-dottor-grenvil"
+      },
+      {
+        "person_slug": "jiazhou-wang",
+        "role_slug": "giuseppe-verdi/la-traviata/il-marchese-d-obigny"
+      },
+      {
+        "person_slug": "egidio-massimo-naccarato",
+        "role_slug": "giuseppe-verdi/la-traviata/un-commissionario"
+      },
+      {
+        "person_slug": "lisandro-guinis",
+        "role_slug": "giuseppe-verdi/la-traviata/un-servo"
+      },
+      {
+        "person_slug": "kristina-mkhitarian",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
     "id": "maggio-musicale-fiorentino/les-contes-d-hoffmann/2026",
     "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
     "house_slug": "maggio-musicale-fiorentino",
@@ -192,6 +712,66 @@
       {
         "person_slug": "jessica-pratt",
         "role_slug": "jacques-offenbach/les-contes-d-hoffmann/stella-olympia-antonia-giulietta"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/norma/2027",
+    "work_slug": "vincenzo-bellini/norma",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/norma-2027",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefano-montanari",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gianluca-sbicca",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-de-rosa",
+        "function": "director"
+      },
+      {
+        "person_slug": "pasquale-mari",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "daniele-spano",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "federica-guida",
+        "role_slug": "vincenzo-bellini/norma/adalgisa"
+      },
+      {
+        "person_slug": "chiara-salerno",
+        "role_slug": "vincenzo-bellini/norma/clotilde"
+      },
+      {
+        "person_slug": "francesco-congiu",
+        "role_slug": "vincenzo-bellini/norma/flavio"
+      },
+      {
+        "person_slug": "vasilisa-berzanskaja",
+        "role_slug": "vincenzo-bellini/norma/norma"
+      },
+      {
+        "person_slug": "simon-lim",
+        "role_slug": "vincenzo-bellini/norma/oroveso"
+      },
+      {
+        "person_slug": "dmitry-korchak",
+        "role_slug": "vincenzo-bellini/norma/pollione"
       }
     ]
   },
@@ -632,6 +1212,70 @@
       {
         "person_slug": "andreas-mattersberger",
         "role_slug": "john-adams/the-death-of-klinghoffer/the-first-officer"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/tristan-und-isolde/2027",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/tristan-und-isolde",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alexander-soddy",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "keith-warner",
+        "function": "director"
+      },
+      {
+        "person_slug": "mark-jonathan",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nicky-shaw",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "okka-von-der-damerau",
+        "role_slug": "richard-wagner/tristan-und-isolde/brangane"
+      },
+      {
+        "person_slug": "anja-kampe",
+        "role_slug": "richard-wagner/tristan-und-isolde/isolde"
+      },
+      {
+        "person_slug": "iain-paterson",
+        "role_slug": "richard-wagner/tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "brindley-sherratt",
+        "role_slug": "richard-wagner/tristan-und-isolde/marke"
+      },
+      {
+        "person_slug": "nikolai-schukoff",
+        "role_slug": "richard-wagner/tristan-und-isolde/melot"
+      },
+      {
+        "person_slug": "simon-o-neill",
+        "role_slug": "richard-wagner/tristan-und-isolde/tristan"
+      },
+      {
+        "person_slug": "florian-panzieri",
+        "role_slug": "richard-wagner/tristan-und-isolde/un-giovane-marinaio-un-pastore"
+      },
+      {
+        "person_slug": "jiazhou-wang",
+        "role_slug": "richard-wagner/tristan-und-isolde/un-pilota"
       }
     ]
   },

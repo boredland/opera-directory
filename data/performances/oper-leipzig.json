@@ -98,6 +98,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367/2026-09-05/15:00",
+    "production_id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "date": "2026-09-05",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -129,6 +136,27 @@
     "id": "oper-leipzig/eurydike-795/2026-06-26/19:30",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/evita-728/2026-05-09/19:00",
+    "production_id": "oper-leipzig/evita-728",
+    "date": "2026-05-09",
+    "time": "19:00",
+    "status": "past"
+  },
+  {
+    "id": "oper-leipzig/evita-728/2026-06-23/19:30",
+    "production_id": "oper-leipzig/evita-728",
+    "date": "2026-06-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/evita-728/2026-06-24/19:30",
+    "production_id": "oper-leipzig/evita-728",
+    "date": "2026-06-24",
     "time": "19:30",
     "status": "scheduled"
   },

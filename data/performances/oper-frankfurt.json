@@ -714,6 +714,12 @@
     "status": "few_left"
   },
   {
+    "id": "oper-frankfurt/der-triumph/2026-06-17/",
+    "production_id": "oper-frankfurt/der-triumph",
+    "date": "2026-06-17",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/der-triumph/2026-06-17/19:00",
     "production_id": "oper-frankfurt/der-triumph",
     "date": "2026-06-17",
@@ -2872,6 +2878,12 @@
     "time": "19:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/tancredi/2026-06-17/",
+    "production_id": "oper-frankfurt/tancredi",
+    "date": "2026-06-17",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/tancredi/2026-06-17/19:00",

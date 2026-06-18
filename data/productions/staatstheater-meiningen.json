@@ -407,15 +407,19 @@
     "detail_url": "https://www.staatstheater-meiningen.de/produktionen/otello.html",
     "creative_team": [
       {
+        "person_slug": "sebastian-fuhrmann",
+        "function": "childrens-chorus-master"
+      },
+      {
         "person_slug": "roman-david-rothenaicher",
         "function": "chorus-master"
       },
       {
-        "person_slug": "gmd-killian-farrell",
+        "person_slug": "christopher-vazan",
         "function": "conductor"
       },
       {
-        "person_slug": "gmd-killian-farrell-christopher-vazan",
+        "person_slug": "gmd-killian-farrell",
         "function": "conductor"
       },
       {
@@ -461,7 +465,7 @@
         "role_slug": "giuseppe-verdi/otello/montano"
       },
       {
-        "person_slug": "isaac-lee-owen-metsileng",
+        "person_slug": "owen-metsileng-isaac-lee",
         "role_slug": "giuseppe-verdi/otello/otello"
       },
       {

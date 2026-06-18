@@ -691,6 +691,110 @@
     ]
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-stanac",
+    "work_slug": "jakov-gotovac/stanac",
+    "house_slug": "cnt-zagreb",
+    "is_revival": false,
+    "detail_url": "https://www.hnk.hr/en/opera/plays/stanac/",
+    "image_url": "https://res.cloudinary.com/dg86xjjts/image/upload/f_auto,q_auto/v1774092799/u3k9hswfxfvhqp8gven2",
+    "creative_team": [
+      {
+        "person_slug": "petra-hrascanec",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "luka-vuksic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "josip-sego",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ana-fucijas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "hrvoje-korbar",
+        "function": "director"
+      },
+      {
+        "person_slug": "vesna-kolarec",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "zdravka-ivandija-kirigin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "dora-sarikaya",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "jan-vasiljevic",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "lucija-kukor",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "mario-nebosenko",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "marko-kolenc",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "tea-cvetan",
+        "role_slug": "jakov-gotovac/stanac/dancers"
+      },
+      {
+        "person_slug": "josipa-bilic",
+        "role_slug": "jakov-gotovac/stanac/danica"
+      },
+      {
+        "person_slug": "marija-kuhar-sosa",
+        "role_slug": "jakov-gotovac/stanac/danica"
+      },
+      {
+        "person_slug": "maruska-aras",
+        "role_slug": "jakov-gotovac/stanac/goat"
+      },
+      {
+        "person_slug": "domagoj-dorotic",
+        "role_slug": "jakov-gotovac/stanac/ivo"
+      },
+      {
+        "person_slug": "roko-radovan",
+        "role_slug": "jakov-gotovac/stanac/ivo"
+      },
+      {
+        "person_slug": "josip-galic",
+        "role_slug": "jakov-gotovac/stanac/miho"
+      },
+      {
+        "person_slug": "marin-cargo",
+        "role_slug": "jakov-gotovac/stanac/miho"
+      },
+      {
+        "person_slug": "ozren-bilusic",
+        "role_slug": "jakov-gotovac/stanac/stanac"
+      },
+      {
+        "person_slug": "damir-klacar",
+        "role_slug": "jakov-gotovac/stanac/vlaho"
+      },
+      {
+        "person_slug": "mario-bokun",
+        "role_slug": "jakov-gotovac/stanac/vlaho"
+      }
+    ]
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-tannhauser",
     "work_slug": "richard-wagner/tannhauser",
     "house_slug": "cnt-zagreb",
