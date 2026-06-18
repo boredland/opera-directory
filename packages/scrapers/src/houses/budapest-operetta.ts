@@ -7,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Budapest Operetta Theatre / Budapesti Operettszínház (`spielplan-html`) —
@@ -217,8 +218,8 @@ function parsePerformanceDate(html: string): RawPerformance | null {
   const day = Number.parseInt(m[3] ?? "", 10);
   if (!month || day < 1 || day > 31) return null;
   const year = Number.parseInt(m[1] ?? "", 10);
-  const date =
-    `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+  const date = isoFromParts(year, month, day);
+  if (!date) return null;
   const venue_room =
     text.match(/\b(Nagyszínpad|Kálmán Imre Teátrum|Raktárszínház|Óriáspódium)\b/)?.[1] ?? null;
   const status: RawPerformance["status"] =
@@ -233,7 +234,7 @@ function parsePremiere(html: string): IsoDate | null {
   const month = HU_MONTHS[(m[2] ?? "").toLowerCase()];
   const day = Number.parseInt(m[3] ?? "", 10);
   if (!month || !day) return null;
-  return `${m[1]}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[1] ?? "", month, day);
 }
 
 /** Cast + creative from the `<a href="…/tarsulat/…">Name<span>label</span></a>`

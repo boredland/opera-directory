@@ -9,6 +9,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Lirico Giuseppe Verdi, Trieste (`spielplan-html` strategy). The
@@ -384,7 +385,10 @@ function parseDayList(text: string): string[] {
       if (month === undefined) continue;
       if (firstMonth === null) firstMonth = month;
       const yr = month < firstMonth ? baseYear + 1 : baseYear;
-      for (const d of pendingDays) out.push(isoDate(yr, month, d));
+      for (const d of pendingDays) {
+        const iso = isoFromParts(yr, month, d);
+        if (iso) out.push(iso);
+      }
       pendingDays = [];
     }
   }
@@ -398,13 +402,10 @@ function parseLooseDates(text: string): string[] {
   for (const [, d, mon, y] of text.matchAll(re)) {
     const month = MONTHS[(mon ?? "").toLowerCase()];
     if (!month || !d || !y) continue;
-    out.push(isoDate(Number.parseInt(y, 10), month, Number.parseInt(d, 10)));
+    const iso = isoFromParts(Number.parseInt(y, 10), month, Number.parseInt(d, 10));
+    if (iso) out.push(iso);
   }
   return out;
-}
-
-function isoDate(year: number, month: number, day: number): string {
-  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
 }
 
 /**

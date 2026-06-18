@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Macerata Opera Festival (`spielplan-html` strategy, WordPress + WPBakery).
@@ -279,7 +279,8 @@ function parseDates(html: string, year: number, window: ScrapeWindow): RawPerfor
     const timeRaw = block.match(/clocktime">[^0-9]*(\d{1,2})[.:](\d{2})/);
     const time = timeRaw ? `${timeRaw[1]?.padStart(2, "0")}:${timeRaw[2]}` : null;
 
-    const date = `${year}-${month}-${day.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     const key = `${date}|${time}`;
     if (seen.has(key)) continue;
     seen.add(key);

@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Wexford Festival Opera (`spielplan-html` strategy) — Ireland's autumn opera
@@ -326,7 +327,7 @@ function parseDate(text: string, year: number): IsoDate | null {
   const day = Number.parseInt(m[1] ?? "", 10);
   const month = MONTHS[(m[2] ?? "").slice(0, 3).toLowerCase()];
   if (!month || day < 1 || day > 31) return null;
-  return `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate;
+  return isoFromParts(year, month, day);
 }
 
 /** "7:30pm" → "19:30"; "5pm" → "17:00"; "11am" → "11:00". */

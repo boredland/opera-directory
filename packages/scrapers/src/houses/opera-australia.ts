@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Opera Australia (`spielplan-html` strategy) — Australia's national opera
@@ -358,7 +359,7 @@ function parseDate(text: string): IsoDate | null {
   if (!m) return null;
   const month = MONTHS[(m[2] ?? "").toLowerCase()];
   if (!month) return null;
-  return `${m[3]}-${month}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+  return isoFromParts(m[3] ?? "", month, m[1] ?? "");
 }
 
 /** "7:30 pm" → 24h "19:30"; null when no time is printed. */

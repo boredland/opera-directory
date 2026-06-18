@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Carlo Felice, Genoa (`spielplan-html` strategy) — the fondazione lirica
@@ -261,8 +262,8 @@ function parsePerformances(html: string, since: IsoDate | null, today: string): 
   )) {
     const dmy = (dateCell ?? "").match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
     if (!dmy) continue;
-    const date = `${dmy[3]}-${dmy[2]?.padStart(2, "0")}-${dmy[1]?.padStart(2, "0")}`;
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+    const date = isoFromParts(dmy[3] ?? "", dmy[2] ?? "", dmy[1] ?? "");
+    if (!date) continue;
     if (since && date < since) continue;
 
     const time = (timeCell ?? "").match(/(\d{1,2})[:.](\d{2})/);
@@ -274,7 +275,7 @@ function parsePerformances(html: string, since: IsoDate | null, today: string): 
     seen.add(key);
 
     out.push({
-      date: date as IsoDate,
+      date,
       time: hhmm,
       venue_room: room,
       ticket_url: (buyCell ?? "").match(/href="([^"]+)"/i)?.[1] ?? null,

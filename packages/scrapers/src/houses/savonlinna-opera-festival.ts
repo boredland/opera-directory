@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Savonlinna Opera Festival (`spielplan-html` strategy) — the Finnish summer
@@ -189,7 +190,8 @@ function parsePerformances(html: string): RawPerformance[] {
     );
     if (!m) continue;
     const [, d, mo, y, h, min] = m;
-    const date = `${y}-${(mo ?? "").padStart(2, "0")}-${(d ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(y ?? "", mo ?? "", d ?? "");
+    if (!date) continue;
     const time = h ? `${h.padStart(2, "0")}:${min ?? "00"}` : null;
     const key = `${date}|${time ?? ""}`;
     if (seen.has(key)) continue;

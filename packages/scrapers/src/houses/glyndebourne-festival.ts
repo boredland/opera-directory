@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Glyndebourne Festival (`spielplan-html` strategy) — the English country-house
@@ -295,9 +296,8 @@ function parseDateList(text: string, year: number): IsoDate[] {
         continue;
       }
       for (const day of pendingDays) {
-        dates.push(
-          `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}` as IsoDate,
-        );
+        const d = isoFromParts(year, month, day);
+        if (d) dates.push(d);
       }
       pendingDays = [];
     }

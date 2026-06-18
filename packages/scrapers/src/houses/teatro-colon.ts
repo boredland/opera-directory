@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Colón, Buenos Aires (`spielplan-html` strategy) — Argentina's premier
@@ -205,8 +206,8 @@ function parsePerformances(html: string, since: IsoDate | null): RawPerformance[
     if (prevMonth && mm < prevMonth) year += 1;
     prevMonth = mm;
 
-    const date =
-      `${year}-${String(mm).padStart(2, "0")}-${(day ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, mm, day ?? "");
+    if (!date) continue;
     if (since && date < since) continue;
     const hhmm = (time ?? "").match(/\d{1,2}:\d{2}/)?.[0] ?? null;
 

@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { decodeEntities, type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Rossini Opera Festival, Pesaro (`spielplan-html` strategy, WordPress).
@@ -260,7 +260,8 @@ function parseDates(content: string, year: number, window: ScrapeWindow): RawPer
   for (const p of pending) if (p.month) emit(p.day, p.month, null);
 
   function emit(day: string, month: string, time: string | null): void {
-    const date = `${year}-${month}-${day.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(year, month, day);
+    if (!date) return;
     const key = `${date}|${time}`;
     if (seen.has(key)) return;
     seen.add(key);

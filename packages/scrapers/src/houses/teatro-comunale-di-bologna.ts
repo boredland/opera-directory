@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Comunale di Bologna (`spielplan-html` strategy) — a fondazione lirica
@@ -185,8 +186,7 @@ function isoFromDayMonth(dayRaw: string, monthRaw: string): IsoDate | null {
   const curYear = now.getUTCFullYear();
   const curMonth = now.getUTCMonth() + 1;
   const year = month >= curMonth ? curYear : curYear + 1;
-  const date = `${year}-${String(month).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
-  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? (date as IsoDate) : null;
+  return isoFromParts(year, month, day);
 }
 
 /** Place line is "{venue}, HH:MM" (e.g. "Comunale Nouveau, 20:00"). */

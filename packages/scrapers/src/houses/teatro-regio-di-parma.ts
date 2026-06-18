@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Regio di Parma (`json-api` strategy) — the Parma teatro di tradizione,
@@ -257,13 +258,13 @@ function parsePerformances(html: string, since: IsoDate | null, today: string): 
     const [day, mon, year] = parts;
     const month = mon ? MONTHS[mon.toLowerCase()] : undefined;
     if (!day || !month || !year || !/^\d{4}$/.test(year)) continue;
-    const date = `${year}-${month}-${day.padStart(2, "0")}`;
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+    const date = isoFromParts(year, month, day);
+    if (!date) continue;
     if (since && date < since) continue;
     if (seen.has(date)) continue;
     seen.add(date);
     out.push({
-      date: date as IsoDate,
+      date,
       time: times.get(`${day.padStart(2, "0")}|${month}`) ?? null,
       venue_room: VENUE,
       status: date < today ? "past" : "scheduled",

@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 
 /**
  * Teatro Petruzzelli, Bari (`json-api` strategy — WordPress REST + SSR detail HTML).
@@ -358,15 +359,15 @@ function parsePerformances(html: string, since: IsoDate | null, today: string): 
     if (!m) continue;
     const month = MONTHS[(m[2] ?? "").toLowerCase()];
     if (!month) continue;
-    const date = `${m[3]}-${month}-${(m[1] ?? "").padStart(2, "0")}`;
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) continue;
+    const date = isoFromParts(m[3] ?? "", month, m[1] ?? "");
+    if (!date) continue;
     if (since && date < since) continue;
     const hhmm = m[4] && m[5] ? `${m[4].padStart(2, "0")}:${m[5]}` : null;
     const key = `${date}|${hhmm}`;
     if (seen.has(key)) continue;
     seen.add(key);
     out.push({
-      date: date as IsoDate,
+      date,
       time: hhmm,
       venue_room: VENUE,
       status: date < today ? "past" : "scheduled",
