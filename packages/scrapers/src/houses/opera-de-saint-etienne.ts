@@ -79,7 +79,8 @@ const CREATIVE_LABELS: [RegExp, string][] = [
 const DROP_LABEL =
   /^(livret|d['’]après|cr[ée]ation|orchestre|ch(?:œ|oe)ur|ma[îi]trise|ensemble|production|coproduction|nouvelle\s+production|r[ée]alis|cor[ée]al|collaboration|avec\s)/i;
 /** A "name" cell that's an institution or work-info, not a person. */
-const NON_NAME = /d['’]après|cr[ée]ation|^en\s|^les?\s|^l['’]|ateliers|^op[ée]ra\b|orchestre|ch(?:œ|oe)ur/i;
+const NON_NAME =
+  /d['’]après|cr[ée]ation|^en\s|^les?\s|^l['’]|ateliers|^op[ée]ra\b|orchestre|ch(?:œ|oe)ur/i;
 /** A header byline that's a genre descriptor, not the composer. */
 const GENRE_LINE =
   /op[ée]ra|comique|com[ée]die|drame|ballet|oratorio|spectacle|concert|\bactes?\b|en\s+\w+\s+(?:actes?|parties?)/i;
