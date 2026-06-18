@@ -78,7 +78,9 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: raw-${{ matrix.house }}
-          path: raw/${{ matrix.house }}.json
+          path: |
+            raw/${{ matrix.house }}.json
+            raw/_health/${{ matrix.house }}.json
           retention-days: 7
           if-no-files-found: error
 
@@ -99,6 +101,8 @@ jobs:
           pattern: raw-*
           merge-multiple: true
           path: raw
+      - name: Scrape health report
+        run: bun run scrape-report >> "$GITHUB_STEP_SUMMARY"
       - run: bun run ingest-raw
       - name: Validate the regenerated graph
         run: bun run validate

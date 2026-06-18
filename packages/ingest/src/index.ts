@@ -14,6 +14,36 @@ import { ingestRawProduction } from "./resolve";
 import { CanonicalStore } from "./store";
 import { validateData } from "./validate";
 
+export interface HealthRecord {
+  slug: string;
+  productions: number;
+  performances: number;
+  ok: boolean;
+  error?: string;
+}
+
+export interface HealthSummary {
+  total: number;
+  zeros: number;
+  errored: number;
+  lines: string[];
+}
+
+export function summarizeHealth(records: HealthRecord[]): HealthSummary {
+  const sorted = [...records].sort((a, b) => a.productions - b.productions);
+  const lines = sorted.map((r) => {
+    const status = r.error ? "ERROR" : r.productions === 0 ? "ZERO" : "ok";
+    const detail = r.error ? ` (${r.error})` : "";
+    return `  ${status.padEnd(5)}  ${String(r.productions).padStart(4)} prod  ${String(r.performances).padStart(5)} perf  ${r.slug}${detail}`;
+  });
+  return {
+    total: records.length,
+    zeros: records.filter((r) => r.productions === 0 && !r.error).length,
+    errored: records.filter((r) => !!r.error).length,
+    lines,
+  };
+}
+
 export * from "./resolve";
 export * from "./store";
 export * from "./validate";
@@ -103,6 +133,13 @@ export function parseArgs(argv: string[]): { slugs: string[]; window: ScrapeWind
 const DATA_DIR = process.env.DATA_DIR ?? join(process.cwd(), "data");
 const RAW_DIR = process.env.RAW_DIR ?? join(process.cwd(), "raw");
 
+const HEALTH_DIR = join(RAW_DIR, "_health");
+
+async function writeHealthRecord(record: HealthRecord): Promise<void> {
+  await mkdir(HEALTH_DIR, { recursive: true });
+  await writeFile(join(HEALTH_DIR, `${record.slug}.json`), `${JSON.stringify(record, null, 2)}\n`);
+}
+
 /** Scrape one house and write its raw result to raw/<slug>.json — no resolve. */
 export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise<void> {
   const scraper = HOUSE_SCRAPERS[slug];
@@ -110,9 +147,25 @@ export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise
   const ctx = makeFetchContext(await houseUsesProxy(slug));
   const start = performance.now();
   try {
-    const result = await scraper(ctx, window ?? defaultIncrementalWindow());
+    let result: HouseScrapeResult;
+    try {
+      result = await scraper(ctx, window ?? defaultIncrementalWindow());
+    } catch (err) {
+      const errorMsg = err instanceof Error ? err.message : String(err);
+      await writeHealthRecord({
+        slug,
+        productions: 0,
+        performances: 0,
+        ok: false,
+        error: errorMsg,
+      });
+      throw err;
+    }
+    const productions = result.productions.length;
+    const performances = result.productions.reduce((sum, p) => sum + p.performances.length, 0);
     await mkdir(RAW_DIR, { recursive: true });
     await writeFile(join(RAW_DIR, `${slug}.json`), `${JSON.stringify(result, null, 2)}\n`);
+    await writeHealthRecord({ slug, productions, performances, ok: productions > 0 });
     const secs = ((performance.now() - start) / 1000).toFixed(1);
     console.log(`${slug}: ${result.productions.length} productions in ${secs}s → raw/${slug}.json`);
     console.log(`  requests: ${fetchStatsSummary()}`);
@@ -121,11 +174,33 @@ export async function runScrapeRaw(slug: string, window?: ScrapeWindow): Promise
   }
 }
 
+/** Read all raw/_health/<slug>.json records and print a summary table. */
+export async function runScrapeReport(strict = false): Promise<void> {
+  const healthDir = join(RAW_DIR, "_health");
+  let files: string[];
+  try {
+    files = (await readdir(healthDir)).filter((f) => f.endsWith(".json")).sort();
+  } catch {
+    console.log("No health records found (run scrape-raw first).");
+    return;
+  }
+  const records: HealthRecord[] = await Promise.all(
+    files.map(async (f) => JSON.parse(await readFile(join(healthDir, f), "utf8")) as HealthRecord),
+  );
+  const { total, zeros, errored, lines } = summarizeHealth(records);
+  console.log("Scrape health report:");
+  for (const line of lines) console.log(line);
+  console.log(`\n${total} houses, ${zeros} returned 0, ${errored} errored`);
+  if (strict && (zeros > 0 || errored > 0)) process.exit(1);
+}
+
 /** Resolve every raw/<slug>.json into the canonical store and persist once. */
 export async function runIngestRaw(): Promise<void> {
   const store = await CanonicalStore.load(DATA_DIR);
   // Sorted for a deterministic merge order → byte-identical commits regardless of
   // which scrape runner finished first (mergeFill is first-write-wins).
+  // readdir is non-recursive so raw/_health/ entries never appear; the .json
+  // filter on file names (not dirs) makes the guard explicit regardless.
   const files = (await readdir(RAW_DIR)).filter((f) => f.endsWith(".json")).sort();
   for (const file of files) {
     const result = JSON.parse(await readFile(join(RAW_DIR, file), "utf8")) as HouseScrapeResult;
@@ -172,6 +247,8 @@ if (import.meta.main) {
     const slug = slugs[0];
     if (!slug) throw new Error("scrape-raw needs a house slug");
     await runScrapeRaw(slug, window);
+  } else if (cmd === "scrape-report") {
+    await runScrapeReport(rest.includes("--strict"));
   } else if (cmd === "ingest-raw") {
     await runIngestRaw();
   } else if (cmd === "validate") {
