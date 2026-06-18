@@ -7,6 +7,7 @@
     "packages/*"
   ],
   "scripts": {
+    "test": "bun test",
     "scrape": "bun packages/ingest/src/index.ts",
     "scrape-raw": "bun packages/ingest/src/index.ts scrape-raw",
     "ingest-raw": "bun packages/ingest/src/index.ts ingest-raw",
