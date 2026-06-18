@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -117,8 +117,8 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
     const text = stripHtml(m[1] ?? "");
     const dm = text.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
     if (!dm) continue;
-    const date =
-      `${dm[3]}-${(dm[2] ?? "").padStart(2, "0")}-${(dm[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(dm[3] ?? "", dm[2] ?? "", dm[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = text.match(/(\d{1,2}:\d{2})/)?.[1] ?? null;
     const venue = text.split("|").pop()?.trim() || null;

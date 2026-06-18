@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -159,7 +159,8 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
   for (const m of block.matchAll(/(\d{1,2})\.\s+(\p{L}+)\s+(\d{4}),\s+(\d{1,2}:\d{2})\s*Uhr/gu)) {
     const month = GERMAN_MONTHS[m[2] ?? ""];
     if (!month) continue;
-    const date = `${m[3]}-${month}-${(m[1] ?? "").padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(m[3] ?? "", month, m[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = m[4] ?? null;
     const key = `${date}|${time ?? ""}`;

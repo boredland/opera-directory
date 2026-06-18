@@ -8,6 +8,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { GERMAN_CREDIT_LABELS, normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -268,7 +269,8 @@ function buildPerformances(
     for (const dayMatch of (col[2] ?? "").matchAll(/<span>\s*(\d{1,2})\.?\s*<\/span>/g)) {
       const day = dayMatch[1];
       if (!day) continue;
-      const date = `${yearStr}-${month}-${day.padStart(2, "0")}` as IsoDate;
+      const date = isoFromParts(yearStr, month, day);
+      if (!date) continue;
       if (window.since && date < window.since) continue;
       if (seen.has(date)) continue;
       seen.add(date);

@@ -1,4 +1,3 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type {
@@ -8,6 +7,7 @@ import type {
   RawProduction,
   ScrapeWindow,
 } from "../types";
+import { isoFromParts } from "./_dates";
 import { normalizeGermanCredit } from "./_german-credits";
 
 /**
@@ -166,7 +166,8 @@ function parsePerformances(html: string, window: ScrapeWindow): RawPerformance[]
   for (const m of html.matchAll(
     /spielplan-[0-9-]+\/[a-z0-9-]+\/(\d{2})-(\d{2})-(\d{4})\/(\d{2})(\d{2})/g,
   )) {
-    const date = `${m[3]}-${m[2]}-${m[1]}` as IsoDate;
+    const date = isoFromParts(m[3] ?? "", m[2] ?? "", m[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     const time = `${m[4]}:${m[5]}`;
     const key = `${date}|${time}`;

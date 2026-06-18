@@ -1,7 +1,7 @@
-import type { IsoDate } from "@opera-directory/schema";
 import { type FetchContext, fetchHtml, stripHtml } from "../fetch";
 import { scrapeWikidataProductions } from "../strategies/wikidata";
 import type { HouseScrapeResult, RawPerformance, RawProduction, ScrapeWindow } from "../types";
+import { isoFromParts } from "./_dates";
 import { composerFromText } from "./_german-credits";
 
 /**
@@ -84,7 +84,8 @@ async function buildProduction(
   const seen = new Set<string>();
   const performances: RawPerformance[] = [];
   for (const m of html.matchAll(/(\d{1,2})\.(\d{1,2})\.(\d{4})/g)) {
-    const date = `${m[3]}-${m[2]?.padStart(2, "0")}-${m[1]?.padStart(2, "0")}` as IsoDate;
+    const date = isoFromParts(m[3] ?? "", m[2] ?? "", m[1] ?? "");
+    if (!date) continue;
     if (window.since && date < window.since) continue;
     if (date < "2025-01-01" || seen.has(date)) continue; // drop stray historic refs
     seen.add(date);
