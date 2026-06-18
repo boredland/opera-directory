@@ -1,0 +1,98 @@
+[
+  {
+    "id": "opera-de-saint-etienne/requiem/2025-26/2026-06-24/20:00",
+    "production_id": "opera-de-saint-etienne/requiem/2025-26",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/roland-a-roncevaux/2026-27/2027-03-05/20:00",
+    "production_id": "opera-de-saint-etienne/roland-a-roncevaux/2026-27",
+    "date": "2027-03-05",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/roland-a-roncevaux/2026-27/2027-03-07/15:00",
+    "production_id": "opera-de-saint-etienne/roland-a-roncevaux/2026-27",
+    "date": "2027-03-07",
+    "time": "15:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/romeo-et-juliette/2026-27/2027-04-30/20:00",
+    "production_id": "opera-de-saint-etienne/romeo-et-juliette/2026-27",
+    "date": "2027-04-30",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/romeo-et-juliette/2026-27/2027-05-02/15:00",
+    "production_id": "opera-de-saint-etienne/romeo-et-juliette/2026-27",
+    "date": "2027-05-02",
+    "time": "15:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/romeo-et-juliette/2026-27/2027-05-04/20:00",
+    "production_id": "opera-de-saint-etienne/romeo-et-juliette/2026-27",
+    "date": "2027-05-04",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/tosca/2025-26/2026-06-12/20:00",
+    "production_id": "opera-de-saint-etienne/tosca/2025-26",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "past"
+  },
+  {
+    "id": "opera-de-saint-etienne/tosca/2025-26/2026-06-14/15:00",
+    "production_id": "opera-de-saint-etienne/tosca/2025-26",
+    "date": "2026-06-14",
+    "time": "15:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "past"
+  },
+  {
+    "id": "opera-de-saint-etienne/tosca/2025-26/2026-06-16/20:00",
+    "production_id": "opera-de-saint-etienne/tosca/2025-26",
+    "date": "2026-06-16",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "past"
+  },
+  {
+    "id": "opera-de-saint-etienne/turandot/2026-27/2027-06-16/20:00",
+    "production_id": "opera-de-saint-etienne/turandot/2026-27",
+    "date": "2027-06-16",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/turandot/2026-27/2027-06-18/20:00",
+    "production_id": "opera-de-saint-etienne/turandot/2026-27",
+    "date": "2027-06-18",
+    "time": "20:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  },
+  {
+    "id": "opera-de-saint-etienne/turandot/2026-27/2027-06-20/15:00",
+    "production_id": "opera-de-saint-etienne/turandot/2026-27",
+    "date": "2027-06-20",
+    "time": "15:00",
+    "venue_room": "Grand Théâtre Massenet",
+    "status": "scheduled"
+  }
+]

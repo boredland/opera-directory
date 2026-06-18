@@ -1,0 +1,298 @@
+[
+  {
+    "id": "opera-de-saint-etienne/requiem/2025-26",
+    "work_slug": "giuseppe-verdi/requiem",
+    "house_slug": "opera-de-saint-etienne",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.saint-etienne.fr/otse/saison-25-26/spectacles//type-lyrique/requiem/s-881/",
+    "creative_team": [
+      {
+        "person_slug": "laurent-touche",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "yannick-berne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuseppe-grazioli",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thomas-tatzl",
+        "role_slug": "giuseppe-verdi/requiem/basse"
+      },
+      {
+        "person_slug": "emanuela-pascu",
+        "role_slug": "giuseppe-verdi/requiem/mezzo-soprano"
+      },
+      {
+        "person_slug": "federica-vitali",
+        "role_slug": "giuseppe-verdi/requiem/soprano"
+      },
+      {
+        "person_slug": "matteo-desole",
+        "role_slug": "giuseppe-verdi/requiem/tenor"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-saint-etienne/roland-a-roncevaux/2026-27",
+    "work_slug": "auguste-mermet/roland-a-roncevaux",
+    "house_slug": "opera-de-saint-etienne",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.saint-etienne.fr/otse/saison-26-27/spectacles//type-lyrique/roland-a-roncevaux/s-924/",
+    "creative_team": [
+      {
+        "person_slug": "herve-niquet",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jean-romain-vesperini",
+        "function": "director"
+      },
+      {
+        "person_slug": "christophe-chaupin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "bruno-de-lavenere",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "antoinette-dennefeld",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/alde"
+      },
+      {
+        "person_slug": "ihor-mostovoi",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/ganelon"
+      },
+      {
+        "person_slug": "patrick-bolleire",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/l-archeveque-turpin"
+      },
+      {
+        "person_slug": "jean-philippe-mc-clish",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/l-emir"
+      },
+      {
+        "person_slug": "amandine-ammirati",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/le-page-une-esclave"
+      },
+      {
+        "person_slug": "blaise-rantoanina",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/le-patre"
+      },
+      {
+        "person_slug": "thomas-bettinger",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/roland"
+      },
+      {
+        "person_slug": "olivia-doray",
+        "role_slug": "auguste-mermet/roland-a-roncevaux/saida"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-saint-etienne/romeo-et-juliette/2026-27",
+    "work_slug": "charles-gounod/romeo-et-juliette",
+    "house_slug": "opera-de-saint-etienne",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.saint-etienne.fr/otse/saison-26-27/spectacles//type-lyrique/romeo-et-juliette/s-925/",
+    "creative_team": [
+      {
+        "person_slug": "glyslein-lefever",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "guillaume-tourniaire",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christian-lacroix",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "eric-ruf",
+        "function": "director"
+      },
+      {
+        "person_slug": "bertrand-couderc",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eric-ruf",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marc-scoffoni",
+        "role_slug": "charles-gounod/romeo-et-juliette/comte-capulet"
+      },
+      {
+        "person_slug": "joe-bertili",
+        "role_slug": "charles-gounod/romeo-et-juliette/duc-de-verone"
+      },
+      {
+        "person_slug": "sarah-laulan",
+        "role_slug": "charles-gounod/romeo-et-juliette/gertrude"
+      },
+      {
+        "person_slug": "florie-valiquette",
+        "role_slug": "charles-gounod/romeo-et-juliette/juliette"
+      },
+      {
+        "person_slug": "florent-karrer",
+        "role_slug": "charles-gounod/romeo-et-juliette/mercutio"
+      },
+      {
+        "person_slug": "cyrille-dubois",
+        "role_slug": "charles-gounod/romeo-et-juliette/romeo"
+      },
+      {
+        "person_slug": "anne-lise-polchlopek",
+        "role_slug": "charles-gounod/romeo-et-juliette/stephano"
+      },
+      {
+        "person_slug": "corentin-backes",
+        "role_slug": "charles-gounod/romeo-et-juliette/tybalt"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-saint-etienne/tosca/2025-26",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "opera-de-saint-etienne",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://opera.saint-etienne.fr/otse/saison-25-26/spectacles//type-lyrique/tosca/s-880/",
+    "creative_team": [
+      {
+        "person_slug": "jean-baptiste-bertrand",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "laurent-touche",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giuseppe-grazioli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "luca-dall-alpi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pier-francesco-maestrini",
+        "function": "director"
+      },
+      {
+        "person_slug": "pascal-merat",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "guillermo-nova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mathieu-gourlet",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "federica-vitali",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "matteo-loi",
+        "role_slug": "giacomo-puccini/tosca/il-sagrestano"
+      },
+      {
+        "person_slug": "massimo-cavalletti",
+        "role_slug": "giacomo-puccini/tosca/le-baron-scarpia"
+      },
+      {
+        "person_slug": "anthony-ciaramitaro",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "florian-bisbrouck",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "saverio-pugliese",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "opera-de-saint-etienne/turandot/2026-27",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "opera-de-saint-etienne",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://opera.saint-etienne.fr/otse/saison-26-27/spectacles//type-lyrique/turandot/s-926/",
+    "creative_team": [
+      {
+        "person_slug": "giuseppe-grazioli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-berloffa",
+        "function": "director"
+      },
+      {
+        "person_slug": "nn",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "guia-buzzi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luca-lombardo",
+        "role_slug": "giacomo-puccini/turandot/altoum"
+      },
+      {
+        "person_slug": "eduardo-niave",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "alexandra-marcellier",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "yan-bua",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "timothee-varon",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "lucas-pauchet",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "nicolas-cavallier",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "lea-bianco-chinto",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  }
+]
