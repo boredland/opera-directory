@@ -100,6 +100,8 @@ jobs:
           merge-multiple: true
           path: raw
       - run: bun run ingest-raw
+      - name: Validate the regenerated graph
+        run: bun run validate
       - name: Commit regenerated canonical store
         run: |
           git config user.name "github-actions[bot]"
