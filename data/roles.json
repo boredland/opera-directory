@@ -2455,6 +2455,36 @@
     "name": "Orchester"
   },
   {
+    "slug": "baldassare-galuppi/l-uomo-femina/cassandra",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Cassandra"
+  },
+  {
+    "slug": "baldassare-galuppi/l-uomo-femina/cretidea",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Cretidea"
+  },
+  {
+    "slug": "baldassare-galuppi/l-uomo-femina/gelsomino",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Gelsomino"
+  },
+  {
+    "slug": "baldassare-galuppi/l-uomo-femina/giannino",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Giannino"
+  },
+  {
+    "slug": "baldassare-galuppi/l-uomo-femina/ramira",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Ramira"
+  },
+  {
+    "slug": "baldassare-galuppi/l-uomo-femina/roberto",
+    "work_slug": "baldassare-galuppi/l-uomo-femina",
+    "name": "Roberto"
+  },
+  {
     "slug": "ballett/rausch/ballett",
     "work_slug": "ballett/rausch",
     "name": "Ballett"
@@ -11775,6 +11805,11 @@
     "name": "Ernesto"
   },
   {
+    "slug": "gaetano-donizetti/don-pasquale/malatesta",
+    "work_slug": "gaetano-donizetti/don-pasquale",
+    "name": "Malatesta"
+  },
+  {
     "slug": "gaetano-donizetti/don-pasquale/norina",
     "work_slug": "gaetano-donizetti/don-pasquale",
     "name": "Norina"
@@ -12607,6 +12642,46 @@
   {
     "slug": "georg-friedrich-h-ndel/agrippina/poppea",
     "work_slug": "georg-friedrich-h-ndel/agrippina",
+    "name": "Poppea"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/agrippina",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Agrippina"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/claudio",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Claudio"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/lesbo",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Lesbo"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/narciso",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Narciso"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/nerone",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Nerone"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/ottone",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Ottone"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/pallante",
+    "work_slug": "georg-friedrich-haendel/agrippina",
+    "name": "Pallante"
+  },
+  {
+    "slug": "georg-friedrich-haendel/agrippina/poppea",
+    "work_slug": "georg-friedrich-haendel/agrippina",
     "name": "Poppea"
   },
   {
@@ -20190,6 +20265,11 @@
     "name": "Servant to Macbeth, Assassin"
   },
   {
+    "slug": "giuseppe-verdi/macbeth/suivante-de-lady-macbeth",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Suivante de Lady Macbeth"
+  },
+  {
     "slug": "giuseppe-verdi/macbeth/the-guardian-of-dreams",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "The Guardian of Dreams"
@@ -20198,6 +20278,11 @@
     "slug": "giuseppe-verdi/macbeth/un-domestico",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "Un domestico"
+  },
+  {
+    "slug": "giuseppe-verdi/macbeth/un-medecin-un-heraut-un-domestique-une-apparition",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Un Médecin / Un Héraut / Un Domestique / Une Apparition"
   },
   {
     "slug": "giuseppe-verdi/macbeth/witches",
@@ -22340,6 +22425,11 @@
     "name": "Beeldend kunstenaar"
   },
   {
+    "slug": "hector-berlioz/la-damnation-de-faust/brander",
+    "work_slug": "hector-berlioz/la-damnation-de-faust",
+    "name": "Brander"
+  },
+  {
     "slug": "hector-berlioz/la-damnation-de-faust/faust",
     "work_slug": "hector-berlioz/la-damnation-de-faust",
     "name": "Faust"
@@ -23693,6 +23783,56 @@
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Wilhelm"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/achille",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Achille"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/agamemnon",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Agamemnon"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/ajax-i",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Ajax I"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/ajax-ii",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Ajax II"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/bacchis",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Bacchis"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/calchas",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Calchas"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/helene",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Hélène"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/menelas",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Ménélas"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/oreste",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Oreste"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene/paris",
+    "work_slug": "jacques-offenbach/la-belle-helene",
+    "name": "Pâris"
   },
   {
     "slug": "jacques-offenbach/les-contes-d-hoffmann/andres-cochenille-frantz-pitichinaccio",
@@ -34475,6 +34615,56 @@
     "name": "Osaka (20 Oct)"
   },
   {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/almeric",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Alméric"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/bertrand",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Bertrand"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/brigitta",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Brigitta"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/comte-godefroy-de-vaudemont",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Comte Godefroy de Vaudémont"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/ibn-hakia",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Ibn Hakia"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/iolanta",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Iolanta"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/laura",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Laura"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/martha",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Martha"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/rene",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "René"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta/robert",
+    "work_slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "name": "Robert"
+  },
+  {
     "slug": "piotr-iljic-cajkovskij/eugene-onegin/dancers",
     "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
     "name": "Dancers"
@@ -35953,6 +36143,41 @@
     "slug": "raquel-garcia-tomas/ich-ich-ich/promi-kunstler-ungebildeter-poser-lift-boy-bestatter-mimi-pathologischer-patient-doktor",
     "work_slug": "raquel-garcia-tomas/ich-ich-ich",
     "name": "Promi-Künstler / Ungebildeter Poser / Lift-Boy / Bestatter / Mimì / Pathologischer Patient / Doktor"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/antoinette",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Antoinette"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/claude",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Claude"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/felicie",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Félicie"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/hilarion-lallumette",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Hilarion Lallumette"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/jean-paul-m-victor",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Jean-Paul / M. Victor"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/marie-anne",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Marie-Anne"
+  },
+  {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu/prosper",
+    "work_slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "name": "Prosper"
   },
   {
     "slug": "riccardo-zandonai/francesca-da-rimini/altichiara",
@@ -38730,6 +38955,36 @@
     "name": "Woglinde"
   },
   {
+    "slug": "richard-wagner/le-vaisseau-fantome/daland-un-marin-norvegien",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Daland, un marin norvégien"
+  },
+  {
+    "slug": "richard-wagner/le-vaisseau-fantome/erik-un-chasseur",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Erik, un chasseur"
+  },
+  {
+    "slug": "richard-wagner/le-vaisseau-fantome/le-hollandais",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Le Hollandais"
+  },
+  {
+    "slug": "richard-wagner/le-vaisseau-fantome/le-pilote-de-daland",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Le Pilote de Daland"
+  },
+  {
+    "slug": "richard-wagner/le-vaisseau-fantome/mary-nourrice-de-senta",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Mary, nourrice de Senta"
+  },
+  {
+    "slug": "richard-wagner/le-vaisseau-fantome/senta-sa-fille",
+    "work_slug": "richard-wagner/le-vaisseau-fantome",
+    "name": "Senta, sa fille"
+  },
+  {
     "slug": "richard-wagner/lohengrin/chor",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Chor"
@@ -39370,6 +39625,11 @@
     "name": "Fourth Page"
   },
   {
+    "slug": "richard-wagner/tannhauser/heinrich",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Heinrich"
+  },
+  {
     "slug": "richard-wagner/tannhauser/heinrich-der-schreiber",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Heinrich der Schreiber"
@@ -39423,6 +39683,11 @@
     "slug": "richard-wagner/tannhauser/psikheya",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Psikheya"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/reinmar",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Reinmar"
   },
   {
     "slug": "richard-wagner/tannhauser/reinmar-von-zweter",
@@ -39480,6 +39745,16 @@
     "name": "Third Page"
   },
   {
+    "slug": "richard-wagner/tannhauser/un-jeune-berger",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Un jeune berger"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/un-pape",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Un Pape"
+  },
+  {
     "slug": "richard-wagner/tannhauser/venus",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Venus"
@@ -39488,6 +39763,11 @@
     "slug": "richard-wagner/tannhauser/vier-edelknaben",
     "work_slug": "richard-wagner/tannhauser",
     "name": "Vier Edelknaben"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/walther",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Walther"
   },
   {
     "slug": "richard-wagner/tannhauser/walther-von-der-vogelweide",
@@ -39503,6 +39783,11 @@
     "slug": "richard-wagner/tannhauser/white-bull",
     "work_slug": "richard-wagner/tannhauser",
     "name": "White Bull"
+  },
+  {
+    "slug": "richard-wagner/tannhauser/wolfram",
+    "work_slug": "richard-wagner/tannhauser",
+    "name": "Wolfram"
   },
   {
     "slug": "richard-wagner/tannhauser/wolfram-von-eschenbach",
@@ -41238,6 +41523,76 @@
     "slug": "sommerkonzert-des-kinderchores/viva-la-musica/kinderchorleitung",
     "work_slug": "sommerkonzert-des-kinderchores/viva-la-musica",
     "name": "Kinderchorleitung"
+  },
+  {
+    "slug": "sondheim-furth/company/amy",
+    "work_slug": "sondheim-furth/company",
+    "name": "Amy"
+  },
+  {
+    "slug": "sondheim-furth/company/april",
+    "work_slug": "sondheim-furth/company",
+    "name": "April"
+  },
+  {
+    "slug": "sondheim-furth/company/bobby",
+    "work_slug": "sondheim-furth/company",
+    "name": "Bobby"
+  },
+  {
+    "slug": "sondheim-furth/company/david",
+    "work_slug": "sondheim-furth/company",
+    "name": "David"
+  },
+  {
+    "slug": "sondheim-furth/company/harry",
+    "work_slug": "sondheim-furth/company",
+    "name": "Harry"
+  },
+  {
+    "slug": "sondheim-furth/company/jenny",
+    "work_slug": "sondheim-furth/company",
+    "name": "Jenny"
+  },
+  {
+    "slug": "sondheim-furth/company/joanne",
+    "work_slug": "sondheim-furth/company",
+    "name": "Joanne"
+  },
+  {
+    "slug": "sondheim-furth/company/kathy",
+    "work_slug": "sondheim-furth/company",
+    "name": "Kathy"
+  },
+  {
+    "slug": "sondheim-furth/company/larry",
+    "work_slug": "sondheim-furth/company",
+    "name": "Larry"
+  },
+  {
+    "slug": "sondheim-furth/company/marta",
+    "work_slug": "sondheim-furth/company",
+    "name": "Marta"
+  },
+  {
+    "slug": "sondheim-furth/company/paul",
+    "work_slug": "sondheim-furth/company",
+    "name": "Paul"
+  },
+  {
+    "slug": "sondheim-furth/company/peter",
+    "work_slug": "sondheim-furth/company",
+    "name": "Peter"
+  },
+  {
+    "slug": "sondheim-furth/company/sarah",
+    "work_slug": "sondheim-furth/company",
+    "name": "Sarah"
+  },
+  {
+    "slug": "sondheim-furth/company/susan",
+    "work_slug": "sondheim-furth/company",
+    "name": "Susan"
   },
   {
     "slug": "south-pole/edgar-evans",

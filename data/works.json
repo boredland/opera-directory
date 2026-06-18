@@ -937,6 +937,11 @@
     "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
+    "slug": "baldassare-galuppi/l-uomo-femina",
+    "title": "L’Uomo Femina",
+    "composer_slug": "baldassare-galuppi"
+  },
+  {
     "slug": "baldassare-galuppi/la-clemenza-di-tito",
     "wikidata": "Q5966229",
     "title": "La clemenza di Tito",
@@ -1057,6 +1062,11 @@
   {
     "slug": "benjamin-britten/l-arche-de-noe",
     "title": "L’arche de noé",
+    "composer_slug": "benjamin-britten"
+  },
+  {
+    "slug": "benjamin-britten/le-songe-d-une-nuit-d-ete",
+    "title": "Le Songe d’une nuit d’été",
     "composer_slug": "benjamin-britten"
   },
   {
@@ -3420,6 +3430,11 @@
     "composer_slug": "georg-friedrich-h-ndel"
   },
   {
+    "slug": "georg-friedrich-haendel/agrippina",
+    "title": "Agrippina",
+    "composer_slug": "georg-friedrich-haendel"
+  },
+  {
     "slug": "georg-friedrich-haendel/jules-cesar",
     "title": "Jules César",
     "composer_slug": "georg-friedrich-haendel"
@@ -3427,6 +3442,11 @@
   {
     "slug": "georg-friedrich-haendel/orlando",
     "title": "Orlando",
+    "composer_slug": "georg-friedrich-haendel"
+  },
+  {
+    "slug": "georg-friedrich-haendel/serse",
+    "title": "Serse",
     "composer_slug": "georg-friedrich-haendel"
   },
   {
@@ -3913,6 +3933,16 @@
   {
     "slug": "gioacchino-rossini/le-barbier-de-seville",
     "title": "Le Barbier de Séville",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
+    "slug": "gioacchino-rossini/semiramis",
+    "title": "Sémiramis",
+    "composer_slug": "gioacchino-rossini"
+  },
+  {
+    "slug": "gioacchino-rossini/tancrede",
+    "title": "Tancrède",
     "composer_slug": "gioacchino-rossini"
   },
   {
@@ -4934,6 +4964,11 @@
     "composer_slug": "henry-purcell"
   },
   {
+    "slug": "henry-purcell/the-fairy-queen",
+    "title": "The Fairy Queen",
+    "composer_slug": "henry-purcell"
+  },
+  {
     "slug": "heribert-feckler/petrosinella-lass-dein-haar-herunter",
     "title": "Petrosinella, lass dein Haar herunter!",
     "composer_slug": "heribert-feckler"
@@ -5191,6 +5226,11 @@
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
     "title": "Hoffmanns Erzählungen (Les contes d’Hoffmann)",
+    "composer_slug": "jacques-offenbach"
+  },
+  {
+    "slug": "jacques-offenbach/la-belle-helene",
+    "title": "La Belle Hélène",
     "composer_slug": "jacques-offenbach"
   },
   {
@@ -5487,6 +5527,11 @@
     "slug": "johann-wolfgang-von-goethe/die-leiden-des-jungen-werther",
     "title": "Die Leiden des jungen Werther",
     "composer_slug": "johann-wolfgang-von-goethe"
+  },
+  {
+    "slug": "johannes-brahms/un-requiem-allemand",
+    "title": "Un Requiem allemand",
+    "composer_slug": "johannes-brahms"
   },
   {
     "slug": "johannes-maria-staud/missing-in-cantu-eure-palaste-sind-leer",
@@ -6046,6 +6091,11 @@
     "slug": "lazar-nikolov/chatterers",
     "title": "CHATTERERS",
     "composer_slug": "lazar-nikolov"
+  },
+  {
+    "slug": "le-banquet-celeste/le-couronnement-de-poppee",
+    "title": "Le Couronnement de Poppée",
+    "composer_slug": "le-banquet-celeste"
   },
   {
     "slug": "lee-hoiby-francis-poulenc/die-menschliche-stille",
@@ -7786,6 +7836,11 @@
     "composer_slug": "philip-glass"
   },
   {
+    "slug": "philip-glass/einstein-on-the-beach",
+    "title": "Einstein on the Beach",
+    "composer_slug": "philip-glass"
+  },
+  {
     "slug": "philip-glass/in-der-strafkolonie",
     "title": "In der Strafkolonie",
     "composer_slug": "philip-glass"
@@ -7944,6 +7999,11 @@
     "composer_slug": "pietro-raimondi",
     "world_premiere": "1841-12-04",
     "world_premiere_house_slug": "teatro-carlo-felice-genova"
+  },
+  {
+    "slug": "piotr-ilitch-tchaikovsky/iolanta",
+    "title": "Iolanta",
+    "composer_slug": "piotr-ilitch-tchaikovsky"
   },
   {
     "slug": "piotr-iljic-cajkovskij/eugene-onegin",
@@ -8219,6 +8279,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "reynaldo-hahn/o-mon-bel-inconnu",
+    "title": "Ô mon bel inconnu",
+    "composer_slug": "reynaldo-hahn"
+  },
+  {
     "slug": "riccardo-broschi/ezio",
     "wikidata": "Q5658691",
     "title": "Ezio",
@@ -8284,6 +8349,11 @@
   {
     "slug": "richard-strauss/ariadne-auf-naxos",
     "title": "Ariadne auf Naxos",
+    "composer_slug": "richard-strauss"
+  },
+  {
+    "slug": "richard-strauss/ariane-a-naxos",
+    "title": "Ariane à Naxos",
     "composer_slug": "richard-strauss"
   },
   {
@@ -8928,6 +8998,11 @@
     "slug": "sommerliche-konzerte",
     "title": "Sommerliche Konzerte",
     "composer_slug": ""
+  },
+  {
+    "slug": "sondheim-furth/company",
+    "title": "Company",
+    "composer_slug": "sondheim-furth"
   },
   {
     "slug": "songs-airs-vol-ii-x-join",
@@ -9836,6 +9911,11 @@
     "composer_slug": "william-shakespeare"
   },
   {
+    "slug": "wim-henderickx/the-convert",
+    "title": "The Convert",
+    "composer_slug": "wim-henderickx"
+  },
+  {
     "slug": "wir-bauen-eine-neue-stadt",
     "title": "Wir bauen eine neue Stadt",
     "composer_slug": ""
@@ -9961,6 +10041,11 @@
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni-version-de-concert",
+    "title": "Don Giovanni – Version de concert",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/figaros-hochzeit",
     "title": "Figaros Hochzeit",
     "composer_slug": "wolfgang-amadeus-mozart"
@@ -9988,6 +10073,11 @@
   {
     "slug": "wolfgang-amadeus-mozart/il-ratto-dal-serraglio",
     "title": "Il ratto dal serraglio",
+    "composer_slug": "wolfgang-amadeus-mozart"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/la-clemence-de-titus",
+    "title": "La Clémence de Titus",
     "composer_slug": "wolfgang-amadeus-mozart"
   },
   {
