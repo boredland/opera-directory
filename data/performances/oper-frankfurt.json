@@ -728,6 +728,12 @@
     "status": "few_left"
   },
   {
+    "id": "oper-frankfurt/der-triumph/2026-06-18/",
+    "production_id": "oper-frankfurt/der-triumph",
+    "date": "2026-06-18",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/der-triumph/2026-06-18/19:00",
     "production_id": "oper-frankfurt/der-triumph",
     "date": "2026-06-18",
@@ -1568,6 +1574,12 @@
     "time": "17:00",
     "venue_room": "Treffpunkt Schauspielpforte",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/kostuemwesen-fuehrung/2026-06-18/",
+    "production_id": "oper-frankfurt/kostuemwesen-fuehrung",
+    "date": "2026-06-18",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/kostuemwesen-fuehrung/2026-06-18/17:00",

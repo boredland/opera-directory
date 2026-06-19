@@ -319,15 +319,15 @@
       },
       {
         "person_slug": "mati-vaikmaa",
-        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+        "role_slug": "giacomo-puccini/madama-butterfly/l-ufficiale"
       },
       {
         "person_slug": "rein-saar",
-        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+        "role_slug": "giacomo-puccini/madama-butterfly/l-ufficiale"
       },
       {
         "person_slug": "ruyao-wang",
-        "role_slug": "giacomo-puccini/madama-butterfly/l-rsquo-ufficiale"
+        "role_slug": "giacomo-puccini/madama-butterfly/l-ufficiale"
       },
       {
         "person_slug": "juuli-lill",
@@ -446,10 +446,6 @@
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/aristaios-pluto-god-of-the-underworld"
       },
       {
-        "person_slug": "tiit-kaljund",
-        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/bacchus"
-      },
-      {
         "person_slug": "heldur-harry-polda",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cast-orpheus-violin-teacher"
       },
@@ -458,11 +454,11 @@
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cast-orpheus-violin-teacher"
       },
       {
-        "person_slug": "jaan-ots",
+        "person_slug": "lauri-sirp",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/conductor"
       },
       {
-        "person_slug": "janne-sevtsenko",
+        "person_slug": "kadri-nirgi",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/cupido"
       },
       {
@@ -506,7 +502,7 @@
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/john-styx-servant-of-pluto"
       },
       {
-        "person_slug": "kairi-tammaru",
+        "person_slug": "aule-urb",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/juno"
       },
       {
@@ -554,7 +550,7 @@
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/mercurius-god-of-commerce-and-prosperity"
       },
       {
-        "person_slug": "maria-leppoja",
+        "person_slug": "merit-kraav",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/minerva"
       },
       {
@@ -576,10 +572,6 @@
       {
         "person_slug": "juuli-lill",
         "role_slug": "jacques-offenbach/orpheus-in-the-underworld/public-opinion"
-      },
-      {
-        "person_slug": "karis-trass",
-        "role_slug": "jacques-offenbach/orpheus-in-the-underworld/venus"
       },
       {
         "person_slug": "helen-lokuta",
@@ -893,14 +885,6 @@
         "role_slug": "leos-janacek/the-cunning-little-vixen/forester"
       },
       {
-        "person_slug": "arete-kerge",
-        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-rsquo-s-wife"
-      },
-      {
-        "person_slug": "kadri-raalik",
-        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-rsquo-s-wife"
-      },
-      {
         "person_slug": "joonas-mikk",
         "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-kids"
       },
@@ -921,7 +905,11 @@
         "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-wife"
       },
       {
-        "person_slug": "estonian-national-opera-boys-rsquo-choir",
+        "person_slug": "kadri-raalik",
+        "role_slug": "leos-janacek/the-cunning-little-vixen/forester-s-wife"
+      },
+      {
+        "person_slug": "estonian-national-opera-boys-choir",
         "role_slug": "leos-janacek/the-cunning-little-vixen/fox-cubs"
       },
       {
@@ -970,14 +958,10 @@
       },
       {
         "person_slug": "aule-urb",
-        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-rsquo-s-wife"
+        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-s-wife"
       },
       {
         "person_slug": "juuli-lill",
-        "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-rsquo-s-wife"
-      },
-      {
-        "person_slug": "aule-urb",
         "role_slug": "leos-janacek/the-cunning-little-vixen/owl-innkeeper-s-wife"
       },
       {

@@ -177,8 +177,22 @@
     "house_slug": "stadttheater-klagenfurt",
     "is_revival": false,
     "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/magic-afternoon-asche/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "hans-mrak",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jenny-schleif",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josephine-bloeb",
+        "role_slug": "wolfgang-bauer/magic-afternoon-asche/birgit"
+      }
+    ]
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-orfeo-ed-euridice",
@@ -404,8 +418,22 @@
     "house_slug": "stadttheater-klagenfurt",
     "is_revival": false,
     "detail_url": "https://www.stadttheater-klagenfurt.at/produktionen/romeo-und-julia/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "hans-mrak",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "helmut-zhuber",
+        "role_slug": "william-shakespeare/romeo-und-julia/bruder-lorenzo"
+      },
+      {
+        "person_slug": "christian-erdt",
+        "role_slug": "william-shakespeare/romeo-und-julia/mercutio-lady-capulet"
+      }
+    ]
   },
   {
     "id": "stadttheater-klagenfurt/stadttheater-klagenfurt-tristan-und-isolde",

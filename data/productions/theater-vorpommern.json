@@ -253,6 +253,89 @@
     ]
   },
   {
+    "id": "theater-vorpommern/der-graf-von-luxemburg",
+    "work_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg",
+    "house_slug": "theater-vorpommern",
+    "is_revival": false,
+    "detail_url": "https://www.theater-vorpommern.de/de/programm/der-graf-von-luxemburg",
+    "creative_team": [
+      {
+        "person_slug": "jorg-pitschmann",
+        "function": "Chöre"
+      },
+      {
+        "person_slug": "ewa-strusinska",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katja-pfeifer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lisa-henningsohn",
+        "function": "Inspizienz"
+      },
+      {
+        "person_slug": "stephan-brauer",
+        "function": "Inszenierung & Choreografie"
+      },
+      {
+        "person_slug": "marcus-kroner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frida-jasper",
+        "function": "Regieassistenz & Abendspielleitung"
+      },
+      {
+        "person_slug": "leif-erik-heine",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "saskia-becker",
+        "function": "Soufflage"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "audrey-gabor",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/angele-didier-sangerin-der-gro-en-oper-paris"
+      },
+      {
+        "person_slug": "semjon-bulinsky",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/armand-brissard-maler"
+      },
+      {
+        "person_slug": "bernd-roth",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/furst-basil-basilowitsch"
+      },
+      {
+        "person_slug": "sina-puffay",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/juliette-vermont"
+      },
+      {
+        "person_slug": "thomas-rettensteiner",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/kokozow"
+      },
+      {
+        "person_slug": "jeremy-almeida-uy",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/mentschikoff"
+      },
+      {
+        "person_slug": "raul-alonso",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/pawlowitsch"
+      },
+      {
+        "person_slug": "yuji-natsume",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/pelegrin"
+      },
+      {
+        "person_slug": "sotiris-charalampous",
+        "role_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/rene-graf-von-luxemburg"
+      }
+    ]
+  },
+  {
     "id": "theater-vorpommern/don-giovanni",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni-in-90-minuten",
     "house_slug": "theater-vorpommern",

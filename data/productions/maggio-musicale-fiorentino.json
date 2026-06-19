@@ -236,6 +236,46 @@
     ]
   },
   {
+    "id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutti-l-amore-e-un-gioco",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/cosi-fan-tutti-2027",
+    "creative_team": [
+      {
+        "person_slug": "giuseppe-la-malfa",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manu-lalli",
+        "function": "director"
+      },
+      {
+        "person_slug": "daniele-leone",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giulia-alletto",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutti-l-amore-e-un-gioco/dorabella"
+      },
+      {
+        "person_slug": "yukang-zheng",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutti-l-amore-e-un-gioco/ferrando"
+      },
+      {
+        "person_slug": "zeynep-seray-ozcan",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutti-l-amore-e-un-gioco/fiordiligi"
+      },
+      {
+        "person_slug": "jiazhou-wang",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutti-l-amore-e-un-gioco/guglielmo"
+      }
+    ]
+  },
+  {
     "id": "maggio-musicale-fiorentino/don-giovanni/2027",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "house_slug": "maggio-musicale-fiorentino",
@@ -534,6 +574,29 @@
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
       }
     ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027",
+    "work_slug": "baldassarre-galuppi/il-mondo-alla-roversa-o-sia-le-donne-che-comandano",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/il-mondo-alla-roversa-o-sia-le-donne-che-comandano",
+    "creative_team": [
+      {
+        "person_slug": "paola-rota",
+        "function": "director"
+      },
+      {
+        "person_slug": "nicolas-bovey",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eleonora-peronetti",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "maggio-musicale-fiorentino/il-trovatore/2027",

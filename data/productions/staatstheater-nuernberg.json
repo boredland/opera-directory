@@ -716,6 +716,20 @@
     ]
   },
   {
+    "id": "staatstheater-nuernberg/musikalischer-damentee",
+    "work_slug": "musikalischer-damentee",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/musikalischer-damentee/19-10-2026/1430",
+    "creative_team": [
+      {
+        "person_slug": "andreas-paetzold",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "staatstheater-nuernberg/nabucco",
     "work_slug": "giuseppe-verdi/nabucco",
     "house_slug": "staatstheater-nuernberg",

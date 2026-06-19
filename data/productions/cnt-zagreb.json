@@ -208,6 +208,50 @@
     ]
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-gita-and-hidden-world",
+    "work_slug": "borna-erceg/gita-and-the-hidden-world",
+    "house_slug": "cnt-zagreb",
+    "is_revival": false,
+    "detail_url": "https://www.hnk.hr/en/opera/plays/gita-and-hidden-world/",
+    "image_url": "https://res.cloudinary.com/dg86xjjts/image/upload/f_auto,q_auto/v1748853528/x1lgv5uoqpz7f8a89zaw",
+    "creative_team": [
+      {
+        "person_slug": "tanja-asanovic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "buga-marija-simic-milosev",
+        "function": "director"
+      },
+      {
+        "person_slug": "josip-sego",
+        "function": "director"
+      },
+      {
+        "person_slug": "matej-milosev",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "dinka-jericevic",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tamara-franetovic-felbinger",
+        "role_slug": "borna-erceg/gita-and-the-hidden-world/bird"
+      },
+      {
+        "person_slug": "luca-anic",
+        "role_slug": "borna-erceg/gita-and-the-hidden-world/gita"
+      },
+      {
+        "person_slug": "tvrtko-stipic",
+        "role_slug": "borna-erceg/gita-and-the-hidden-world/vulcano"
+      }
+    ]
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski",
     "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
     "house_slug": "cnt-zagreb",

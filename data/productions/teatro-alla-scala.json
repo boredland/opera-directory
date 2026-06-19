@@ -559,6 +559,10 @@
     "detail_url": "https://www.teatroallascala.org/it/stagione/2025-2026/opera/l-elisir-d-amore.html",
     "creative_team": [
       {
+        "person_slug": "stefania-ballone",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "marco-alibrando",
         "function": "conductor"
       },
@@ -579,7 +583,40 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "noemi-muschetti",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "sabina-sanza",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/adina"
+      },
+      {
+        "person_slug": "chao-liu",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "geunhwa-lee",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
+      },
+      {
+        "person_slug": "aigerim-altynbek",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/giannetta"
+      },
+      {
+        "person_slug": "saori-sugiyama",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/giannetta"
+      },
+      {
+        "person_slug": "misha-kiria",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/il-dottor-dulcamara"
+      },
+      {
+        "person_slug": "cristobal-campos-marin",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
+      }
+    ]
   },
   {
     "id": "teatro-alla-scala/la-boheme/2026-2027",

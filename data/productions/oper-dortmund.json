@@ -109,6 +109,20 @@
     "cast": []
   },
   {
+    "id": "oper-dortmund/tatort-opernhaus",
+    "work_slug": "tatort-opernhaus",
+    "house_slug": "oper-dortmund",
+    "is_revival": false,
+    "detail_url": "https://www.theaterdo.de/produktionen/detail/tatort-opernhaus/",
+    "creative_team": [
+      {
+        "person_slug": "ruth-katharina-peeck",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "oper-dortmund/was-das-nashorn-sah-als-es-auf-die-andere-seite-des-zauns-schaute",
     "work_slug": "jens-raschke/was-das-nashorn-sah-als-es-auf-die-andere-seite-des-zauns-schaute",
     "house_slug": "oper-dortmund",

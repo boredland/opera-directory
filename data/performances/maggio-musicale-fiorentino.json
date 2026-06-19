@@ -88,6 +88,38 @@
     "status": "scheduled"
   },
   {
+    "id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027/2027-11-27/15:30",
+    "production_id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027",
+    "date": "2027-11-27",
+    "time": "15:30",
+    "venue_room": "Teatro del Maggio - Auditorium",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027/2027-11-28/11:00",
+    "production_id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027",
+    "date": "2027-11-28",
+    "time": "11:00",
+    "venue_room": "Teatro del Maggio - Auditorium",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027/2027-11-30/10:30",
+    "production_id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027",
+    "date": "2027-11-30",
+    "time": "10:30",
+    "venue_room": "Teatro del Maggio - Auditorium (Recita per le scuole)",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027/2027-11-31/10:30",
+    "production_id": "maggio-musicale-fiorentino/cosi-fan-tutti-l-amore-e-un-gioco/2027",
+    "date": "2027-11-31",
+    "time": "10:30",
+    "venue_room": "Teatro del Maggio - Auditorium (Recita per le scuole)",
+    "status": "scheduled"
+  },
+  {
     "id": "maggio-musicale-fiorentino/don-giovanni/2027/2027-12-03/20:00",
     "production_id": "maggio-musicale-fiorentino/don-giovanni/2027",
     "date": "2027-12-03",
@@ -213,6 +245,30 @@
     "date": "2026-07-18",
     "time": "21:00",
     "venue_room": "Cavea del Teatro del Maggio",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027/2027-01-30/17:00",
+    "production_id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027",
+    "date": "2027-01-30",
+    "time": "17:00",
+    "venue_room": "Teatro Goldoni",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027/2027-01-31/15:30",
+    "production_id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027",
+    "date": "2027-01-31",
+    "time": "15:30",
+    "venue_room": "Teatro Goldoni",
+    "status": "scheduled"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027/2027-02-02/20:30",
+    "production_id": "maggio-musicale-fiorentino/il-mondo-alla-roversa-o-sia-le-donne-che-comandano/2027",
+    "date": "2027-02-02",
+    "time": "20:30",
+    "venue_room": "Teatro Goldoni",
     "status": "scheduled"
   },
   {

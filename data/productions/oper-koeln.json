@@ -47,6 +47,10 @@
     "detail_url": "https://www.oper.koeln/de/produktion/alles-was-klingt/",
     "creative_team": [
       {
+        "person_slug": "katja-fischer",
+        "function": "director"
+      },
+      {
         "person_slug": "stephanie-sonnenschein",
         "function": "director"
       }
@@ -1103,7 +1107,7 @@
         "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/kaspar"
       },
       {
-        "person_slug": "martin-koch",
+        "person_slug": "wesley-harrison",
         "role_slug": "freikugeln-der-freischutz-in-funf-dimensionen/max-sanger"
       },
       {
@@ -1306,6 +1310,10 @@
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/la-piccola-cubana/",
     "creative_team": [
+      {
+        "person_slug": "cesar-jose-gutierrez-salas",
+        "function": "choreographer"
+      },
       {
         "person_slug": "jordi-frances",
         "function": "conductor"
@@ -1770,6 +1778,15 @@
         "role_slug": "choreographie-regie-marcos-morau/notte-morricone/texte"
       }
     ]
+  },
+  {
+    "id": "oper-koeln/power-up-demokratie-festival",
+    "work_slug": "power-up-demokratie-festival",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/power-up-demokratie-festival/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "oper-koeln/power-up-demokratie-festval",

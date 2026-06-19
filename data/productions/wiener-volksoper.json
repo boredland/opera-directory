@@ -141,7 +141,7 @@
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "house_slug": "wiener-volksoper",
     "is_revival": false,
-    "detail_url": "https://www.volksoper.at/produktion/die-zauberflote-2025.1009862251.de.html",
+    "detail_url": "https://www.volksoper.at/produktion/die-zauberflote-2025.1009355453.de.html",
     "creative_team": [
       {
         "person_slug": "tim-fluch",
@@ -158,7 +158,7 @@
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
       },
       {
-        "person_slug": "finley-hasler",
+        "person_slug": "michael-mocnik",
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/ein-junge"
       },
       {
@@ -174,7 +174,7 @@
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester"
       },
       {
-        "person_slug": "laetitia-arztmann",
+        "person_slug": "eliza-sloane",
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/kleine-pamina"
       },
       {
@@ -496,7 +496,7 @@
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "house_slug": "wiener-volksoper",
     "is_revival": false,
-    "detail_url": "https://www.volksoper.at/produktion/die-csardasfurstin-2025.1010254313.de.html",
+    "detail_url": "https://www.volksoper.at/produktion/die-csardasfurstin-2025.1012657167.de.html",
     "creative_team": [
       {
         "person_slug": "alfred-eschwe",
@@ -505,7 +505,7 @@
     ],
     "cast": [
       {
-        "person_slug": "jaye-simmons",
+        "person_slug": "juliette-khalil",
         "role_slug": "emmerich-kalman/die-csardasfurstin/anastasia-komtesse-eggenberg-dessen-cousine"
       },
       {
@@ -517,7 +517,7 @@
         "role_slug": "emmerich-kalman/die-csardasfurstin/bonifaz-graf-kancsianu-genannt-boni"
       },
       {
-        "person_slug": "daniel-schmutzhard",
+        "person_slug": "alexandre-beuchat",
         "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-ronald"
       },
       {
@@ -526,6 +526,10 @@
       },
       {
         "person_slug": "axel-herrig",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/ferenc-ritter-kerekes-genannt-feri-bacsi"
+      },
+      {
+        "person_slug": "karl-michael-ebner",
         "role_slug": "emmerich-kalman/die-csardasfurstin/ferenc-ritter-kerekes-genannt-feri-bacsi"
       },
       {
@@ -545,7 +549,7 @@
         "role_slug": "emmerich-kalman/die-csardasfurstin/leopold-maria-furst-von-und-zu-lippert-weylersheim-general-der-kavallerie"
       },
       {
-        "person_slug": "ursula-pfitzner",
+        "person_slug": "annette-dasch",
         "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu-chansonette"
       }
     ]
