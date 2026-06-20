@@ -1138,6 +1138,49 @@
     ]
   },
   {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "work_slug": "pit-und-paula-frisch-versalzen",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/pit-und-paula-frisch-versalzen/825",
+    "creative_team": [
+      {
+        "person_slug": "undine-werchau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "sophie-bauer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "felix-benesch",
+        "function": "director"
+      },
+      {
+        "person_slug": "kara-mckechnie",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "bianca-deigner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kinder-und-jugendchor-der-oper-leipzig",
+        "role_slug": "pit-und-paula-frisch-versalzen/kinder-und-jugendchor"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "pit-und-paula-frisch-versalzen/orchester"
+      },
+      {
+        "person_slug": "maria-hinze",
+        "role_slug": "pit-und-paula-frisch-versalzen/piano"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/regina-811",
     "work_slug": "albert-lortzing/regina",
     "house_slug": "oper-leipzig",

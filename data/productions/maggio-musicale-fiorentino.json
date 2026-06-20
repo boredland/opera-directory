@@ -166,7 +166,7 @@
         "role_slug": "francesco-cilea/adriana-lecouvreur/quinault"
       },
       {
-        "person_slug": "alessndro-lanzi",
+        "person_slug": "alessandro-lanzi",
         "role_slug": "francesco-cilea/adriana-lecouvreur/un-maggiordomo"
       }
     ]
@@ -230,7 +230,7 @@
         "role_slug": "gaetano-donizetti/anna-bolena/sir-hervey"
       },
       {
-        "person_slug": "aleksandra-maeteleva",
+        "person_slug": "aleksandra-meteleva",
         "role_slug": "gaetano-donizetti/anna-bolena/smeton"
       }
     ]
@@ -779,6 +779,70 @@
     ]
   },
   {
+    "id": "maggio-musicale-fiorentino/macbeth/2027",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/macbeth-in-forma-di-concerto",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicola-luisotti",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alexander-kopeczi",
+        "role_slug": "giuseppe-verdi/macbeth/banco"
+      },
+      {
+        "person_slug": "cassandre-berthon",
+        "role_slug": "giuseppe-verdi/macbeth/dama-di-lady-macbeth"
+      },
+      {
+        "person_slug": "anna-netrebko",
+        "role_slug": "giuseppe-verdi/macbeth/lady-macbeth"
+      },
+      {
+        "person_slug": "ludovic-tezier",
+        "role_slug": "giuseppe-verdi/macbeth/macbeth"
+      },
+      {
+        "person_slug": "vincenzo-costanzo",
+        "role_slug": "giuseppe-verdi/macbeth/macduff"
+      },
+      {
+        "person_slug": "francesco-congiu",
+        "role_slug": "giuseppe-verdi/macbeth/malcolm"
+      },
+      {
+        "person_slug": "nicolo-ayroldi",
+        "role_slug": "giuseppe-verdi/macbeth/prima-apparizione"
+      },
+      {
+        "person_slug": "dielli-hoxha",
+        "role_slug": "giuseppe-verdi/macbeth/un-araldo"
+      },
+      {
+        "person_slug": "egidio-massimo-naccarato",
+        "role_slug": "giuseppe-verdi/macbeth/un-domestico"
+      },
+      {
+        "person_slug": "juan-carlos-villalobos",
+        "role_slug": "giuseppe-verdi/macbeth/un-medico"
+      },
+      {
+        "person_slug": "lisandro-guinis",
+        "role_slug": "giuseppe-verdi/macbeth/un-sicario"
+      }
+    ]
+  },
+  {
     "id": "maggio-musicale-fiorentino/norma/2027",
     "work_slug": "vincenzo-bellini/norma",
     "house_slug": "maggio-musicale-fiorentino",
@@ -825,7 +889,7 @@
         "role_slug": "vincenzo-bellini/norma/flavio"
       },
       {
-        "person_slug": "vasilisa-berzanskaja",
+        "person_slug": "vasilisa-berzhanskaya",
         "role_slug": "vincenzo-bellini/norma/norma"
       },
       {
@@ -1275,6 +1339,38 @@
       {
         "person_slug": "andreas-mattersberger",
         "role_slug": "john-adams/the-death-of-klinghoffer/the-first-officer"
+      }
+    ]
+  },
+  {
+    "id": "maggio-musicale-fiorentino/tosca/2027",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "maggio-musicale-fiorentino",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.maggiofiorentino.com/events/tosca-in-forma-di-concerto-cavea",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-fratini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "riccardo-frizza",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksandra-kurzak",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "francesco-meli",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "luca-salsi",
+        "role_slug": "giacomo-puccini/tosca/scarpia"
       }
     ]
   },

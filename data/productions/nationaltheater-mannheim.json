@@ -4271,7 +4271,16 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/ins-kalte-wasser-7106/4721/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "annabelle-leschke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lea-stocker",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {

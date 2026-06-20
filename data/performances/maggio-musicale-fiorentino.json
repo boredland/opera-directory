@@ -368,6 +368,14 @@
     "status": "scheduled"
   },
   {
+    "id": "maggio-musicale-fiorentino/macbeth/2027/2027-09-12/17:00",
+    "production_id": "maggio-musicale-fiorentino/macbeth/2027",
+    "date": "2027-09-12",
+    "time": "17:00",
+    "venue_room": "Teatro del Maggio - Sala Grande",
+    "status": "scheduled"
+  },
+  {
     "id": "maggio-musicale-fiorentino/norma/2027/2027-09-16/20:00",
     "production_id": "maggio-musicale-fiorentino/norma/2027",
     "date": "2027-09-16",
@@ -526,6 +534,14 @@
     "time": "15:30",
     "venue_room": "Teatro del Maggio - Sala Grande",
     "status": "past"
+  },
+  {
+    "id": "maggio-musicale-fiorentino/tosca/2027/2027-07-22/21:00",
+    "production_id": "maggio-musicale-fiorentino/tosca/2027",
+    "date": "2027-07-22",
+    "time": "21:00",
+    "venue_room": "Cavea del Teatro del Maggio",
+    "status": "scheduled"
   },
   {
     "id": "maggio-musicale-fiorentino/tristan-und-isolde/2027/2027-05-20/19:00",

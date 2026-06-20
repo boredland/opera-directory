@@ -453,6 +453,14 @@
     ],
     "cast": [
       {
+        "person_slug": "olivia-betteridge",
+        "role_slug": "wunderland/alice"
+      },
+      {
+        "person_slug": "alice-mazzasette",
+        "role_slug": "wunderland/alices-schwester-die-herzogin"
+      },
+      {
         "person_slug": "alexei-ratmansky",
         "role_slug": "wunderland/choreografie-und-inszenierung"
       },
@@ -461,8 +469,52 @@
         "role_slug": "wunderland/choreografische-assistenz"
       },
       {
+        "person_slug": "matias-oberlin",
+        "role_slug": "wunderland/der-herzbube-die-mucke-der-rote-ritter"
+      },
+      {
+        "person_slug": "joaquin-angelucci",
+        "role_slug": "wunderland/der-herzkonig-der-wei-e-konig"
+      },
+      {
+        "person_slug": "gabriel-barbosa",
+        "role_slug": "wunderland/der-hutmacher-hatta"
+      },
+      {
+        "person_slug": "moises-romero",
+        "role_slug": "wunderland/der-marzhase-haigha"
+      },
+      {
+        "person_slug": "daniele-bonelli",
+        "role_slug": "wunderland/die-grinse-katze-der-wei-e-ritter"
+      },
+      {
+        "person_slug": "charlotte-larzelere",
+        "role_slug": "wunderland/die-haselmaus-die-wei-e-konigin"
+      },
+      {
+        "person_slug": "ida-praetorius",
+        "role_slug": "wunderland/die-herzkonigin-die-rote-konigin"
+      },
+      {
+        "person_slug": "caspar-sasse",
+        "role_slug": "wunderland/die-raupe-der-henker-humpty-dumpty"
+      },
+      {
+        "person_slug": "ana-torrequebrada",
+        "role_slug": "wunderland/die-taube-das-einhorn"
+      },
+      {
         "person_slug": "hamburg-ballett",
         "role_slug": "wunderland/ensemble"
+      },
+      {
+        "person_slug": "francesco-cortese",
+        "role_slug": "wunderland/fisch-lakai-der-greif-tweedledum"
+      },
+      {
+        "person_slug": "louis-musin",
+        "role_slug": "wunderland/frosch-lakai-die-falsche-schildkrote-tweedledee"
       },
       {
         "person_slug": "philip-feeney",
@@ -479,6 +531,10 @@
       {
         "person_slug": "vivien-arnold",
         "role_slug": "wunderland/scenario-und-dramaturgie"
+      },
+      {
+        "person_slug": "aleix-martinez",
+        "role_slug": "wunderland/wei-es-kaninchen-der-lowe"
       }
     ]
   },

@@ -51,6 +51,49 @@
     ]
   },
   {
+    "id": "nederlandse-reisopera/nederlandse-reisopera-impressions-de-pelleas",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "house_slug": "nederlandse-reisopera",
+    "is_revival": false,
+    "detail_url": "https://reisopera.nl/programma/impressions-de-pelleas",
+    "creative_team": [
+      {
+        "person_slug": "benjamin-perry-wenzelberg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "joe-hill-gibbins",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gosh-sargsyan-dnos",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/arkel"
+      },
+      {
+        "person_slug": "aike-nortier",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/genevieve"
+      },
+      {
+        "person_slug": "joe-chalmers-dnos-alumnus",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/golaud"
+      },
+      {
+        "person_slug": "annabel-soode-dnos",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/melisande"
+      },
+      {
+        "person_slug": "ismael-correa-dnos",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/pelleas"
+      },
+      {
+        "person_slug": "nn",
+        "role_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/yniold"
+      }
+    ]
+  },
+  {
     "id": "nederlandse-reisopera/nederlandse-reisopera-waiting-for-the-barbarians",
     "work_slug": "philip-glass/waiting-for-the-barbarians",
     "house_slug": "nederlandse-reisopera",

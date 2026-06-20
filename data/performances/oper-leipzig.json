@@ -140,6 +140,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/eurydike-795/2026-09-19/19:00",
+    "production_id": "oper-leipzig/eurydike-795",
+    "date": "2026-09-19",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/evita-728/2026-05-09/19:00",
     "production_id": "oper-leipzig/evita-728",
     "date": "2026-05-09",
@@ -375,6 +382,27 @@
     "production_id": "oper-leipzig/pique-dame-740",
     "date": "2026-06-28",
     "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2026-06-27/15:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2026-06-27",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2026-06-30/11:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2026-06-30",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2026-07-01/11:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2026-07-01",
+    "time": "11:00",
     "status": "scheduled"
   },
   {

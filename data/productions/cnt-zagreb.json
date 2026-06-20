@@ -208,6 +208,114 @@
     ]
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-ero-joker",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "house_slug": "cnt-zagreb",
+    "is_revival": false,
+    "detail_url": "https://www.hnk.hr/en/opera/plays/ero-joker/",
+    "image_url": "https://res.cloudinary.com/dg86xjjts/image/upload/f_auto,q_auto/v1645704300/no1mjanjhqre3bljh6wr",
+    "creative_team": [
+      {
+        "person_slug": "margareta-froman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "sonja-kastl",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "vatroslav-krcelic",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "luka-vuksic",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "robert-homen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "dzenisa-pecotic",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "inga-kostincer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kresimir-dolencic",
+        "function": "director"
+      },
+      {
+        "person_slug": "dalibor-laginja",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mario-bokun",
+        "role_slug": "jakov-gotovac/ero-the-joker/boy"
+      },
+      {
+        "person_slug": "dubravka-separovic-musovic",
+        "role_slug": "jakov-gotovac/ero-the-joker/doma"
+      },
+      {
+        "person_slug": "sofia-ameli-gojic",
+        "role_slug": "jakov-gotovac/ero-the-joker/doma"
+      },
+      {
+        "person_slug": "tamara-franetovic-felbinger",
+        "role_slug": "jakov-gotovac/ero-the-joker/doma"
+      },
+      {
+        "person_slug": "ivica-cikes",
+        "role_slug": "jakov-gotovac/ero-the-joker/master-marko"
+      },
+      {
+        "person_slug": "mate-akrap",
+        "role_slug": "jakov-gotovac/ero-the-joker/master-marko"
+      },
+      {
+        "person_slug": "sinisa-stork",
+        "role_slug": "jakov-gotovac/ero-the-joker/master-marko"
+      },
+      {
+        "person_slug": "domagoj-dorotic",
+        "role_slug": "jakov-gotovac/ero-the-joker/mica-ero-the-joker"
+      },
+      {
+        "person_slug": "martin-susnik",
+        "role_slug": "jakov-gotovac/ero-the-joker/mica-ero-the-joker"
+      },
+      {
+        "person_slug": "stjepan-franetovic",
+        "role_slug": "jakov-gotovac/ero-the-joker/mica-ero-the-joker"
+      },
+      {
+        "person_slug": "davor-nekjak",
+        "role_slug": "jakov-gotovac/ero-the-joker/miller-sima"
+      },
+      {
+        "person_slug": "ljubomir-puskaric",
+        "role_slug": "jakov-gotovac/ero-the-joker/miller-sima"
+      },
+      {
+        "person_slug": "marijeta-boskovic",
+        "role_slug": "jakov-gotovac/ero-the-joker/shepherdess"
+      },
+      {
+        "person_slug": "josipa-loncar",
+        "role_slug": "jakov-gotovac/ero-the-joker/ula"
+      },
+      {
+        "person_slug": "valentina-fijacko-kobic",
+        "role_slug": "jakov-gotovac/ero-the-joker/ula"
+      }
+    ]
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-gita-and-hidden-world",
     "work_slug": "borna-erceg/gita-and-the-hidden-world",
     "house_slug": "cnt-zagreb",

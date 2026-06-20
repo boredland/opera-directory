@@ -34,11 +34,52 @@
     "detail_url": "https://www.theateraachen.de/de/produktionen/don-carlo.html",
     "creative_team": [
       {
+        "person_slug": "levente-torok",
+        "function": "conductor"
+      },
+      {
         "person_slug": "elena-tzavara",
         "function": "director"
+      },
+      {
+        "person_slug": "yannik-funken",
+        "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "pawel-lawreszuk",
+        "role_slug": "giuseppe-verdi/don-carlo/ein-monch"
+      },
+      {
+        "person_slug": "larisa-akbari",
+        "role_slug": "giuseppe-verdi/don-carlo/elisabetta-von-valois"
+      },
+      {
+        "person_slug": "dmytro-trach",
+        "role_slug": "giuseppe-verdi/don-carlo/graf-von-lerma-ein-koniglicher-herold"
+      },
+      {
+        "person_slug": "ekaterina-spivakovskaia",
+        "role_slug": "giuseppe-verdi/don-carlo/grafin-von-aremberg"
+      },
+      {
+        "person_slug": "jelena-rakic",
+        "role_slug": "giuseppe-verdi/don-carlo/il-voce-del-ciel"
+      },
+      {
+        "person_slug": "irina-popova",
+        "role_slug": "giuseppe-verdi/don-carlo/prinzessin-eboli"
+      },
+      {
+        "person_slug": "jorge-ruvalcaba",
+        "role_slug": "giuseppe-verdi/don-carlo/rodrigo-marquis-von-posa"
+      },
+      {
+        "person_slug": "fleur-franssen",
+        "role_slug": "giuseppe-verdi/don-carlo/tebaldo"
+      }
+    ]
   },
   {
     "id": "theater-aachen/don-giovanni",
@@ -486,6 +527,10 @@
     "cast": [
       {
         "person_slug": "anastasia-patsakidou",
+        "role_slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa"
+      },
+      {
+        "person_slug": "fleur-franssen",
         "role_slug": "giacomo-puccini-aus-il-trittico/suor-angelica/suor-genovieffa"
       }
     ]

@@ -7,6 +7,20 @@
     "status": "scheduled"
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-aida/2026-09-24/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-aida",
+    "date": "2026-09-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-aida/2026-09-26/18:00",
+    "production_id": "cnt-zagreb/cnt-zagreb-aida",
+    "date": "2026-09-26",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-barber-seville/2026-06-25/19:30",
     "production_id": "cnt-zagreb/cnt-zagreb-barber-seville",
     "date": "2026-06-25",
@@ -24,6 +38,13 @@
     "id": "cnt-zagreb/cnt-zagreb-barber-seville/2026-06-29/19:30",
     "production_id": "cnt-zagreb/cnt-zagreb-barber-seville",
     "date": "2026-06-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-ero-joker/2026-10-01/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-ero-joker",
+    "date": "2026-10-01",
     "time": "19:30",
     "status": "scheduled"
   },
@@ -74,6 +95,13 @@
     "production_id": "cnt-zagreb/cnt-zagreb-rusalka",
     "date": "2026-06-13",
     "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-stanac/2026-09-03/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-stanac",
+    "date": "2026-09-03",
+    "time": "19:30",
     "status": "scheduled"
   }
 ]

@@ -90,10 +90,28 @@
     "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066784&style=theaterkoblenz"
   },
   {
+    "id": "theater-koblenz/fidelio/2026-06-21/20:00",
+    "production_id": "theater-koblenz/fidelio",
+    "date": "2026-06-21",
+    "time": "20:00",
+    "venue_room": "Theaterzelt",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066784&style=theaterkoblenz"
+  },
+  {
     "id": "theater-koblenz/fidelio/2026-06-23/19:00",
     "production_id": "theater-koblenz/fidelio",
     "date": "2026-06-23",
     "time": "19:00",
+    "venue_room": "Theaterzelt",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066785&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/fidelio/2026-06-23/20:00",
+    "production_id": "theater-koblenz/fidelio",
+    "date": "2026-06-23",
+    "time": "20:00",
     "venue_room": "Theaterzelt",
     "status": "scheduled",
     "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066785&style=theaterkoblenz"
@@ -108,6 +126,15 @@
     "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066786&style=theaterkoblenz"
   },
   {
+    "id": "theater-koblenz/fidelio/2026-06-25/20:00",
+    "production_id": "theater-koblenz/fidelio",
+    "date": "2026-06-25",
+    "time": "20:00",
+    "venue_room": "Theaterzelt",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066786&style=theaterkoblenz"
+  },
+  {
     "id": "theater-koblenz/fidelio/2026-06-27/19:00",
     "production_id": "theater-koblenz/fidelio",
     "date": "2026-06-27",
@@ -117,10 +144,28 @@
     "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066787&style=theaterkoblenz"
   },
   {
+    "id": "theater-koblenz/fidelio/2026-06-27/20:00",
+    "production_id": "theater-koblenz/fidelio",
+    "date": "2026-06-27",
+    "time": "20:00",
+    "venue_room": "Theaterzelt",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066787&style=theaterkoblenz"
+  },
+  {
     "id": "theater-koblenz/fidelio/2026-06-28/18:00",
     "production_id": "theater-koblenz/fidelio",
     "date": "2026-06-28",
     "time": "18:00",
+    "venue_room": "Theaterzelt",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066788&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/fidelio/2026-06-28/20:00",
+    "production_id": "theater-koblenz/fidelio",
+    "date": "2026-06-28",
+    "time": "20:00",
     "venue_room": "Theaterzelt",
     "status": "scheduled",
     "ticket_url": "https://ticket-regional.de/stage_6455.php?eventtimeID=1066788&style=theaterkoblenz"

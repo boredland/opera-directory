@@ -830,6 +830,16 @@
     "name": "Peter der Erste / Peter Michaelow"
   },
   {
+    "slug": "albert-lortzing/zar-und-zimmermann/peter-der-erste-peter-michaelow-gesang",
+    "work_slug": "albert-lortzing/zar-und-zimmermann",
+    "name": "Peter der Erste / Peter Michaelow (Gesang)"
+  },
+  {
+    "slug": "albert-lortzing/zar-und-zimmermann/peter-der-erste-peter-michaelow-szenisch",
+    "work_slug": "albert-lortzing/zar-und-zimmermann",
+    "name": "Peter der Erste / Peter Michaelow (szenisch)"
+  },
+  {
     "slug": "albert-lortzing/zar-und-zimmermann/peter-iwanow",
     "work_slug": "albert-lortzing/zar-und-zimmermann",
     "name": "Peter Iwanow"
@@ -963,6 +973,11 @@
     "slug": "alessandro-scarlatti/kain-und-abel/orchester",
     "work_slug": "alessandro-scarlatti/kain-und-abel",
     "name": "Orchester"
+  },
+  {
+    "slug": "alessandro-scarlatti/kain-und-abel/szenische-einstudierung",
+    "work_slug": "alessandro-scarlatti/kain-und-abel",
+    "name": "Szenische Einstudierung"
   },
   {
     "slug": "alessandro-scarlatti/kain-und-abel/teufel",
@@ -1910,6 +1925,11 @@
     "name": "Second Wood Sprite"
   },
   {
+    "slug": "antonin-dvorak/rusalka/szenische-einstudierung",
+    "work_slug": "antonin-dvorak/rusalka",
+    "name": "Szenische Einstudierung"
+  },
+  {
     "slug": "antonin-dvorak/rusalka/the-cook",
     "work_slug": "antonin-dvorak/rusalka",
     "name": "The Cook"
@@ -2723,6 +2743,11 @@
     "slug": "bedrich-smetana/die-verkaufte-braut/orchester",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "name": "Orchester"
+  },
+  {
+    "slug": "bedrich-smetana/die-verkaufte-braut/szenische-einstudierung",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "name": "Szenische Einstudierung"
   },
   {
     "slug": "bedrich-smetana/die-verkaufte-braut/vasek",
@@ -5600,6 +5625,36 @@
     "name": "Violoncelle"
   },
   {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/arkel",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Arkel"
+  },
+  {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/genevieve",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Geneviève"
+  },
+  {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/golaud",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Golaud"
+  },
+  {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/melisande",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Mélisande"
+  },
+  {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/pelleas",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Pelléas"
+  },
+  {
+    "slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas/yniold",
+    "work_slug": "claude-debussy-1902-marius-constant-1992/impressions-de-pelleas",
+    "name": "Yniold"
+  },
+  {
     "slug": "claude-debussy/l-enfant-prodigue-la-damoiselle-elue-sardanapalo/azael",
     "work_slug": "claude-debussy/l-enfant-prodigue-la-damoiselle-elue-sardanapalo",
     "name": "Azaël"
@@ -5800,6 +5855,11 @@
     "name": "Amore / Valetto"
   },
   {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea/anpassung-lichtkonzept",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea",
+    "name": "Anpassung Lichtkonzept"
+  },
+  {
     "slug": "claudio-monteverdi/die-kronung-der-poppea/arnalta-nutrice-famigliare-i-damigella",
     "work_slug": "claudio-monteverdi/die-kronung-der-poppea",
     "name": "Arnalta / Nutrice / Famigliare I / Damigella"
@@ -5853,6 +5913,11 @@
     "slug": "claudio-monteverdi/die-kronung-der-poppea/seneca",
     "work_slug": "claudio-monteverdi/die-kronung-der-poppea",
     "name": "Seneca"
+  },
+  {
+    "slug": "claudio-monteverdi/die-kronung-der-poppea/szenische-einstudierung",
+    "work_slug": "claudio-monteverdi/die-kronung-der-poppea",
+    "name": "Szenische Einstudierung"
   },
   {
     "slug": "claudio-monteverdi/die-kronung-der-poppea/virtu-ottavia",
@@ -18985,6 +19050,11 @@
     "name": "Elisabetta"
   },
   {
+    "slug": "giuseppe-verdi/don-carlo/elisabetta-von-valois",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "name": "Elisabetta von Valois"
+  },
+  {
     "slug": "giuseppe-verdi/don-carlo/filippo-ii-king-of-spain",
     "work_slug": "giuseppe-verdi/don-carlo",
     "name": "Filippo II, King of Spain"
@@ -19000,9 +19070,24 @@
     "name": "Graf Lerma, Ein Herold"
   },
   {
+    "slug": "giuseppe-verdi/don-carlo/graf-von-lerma-ein-koniglicher-herold",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "name": "Graf von Lerma / Ein königlicher Herold"
+  },
+  {
     "slug": "giuseppe-verdi/don-carlo/graf-von-lerma-herold",
     "work_slug": "giuseppe-verdi/don-carlo",
     "name": "Graf von Lerma/Herold"
+  },
+  {
+    "slug": "giuseppe-verdi/don-carlo/grafin-von-aremberg",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "name": "Gräfin von Aremberg"
+  },
+  {
+    "slug": "giuseppe-verdi/don-carlo/il-voce-del-ciel",
+    "work_slug": "giuseppe-verdi/don-carlo",
+    "name": "Il voce del ciel"
   },
   {
     "slug": "giuseppe-verdi/don-carlo/libtertto",
@@ -20455,9 +20540,19 @@
     "name": "Suivante de Lady Macbeth"
   },
   {
+    "slug": "giuseppe-verdi/macbeth/szenische-einstudierung",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "szenische Einstudierung"
+  },
+  {
     "slug": "giuseppe-verdi/macbeth/the-guardian-of-dreams",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "The Guardian of Dreams"
+  },
+  {
+    "slug": "giuseppe-verdi/macbeth/un-araldo",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Un araldo"
   },
   {
     "slug": "giuseppe-verdi/macbeth/un-domestico",
@@ -20468,6 +20563,16 @@
     "slug": "giuseppe-verdi/macbeth/un-medecin-un-heraut-un-domestique-une-apparition",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "Un Médecin / Un Héraut / Un Domestique / Une Apparition"
+  },
+  {
+    "slug": "giuseppe-verdi/macbeth/un-medico",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Un medico"
+  },
+  {
+    "slug": "giuseppe-verdi/macbeth/un-sicario",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Un sicario"
   },
   {
     "slug": "giuseppe-verdi/macbeth/witches",
@@ -23985,6 +24090,11 @@
     "name": "Stimme der Mutter"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/szenische-einstudierung",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Szenische Einstudierung"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Wilhelm"
@@ -24723,6 +24833,41 @@
     "slug": "jake-heggie/dead-man-walking/younger-brother",
     "work_slug": "jake-heggie/dead-man-walking",
     "name": "Younger Brother"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/boy",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Boy"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/doma",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Doma"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/master-marko",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Master Marko"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/mica-ero-the-joker",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Mića / Ero the Joker"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/miller-sima",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Miller Sima"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/shepherdess",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Shepherdess"
+  },
+  {
+    "slug": "jakov-gotovac/ero-the-joker/ula",
+    "work_slug": "jakov-gotovac/ero-the-joker",
+    "name": "Đula"
   },
   {
     "slug": "jakov-gotovac/stanac/dancers",
@@ -26513,6 +26658,31 @@
     "slug": "john-cranko/onegin/choreografie-inszenierung",
     "work_slug": "john-cranko/onegin",
     "name": "Choreografie & Inszenierung"
+  },
+  {
+    "slug": "john-cranko/onegin/lenski",
+    "work_slug": "john-cranko/onegin",
+    "name": "Lenski"
+  },
+  {
+    "slug": "john-cranko/onegin/olga",
+    "work_slug": "john-cranko/onegin",
+    "name": "Olga"
+  },
+  {
+    "slug": "john-cranko/onegin/onegin",
+    "work_slug": "john-cranko/onegin",
+    "name": "Onegin"
+  },
+  {
+    "slug": "john-cranko/onegin/prinz-gremin",
+    "work_slug": "john-cranko/onegin",
+    "name": "Prinz Gremin"
+  },
+  {
+    "slug": "john-cranko/onegin/tatjana",
+    "work_slug": "john-cranko/onegin",
+    "name": "Tatjana"
   },
   {
     "slug": "john-h-ybye/die-kleine-meerjungfrau/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester",
@@ -32025,14 +32195,29 @@
     "name": "Dankbarkeit"
   },
   {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/die-hoteldirektorin",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Die Hoteldirektorin"
+  },
+  {
     "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude",
     "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "name": "Freude"
   },
   {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude-mitgefuhl-innerer-frieden",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Freude / Mitgefühl / Innerer Frieden"
+  },
+  {
     "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin",
     "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "name": "Hoteldirektorin"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/neugier-dankbarkeit",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Neugier / Dankbarkeit"
   },
   {
     "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/orchester",
@@ -32045,9 +32230,19 @@
     "name": "Traurigkeit"
   },
   {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit-ubermut-angst",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Traurigkeit / Übermut / Angst"
+  },
+  {
     "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut",
     "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
     "name": "Wut"
+  },
+  {
+    "slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut-liebe",
+    "work_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle",
+    "name": "Wut / Liebe"
   },
   {
     "slug": "mittsommerfeier-im-venezianischen-stil/maskenball/mond",
@@ -34938,6 +35133,21 @@
     "slug": "piotr-iljic-cajkovskij/eugene-onegin/zareckij",
     "work_slug": "piotr-iljic-cajkovskij/eugene-onegin",
     "name": "Zareckij"
+  },
+  {
+    "slug": "pit-und-paula-frisch-versalzen/kinder-und-jugendchor",
+    "work_slug": "pit-und-paula-frisch-versalzen",
+    "name": "Kinder- und Jugendchor"
+  },
+  {
+    "slug": "pit-und-paula-frisch-versalzen/orchester",
+    "work_slug": "pit-und-paula-frisch-versalzen",
+    "name": "Orchester"
+  },
+  {
+    "slug": "pit-und-paula-frisch-versalzen/piano",
+    "work_slug": "pit-und-paula-frisch-versalzen",
+    "name": "Piano"
   },
   {
     "slug": "pjotr-iljitsch-tschaikowski/eugen-onegin/das-kind-tatjana",
@@ -44965,6 +45175,11 @@
     "name": "Studienleitung"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/szenische-einstudierung",
+    "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
+    "name": "Szenische Einstudierung"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/vermittlung",
     "work_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte",
     "name": "Vermittlung"
@@ -45503,6 +45718,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher-zweiter-priester-zweiter-geharnischter",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Sprecher / Zweiter Priester / Zweiter Geharnischter"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/szenische-einstudierung",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Szenische Einstudierung"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino",
@@ -46790,6 +47010,16 @@
     "name": "Violoncello"
   },
   {
+    "slug": "wunderland/alice",
+    "work_slug": "wunderland",
+    "name": "Alice"
+  },
+  {
+    "slug": "wunderland/alices-schwester-die-herzogin",
+    "work_slug": "wunderland",
+    "name": "Alices Schwester / Die Herzogin"
+  },
+  {
     "slug": "wunderland/choreografie-und-inszenierung",
     "work_slug": "wunderland",
     "name": "Choreografie und Inszenierung"
@@ -46800,9 +47030,64 @@
     "name": "Choreografische Assistenz"
   },
   {
+    "slug": "wunderland/der-herzbube-die-mucke-der-rote-ritter",
+    "work_slug": "wunderland",
+    "name": "Der Herzbube / Die Mücke / Der Rote Ritter"
+  },
+  {
+    "slug": "wunderland/der-herzkonig-der-wei-e-konig",
+    "work_slug": "wunderland",
+    "name": "Der Herzkönig / Der Weiße König"
+  },
+  {
+    "slug": "wunderland/der-hutmacher-hatta",
+    "work_slug": "wunderland",
+    "name": "Der Hutmacher / Hatta"
+  },
+  {
+    "slug": "wunderland/der-marzhase-haigha",
+    "work_slug": "wunderland",
+    "name": "Der Märzhase / Haigha"
+  },
+  {
+    "slug": "wunderland/die-grinse-katze-der-wei-e-ritter",
+    "work_slug": "wunderland",
+    "name": "Die Grinse-Katze / Der Weiße Ritter"
+  },
+  {
+    "slug": "wunderland/die-haselmaus-die-wei-e-konigin",
+    "work_slug": "wunderland",
+    "name": "Die Haselmaus / Die Weiße Königin"
+  },
+  {
+    "slug": "wunderland/die-herzkonigin-die-rote-konigin",
+    "work_slug": "wunderland",
+    "name": "Die Herzkönigin / Die Rote Königin"
+  },
+  {
+    "slug": "wunderland/die-raupe-der-henker-humpty-dumpty",
+    "work_slug": "wunderland",
+    "name": "Die Raupe / Der Henker / Humpty Dumpty"
+  },
+  {
+    "slug": "wunderland/die-taube-das-einhorn",
+    "work_slug": "wunderland",
+    "name": "Die Taube / Das Einhorn"
+  },
+  {
     "slug": "wunderland/ensemble",
     "work_slug": "wunderland",
     "name": "Ensemble"
+  },
+  {
+    "slug": "wunderland/fisch-lakai-der-greif-tweedledum",
+    "work_slug": "wunderland",
+    "name": "Fisch-Lakai / Der Greif / Tweedledum"
+  },
+  {
+    "slug": "wunderland/frosch-lakai-die-falsche-schildkrote-tweedledee",
+    "work_slug": "wunderland",
+    "name": "Frosch-Lakai / Die Falsche Schildkröte / Tweedledee"
   },
   {
     "slug": "wunderland/musik-arrangiert-und-orchestriert-von",
@@ -46823,6 +47108,11 @@
     "slug": "wunderland/scenario-und-dramaturgie",
     "work_slug": "wunderland",
     "name": "Scenario und Dramaturgie"
+  },
+  {
+    "slug": "wunderland/wei-es-kaninchen-der-lowe",
+    "work_slug": "wunderland",
+    "name": "Weißes Kaninchen / Der Löwe"
   },
   {
     "slug": "xavier-montsalvatge/el-gato-con-botas-puss-in-boots/el-gato-con-botas",

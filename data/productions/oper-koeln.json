@@ -126,6 +126,14 @@
       {
         "person_slug": "gurzenich-orchester-koln",
         "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/orchester"
+      },
+      {
+        "person_slug": "statisterie-der-oper-koln",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/statisterie"
+      },
+      {
+        "person_slug": "sascha-krohn",
+        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/szenische-einstudierung"
       }
     ]
   },
@@ -163,28 +171,28 @@
     ],
     "cast": [
       {
-        "person_slug": "frederik-schauhoff",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
-      },
-      {
-        "person_slug": "tobias-lusser",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/dankbarkeit"
-      },
-      {
-        "person_slug": "elena-plaza-cebrian",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
-      },
-      {
-        "person_slug": "laura-kriese",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude"
-      },
-      {
         "person_slug": "elisabeth-freyhoff",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/die-hoteldirektorin"
       },
       {
         "person_slug": "maike-raschke",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/hoteldirektorin"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/die-hoteldirektorin"
+      },
+      {
+        "person_slug": "elena-plaza-cebrian",
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude-mitgefuhl-innerer-frieden"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/freude-mitgefuhl-innerer-frieden"
+      },
+      {
+        "person_slug": "frederik-schauhoff",
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/neugier-dankbarkeit"
+      },
+      {
+        "person_slug": "tobias-lusser",
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/neugier-dankbarkeit"
       },
       {
         "person_slug": "gurzenich-orchester-koln",
@@ -192,19 +200,19 @@
       },
       {
         "person_slug": "shunyao-li",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit-ubermut-angst"
       },
       {
         "person_slug": "wesley-harrison",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/traurigkeit-ubermut-angst"
       },
       {
         "person_slug": "alina-konig-rannenberg",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut-liebe"
       },
       {
         "person_slug": "lana-sophie-westendorf",
-        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut"
+        "role_slug": "mit-musik-von-bizet-verdi-mozart-rossini-ravel-u-a/das-grand-hotel-der-gefuhle/wut-liebe"
       }
     ]
   },
@@ -505,6 +513,10 @@
         "role_slug": "claudio-monteverdi/die-kronung-der-poppea/amore-valetto"
       },
       {
+        "person_slug": "laurent-irsuti",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/anpassung-lichtkonzept"
+      },
+      {
         "person_slug": "john-heuzenroeder",
         "role_slug": "claudio-monteverdi/die-kronung-der-poppea/arnalta-nutrice-famigliare-i-damigella"
       },
@@ -547,6 +559,10 @@
       {
         "person_slug": "lucas-singer",
         "role_slug": "claudio-monteverdi/die-kronung-der-poppea/seneca"
+      },
+      {
+        "person_slug": "eike-ecker",
+        "role_slug": "claudio-monteverdi/die-kronung-der-poppea/szenische-einstudierung"
       },
       {
         "person_slug": "adriana-bastidas-gamboa",
@@ -735,6 +751,10 @@
         "role_slug": "bedrich-smetana/die-verkaufte-braut/orchester"
       },
       {
+        "person_slug": "luc-birraux",
+        "role_slug": "bedrich-smetana/die-verkaufte-braut/szenische-einstudierung"
+      },
+      {
         "person_slug": "dmitry-ivanchey",
         "role_slug": "bedrich-smetana/die-verkaufte-braut/wenzel"
       },
@@ -848,6 +868,10 @@
       {
         "person_slug": "matthias-hoffmann",
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher-1-priester"
+      },
+      {
+        "person_slug": "johanna-mergener",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/szenische-einstudierung"
       },
       {
         "person_slug": "kieran-carrel",
@@ -1166,6 +1190,10 @@
       {
         "person_slug": "christof-hetzer",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "fettfilm-momme-hinrichs-torge-m-ller",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -1212,6 +1240,10 @@
       {
         "person_slug": "martin-koch",
         "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/spalanzani"
+      },
+      {
+        "person_slug": "steven-whiting",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/szenische-einstudierung"
       },
       {
         "person_slug": "ferhat-baday",
@@ -1287,6 +1319,10 @@
       {
         "person_slug": "gurzenich-orchester-koln",
         "role_slug": "alessandro-scarlatti/kain-und-abel/orchester"
+      },
+      {
+        "person_slug": "carolin-steffen-maa",
+        "role_slug": "alessandro-scarlatti/kain-und-abel/szenische-einstudierung"
       },
       {
         "person_slug": "baurzhan-anderzhanov",
@@ -1450,6 +1486,10 @@
       {
         "person_slug": "gurzenich-orchester-koln",
         "role_slug": "giuseppe-verdi/macbeth/orchester"
+      },
+      {
+        "person_slug": "tamara-heimbrock",
+        "role_slug": "giuseppe-verdi/macbeth/szenische-einstudierung"
       }
     ]
   },
@@ -1495,6 +1535,10 @@
       {
         "person_slug": "frank-philipp-schlo-mann",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "philipp-contag-lada",
+        "function": "video-designer"
       }
     ],
     "cast": [
@@ -2006,6 +2050,10 @@
       {
         "person_slug": "jessica-muirhead",
         "role_slug": "antonin-dvorak/rusalka/rusalka"
+      },
+      {
+        "person_slug": "eike-ecker",
+        "role_slug": "antonin-dvorak/rusalka/szenische-einstudierung"
       }
     ]
   },

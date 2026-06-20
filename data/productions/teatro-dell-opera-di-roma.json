@@ -1728,6 +1728,42 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/iphigenie-en-tauride/2026-27",
+    "work_slug": "christoph-willibald-gluck/iphigenie-en-tauride",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/iphigenie-en-tauride/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/themes/operaroma/core/images/logo.png",
+    "creative_team": [
+      {
+        "person_slug": "philippe-giraudeau",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alessandro-de-marchi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "robert-carsen",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-carsen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "tobias-hoheisel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/iris/1898-99",
     "work_slug": "pietro-mascagni/iris",
     "house_slug": "teatro-dell-opera-di-roma",
