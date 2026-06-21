@@ -49,7 +49,7 @@
     "work_slug": "lisett-ansorge/die-kinder-des-monsieur-mathieu",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/die-kinder-des-monsieur-mathieu/263906",
+    "detail_url": "https://www.buehnen-halle.de/de/program/die-kinder-des-monsieur-mathieu/263898",
     "creative_team": [],
     "cast": []
   },
@@ -67,7 +67,16 @@
     "work_slug": "frank-schwemmer/kuchenoper",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/kuchenoper/260955",
+    "detail_url": "https://www.buehnen-halle.de/de/program/kuchenoper/274137",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/luca-und-sam",
+    "work_slug": "luca-und-sam",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/luca-und-sam/277556",
     "creative_team": [],
     "cast": []
   },
@@ -95,6 +104,15 @@
     "house_slug": "oper-halle",
     "is_revival": false,
     "detail_url": "https://www.buehnen-halle.de/de/program/madama-butterfly/249452",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/nachtcafe",
+    "work_slug": "nachtcafe",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/nachtcafe/276642",
     "creative_team": [],
     "cast": []
   },

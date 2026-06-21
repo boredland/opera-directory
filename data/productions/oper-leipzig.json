@@ -1,5 +1,14 @@
 [
   {
+    "id": "oper-leipzig/absacker-deluxe-696",
+    "work_slug": "absacker-deluxe",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/absacker-deluxe/696",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-leipzig/abschlusskonzert-stadtfest-5",
     "work_slug": "mit-dem-ensemble-ballett-und-orchester-der-musikalischen-komodie/abschlusskonzert-stadtfest",
     "house_slug": "oper-leipzig",
@@ -1347,6 +1356,145 @@
       {
         "person_slug": "sebastian-weber",
         "role_slug": "strangers-in-the-night/steppchoreografie"
+      }
+    ]
+  },
+  {
+    "id": "oper-leipzig/the-producers-676",
+    "work_slug": "ein-mel-brooks-musical/the-producers",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/the-producers/676",
+    "creative_team": [
+      {
+        "person_slug": "mirko-mahr",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-der-musikalischen-komodie",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mathias-drechsler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-johannes-eichhorn",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uschi-haug",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dominik-wilgenbus",
+        "function": "director"
+      },
+      {
+        "person_slug": "emilia-ebert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "inken-meents",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "peter-engel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ballett-der-musikalischen-komodie",
+        "role_slug": "ein-mel-brooks-musical/the-producers/ballett"
+      },
+      {
+        "person_slug": "jeffery-krueger",
+        "role_slug": "ein-mel-brooks-musical/the-producers/carmen-ghia"
+      },
+      {
+        "person_slug": "martina-muhlnikel",
+        "role_slug": "ein-mel-brooks-musical/the-producers/chaplin"
+      },
+      {
+        "person_slug": "sabine-topfer",
+        "role_slug": "ein-mel-brooks-musical/the-producers/churchill"
+      },
+      {
+        "person_slug": "michael-raschle",
+        "role_slug": "ein-mel-brooks-musical/the-producers/franz-liebkind"
+      },
+      {
+        "person_slug": "carolin-masur",
+        "role_slug": "ein-mel-brooks-musical/the-producers/grabsch-mich-tatsch-mich"
+      },
+      {
+        "person_slug": "martina-muhlnikel",
+        "role_slug": "ein-mel-brooks-musical/the-producers/kuss-mich-spur-mich"
+      },
+      {
+        "person_slug": "amy",
+        "role_slug": "ein-mel-brooks-musical/the-producers/leo-bloom"
+      },
+      {
+        "person_slug": "johann-zumbult",
+        "role_slug": "ein-mel-brooks-musical/the-producers/leo-bloom"
+      },
+      {
+        "person_slug": "patrick-imhof",
+        "role_slug": "ein-mel-brooks-musical/the-producers/max-bialystock"
+      },
+      {
+        "person_slug": "patrick-rohbeck",
+        "role_slug": "ein-mel-brooks-musical/the-producers/max-bialystock"
+      },
+      {
+        "person_slug": "sabine-topfer",
+        "role_slug": "ein-mel-brooks-musical/the-producers/mister-marks"
+      },
+      {
+        "person_slug": "sabine-topfer",
+        "role_slug": "ein-mel-brooks-musical/the-producers/officer-rosenbaum"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "ein-mel-brooks-musical/the-producers/orchester"
+      },
+      {
+        "person_slug": "carolin-masur",
+        "role_slug": "ein-mel-brooks-musical/the-producers/richter"
+      },
+      {
+        "person_slug": "andreas-rainer",
+        "role_slug": "ein-mel-brooks-musical/the-producers/roger-de-bris"
+      },
+      {
+        "person_slug": "carolin-masur",
+        "role_slug": "ein-mel-brooks-musical/the-producers/stalin"
+      },
+      {
+        "person_slug": "illia-bukharov",
+        "role_slug": "ein-mel-brooks-musical/the-producers/steppchoreografie"
+      },
+      {
+        "person_slug": "sabine-topfer",
+        "role_slug": "ein-mel-brooks-musical/the-producers/sto-mich-kos-mich"
+      },
+      {
+        "person_slug": "emanuel-jessel",
+        "role_slug": "ein-mel-brooks-musical/the-producers/sturmtruppenmann"
+      },
+      {
+        "person_slug": "olivia-delaure",
+        "role_slug": "ein-mel-brooks-musical/the-producers/ulla"
+      },
+      {
+        "person_slug": "extrachor",
+        "role_slug": "ein-mel-brooks-musical/the-producers/zusatzchor"
       }
     ]
   },

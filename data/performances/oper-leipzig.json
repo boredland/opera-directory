@@ -1,5 +1,26 @@
 [
   {
+    "id": "oper-leipzig/absacker-deluxe-696/2026-06-27/22:15",
+    "production_id": "oper-leipzig/absacker-deluxe-696",
+    "date": "2026-06-27",
+    "time": "22:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/absacker-deluxe-696/2026-10-30/22:00",
+    "production_id": "oper-leipzig/absacker-deluxe-696",
+    "date": "2026-10-30",
+    "time": "22:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/absacker-deluxe-696/2027-04-30/22:00",
+    "production_id": "oper-leipzig/absacker-deluxe-696",
+    "date": "2027-04-30",
+    "time": "22:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/abschlusskonzert-stadtfest-5/2026-06-07/15:00",
     "production_id": "oper-leipzig/abschlusskonzert-stadtfest-5",
     "date": "2026-06-07",
@@ -350,6 +371,13 @@
     "status": "past"
   },
   {
+    "id": "oper-leipzig/me-and-my-girl-521/2026-05-24/15:00",
+    "production_id": "oper-leipzig/me-and-my-girl-521",
+    "date": "2026-05-24",
+    "time": "15:00",
+    "status": "past"
+  },
+  {
     "id": "oper-leipzig/me-and-my-girl-521/2026-06-20/19:00",
     "production_id": "oper-leipzig/me-and-my-girl-521",
     "date": "2026-06-20",
@@ -466,6 +494,27 @@
     "production_id": "oper-leipzig/strangers-in-the-night-788",
     "date": "2026-07-01",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/the-producers-676/2026-06-27/19:00",
+    "production_id": "oper-leipzig/the-producers-676",
+    "date": "2026-06-27",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/the-producers-676/2026-06-28/15:00",
+    "production_id": "oper-leipzig/the-producers-676",
+    "date": "2026-06-28",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/the-producers-676/2027-04-24/19:00",
+    "production_id": "oper-leipzig/the-producers-676",
+    "date": "2027-04-24",
+    "time": "19:00",
     "status": "scheduled"
   },
   {

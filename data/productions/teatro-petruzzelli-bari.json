@@ -11,6 +11,34 @@
     "cast": []
   },
   {
+    "id": "teatro-petruzzelli-bari/arlecchino-di-ferruccio-busoni/2027",
+    "work_slug": "ferruccio-busoni/arlecchino-di-ferruccio-busoni",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/arlecchino-di-ferruccio-busoni-15-18-21-23-maggio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2026/06/2027-Copertina-Opera.png",
+    "creative_team": [
+      {
+        "person_slug": "matteo-dal-maso",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franca-squarciapino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "mariano-dammacco",
+        "function": "director"
+      },
+      {
+        "person_slug": "angelo-linzalata",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-petruzzelli-bari/ascesa-e-caduta-della-citta-di-mahagonny/2025",
     "work_slug": "weill-brecht/ascesa-e-caduta-della-citta-di-mahagonny",
     "house_slug": "teatro-petruzzelli-bari",
@@ -613,6 +641,74 @@
     "cast": []
   },
   {
+    "id": "teatro-petruzzelli-bari/le-nozze-di-figaro-di-wolfgang-amadeus-mozart/2027",
+    "work_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro-di-wolfgang-amadeus-mozart",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/le-nozze-di-figaro-di-wolfgang-amadeus-mozart-12-19-settembre/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2026/06/2027-Copertina-Opera.png",
+    "creative_team": [
+      {
+        "person_slug": "nicolo-umberto-foron",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maurizio-millenotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "luca-de-fusco",
+        "function": "director"
+      },
+      {
+        "person_slug": "maria-crisolini-malatesta",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/lo-schiaccianoci-di-petr-il-ic-cajkovskij/2027",
+    "work_slug": "petr-il-ic-cajkovskij/lo-schiaccianoci-di-petr-il-ic-cajkovskij",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/lo-schiaccianoci-di-petr-ilic-cajkovskij-11-14-febbraio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2026/06/2027-Copertina-Opera.png",
+    "creative_team": [
+      {
+        "person_slug": "aleksej-fadeecev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "nina-ananiashvili",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "tatiana-rastorgueva-ekaterine-shavliaschili",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "papuna-ghvaberidze",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ana-kalatozishvili",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "virginio-levrio",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "david-popiashvili",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-petruzzelli-bari/madama-butterfly/2024",
     "work_slug": "giacomo-puccini/madama-butterfly",
     "house_slug": "teatro-petruzzelli-bari",
@@ -681,6 +777,42 @@
     "is_revival": false,
     "detail_url": "https://www.wikidata.org/wiki/Q109242783",
     "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/nabucco-di-giuseppe-verdi/2027",
+    "work_slug": "giuseppe-verdi/nabucco-di-giuseppe-verdi",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/nabucco-di-giuseppe-verdi-12-19-marzo/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2026/06/2027-Copertina-Opera.png",
+    "creative_team": [
+      {
+        "person_slug": "manuela-lo-sicco",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "carlo-rizzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vanessa-sannino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "emma-dante",
+        "function": "director"
+      },
+      {
+        "person_slug": "cristian-zucaro",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "carmine-maringola",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -839,6 +971,38 @@
       {
         "person_slug": "valerio-alfieri",
         "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-petruzzelli-bari/zenobia-di-niccolo-piccinni/2027",
+    "work_slug": "niccolo-piccinni/zenobia-di-niccolo-piccinni",
+    "house_slug": "teatro-petruzzelli-bari",
+    "premiere_season": "2027",
+    "is_revival": false,
+    "detail_url": "https://www.fondazionepetruzzelli.it/eventi/zenobia-di-niccolo-piccinni-27-29-31-gennaio-2-febbraio/",
+    "image_url": "https://www.fondazionepetruzzelli.it/wp-content/uploads/2026/06/2027-Copertina-Opera.png",
+    "creative_team": [
+      {
+        "person_slug": "federico-maria-sardelli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "massimo-cantini-parrini",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-luchetti",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alessandro-camera",
+        "function": "set-designer"
       }
     ],
     "cast": []

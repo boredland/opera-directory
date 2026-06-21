@@ -486,6 +486,12 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/brueche/2026-06-20/",
+    "production_id": "oper-frankfurt/brueche",
+    "date": "2026-06-20",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/brueche/2026-06-20/15:30",
     "production_id": "oper-frankfurt/brueche",
     "date": "2026-06-20",
@@ -740,6 +746,12 @@
     "time": "19:00",
     "venue_room": "Bockenheimer Depot",
     "status": "few_left"
+  },
+  {
+    "id": "oper-frankfurt/der-triumph/2026-06-20/",
+    "production_id": "oper-frankfurt/der-triumph",
+    "date": "2026-06-20",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/der-triumph/2026-06-20/19:00",
@@ -2158,6 +2170,12 @@
     "status": "past"
   },
   {
+    "id": "oper-frankfurt/oper-im-dialog-2/2026-06-20/",
+    "production_id": "oper-frankfurt/oper-im-dialog-2",
+    "date": "2026-06-20",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/oper-im-dialog-2/2026-06-20/21:15",
     "production_id": "oper-frankfurt/oper-im-dialog-2",
     "date": "2026-06-20",
@@ -2910,6 +2928,12 @@
     "time": "19:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/tancredi/2026-06-20/",
+    "production_id": "oper-frankfurt/tancredi",
+    "date": "2026-06-20",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/tancredi/2026-06-20/19:00",

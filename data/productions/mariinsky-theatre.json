@@ -1693,7 +1693,7 @@
     "premiere_date": "2015-05-27",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/17/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/_banner.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/borodina_pikovay_dama_by_vilchuk.jpg",
     "synopsis": "Act I Scene One The Summer Garden in springtime. Two officers, Chekalinsky and Surin, are concerned about the fortunes of their friend Herman, who visits gambling halls every evening, despite the fact that he does not play because he is so poor. Herman turns up, accompanied by Count Tomsky, to whom he explains the reason for his strange behaviour: he is in love with a girl to whom he has not yet been introduced, and wants to win a large sum of money in order to marry her (“I do not know her name”). Chekalinsky and Surin congratulate the Prince Yeletsky on his forthcoming marriage. An old Countess is walking in the garden with the very girl whom Herman loves. Upon finding out that she is the Prince&acute;s fiancée, he is deeply shaken. The women are frightened by his appearance (“I&acute;m frightened”). Tomsky tells the story of the old Countess&acute; past in Paris. Count Saint-Germain showed her three winning cards. The officers laugh at Herman, and advise him to tempt fate while Herman vows to fight for his love. Scene Two Liza&acute;s room. She is singing with her friend Polina (“Oh, what an evening”). Left alone, Liza reveals her feelings: the Prince loves her, but she cannot forget the passionate gaze of the stranger in the garden (“Where are these tears from?” “Oh, listen, oh, night”). As if he had heard her calling, Herman appears on the balcony. He threatens to kill himself because Liza is promised to another, and tells her that no-one loves her as passionately as he does (“Forgive me, heavenly creature”). The Countess enters, and Liza hides the love-struck Herman. Like a man possessed, Herman starts to search for the three cards. Having been with Liza, he realises he is happy only when he is with her. Act II Scene Three A masquerade at the home of a high official. Yeletsky assures Liza of his love (“I love thee”). Herman continues to be haunted by thoughts of the three cards. A musical intermezzo-pastorale begins (“My dear little friend”). After it ends, Li",
     "creative_team": [
       {
@@ -1725,7 +1725,16 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/prince-eletsky"
+      },
+      {
+        "person_slug": "olga-borodina",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/the-countess"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-rigoletto",
@@ -2350,7 +2359,7 @@
     "premiere_date": "2025-02-24",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/26/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/turandot/kz/_turandot_semistage.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/turandot/kz/kz_turan_dombrovskaya_by_razina.jpg",
     "synopsis": "Act I A crowd assembled by the walls of the Imperial palace in Peking listens to a Mandarin reading a decree – anyone who wishes to win the hand of Princess Turandot must solve three riddles; whosoever cannot answer must die. The young Prince of Persia is to be executed this night. The excited crowd rushes towards the palace, but the guards keep the people back. An old man falls to the ground. In anguish, a young girl calls for help. A young man rushes out from the crowd, recognising the old man to be his father. Their unexpected meeting is not a joyful occasion – old Timur&acute;s enemies have usurped his throne and banished him from his native land; his son Calaf has been forced to wander foreign parts, hiding his name from everyone. Timur is accompanied everywhere by the faithful slave girl Liù, whose love for Calaf is unrequited. Preparations for the execution are underway on the square. Night descends. As the moon rises, the crowd awaits the appearance of Turandot. A triumphal procession approaches. It is met by a funeral procession – that of the Prince of Persia going to his execution. The people feel pity for him and beg Turandot to have mercy on him. Calaf vengefully curses the hard-hearted Princess. Finally, however, she appears, and Calaf is blinded by her beauty. In vain, his father tries to dissuade him: Calaf knows he must win Turandot&acute;s heart. Suddenly the ministers Ping, Pong and Pang bar his way. They warn the Prince and jeer at him, summoning the spirits of those who have died from their love of Turandot. Liù begs Calaf to leave – neither she nor his father could bear to see him die. Calaf is touched by her entreaties, but cannot relinquish his love for Turandot. At his signal, a servant strikes a huge gong three times, declaring Calaf&acute;s decision to attempt to win the Princess. Act II Scene 1 Ping, Pong and Pang are pondering the fate of the unknown Prince who has decided to solve Turandot&acute;s riddles: what will dawn bring – a weddin",
     "creative_team": [
       {
@@ -2392,7 +2401,7 @@
         "role_slug": "giacomo-puccini/turandot/princess-turandot"
       },
       {
-        "person_slug": "alexander-morozov",
+        "person_slug": "gennady-bezzubenkov",
         "role_slug": "giacomo-puccini/turandot/timur"
       }
     ]
