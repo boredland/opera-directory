@@ -1379,7 +1379,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "1950-02-22",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/12/2_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/16/1_1900/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/mazepa/mazepa_banner.jpg",
     "synopsis": "The action is set in the Ukraine in the early 18 th century. Act I Scene 1 Kochubei’s house and garden. The girls bring in Maria, Kochubei’s daughter, and take her off to have her fortune told. She refuses: her father has a guest, the hetman Mazepa whom she loves. Her childhood friend, Andrei the Cossack, knowing of Maria’s secret passion, nevertheless declares his unrequited love for her and begs her to forget Mazepa. Maria, understanding the full recklessness of her feelings, is nonetheless powerless to resist them. Kochubei enters the garden with his wife Lyubov, Mazepa and the other guests. Kochubei’s servants amuse Mazepa with singing and dancing. Mazepa asks Kochubei for Maria’s hand in marriage. Kochubei and Lyubov are incensed at the old hetman’s proposal – he is Maria’s godfather. The hetman turns to Maria and offers her a choice between him and her parents. After tortuous hesitation, she gives her hand to Mazepa. The hetman takes Maria away. Scene 2 A room in Kochubei’s house. Maria’s mother is lamenting her daughter, who has left her father’s home. She urges her husband to take revenge on Mazepa. Kochubei reveals his plan: he has found out about the links between the hetman and Sweden’s King Charles XII and of Mazepa’s proposed betrayal of Peter I, and he resolves to present the hetman to the Russian Emperor. Andrei is ready to deliver the denunciation to the Emperor. Kochubei’s acquaintances are filled with hatred for the hetman Mazepa. Act II Scene 3 A cellar in Mazepa’s palace in Belotserkovsk. The lying hetman, having been warned of his denunciation by Peter I’s retainers, has succeeded in slandering Kochubei to the Emperor. Bound in chains and having been tortured, both Iskra and Kochubei await interrogation. Orlik, the hetman’s retainer enters. He demands that Kochubei give up the treasure he has allegedly buried in the village of Dikanka. Kochubei has nothing: his honour has been despoiled and his beloved daughter taken from him by Mazepa. Kochubei",
     "creative_team": [
@@ -1884,6 +1884,38 @@
         "role_slug": "camille-saint-sa-ns/samson-et-dalila/samson"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-serail",
+    "work_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2023-05-20",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/22/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/serail/serail_banner_eng.jpg",
+    "creative_team": [
+      {
+        "person_slug": "pavel-teplov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "justus-frantz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "antonia-shestakova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "yekaterina-malinina",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vadim-dulenko",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-siegfried-new",

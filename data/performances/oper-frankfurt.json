@@ -806,6 +806,12 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/der-zar-die-kluge/2026-06-21/",
+    "production_id": "oper-frankfurt/der-zar-die-kluge",
+    "date": "2026-06-21",
+    "status": "past"
+  },
+  {
     "id": "oper-frankfurt/der-zar-die-kluge/2026-06-21/15:30",
     "production_id": "oper-frankfurt/der-zar-die-kluge",
     "date": "2026-06-21",
@@ -1012,6 +1018,12 @@
     "time": "17:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/ein-mann-wie-sie/2026-06-21/",
+    "production_id": "oper-frankfurt/ein-mann-wie-sie",
+    "date": "2026-06-21",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/ein-mann-wie-sie/2026-06-21/19:00",
@@ -2658,6 +2670,14 @@
     "production_id": "oper-frankfurt/salome-5",
     "date": "2027-02-19",
     "time": "19:30",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/silvester/2026-12-31/18:00",
+    "production_id": "oper-frankfurt/silvester",
+    "date": "2026-12-31",
+    "time": "18:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
   },
