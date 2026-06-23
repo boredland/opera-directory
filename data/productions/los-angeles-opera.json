@@ -158,6 +158,73 @@
     ]
   },
   {
+    "id": "los-angeles-opera/los-angeles-opera-performances-2026-27-nabucco",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "los-angeles-opera",
+    "is_revival": false,
+    "detail_url": "https://www.laopera.org/performances/2026-27/nabucco",
+    "creative_team": [
+      {
+        "person_slug": "jeremy-frank",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "domingo-hindoyan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mattie-ullrich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thaddeus-strassberger",
+        "function": "director"
+      },
+      {
+        "person_slug": "mark-mccullough",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "thaddeus-strassberger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "samuel-wallace",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "angela-meade",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "alexis-seminario",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "meridian-prall",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "mario-manzo",
+        "role_slug": "giuseppe-verdi/nabucco/high-priest-of-baal"
+      },
+      {
+        "person_slug": "nathan-bowles",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "ariunbaatar-ganbaatar",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "stephano-park",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
+  },
+  {
     "id": "los-angeles-opera/los-angeles-opera-performances-2026-the-magic-flute",
     "work_slug": "wolfgang-amadeus-mozart/the-magic-flute",
     "house_slug": "los-angeles-opera",

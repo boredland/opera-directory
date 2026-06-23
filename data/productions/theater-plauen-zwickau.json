@@ -161,6 +161,14 @@
     "detail_url": "https://www.theater-plauen-zwickau.de/spielplan.php?seite=0&id=2467",
     "creative_team": [
       {
+        "person_slug": "gmd-stefan-neubert",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexander-busch",
+        "function": "dramaturgy"
+      },
+      {
         "person_slug": "darko-petrovic",
         "function": "set-designer"
       }

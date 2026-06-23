@@ -602,12 +602,28 @@
       {
         "person_slug": "simon-hewett",
         "function": "conductor"
+      },
+      {
+        "person_slug": "steen-bjarke",
+        "function": "lighting"
       }
     ],
     "cast": [
       {
         "person_slug": "john-cranko",
         "role_slug": "john-cranko/onegin/choreografie-inszenierung"
+      },
+      {
+        "person_slug": "reid-anderson-graefe",
+        "role_slug": "john-cranko/onegin/copyright-choreografie"
+      },
+      {
+        "person_slug": "jane-bourne",
+        "role_slug": "john-cranko/onegin/einstudierung"
+      },
+      {
+        "person_slug": "reid-anderson-graefe",
+        "role_slug": "john-cranko/onegin/einstudierung"
       },
       {
         "person_slug": "joseph-ducille",
@@ -1078,6 +1094,15 @@
     "house_slug": "semperoper-dresden",
     "is_revival": false,
     "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/treffpunkt-bhneneingang/62817.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62873",
+    "work_slug": "enrique-gasa-valga/viva-la-vida-a-tribute-to-frida-kahlo-preview-premiere",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/viva-la-vida/62873.html",
     "creative_team": [],
     "cast": []
   },

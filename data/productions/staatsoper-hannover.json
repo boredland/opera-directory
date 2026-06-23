@@ -622,6 +622,10 @@
       {
         "person_slug": "shavleg-armasi",
         "role_slug": "richard-wagner/lohengrin/heinrich-der-vogler-deutscher-konig"
+      },
+      {
+        "person_slug": "ewa-vesin",
+        "role_slug": "richard-wagner/lohengrin/ortrud-seine-gemahlin"
       }
     ]
   },
@@ -750,12 +754,20 @@
         "role_slug": "pascal-dusapin/il-viaggio-dante/dante"
       },
       {
+        "person_slug": "christel-loetzsch",
+        "role_slug": "pascal-dusapin/il-viaggio-dante/der-junge-dante"
+      },
+      {
         "person_slug": "olga-jelinkova",
         "role_slug": "pascal-dusapin/il-viaggio-dante/lucia"
       },
       {
         "person_slug": "carmen-fuggiss",
         "role_slug": "pascal-dusapin/il-viaggio-dante/stimme-der-verdammten"
+      },
+      {
+        "person_slug": "norman-d-patzke",
+        "role_slug": "pascal-dusapin/il-viaggio-dante/virgilio"
       }
     ]
   },

@@ -16,6 +16,22 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/10-sinfoniekonzert-2/2027-05-30/11:00",
+    "production_id": "oper-frankfurt/10-sinfoniekonzert-2",
+    "date": "2027-05-30",
+    "time": "11:00",
+    "venue_room": "Alte Oper Frankfurt",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/10-sinfoniekonzert-2/2027-05-31/19:30",
+    "production_id": "oper-frankfurt/10-sinfoniekonzert-2",
+    "date": "2027-05-31",
+    "time": "19:30",
+    "venue_room": "Alte Oper Frankfurt",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-frankfurt/10-sinfoniekonzert-2026-27/2027-05-30/11:00",
     "production_id": "oper-frankfurt/10-sinfoniekonzert-2026-27",
     "date": "2027-05-30",
@@ -161,6 +177,22 @@
     "id": "oper-frankfurt/8-sinfoniekonzert-2/2027-04-12/19:30",
     "production_id": "oper-frankfurt/8-sinfoniekonzert-2",
     "date": "2027-04-12",
+    "time": "19:30",
+    "venue_room": "Alte Oper Frankfurt",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/9-sinfoniekonzert-2/2027-05-02/11:00",
+    "production_id": "oper-frankfurt/9-sinfoniekonzert-2",
+    "date": "2027-05-02",
+    "time": "11:00",
+    "venue_room": "Alte Oper Frankfurt",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/9-sinfoniekonzert-2/2027-05-03/19:30",
+    "production_id": "oper-frankfurt/9-sinfoniekonzert-2",
+    "date": "2027-05-03",
     "time": "19:30",
     "venue_room": "Alte Oper Frankfurt",
     "status": "scheduled"
@@ -760,6 +792,12 @@
     "time": "19:00",
     "venue_room": "Bockenheimer Depot",
     "status": "few_left"
+  },
+  {
+    "id": "oper-frankfurt/der-triumph/2026-06-22/",
+    "production_id": "oper-frankfurt/der-triumph",
+    "date": "2026-06-22",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/der-triumph/2026-06-22/19:00",
@@ -2962,6 +3000,12 @@
     "time": "19:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/tancredi/2026-06-22/",
+    "production_id": "oper-frankfurt/tancredi",
+    "date": "2026-06-22",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/tancredi/2026-06-22/19:00",

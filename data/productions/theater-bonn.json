@@ -63,6 +63,15 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/226741",
+    "work_slug": "nabucco",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/nabucco/226741",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/226742",
     "work_slug": "daniel-johannes-mayr/nessun-dorma",
     "house_slug": "theater-bonn",
@@ -78,6 +87,15 @@
         "function": "director"
       }
     ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/226744",
+    "work_slug": "hansel-und-gretel",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/hansel-und-gretel/226744",
+    "creative_team": [],
     "cast": []
   },
   {
@@ -190,6 +208,87 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/234664",
+    "work_slug": "das-madchen-aus-dem-goldenen-westen",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/das-madchen-aus-dem-goldenen-westen/234664",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234665",
+    "work_slug": "die-zauberflote",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/die-zauberflote/234665",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234666",
+    "work_slug": "jesus-christ-superstar",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/jesus-christ-superstar/234666",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234668",
+    "work_slug": "la-boheme",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/la-boheme/234668",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234682",
+    "work_slug": "turing",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/turing/234682",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234684",
+    "work_slug": "aida",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/aida/234684",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234685",
+    "work_slug": "iphigenie-auf-tauris",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/iphigenie-auf-tauris/234685",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234686",
+    "work_slug": "die-verzauberte-stadt",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/die-verzauberte-stadt/234686",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/234687",
+    "work_slug": "der-weltuntergang",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/der-weltuntergang/234687",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/236585",
     "work_slug": "giacomo-puccini/tosca",
     "house_slug": "theater-bonn",
@@ -209,20 +308,20 @@
   },
   {
     "id": "theater-bonn/236848",
-    "work_slug": "dirk-kaftan/tosca",
+    "work_slug": "tosca",
     "house_slug": "theater-bonn",
     "is_revival": false,
     "detail_url": "https://www.theater-bonn.de/de/programm/tosca/236848",
-    "creative_team": [
-      {
-        "person_slug": "dirk-kaftan",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "silvia-gatto",
-        "function": "director"
-      }
-    ],
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/240876",
+    "work_slug": "comedian-harmonists",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/comedian-harmonists/240876",
+    "creative_team": [],
     "cast": []
   },
   {
@@ -231,6 +330,24 @@
     "house_slug": "theater-bonn",
     "is_revival": false,
     "detail_url": "https://www.theater-bonn.de/de/programm/stadtteilkonzert/241629",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/241699",
+    "work_slug": "m-a-r-s",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/mars/241699",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/241710",
+    "work_slug": "die-menschliche-stimme",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/die-menschliche-stimme/241710",
     "creative_team": [],
     "cast": []
   },
@@ -250,6 +367,15 @@
         "function": "director"
       }
     ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/247821",
+    "work_slug": "percy-jackson-the-lightning-thief",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/percy-jackson-the-lightning-thief/247821",
+    "creative_team": [],
     "cast": []
   }
 ]

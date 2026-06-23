@@ -23,6 +23,15 @@
     "cast": []
   },
   {
+    "id": "oper-frankfurt/10-sinfoniekonzert-2",
+    "work_slug": "10-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/10-sinfoniekonzert_2/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-frankfurt/10-sinfoniekonzert-2026-27",
     "work_slug": "10-sinfoniekonzert-2026-27",
     "house_slug": "oper-frankfurt",
@@ -106,6 +115,20 @@
     "house_slug": "oper-frankfurt",
     "is_revival": false,
     "detail_url": "https://oper-frankfurt.de/de/spielplan/8-sinfoniekonzert_2/",
+    "creative_team": [
+      {
+        "person_slug": "thomas-guggeis",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "oper-frankfurt/9-sinfoniekonzert-2",
+    "work_slug": "9-sinfoniekonzert",
+    "house_slug": "oper-frankfurt",
+    "is_revival": false,
+    "detail_url": "https://oper-frankfurt.de/de/spielplan/9-sinfoniekonzert_2/",
     "creative_team": [
       {
         "person_slug": "thomas-guggeis",
