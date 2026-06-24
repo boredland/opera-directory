@@ -994,6 +994,14 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/die-nacht-vor-weihnachten-4/2026-12-25/18:00",
+    "production_id": "oper-frankfurt/die-nacht-vor-weihnachten-4",
+    "date": "2026-12-25",
+    "time": "18:00",
+    "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-frankfurt/die-nacht-vor-weihnachten-4/2026-12-25/19:00",
     "production_id": "oper-frankfurt/die-nacht-vor-weihnachten-4",
     "date": "2026-12-25",
@@ -1070,6 +1078,12 @@
     "time": "19:00",
     "venue_room": "Museum Judengasse",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/ein-mann-wie-sie/2026-06-23/",
+    "production_id": "oper-frankfurt/ein-mann-wie-sie",
+    "date": "2026-06-23",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/ein-mann-wie-sie/2026-06-23/11:00",
@@ -1225,6 +1239,12 @@
     "id": "oper-frankfurt/friedman-in-der-oper/2026-05-19/",
     "production_id": "oper-frankfurt/friedman-in-der-oper",
     "date": "2026-05-19",
+    "status": "past"
+  },
+  {
+    "id": "oper-frankfurt/friedman-in-der-oper/2026-06-23/",
+    "production_id": "oper-frankfurt/friedman-in-der-oper",
+    "date": "2026-06-23",
     "status": "past"
   },
   {

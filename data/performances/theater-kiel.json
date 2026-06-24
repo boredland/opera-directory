@@ -80,6 +80,14 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-kiel/herbstkonzert-der-orchesterakademie-2/2026-10-05/19:00",
+    "production_id": "theater-kiel/herbstkonzert-der-orchesterakademie-2",
+    "date": "2026-10-05",
+    "time": "19:00",
+    "venue_room": "1. Foyer Opernhaus",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-kiel/idomeneo/2026-07-04/19:00",
     "production_id": "theater-kiel/idomeneo",
     "date": "2026-07-04",
@@ -173,6 +181,14 @@
     "date": "2027-02-27",
     "time": "19:00",
     "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/klarinette-na-klar-3/2026-10-12/19:00",
+    "production_id": "theater-kiel/klarinette-na-klar-3",
+    "date": "2026-10-12",
+    "time": "19:00",
+    "venue_room": "1. Foyer Opernhaus",
     "status": "scheduled"
   },
   {
@@ -317,6 +333,14 @@
     "date": "2027-06-12",
     "time": "19:00",
     "venue_room": "Opernhaus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-kiel/lieder-die-im-schatten-stehen/2026-10-26/19:00",
+    "production_id": "theater-kiel/lieder-die-im-schatten-stehen",
+    "date": "2026-10-26",
+    "time": "19:00",
+    "venue_room": "1. Foyer Opernhaus",
     "status": "scheduled"
   },
   {

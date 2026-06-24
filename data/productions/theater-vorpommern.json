@@ -351,8 +351,30 @@
     "house_slug": "theater-vorpommern",
     "is_revival": false,
     "detail_url": "https://www.theater-vorpommern.de/de/programm/mina-oder-die-reise-zum-meer",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "frida-jasper",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephanie-langenberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "xenia-hufschmidt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julia-gotting",
+        "role_slug": "anno-schreier/mina-oder-die-reise-zum-meer/flote"
+      },
+      {
+        "person_slug": "lea-hartlaub",
+        "role_slug": "anno-schreier/mina-oder-die-reise-zum-meer/gesang"
+      }
+    ]
   },
   {
     "id": "theater-vorpommern/the-shining",

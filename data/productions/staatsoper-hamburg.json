@@ -443,7 +443,7 @@
         "function": "costume-designer"
       },
       {
-        "person_slug": "christian-kaas",
+        "person_slug": "christian-kass",
         "function": "lighting"
       },
       {
@@ -498,7 +498,7 @@
       },
       {
         "person_slug": "caspar-sasse",
-        "role_slug": "wunderland/die-raupe-der-henker-humpty-dumpty"
+        "role_slug": "wunderland/die-raupe-der-henker-der-rote-konig-humpty-dumpty"
       },
       {
         "person_slug": "ana-torrequebrada",
@@ -859,11 +859,20 @@
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/206-nijinsky-gala",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "simon-hewett",
+        "function": "conductor"
+      }
+    ],
     "cast": [
       {
         "person_slug": "hamburg-ballett",
         "role_slug": "nijinsky-gala/ensemble"
+      },
+      {
+        "person_slug": "lloyd-riggins",
+        "role_slug": "nijinsky-gala/moderation"
       },
       {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
@@ -1372,6 +1381,10 @@
       {
         "person_slug": "hamburg-ballett",
         "role_slug": "nijinsky/ensemble"
+      },
+      {
+        "person_slug": "ondrej-rudcenko",
+        "role_slug": "nijinsky/klavier"
       },
       {
         "person_slug": "javier-monreal",
@@ -4280,7 +4293,16 @@
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/3034-politische-perspektiven",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "daniel-muller",
+        "role_slug": "politische-perspektiven/4"
+      },
+      {
+        "person_slug": "laura-schmidt",
+        "role_slug": "politische-perspektiven/4"
+      }
+    ]
   },
   {
     "id": "staatsoper-hamburg/oper-3121-wir-bauen-eine-neue-stadt",

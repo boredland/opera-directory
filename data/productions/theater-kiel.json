@@ -36,11 +36,29 @@
     "cast": []
   },
   {
+    "id": "theater-kiel/herbstkonzert-der-orchesterakademie-2",
+    "work_slug": "herbstkonzert-der-orchesterakademie",
+    "house_slug": "theater-kiel",
+    "is_revival": false,
+    "detail_url": "https://theater-kiel.de/spielplan/produktionen/herbstkonzert-der-orchesterakademie-2.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-kiel/idomeneo",
     "work_slug": "idomeneo-re-di-creta",
     "house_slug": "theater-kiel",
     "is_revival": false,
     "detail_url": "https://theater-kiel.de/spielplan/produktionen/idomeneo.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-kiel/klarinette-na-klar-3",
+    "work_slug": "klarinette-na-klar",
+    "house_slug": "theater-kiel",
+    "is_revival": false,
+    "detail_url": "https://theater-kiel.de/spielplan/produktionen/klarinette-na-klar-3.html",
     "creative_team": [],
     "cast": []
   },
@@ -77,6 +95,15 @@
     "house_slug": "theater-kiel",
     "is_revival": false,
     "detail_url": "https://theater-kiel.de/spielplan/produktionen/les-contes-dhoffmann-2.html",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-kiel/lieder-die-im-schatten-stehen",
+    "work_slug": "lieder-die-im-schatten-stehen",
+    "house_slug": "theater-kiel",
+    "is_revival": false,
+    "detail_url": "https://theater-kiel.de/spielplan/produktionen/lieder-die-im-schatten-stehen.html",
     "creative_team": [],
     "cast": []
   },

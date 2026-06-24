@@ -316,11 +316,20 @@
     "cast": []
   },
   {
-    "id": "theater-bonn/240876",
-    "work_slug": "comedian-harmonists",
+    "id": "theater-bonn/240860",
+    "work_slug": "knusper-knusper-knauschen",
     "house_slug": "theater-bonn",
     "is_revival": false,
-    "detail_url": "https://www.theater-bonn.de/de/programm/comedian-harmonists/240876",
+    "detail_url": "https://www.theater-bonn.de/de/programm/knusper-knusper-knauschen/240860",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/240876",
+    "work_slug": "comedian-harmonists-irgendwo-auf-der-welt",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/comedian-harmonists-irgendwo-auf-der-welt/240876",
     "creative_team": [],
     "cast": []
   },
@@ -367,6 +376,15 @@
         "function": "director"
       }
     ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/246431",
+    "work_slug": "was-klinget-so-herrlich",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/was-klinget-so-herrlich/246431",
+    "creative_team": [],
     "cast": []
   },
   {

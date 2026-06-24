@@ -111,6 +111,14 @@
     "status": "scheduled"
   },
   {
+    "id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein/2027-04-11/15:00",
+    "production_id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein",
+    "date": "2027-04-11",
+    "time": "15:00",
+    "venue_room": "Itzehoe",
+    "status": "scheduled"
+  },
+  {
     "id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein/2027-04-22/",
     "production_id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein",
     "date": "2027-04-22",
@@ -123,6 +131,14 @@
     "date": "2027-04-24",
     "time": "19:00",
     "venue_room": "Rendsburg",
+    "status": "scheduled"
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein/2027-04-30/20:00",
+    "production_id": "schleswig-holsteinisches-landestheater/die-grossherzogin-von-gerolstein",
+    "date": "2027-04-30",
+    "time": "20:00",
+    "venue_room": "Neumünster",
     "status": "scheduled"
   },
   {
@@ -266,6 +282,14 @@
     "status": "scheduled"
   },
   {
+    "id": "schleswig-holsteinisches-landestheater/la-bohme/2026-11-27/20:00",
+    "production_id": "schleswig-holsteinisches-landestheater/la-bohme",
+    "date": "2026-11-27",
+    "time": "20:00",
+    "venue_room": "Neumünster",
+    "status": "scheduled"
+  },
+  {
     "id": "schleswig-holsteinisches-landestheater/la-bohme/2026-11-29/",
     "production_id": "schleswig-holsteinisches-landestheater/la-bohme",
     "date": "2026-11-29",
@@ -305,6 +329,13 @@
     "production_id": "schleswig-holsteinisches-landestheater/la-bohme",
     "date": "2027-02-06",
     "venue_room": "Flensburg",
+    "status": "scheduled"
+  },
+  {
+    "id": "schleswig-holsteinisches-landestheater/la-bohme/2027-03-03/",
+    "production_id": "schleswig-holsteinisches-landestheater/la-bohme",
+    "date": "2027-03-03",
+    "venue_room": "Itzehoe",
     "status": "scheduled"
   },
   {

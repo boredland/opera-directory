@@ -1,0 +1,48 @@
+[
+  {
+    "id": "virginia-opera/virginia-opera-pagliacci",
+    "work_slug": "ruggero-leoncavallo/pagliacci",
+    "house_slug": "virginia-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://vaopera.org/pagliacci/",
+    "creative_team": [
+      {
+        "person_slug": "adam-turner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kyle-lang",
+        "function": "director"
+      },
+      {
+        "person_slug": "steven-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "virginia-opera/virginia-opera-turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "virginia-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://vaopera.org/turandot/",
+    "creative_team": [
+      {
+        "person_slug": "adam-turner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "kyle-lang",
+        "function": "director"
+      },
+      {
+        "person_slug": "steven-kemp",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  }
+]

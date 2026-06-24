@@ -32,6 +32,14 @@
     ],
     "cast": [
       {
+        "person_slug": "bojtos-luca",
+        "role_slug": "johann-strauss/a-ciganybaro/arsena-zsupan-lanya"
+      },
+      {
+        "person_slug": "sule-dalma",
+        "role_slug": "johann-strauss/a-ciganybaro/arsena-zsupan-lanya"
+      },
+      {
         "person_slug": "szoke-diana",
         "role_slug": "johann-strauss/a-ciganybaro/arsena-zsupan-lanya"
       },
@@ -40,7 +48,23 @@
         "role_slug": "johann-strauss/a-ciganybaro/barinkay-sandor"
       },
       {
+        "person_slug": "papp-balazs",
+        "role_slug": "johann-strauss/a-ciganybaro/barinkay-sandor"
+      },
+      {
+        "person_slug": "sandor-peter",
+        "role_slug": "johann-strauss/a-ciganybaro/barinkay-sandor"
+      },
+      {
         "person_slug": "dezsy-szabo-gabor",
+        "role_slug": "johann-strauss/a-ciganybaro/carnero-csaszari-biztos"
+      },
+      {
+        "person_slug": "kiss-zoltan",
+        "role_slug": "johann-strauss/a-ciganybaro/carnero-csaszari-biztos"
+      },
+      {
+        "person_slug": "nemeth-attila",
         "role_slug": "johann-strauss/a-ciganybaro/carnero-csaszari-biztos"
       },
       {
@@ -48,12 +72,44 @@
         "role_slug": "johann-strauss/a-ciganybaro/czipra-ciganyasszony"
       },
       {
+        "person_slug": "szilagyi-szilvia",
+        "role_slug": "johann-strauss/a-ciganybaro/czipra-ciganyasszony"
+      },
+      {
+        "person_slug": "timar-timea",
+        "role_slug": "johann-strauss/a-ciganybaro/czipra-ciganyasszony"
+      },
+      {
+        "person_slug": "erdos-attila",
+        "role_slug": "johann-strauss/a-ciganybaro/homonnay-peter-grof"
+      },
+      {
+        "person_slug": "gyorgy-rozsa-sandor",
+        "role_slug": "johann-strauss/a-ciganybaro/homonnay-peter-grof"
+      },
+      {
         "person_slug": "nagy-lorant",
         "role_slug": "johann-strauss/a-ciganybaro/homonnay-peter-grof"
       },
       {
+        "person_slug": "franko-tunde",
+        "role_slug": "johann-strauss/a-ciganybaro/mirabella-nevelono-zsupannal"
+      },
+      {
+        "person_slug": "kalocsai-zsuzsa",
+        "role_slug": "johann-strauss/a-ciganybaro/mirabella-nevelono-zsupannal"
+      },
+      {
         "person_slug": "vasari-monika",
         "role_slug": "johann-strauss/a-ciganybaro/mirabella-nevelono-zsupannal"
+      },
+      {
+        "person_slug": "denes-viktor",
+        "role_slug": "johann-strauss/a-ciganybaro/ottokar-a-fia"
+      },
+      {
+        "person_slug": "laki-peter",
+        "role_slug": "johann-strauss/a-ciganybaro/ottokar-a-fia"
       },
       {
         "person_slug": "tassonyi-balazs-e-h-szfe",
@@ -64,11 +120,31 @@
         "role_slug": "johann-strauss/a-ciganybaro/szaffi-ciganylany"
       },
       {
+        "person_slug": "kiss-diana",
+        "role_slug": "johann-strauss/a-ciganybaro/szaffi-ciganylany"
+      },
+      {
+        "person_slug": "levai-eniko",
+        "role_slug": "johann-strauss/a-ciganybaro/szaffi-ciganylany"
+      },
+      {
+        "person_slug": "bujdoso-anna",
+        "role_slug": "johann-strauss/a-ciganybaro/szaffi-macskaja"
+      },
+      {
         "person_slug": "hortobagyi-brigitta",
         "role_slug": "johann-strauss/a-ciganybaro/szaffi-macskaja"
       },
       {
         "person_slug": "jasznik-akos",
+        "role_slug": "johann-strauss/a-ciganybaro/zsupan-kalman-gazdag-serteskereskedo"
+      },
+      {
+        "person_slug": "langer-soma",
+        "role_slug": "johann-strauss/a-ciganybaro/zsupan-kalman-gazdag-serteskereskedo"
+      },
+      {
+        "person_slug": "pete-adam-david",
         "role_slug": "johann-strauss/a-ciganybaro/zsupan-kalman-gazdag-serteskereskedo"
       }
     ]
@@ -180,6 +256,140 @@
     ]
   },
   {
+    "id": "budapest-operetta/budapest-operetta-csardaskiralyno",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2019-09-06",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/csardaskiralyno",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/csardas2.jpg",
+    "creative_team": [
+      {
+        "person_slug": "bozsik-yvette",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "berzsenyi-krisztina",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vidnyanszky-attila",
+        "function": "director"
+      },
+      {
+        "person_slug": "dreiszker-jozsef",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "cziegler-balazs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "franko-tunde",
+        "role_slug": "kalman-imre/csardaskiralyno/anhilte-a-herceg-felesege"
+      },
+      {
+        "person_slug": "simenfalvy-agota",
+        "role_slug": "kalman-imre/csardaskiralyno/anhilte-a-herceg-felesege"
+      },
+      {
+        "person_slug": "bakos-kiss-gabor",
+        "role_slug": "kalman-imre/csardaskiralyno/edwin-ronald"
+      },
+      {
+        "person_slug": "homonnay-zsolt",
+        "role_slug": "kalman-imre/csardaskiralyno/edwin-ronald"
+      },
+      {
+        "person_slug": "papp-balazs",
+        "role_slug": "kalman-imre/csardaskiralyno/edwin-ronald"
+      },
+      {
+        "person_slug": "langer-soma",
+        "role_slug": "kalman-imre/csardaskiralyno/eugen-von-rohnsdorff-fohadnagy"
+      },
+      {
+        "person_slug": "nemeth-attila",
+        "role_slug": "kalman-imre/csardaskiralyno/eugen-von-rohnsdorff-fohadnagy"
+      },
+      {
+        "person_slug": "altsach-gergely",
+        "role_slug": "kalman-imre/csardaskiralyno/jegyzo"
+      },
+      {
+        "person_slug": "denes-viktor",
+        "role_slug": "kalman-imre/csardaskiralyno/kaucsiano-boni-grof"
+      },
+      {
+        "person_slug": "erdos-attila",
+        "role_slug": "kalman-imre/csardaskiralyno/kaucsiano-boni-grof"
+      },
+      {
+        "person_slug": "laki-peter",
+        "role_slug": "kalman-imre/csardaskiralyno/kaucsiano-boni-grof"
+      },
+      {
+        "person_slug": "kiss-zoltan",
+        "role_slug": "kalman-imre/csardaskiralyno/kerekes-ferko"
+      },
+      {
+        "person_slug": "szolnoki-tibor",
+        "role_slug": "kalman-imre/csardaskiralyno/kerekes-ferko"
+      },
+      {
+        "person_slug": "viragh-jozsef",
+        "role_slug": "kalman-imre/csardaskiralyno/kerekes-ferko"
+      },
+      {
+        "person_slug": "bardoczy-attila",
+        "role_slug": "kalman-imre/csardaskiralyno/leopold-maria-lippert-weilersheim-hercege"
+      },
+      {
+        "person_slug": "csuha-lajos",
+        "role_slug": "kalman-imre/csardaskiralyno/leopold-maria-lippert-weilersheim-hercege"
+      },
+      {
+        "person_slug": "dezsy-szabo-gabor",
+        "role_slug": "kalman-imre/csardaskiralyno/leopold-maria-lippert-weilersheim-hercege"
+      },
+      {
+        "person_slug": "gorog-patrik",
+        "role_slug": "kalman-imre/csardaskiralyno/miska"
+      },
+      {
+        "person_slug": "bojtos-luca",
+        "role_slug": "kalman-imre/csardaskiralyno/stazi-grofno-a-herceg-unokahuga"
+      },
+      {
+        "person_slug": "szeles-flora",
+        "role_slug": "kalman-imre/csardaskiralyno/stazi-grofno-a-herceg-unokahuga"
+      },
+      {
+        "person_slug": "szendy-szilvi",
+        "role_slug": "kalman-imre/csardaskiralyno/stazi-grofno-a-herceg-unokahuga"
+      },
+      {
+        "person_slug": "kiss-diana",
+        "role_slug": "kalman-imre/csardaskiralyno/vereczki-szilvia"
+      },
+      {
+        "person_slug": "levai-eniko",
+        "role_slug": "kalman-imre/csardaskiralyno/vereczki-szilvia"
+      },
+      {
+        "person_slug": "sule-dalma",
+        "role_slug": "kalman-imre/csardaskiralyno/vereczki-szilvia"
+      }
+    ]
+  },
+  {
     "id": "budapest-operetta/budapest-operetta-jekyll-es-hyde",
     "work_slug": "frank-wildhorn/jekyll-es-hyde",
     "house_slug": "budapest-operetta",
@@ -266,6 +476,196 @@
       {
         "person_slug": "miklos-attila",
         "role_slug": "frank-wildhorn/jekyll-es-hyde/spider-pok"
+      }
+    ]
+  },
+  {
+    "id": "budapest-operetta/budapest-operetta-mindig-itt-leszunk-mohacs-500",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2026-08-29",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/mindig-itt-leszunk-mohacs-500",
+    "image_url": "https://operett.hu/pixs/pix-page-cover/nevtelen-terv-17-37ccaca200.png",
+    "creative_team": [
+      {
+        "person_slug": "simon-istvan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "szabo-monika",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "szucs-daniel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tassonyi-zsolt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tassonyi-zsolt",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "berzsenyi-krisztina",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "homonnay-zsolt",
+        "function": "director"
+      },
+      {
+        "person_slug": "bodor-akos",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "turi-erzsebet",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fogl-noemi-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/anna-kiralyne"
+      },
+      {
+        "person_slug": "lipics-franciska-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/anna-kiralyne"
+      },
+      {
+        "person_slug": "magocs-otto",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bakocz-tamas"
+      },
+      {
+        "person_slug": "palfalvy-attila",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bakocz-tamas"
+      },
+      {
+        "person_slug": "angler-balazs",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bornemissza-janos"
+      },
+      {
+        "person_slug": "miklos-attila",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bornemissza-janos"
+      },
+      {
+        "person_slug": "karolyi-krisztian",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/brandenburgi-gyorgy"
+      },
+      {
+        "person_slug": "brandi-zsombor",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/gyerek-ii-lajos"
+      },
+      {
+        "person_slug": "kocsis-gergo",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/gyerek-ii-lajos"
+      },
+      {
+        "person_slug": "szantho-balint",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/gyerek-ii-lajos"
+      },
+      {
+        "person_slug": "arki-lili-katalin-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/habsburg-maria"
+      },
+      {
+        "person_slug": "nagy-alma-virag-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/habsburg-maria"
+      },
+      {
+        "person_slug": "gyorgy-rozsa-sandor",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/i-szulejman"
+      },
+      {
+        "person_slug": "szabo-mate",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/i-szulejman"
+      },
+      {
+        "person_slug": "szomor-bendeguz",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ifj-szapolyai-janos"
+      },
+      {
+        "person_slug": "szomor-bendeguz",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ifj-szulejman"
+      },
+      {
+        "person_slug": "kocsis-denes",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-lajos"
+      },
+      {
+        "person_slug": "tassonyi-balazs-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-lajos"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-ulaszlo"
+      },
+      {
+        "person_slug": "szomor-gyorgy",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-ulaszlo"
+      },
+      {
+        "person_slug": "drafi-kalman",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/osi-arny"
+      },
+      {
+        "person_slug": "kiss-balbinat-adam",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/osi-arny"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-gyorgy"
+      },
+      {
+        "person_slug": "palfalvy-attila",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-gyorgy"
+      },
+      {
+        "person_slug": "gyorgy-rozsa-sandor",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-janos"
+      },
+      {
+        "person_slug": "kocsis-denes",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-janos"
+      },
+      {
+        "person_slug": "sandor-peter",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-janos"
+      },
+      {
+        "person_slug": "karolyi-krisztian",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/tomori-pal"
+      },
+      {
+        "person_slug": "nagy-lorant",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/tomori-pal"
+      },
+      {
+        "person_slug": "sandor-peter",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/tomori-pal"
+      },
+      {
+        "person_slug": "antolovics-peter-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/udvari-bolond"
+      },
+      {
+        "person_slug": "toth-norbert-e-h-szfe",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/udvari-bolond"
+      },
+      {
+        "person_slug": "miklos-attila",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/werboczy-istvan"
+      },
+      {
+        "person_slug": "nagy-lorant",
+        "role_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/werboczy-istvan"
       }
     ]
   },

@@ -1197,6 +1197,13 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-bonn/240860/2026-12-11/11:00",
+    "production_id": "theater-bonn/240860",
+    "date": "2026-12-11",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-bonn/240876/2026-12-16/19:30",
     "production_id": "theater-bonn/240876",
     "date": "2026-12-16",
@@ -1439,6 +1446,13 @@
     "production_id": "theater-bonn/241838",
     "date": "2026-12-12",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/246431/2027-04-23/11:00",
+    "production_id": "theater-bonn/246431",
+    "date": "2027-04-23",
+    "time": "11:00",
     "status": "scheduled"
   },
   {

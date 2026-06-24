@@ -471,10 +471,6 @@
         "function": "director"
       },
       {
-        "person_slug": "jakob-robert-schepers",
-        "function": "dramaturgy"
-      },
-      {
         "person_slug": "kristopher-kempf",
         "function": "set-designer"
       },
@@ -602,6 +598,10 @@
         "function": "director"
       },
       {
+        "person_slug": "jakob-robert-schepers",
+        "function": "dramaturgy"
+      },
+      {
         "person_slug": "adrian-barwinkel",
         "function": "set-designer"
       }
@@ -705,7 +705,7 @@
         "function": "director"
       },
       {
-        "person_slug": "marie-julius",
+        "person_slug": "ronny-scholz",
         "function": "dramaturgy"
       },
       {
@@ -840,10 +840,6 @@
         "role_slug": "giuseppe-verdi/rigoletto/borsa"
       },
       {
-        "person_slug": "carlos-moreno-pelizari",
-        "role_slug": "giuseppe-verdi/rigoletto/duca"
-      },
-      {
         "person_slug": "kirsten-labonte",
         "role_slug": "giuseppe-verdi/rigoletto/gilda"
       },
@@ -853,19 +849,23 @@
       },
       {
         "person_slug": "svetlana-krutschinin",
-        "role_slug": "giuseppe-verdi/rigoletto/giovana"
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
       },
       {
         "person_slug": "svitlana-slyvia",
-        "role_slug": "giuseppe-verdi/rigoletto/giovana"
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
       },
       {
         "person_slug": "mert-oztaner",
-        "role_slug": "giuseppe-verdi/rigoletto/graf-ceprano-gerichtsdiener"
+        "role_slug": "giuseppe-verdi/rigoletto/graf-von-ceprano-gerichtsdiener"
       },
       {
         "person_slug": "selena-altar",
-        "role_slug": "giuseppe-verdi/rigoletto/grafin-ceprano-ein-page"
+        "role_slug": "giuseppe-verdi/rigoletto/grafin-ceprano"
+      },
+      {
+        "person_slug": "carlos-moreno-pelizari",
+        "role_slug": "giuseppe-verdi/rigoletto/herzog-von-mantua"
       },
       {
         "person_slug": "rahel-brede",

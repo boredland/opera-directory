@@ -1600,6 +1600,16 @@
     "name": "Verantwortlicher Bühnenmeister"
   },
   {
+    "slug": "anno-schreier/mina-oder-die-reise-zum-meer/flote",
+    "work_slug": "anno-schreier/mina-oder-die-reise-zum-meer",
+    "name": "Flöte"
+  },
+  {
+    "slug": "anno-schreier/mina-oder-die-reise-zum-meer/gesang",
+    "work_slug": "anno-schreier/mina-oder-die-reise-zum-meer",
+    "name": "Gesang"
+  },
+  {
     "slug": "anno-schreier/peter-van-pels/anne-frank",
     "work_slug": "anno-schreier/peter-van-pels",
     "name": "Anne Frank"
@@ -2455,6 +2465,11 @@
     "name": "Sopran [Los Paladines]"
   },
   {
+    "slug": "auszuge-aus-werken-des-spanischen-musiktheaters-in-gedenken-an-pilar-lorengar/gran-gala-de-zarzuela/tanzer-innen",
+    "work_slug": "auszuge-aus-werken-des-spanischen-musiktheaters-in-gedenken-an-pilar-lorengar/gran-gala-de-zarzuela",
+    "name": "Tänzer*innen"
+  },
+  {
     "slug": "auszuge-aus-werken-des-spanischen-musiktheaters-in-gedenken-an-pilar-lorengar/gran-gala-de-zarzuela/tenor",
     "work_slug": "auszuge-aus-werken-des-spanischen-musiktheaters-in-gedenken-an-pilar-lorengar/gran-gala-de-zarzuela",
     "name": "Tenor"
@@ -2818,6 +2833,11 @@
     "slug": "bela-bartok/herzog-blaubarts-burg/judith",
     "work_slug": "bela-bartok/herzog-blaubarts-burg",
     "name": "Judith"
+  },
+  {
+    "slug": "bela-bartok/herzog-blaubarts-burg/szenenbild-video",
+    "work_slug": "bela-bartok/herzog-blaubarts-burg",
+    "name": "Szenenbild (Video)"
   },
   {
     "slug": "bela-bartok/herzog-blaubarts-burg/szenische-einrichtung-und-abendspielleitung",
@@ -8873,6 +8893,11 @@
     "slug": "emmerich-kalman/grafin-mariza/penizek",
     "work_slug": "emmerich-kalman/grafin-mariza",
     "name": "Penižek"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/tschekko",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Tschekko"
   },
   {
     "slug": "emmerich-kalman/la-bajadera/ariellette-capo-claque-del-teatro",
@@ -17965,6 +17990,96 @@
     "name": "Orchestra della"
   },
   {
+    "slug": "gioachino-rossini/potovanje-v-reims/antonio",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Antonio"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/corinna",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Corinna"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/delia",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Delia"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/don-alvaro",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Don Alvaro"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/don-luigino",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Don Luigino"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/don-profondo",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Don Profondo"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/don-prudenzio",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Don Prudenzio"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/gelsomino",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Gelsomino"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/il-barone-di-trombonok",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Il barone di Trombonok"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/il-cavaliere-belfiore",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Il cavaliere Belfiore"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/il-conte-di-libenskof",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Il conte di Libenskof"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/la-contessa-di-folleville",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "La contessa di Folleville"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/la-marchesa-melibea",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "La marchesa Melibea"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/lord-sidney",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Lord Sidney"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/madama-cortese",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Madama Cortese"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/maddalena",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Maddalena"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/modestina",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Modestina"
+  },
+  {
+    "slug": "gioachino-rossini/potovanje-v-reims/zefirino",
+    "work_slug": "gioachino-rossini/potovanje-v-reims",
+    "name": "Zefirino"
+  },
+  {
     "slug": "gioachino-rossini/rossini-s-cinderella/alidoro",
     "work_slug": "gioachino-rossini/rossini-s-cinderella",
     "name": "Alidoro"
@@ -19543,6 +19658,16 @@
     "slug": "giuseppe-verdi/il-trovatore/count-di-luna",
     "work_slug": "giuseppe-verdi/il-trovatore",
     "name": "Count di Luna"
+  },
+  {
+    "slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "name": "Ein alter Zigeuner"
+  },
+  {
+    "slug": "giuseppe-verdi/il-trovatore/ein-bote",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "name": "Ein Bote"
   },
   {
     "slug": "giuseppe-verdi/il-trovatore/ferrando",
@@ -21335,9 +21460,19 @@
     "name": "Graf von Ceprano / Ein Gerichtsdiener"
   },
   {
+    "slug": "giuseppe-verdi/rigoletto/graf-von-ceprano-gerichtsdiener",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Graf von Ceprano | Gerichtsdiener"
+  },
+  {
     "slug": "giuseppe-verdi/rigoletto/graf-von-monterone",
     "work_slug": "giuseppe-verdi/rigoletto",
     "name": "Graf von Monterone"
+  },
+  {
+    "slug": "giuseppe-verdi/rigoletto/grafin-ceprano",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "name": "Gräfin Ceprano"
   },
   {
     "slug": "giuseppe-verdi/rigoletto/grafin-ceprano-ein-page",
@@ -24395,6 +24530,11 @@
     "name": "Spalanzani"
   },
   {
+    "slug": "jacques-offenbach/les-contes-d-hoffmann/spalanzani-schlemil",
+    "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
+    "name": "Spalanzani/Schlémil"
+  },
+  {
     "slug": "jacques-offenbach/les-contes-d-hoffmann/stella",
     "work_slug": "jacques-offenbach/les-contes-d-hoffmann",
     "name": "Stella"
@@ -25953,6 +26093,56 @@
     "slug": "johann-strauss-ii/die-fledermaus/rosalinde",
     "work_slug": "johann-strauss-ii/die-fledermaus",
     "name": "Rosalinde"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/adela",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Adela"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/alfredo",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Alfredo"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/blind",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Blind"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/eisenstein",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Eisenstein"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/falke",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Falke"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/frank",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Frank"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/frosch",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Frosch"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/ida",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Ida"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/orlovski",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Orlovski"
+  },
+  {
+    "slug": "johann-strauss-jr/netopir-die-fledermaus/rosalinda",
+    "work_slug": "johann-strauss-jr/netopir-die-fledermaus",
+    "name": "Rosalinda"
   },
   {
     "slug": "johann-strauss-jr/the-bat-die-fledermaus/adela",
@@ -27588,6 +27778,56 @@
     "slug": "kaija-saariaho/innocence/waitress-tereza",
     "work_slug": "kaija-saariaho/innocence",
     "name": "Waitress (Tereza)"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/anhilte-a-herceg-felesege",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Anhilte, a herceg felesége"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/edwin-ronald",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Edwin Ronald"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/eugen-von-rohnsdorff-fohadnagy",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Eugen von Rohnsdorff, főhadnagy"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/jegyzo",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Jegyző"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/kaucsiano-boni-grof",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Kaucsiánó Bóni gróf"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/kerekes-ferko",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Kerekes Ferkó"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/leopold-maria-lippert-weilersheim-hercege",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Leopold Mária, Lippert Weilersheim hercege"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/miska",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Miska"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/stazi-grofno-a-herceg-unokahuga",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Stázi grófnő, a herceg unokahúga"
+  },
+  {
+    "slug": "kalman-imre/csardaskiralyno/vereczki-szilvia",
+    "work_slug": "kalman-imre/csardaskiralyno",
+    "name": "Vereczki Szilvia"
   },
   {
     "slug": "kamala-sankaram/the-many-deaths-of-laila-starr/agni-ka-the-crow-cigarette",
@@ -33040,6 +33280,11 @@
     "name": "Ensemble"
   },
   {
+    "slug": "nijinsky-gala/moderation",
+    "work_slug": "nijinsky-gala",
+    "name": "Moderation"
+  },
+  {
     "slug": "nijinsky-gala/orchester",
     "work_slug": "nijinsky-gala",
     "name": "Orchester"
@@ -33058,6 +33303,11 @@
     "slug": "nijinsky/ensemble",
     "work_slug": "nijinsky",
     "name": "Ensemble"
+  },
+  {
+    "slug": "nijinsky/klavier",
+    "work_slug": "nijinsky",
+    "name": "Klavier"
   },
   {
     "slug": "nijinsky/leonid-massine",
@@ -35518,6 +35768,11 @@
     "slug": "pjotr-tschaikowski/pique-dame/tschekalinski",
     "work_slug": "pjotr-tschaikowski/pique-dame",
     "name": "Tschekalinski"
+  },
+  {
+    "slug": "politische-perspektiven/4",
+    "work_slug": "politische-perspektiven",
+    "name": "#4"
   },
   {
     "slug": "pongrac-kacsoh/john-the-valiant/bago",
@@ -40495,6 +40750,56 @@
     "name": "Tristan"
   },
   {
+    "slug": "richard-wagner/tristan-in-izolda/a-shepherd",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "A shepherd"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/a-steersman",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "A steersman"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/a-voice-of-a-young-sailor",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "A voice of a young sailor"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/brangane",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "Brangäne"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/english-horn-solo",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "English Horn Solo"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/isolde",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "Isolde"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/king-marke",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "King Marke"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/kurwenal",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "Kurwenal"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/melot",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "Melot"
+  },
+  {
+    "slug": "richard-wagner/tristan-in-izolda/tristan",
+    "work_slug": "richard-wagner/tristan-in-izolda",
+    "name": "Tristan"
+  },
+  {
     "slug": "richard-wagner/tristan-und-isolde-tristano-e-isotta/brangane-ancella-di-isolde",
     "work_slug": "richard-wagner/tristan-und-isolde-tristano-e-isotta",
     "name": "Brangäne, ancella di Isolde"
@@ -42663,6 +42968,91 @@
     "slug": "subbotnik-urauffuhrung/klassiker-ein-remix-15/regiehospitanz",
     "work_slug": "subbotnik-urauffuhrung/klassiker-ein-remix-15",
     "name": "Regiehospitanz"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/anna-kiralyne",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Anna királyné"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bakocz-tamas",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Bakócz Tamás"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/bornemissza-janos",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Bornemissza János"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/brandenburgi-gyorgy",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Brandenburgi György"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/gyerek-ii-lajos",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Gyerek II. Lajos"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/habsburg-maria",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Habsburg Mária"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/i-szulejman",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "I. Szulejmán"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ifj-szapolyai-janos",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "ifj. Szapolyai János"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ifj-szulejman",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "ifj. Szulejmán"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-lajos",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "II. Lajos"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/ii-ulaszlo",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "II. Ulászló"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/osi-arny",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Ősi árny"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-gyorgy",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Szapolyai György"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/szapolyai-janos",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Szapolyai János"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/tomori-pal",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Tomori Pál"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/udvari-bolond",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Udvari bolond"
+  },
+  {
+    "slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500/werboczy-istvan",
+    "work_slug": "szomor-gyorgy/mindig-itt-leszunk-mohacs-500",
+    "name": "Werbőczy István"
   },
   {
     "slug": "szomor-gyorgy/monte-cristo-grofja/albert-mercedes-fia",
@@ -47228,6 +47618,11 @@
     "slug": "wunderland/die-herzkonigin-die-rote-konigin",
     "work_slug": "wunderland",
     "name": "Die Herzkönigin / Die Rote Königin"
+  },
+  {
+    "slug": "wunderland/die-raupe-der-henker-der-rote-konig-humpty-dumpty",
+    "work_slug": "wunderland",
+    "name": "Die Raupe / Der Henker / Der Rote König / Humpty Dumpty"
   },
   {
     "slug": "wunderland/die-raupe-der-henker-humpty-dumpty",

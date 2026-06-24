@@ -1303,6 +1303,10 @@
     "image_url": "https://www.opera.hu/media/images/Trubadur_2026_honlapforgato_3800x.2e16d0ba.fill-1200x628.jpg",
     "creative_team": [
       {
+        "person_slug": "attila-kozma",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "gabor-csiki",
         "function": "chorus-master"
       },
@@ -1455,10 +1459,6 @@
       {
         "person_slug": "maria-harangi",
         "function": "director"
-      },
-      {
-        "person_slug": "adam-david",
-        "function": "dramaturgy"
       },
       {
         "person_slug": "gabor-michac",
@@ -1879,6 +1879,10 @@
     "detail_url": "https://www.opera.hu/en/programme/2026-2027/lakme/",
     "image_url": "https://www.opera.hu/media/images/Lakme_2026_honlapforgato_3800x130.2e16d0ba.fill-1200x628.jpg",
     "creative_team": [
+      {
+        "person_slug": "krisztina-szollosi",
+        "function": "choreographer"
+      },
       {
         "person_slug": "adam-cser",
         "function": "conductor"
@@ -2320,7 +2324,7 @@
     ],
     "cast": [
       {
-        "person_slug": "gabriella-balga",
+        "person_slug": "gabriella-letay-kiss",
         "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
       },
       {
@@ -2820,6 +2824,10 @@
       {
         "person_slug": "andras-almasi-toth",
         "function": "director"
+      },
+      {
+        "person_slug": "tamas-pillinger",
+        "function": "lighting"
       }
     ],
     "cast": [

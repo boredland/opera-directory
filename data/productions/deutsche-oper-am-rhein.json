@@ -1400,6 +1400,14 @@
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
       },
       {
+        "person_slug": "attila-fodre",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "sookwang-cho",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
+      },
+      {
         "person_slug": "bogdan-talos",
         "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
       },
@@ -1473,6 +1481,14 @@
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "hyunseok-lee",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "alcides-bravo",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
       },
       {
         "person_slug": "bogdan-talos",
@@ -1550,6 +1566,14 @@
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
       },
       {
+        "person_slug": "attila-fodre",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "sookwang-cho",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
+      },
+      {
         "person_slug": "beniamin-pop",
         "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
       },
@@ -1623,6 +1647,14 @@
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "hyunseok-lee",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "alcides-bravo",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
       },
       {
         "person_slug": "bogdan-talos",
@@ -1700,6 +1732,14 @@
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
       },
       {
+        "person_slug": "attila-fodre",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "sookwang-cho",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
+      },
+      {
         "person_slug": "beniamin-pop",
         "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
       },
@@ -1773,6 +1813,14 @@
       {
         "person_slug": "ramona-zaharia",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "hyunseok-lee",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-alter-zigeuner"
+      },
+      {
+        "person_slug": "alcides-bravo",
+        "role_slug": "giuseppe-verdi/il-trovatore/ein-bote"
       },
       {
         "person_slug": "bogdan-talos",
@@ -2374,6 +2422,15 @@
         "role_slug": "astor-piazzolla/maria-de-buenos-aires/tango-argentino"
       }
     ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/marias-operita-lounge-3960",
+    "work_slug": "snacks/marias-operita-lounge",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/marias-operita-lounge/3960/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "deutsche-oper-am-rhein/matinee-horenstein-3883",
