@@ -450,6 +450,66 @@
     "name": "XI. Lajos - Franciaország királya"
   },
   {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/a-szornyeteg",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "A Szörnyeteg"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/babette-a-portorlo",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Babette, a portörlő"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/belle-a-szepseg",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Belle, a Szépség"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/cseszi",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Csészi"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/gaston",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Gaston"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/kannamama",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Kannamama"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/lefou-gaston-szolgaja",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "LeFou, Gaston szolgája"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/libuska",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Libuska"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/madame-de-la-nagy-bohom",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Madame de la Nagy Böhöm"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/maurice",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Maurice"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/mister-ketyegi",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Mister Ketyegi"
+  },
+  {
+    "slug": "alan-menken/a-szepseg-es-a-szornyeteg/monsieur-kanoc",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "name": "Monsieur Kanóc"
+  },
+  {
     "slug": "alban-berg/lulu/alwa",
     "work_slug": "alban-berg/lulu",
     "name": "Alwa"
@@ -4390,6 +4450,11 @@
     "name": "Kilian"
   },
   {
+    "slug": "carl-maria-von-weber/der-freischutz/kilian-1-jager",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Kilian, 1. Jäger"
+  },
+  {
     "slug": "carl-maria-von-weber/der-freischutz/kuno",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Kuno"
@@ -4403,6 +4468,11 @@
     "slug": "carl-maria-von-weber/der-freischutz/max",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Max"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/orchester",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Orchester"
   },
   {
     "slug": "carl-maria-von-weber/der-freischutz/ottokar",
@@ -6433,6 +6503,11 @@
     "slug": "courtney-bryan/suddenly-last-summer/catherine-holly",
     "work_slug": "courtney-bryan/suddenly-last-summer",
     "name": "Catherine Holly"
+  },
+  {
+    "slug": "courtney-bryan/suddenly-last-summer/conductor-music-supervisor",
+    "work_slug": "courtney-bryan/suddenly-last-summer",
+    "name": "Conductor & Music Supervisor"
   },
   {
     "slug": "da-capo-al-fine/kunstlerische-leitung-organisation",
@@ -20450,6 +20525,11 @@
     "name": "Zingarella"
   },
   {
+    "slug": "giuseppe-verdi/luisa-miller/chor",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "name": "Chor"
+  },
+  {
     "slug": "giuseppe-verdi/luisa-miller/federica",
     "work_slug": "giuseppe-verdi/luisa-miller",
     "name": "Federica"
@@ -31755,6 +31835,11 @@
     "name": "Trine"
   },
   {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/alice-beineke",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Alice Beineke"
+  },
+  {
     "slug": "marshall-brickman-rick-elice/the-addams-family/die-ahnen-der-addams-family",
     "work_slug": "marshall-brickman-rick-elice/the-addams-family",
     "name": "Die Ahnen der Addams Family"
@@ -31763,6 +31848,11 @@
     "slug": "marshall-brickman-rick-elice/the-addams-family/gomez-addams",
     "work_slug": "marshall-brickman-rick-elice/the-addams-family",
     "name": "Gomez Addams"
+  },
+  {
+    "slug": "marshall-brickman-rick-elice/the-addams-family/grandma",
+    "work_slug": "marshall-brickman-rick-elice/the-addams-family",
+    "name": "Grandma"
   },
   {
     "slug": "marshall-brickman-rick-elice/the-addams-family/mal-beineke",
@@ -34375,6 +34465,86 @@
     "name": "Orchester"
   },
   {
+    "slug": "paul-lincke/frau-luna/choreografie-solisten",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Choreografie Solisten"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/frau-luna",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Frau Luna"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/fritz-steppke",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Fritz Steppke"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/inspizienz",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Inspizienz"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/lammermeier",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Lämmermeier"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/marie",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Marie"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/mars",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Mars"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/mathilde-pusebach",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Mathilde Pusebach"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/mondgroom",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Mondgroom"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/pannecke",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Pannecke"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/prinz-sternschnuppe",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Prinz Sternschnuppe"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/regieassistenz-abendspielleitung",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Regieassistenz/Abendspielleitung"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/soufflage-inspizienz",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Soufflage/ Inspizienz"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/stella",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Stella"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/theophil",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Theophil"
+  },
+  {
+    "slug": "paul-lincke/frau-luna/venus",
+    "work_slug": "paul-lincke/frau-luna",
+    "name": "Venus"
+  },
+  {
     "slug": "paul-moravec/the-shining-eea/bill-watson",
     "work_slug": "paul-moravec/the-shining-eea",
     "name": "Bill Watson"
@@ -34953,6 +35123,11 @@
     "slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/jeannette",
     "work_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was",
     "name": "Jeannette"
+  },
+  {
+    "slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/kampfchoerografie",
+    "work_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was",
+    "name": "Kampfchoerografie"
   },
   {
     "slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friederich-aus-dem-westen",
@@ -37613,6 +37788,11 @@
     "slug": "richard-strauss/der-rosenkavalier/co-kostumbildner",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Co-Kostümbildner"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/co-videodesign-kunstlerische-miitarbeit-video",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Co-Videodesign / Künstlerische Miitarbeit Video"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/der-baron-ochs-auf-lerchenau",

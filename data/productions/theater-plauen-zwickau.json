@@ -1,5 +1,120 @@
 [
   {
+    "id": "theater-plauen-zwickau/2353",
+    "work_slug": "paul-lincke/frau-luna",
+    "house_slug": "theater-plauen-zwickau",
+    "is_revival": false,
+    "detail_url": "https://www.theater-plauen-zwickau.de/spielplan.php?seite=0&id=2353",
+    "creative_team": [
+      {
+        "person_slug": "sergei-vanaev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "michael-konstantin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "dionysis-pantis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "paul-willot-forster",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "horst-kupich",
+        "function": "director"
+      },
+      {
+        "person_slug": "christina-schmidt",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ella-spate",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kristina-kelly-zaidner",
+        "role_slug": "paul-lincke/frau-luna/choreografie-solisten"
+      },
+      {
+        "person_slug": "natalia-willot",
+        "role_slug": "paul-lincke/frau-luna/frau-luna"
+      },
+      {
+        "person_slug": "andre-gass",
+        "role_slug": "paul-lincke/frau-luna/fritz-steppke"
+      },
+      {
+        "person_slug": "teresa-maria-simeoni",
+        "role_slug": "paul-lincke/frau-luna/inspizienz"
+      },
+      {
+        "person_slug": "alexander-voigt",
+        "role_slug": "paul-lincke/frau-luna/lammermeier"
+      },
+      {
+        "person_slug": "elisabeth-birgmeier",
+        "role_slug": "paul-lincke/frau-luna/marie"
+      },
+      {
+        "person_slug": "beata-panfil",
+        "role_slug": "paul-lincke/frau-luna/mars"
+      },
+      {
+        "person_slug": "manja-ilgen",
+        "role_slug": "paul-lincke/frau-luna/mars"
+      },
+      {
+        "person_slug": "claudia-luftenegger",
+        "role_slug": "paul-lincke/frau-luna/mathilde-pusebach"
+      },
+      {
+        "person_slug": "jacqueline-treydel",
+        "role_slug": "paul-lincke/frau-luna/mondgroom"
+      },
+      {
+        "person_slug": "silke-jahn-popov",
+        "role_slug": "paul-lincke/frau-luna/mondgroom"
+      },
+      {
+        "person_slug": "andrey-valiguras",
+        "role_slug": "paul-lincke/frau-luna/pannecke"
+      },
+      {
+        "person_slug": "wonjong-lee",
+        "role_slug": "paul-lincke/frau-luna/prinz-sternschnuppe"
+      },
+      {
+        "person_slug": "ulrike-cordula-berger",
+        "role_slug": "paul-lincke/frau-luna/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "marian-hadraba",
+        "role_slug": "paul-lincke/frau-luna/soufflage-inspizienz"
+      },
+      {
+        "person_slug": "joanna-jaworowska",
+        "role_slug": "paul-lincke/frau-luna/stella"
+      },
+      {
+        "person_slug": "nikolaus-nitzsche",
+        "role_slug": "paul-lincke/frau-luna/theophil"
+      },
+      {
+        "person_slug": "alena-kazantseva",
+        "role_slug": "paul-lincke/frau-luna/venus"
+      },
+      {
+        "person_slug": "viktorija-narvidaite",
+        "role_slug": "paul-lincke/frau-luna/venus"
+      }
+    ]
+  },
+  {
     "id": "theater-plauen-zwickau/2354",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "house_slug": "theater-plauen-zwickau",

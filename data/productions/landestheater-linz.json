@@ -743,6 +743,18 @@
     "detail_url": "https://www.landestheater-linz.at/stuecke/detail?ref=202620271999",
     "creative_team": [
       {
+        "person_slug": "ilja-van-den-bosch",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "franz-obermair",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "marc-reibel",
+        "function": "conductor"
+      },
+      {
         "person_slug": "anja-rabes",
         "function": "costume-designer"
       },
@@ -765,8 +777,40 @@
     ],
     "cast": [
       {
+        "person_slug": "chor-des-landestheaters-linz",
+        "role_slug": "giuseppe-verdi/luisa-miller/chor"
+      },
+      {
+        "person_slug": "manuela-leonhartsberger",
+        "role_slug": "giuseppe-verdi/luisa-miller/federica"
+      },
+      {
+        "person_slug": "dominik-nekel",
+        "role_slug": "giuseppe-verdi/luisa-miller/graf-von-walter"
+      },
+      {
+        "person_slug": "gotho-griesmeier",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa"
+      },
+      {
+        "person_slug": "morgane-heyse",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa"
+      },
+      {
+        "person_slug": "adam-kim",
+        "role_slug": "giuseppe-verdi/luisa-miller/miller"
+      },
+      {
         "person_slug": "bruckner-orchester-linz",
         "role_slug": "giuseppe-verdi/luisa-miller/orchester"
+      },
+      {
+        "person_slug": "kazuki-yoshida",
+        "role_slug": "giuseppe-verdi/luisa-miller/rodolfo"
+      },
+      {
+        "person_slug": "michael-wagner",
+        "role_slug": "giuseppe-verdi/luisa-miller/wurm"
       }
     ]
   },

@@ -190,39 +190,39 @@
     ],
     "cast": [
       {
-        "person_slug": "fogl-noemi-e-h-szfe",
+        "person_slug": "bayer-fruzsina-e-h-szfe",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/a-demon-vizkopo"
       },
       {
-        "person_slug": "angler-balazs",
+        "person_slug": "czuczor-david",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/a-kobold-vizkopo"
       },
       {
-        "person_slug": "petridisz-hrisztosz",
+        "person_slug": "palfalvy-attila",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/az-oroszlan-vizkopo"
       },
       {
-        "person_slug": "foldes-tamas",
+        "person_slug": "szomor-gyorgy",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/claude-frollo"
       },
       {
-        "person_slug": "miklos-attila",
+        "person_slug": "magocs-otto",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/clopin-trouillefou-a-ciganyok-kiralya"
       },
       {
-        "person_slug": "olah-tibor",
+        "person_slug": "karpat-attila",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/dupin-atya"
       },
       {
-        "person_slug": "szeles-flora",
+        "person_slug": "lipics-franciska-e-h-szfe",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/esmeralda"
       },
       {
-        "person_slug": "szabo-dora",
+        "person_slug": "nagy-alma-virag-e-h-szfe",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/florika-ciganylany"
       },
       {
-        "person_slug": "boldizsar-tamas",
+        "person_slug": "angler-balazs",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/frederic-charlus-hadnagy"
       },
       {
@@ -238,11 +238,11 @@
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/madame"
       },
       {
-        "person_slug": "kocsis-denes",
+        "person_slug": "szentmartoni-norman",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/phoebus-de-martin-kapitany"
       },
       {
-        "person_slug": "sandor-peter",
+        "person_slug": "tassonyi-balazs-e-h-szfe",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/quasimodo"
       },
       {
@@ -250,8 +250,182 @@
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/szent-aphrodisius"
       },
       {
-        "person_slug": "kocsis-tamas",
+        "person_slug": "hargitai-gergely",
         "role_slug": "alan-menken/a-notre-dame-i-toronyor/xi-lajos-franciaorszag-kiralya"
+      }
+    ]
+  },
+  {
+    "id": "budapest-operetta/budapest-operetta-a-szepseg-es-a-szornyeteg",
+    "work_slug": "alan-menken/a-szepseg-es-a-szornyeteg",
+    "house_slug": "budapest-operetta",
+    "premiere_date": "2005-03-18",
+    "is_revival": false,
+    "language": "hu",
+    "detail_url": "https://operett.hu/repertoar/a-szepseg-es-a-szornyeteg",
+    "image_url": "https://operett.hu/pixs/pix-repertoar/nevtelen-terv-29-2faba6485c.png",
+    "creative_team": [
+      {
+        "person_slug": "duda-eva",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "szabo-monika",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "turi-erzsebet",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "bohm-gyorgy",
+        "function": "director"
+      },
+      {
+        "person_slug": "somfai-peter",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rozsa-istvan",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "borbely-richard",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/a-szornyeteg"
+      },
+      {
+        "person_slug": "cseh-david-peter",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/a-szornyeteg"
+      },
+      {
+        "person_slug": "szentmartoni-norman",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/a-szornyeteg"
+      },
+      {
+        "person_slug": "drahos-evelin",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/babette-a-portorlo"
+      },
+      {
+        "person_slug": "kekkovacs-mara",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/babette-a-portorlo"
+      },
+      {
+        "person_slug": "kertesz-nora-e-h-szfe",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/babette-a-portorlo"
+      },
+      {
+        "person_slug": "szabo-cintia-e-h-szfe",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/babette-a-portorlo"
+      },
+      {
+        "person_slug": "fekete-kovacs-veronika",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/belle-a-szepseg"
+      },
+      {
+        "person_slug": "nagy-alma-virag-e-h-szfe",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/belle-a-szepseg"
+      },
+      {
+        "person_slug": "szeles-flora",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/belle-a-szepseg"
+      },
+      {
+        "person_slug": "jeles-balint",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/cseszi"
+      },
+      {
+        "person_slug": "mester-mate",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/cseszi"
+      },
+      {
+        "person_slug": "szantho-balint",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/cseszi"
+      },
+      {
+        "person_slug": "czuczor-david",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/gaston"
+      },
+      {
+        "person_slug": "vajda-zoltan-richard-e-h-szfe",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/gaston"
+      },
+      {
+        "person_slug": "furedi-nikolett",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/kannamama"
+      },
+      {
+        "person_slug": "nadasi-veronika",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/kannamama"
+      },
+      {
+        "person_slug": "simenfalvy-agota",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/kannamama"
+      },
+      {
+        "person_slug": "antolovics-peter-e-h-szfe",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/lefou-gaston-szolgaja"
+      },
+      {
+        "person_slug": "olah-tibor",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/lefou-gaston-szolgaja"
+      },
+      {
+        "person_slug": "serban-attila",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/lefou-gaston-szolgaja"
+      },
+      {
+        "person_slug": "balazsfi-alexandra-m-v",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/libuska"
+      },
+      {
+        "person_slug": "farago-alexandra",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/libuska"
+      },
+      {
+        "person_slug": "pyka-alexandra",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/libuska"
+      },
+      {
+        "person_slug": "szente-laboda-zsanett",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/libuska"
+      },
+      {
+        "person_slug": "sz-nagy-ildiko",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/madame-de-la-nagy-bohom"
+      },
+      {
+        "person_slug": "vasari-monika",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/madame-de-la-nagy-bohom"
+      },
+      {
+        "person_slug": "bardoczy-attila",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/maurice"
+      },
+      {
+        "person_slug": "csuha-lajos",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/maurice"
+      },
+      {
+        "person_slug": "foldes-tamas",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/mister-ketyegi"
+      },
+      {
+        "person_slug": "magocs-otto",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/mister-ketyegi"
+      },
+      {
+        "person_slug": "peller-karoly",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/mister-ketyegi"
+      },
+      {
+        "person_slug": "angler-balazs",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/monsieur-kanoc"
+      },
+      {
+        "person_slug": "balint-adam",
+        "role_slug": "alan-menken/a-szepseg-es-a-szornyeteg/monsieur-kanoc"
       }
     ]
   },
@@ -487,7 +661,7 @@
     "is_revival": false,
     "language": "hu",
     "detail_url": "https://operett.hu/repertoar/mindig-itt-leszunk-mohacs-500",
-    "image_url": "https://operett.hu/pixs/pix-page-cover/nevtelen-terv-17-37ccaca200.png",
+    "image_url": "https://operett.hu/pixs/pix-page-cover/hofeherke-1920x400-2a9752e1f6.png",
     "creative_team": [
       {
         "person_slug": "simon-istvan",

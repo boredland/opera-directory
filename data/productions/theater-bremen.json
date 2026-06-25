@@ -114,7 +114,15 @@
         "function": "choreographer"
       },
       {
-        "person_slug": "yu-sugimoto-sasha-yankevych",
+        "person_slug": "karl-bernewitz",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kinderchor-des-theater-bremen-opernchor-des-theater-bremen",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "sasha-yankevych-yu-sugimoto",
         "function": "conductor"
       },
       {
@@ -134,7 +142,16 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "bremer-philharmoniker",
+        "role_slug": "georges-bizet/carmen/orchester"
+      },
+      {
+        "person_slug": "statisterie-des-theater-bremen",
+        "role_slug": "georges-bizet/carmen/statisterie"
+      }
+    ]
   },
   {
     "id": "theater-bremen/1398908",
@@ -146,6 +163,10 @@
       {
         "person_slug": "jacqueline-davenport",
         "function": "choreographer"
+      },
+      {
+        "person_slug": "opernchor-des-theater-bremen",
+        "function": "chorus-master"
       },
       {
         "person_slug": "yu-sugimoto",
@@ -172,7 +193,12 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "bremer-philharmoniker",
+        "role_slug": "carl-maria-von-weber/der-freischutz/orchester"
+      }
+    ]
   },
   {
     "id": "theater-bremen/1398921",

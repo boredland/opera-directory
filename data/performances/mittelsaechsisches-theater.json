@@ -40,6 +40,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mittelsaechsisches-theater/die-lustige-witwe/2026-06-26/19:00",
+    "production_id": "mittelsaechsisches-theater/die-lustige-witwe",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "venue_room": "Seebühne Kriebstein",
+    "status": "scheduled"
+  },
+  {
     "id": "mittelsaechsisches-theater/die-lustige-witwe/2026-06-27/18:00",
     "production_id": "mittelsaechsisches-theater/die-lustige-witwe",
     "date": "2026-06-27",
@@ -48,10 +56,26 @@
     "status": "scheduled"
   },
   {
+    "id": "mittelsaechsisches-theater/die-lustige-witwe/2026-06-27/19:00",
+    "production_id": "mittelsaechsisches-theater/die-lustige-witwe",
+    "date": "2026-06-27",
+    "time": "19:00",
+    "venue_room": "Seebühne Kriebstein",
+    "status": "scheduled"
+  },
+  {
     "id": "mittelsaechsisches-theater/die-lustige-witwe/2026-06-28/18:00",
     "production_id": "mittelsaechsisches-theater/die-lustige-witwe",
     "date": "2026-06-28",
     "time": "18:00",
+    "venue_room": "Seebühne Kriebstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "mittelsaechsisches-theater/die-lustige-witwe/2026-06-28/19:00",
+    "production_id": "mittelsaechsisches-theater/die-lustige-witwe",
+    "date": "2026-06-28",
+    "time": "19:00",
     "venue_room": "Seebühne Kriebstein",
     "status": "scheduled"
   },

@@ -133,10 +133,6 @@
     "detail_url": "https://www.operaphila.org/whats-on/2627-season/suddenly-last-summer/",
     "creative_team": [
       {
-        "person_slug": "nathan-koci",
-        "function": "conductor"
-      },
-      {
         "person_slug": "daniel-fish",
         "function": "director"
       },
@@ -149,6 +145,10 @@
       {
         "person_slug": "mikaela-bennett",
         "role_slug": "courtney-bryan/suddenly-last-summer/catherine-holly"
+      },
+      {
+        "person_slug": "nathan-koci",
+        "role_slug": "courtney-bryan/suddenly-last-summer/conductor-music-supervisor"
       }
     ]
   }

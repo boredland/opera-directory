@@ -512,6 +512,14 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-altenburg-gera/joseph-suess-2163/2027-05-23/11:00",
+    "production_id": "theater-altenburg-gera/joseph-suess-2163",
+    "date": "2027-05-23",
+    "time": "11:00",
+    "venue_room": "Großes Haus Gera",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-altenburg-gera/joseph-suess-2163/2027-06-04/19:30",
     "production_id": "theater-altenburg-gera/joseph-suess-2163",
     "date": "2027-06-04",
@@ -612,6 +620,14 @@
     "production_id": "theater-altenburg-gera/la-traviata-2156",
     "date": "2027-02-14",
     "time": "18:00",
+    "venue_room": "Theaterzelt Altenburg",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-altenburg-gera/neues-vom-tage-2160/2027-01-03/11:00",
+    "production_id": "theater-altenburg-gera/neues-vom-tage-2160",
+    "date": "2027-01-03",
+    "time": "11:00",
     "venue_room": "Theaterzelt Altenburg",
     "status": "scheduled"
   },

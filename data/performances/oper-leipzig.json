@@ -168,6 +168,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/eurydike-795/2026-09-26/19:00",
+    "production_id": "oper-leipzig/eurydike-795",
+    "date": "2026-09-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/evita-728/2026-05-09/19:00",
     "production_id": "oper-leipzig/evita-728",
     "date": "2026-05-09",
@@ -504,6 +511,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/strangers-in-the-night-788/2027-04-30/19:30",
+    "production_id": "oper-leipzig/strangers-in-the-night-788",
+    "date": "2027-04-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/the-producers-676/2026-06-27/19:00",
     "production_id": "oper-leipzig/the-producers-676",
     "date": "2026-06-27",
@@ -585,6 +599,27 @@
     "production_id": "oper-leipzig/unterwelten-828",
     "date": "2026-06-07",
     "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-06-30/19:30",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-06-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-07-01/19:30",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-07-01",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-07-02/19:30",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-07-02",
+    "time": "19:30",
     "status": "scheduled"
   }
 ]

@@ -285,7 +285,16 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-cavalleria-r",
@@ -2200,7 +2209,7 @@
     "premiere_date": "2007-05-31",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/28/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/toska/_banner_tosca_eng.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/toska/tosca_gerzmava_by_razina.jpg",
     "synopsis": "The Church of Sant’Andrea della Valle, Rome Angelotti, former Consul of the Republic of Rome and now a political prisoner who has escaped from prison, enters exhausted. He hides in the chapel of his sister, the Marchesa Attavanti. The artist Cavaradossi is working on an image of Mary Magdalene. The Sacristan is shocked that the painting resembles a woman in his congregation. Cavaradossi denies the resemblance: only Tosca occupies his thoughts and his brush could paint the features of no-one else. After the Sacristan leaves Angelotti emerges from the chapel. He knows the artist and trusts him, and so he begs for assistance. Hearing Tosca’s voice, he hides again. The singer notices the painting of Mary Magdalene resembles the Marchesa Attavanti. Tosca’s jealousy erupts but the artist manages to pacify her. Floria leaves and Cavaradossi offers the fugitive refuge in his home. Gunshots are heard – the escape has been discovered. The men hurry away. A celebratory mass begins. Scarpia, chief of police of Rome, and police agent Spoletta are among the worshippers. They are interested in the Attavanti Chapel where they expect to discover Angelotti, but find a fan left there by the Marchesa and an empty food basket. Seeing Tosca return to the church in the hopes of seeing her beloved again, Scarpia decides to seize his opportunity. He cunningly provokes Floria’s jealousy. When she runs out of the church, Scarpia sends police agents after her, believing that the infuriated Tosca will lead them to the artist’s secret hiding place. The Farnese Palace Scarpia is in his apartments awaiting news from his agents. His expectations are only half fulfilled: Tosca did lead them to Cavaradossi who has now been arrested but Angelotti remains at liberty. Scarpia hopes to torture the artist into revealing the truth and orders Tosca be brought to him. The chief of police himself begins Cavaradossi’s interrogation but to no avail. The artist manages to whisper to Tosca to keep the secret at a",
     "creative_team": [
       {
@@ -2220,7 +2229,16 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "hibla-gerzmava",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-traviata-kz",
