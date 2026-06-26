@@ -1105,7 +1105,72 @@
         "function": "choreographer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "guillaume-gabriel",
+        "role_slug": "herve-koubi/administration-und-choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "abdelghani-ferradji",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "ayoub-rouiffi",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "bendehiba-maamar",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "el-houssaini-zahid",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "giacomo-buffoni",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "guibi-badr-benr",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "houssni-mijem",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "islam-kunakkulov",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "matteo-ruiz",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "mohammed-elhilali",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "nadjib-meherhera",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "oualid-guennoun",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "vladimir-gruev",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "youssef-el-kanfoudi",
+        "role_slug": "herve-koubi/tanzer"
+      },
+      {
+        "person_slug": "faycal-hamlat",
+        "role_slug": "herve-koubi/trainingsleitung-und-choreografische-assistenz"
+      }
+    ]
   },
   {
     "id": "staatsoper-hamburg/ballett-3047-tanz-fuer-mich",
@@ -1143,6 +1208,20 @@
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3049-familien-und-jugendeinfuehrungen",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "work_slug": "patenklassen-ballett",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/3050-patenklassen-ballett",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "elisabeth-bell",
+        "role_slug": "patenklassen-ballett/leitung"
+      }
+    ]
   },
   {
     "id": "staatsoper-hamburg/ballett-3051-kantinentalk",
@@ -3617,7 +3696,7 @@
     ],
     "cast": [
       {
-        "person_slug": "paul-barritt",
+        "person_slug": "paul-barritt-1927",
         "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/animation"
       },
       {
@@ -3633,7 +3712,7 @@
         "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/konzeption"
       },
       {
-        "person_slug": "paul-barritt",
+        "person_slug": "paul-barritt-1927",
         "role_slug": "igor-strawinsky-l-enfant-et-les-sortileges-oper-in-zwei-teilen-1925-komposition-maurice-ravel/petruschka-l-enfant-et-les-sortileges/konzeption"
       },
       {
@@ -3981,7 +4060,7 @@
         "role_slug": "gordon-kampe/stortebeker/jorg-michel"
       },
       {
-        "person_slug": "elisabeth-holscheidt",
+        "person_slug": "maria-ludwig-petersen",
         "role_slug": "gordon-kampe/stortebeker/jugendchor"
       },
       {
@@ -4804,11 +4883,11 @@
         "function": "set-designer"
       },
       {
-        "person_slug": "momme-hinrichs",
+        "person_slug": "momme-hinrichs-fettfilm",
         "function": "video-designer"
       },
       {
-        "person_slug": "torge-m-ller",
+        "person_slug": "torge-m-ller-fettfilm",
         "function": "video-designer"
       }
     ],

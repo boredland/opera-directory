@@ -367,10 +367,6 @@
     "detail_url": "https://www.salzburger-landestheater.at/de/produktionen/haensel-und-gretel-2.html",
     "creative_team": [
       {
-        "person_slug": "salzburger-festspiele-und-theater-kinderchor",
-        "function": "chorus-master"
-      },
-      {
         "person_slug": "leslie-suganandarajah",
         "function": "conductor"
       },
@@ -385,32 +381,8 @@
     ],
     "cast": [
       {
-        "person_slug": "n-n",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib-die-hexe"
-      },
-      {
-        "person_slug": "n-n",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gretel"
-      },
-      {
-        "person_slug": "n-n",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hansel"
-      },
-      {
         "person_slug": "thomas-mika",
         "role_slug": "engelbert-humperdinck/hansel-und-gretel/inszenierung-buhne-kostume"
-      },
-      {
-        "person_slug": "mozarteumorchester-salzburg",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/orchester"
-      },
-      {
-        "person_slug": "n-n",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder"
-      },
-      {
-        "person_slug": "n-n",
-        "role_slug": "engelbert-humperdinck/hansel-und-gretel/sandmannchen-taumannchen"
       }
     ]
   },

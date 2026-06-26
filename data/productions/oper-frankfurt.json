@@ -575,14 +575,6 @@
       {
         "person_slug": "taehan-kim",
         "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/guglielmo"
-      },
-      {
-        "person_slug": "akeshi-moriuchi",
-        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-leitung-t"
-      },
-      {
-        "person_slug": "alden-gatt",
-        "role_slug": "wolfgang-amadeus-mozart/cosi-fan-tutte/musikalische-leitung-t"
       }
     ]
   },
@@ -1961,7 +1953,16 @@
     "house_slug": "oper-frankfurt",
     "is_revival": false,
     "detail_url": "https://oper-frankfurt.de/de/spielplan/opernkarussell_3/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "polina-shpazhnikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "christoph-fischer",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {

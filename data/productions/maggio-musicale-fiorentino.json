@@ -342,7 +342,7 @@
         "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
       },
       {
-        "person_slug": "ludovico-filippo-ravizza",
+        "person_slug": "lodovico-filippo-ravizza",
         "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
       },
       {
@@ -394,10 +394,6 @@
         "role_slug": "richard-strauss/elektra/der-pfleger-des-orest"
       },
       {
-        "person_slug": "natalie-lewis",
-        "role_slug": "richard-strauss/elektra/die-aufseherin"
-      },
-      {
         "person_slug": "zeynep-seray-ozcan",
         "role_slug": "richard-strauss/elektra/die-aufseherin"
       },
@@ -424,6 +420,10 @@
       {
         "person_slug": "ricarda-merbeth",
         "role_slug": "richard-strauss/elektra/elektra"
+      },
+      {
+        "person_slug": "natalie-lewis",
+        "role_slug": "richard-strauss/elektra/erste-magd"
       },
       {
         "person_slug": "ilaria-monteverdi",
@@ -673,6 +673,10 @@
         "role_slug": "giuseppe-verdi/la-traviata/annina"
       },
       {
+        "person_slug": "lisandro-guinis",
+        "role_slug": "giuseppe-verdi/la-traviata/commissionario"
+      },
+      {
         "person_slug": "erica-cortese",
         "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
       },
@@ -698,11 +702,7 @@
       },
       {
         "person_slug": "egidio-massimo-naccarato",
-        "role_slug": "giuseppe-verdi/la-traviata/un-commissionario"
-      },
-      {
-        "person_slug": "lisandro-guinis",
-        "role_slug": "giuseppe-verdi/la-traviata/un-servo"
+        "role_slug": "giuseppe-verdi/la-traviata/un-domestico-di-flora"
       },
       {
         "person_slug": "kristina-mkhitarian",

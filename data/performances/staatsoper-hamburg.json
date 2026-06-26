@@ -678,6 +678,14 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-hamburg/ballett-2147484910-sneak-klub/2026-12-04/17:00",
+    "production_id": "staatsoper-hamburg/ballett-2147484910-sneak-klub",
+    "date": "2026-12-04",
+    "time": "17:00",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-hamburg/ballett-2147484910-sneak-klub/2026-12-05/11:00",
     "production_id": "staatsoper-hamburg/ballett-2147484910-sneak-klub",
     "date": "2026-12-05",
@@ -915,6 +923,62 @@
     "date": "2026-06-26",
     "time": "18:45",
     "venue_room": "Staatsoper, Stifter-Lounge (4. Rang)",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2026-09-10/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2026-09-10",
+    "time": "09:30",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2026-11-20/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2026-11-20",
+    "time": "09:30",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2027-01-20/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2027-01-20",
+    "time": "09:30",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2027-02-12/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2027-02-12",
+    "time": "09:30",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2027-04-09/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2027-04-09",
+    "time": "09:30",
+    "venue_room": "Staatsoper, Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2027-06-10/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2027-06-10",
+    "time": "09:30",
+    "venue_room": "Kuppel Hamburg",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett/2027-06-29/09:30",
+    "production_id": "staatsoper-hamburg/ballett-3050-patenklassen-ballett",
+    "date": "2027-06-29",
+    "time": "09:30",
+    "venue_room": "Kuppel Hamburg",
     "status": "scheduled"
   },
   {

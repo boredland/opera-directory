@@ -533,6 +533,51 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "jongwoo-kim",
+        "role_slug": "paul-hindemith/neues-vom-tage/der-schone-herr-herrmann"
+      },
+      {
+        "person_slug": "johannes-beck",
+        "role_slug": "paul-hindemith/neues-vom-tage/eduard"
+      },
+      {
+        "person_slug": "florian-jacques-rene-marignol",
+        "role_slug": "paul-hindemith/neues-vom-tage/ein-fremdenfuhrer"
+      },
+      {
+        "person_slug": "kai-wefer",
+        "role_slug": "paul-hindemith/neues-vom-tage/ein-hoteldirektor"
+      },
+      {
+        "person_slug": "raoni-hybner-de-barros",
+        "role_slug": "paul-hindemith/neues-vom-tage/ein-oberkellner"
+      },
+      {
+        "person_slug": "jesus-medina-vallejo",
+        "role_slug": "paul-hindemith/neues-vom-tage/ein-standesbeamter"
+      },
+      {
+        "person_slug": "annick-vettraino",
+        "role_slug": "paul-hindemith/neues-vom-tage/ein-zimmermadchen"
+      },
+      {
+        "person_slug": "franziska-weber",
+        "role_slug": "paul-hindemith/neues-vom-tage/frau-m"
+      },
+      {
+        "person_slug": "johannes-pietzonka",
+        "role_slug": "paul-hindemith/neues-vom-tage/herr-m"
+      },
+      {
+        "person_slug": "anne-preu",
+        "role_slug": "paul-hindemith/neues-vom-tage/laura"
+      },
+      {
+        "person_slug": "adam-michal-brusznicki",
+        "role_slug": "paul-hindemith/neues-vom-tage/sechs-manager"
+      }
+    ]
   }
 ]
