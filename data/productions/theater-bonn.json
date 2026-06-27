@@ -308,11 +308,20 @@
   },
   {
     "id": "theater-bonn/236848",
-    "work_slug": "tosca",
+    "work_slug": "dirk-kaftan/tosca",
     "house_slug": "theater-bonn",
     "is_revival": false,
     "detail_url": "https://www.theater-bonn.de/de/programm/tosca/236848",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "dirk-kaftan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silvia-gatto",
+        "function": "director"
+      }
+    ],
     "cast": []
   },
   {

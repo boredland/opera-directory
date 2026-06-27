@@ -910,6 +910,11 @@
     "name": "Raul, Onkel des Zaren"
   },
   {
+    "slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen",
+    "work_slug": "albert-lortzing/zar-und-zimmermann",
+    "name": "Tänzer*innen"
+  },
+  {
     "slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen-des",
     "work_slug": "albert-lortzing/zar-und-zimmermann",
     "name": "Tänzer*innen des"
@@ -4505,6 +4510,26 @@
     "name": "Wirtin"
   },
   {
+    "slug": "carl-maria-von-weber/freischutz-tischtheater/regieassistenz-inspizienz",
+    "work_slug": "carl-maria-von-weber/freischutz-tischtheater",
+    "name": "Regieassistenz / Inspizienz"
+  },
+  {
+    "slug": "carl-maria-von-weber/freischutz-tischtheater/spieler",
+    "work_slug": "carl-maria-von-weber/freischutz-tischtheater",
+    "name": "Spieler"
+  },
+  {
+    "slug": "carl-maria-von-weber/freischutz-tischtheater/spielerin",
+    "work_slug": "carl-maria-von-weber/freischutz-tischtheater",
+    "name": "Spielerin"
+  },
+  {
+    "slug": "carl-maria-von-weber/freischutz-tischtheater/studierende-der-theaterakademie-sachsen",
+    "work_slug": "carl-maria-von-weber/freischutz-tischtheater",
+    "name": "* Studierende der Theaterakademie Sachsen"
+  },
+  {
     "slug": "carl-maria-von-weber/oberon-konig-der-elfen/eine-der-drei-pucks",
     "work_slug": "carl-maria-von-weber/oberon-konig-der-elfen",
     "name": "Eine der drei Pucks"
@@ -7445,6 +7470,11 @@
     "name": "Zwangsarbeiterin"
   },
   {
+    "slug": "dmitri-sjostakovitsj/cherry-town/babble",
+    "work_slug": "dmitri-sjostakovitsj/cherry-town",
+    "name": "Babble"
+  },
+  {
     "slug": "dmitri-sjostakovitsj/cherry-town/blatherbox",
     "work_slug": "dmitri-sjostakovitsj/cherry-town",
     "name": "Blatherbox"
@@ -8738,6 +8768,11 @@
     "slug": "emmerich-kalman/die-csardasfurstin/hector",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Héctor"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/herr-kisch",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Herr Kisch"
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/herr-kopp",
@@ -16380,6 +16415,11 @@
     "name": "Prinsen av Persien - vokalt"
   },
   {
+    "slug": "giacomo-puccini/turandot/prinz-von-persien-gesang",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "Prinz von Persien (Gesang)"
+  },
+  {
     "slug": "giacomo-puccini/turandot/second-handmaid",
     "work_slug": "giacomo-puccini/turandot",
     "name": "Second Handmaid"
@@ -18248,6 +18288,11 @@
     "slug": "gioachino-rossini/tancredi/argirio",
     "work_slug": "gioachino-rossini/tancredi",
     "name": "Argirio"
+  },
+  {
+    "slug": "gioachino-rossini/tancredi/die-betreuung-von-kindern-von-3-8-jahren-ist-fur-eltern-die-die-vorstellung-besuchen-kostenlos-jedoch-auf-16-kinder-begrenzt-eine",
+    "work_slug": "gioachino-rossini/tancredi",
+    "name": "Die Betreuung von Kindern von 3–8 Jahren ist für Eltern, die die Vorstellung besuchen, kostenlos, jedoch auf 16 Kinder begrenzt. Eine"
   },
   {
     "slug": "gioachino-rossini/tancredi/isaura",
@@ -20680,6 +20725,11 @@
     "name": "Diener Macbeths"
   },
   {
+    "slug": "giuseppe-verdi/macbeth/diener-macbeths-herold-arzt",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Diener Macbeths/Herold/Arzt"
+  },
+  {
     "slug": "giuseppe-verdi/macbeth/diener-morder-herold",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "Diener / Mörder / Herold"
@@ -20693,6 +20743,11 @@
     "slug": "giuseppe-verdi/macbeth/domestico-di-macbeth",
     "work_slug": "giuseppe-verdi/macbeth",
     "name": "Domestico di Macbeth"
+  },
+  {
+    "slug": "giuseppe-verdi/macbeth/drei-erscheinungen",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "name": "Drei Erscheinungen"
   },
   {
     "slug": "giuseppe-verdi/macbeth/duncan",
@@ -27755,9 +27810,34 @@
     "name": "Werther"
   },
   {
+    "slug": "julien-chavaz/neverland/beleuchtungsdesign",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Beleuchtungsdesign"
+  },
+  {
+    "slug": "julien-chavaz/neverland/buhne",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Bühne"
+  },
+  {
     "slug": "julien-chavaz/neverland/konzept",
     "work_slug": "julien-chavaz/neverland",
     "name": "Konzept"
+  },
+  {
+    "slug": "julien-chavaz/neverland/kostum",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Kostüm"
+  },
+  {
+    "slug": "julien-chavaz/neverland/mitarbeit-regie",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Mitarbeit Regie"
+  },
+  {
+    "slug": "julien-chavaz/neverland/tinkerbell",
+    "work_slug": "julien-chavaz/neverland",
+    "name": "Tinkerbell"
   },
   {
     "slug": "kaija-saariaho-libretto-by-sofi-oksanen-and-aleksi-barriere/innocence/alexia",
@@ -29943,6 +30023,11 @@
     "slug": "leos-janacek-thomas-ades/vanishings/mitarbeit-buhne",
     "work_slug": "leos-janacek-thomas-ades/vanishings",
     "name": "Mitarbeit Bühne"
+  },
+  {
+    "slug": "leos-janacek-thomas-ades/vanishings/vortrag",
+    "work_slug": "leos-janacek-thomas-ades/vanishings",
+    "name": "Vortrag"
   },
   {
     "slug": "leos-janacek/das-schlaue-fuchslein/choreographie-und-szenische-mitarbeit",
@@ -33023,6 +33108,11 @@
     "slug": "monteverdi/l-orfeo/la-speranza-messaggera",
     "work_slug": "monteverdi/l-orfeo",
     "name": "La Speranza / Messaggera"
+  },
+  {
+    "slug": "monteverdi/l-orfeo/messaggera-la-speranza",
+    "work_slug": "monteverdi/l-orfeo",
+    "name": "Messaggera / La Speranza"
   },
   {
     "slug": "monteverdi/l-orfeo/orfeo",
@@ -40253,6 +40343,11 @@
     "slug": "richard-wagner/lohengrin/vierter-edelknabe",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Vierter Edelknabe"
+  },
+  {
+    "slug": "richard-wagner/lohengrin/vortrag",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Vortrag"
   },
   {
     "slug": "richard-wagner/lohengrin/zweiter-brabantischer-edler",

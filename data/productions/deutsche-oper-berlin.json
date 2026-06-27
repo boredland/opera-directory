@@ -1498,6 +1498,97 @@
     ]
   },
   {
+    "id": "deutsche-oper-berlin/la-boheme-17825194",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/la-boheme.17825194",
+    "creative_team": [
+      {
+        "person_slug": "christian-lindhorst",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "juraj-valcuha",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gotz-friedrich",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephen-watson",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-sykora",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "burkhard-ulrich",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "jorg-schorner",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "kinderchor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "thomas-richter",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "joel-allison",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "thomas-lehman",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "maria-motolygina",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "alexandra-oomens",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/orchester"
+      },
+      {
+        "person_slug": "michael-dimovski",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "andrei-danilov",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "philipp-jekal",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "paul-minhyung-roh",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollwache"
+      },
+      {
+        "person_slug": "benjamin-dickerson",
+        "role_slug": "giacomo-puccini/la-boheme/zollner"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-berlin/opernwerkstatt-zar-und-zimmermann-17862474",
     "work_slug": "probenbesuch-und-gesprach/opernwerkstatt-zar-und-zimmermann",
     "house_slug": "deutsche-oper-berlin",
@@ -1543,6 +1634,69 @@
     "house_slug": "deutsche-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/teenie-times.17993972",
+    "creative_team": [
+      {
+        "person_slug": "anne-keil",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fanny-frohnmeyer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sebastian-hanusa",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "janina-capelle",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "marie-gimpel",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lukas-macher",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/bandworkshops"
+      },
+      {
+        "person_slug": "karin-perk",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/betreuung-bands"
+      },
+      {
+        "person_slug": "octavia-gloggengie-er",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/betreuung-bands"
+      },
+      {
+        "person_slug": "dariya-maminova",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/komposition"
+      },
+      {
+        "person_slug": "anne-pretzsch",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/kunstlerische-leitung"
+      },
+      {
+        "person_slug": "lisa-florentine-schmalz-staatsoper24",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/kunstlerische-leitung"
+      },
+      {
+        "person_slug": "pauline-jacob-staatsoper24",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/kunstlerische-leitung"
+      },
+      {
+        "person_slug": "berliner-jugendlichen",
+        "role_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times/mit"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-berlin/teenie-times-17993973",
+    "work_slug": "ein-partizipatives-und-inklusives-musiktheaterprojekt-fur-alle-von-13-18-jahren/teenie-times",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/teenie-times.17993973",
     "creative_team": [
       {
         "person_slug": "anne-keil",
@@ -2274,8 +2428,36 @@
         "role_slug": "albert-lortzing/zar-und-zimmermann/raul-onkel-des-zaren"
       },
       {
-        "person_slug": "opernballett-der-deutschen-oper-berlin",
-        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen-des"
+        "person_slug": "charlotte-fischer",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "derrick-amanatidis",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "fabio-kopf",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "gwennaelle-ludwig",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "robin-poell",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "stephen-dole",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "verena-schonberger",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
       },
       {
         "person_slug": "patrick-zielke",

@@ -298,26 +298,38 @@
     "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/neverland/",
     "creative_team": [
       {
-        "person_slug": "severine-besson",
-        "function": "costume-designer"
-      },
-      {
         "person_slug": "julien-chavaz",
         "function": "director"
       },
       {
         "person_slug": "christoph-clausen",
         "function": "dramaturgy"
-      },
-      {
-        "person_slug": "meike-kurella",
-        "function": "set-designer"
       }
     ],
     "cast": [
       {
+        "person_slug": "eloi-gianini",
+        "role_slug": "julien-chavaz/neverland/beleuchtungsdesign"
+      },
+      {
+        "person_slug": "meike-kurella",
+        "role_slug": "julien-chavaz/neverland/buhne"
+      },
+      {
         "person_slug": "julien-chavaz",
         "role_slug": "julien-chavaz/neverland/konzept"
+      },
+      {
+        "person_slug": "severine-besson",
+        "role_slug": "julien-chavaz/neverland/kostum"
+      },
+      {
+        "person_slug": "alixe-durand-saint-guillain",
+        "role_slug": "julien-chavaz/neverland/mitarbeit-regie"
+      },
+      {
+        "person_slug": "daniel-daniela-ojeda-yrureta",
+        "role_slug": "julien-chavaz/neverland/tinkerbell"
       }
     ]
   },

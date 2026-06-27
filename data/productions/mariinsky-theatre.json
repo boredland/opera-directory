@@ -2406,53 +2406,49 @@
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-turandot",
     "work_slug": "giacomo-puccini/turandot",
     "house_slug": "mariinsky-theatre",
-    "premiere_date": "2025-02-24",
+    "premiere_date": "2002-07-25",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/26/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/turandot/kz/kz_turan_dombrovskaya_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/31/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/turandot/turandot_semenchuk_by_vilchuk.jpg",
     "synopsis": "Act I A crowd assembled by the walls of the Imperial palace in Peking listens to a Mandarin reading a decree – anyone who wishes to win the hand of Princess Turandot must solve three riddles; whosoever cannot answer must die. The young Prince of Persia is to be executed this night. The excited crowd rushes towards the palace, but the guards keep the people back. An old man falls to the ground. In anguish, a young girl calls for help. A young man rushes out from the crowd, recognising the old man to be his father. Their unexpected meeting is not a joyful occasion – old Timur&acute;s enemies have usurped his throne and banished him from his native land; his son Calaf has been forced to wander foreign parts, hiding his name from everyone. Timur is accompanied everywhere by the faithful slave girl Liù, whose love for Calaf is unrequited. Preparations for the execution are underway on the square. Night descends. As the moon rises, the crowd awaits the appearance of Turandot. A triumphal procession approaches. It is met by a funeral procession – that of the Prince of Persia going to his execution. The people feel pity for him and beg Turandot to have mercy on him. Calaf vengefully curses the hard-hearted Princess. Finally, however, she appears, and Calaf is blinded by her beauty. In vain, his father tries to dissuade him: Calaf knows he must win Turandot&acute;s heart. Suddenly the ministers Ping, Pong and Pang bar his way. They warn the Prince and jeer at him, summoning the spirits of those who have died from their love of Turandot. Liù begs Calaf to leave – neither she nor his father could bear to see him die. Calaf is touched by her entreaties, but cannot relinquish his love for Turandot. At his signal, a servant strikes a huge gong three times, declaring Calaf&acute;s decision to attempt to win the Princess. Act II Scene 1 Ping, Pong and Pang are pondering the fate of the unknown Prince who has decided to solve Turandot&acute;s riddles: what will dawn bring – a weddin",
     "creative_team": [
+      {
+        "person_slug": "dmitry-korneyev",
+        "function": "choreographer"
+      },
       {
         "person_slug": "konstantin-rylov",
         "function": "chorus-master"
       },
       {
-        "person_slug": "nikita-gribanov",
-        "function": "chorus-master"
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
       },
       {
-        "person_slug": "maxim-dushin",
+        "person_slug": "katia-duflot",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "charles-roubaud",
+        "function": "director"
+      },
+      {
+        "person_slug": "vladimir-lukasevich",
         "function": "lighting"
+      },
+      {
+        "person_slug": "isabelle-partiot-pieri",
+        "function": "set-designer"
       }
     ],
     "cast": [
       {
-        "person_slug": "karlen-manukyan",
-        "role_slug": "giacomo-puccini/turandot/calaf"
-      },
-      {
-        "person_slug": "yekaterina-goncharova",
-        "role_slug": "giacomo-puccini/turandot/liu"
-      },
-      {
-        "person_slug": "alexander-timchenko",
-        "role_slug": "giacomo-puccini/turandot/pang"
-      },
-      {
-        "person_slug": "andrei-spekhov",
-        "role_slug": "giacomo-puccini/turandot/ping"
-      },
-      {
-        "person_slug": "andrei-zorin",
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
         "role_slug": "giacomo-puccini/turandot/pong"
       },
       {
-        "person_slug": "zhanna-dombrovskaya",
+        "person_slug": "ekaterina-semenchuk",
         "role_slug": "giacomo-puccini/turandot/princess-turandot"
-      },
-      {
-        "person_slug": "gennady-bezzubenkov",
-        "role_slug": "giacomo-puccini/turandot/timur"
       }
     ]
   },

@@ -250,6 +250,10 @@
     ],
     "cast": [
       {
+        "person_slug": "ramona-zaharia",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
         "person_slug": "zanda-svede",
         "role_slug": "georges-bizet/carmen/carmen"
       },
@@ -306,16 +310,8 @@
         "role_slug": "georges-bizet/carmen/don-jose"
       },
       {
-        "person_slug": "dumitru-mitu",
-        "role_slug": "georges-bizet/carmen/don-jose"
-      },
-      {
         "person_slug": "raimonds-bramanis",
         "role_slug": "georges-bizet/carmen/don-jose"
-      },
-      {
-        "person_slug": "christian-van-horn",
-        "role_slug": "georges-bizet/carmen/escamillo"
       },
       {
         "person_slug": "janis-apeinis",
@@ -418,14 +414,6 @@
         "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/canio"
       },
       {
-        "person_slug": "george-oniani",
-        "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/canio"
-      },
-      {
-        "person_slug": "irakli-kakhidze",
-        "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/canio"
-      },
-      {
         "person_slug": "diana-bistere",
         "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/lola"
       },
@@ -484,10 +472,6 @@
       {
         "person_slug": "rinalds-kandalincevs",
         "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/tonio"
-      },
-      {
-        "person_slug": "adam-smith",
-        "role_slug": "pietro-mascagni-ruggero-leoncavallo/cavalleria-rusticana-pagliacci/turiddu"
       },
       {
         "person_slug": "artem-safronov",
@@ -1077,10 +1061,6 @@
         "role_slug": "giacomo-puccini/la-boheme/rodolfo"
       },
       {
-        "person_slug": "dmytro-popov",
-        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
-      },
-      {
         "person_slug": "raimonds-bramanis",
         "role_slug": "giacomo-puccini/la-boheme/rodolfo"
       },
@@ -1289,12 +1269,12 @@
         "role_slug": "gaetano-donizetti/l-elisir-d-amore/belcore"
       },
       {
-        "person_slug": "misha-kiria",
+        "person_slug": "rihards-macanovskis",
         "role_slug": "gaetano-donizetti/l-elisir-d-amore/dulcamara"
       },
       {
-        "person_slug": "rihards-macanovskis",
-        "role_slug": "gaetano-donizetti/l-elisir-d-amore/dulcamara"
+        "person_slug": "agate-grinhofa",
+        "role_slug": "gaetano-donizetti/l-elisir-d-amore/giannetta"
       },
       {
         "person_slug": "katrina-paula-felsberga",
@@ -1309,15 +1289,7 @@
         "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
       },
       {
-        "person_slug": "levy-sekgapane",
-        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
-      },
-      {
         "person_slug": "martins-smaukstelis",
-        "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
-      },
-      {
-        "person_slug": "matteo-ivan-rasic",
         "role_slug": "gaetano-donizetti/l-elisir-d-amore/nemorino"
       },
       {
@@ -1908,24 +1880,12 @@
         "role_slug": "richard-strauss/salome/herodes"
       },
       {
-        "person_slug": "thomas-blondelle",
-        "role_slug": "richard-strauss/salome/herodes"
-      },
-      {
         "person_slug": "ilona-bagele",
-        "role_slug": "richard-strauss/salome/herodias"
-      },
-      {
-        "person_slug": "marina-prudenskaya",
         "role_slug": "richard-strauss/salome/herodias"
       },
       {
         "person_slug": "zanda-svede",
         "role_slug": "richard-strauss/salome/herodias"
-      },
-      {
-        "person_slug": "egils-silins",
-        "role_slug": "richard-strauss/salome/jochanaan"
       },
       {
         "person_slug": "rihards-macanovskis",
@@ -2377,10 +2337,6 @@
       },
       {
         "person_slug": "aleksandrs-antonenko",
-        "role_slug": "giacomo-puccini/turandot/calaf"
-      },
-      {
-        "person_slug": "murat-karahan",
         "role_slug": "giacomo-puccini/turandot/calaf"
       },
       {

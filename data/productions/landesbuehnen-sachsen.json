@@ -142,8 +142,46 @@
     "is_revival": false,
     "presentation_note": "Ein Spiel nach der romantischen Oper von Carl Maria von Weber",
     "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/der-freischuetz-fuer-jung-und-alt/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "irina-steiner",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tine-josch",
+        "function": "director"
+      },
+      {
+        "person_slug": "irina-steiner",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "kay-frommelt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lilly-peuker",
+        "role_slug": "carl-maria-von-weber/freischutz-tischtheater/regieassistenz-inspizienz"
+      },
+      {
+        "person_slug": "matti-brauer",
+        "role_slug": "carl-maria-von-weber/freischutz-tischtheater/spieler"
+      },
+      {
+        "person_slug": "freya-wohlgemuth",
+        "role_slug": "carl-maria-von-weber/freischutz-tischtheater/spielerin"
+      },
+      {
+        "person_slug": "liesbeth-jentsch",
+        "role_slug": "carl-maria-von-weber/freischutz-tischtheater/spielerin"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "carl-maria-von-weber/freischutz-tischtheater/studierende-der-theaterakademie-sachsen"
+      }
+    ]
   },
   {
     "id": "landesbuehnen-sachsen/8ee96024-b64f-47d4-a396-5c83f6cb6566",
@@ -301,6 +339,10 @@
     "presentation_note": "Singspiel von Ralph Benatzky",
     "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/im-weissen-roessl-2/",
     "creative_team": [
+      {
+        "person_slug": "hans-peter-preu",
+        "function": "conductor"
+      },
       {
         "person_slug": "jan-arvid-pree",
         "function": "conductor"

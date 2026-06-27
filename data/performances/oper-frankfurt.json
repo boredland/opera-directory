@@ -2144,6 +2144,14 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-frankfurt/oper-fuer-kinder-6/2026-11-04/10:00",
+    "production_id": "oper-frankfurt/oper-fuer-kinder-6",
+    "date": "2026-11-04",
+    "time": "10:00",
+    "venue_room": "Holzfoyer",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-frankfurt/oper-fuer-kinder-6/2026-11-04/14:00",
     "production_id": "oper-frankfurt/oper-fuer-kinder-6",
     "date": "2026-11-04",
@@ -3054,6 +3062,12 @@
     "time": "19:00",
     "venue_room": "Opernhaus",
     "status": "scheduled"
+  },
+  {
+    "id": "oper-frankfurt/tancredi/2026-06-26/",
+    "production_id": "oper-frankfurt/tancredi",
+    "date": "2026-06-26",
+    "status": "past"
   },
   {
     "id": "oper-frankfurt/tancredi/2026-06-26/19:00",
