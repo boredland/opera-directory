@@ -1,5 +1,20 @@
 [
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-guillaume-tell",
+    "work_slug": "gioacchino-rossini/guillaume-tell",
+    "house_slug": "mariinsky-theatre",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/23/3_1300/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/concerts900/opera_in_concert/tell_eng.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ilya-popov",
+        "function": "chorus-master"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-aida",
     "work_slug": "giuseppe-verdi/aida",
     "house_slug": "mariinsky-theatre",
@@ -157,7 +172,32 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "irina-shishkova",
+        "role_slug": "hector-berlioz/benvenuto-cellini/ascanio"
+      },
+      {
+        "person_slug": "alexander-mikhailov",
+        "role_slug": "hector-berlioz/benvenuto-cellini/benvenuto-cellini"
+      },
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "hector-berlioz/benvenuto-cellini/fieramosca"
+      },
+      {
+        "person_slug": "oleg-sychov",
+        "role_slug": "hector-berlioz/benvenuto-cellini/giacomo-balducci"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "hector-berlioz/benvenuto-cellini/pope-clement-vii"
+      },
+      {
+        "person_slug": "anastasia-kalagina",
+        "role_slug": "hector-berlioz/benvenuto-cellini/teresa"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-boccanegra",
@@ -593,7 +633,7 @@
     "premiere_date": "2025-02-18",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/4/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/falstaf_inconcert2.png",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/falstaff_semistage/falstaff_semistage_6_huseinov2_by_vilchuk.jpg",
     "synopsis": "Windsor in the times of King Henry IV Act I Scene 1 Dr Caius storms into the Garter Inn: Falstaff’s drinking companions Bardolph and Pistol having robbed him bare the day before. Falstaff sends the hard done-by doctor away. He reproaches his friends with their ‘dirty work’ and explains that robberies require skill and time. Sir John is not very well-off himself: his purse is empty; he cannot pay the bill. However, the attentions of two Windsor ladies, the wives of rich husbands, may help his poor situation. Falstaff has written love letters to them and asks his friends to deliver the messages. Bardolph and Pistol refuse to deliver Falstaff’s letters, believing it to be dishonourable. Falstaff is enraged; he sends his page to deliver the letters. Then Falstaff cynically delivers a monologue on the meaning of honour in the modern world, takes a broom and throws out his drinking companions. Scene 2 The merry wives of Windsor, friends Alice Ford, Meg Page and their neighbor Mrs Quickly meet in Ford’s garden. Nannetta, the Fords’ daughter, is there too. Reading the letters from Falstaff, who has not even bothered to change the text and has sent each woman an identical letter, they are enraged. The women decide to take revenge on their luckless admirer. At the other end of the garden, the men are discussing their own revenge plan. Bardolph and Pistol warn Ford of the old rogue’s plans. Dr Caius and young Fenton are there, too. Fenton has joined the company so he could meet with his beloved Nannetta. While the ladies and the gentlemen are discussing their respective plans, the love birds can have a couple of moments to themselves. Ford decides to gain Falstaff’s trust in order to find out what he has in mind. Act II Scene 1 Falstaff condescendingly accepts Bardolph and Pistol’s repentance, who have seemingly come to the Garter Inn to confess. But in fact they have come not just to confess, they have brought Mrs Quickly with an answer from Meg Page and Alice Ford. Mrs Quick",
     "creative_team": [
       {
@@ -605,7 +645,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "oxana-shilova",
+        "role_slug": "giuseppe-verdi/falstaff/alice-ford"
+      },
+      {
+        "person_slug": "maharram-huseynov",
+        "role_slug": "giuseppe-verdi/falstaff/falstaff"
+      },
+      {
+        "person_slug": "kirill-belov",
+        "role_slug": "giuseppe-verdi/falstaff/fenton"
+      },
+      {
+        "person_slug": "vladimir-moroz",
+        "role_slug": "giuseppe-verdi/falstaff/ford"
+      },
+      {
+        "person_slug": "varvara-solovyova",
+        "role_slug": "giuseppe-verdi/falstaff/mrs-meg-page"
+      },
+      {
+        "person_slug": "viktoria-yastrebova",
+        "role_slug": "giuseppe-verdi/falstaff/mrs-quickly"
+      },
+      {
+        "person_slug": "isabella-andriasian",
+        "role_slug": "giuseppe-verdi/falstaff/nannetta"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-fanciulla-west",
@@ -1108,7 +1177,7 @@
     "house_slug": "mariinsky-theatre",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/5/2_1700/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/kitezh_2022/kitezh_banner_2022.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/kitezh_2022/kitezh_churilova_by_neff.jpg",
     "synopsis": "Introduction. Praise to the Wilderness Act One Scene One In the remote forests near Little Kitezh, Fevroniya lives in harmony with animals and birds, far from people. Her solitary life is disrupted by the sudden appearance of a wounded hunter. The young man, dressed as a huntsman, curiously inquires about her life. Who is she, capable of stopping blood from a wound and peacefully conversing with wild beasts? And to which god does she pray if she does not visit the church? “Isn't God everywhere?” Fevroniya gently replies. “The great church is here.” Her convictions and love for all living things captivate the stranger. Their conversation turns into a love duet. The guest places a ring on Fevroniya's finger, and they are now betrothed. The young man leaves, promising to send matchmakers. When hunters led by Fyodor Poyarok, searching for their comrade, appear at Fevroniya's hut, she learns that the stranger, to whom she is betrothed, is Prince Vsevolod, the son of Prince Yuri, ruler of Great Kitezh. Act Two Scene Two Little Kitezh on the left bank of the Volga. The crowd gathers in the marketplace, awaiting the wedding procession. A bear tamer shows off his trained bear, making it mimic “how bell-ringer Pahomushka leisurely goes to church” and how he hurries home. A gusli player sings a mournful ballad about the Tatar invasion. The “better people” (wealthy citizens of Kitezh) are displeased that a commoner will become their princess. Seeing the drunkard Grishka Kuterma, they incite him to insult Fevroniya upon her arrival. Soon, the wedding cart arrives in the square, with Fevroniya accompanied by Fyodor Poyarok, the groom's best man. An intoxicated Grishka mockingly greets the bride, reminding her that they are both of humble origins. Fevroniya humbly agrees and bows to all the citizens of Kitezh. But Grishka continues, predicting poverty and humiliation for her. The outraged crowd chases away the drunkard. Poyarok calls on the girls to sing a wedding song for the bri",
     "creative_team": [
       {
@@ -1140,7 +1209,32 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "irina-churilova",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fevroniya"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fyodor-poyarok"
+      },
+      {
+        "person_slug": "denis-zakirov",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/grishka-kuterma"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/prince-vsevolod"
+      },
+      {
+        "person_slug": "yuri-vorobiev",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/prince-yuri"
+      },
+      {
+        "person_slug": "svetlana-karpova",
+        "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/young-boy"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lady-mackbet-mc",
@@ -1186,7 +1280,7 @@
     "premiere_date": "2021-07-04",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/6/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/lakme/_lakme_eng_kz.png",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/lakme/lakme_pudova_stepanov_by_razina.jpg",
     "synopsis": "The action takes place in British India in the late 19 th century Act I The home of Nilakantha, a Brahmin priest, surrounded by a shady forest. It is early morning. Hindu men and women led by Nilakantha and his daughter Lakmé welcome the dawn of the new day with a prayer to Brahma. After prayer, all depart. Following the ceremony, Nilakantha, leaving his daughter to be cared for by her companion Mallika, together with his slave Hadji set out towards a sacred pagoda. Meanwhile, the girls decide to take a boat out to pick a lotus flower. In their absence, Ellen and Rose – daughters of the Governor of India – enter this place, which is forbidden to all foreigners, together with their governess Mistress Bentson and two British officers, Ellen's fiancé Gérald and his friend Frédéric. They are all eager to learn about Hindu customs, but on discovering that this is the home of Nilakantha the ferocious fanatical Brahmin they hasten to depart. Only Gérald remains behind: having by chance seen Lakmé's precious ornamental headpiece, he intends to sketch it in his album whatever the cost. Lakmé returns and her beauty stuns the Englishman. The foreigner is unperturbed at her warning that disaster and death await him should he be found in this sacred place by her father. Love for the courageous officer steals into Lakmé's heart and she, upon seeing the Brahmin in the distance, begs Gérald to hide. Nilakantha guesses that some European has visited his home from a piece broken fencing and swears revenge on this profanity. Act II A town square. A folk festival is at its height. Lakmé thinks wistfully of Gérald. Nilakantha, supposing the reason for her sadness to be some proffered insult, resolves to seek out her abuser. Lakmé's embarrassment on seeing Gérald, who has approached her as she was singing, reveals to the Brahmin who his enemy is. Lakmé, left alone with her beloved, begs him to run away with her. He is slow to decide. Meanwhile, a holy procession of the priests is making ",
     "creative_team": [
       {
@@ -1198,7 +1292,24 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "leo-delibes/lakme/frederic"
+      },
+      {
+        "person_slug": "boris-stepanov",
+        "role_slug": "leo-delibes/lakme/gerald"
+      },
+      {
+        "person_slug": "olga-pudova",
+        "role_slug": "leo-delibes/lakme/lakme"
+      },
+      {
+        "person_slug": "andrei-serov",
+        "role_slug": "leo-delibes/lakme/nilakantha"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-letuchijgolland",
@@ -2176,7 +2287,7 @@
     "premiere_date": "2009-05-01",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/8/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/figaro_kravets_ulanov_byvilchuk.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/svadba_figaro_p_petryanik_scene_by_razina.jpg",
     "synopsis": "Act I Merry wedding preparations are underway at the home of Count Almaviva. Count Almaviva’s valet is marrying Susanna, the Countess’ maidservant. The impending festivities bring the Count no joy whatsoever: he has taken a fancy to the bride-to-be himself and is looking for some reason to prevent the marriage. Susanna anxiously tells her future husband of the Count’s amorous intentions. Figaro is ready to employ all his cunning and inventiveness to ruin his master’s machinations. The convivial Figaro, however, has many enemies. To this day, old Bartolo has been unable to forget his former barber’s cunning, aiding the Count to marry his ward Rosina. The ageing housekeeper Marcellina dreams of marrying Figaro herself. Both Bartolo and she hope that the Count, frustrated by Susanna’s uncompromising nature, will help them. Marcellina greets Susanna with ceremonious curtsies and spiteful compliments. Susanna merrily and wittily laughs at the shrewish old woman. Cherubino appears. The young page is in love with every woman in the castle. He idolises the Countess, but is not averse to making advances to Susanna to whom he has come to share his woes – the Count found him with Barbarina, the gardener’s daughter, and has driven him from the castle. The Count arrives unexpectedly, forcing Cherubino to hide. The Count again begs Susanna to accept his overtures, but the amorous grandee’s declarations are interrupted by a knock at the door – it is the scheming Basilio. The Count’s jealousy has been roused by the old gossip’s hints at Cherubino’s love for the Countess. Enraged, he tells Susanna and Bartolo of the page’s tricks and then suddenly spots Cherubino in his hiding place. The Count’s fury knows no bounds. Cherubino is immediately ordered to enlist in the army. Figaro consoles him. Act II The Countess is distressed at her husband’s indifference. Susanna’s tale of his infidelity wounds her to the quick. Sincerely empathetic towards her maidservant and her groom, the Counte",
     "creative_team": [
       {
@@ -2200,7 +2311,36 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "grigory-karasev",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
+      },
+      {
+        "person_slug": "yekaterina-krapivina",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "sergei-romanov",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count-almaviva"
+      },
+      {
+        "person_slug": "yekaterina-solovyova",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "anna-knyazeva",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "kira-loginova",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-toska",
@@ -2400,7 +2540,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "tba",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/grigory-gryaznoy"
+      },
+      {
+        "person_slug": "kirill-belov",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/ivan-lykov"
+      },
+      {
+        "person_slug": "zinaida-tsarenko",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/lyubasha"
+      },
+      {
+        "person_slug": "miroslav-molchanov",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/malyuta-skuratov"
+      },
+      {
+        "person_slug": "aigul-khismatullina",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/marfa"
+      },
+      {
+        "person_slug": "dmitry-grigoriev",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/vassily-sobakin"
+      },
+      {
+        "person_slug": "alexander-mangutov",
+        "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/yelisey-bomelius"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-turandot",
@@ -2532,7 +2701,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "1905-12-27",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/23/2_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/23/2_2000/",
     "synopsis": "Scene I The Rhine-maidens, Woglinde, Wellgunde and Flosshilde, are three fabulous childish beings watching over the gold of the Rhine for their father. Alberich, a miserable specimen of a dwarf, comes creeping along the rocky outcrop. He is seeking love, understanding and affection. He hopes to find these things with the Rhine Maidens, but they play a cruel game with him. Each of them artfully feigns love only to reject him mercilessly after a short time and mock his appearance. Alberich grows beside himself with rage. The sun rises. The gold of the Rhine shines brightly. From one moment to the next the Rhine Maidens forget Alberich and go about their duties as priestesses of a mystical cult. Alberich learns from them that whoever gains possession of the gold of the Rhine can forge a ring that endows him with unbridled power. That is only possible, however, after voluntarily renouncing love. The Rhine Maidens tell him all this, firmly convinced that someone as obsessed with love as Alberich could never steal the gold of the Rhine. The treatment of him by the Rhine Maidens has, however, destroyed the yearning for love in Alberich’s soul. The humiliated creature, blinded by the idea of being able to gain power over the world, renounces love. He seizes the gold of the Rhine and disappears with it into the depths of his realm, Nibelheim. The Rhine Maidens are enveloped in darkness. Scene II An open area high in the mountains. Wotan is sleeping. His wife Fricka is plagued by dark forebodings. She shakes her husband awake. What seemed a dream has become reality. Wotan looks at the mighty fortress of the gods that the giants Fasolt and Fafner have built on his orders. Fricka, though, can only think of the price that the gods have contracted to pay for the work: Freia, the goddess of youth, whose golden apples prevent the gods from ageing and decaying. In desperation Freia begs Wotan, her sister Fricka and brothers Donner and Froh to protect her from the approaching giants.",
     "creative_team": [
       {

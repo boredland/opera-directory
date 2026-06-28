@@ -1194,6 +1194,25 @@
     ]
   },
   {
+    "id": "oper-leipzig/poetry-slam-kids-861",
+    "work_slug": "poetry-slam-kids",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/poetry-slam-kids/861",
+    "creative_team": [
+      {
+        "person_slug": "christoph-johannes-eichhorn",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bleu-broode",
+        "role_slug": "poetry-slam-kids/moderation"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/regina-811",
     "work_slug": "albert-lortzing/regina",
     "house_slug": "oper-leipzig",

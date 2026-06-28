@@ -19600,6 +19600,11 @@
     "name": "Dr. Cajus"
   },
   {
+    "slug": "giuseppe-verdi/falstaff/falstaff",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Falstaff"
+  },
+  {
     "slug": "giuseppe-verdi/falstaff/fenton",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "FENTON"
@@ -23053,6 +23058,36 @@
     "slug": "hector-berlioz/beatrice-et-benedict/ursule",
     "work_slug": "hector-berlioz/beatrice-et-benedict",
     "name": "Ursule"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/ascanio",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Ascanio"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/benvenuto-cellini",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Benvenuto Cellini"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/fieramosca",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Fieramosca"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/giacomo-balducci",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Giacomo Balducci"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/pope-clement-vii",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Pope Clement VII"
+  },
+  {
+    "slug": "hector-berlioz/benvenuto-cellini/teresa",
+    "work_slug": "hector-berlioz/benvenuto-cellini",
+    "name": "Teresa"
   },
   {
     "slug": "hector-berlioz/cleopatre-giacomo-puccini-suor-angelica/1-almosensucherin",
@@ -28125,6 +28160,21 @@
     "name": "Edrisi | Tenor Solo"
   },
   {
+    "slug": "karol-szymanowski/krol-roger-rea/erzbischof",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Erzbischof"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/hirte",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Hirte"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/roger",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Roger"
+  },
+  {
     "slug": "karol-szymanowski/krol-roger-rea/roger-ii",
     "work_slug": "karol-szymanowski/krol-roger-rea",
     "name": "Roger II"
@@ -30038,6 +30088,11 @@
     "slug": "leos-janacek/das-schlaue-fuchslein/inszenierung-buhne-und-kostume",
     "work_slug": "leos-janacek/das-schlaue-fuchslein",
     "name": "Inszenierung, Bühne und Kostüme"
+  },
+  {
+    "slug": "leos-janacek/die-ausfluge-des-herrn-broucek/bewegungschoreografie",
+    "work_slug": "leos-janacek/die-ausfluge-des-herrn-broucek",
+    "name": "Bewegungschoreografie"
   },
   {
     "slug": "leos-janacek/die-ausfluge-des-herrn-broucek/cisnicek-wunderkind-student",
@@ -33815,6 +33870,71 @@
     "name": "Sobakin"
   },
   {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fevroniya",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Fevroniya"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fyodor-poyarok",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Fyodor Poyarok"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/grishka-kuterma",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Grishka Kuterma"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/prince-vsevolod",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Prince Vsevolod"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/prince-yuri",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Prince Yuri"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/young-boy",
+    "work_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya",
+    "name": "Young Boy"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/grigory-gryaznoy",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Grigory Gryaznoy"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/ivan-lykov",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Ivan Lykov"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/lyubasha",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Lyubasha"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/malyuta-skuratov",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Malyuta Skuratov"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/marfa",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Marfa"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/vassily-sobakin",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Vassily Sobakin"
+  },
+  {
+    "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/yelisey-bomelius",
+    "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
+    "name": "Yelisey Bomelius"
+  },
+  {
     "slug": "nino-rota/der-florentiner-hut/achille-di-rosalba",
     "work_slug": "nino-rota/der-florentiner-hut",
     "name": "Achille di Rosalba"
@@ -36128,6 +36248,11 @@
     "slug": "pjotr-tschaikowski/pique-dame/tschekalinski",
     "work_slug": "pjotr-tschaikowski/pique-dame",
     "name": "Tschekalinski"
+  },
+  {
+    "slug": "poetry-slam-kids/moderation",
+    "work_slug": "poetry-slam-kids",
+    "name": "Moderation"
   },
   {
     "slug": "politische-perspektiven/4",

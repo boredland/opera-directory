@@ -455,6 +455,20 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/poetry-slam-kids-861/2026-07-02/10:00",
+    "production_id": "oper-leipzig/poetry-slam-kids-861",
+    "date": "2026-07-02",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/poetry-slam-kids-861/2026-12-01/10:00",
+    "production_id": "oper-leipzig/poetry-slam-kids-861",
+    "date": "2026-12-01",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/regina-811/2026-04-25/19:00",
     "production_id": "oper-leipzig/regina-811",
     "date": "2026-04-25",
@@ -543,6 +557,13 @@
     "production_id": "oper-leipzig/the-producers-676",
     "date": "2027-04-24",
     "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/the-producers-676/2027-04-25/15:00",
+    "production_id": "oper-leipzig/the-producers-676",
+    "date": "2027-04-25",
+    "time": "15:00",
     "status": "scheduled"
   },
   {

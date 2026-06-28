@@ -1,5 +1,13 @@
 [
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-guillaume-tell/2026-07-23/13:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-guillaume-tell",
+    "date": "2026-07-23",
+    "time": "13:00",
+    "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-aida/2026-06-20/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-aida",
     "date": "2026-06-20",
@@ -596,6 +604,14 @@
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-zolotoreina-2023",
     "date": "2026-07-23",
     "time": "19:00",
+    "venue_room": "Mariinsky II",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-zolotoreina-2023/2026-07-23/20:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-zolotoreina-2023",
+    "date": "2026-07-23",
+    "time": "20:00",
     "venue_room": "Mariinsky II",
     "status": "scheduled"
   },

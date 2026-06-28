@@ -515,14 +515,6 @@
     ],
     "cast": [
       {
-        "person_slug": "roger-krebs",
-        "role_slug": "karol-szymanowski/krol-roger-rea/der-erzbischof"
-      },
-      {
-        "person_slug": "martin-enger-holm",
-        "role_slug": "karol-szymanowski/krol-roger-rea/der-hirte"
-      },
-      {
         "person_slug": "svitlana-slyvia",
         "role_slug": "karol-szymanowski/krol-roger-rea/diakonissin"
       },
@@ -531,8 +523,20 @@
         "role_slug": "karol-szymanowski/krol-roger-rea/edrisi-tenor-solo"
       },
       {
+        "person_slug": "roger-krebs",
+        "role_slug": "karol-szymanowski/krol-roger-rea/erzbischof"
+      },
+      {
+        "person_slug": "martin-enger-holm",
+        "role_slug": "karol-szymanowski/krol-roger-rea/hirte"
+      },
+      {
+        "person_slug": "carl-rumstadt",
+        "role_slug": "karol-szymanowski/krol-roger-rea/roger"
+      },
+      {
         "person_slug": "seymur-karimov",
-        "role_slug": "karol-szymanowski/krol-roger-rea/roger-ii"
+        "role_slug": "karol-szymanowski/krol-roger-rea/roger"
       },
       {
         "person_slug": "theodora-varga",
