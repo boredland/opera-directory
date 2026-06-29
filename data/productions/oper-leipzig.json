@@ -1044,6 +1044,65 @@
     "cast": []
   },
   {
+    "id": "oper-leipzig/new-waves-841",
+    "work_slug": "new-waves",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/new-waves/841",
+    "creative_team": [
+      {
+        "person_slug": "andrea-carino",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "david-horton-sibble",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ester-ferrini",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "francesco-barbuto",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "kammertanzer-flavio-salamanka",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marcelino-libao",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "marcelo-ferreira",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "pedro-luz",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "vincenzo-timpa",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "yun-kyeong-lee",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "victoria-vau",
+        "function": "costume-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "leipziger-ballett",
+        "role_slug": "new-waves/ballett"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/pique-dame-740",
     "work_slug": "peter-i-tschaikowski/pique-dame",
     "house_slug": "oper-leipzig",

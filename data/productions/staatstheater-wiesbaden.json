@@ -779,5 +779,255 @@
         "role_slug": "gaetano-donizetti/la-mamma/vermittlung"
       }
     ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/la-traviata/2100/",
+    "creative_team": [
+      {
+        "person_slug": "myriam-lifka",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alejandro-jassan",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sietske-van-aerde",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "tom-goossens",
+        "function": "director"
+      },
+      {
+        "person_slug": "hanna-knei-ler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "klaus-krauspenhaar",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "max-nattkamper",
+        "role_slug": "giuseppe-verdi/la-traviata/abendspielleitung"
+      },
+      {
+        "person_slug": "joshua-sanders",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "jaeyoung-ha",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "bart-van-merode",
+        "role_slug": "giuseppe-verdi/la-traviata/buhne-lichtdesign"
+      },
+      {
+        "person_slug": "mona-thal",
+        "role_slug": "giuseppe-verdi/la-traviata/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "jonathan-macker",
+        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
+      },
+      {
+        "person_slug": "camille-sherman",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "christian-balzer",
+        "role_slug": "giuseppe-verdi/la-traviata/floras-diener-bote"
+      },
+      {
+        "person_slug": "nathan-bryon",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "diana-derenbach",
+        "role_slug": "giuseppe-verdi/la-traviata/kostumassistenz"
+      },
+      {
+        "person_slug": "fabian-jakob-balkhausen",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obigny"
+      },
+      {
+        "person_slug": "tamara-lorenzo-gabeiras",
+        "role_slug": "giuseppe-verdi/la-traviata/musikalische-assistenz"
+      },
+      {
+        "person_slug": "tim-hawken",
+        "role_slug": "giuseppe-verdi/la-traviata/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "giuseppe-verdi/la-traviata/orchester"
+      },
+      {
+        "person_slug": "sam-park",
+        "role_slug": "giuseppe-verdi/la-traviata/sein-vater"
+      },
+      {
+        "person_slug": "statisterie-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "giuseppe-verdi/la-traviata/statisterie"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "giuseppe-verdi/la-traviata/vermittlung"
+      },
+      {
+        "person_slug": "sarah-yang",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "byungkok-hyun",
+        "role_slug": "giuseppe-verdi/la-traviata/violettas-diener"
+      },
+      {
+        "person_slug": "molly-ryan",
+        "role_slug": "giuseppe-verdi/la-traviata/violettas-dienerin"
+      }
+    ]
+  },
+  {
+    "id": "staatstheater-wiesbaden/tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "staatstheater-wiesbaden",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-wiesbaden.de/spielplan/kalender/tosca/2099/",
+    "creative_team": [
+      {
+        "person_slug": "aymeric-catalano",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "paul-taubitz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "linda-rodenheber",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jose-cortes",
+        "function": "director"
+      },
+      {
+        "person_slug": "balthazar-bender",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marcel-hahn",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "manuel-la-casta",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "massimo-cavalletti",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "anna-haufe",
+        "role_slug": "giacomo-puccini/tosca/buhenbildhospitanz"
+      },
+      {
+        "person_slug": "mascha-dilger",
+        "role_slug": "giacomo-puccini/tosca/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "james-young",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "chor-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "giacomo-puccini/tosca/chore"
+      },
+      {
+        "person_slug": "fabian-jakob-balkhausen",
+        "role_slug": "giacomo-puccini/tosca/der-messner"
+      },
+      {
+        "person_slug": "molly-ryan",
+        "role_slug": "giacomo-puccini/tosca/ein-hirt"
+      },
+      {
+        "person_slug": "sunghwan-kim",
+        "role_slug": "giacomo-puccini/tosca/ein-schlie-er"
+      },
+      {
+        "person_slug": "signe-heiberg",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "niklas-sikner",
+        "role_slug": "giacomo-puccini/tosca/kinder-und-jugendchor"
+      },
+      {
+        "person_slug": "diana-derenbach",
+        "role_slug": "giacomo-puccini/tosca/kostumassistenz"
+      },
+      {
+        "person_slug": "martin-siemann",
+        "role_slug": "giacomo-puccini/tosca/licht-video"
+      },
+      {
+        "person_slug": "kyungho-kim",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "holger-reinhardt",
+        "role_slug": "giacomo-puccini/tosca/musikalische-assistenz"
+      },
+      {
+        "person_slug": "julia-palmova",
+        "role_slug": "giacomo-puccini/tosca/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "hessisches-staatsorchester-wiesbaden",
+        "role_slug": "giacomo-puccini/tosca/orchester"
+      },
+      {
+        "person_slug": "yvonne-sembene",
+        "role_slug": "giacomo-puccini/tosca/regiehospitanz"
+      },
+      {
+        "person_slug": "petro-pavlo-tkalenko",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      },
+      {
+        "person_slug": "seokwon-oh",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
+      },
+      {
+        "person_slug": "statisterie-des-hessischen-staatstheaters-wiesbaden",
+        "role_slug": "giacomo-puccini/tosca/statisterie"
+      },
+      {
+        "person_slug": "sergei-morozov",
+        "role_slug": "giacomo-puccini/tosca/szenische-einstudierung-abendspielleitung"
+      },
+      {
+        "person_slug": "oliver-riedmuller",
+        "role_slug": "giacomo-puccini/tosca/vermittlung"
+      }
+    ]
   }
 ]

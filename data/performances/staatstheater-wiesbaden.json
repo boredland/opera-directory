@@ -147,9 +147,58 @@
     "status": "scheduled"
   },
   {
+    "id": "staatstheater-wiesbaden/die-zauberfloete/2026-09-05/18:00",
+    "production_id": "staatstheater-wiesbaden/die-zauberfloete",
+    "date": "2026-09-05",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/die-zauberfloete/2026-09-13/16:00",
+    "production_id": "staatstheater-wiesbaden/die-zauberfloete",
+    "date": "2026-09-13",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/die-zauberfloete/2026-09-26/19:30",
+    "production_id": "staatstheater-wiesbaden/die-zauberfloete",
+    "date": "2026-09-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "staatstheater-wiesbaden/la-mamma/2026-06-24/19:30",
     "production_id": "staatstheater-wiesbaden/la-mamma",
     "date": "2026-06-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/la-traviata/2026-09-20/18:00",
+    "production_id": "staatstheater-wiesbaden/la-traviata",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/tosca/2026-09-06/18:00",
+    "production_id": "staatstheater-wiesbaden/tosca",
+    "date": "2026-09-06",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/tosca/2026-09-11/19:30",
+    "production_id": "staatstheater-wiesbaden/tosca",
+    "date": "2026-09-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-wiesbaden/tosca/2026-09-25/19:30",
+    "production_id": "staatstheater-wiesbaden/tosca",
+    "date": "2026-09-25",
     "time": "19:30",
     "status": "scheduled"
   }

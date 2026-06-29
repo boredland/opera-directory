@@ -56,6 +56,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-halle/die-hochzeit-des-figaro/2026-10-02/19:30",
+    "production_id": "oper-halle/die-hochzeit-des-figaro",
+    "date": "2026-10-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-halle/die-kinder-des-monsieur-mathieu/2026-06-20/18:00",
     "production_id": "oper-halle/die-kinder-des-monsieur-mathieu",
     "date": "2026-06-20",
@@ -192,6 +199,13 @@
     "id": "oper-halle/luca-und-sam/2026-09-20/11:00",
     "production_id": "oper-halle/luca-und-sam",
     "date": "2026-09-20",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-halle/luca-und-sam/2026-10-03/11:00",
+    "production_id": "oper-halle/luca-und-sam",
+    "date": "2026-10-03",
     "time": "11:00",
     "status": "scheduled"
   },

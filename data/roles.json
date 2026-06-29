@@ -15940,6 +15940,16 @@
     "name": "Barone Scarpia"
   },
   {
+    "slug": "giacomo-puccini/tosca/buhenbildhospitanz",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Bühenbildhospitanz"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/buhnenbildassistenz",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Bühnenbildassistenz"
+  },
+  {
     "slug": "giacomo-puccini/tosca/cavaradossi",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Cavaradossi"
@@ -15960,14 +15970,29 @@
     "name": "Chor"
   },
   {
+    "slug": "giacomo-puccini/tosca/chore",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Chöre"
+  },
+  {
     "slug": "giacomo-puccini/tosca/der-mesner",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Der Mesner"
   },
   {
+    "slug": "giacomo-puccini/tosca/der-messner",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Der Messner"
+  },
+  {
     "slug": "giacomo-puccini/tosca/dimitri-platanias",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Dimitri Platanias ,"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/ein-hirt",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Ein Hirt"
   },
   {
     "slug": "giacomo-puccini/tosca/ein-hirtenmadchen",
@@ -16030,6 +16055,11 @@
     "name": "Kerkermeister"
   },
   {
+    "slug": "giacomo-puccini/tosca/kinder-und-jugendchor",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Kinder- und Jugendchor"
+  },
+  {
     "slug": "giacomo-puccini/tosca/kinderchor",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Kinderchor"
@@ -16040,9 +16070,19 @@
     "name": "Kinderchorleitung"
   },
   {
+    "slug": "giacomo-puccini/tosca/kostumassistenz",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Kostümassistenz"
+  },
+  {
     "slug": "giacomo-puccini/tosca/le-baron-scarpia",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Le baron Scarpia"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/licht-video",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Licht & Video"
   },
   {
     "slug": "giacomo-puccini/tosca/mario",
@@ -16060,9 +16100,24 @@
     "name": "Mesner"
   },
   {
+    "slug": "giacomo-puccini/tosca/musikalische-assistenz",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Musikalische Assistenz"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/musikalische-einstudierung",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Musikalische Einstudierung"
+  },
+  {
     "slug": "giacomo-puccini/tosca/orchester",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Orchester"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/regiehospitanz",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Regiehospitanz"
   },
   {
     "slug": "giacomo-puccini/tosca/sacristan",
@@ -16130,9 +16185,19 @@
     "name": "Spoletta / cover Cavaradossi"
   },
   {
+    "slug": "giacomo-puccini/tosca/statisterie",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Statisterie"
+  },
+  {
     "slug": "giacomo-puccini/tosca/szenische-einrichtung-ausstattung",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Szenische Einrichtung & Ausstattung"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/szenische-einstudierung-abendspielleitung",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Szenische Einstudierung / Abendspielleitung"
   },
   {
     "slug": "giacomo-puccini/tosca/tosca",
@@ -16153,6 +16218,11 @@
     "slug": "giacomo-puccini/tosca/un-pastorello",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Un pastorello"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/vermittlung",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Vermittlung"
   },
   {
     "slug": "giacomo-puccini/tosca/vitellio-scarpia",
@@ -20040,6 +20110,11 @@
     "name": "A Gipsy"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/abendspielleitung",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Abendspielleitung"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/aebh-kelly",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Aebh Kelly"
@@ -20153,6 +20228,16 @@
     "slug": "giuseppe-verdi/la-traviata/brett-polegato-wexford-17-may",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Brett Polegato (Wexford 17 May)"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/buhne-lichtdesign",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Bühne & Lichtdesign"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/buhnenbildassistenz",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Bühnenbildassistenz"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/bull",
@@ -20290,6 +20375,11 @@
     "name": "Flora's servant"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/floras-diener-bote",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Floras Diener | Bote"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/gaston",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Gaston"
@@ -20410,6 +20500,11 @@
     "name": "Joseph, Diener Violettas"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/kostumassistenz",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Kostümassistenz"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/la-dame-aux-camelias",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "La Dame aux camélias"
@@ -20490,6 +20585,21 @@
     "name": "Messenger"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/musikalische-assistenz",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Musikalische Assistenz"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/musikalische-einstudierung",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/orchester",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Orchester"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/patrick-hyland",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Patrick Hyland"
@@ -20500,6 +20610,11 @@
     "name": "Photographer"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/sein-vater",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "sein Vater"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/servant",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Servant"
@@ -20508,6 +20623,11 @@
     "slug": "giuseppe-verdi/la-traviata/soloist",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Soloist"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/statisterie",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Statisterie"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/the-messenger",
@@ -20545,6 +20665,11 @@
     "name": "Un servo"
   },
   {
+    "slug": "giuseppe-verdi/la-traviata/vermittlung",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Vermittlung"
+  },
+  {
     "slug": "giuseppe-verdi/la-traviata/vicomte-gastone-de-letorieres",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Vicomte Gastone de Létorières"
@@ -20578,6 +20703,16 @@
     "slug": "giuseppe-verdi/la-traviata/violetta-valery-september-27-october-2-and-9",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Violetta Valéry (September 27, October 2, and 9)"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/violettas-diener",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Violettas Diener"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/violettas-dienerin",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Violettas Dienerin"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/yongzhao-yu-dublin-22-24-may",
@@ -33478,6 +33613,11 @@
     "slug": "neue-welten/sanger",
     "work_slug": "neue-welten",
     "name": "Sänger"
+  },
+  {
+    "slug": "new-waves/ballett",
+    "work_slug": "new-waves",
+    "name": "Ballett"
   },
   {
     "slug": "niccolo-paganini/kahchun-wong/orchestra-della",
