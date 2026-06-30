@@ -517,11 +517,80 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "michael-heidinger",
+        "function": "lighting"
+      },
+      {
         "person_slug": "robert-schweer",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/antonio"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/baron-trombonok"
+      },
+      {
+        "person_slug": "andres-agudelo-antonio-mandrillo",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/chevalier-belfiore"
+      },
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/contesse-folleville"
+      },
+      {
+        "person_slug": "reka-kristof",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/corinna"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/don-alvaro"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/don-luigino"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/don-profondo"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/don-prudenzio"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/graf-libenskof"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/lord-sidney"
+      },
+      {
+        "person_slug": "jennifer-o-loughlin",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/madame-cortese"
+      },
+      {
+        "person_slug": "anna-tetruashvili",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/maddalena"
+      },
+      {
+        "person_slug": "anna-agathonos",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/marchese-melibea"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/modestina"
+      },
+      {
+        "person_slug": "gregor-reinhold",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/zefirino-gelsomino"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/die-zauberfloete",
@@ -575,7 +644,180 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "ann-katrin-naidu",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "anna-agathonos",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "patrick-florescu",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritter-knabe"
+      },
+      {
+        "person_slug": "cornelia-horak",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "frances-lucey",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "reka-kristof",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "sophia-brommer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "gustaf-knopp",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-knabe"
+      },
+      {
+        "person_slug": "oscar-zhekai-liang",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-knabe"
+      },
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "sophia-theodorides",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "annemarie-pfahler",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "sophie-mitterhuber",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "daniel-gutmann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "erwin-windegger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/priester"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/prinz-tamino"
+      },
+      {
+        "person_slug": "lucian-krasznec",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/prinz-tamino"
+      },
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/prinz-tamino"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "holger-ohlmann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "demian-erofeev",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino-ein-junge"
+      },
+      {
+        "person_slug": "jakob-wiedenhofer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino-ein-junge"
+      },
+      {
+        "person_slug": "philipp-hopf",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino-ein-junge"
+      },
+      {
+        "person_slug": "raphael-pallawiks",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino-ein-junge"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "anna-tetruashvili",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "sophie-rennert",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "elias-gluck",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe"
+      },
+      {
+        "person_slug": "niclas-feimann",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe"
+      },
+      {
+        "person_slug": "philipp-hopf",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/drei-maenner-im-schnee",
@@ -613,7 +855,80 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "dagmar-hellberg",
+        "role_slug": "drei-manner-im-schnee/claudia-kunkel"
+      },
+      {
+        "person_slug": "armin-kahl",
+        "role_slug": "drei-manner-im-schnee/dr-fritz-hagedorn"
+      },
+      {
+        "person_slug": "erwin-windegger",
+        "role_slug": "drei-manner-im-schnee/eduard-tobler"
+      },
+      {
+        "person_slug": "alexander-moitzi",
+        "role_slug": "drei-manner-im-schnee/emir-von-bahrein"
+      },
+      {
+        "person_slug": "sigrid-hauser",
+        "role_slug": "drei-manner-im-schnee/frau-calabre"
+      },
+      {
+        "person_slug": "julia-klotz",
+        "role_slug": "drei-manner-im-schnee/hilde-tobler"
+      },
+      {
+        "person_slug": "frank-berg",
+        "role_slug": "drei-manner-im-schnee/hoteldirektor-kuhne"
+      },
+      {
+        "person_slug": "alexander-franzen",
+        "role_slug": "drei-manner-im-schnee/johann-kesselhuth"
+      },
+      {
+        "person_slug": "christian-schleinzer",
+        "role_slug": "drei-manner-im-schnee/liftboy"
+      },
+      {
+        "person_slug": "ulrike-dostal",
+        "role_slug": "drei-manner-im-schnee/mrs-sullivan"
+      },
+      {
+        "person_slug": "alexander-bambach",
+        "role_slug": "drei-manner-im-schnee/page-beppi"
+      },
+      {
+        "person_slug": "eduard-wildner",
+        "role_slug": "drei-manner-im-schnee/portier-polter"
+      },
+      {
+        "person_slug": "alexander-paul-findewirth",
+        "role_slug": "drei-manner-im-schnee/sepp-graswander"
+      },
+      {
+        "person_slug": "florian-sebastian-fitz",
+        "role_slug": "drei-manner-im-schnee/tierhandler-seidelbast-herr-calabre"
+      },
+      {
+        "person_slug": "peter-neustifter",
+        "role_slug": "drei-manner-im-schnee/toni-graswander"
+      },
+      {
+        "person_slug": "anna-overbeck",
+        "role_slug": "drei-manner-im-schnee/zimmermadchen-u-a"
+      },
+      {
+        "person_slug": "evita-komp",
+        "role_slug": "drei-manner-im-schnee/zimmermadchen-u-a"
+      },
+      {
+        "person_slug": "laura-schneiderhan",
+        "role_slug": "drei-manner-im-schnee/zimmermadchen-u-a"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/figaros-hochzeit",
@@ -759,6 +1074,10 @@
         "function": "conductor"
       },
       {
+        "person_slug": "michael-balke",
+        "function": "conductor"
+      },
+      {
         "person_slug": "ruben-dubrovsky",
         "function": "conductor"
       },
@@ -801,6 +1120,10 @@
         "role_slug": "giuseppe-verdi/la-traviata/annina"
       },
       {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
         "person_slug": "jeremy-boulton",
         "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
       },
@@ -809,12 +1132,16 @@
         "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
       },
       {
-        "person_slug": "aran-matsuda",
+        "person_slug": "thomas-hohenberger",
         "role_slug": "giuseppe-verdi/la-traviata/diener-bei-flora"
       },
       {
         "person_slug": "lukas-enoch-lemcke",
         "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
+      },
+      {
+        "person_slug": "frank-oliver-wei-mann",
+        "role_slug": "giuseppe-verdi/la-traviata/ein-bote"
       },
       {
         "person_slug": "robson-bueno-tavares",
@@ -838,6 +1165,10 @@
       },
       {
         "person_slug": "alg-n-ozcan",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
+      },
+      {
+        "person_slug": "stefan-thomas",
         "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
       },
       {

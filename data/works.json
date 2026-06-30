@@ -449,6 +449,11 @@
     "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "title": "Reise zum Mond",
+    "composer_slug": "alexander-r-schwei-nach-jules-verne-l"
+  },
+  {
     "slug": "alexander-r-schwei/the-bat-bomb",
     "title": "The Bat Bomb!",
     "composer_slug": "alexander-r-schwei"
@@ -792,6 +797,11 @@
     "composer_slug": "antonio-vivaldi"
   },
   {
+    "slug": "antonio-vivaldi/juditha-triumphans",
+    "title": "Juditha triumphans",
+    "composer_slug": "antonio-vivaldi"
+  },
+  {
     "slug": "antonio-vivaldi/l-olimpiade",
     "title": "L’Olimpiade",
     "composer_slug": "antonio-vivaldi"
@@ -878,6 +888,11 @@
     "slug": "attila-pacsay/artaban",
     "title": "Artaban",
     "composer_slug": "attila-pacsay"
+  },
+  {
+    "slug": "auftaktreffen-theater-schule",
+    "title": "Auftaktreffen Theater & Schule",
+    "composer_slug": ""
   },
   {
     "slug": "auguste-mermet/roland-a-roncevaux",
@@ -2389,6 +2404,11 @@
     "composer_slug": "emmerich-kalman"
   },
   {
+    "slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns",
+    "title": "Es sagt, es liebt uns",
+    "composer_slug": "emre-akal-auftragswerk-urauffuhrung"
+  },
+  {
     "slug": "ena-brennan/breathwork",
     "title": "Breathwork",
     "composer_slug": "ena-brennan"
@@ -3185,6 +3205,11 @@
   {
     "slug": "fuhrung-durch-die-staatsoper",
     "title": "Führung durch die Staatsoper",
+    "composer_slug": ""
+  },
+  {
+    "slug": "fuhrung-durch-die-werkstatten",
+    "title": "Führung durch die Werkstätten",
     "composer_slug": ""
   },
   {
@@ -4840,6 +4865,11 @@
     "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
+    "slug": "guided-tour-in-english",
+    "title": "Guided Tour in English",
+    "composer_slug": ""
+  },
+  {
     "slug": "guido-guerrini/la-vigna",
     "wikidata": "Q109242779",
     "title": "La vigna",
@@ -5023,6 +5053,11 @@
     "slug": "henrik-albrecht/heidi",
     "title": "Heidi",
     "composer_slug": "henrik-albrecht"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "title": "Nora oder Ein Puppenhaus",
+    "composer_slug": "henrik-ibsen-deutsch-von-hinrich-schmid"
   },
   {
     "slug": "henrike-iglesias-hempel-urauffuhrung/hall-of-fans-13",
@@ -5417,6 +5452,11 @@
     "slug": "jake-heggie/dead-man-walking",
     "title": "Dead Man Walking",
     "composer_slug": "jake-heggie"
+  },
+  {
+    "slug": "jakob-altmayer-urauffuhrung/schnee-von-morgen-10",
+    "title": "Schnee von morgen (10+)",
+    "composer_slug": "jakob-altmayer-urauffuhrung"
   },
   {
     "slug": "jakov-gotovac/ero-the-joker",
@@ -6515,6 +6555,11 @@
     "composer_slug": "lili-boulanger-x-werner-schwab"
   },
   {
+    "slug": "lilit-hakobyan/dreamer",
+    "title": "Dreamer",
+    "composer_slug": "lilit-hakobyan"
+  },
+  {
     "slug": "lisett-ansorge/die-kinder-des-monsieur-mathieu",
     "title": "Die Kinder des Monsieur Mathieu",
     "composer_slug": "lisett-ansorge"
@@ -7165,6 +7210,11 @@
     "composer_slug": "mit-dj-musicguru"
   },
   {
+    "slug": "mit-jochen-schliemann/farin-urlaub-ubers-reisen",
+    "title": "FARIN URLAUB übers Reisen",
+    "composer_slug": "mit-jochen-schliemann"
+  },
+  {
     "slug": "mit-kuratorin-jasmin-meinold/offentlicher-rundgang-durch-catherine-opies-ausstellung-the-pause-that-dreams-against-erasure",
     "title": "Öffentlicher Rundgang durch Catherine Opies Ausstellung The Pause That Dreams Against Erasure",
     "composer_slug": "mit-kuratorin-jasmin-meinold"
@@ -7602,6 +7652,11 @@
     "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
     "title": "Me and my Girl",
     "composer_slug": "noel-gay-l-arthur-rose-douglas-furber"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline",
+    "title": "Kasimir und Karoline",
+    "composer_slug": "odon-von-horvath"
   },
   {
     "slug": "offene-probe-der-oper-macbeth-von-giuseppe-verdi",
@@ -9605,6 +9660,16 @@
   {
     "slug": "theater-sneak",
     "title": "Theater-Sneak",
+    "composer_slug": ""
+  },
+  {
+    "slug": "theaterfest",
+    "title": "Theaterfest",
+    "composer_slug": ""
+  },
+  {
+    "slug": "theaterfestkonzert",
+    "title": "Theaterfestkonzert",
     "composer_slug": ""
   },
   {

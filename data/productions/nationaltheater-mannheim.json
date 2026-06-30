@@ -284,6 +284,15 @@
     "cast": []
   },
   {
+    "id": "nationaltheater-mannheim/auftaktreffen-theater-schule-4757",
+    "work_slug": "auftaktreffen-theater-schule",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/auftaktreffen-theater--schule/4757/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "nationaltheater-mannheim/baby-rave-0-4440",
     "work_slug": "musikalische-reihe-ulrike-stock/baby-rave-fur-babys-und-krabbelkinder",
     "house_slug": "nationaltheater-mannheim",
@@ -1447,6 +1456,41 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/die-freiheit-einer-frau-monique-bricht-aus/4469/",
+    "creative_team": [
+      {
+        "person_slug": "mascha-luttmann",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "robby-schumann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "louisa-robin",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "nico-parisius",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "friedrich-byusa-blam",
+        "role_slug": "hinrich-schmidt-henkel-und-sonja-finck/die-freiheit-einer-frau-monique-bricht-aus/musik"
+      },
+      {
+        "person_slug": "jan-friedrich",
+        "role_slug": "hinrich-schmidt-henkel-und-sonja-finck/die-freiheit-einer-frau-monique-bricht-aus/regie-kostum"
+      }
+    ]
+  },
+  {
+    "id": "nationaltheater-mannheim/die-freiheit-einer-frau-monique-bricht-aus-4786",
+    "work_slug": "hinrich-schmidt-henkel-und-sonja-finck/die-freiheit-einer-frau-monique-bricht-aus",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/die-freiheit-einer-frau-monique-bricht-aus/4786/",
     "creative_team": [
       {
         "person_slug": "mascha-luttmann",
@@ -3154,6 +3198,252 @@
     ]
   },
   {
+    "id": "nationaltheater-mannheim/die-zauberfloete-4552-4538",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/die-zauberfloete-4552/4538/",
+    "creative_team": [
+      {
+        "person_slug": "opernchor-des-nationaltheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "janis-liepins",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sophie-du-vinage",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "cordula-dauper",
+        "function": "director"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "damian-chmielarz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "friedrich-eggert",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "zinzi-frohwein",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "paul-stehle",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-knabe"
+      },
+      {
+        "person_slug": "ruth-hade",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "oskari-lehtola",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-knabe"
+      },
+      {
+        "person_slug": "julia-faylenbogen",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "julian-knorr",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-knabe"
+      },
+      {
+        "person_slug": "alistair-lilley",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/chordirektor"
+      },
+      {
+        "person_slug": "anke-christine-kober",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/einstudierung-der-knaben"
+      },
+      {
+        "person_slug": "dominic-lee",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "estelle-kruger",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "uwe-eikotter",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "nationaltheater-orchester",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "yaara-attias",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "yejy-nam",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "nikola-diskic",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "sung-ha",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "thomas-jesatko",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sprecher-priester"
+      },
+      {
+        "person_slug": "statisterie-des-nationaltheaters",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/statisterie"
+      },
+      {
+        "person_slug": "christopher-diffey",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "sofiia-melnyk",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/video-und-illustration"
+      },
+      {
+        "person_slug": "thomas-jesatko",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/zweiter-geharnischter"
+      }
+    ]
+  },
+  {
+    "id": "nationaltheater-mannheim/die-zauberfloete-4552-4655",
+    "work_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/die-zauberfloete-4552/4655/",
+    "creative_team": [
+      {
+        "person_slug": "opernchor-des-nationaltheaters",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "janis-liepins",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sophie-du-vinage",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "cordula-dauper",
+        "function": "director"
+      },
+      {
+        "person_slug": "cordula-demattio",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "damian-chmielarz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "friedrich-eggert",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "zinzi-frohwein",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "paul-stehle",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/1-knabe"
+      },
+      {
+        "person_slug": "ruth-hade",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "oskari-lehtola",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/2-knabe"
+      },
+      {
+        "person_slug": "julia-faylenbogen",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "julian-knorr",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/3-knabe"
+      },
+      {
+        "person_slug": "alistair-lilley",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/chordirektor"
+      },
+      {
+        "person_slug": "anke-christine-kober",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/einstudierung-der-knaben"
+      },
+      {
+        "person_slug": "dominic-lee",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "estelle-kruger",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "uwe-eikotter",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "nationaltheater-orchester",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "yaara-attias",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "yejy-nam",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "nikola-diskic",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "sung-ha",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "thomas-jesatko",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/sprecher-priester"
+      },
+      {
+        "person_slug": "statisterie-des-nationaltheaters",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/statisterie"
+      },
+      {
+        "person_slug": "christopher-diffey",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "sofiia-melnyk",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/video-und-illustration"
+      },
+      {
+        "person_slug": "thomas-jesatko",
+        "role_slug": "wolfgang-amadeus-mozart-libretto-von-eman/die-zauberflote/zweiter-geharnischter"
+      }
+    ]
+  },
+  {
     "id": "nationaltheater-mannheim/dinge-ueber-leben-4467",
     "work_slug": "eine-hommage-an-mevlude-genc/dinge-uber-leben",
     "house_slug": "nationaltheater-mannheim",
@@ -3291,11 +3581,29 @@
     ]
   },
   {
+    "id": "nationaltheater-mannheim/dreamer-4764",
+    "work_slug": "lilit-hakobyan/dreamer",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/dreamer/4764/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "nationaltheater-mannheim/drinks-drama-3570",
     "work_slug": "austausch-fur-ag-leitungen/drinks-drama",
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/drinks--drama/3570/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/drinks-drama-4767",
+    "work_slug": "austausch-fur-ag-leitungen/drinks-drama",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/drinks--drama/4767/",
     "creative_team": [],
     "cast": []
   },
@@ -3775,6 +4083,66 @@
     "cast": []
   },
   {
+    "id": "nationaltheater-mannheim/es-sagt-es-liebt-uns-25-26-4776",
+    "work_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/es-sagt-es-liebt-uns-25-26/4776/",
+    "creative_team": [
+      {
+        "person_slug": "frederike-marsha-coors",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dennis-duszczak",
+        "function": "director"
+      },
+      {
+        "person_slug": "thilo-ullrich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "olivia-ebert",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/dramaturgie-hausautorenschaft"
+      },
+      {
+        "person_slug": "fabian-dott",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/herr-lenz"
+      },
+      {
+        "person_slug": "sarah-zastrau",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/mo-ni"
+      },
+      {
+        "person_slug": "jan-prei-ler",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/musik"
+      },
+      {
+        "person_slug": "franziska-betz",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/produktionsdramaturgie"
+      },
+      {
+        "person_slug": "elodie-theres-toschek",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/tochter"
+      },
+      {
+        "person_slug": "boris-koneczny",
+        "role_slug": "emre-akal-auftragswerk-urauffuhrung/es-sagt-es-liebt-uns/vater"
+      }
+    ]
+  },
+  {
+    "id": "nationaltheater-mannheim/farin-urlaub-uebers-reisen-4010",
+    "work_slug": "mit-jochen-schliemann/farin-urlaub-ubers-reisen",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/farin-urlaub-uebers-reisen/4010/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "nationaltheater-mannheim/federn-federn-2-4457",
     "work_slug": "tanzfuchs-produktion-urauffuhrung/federn-federn-2",
     "house_slug": "nationaltheater-mannheim",
@@ -3945,6 +4313,24 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/fuehrung-baustelle-spielhaus/3655/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/fuehrung-baustelle-spielhaus-4789",
+    "work_slug": "fuhrung-uber-die-spielhausbaustelle",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/fuehrung-baustelle-spielhaus/4789/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/fuehrung-baustelle-spielhaus-4790",
+    "work_slug": "fuhrung-uber-die-spielhausbaustelle",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/fuehrung-baustelle-spielhaus/4790/",
     "creative_team": [],
     "cast": []
   },
@@ -4919,6 +5305,15 @@
         "role_slug": "mythos/kampf-der-titanen/live-musik"
       }
     ]
+  },
+  {
+    "id": "nationaltheater-mannheim/kasimir-und-karoline-4423",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/kasimir-und-karoline/4423/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "nationaltheater-mannheim/kat-frankie-solo-4223",
@@ -6416,6 +6811,15 @@
     ]
   },
   {
+    "id": "nationaltheater-mannheim/nora-oder-ein-puppenheim-4425",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/nora-oder-ein-puppenheim/4425/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "nationaltheater-mannheim/offener-theatertreff-8-bis-21-jahre-4456",
     "work_slug": "spielen/offener-theatertreff-8-bis-21-jahre",
     "house_slug": "nationaltheater-mannheim",
@@ -6723,6 +7127,49 @@
     ]
   },
   {
+    "id": "nationaltheater-mannheim/reise-zum-mond-ua-4835",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/reise-zum-mond-ua/4835/",
+    "creative_team": [
+      {
+        "person_slug": "anton-legkii",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daniel-joshua-busche",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nicole-berry",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nigel-lowery",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "thilo-david-heins",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jessica-salzmann",
+        "role_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/kunst-vermittlung"
+      },
+      {
+        "person_slug": "nationaltheater-orchester",
+        "role_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/orchester"
+      },
+      {
+        "person_slug": "statisterie-des-nationaltheaters",
+        "role_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/statisterie"
+      }
+    ]
+  },
+  {
     "id": "nationaltheater-mannheim/schloss-in-flammen-5662-3436",
     "work_slug": "festliche-operngala-mit-synchronfeuerwerk/schloss-in-flammen",
     "house_slug": "nationaltheater-mannheim",
@@ -6744,6 +7191,42 @@
         "role_slug": "festliche-operngala-mit-synchronfeuerwerk/schloss-in-flammen/orchester"
       }
     ]
+  },
+  {
+    "id": "nationaltheater-mannheim/schnee-von-morgen-10-4428",
+    "work_slug": "jakob-altmayer-urauffuhrung/schnee-von-morgen-10",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/schnee-von-morgen-10/4428/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/schnee-von-morgen-10-4825",
+    "work_slug": "jakob-altmayer-urauffuhrung/schnee-von-morgen-10",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/schnee-von-morgen-10/4825/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/schnee-von-morgen-10-4826",
+    "work_slug": "jakob-altmayer-urauffuhrung/schnee-von-morgen-10",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/schnee-von-morgen-10/4826/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/schnee-von-morgen-10-4842",
+    "work_slug": "jakob-altmayer-urauffuhrung/schnee-von-morgen-10",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/schnee-von-morgen-10/4842/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "nationaltheater-mannheim/shakespeare-love-3447",
@@ -7525,6 +8008,24 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/theater-sneak-1659/4750/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/theaterfest-7253-4534",
+    "work_slug": "theaterfest",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/theaterfest-7253/4534/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "nationaltheater-mannheim/theaterfestkonzert-4535",
+    "work_slug": "theaterfestkonzert",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/theaterfestkonzert/4535/",
     "creative_team": [],
     "cast": []
   },

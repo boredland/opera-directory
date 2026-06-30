@@ -242,6 +242,126 @@
     "cast": []
   },
   {
+    "id": "teatro-regio-torino/carmen/2026-27",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/carmen",
+    "creative_team": [
+      {
+        "person_slug": "claudio-fenoglio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carla-ricotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "arnaud-bernard",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alessandro-camera",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maria-kataeva",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "ramona-zaharia",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "matteo-lippi",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "piero-pretti",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "daniel-okulitch",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "erwin-schrott",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "vitor-bispo",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "albina-tonkikh",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "daniela-cappiello",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "eduardo-martinez",
+        "role_slug": "georges-bizet/carmen/il-dancaire"
+      },
+      {
+        "person_slug": "fabio-previati",
+        "role_slug": "georges-bizet/carmen/il-dancaire"
+      },
+      {
+        "person_slug": "adrian-autard",
+        "role_slug": "georges-bizet/carmen/il-remendado"
+      },
+      {
+        "person_slug": "francesco-pittari",
+        "role_slug": "georges-bizet/carmen/il-remendado"
+      },
+      {
+        "person_slug": "anastasia-egorova",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "valentine-lemercier",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "ekaterina-bakanova",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "inna-demenkova",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "janusz-nosek",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "dohoon-lee",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      },
+      {
+        "person_slug": "gabriele-sagona",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
+  },
+  {
     "id": "teatro-regio-torino/catone-in-utica/1731-32",
     "work_slug": "johann-adolph-hasse/catone-in-utica",
     "house_slug": "teatro-regio-torino",
@@ -262,6 +382,98 @@
     "detail_url": "https://www.wikidata.org/wiki/Q2839289",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/cavalleria-rusticana/2026-27",
+    "work_slug": "pietro-mascagni/cavalleria-rusticana",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/cavalleria-rusticana",
+    "creative_team": [
+      {
+        "person_slug": "marco-caudera",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giuditta-verderio",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nika-campisi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-menghini",
+        "function": "director"
+      },
+      {
+        "person_slug": "tommaso-franchin",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-panella",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "chiara-previato",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ariun-ganbaatar",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/alfio"
+      },
+      {
+        "person_slug": "simone-piazzola",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/alfio"
+      },
+      {
+        "person_slug": "veta-pilipenko",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/lola"
+      },
+      {
+        "person_slug": "agostina-smimmero",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/lucia"
+      },
+      {
+        "person_slug": "elena-zilio",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/lucia"
+      },
+      {
+        "person_slug": "ekaterina-semenchuk",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/santuzza"
+      },
+      {
+        "person_slug": "maria-teresa-leva",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/santuzza"
+      },
+      {
+        "person_slug": "amadi-lagha",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/turiddu"
+      },
+      {
+        "person_slug": "ivan-gyngazov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/turiddu"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/ciro-riconosciuto/1738-39",
@@ -501,6 +713,86 @@
     "cast": []
   },
   {
+    "id": "teatro-regio-torino/edgar/2026-27",
+    "work_slug": "giacomo-puccini/edgar",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/edgar",
+    "creative_team": [
+      {
+        "person_slug": "claudio-fenoglio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "carlo-rizzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "george-souglides",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "angela-saroglou",
+        "function": "director"
+      },
+      {
+        "person_slug": "nicola-raab",
+        "function": "director"
+      },
+      {
+        "person_slug": "giuseppe-di-iorio",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "george-souglides",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giorgi-sturua",
+        "role_slug": "giacomo-puccini/edgar/edgar"
+      },
+      {
+        "person_slug": "luciano-ganci",
+        "role_slug": "giacomo-puccini/edgar/edgar"
+      },
+      {
+        "person_slug": "barno-ismatullaeva",
+        "role_slug": "giacomo-puccini/edgar/fidelia"
+      },
+      {
+        "person_slug": "ekaterina-sannikova",
+        "role_slug": "giacomo-puccini/edgar/fidelia"
+      },
+      {
+        "person_slug": "gabriele-viviani",
+        "role_slug": "giacomo-puccini/edgar/frank"
+      },
+      {
+        "person_slug": "gustavo-castillo",
+        "role_slug": "giacomo-puccini/edgar/frank"
+      },
+      {
+        "person_slug": "marco-spotti",
+        "role_slug": "giacomo-puccini/edgar/gualtiero"
+      },
+      {
+        "person_slug": "elmina-hasan",
+        "role_slug": "giacomo-puccini/edgar/tigrana"
+      },
+      {
+        "person_slug": "valentina-boi",
+        "role_slug": "giacomo-puccini/edgar/tigrana"
+      }
+    ]
+  },
+  {
     "id": "teatro-regio-torino/elda/1879-80",
     "work_slug": "alfredo-catalani/elda",
     "house_slug": "teatro-regio-torino",
@@ -543,6 +835,86 @@
     "detail_url": "https://www.wikidata.org/wiki/Q136796451",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/evgenij-onegin/2026-27",
+    "work_slug": "petr-il-ic-cajkovskij/evgenij-onegin",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/evgenij-onegin",
+    "creative_team": [
+      {
+        "person_slug": "serge-bennathan",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valentin-uryupin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-levine",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "peter-mcclintock",
+        "function": "director"
+      },
+      {
+        "person_slug": "robert-carsen",
+        "function": "director"
+      },
+      {
+        "person_slug": "christine-binder",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "michael-levine",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "danylo-matviienko",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/evgenij-onegin"
+      },
+      {
+        "person_slug": "alexander-roslavets",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/il-principe-gremin"
+      },
+      {
+        "person_slug": "margarita-nekrasova",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/la-njanja-filipp-evna"
+      },
+      {
+        "person_slug": "enkelejda-shkosa",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/la-vedova-larina"
+      },
+      {
+        "person_slug": "maria-barakova",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/ol-ga"
+      },
+      {
+        "person_slug": "galina-cheplakova",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/tat-jana"
+      },
+      {
+        "person_slug": "rupert-charlesworth",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/triquet"
+      },
+      {
+        "person_slug": "dmitry-korchak",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/vladimir-lenskij"
+      },
+      {
+        "person_slug": "viktor-shevchenko",
+        "role_slug": "petr-il-ic-cajkovskij/evgenij-onegin/zareckij-e-un-capitano"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/ezio/1730-31",
@@ -1082,6 +1454,102 @@
     "cast": []
   },
   {
+    "id": "teatro-regio-torino/iris/2026-27",
+    "work_slug": "pietro-mascagni/iris",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/iris",
+    "creative_team": [
+      {
+        "person_slug": "marco-caudera",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giuditta-verderio",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nika-campisi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-piazza",
+        "function": "director"
+      },
+      {
+        "person_slug": "daniele-menghini",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-panella",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "chiara-previato",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "luca-tittoto",
+        "role_slug": "pietro-mascagni/iris/il-cieco"
+      },
+      {
+        "person_slug": "mariano-buccino",
+        "role_slug": "pietro-mascagni/iris/il-cieco"
+      },
+      {
+        "person_slug": "erika-grimaldi",
+        "role_slug": "pietro-mascagni/iris/iris"
+      },
+      {
+        "person_slug": "iwona-sobotka",
+        "role_slug": "pietro-mascagni/iris/iris"
+      },
+      {
+        "person_slug": "manel-esteve-madrid",
+        "role_slug": "pietro-mascagni/iris/kyoto"
+      },
+      {
+        "person_slug": "roberto-frontali",
+        "role_slug": "pietro-mascagni/iris/kyoto"
+      },
+      {
+        "person_slug": "angelo-villari",
+        "role_slug": "pietro-mascagni/iris/osaka"
+      },
+      {
+        "person_slug": "samuele-simoncini",
+        "role_slug": "pietro-mascagni/iris/osaka"
+      },
+      {
+        "person_slug": "didier-pieri",
+        "role_slug": "pietro-mascagni/iris/un-cenciaiolo"
+      },
+      {
+        "person_slug": "albina-tonkikh",
+        "role_slug": "pietro-mascagni/iris/una-guecha"
+      }
+    ]
+  },
+  {
     "id": "teatro-regio-torino/issipile/1737-38",
     "work_slug": "baldassare-galuppi/issipile",
     "house_slug": "teatro-regio-torino",
@@ -1091,6 +1559,42 @@
     "detail_url": "https://www.wikidata.org/wiki/Q5922965",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/juditha-triumphans/2026-27",
+    "work_slug": "antonio-vivaldi/juditha-triumphans",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/juditha-triumphans",
+    "creative_team": [
+      {
+        "person_slug": "gianluca-capuano",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lorrie-garcia",
+        "role_slug": "antonio-vivaldi/juditha-triumphans/abra"
+      },
+      {
+        "person_slug": "deniz-uzun",
+        "role_slug": "antonio-vivaldi/juditha-triumphans/holofernes"
+      },
+      {
+        "person_slug": "sara-mingardo",
+        "role_slug": "antonio-vivaldi/juditha-triumphans/juditha"
+      },
+      {
+        "person_slug": "francesca-ascioti",
+        "role_slug": "antonio-vivaldi/juditha-triumphans/ozias"
+      },
+      {
+        "person_slug": "eleonora-bellocci",
+        "role_slug": "antonio-vivaldi/juditha-triumphans/vagaus"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/l-eroe-di-lancastro/1820-21",
@@ -1124,6 +1628,134 @@
     "detail_url": "https://www.wikidata.org/wiki/Q5967643",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/la-boheme/2026-27",
+    "work_slug": "ruggero-leoncavallo/la-boheme",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/la-boheme",
+    "creative_team": [
+      {
+        "person_slug": "matteo-ceccarelli",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "francesca-sartorio",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "giada-masi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "francesco-micheli",
+        "function": "director"
+      },
+      {
+        "person_slug": "stefania-panighini",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-panella",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "laura-pigazzini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "matteo-peirone",
+        "role_slug": "ruggero-leoncavallo/la-boheme/barbemuche"
+      },
+      {
+        "person_slug": "alfonso-mujica",
+        "role_slug": "ruggero-leoncavallo/la-boheme/colline"
+      },
+      {
+        "person_slug": "francesco-salvadori",
+        "role_slug": "ruggero-leoncavallo/la-boheme/colline"
+      },
+      {
+        "person_slug": "roberto-covatta",
+        "role_slug": "ruggero-leoncavallo/la-boheme/durand"
+      },
+      {
+        "person_slug": "manuela-custer",
+        "role_slug": "ruggero-leoncavallo/la-boheme/eufemia"
+      },
+      {
+        "person_slug": "manuel-pierattelli",
+        "role_slug": "ruggero-leoncavallo/la-boheme/gaudenzio"
+      },
+      {
+        "person_slug": "pablo-galvez",
+        "role_slug": "ruggero-leoncavallo/la-boheme/il-visconte-paolo"
+      },
+      {
+        "person_slug": "arseny-yakovlev",
+        "role_slug": "ruggero-leoncavallo/la-boheme/marcello"
+      },
+      {
+        "person_slug": "matteo-lippi",
+        "role_slug": "ruggero-leoncavallo/la-boheme/marcello"
+      },
+      {
+        "person_slug": "francesca-dotto",
+        "role_slug": "ruggero-leoncavallo/la-boheme/mimi"
+      },
+      {
+        "person_slug": "sara-cortolezzis",
+        "role_slug": "ruggero-leoncavallo/la-boheme/mimi"
+      },
+      {
+        "person_slug": "anna-goryachova",
+        "role_slug": "ruggero-leoncavallo/la-boheme/musette"
+      },
+      {
+        "person_slug": "lamia-beuque",
+        "role_slug": "ruggero-leoncavallo/la-boheme/musette"
+      },
+      {
+        "person_slug": "alessandro-luongo",
+        "role_slug": "ruggero-leoncavallo/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "ramiro-maturana",
+        "role_slug": "ruggero-leoncavallo/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "simone-del-savio",
+        "role_slug": "ruggero-leoncavallo/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "nicola-pamio",
+        "role_slug": "ruggero-leoncavallo/la-boheme/un-becero"
+      },
+      {
+        "person_slug": "adrian-autard",
+        "role_slug": "ruggero-leoncavallo/la-boheme/un-signore"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/la-cenerentola/2025-26",
@@ -1326,6 +1958,118 @@
     "detail_url": "https://www.wikidata.org/wiki/Q109242033",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/la-traviata/2026-27",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/la-traviata",
+    "creative_team": [
+      {
+        "person_slug": "ron-howell",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giada-masi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jacopo-spirei",
+        "function": "director"
+      },
+      {
+        "person_slug": "lorenzo-lenzi",
+        "function": "director"
+      },
+      {
+        "person_slug": "fiammetta-baldiserri",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "gary-mccann",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "gloria-bolchini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "filipe-manu",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "galeano-salas",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "albina-tonkikh",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "ilaria-monteverdi",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "anastasia-egorova",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "martina-myskohlid",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "adrian-autard",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "christian-collia",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "vito-priante",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "vladimir-stoyanov",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "eduardo-martinez",
+        "role_slug": "giuseppe-verdi/la-traviata/il-barone-douphol"
+      },
+      {
+        "person_slug": "nicolo-ceriani",
+        "role_slug": "giuseppe-verdi/la-traviata/il-barone-douphol"
+      },
+      {
+        "person_slug": "adriano-gramigni",
+        "role_slug": "giuseppe-verdi/la-traviata/il-dottor-grenvil"
+      },
+      {
+        "person_slug": "dohoon-lee",
+        "role_slug": "giuseppe-verdi/la-traviata/il-marchese-d-obigny"
+      },
+      {
+        "person_slug": "ekaterina-bakanova",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      },
+      {
+        "person_slug": "maria-novella-malfatti",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/la-vergine-di-kent/1855-56",
@@ -1549,6 +2293,110 @@
     "cast": []
   },
   {
+    "id": "teatro-regio-torino/pagliacci/2026-27",
+    "work_slug": "ruggero-leoncavallo/pagliacci",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/pagliacci",
+    "creative_team": [
+      {
+        "person_slug": "matteo-ceccarelli",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "claudio-fenoglio",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gea-garatti-ansini",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-battistoni",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "francesca-sartorio",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "giada-masi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "francesco-micheli",
+        "function": "director"
+      },
+      {
+        "person_slug": "tommaso-franchin",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-panella",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "laura-pigazzini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "carlo-ventre",
+        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
+      },
+      {
+        "person_slug": "gregory-kunde",
+        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
+      },
+      {
+        "person_slug": "martin-muehle",
+        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
+      },
+      {
+        "person_slug": "carolina-lopez-moreno",
+        "role_slug": "ruggero-leoncavallo/pagliacci/nedda"
+      },
+      {
+        "person_slug": "maria-teresa-leva",
+        "role_slug": "ruggero-leoncavallo/pagliacci/nedda"
+      },
+      {
+        "person_slug": "matteo-falcier",
+        "role_slug": "ruggero-leoncavallo/pagliacci/peppe"
+      },
+      {
+        "person_slug": "matteo-mezzaro",
+        "role_slug": "ruggero-leoncavallo/pagliacci/peppe"
+      },
+      {
+        "person_slug": "joshua-hopkins",
+        "role_slug": "ruggero-leoncavallo/pagliacci/silvio"
+      },
+      {
+        "person_slug": "rodion-pogossov",
+        "role_slug": "ruggero-leoncavallo/pagliacci/silvio"
+      },
+      {
+        "person_slug": "ariun-ganbaatar",
+        "role_slug": "ruggero-leoncavallo/pagliacci/tonio"
+      },
+      {
+        "person_slug": "fabian-veloz",
+        "role_slug": "ruggero-leoncavallo/pagliacci/tonio"
+      }
+    ]
+  },
+  {
     "id": "teatro-regio-torino/rodrigo-di-valenza/1819-20",
     "work_slug": "ferdinando-orlandi/rodrigo-di-valenza",
     "house_slug": "teatro-regio-torino",
@@ -1558,6 +2406,102 @@
     "detail_url": "https://www.wikidata.org/wiki/Q109241474",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "teatro-regio-torino/salome/2026-27",
+    "work_slug": "richard-strauss/salome",
+    "house_slug": "teatro-regio-torino",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatroregio.torino.it/opera-e-balletto-2026-2027/salome",
+    "creative_team": [
+      {
+        "person_slug": "axel-kober",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "monika-korpa",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kornel-mundruczo",
+        "function": "director"
+      },
+      {
+        "person_slug": "leonardo-piana",
+        "function": "director"
+      },
+      {
+        "person_slug": "marcos-darbyshire",
+        "function": "director"
+      },
+      {
+        "person_slug": "felice-ross",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "monika-korpa",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "john-daszak",
+        "role_slug": "richard-strauss/salome/erode"
+      },
+      {
+        "person_slug": "jennifer-larmore",
+        "role_slug": "richard-strauss/salome/erodiade"
+      },
+      {
+        "person_slug": "gabor-bretz",
+        "role_slug": "richard-strauss/salome/jochanaan"
+      },
+      {
+        "person_slug": "matthew-newlin",
+        "role_slug": "richard-strauss/salome/narraboth"
+      },
+      {
+        "person_slug": "florian-panzieri",
+        "role_slug": "richard-strauss/salome/primo-giudeo"
+      },
+      {
+        "person_slug": "vladimir-sazdovski",
+        "role_slug": "richard-strauss/salome/primo-nazareno-e-secondo-soldato"
+      },
+      {
+        "person_slug": "emanuel-tomljenovic",
+        "role_slug": "richard-strauss/salome/quarto-giudeo"
+      },
+      {
+        "person_slug": "karl-huml",
+        "role_slug": "richard-strauss/salome/quinto-giudeo-e-primo-soldato"
+      },
+      {
+        "person_slug": "johanni-van-oostrum",
+        "role_slug": "richard-strauss/salome/salome"
+      },
+      {
+        "person_slug": "michael-smallwood",
+        "role_slug": "richard-strauss/salome/secondo-giudeo"
+      },
+      {
+        "person_slug": "yiorgo-ioannou",
+        "role_slug": "richard-strauss/salome/secondo-nazareno"
+      },
+      {
+        "person_slug": "alexander-marev",
+        "role_slug": "richard-strauss/salome/terzo-giudeo"
+      },
+      {
+        "person_slug": "ena-pongrac",
+        "role_slug": "richard-strauss/salome/un-paggio-e-uno-schiavo"
+      },
+      {
+        "person_slug": "dohoon-lee",
+        "role_slug": "richard-strauss/salome/un-uomo-di-cappadocia"
+      }
+    ]
   },
   {
     "id": "teatro-regio-torino/semiramide-riconosciuta/1741-42",

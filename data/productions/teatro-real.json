@@ -40,6 +40,122 @@
     ]
   },
   {
+    "id": "teatro-real/il-trovatore/2025-26",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "house_slug": "teatro-real",
+    "premiere_season": "2025/26",
+    "is_revival": false,
+    "detail_url": "https://www.teatroreal.es/es/espectaculo/il-trovatore",
+    "creative_team": [
+      {
+        "person_slug": "jose-luis-basso",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francois-lopez-ferrer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-luisotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "francisco-negrin",
+        "function": "director"
+      },
+      {
+        "person_slug": "bruno-poet",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "louis-desire",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anita-rachvelishvili",
+        "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "clementine-margaine",
+        "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "ksenia-dudnikova",
+        "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "teresa-romano",
+        "role_slug": "giuseppe-verdi/il-trovatore/azucena"
+      },
+      {
+        "person_slug": "artur-rucinski",
+        "role_slug": "giuseppe-verdi/il-trovatore/el-conde-de-luna"
+      },
+      {
+        "person_slug": "george-petean",
+        "role_slug": "giuseppe-verdi/il-trovatore/el-conde-de-luna"
+      },
+      {
+        "person_slug": "juan-jesus-rodriguez",
+        "role_slug": "giuseppe-verdi/il-trovatore/el-conde-de-luna"
+      },
+      {
+        "person_slug": "krzysztof-baczyk",
+        "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
+      },
+      {
+        "person_slug": "marko-mimica",
+        "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
+      },
+      {
+        "person_slug": "mar-moran",
+        "role_slug": "giuseppe-verdi/il-trovatore/ines"
+      },
+      {
+        "person_slug": "rocio-faus",
+        "role_slug": "giuseppe-verdi/il-trovatore/ines"
+      },
+      {
+        "person_slug": "anna-netrebko",
+        "role_slug": "giuseppe-verdi/il-trovatore/leonora"
+      },
+      {
+        "person_slug": "marina-rebeka",
+        "role_slug": "giuseppe-verdi/il-trovatore/leonora"
+      },
+      {
+        "person_slug": "saioa-hernandez",
+        "role_slug": "giuseppe-verdi/il-trovatore/leonora"
+      },
+      {
+        "person_slug": "celso-albelo",
+        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
+      },
+      {
+        "person_slug": "piotr-becza-a",
+        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
+      },
+      {
+        "person_slug": "vittorio-grigolo",
+        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
+      },
+      {
+        "person_slug": "yusif-eyvazov",
+        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
+      },
+      {
+        "person_slug": "moises-marin",
+        "role_slug": "giuseppe-verdi/il-trovatore/mensajero"
+      },
+      {
+        "person_slug": "fabian-lara",
+        "role_slug": "giuseppe-verdi/il-trovatore/ruiz"
+      }
+    ]
+  },
+  {
     "id": "teatro-real/los-estunmen/2025-26",
     "work_slug": "fernando-velazquez/los-estunmen",
     "house_slug": "teatro-real",

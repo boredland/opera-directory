@@ -205,8 +205,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2014-11-22",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/29/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/boccanegra/boccanegra_sulimsky2_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/12/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/boccanegra/boccanegra_sulimsky_furlanetto.jpg",
     "synopsis": "The action unfolds in Genoa and its surroundings in the 14 th century. Twenty-five years pass between the prologue and Act I. Prologue A square in Genoa. Paolo and Pietro discuss who should be the first Doge of Genoa. Paolo wants it to be Simon Boccanegra, the corsair who has freed Genoa’s sea territory from African pirates. Boccanegra is a plebeian, and his election should put an end to the power of the patricians. Simon appears. He agrees to Paolo’s entreaties to become the Doge with reluctance: he has no need of authority, but he hopes that in becoming the Doge he can marry his beloved Maria. Her father, the patrician Jacopo Fiesco, does not approve of her marriage to a corsair and keeps his daughter under lock and key. Paolo and Pietro convince the assembled crowd to elect Simon Boccanegra as the Doge. Maria has died. Jacopo Fiesco accuses Simon, the father of her child, of his own daughter’s death. Off-stage the chorus laments Maria. Boccanegra asks Fiesco for a reconciliation. Fiesco is ready to forgive Simon if the latter will surrender Fiesco’s granddaughter to him. But this is impossible: the girl disappeared recently. Simon enters Fiesco’s palace and sees Maria dead. At the moment the crowd greets the new Doge of Genoa – Simon Boccanegra. Act I Under Simon Boccanegra’s rule the aristocratic Fiesco and Grimaldi families are exiled. Jacopo Fiesco has taken refuge on the Grimaldi estate under the name of Andrea. Boccanegra’s daughter Maria is also there under the name of Amelia Grimaldi; no-one knows of her true birth. Amelia awaits her beloved, Gabriele Adorno. Amelia knows that Gabriele and Andrea are preparing a revolt against the Doge and asks Gabriele to abandon this dangerous plan. The Doge arrives at the estate; he plans to ask for Amelia’s hand on behalf of one of his retainers – Paolo. Andrea blesses the marriage of Gabriele and Amelia and tells Gabriele that Amelia Grimaldi is an orphan. The Doge pardons the Grimaldi family and permits Amelia’s brot",
     "creative_team": [
       {
@@ -224,23 +224,11 @@
     ],
     "cast": [
       {
-        "person_slug": "diana-kazanlieva",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/amelia-grimaldi"
-      },
-      {
-        "person_slug": "roman-shirokikh",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/gabriele-adorno"
-      },
-      {
-        "person_slug": "stanislav-trofimov",
+        "person_slug": "ferruccio-furlanetto",
         "role_slug": "giuseppe-verdi/simon-boccanegra/jacopo-fiesco"
       },
       {
-        "person_slug": "yaroslav-petryanik",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/paolo-albiani"
-      },
-      {
-        "person_slug": "oleg-sychov",
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
         "role_slug": "giuseppe-verdi/simon-boccanegra/pietro"
       },
       {
@@ -1271,7 +1259,28 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "tba",
+        "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/boris-ismailov"
+      },
+      {
+        "person_slug": "anzhelika-minasova",
+        "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/katerina-ismailova"
+      },
+      {
+        "person_slug": "alexander-trofimov",
+        "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/sergei"
+      },
+      {
+        "person_slug": "mikhail-petrenko",
+        "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/the-priest"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/zinovy-ismailov"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lakme",
@@ -1524,7 +1533,36 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "alexei-kostyuk",
+        "role_slug": "pyotr-tchaikovsky/mazepa/andrei"
+      },
+      {
+        "person_slug": "andrei-zorin",
+        "role_slug": "pyotr-tchaikovsky/mazepa/iskra"
+      },
+      {
+        "person_slug": "yevgeny-plekhanov",
+        "role_slug": "pyotr-tchaikovsky/mazepa/kochubei"
+      },
+      {
+        "person_slug": "laura-bustamante",
+        "role_slug": "pyotr-tchaikovsky/mazepa/lyubov"
+      },
+      {
+        "person_slug": "maria-tchaikovskaya",
+        "role_slug": "pyotr-tchaikovsky/mazepa/maria"
+      },
+      {
+        "person_slug": "evgeny-shagarov",
+        "role_slug": "pyotr-tchaikovsky/mazepa/mazepa"
+      },
+      {
+        "person_slug": "azamat-malyshov",
+        "role_slug": "pyotr-tchaikovsky/mazepa/orlik"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-nabucco-2023",
@@ -1635,7 +1673,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "klim-tikhonov",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/antonio"
+      },
+      {
+        "person_slug": "yekaterina-shpilman",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/clara"
+      },
+      {
+        "person_slug": "denis-zakirov",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/don-jerome"
+      },
+      {
+        "person_slug": "anna-kiknadze",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/duenna"
+      },
+      {
+        "person_slug": "egor-sotov",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/ferdinand"
+      },
+      {
+        "person_slug": "pelageya-kurennaya",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/louisa"
+      },
+      {
+        "person_slug": "mikhail-kolelishvili",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/mendoza"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
@@ -2524,7 +2591,7 @@
     "premiere_date": "1901-10-30",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/1/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/tsar_birde_kuzin/_tsar_bride_banner.png",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/tsar_birde_kuzin/kz/8_tsarskaya_kz_tsarenko_by_vilchuk.jpg",
     "synopsis": "Act I The oprichnik Grigory Gryaznoi is expecting guests whom he has invited with the secret thought of gaining the trust of Ivan Lykov and being introduced to Bomely the German physician as soon as possible. Ivan Lykov is the groom of the beautiful Marfa Sobakina with whom Gryaznoi is in love. The times when Gryaznoi enjoyed taking any girl by force who took his fancy. Now he is truly in love but Marfa’s father has declined him point-blank; his daughter is promised in marriage to Ivan Lykov who has recently returned from abroad. Gryaznoi doesn’t yet know what he will do but he is determined the marriage will not take place. The oprichnik guests assemble, led by the mighty Malyuta Skuratov Lykov and Bomely. Singers entertain Gryaznoi’s guests with singing and dancing. When the guests depart Bomely alone remains behind at the host’s request. Gryaznoi asks him for a love-philtre. Lyubasha, Gryaznoi’s lover, overhears their conversation. After Bomely departs she tries to hold on to Gryaznoi and revive his love, but in vain. Act II An autumn morning. In fear, the people walking in the garden make way for the oprichniks who appear and they discuss the impending inspection of the Tsar’s bride, for which beautiful girls from all over Russia have been brought. Midday. Marfa and her friend Dunyasha Saburova and the drynurse Petrovna are returning home. They are met by several horsemen, one of whom is Ivan the Terrible. Marfa does not recognise the Tsar, though she is frightened by his fixed stare. In secret, Lyubasha is spying on Marfa and Dunyasha. She is staggered by Marfa’s beauty and realises she cannot compete with her. Lyubasha asks Bomely for some poison to kill her rival. In exchange for the poison Bomely wants to spend the night with Lyubasha. Mad with grief and abandoned by her lover she agrees. Act III Sobakin is receiving guests at home – Lykov and Grigory Gryaznoi, who has asked insistently to be the groom’s best man. They wait for the girls who are due home at ",
     "creative_team": [
       {
@@ -2542,7 +2609,7 @@
     ],
     "cast": [
       {
-        "person_slug": "tba",
+        "person_slug": "pavel-yankovsky",
         "role_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/grigory-gryaznoy"
       },
       {

@@ -183,6 +183,10 @@
     "detail_url": "https://www.sh-landestheater.de/produktionen/die-grossherzogin-von-gerolstein.html",
     "creative_team": [
       {
+        "person_slug": "katharina-glas",
+        "function": "choreographer"
+      },
+      {
         "person_slug": "alexander-stessin",
         "function": "chorus-master"
       },
@@ -314,8 +318,16 @@
         "function": "conductor"
       },
       {
+        "person_slug": "clara-kalus",
+        "function": "director"
+      },
+      {
         "person_slug": "maximilian-eisenacher",
         "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alexander-gruner",
+        "function": "set-designer"
       }
     ],
     "cast": []

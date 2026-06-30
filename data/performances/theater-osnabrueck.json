@@ -104,6 +104,22 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-osnabrueck/os-921/2026-12-31/15:00",
+    "production_id": "theater-osnabrueck/os-921",
+    "date": "2026-12-31",
+    "time": "15:00",
+    "venue_room": "Theater am Domhof",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-osnabrueck/os-921/2026-12-31/19:00",
+    "production_id": "theater-osnabrueck/os-921",
+    "date": "2026-12-31",
+    "time": "19:00",
+    "venue_room": "Theater am Domhof",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-osnabrueck/os-921/2027-01-07/19:30",
     "production_id": "theater-osnabrueck/os-921",
     "date": "2027-01-07",
