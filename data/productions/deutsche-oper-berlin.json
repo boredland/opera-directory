@@ -1698,6 +1698,97 @@
     ]
   },
   {
+    "id": "deutsche-oper-berlin/la-boheme-17825196",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/la-boheme.17825196",
+    "creative_team": [
+      {
+        "person_slug": "christian-lindhorst",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "dominic-limburg",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gotz-friedrich",
+        "function": "director"
+      },
+      {
+        "person_slug": "stephen-watson",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "peter-sykora",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "burkhard-ulrich",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "jorg-schorner",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "kinderchor-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "thomas-richter",
+        "role_slug": "giacomo-puccini/la-boheme/chore"
+      },
+      {
+        "person_slug": "joel-allison",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "thomas-lehman",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "maria-motolygina",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "alexandra-oomens",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "giacomo-puccini/la-boheme/orchester"
+      },
+      {
+        "person_slug": "michael-dimovski",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "attilio-glaser",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "philipp-jekal",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "paul-minhyung-roh",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollwache"
+      },
+      {
+        "person_slug": "benjamin-dickerson",
+        "role_slug": "giacomo-puccini/la-boheme/zollner"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-berlin/opernwerkstatt-zar-und-zimmermann-17862474",
     "work_slug": "probenbesuch-und-gesprach/opernwerkstatt-zar-und-zimmermann",
     "house_slug": "deutsche-oper-berlin",

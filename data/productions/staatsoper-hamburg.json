@@ -1575,6 +1575,10 @@
         "role_slug": "die-mowe/jewgenij-sergejewitsch-dorn"
       },
       {
+        "person_slug": "petar-kostov",
+        "role_slug": "die-mowe/klavier"
+      },
+      {
         "person_slug": "louis-musin",
         "role_slug": "die-mowe/konstantin-kostja"
       },
@@ -1762,6 +1766,15 @@
     "premiere_date": "1885-05-04",
     "is_revival": false,
     "detail_url": "https://www.wikidata.org/wiki/Q30642839",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/details-2147483908-fuehrung-durch-die-staatsoper",
+    "work_slug": "fuhrung-durch-die-staatsoper",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/details/2147483908-fuehrung-durch-die-staatsoper",
     "creative_team": [],
     "cast": []
   },

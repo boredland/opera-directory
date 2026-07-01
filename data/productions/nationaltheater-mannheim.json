@@ -8026,8 +8026,42 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/theaterfestkonzert/4535/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "roberto-rizzi-brignoli",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sung-ha",
+        "role_slug": "theaterfestkonzert/bass"
+      },
+      {
+        "person_slug": "stephanos-tsirakoglou",
+        "role_slug": "theaterfestkonzert/bass-bariton"
+      },
+      {
+        "person_slug": "ruth-hade",
+        "role_slug": "theaterfestkonzert/mezzosopran"
+      },
+      {
+        "person_slug": "albrecht-puhlmann",
+        "role_slug": "theaterfestkonzert/moderation"
+      },
+      {
+        "person_slug": "nationaltheater-orchester",
+        "role_slug": "theaterfestkonzert/orchester"
+      },
+      {
+        "person_slug": "yaara-attias",
+        "role_slug": "theaterfestkonzert/sopran"
+      },
+      {
+        "person_slug": "irakli-kakhidze",
+        "role_slug": "theaterfestkonzert/tenor"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/unsere-klasse-4492",

@@ -1,5 +1,138 @@
 [
   {
+    "id": "badisches-staatstheater-karlsruhe/2806/2026-12-12/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/2806",
+    "date": "2026-12-12",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/2806/2026-12-26/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/2806",
+    "date": "2026-12-26",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/2806/2026-12-30/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/2806",
+    "date": "2026-12-30",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564/2027-01-07/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3564",
+    "date": "2027-01-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564/2027-01-31/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3564",
+    "date": "2027-01-31",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564/2027-03-13/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3564",
+    "date": "2027-03-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564/2027-03-19/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3564",
+    "date": "2027-03-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564/2027-04-11/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3564",
+    "date": "2027-04-11",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644/2026-10-18/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3644",
+    "date": "2026-10-18",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644/2026-10-24/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3644",
+    "date": "2026-10-24",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644/2026-11-13/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3644",
+    "date": "2026-11-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644/2026-11-19/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3644",
+    "date": "2026-11-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644/2026-11-21/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3644",
+    "date": "2026-11-21",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-05-02/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-05-02",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-05-08/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-05-08",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-05-28/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-05-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-06-02/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-06-02",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-06-11/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-06-11",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647/2027-06-23/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3647",
+    "date": "2027-06-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "badisches-staatstheater-karlsruhe/3650/2026-06-13/16:00",
     "production_id": "badisches-staatstheater-karlsruhe/3650",
     "date": "2026-06-13",
@@ -18,6 +151,195 @@
     "production_id": "badisches-staatstheater-karlsruhe/3651",
     "date": "2026-07-09",
     "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-02-25/11:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-02-25",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-03-04/11:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-03-04",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-04-13/11:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-04-13",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-05-30/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-05-30",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-06-27/11:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-06-27",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3671/2027-07-17/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3671",
+    "date": "2027-07-17",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-10-08/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-10-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-10-23/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-10-23",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-11-20/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-12-05/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-12-05",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-12-09/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-12-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2026-12-27/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2026-12-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736/2027-01-09/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3736",
+    "date": "2027-01-09",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774/2027-01-15/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3774",
+    "date": "2027-01-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774/2027-01-20/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3774",
+    "date": "2027-01-20",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774/2027-02-04/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3774",
+    "date": "2027-02-04",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774/2027-03-11/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3774",
+    "date": "2027-03-11",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774/2027-03-24/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3774",
+    "date": "2027-03-24",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-01-30/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-01-30",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-02-07/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-02-07",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-02-14/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-02-14",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-03-21/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-03-21",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-03-28/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-03-28",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775/2027-04-25/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3775",
+    "date": "2027-04-25",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3776/2027-04-23/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3776",
+    "date": "2027-04-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3776/2027-04-28/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3776",
+    "date": "2027-04-28",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3776/2027-05-07/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3776",
+    "date": "2027-05-07",
+    "time": "19:00",
     "status": "scheduled"
   },
   {
@@ -102,6 +424,552 @@
     "production_id": "badisches-staatstheater-karlsruhe/3780",
     "date": "2026-07-24",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-09-20/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-09-20",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-10-17/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-10-17",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-10-22/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-10-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-11-01/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-11-01",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-11-28/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-11-28",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2026-12-17/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2026-12-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-01-19/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-01-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-07-01/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-07-01",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-07-03/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-07-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-07-08/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-07-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-07-12/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-07-12",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3780/2027-07-24/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3780",
+    "date": "2027-07-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869/2027-02-18/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3869",
+    "date": "2027-02-18",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869/2027-02-20/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3869",
+    "date": "2027-02-20",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869/2027-02-21/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3869",
+    "date": "2027-02-21",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869/2027-02-27/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3869",
+    "date": "2027-02-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869/2027-03-04/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3869",
+    "date": "2027-03-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3870/2027-02-28/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3870",
+    "date": "2027-02-28",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3870/2027-03-02/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3870",
+    "date": "2027-03-02",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3870/2027-03-05/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3870",
+    "date": "2027-03-05",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3870/2027-03-07/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3870",
+    "date": "2027-03-07",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2026-12-06/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2026-12-06",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2026-12-10/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2026-12-29/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-01-24/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-01-24",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-02-05/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-02-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-02-17/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-02-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-03-20/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-03-20",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-03-26/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-03-26",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893/2027-04-08/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3893",
+    "date": "2027-04-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2026-12-19/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2026-12-19",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2026-12-30/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2026-12-30",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2027-01-30/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2027-01-30",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2027-02-24/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2027-02-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2027-03-25/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2027-03-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894/2027-04-24/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3894",
+    "date": "2027-04-24",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3895/2027-02-27/20:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3895",
+    "date": "2027-02-27",
+    "time": "20:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3895/2027-03-05/21:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3895",
+    "date": "2027-03-05",
+    "time": "21:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3895/2027-03-06/20:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3895",
+    "date": "2027-03-06",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-04-04/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-04-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-04-09/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-04-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-04-15/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-04-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-05-16/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-05-16",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-05-19/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-05-19",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-06-19/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-06-19",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-06-24/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-06-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896/2027-07-06/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3896",
+    "date": "2027-07-06",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-05-15/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-05-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-05-23/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-05-23",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-05-25/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-05-25",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-06-04/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-06-04",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-06-12/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-06-12",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-07-08/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-07-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897/2027-07-22/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3897",
+    "date": "2027-07-22",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898/2027-07-03/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3898",
+    "date": "2027-07-03",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898/2027-07-09/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3898",
+    "date": "2027-07-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898/2027-07-18/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3898",
+    "date": "2027-07-18",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898/2027-07-21/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3898",
+    "date": "2027-07-21",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898/2027-07-23/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3898",
+    "date": "2027-07-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-09-19/11:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-09-19",
+    "time": "11:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-09-30/17:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-09-30",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-10-04/18:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-10-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-10-09/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-10-09",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-10-25/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-10-25",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-11-08/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-11-08",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-11-22/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-11-22",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-12-03/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-12-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-12-16/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-12-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-12-31/15:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-12-31",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2026-12-31/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2026-12-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-01-23/16:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-01-23",
+    "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-04-17/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-04-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-05-06/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-05-06",
+    "time": "18:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-05-21/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-05-26/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-05-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-06-15/19:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-06-15",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-06-26/19:00",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-06-26",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919/2027-07-04/18:30",
+    "production_id": "badisches-staatstheater-karlsruhe/3919",
+    "date": "2027-07-04",
+    "time": "18:30",
     "status": "scheduled"
   }
 ]

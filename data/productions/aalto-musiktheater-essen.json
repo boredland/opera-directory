@@ -76,6 +76,69 @@
     ]
   },
   {
+    "id": "aalto-musiktheater-essen/don-giovanni",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "house_slug": "aalto-musiktheater-essen",
+    "is_revival": false,
+    "detail_url": "https://www.theater-essen.de/programm/kalender/don-giovanni/3831/",
+    "creative_team": [
+      {
+        "person_slug": "bernhard-schneider",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-sanguineti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "stefan-herheim",
+        "function": "director"
+      },
+      {
+        "person_slug": "alexander-meier-dorzenbach",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "thomas-schuster",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "massimo-cavalletti",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "mykhailo-kushlyk",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "idil-kutay",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "jingjing-xu",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "tijl-faveyts",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/komtur"
+      },
+      {
+        "person_slug": "baurzhan-anderzhanov",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "karel-martin-ludvik",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "liliana-de-sousa",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
+  },
+  {
     "id": "aalto-musiktheater-essen/la-fanciulla-del-west",
     "work_slug": "das-madchen-aus-dem-goldenen-westen/la-fanciulla-del-west",
     "house_slug": "aalto-musiktheater-essen",
@@ -250,7 +313,7 @@
         "role_slug": "giuseppe-verdi/otello/ein-edler-venezianer"
       },
       {
-        "person_slug": "karel-martin-ludvik",
+        "person_slug": "mathias-tonges",
         "role_slug": "giuseppe-verdi/otello/ein-herold"
       },
       {

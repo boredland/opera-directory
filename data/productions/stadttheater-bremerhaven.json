@@ -7,8 +7,20 @@
     "detail_url": "https://stadttheaterbremerhaven.de/die-verkaufte-braut/",
     "creative_team": [
       {
+        "person_slug": "yvonne-blunk",
+        "function": "AGNES"
+      },
+      {
+        "person_slug": "elisabeth-pscheidl",
+        "function": "ASSISTENZ BÜHNE & KOSTÜME"
+      },
+      {
         "person_slug": "anna-kreinecker",
         "function": "BÜHNE &"
+      },
+      {
+        "person_slug": "victoria-kunze",
+        "function": "choreographer"
       },
       {
         "person_slug": "davide-perniceni",
@@ -19,8 +31,52 @@
         "function": "director"
       },
       {
+        "person_slug": "mackenzie-gallinger",
+        "function": "ESMERALDA"
+      },
+      {
+        "person_slug": "alexander-geller",
+        "function": "HANS"
+      },
+      {
+        "person_slug": "boshana-milkov",
+        "function": "KATHINKA"
+      },
+      {
+        "person_slug": "timothy-edlin",
+        "function": "KEZAL"
+      },
+      {
+        "person_slug": "patrick-ruyters",
+        "function": "KOMÖDIANT"
+      },
+      {
+        "person_slug": "kai-preu-ker",
+        "function": "KRUSCHINA"
+      },
+      {
+        "person_slug": "maurice-giancarlo-avitabile",
+        "function": "MICHA"
+      },
+      {
+        "person_slug": "jorrit-van-den-ham",
+        "function": "MUSIAKLISCHE EINSTUDIERUNG"
+      },
+      {
+        "person_slug": "annika-ellen-flindt",
+        "function": "REGIEASSISTENZ & ABENDSPIELLEITUNG"
+      },
+      {
+        "person_slug": "hartmut-brusch",
+        "function": "STUDIENLEITUNG"
+      },
+      {
         "person_slug": "elisabeth-pscheidl",
         "function": "video-designer"
+      },
+      {
+        "person_slug": "kellan-dunlap",
+        "function": "WENZEL"
       }
     ],
     "cast": []
@@ -89,6 +145,10 @@
       {
         "person_slug": "boshana-milkov",
         "function": "FREDERICA"
+      },
+      {
+        "person_slug": "schirin-badafaras",
+        "function": "INSPIZIENZ"
       },
       {
         "person_slug": "kellan-dunlap",

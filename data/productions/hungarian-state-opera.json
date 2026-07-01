@@ -973,6 +973,111 @@
     ]
   },
   {
+    "id": "hungarian-state-opera/die-zauberflote-in-japan/2025-2026",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan",
+    "house_slug": "hungarian-state-opera",
+    "premiere_season": "2025/2026",
+    "is_revival": false,
+    "detail_url": "https://www.opera.hu/en/programme/2025-2026/the-magic-flute-in-japan/",
+    "image_url": "https://www.opera.hu/media/images/A_varazsfuvola_2025_09_Honlap_for.2e16d0ba.fill-1200x628_pbmyCLl.jpg",
+    "creative_team": [
+      {
+        "person_slug": "andras-nadasdy",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "gabor-csiki",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "samuel-csaba-toth",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rita-velich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "miklos-szinetar",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-horgas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "botond-pal-opera-studio",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/first-armoured-man"
+      },
+      {
+        "person_slug": "rebeka-asztrid-balazs",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/first-child"
+      },
+      {
+        "person_slug": "gabriella-rea-fenyvesi-opera-studio",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/first-lady"
+      },
+      {
+        "person_slug": "peter-balczo",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/monostatos"
+      },
+      {
+        "person_slug": "krisztian-cser",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/old-priest"
+      },
+      {
+        "person_slug": "laura-topolanszky",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/pamina"
+      },
+      {
+        "person_slug": "anija-lombard-opera-studio",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/papagena"
+      },
+      {
+        "person_slug": "zsolt-haja",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/papageno"
+      },
+      {
+        "person_slug": "krisztian-cser",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/sarastro"
+      },
+      {
+        "person_slug": "krisztian-cser",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/second-armoured-man"
+      },
+      {
+        "person_slug": "orsolya-bagosi",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/second-child"
+      },
+      {
+        "person_slug": "vivienne-ortan-opera-studio",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/second-lady"
+      },
+      {
+        "person_slug": "istvan-horvath",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/tamino"
+      },
+      {
+        "person_slug": "tetiana-zhuravel",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/the-queen-of-the-night"
+      },
+      {
+        "person_slug": "agota-kadar",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/third-child"
+      },
+      {
+        "person_slug": "lusine-sahakyan",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/third-lady"
+      },
+      {
+        "person_slug": "botond-pal-opera-studio",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote-in-japan/young-priest"
+      }
+    ]
+  },
+  {
     "id": "hungarian-state-opera/fidelio/2025-2026",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "house_slug": "hungarian-state-opera",

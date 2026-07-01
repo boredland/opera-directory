@@ -1,5 +1,40 @@
 [
   {
+    "id": "komische-oper-berlin/aufbruch-1362",
+    "work_slug": "aufbruch",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/aufbruch/1362/",
+    "creative_team": [
+      {
+        "person_slug": "eva-pons",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giacomo-schmidt",
+        "role_slug": "aufbruch/bariton"
+      },
+      {
+        "person_slug": "jaewon-kwak",
+        "role_slug": "aufbruch/bass"
+      },
+      {
+        "person_slug": "philipp-solle",
+        "role_slug": "aufbruch/klavier"
+      },
+      {
+        "person_slug": "naomi-steele",
+        "role_slug": "aufbruch/mezzosopran"
+      },
+      {
+        "person_slug": "elisa-maayeshi",
+        "role_slug": "aufbruch/sopran"
+      }
+    ]
+  },
+  {
     "id": "komische-oper-berlin/berliner-sing-along-931",
     "work_slug": "ein-mitsingprojekt-fur-grundschulkinder/berliner-sing-along",
     "house_slug": "komische-oper-berlin",
@@ -21,6 +56,349 @@
         "role_slug": "ein-mitsingprojekt-fur-grundschulkinder/berliner-sing-along/solistin"
       }
     ]
+  },
+  {
+    "id": "komische-oper-berlin/der-schneesturm-1439",
+    "work_slug": "nach-vladimir-sorokin/der-schneesturm",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/der-schneesturm/1439/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-shalashova",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vlad-ogay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "august-diehl",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/dr-garin"
+      },
+      {
+        "person_slug": "sonja-bei-wenger",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/innen"
+      },
+      {
+        "person_slug": "alexander-manotskov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/komponist"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/licht-design"
+      },
+      {
+        "person_slug": "frol-podlesnyi",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-kamera"
+      },
+      {
+        "person_slug": "malika-maminova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-musik"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/perkhusha"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "viacheslav-kasianov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/sound-design"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/der-schneesturm-1440",
+    "work_slug": "nach-vladimir-sorokin/der-schneesturm",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/der-schneesturm/1440/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-shalashova",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vlad-ogay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "august-diehl",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/dr-garin"
+      },
+      {
+        "person_slug": "sonja-bei-wenger",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/innen"
+      },
+      {
+        "person_slug": "alexander-manotskov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/komponist"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/licht-design"
+      },
+      {
+        "person_slug": "frol-podlesnyi",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-kamera"
+      },
+      {
+        "person_slug": "malika-maminova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-musik"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/perkhusha"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "viacheslav-kasianov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/sound-design"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/der-schneesturm-1441",
+    "work_slug": "nach-vladimir-sorokin/der-schneesturm",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/der-schneesturm/1441/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-shalashova",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vlad-ogay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "august-diehl",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/dr-garin"
+      },
+      {
+        "person_slug": "sonja-bei-wenger",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/innen"
+      },
+      {
+        "person_slug": "alexander-manotskov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/komponist"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/licht-design"
+      },
+      {
+        "person_slug": "frol-podlesnyi",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-kamera"
+      },
+      {
+        "person_slug": "malika-maminova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-musik"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/perkhusha"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "viacheslav-kasianov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/sound-design"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/der-schneesturm-1470",
+    "work_slug": "nach-vladimir-sorokin/der-schneesturm",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/der-schneesturm/1470/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-shalashova",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vlad-ogay",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "august-diehl",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/dr-garin"
+      },
+      {
+        "person_slug": "sonja-bei-wenger",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/innen"
+      },
+      {
+        "person_slug": "alexander-manotskov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/komponist"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/licht-design"
+      },
+      {
+        "person_slug": "frol-podlesnyi",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-kamera"
+      },
+      {
+        "person_slug": "malika-maminova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/live-musik"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/perkhusha"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "viacheslav-kasianov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/sound-design"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "nach-vladimir-sorokin/der-schneesturm/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/em-lear-1455",
+    "work_slug": "einfuhrungsmatinee-lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/em-lear/1455/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrung-1187",
+    "work_slug": "fuhrung",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung/1187/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrung-1188",
+    "work_slug": "fuhrung",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung/1188/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "komische-oper-berlin/fuehrung-899",
@@ -50,11 +428,29 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrung-fuer-familien-1222",
+    "work_slug": "fuhrung-fur-familien",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-fuer-familien/1222/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/fuehrung-fuer-familien-913",
     "work_slug": "fuhrung-fur-familien",
     "house_slug": "komische-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-fuer-familien/913/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrung-spezial-kostuem-1169",
+    "work_slug": "fuhrung-spezial-kostum",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-spezial-kostuem/1169/",
     "creative_team": [],
     "cast": []
   },
@@ -122,6 +518,24 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrungbaustellestammhaus-1197",
+    "work_slug": "fuhrung-baustelle-stammhaus",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrungbaustellestammhaus/1197/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrungbaustellestammhaus-1198",
+    "work_slug": "fuhrung-baustelle-stammhaus",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrungbaustellestammhaus/1198/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/gala-der-staatlichen-ballettschule-1086",
     "work_slug": "gala-der-staatlichen-ballettschule",
     "house_slug": "komische-oper-berlin",
@@ -147,6 +561,928 @@
     "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/in-memoriam/1029/",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/lear-1353",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1353/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1354",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1354/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1355",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1355/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1356",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1356/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1357",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1357/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1358",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1358/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1359",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1359/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/legende-1436",
+    "work_slug": "kirill-serebrennikov/legende",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/legende/1436/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "joachim-lux",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "kirill-serebrennikov/legende/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "kirill-serebrennikov/legende/innen"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "role_slug": "kirill-serebrennikov/legende/komponist-und-musikalische-leitung"
+      },
+      {
+        "person_slug": "clara-rosina-stra-er",
+        "role_slug": "kirill-serebrennikov/legende/kostumbildassistenz"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "kirill-serebrennikov/legende/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "kirill-serebrennikov/legende/licht-design"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "kirill-serebrennikov/legende/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "sven-baumelt",
+        "role_slug": "kirill-serebrennikov/legende/sound-design"
+      },
+      {
+        "person_slug": "rustem-imamiev",
+        "role_slug": "kirill-serebrennikov/legende/soundscapes"
+      },
+      {
+        "person_slug": "siarhei-rylko",
+        "role_slug": "kirill-serebrennikov/legende/technischer-direktor"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "kirill-serebrennikov/legende/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/legende-1437",
+    "work_slug": "kirill-serebrennikov/legende",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/legende/1437/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "joachim-lux",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "kirill-serebrennikov/legende/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "kirill-serebrennikov/legende/innen"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "role_slug": "kirill-serebrennikov/legende/komponist-und-musikalische-leitung"
+      },
+      {
+        "person_slug": "clara-rosina-stra-er",
+        "role_slug": "kirill-serebrennikov/legende/kostumbildassistenz"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "kirill-serebrennikov/legende/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "kirill-serebrennikov/legende/licht-design"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "kirill-serebrennikov/legende/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "sven-baumelt",
+        "role_slug": "kirill-serebrennikov/legende/sound-design"
+      },
+      {
+        "person_slug": "rustem-imamiev",
+        "role_slug": "kirill-serebrennikov/legende/soundscapes"
+      },
+      {
+        "person_slug": "siarhei-rylko",
+        "role_slug": "kirill-serebrennikov/legende/technischer-direktor"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "kirill-serebrennikov/legende/video-design"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/legende-1438",
+    "work_slug": "kirill-serebrennikov/legende",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/legende/1438/",
+    "creative_team": [
+      {
+        "person_slug": "evgeny-kulagin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "joachim-lux",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "kirill-serebrennikov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "elizaweta-veprinskaya",
+        "role_slug": "kirill-serebrennikov/legende/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "filipp-avdeed",
+        "role_slug": "kirill-serebrennikov/legende/innen"
+      },
+      {
+        "person_slug": "daniil-orlov",
+        "role_slug": "kirill-serebrennikov/legende/komponist-und-musikalische-leitung"
+      },
+      {
+        "person_slug": "clara-rosina-stra-er",
+        "role_slug": "kirill-serebrennikov/legende/kostumbildassistenz"
+      },
+      {
+        "person_slug": "alina-aleshchenko",
+        "role_slug": "kirill-serebrennikov/legende/kunstlerische-produktionsleitung"
+      },
+      {
+        "person_slug": "sergej-kuchar",
+        "role_slug": "kirill-serebrennikov/legende/licht-design"
+      },
+      {
+        "person_slug": "ekaterina-kostiukova",
+        "role_slug": "kirill-serebrennikov/legende/regieassistenz-und-abendspielleitung"
+      },
+      {
+        "person_slug": "sven-baumelt",
+        "role_slug": "kirill-serebrennikov/legende/sound-design"
+      },
+      {
+        "person_slug": "rustem-imamiev",
+        "role_slug": "kirill-serebrennikov/legende/soundscapes"
+      },
+      {
+        "person_slug": "siarhei-rylko",
+        "role_slug": "kirill-serebrennikov/legende/technischer-direktor"
+      },
+      {
+        "person_slug": "ilya-shagalov",
+        "role_slug": "kirill-serebrennikov/legende/video-design"
+      }
+    ]
   },
   {
     "id": "komische-oper-berlin/mokka-hits-1047",

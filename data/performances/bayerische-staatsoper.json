@@ -180,6 +180,14 @@
     "status": "past"
   },
   {
+    "id": "bayerische-staatsoper/live-alcina/2026-07-21/19:00",
+    "production_id": "bayerische-staatsoper/live-alcina",
+    "date": "2026-07-21",
+    "time": "19:00",
+    "venue_room": "Prinzregententheater",
+    "status": "scheduled"
+  },
+  {
     "id": "bayerische-staatsoper/live-carmen/2026-06-16/19:00",
     "production_id": "bayerische-staatsoper/live-carmen",
     "date": "2026-06-16",
@@ -195,10 +203,81 @@
     "status": "scheduled"
   },
   {
+    "id": "bayerische-staatsoper/live-die-walkuere/2026-07-04/17:00",
+    "production_id": "bayerische-staatsoper/live-die-walkuere",
+    "date": "2026-07-04",
+    "time": "17:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-faust/2026-07-30/19:00",
+    "production_id": "bayerische-staatsoper/live-faust",
+    "date": "2026-07-30",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-macbeth/2026-07-02/19:00",
+    "production_id": "bayerische-staatsoper/live-macbeth",
+    "date": "2026-07-02",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-norma/2026-07-17/19:00",
+    "production_id": "bayerische-staatsoper/live-norma",
+    "date": "2026-07-17",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-norma/2026-07-20/19:00",
+    "production_id": "bayerische-staatsoper/live-norma",
+    "date": "2026-07-20",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-rigoletto/2026-07-28/19:00",
+    "production_id": "bayerische-staatsoper/live-rigoletto",
+    "date": "2026-07-28",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-rigoletto/2026-07-31/19:00",
+    "production_id": "bayerische-staatsoper/live-rigoletto",
+    "date": "2026-07-31",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-rusalka/2026-07-23/19:00",
+    "production_id": "bayerische-staatsoper/live-rusalka",
+    "date": "2026-07-23",
+    "time": "19:00",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
     "id": "bayerische-staatsoper/live-turandot/2026-06-06/19:30",
     "production_id": "bayerische-staatsoper/live-turandot",
     "date": "2026-06-06",
     "time": "19:30",
+    "venue_room": "Nationaltheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "bayerische-staatsoper/live-turandot/2026-07-06/19:00",
+    "production_id": "bayerische-staatsoper/live-turandot",
+    "date": "2026-07-06",
+    "time": "19:00",
     "venue_room": "Nationaltheater",
     "status": "scheduled"
   }

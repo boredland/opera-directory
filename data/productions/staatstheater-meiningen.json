@@ -369,9 +369,54 @@
       {
         "person_slug": "michele-taborelli",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "krzysztof-honowski",
+        "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "anna-maria-wunsch",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/bratschistin-helen-von-troja"
+      },
+      {
+        "person_slug": "isaac-lee",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/der-alte"
+      },
+      {
+        "person_slug": "mateusz-ugowski",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/doktor-johann-faustus"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/erzahler"
+      },
+      {
+        "person_slug": "abongile-fumba",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/mephostophila-herzog-von-bayern"
+      },
+      {
+        "person_slug": "meili-li",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/mephostophiles-marschall"
+      },
+      {
+        "person_slug": "samuel-robertson",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/student-graf-1"
+      },
+      {
+        "person_slug": "johannes-mooser",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/student-graf-2"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/student-graf-3"
+      },
+      {
+        "person_slug": "hans-gebhardt",
+        "role_slug": "alfred-schnittke/historia-von-d-johann-fausten/weinherr"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/la-clemenza-di-tito",

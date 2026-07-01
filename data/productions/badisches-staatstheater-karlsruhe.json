@@ -1,5 +1,41 @@
 [
   {
+    "id": "badisches-staatstheater-karlsruhe/2806",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/2806/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3564",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3564/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3644",
+    "work_slug": "ethel-smyth/the-wreckers",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3644/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3647",
+    "work_slug": "johann-strau/die-fledermaus",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3647/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "badisches-staatstheater-karlsruhe/3650",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "house_slug": "badisches-staatstheater-karlsruhe",
@@ -190,6 +226,51 @@
     ]
   },
   {
+    "id": "badisches-staatstheater-karlsruhe/3671",
+    "work_slug": "orpheus-und-die-zauberharfe",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3671/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3736",
+    "work_slug": "gottfried-greiffenhagen/die-comedian-harmonists",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3736/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3774",
+    "work_slug": "jean-philippe-rameau/les-boreades",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3774/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3775",
+    "work_slug": "richard-wagner/lohengrin",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3775/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3776",
+    "work_slug": "missy-mazzoli/breaking-the-waves",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3776/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "badisches-staatstheater-karlsruhe/3779",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "house_slug": "badisches-staatstheater-karlsruhe",
@@ -318,89 +399,88 @@
     "house_slug": "badisches-staatstheater-karlsruhe",
     "is_revival": false,
     "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3780/",
-    "creative_team": [
-      {
-        "person_slug": "ulrich-wagner",
-        "function": "chorus-master"
-      },
-      {
-        "person_slug": "johannes-willig",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "anna-drescher",
-        "function": "director"
-      },
-      {
-        "person_slug": "natalie-widmer",
-        "function": "dramaturgy"
-      },
-      {
-        "person_slug": "rico-gerstner",
-        "function": "lighting"
-      },
-      {
-        "person_slug": "tatjana-ivschina",
-        "function": "set-designer"
-      }
-    ],
-    "cast": [
-      {
-        "person_slug": "kammersanger-matthias-wohlbrecht",
-        "role_slug": "giuseppe-verdi/rigoletto/borsa"
-      },
-      {
-        "person_slug": "jenish-ysmanov",
-        "role_slug": "giuseppe-verdi/rigoletto/der-herzog-von-mantua"
-      },
-      {
-        "person_slug": "katharina-bierweiler",
-        "role_slug": "giuseppe-verdi/rigoletto/die-grafin-page"
-      },
-      {
-        "person_slug": "anastasiya-taratorkina",
-        "role_slug": "giuseppe-verdi/rigoletto/gilda"
-      },
-      {
-        "person_slug": "christina-niessen",
-        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
-      },
-      {
-        "person_slug": "zacharias-galaviz-guerra",
-        "role_slug": "giuseppe-verdi/rigoletto/graf-von-ceprano-ein-gerichtsdiener"
-      },
-      {
-        "person_slug": "ogulcan-y-lmaz",
-        "role_slug": "giuseppe-verdi/rigoletto/graf-von-monterone"
-      },
-      {
-        "person_slug": "florence-losseau",
-        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
-      },
-      {
-        "person_slug": "dylan-glenn",
-        "role_slug": "giuseppe-verdi/rigoletto/marullo"
-      },
-      {
-        "person_slug": "marius-zachmann",
-        "role_slug": "giuseppe-verdi/rigoletto/mitarbeit-chor"
-      },
-      {
-        "person_slug": "maximilian-hagemeyer",
-        "role_slug": "giuseppe-verdi/rigoletto/mitarbeit-konzeption"
-      },
-      {
-        "person_slug": "leonardo-lee",
-        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
-      },
-      {
-        "person_slug": "kammersanger-konstantin-gorny",
-        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
-      },
-      {
-        "person_slug": "daria-schirmer",
-        "role_slug": "giuseppe-verdi/rigoletto/vermittlung"
-      }
-    ]
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3869",
+    "work_slug": "georg-friedrich-handel-hwv-39/faramondo",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3869/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3870",
+    "work_slug": "georg-friedrich-handel-hwv-14/floridante",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3870/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3893",
+    "work_slug": "die-tote-stadt",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3893/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3894",
+    "work_slug": "souvenir",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3894/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3895",
+    "work_slug": "adriana-holszky/tragodia-der-unsichtbare-raum",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3895/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3896",
+    "work_slug": "richard-strauss/arabella",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3896/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3897",
+    "work_slug": "jules-massenet/don-quichotte",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3897/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3898",
+    "work_slug": "giacomo-puccini/il-trittico",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3898/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "badisches-staatstheater-karlsruhe/3919",
+    "work_slug": "andrew-lloyd-webber/sunset-boulevard",
+    "house_slug": "badisches-staatstheater-karlsruhe",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-karlsruhe.de/programm/info/3919/",
+    "creative_team": [],
+    "cast": []
   }
 ]

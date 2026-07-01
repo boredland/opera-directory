@@ -263,6 +263,113 @@
     ]
   },
   {
+    "id": "oper-leipzig/der-waffenschmied-814",
+    "work_slug": "albert-lortzing/der-waffenschmied",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/der-waffenschmied/814",
+    "creative_team": [
+      {
+        "person_slug": "mirko-mahr",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-der-musikalischen-komodie",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mathias-drechsler",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michael-nundel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tobias-engeli",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uta-meenen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sonja-trebes",
+        "function": "director"
+      },
+      {
+        "person_slug": "kara-mckechnie",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "dirk-becker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ballett-der-musikalischen-komodie",
+        "role_slug": "albert-lortzing/der-waffenschmied/ballett"
+      },
+      {
+        "person_slug": "andreas-rainer",
+        "role_slug": "albert-lortzing/der-waffenschmied/brenner"
+      },
+      {
+        "person_slug": "tina-lender",
+        "role_slug": "albert-lortzing/der-waffenschmied/fraulein-von-katzenstein"
+      },
+      {
+        "person_slug": "victoria-friedrich",
+        "role_slug": "albert-lortzing/der-waffenschmied/fraulein-von-katzenstein"
+      },
+      {
+        "person_slug": "sven-hjorleifsson",
+        "role_slug": "albert-lortzing/der-waffenschmied/georg"
+      },
+      {
+        "person_slug": "martin-ha-ler",
+        "role_slug": "albert-lortzing/der-waffenschmied/graf-von-liebenau"
+      },
+      {
+        "person_slug": "florian-spiess",
+        "role_slug": "albert-lortzing/der-waffenschmied/hans-stadinger"
+      },
+      {
+        "person_slug": "uwe-schenker-primus",
+        "role_slug": "albert-lortzing/der-waffenschmied/hans-stadinger"
+      },
+      {
+        "person_slug": "kathrin-goring",
+        "role_slug": "albert-lortzing/der-waffenschmied/irmentraut"
+      },
+      {
+        "person_slug": "elissa-huber",
+        "role_slug": "albert-lortzing/der-waffenschmied/marie"
+      },
+      {
+        "person_slug": "orchester-der-musikalischen-komodie",
+        "role_slug": "albert-lortzing/der-waffenschmied/orchester"
+      },
+      {
+        "person_slug": "florian-klaer",
+        "role_slug": "albert-lortzing/der-waffenschmied/ritter"
+      },
+      {
+        "person_slug": "sebastian-gosch",
+        "role_slug": "albert-lortzing/der-waffenschmied/ritter"
+      },
+      {
+        "person_slug": "felix-lodel",
+        "role_slug": "albert-lortzing/der-waffenschmied/ritter-adelhof"
+      },
+      {
+        "person_slug": "extrachor",
+        "role_slug": "albert-lortzing/der-waffenschmied/zusatzchor"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/die-kleine-meerjungfrau-367",
     "work_slug": "akos-hoffmann/die-kleine-meerjungfrau",
     "house_slug": "oper-leipzig",

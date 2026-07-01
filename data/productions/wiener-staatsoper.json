@@ -49,6 +49,43 @@
     ]
   },
   {
+    "id": "wiener-staatsoper/wiener-staatsoper-andrea-chenier",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/andrea-chenier/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Andrea_Chenier/D-Andrea_Chenier_120476_EYVAZOV_YILDIZ.jpg",
+    "creative_team": [
+      {
+        "person_slug": "axel-kober",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "piotr-becza-a",
+        "role_slug": "umberto-giordano/andrea-chenier/andrea-chenier"
+      },
+      {
+        "person_slug": "boris-pinkhasovich",
+        "role_slug": "umberto-giordano/andrea-chenier/carlo-gerard"
+      },
+      {
+        "person_slug": "hans-peter-kammerer",
+        "role_slug": "umberto-giordano/andrea-chenier/dumas"
+      },
+      {
+        "person_slug": "sondra-radvanovsky",
+        "role_slug": "umberto-giordano/andrea-chenier/maddalena-di-coigny"
+      },
+      {
+        "person_slug": "monika-bohinec",
+        "role_slug": "umberto-giordano/andrea-chenier/madelon"
+      }
+    ]
+  },
+  {
     "id": "wiener-staatsoper/wiener-staatsoper-animal-farm",
     "work_slug": "alexander-raskatov/animal-farm",
     "house_slug": "wiener-staatsoper",
@@ -166,6 +203,75 @@
       {
         "person_slug": "nikola-hillebrand",
         "role_slug": "richard-strauss/arabella/zdenka"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-ariadne-auf-naxos",
+    "work_slug": "richard-strauss/ariadne-auf-naxos",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/ariadne-auf-naxos/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Ariadne_auf_Naxos/D-Ariadne_auf_Naxos-Sujet.jpg",
+    "creative_team": [
+      {
+        "person_slug": "asher-fisch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franz-welser-most",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "daniel-jenz",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/brighella"
+      },
+      {
+        "person_slug": "jenni-hietala",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/echo"
+      },
+      {
+        "person_slug": "jusung-gabriel-park",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/harlekin"
+      },
+      {
+        "person_slug": "kate-lindsey",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/komponist"
+      },
+      {
+        "person_slug": "adrian-erod",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/musiklehrer"
+      },
+      {
+        "person_slug": "florina-ilie",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/najade"
+      },
+      {
+        "person_slug": "maria-nazarova",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/najade"
+      },
+      {
+        "person_slug": "matthaus-schmidlechner",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/scaramuccio"
+      },
+      {
+        "person_slug": "jorg-schneider",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/tanzmeister"
+      },
+      {
+        "person_slug": "simonas-strazdas",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/truffaldin"
+      },
+      {
+        "person_slug": "serena-saenz",
+        "role_slug": "richard-strauss/ariadne-auf-naxos/zerbinetta"
       }
     ]
   },
@@ -495,6 +601,68 @@
     ]
   },
   {
+    "id": "wiener-staatsoper/wiener-staatsoper-die-meistersinger-von-nuernberg",
+    "work_slug": "richard-wagner/die-meistersinger-von-nurnberg",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/die-meistersinger-von-nuernberg/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Die_Meistersinger_von_Nuernberg/D-Die_Meistersinger_von_Nuernberg.jpg",
+    "creative_team": [
+      {
+        "person_slug": "axel-kober",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "daniel-jenz",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/david-sachsens-lehrbube"
+      },
+      {
+        "person_slug": "hanna-elisabeth-muller",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/eva-pogners-tochter"
+      },
+      {
+        "person_slug": "michael-volle",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-sachs-schuster"
+      },
+      {
+        "person_slug": "christof-fischesser",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/veit-pogner-goldschmied"
+      },
+      {
+        "person_slug": "eric-cutler",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/walther-von-stolzing-ein-junger-ritter-aus-franken"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-die-tote-stadt",
+    "work_slug": "erich-wolfgang-korngold/die-tote-stadt",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/die-tote-stadt/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Die_tote_Stadt/D-Die_tote_Stadt.jpg",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-weigle",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "vida-mikneviciute",
+        "role_slug": "erich-wolfgang-korngold/die-tote-stadt/marietta-tanzerin"
+      },
+      {
+        "person_slug": "klaus-florian-vogt",
+        "role_slug": "erich-wolfgang-korngold/die-tote-stadt/paul"
+      }
+    ]
+  },
+  {
     "id": "wiener-staatsoper/wiener-staatsoper-die-verkaufte-braut",
     "work_slug": "bedrich-smetana/die-verkaufte-braut",
     "house_slug": "wiener-staatsoper",
@@ -755,6 +923,42 @@
       {
         "person_slug": "jusung-gabriel-park",
         "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-eine-florentinische-tragoedie-herzog-blaubarts-burg",
+    "work_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/eine-florentinische-tragoedie-herzog-blaubarts-burg/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Eine_florentinische_Tragoedie-Herzog_Blaubarts_Burg/D-Herzog_Blaubarts_Burg-Sujet.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alain-altinoglu",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "asmik-grigorian",
+        "role_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg/bianca-seine-frau"
+      },
+      {
+        "person_slug": "dmitry-golovnin",
+        "role_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg/guido-bardi-prinz-von-florenz"
+      },
+      {
+        "person_slug": "florian-boesch",
+        "role_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg/herzog-blaubart"
+      },
+      {
+        "person_slug": "asmik-grigorian",
+        "role_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg/judith"
+      },
+      {
+        "person_slug": "christopher-maltman",
+        "role_slug": "alexander-von-zemlinsky-bela-bartok/eine-florentinische-tragodie-herzog-blaubarts-burg/simone-ein-kaufmann"
       }
     ]
   },
@@ -1148,6 +1352,35 @@
       {
         "person_slug": "hanna-elisabeth-muller",
         "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/vitellia"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-la-damnation-de-faust",
+    "work_slug": "hector-berlioz/la-damnation-de-faust",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "fr",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/la-damnation-de-faust/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/La_Damnation_de_Faust/D-Damnation_de_Faust-Sujet.jpg",
+    "creative_team": [
+      {
+        "person_slug": "bertrand-de-billy",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "simonas-strazdas",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/brander"
+      },
+      {
+        "person_slug": "john-osborn",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/faust"
+      },
+      {
+        "person_slug": "christian-van-horn",
+        "role_slug": "hector-berlioz/la-damnation-de-faust/mephistopheles"
       }
     ]
   },
@@ -1673,6 +1906,59 @@
     ]
   },
   {
+    "id": "wiener-staatsoper/wiener-staatsoper-pique-dame",
+    "work_slug": "pjotr-i-tschaikowski/pique-dame",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "ru",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/pique-dame/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Pique_Dame/D-Pique_Dame-Sujet.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alexander-soddy",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "violeta-urmana",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/grafin"
+      },
+      {
+        "person_slug": "ivan-gyngazov",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/hermann"
+      },
+      {
+        "person_slug": "andrey-zhilikhovsky",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/jeletzki"
+      },
+      {
+        "person_slug": "elena-stikhina",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/lisa"
+      },
+      {
+        "person_slug": "maria-nazarova",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/mascha"
+      },
+      {
+        "person_slug": "daria-sushkova",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/polina"
+      },
+      {
+        "person_slug": "ivo-stanchev",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/surin"
+      },
+      {
+        "person_slug": "boris-pinkhasovich",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/tomski"
+      },
+      {
+        "person_slug": "matthaus-schmidlechner",
+        "role_slug": "pjotr-i-tschaikowski/pique-dame/tschekalinski"
+      }
+    ]
+  },
+  {
     "id": "wiener-staatsoper/wiener-staatsoper-salome",
     "work_slug": "richard-strauss/salome",
     "house_slug": "wiener-staatsoper",
@@ -1820,6 +2106,64 @@
       {
         "person_slug": "andrea-giovannini",
         "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-tristan-und-isolde",
+    "work_slug": "richard-wagner/tristan-und-isolde",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/tristan-und-isolde/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Tristan_und_Isolde/D-Tristan_und_Isolde.jpg",
+    "creative_team": [
+      {
+        "person_slug": "alexander-soddy",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "calixto-bieito",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kwangchul-youn",
+        "role_slug": "richard-wagner/tristan-und-isolde/konig-marke"
+      },
+      {
+        "person_slug": "adrian-erod",
+        "role_slug": "richard-wagner/tristan-und-isolde/kurwenal"
+      },
+      {
+        "person_slug": "andreas-schager",
+        "role_slug": "richard-wagner/tristan-und-isolde/tristan"
+      }
+    ]
+  },
+  {
+    "id": "wiener-staatsoper/wiener-staatsoper-turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "wiener-staatsoper",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.wiener-staatsoper.at/kalender/detail/turandot/",
+    "image_url": "https://www.wiener-staatsoper.at/cdn-cgi/image/width=1024,height=600,fit=cover,quality=100/files/Produktionen_Header/Turandot/D-Turandot_2024-06-01_DSC_9006.jpg",
+    "creative_team": [
+      {
+        "person_slug": "claus-guth",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "brian-jagde",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "anna-netrebko",
+        "role_slug": "giacomo-puccini/turandot/turandot"
       }
     ]
   },

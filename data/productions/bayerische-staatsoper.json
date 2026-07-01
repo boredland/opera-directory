@@ -1996,6 +1996,15 @@
     ]
   },
   {
+    "id": "bayerische-staatsoper/live-alcina",
+    "work_slug": "georg-friedrich-handel/alcina",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/alcina",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "bayerische-staatsoper/live-carmen",
     "work_slug": "georges-bizet/carmen",
     "house_slug": "bayerische-staatsoper",
@@ -2010,6 +2019,51 @@
     "house_slug": "bayerische-staatsoper",
     "is_revival": false,
     "detail_url": "https://www.staatsoper.de/stuecke/die-walkuere",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-faust",
+    "work_slug": "charles-gounod/faust",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/faust",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-macbeth",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/macbeth",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-norma",
+    "work_slug": "vincenzo-bellini/norma",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/norma",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/rigoletto",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "bayerische-staatsoper/live-rusalka",
+    "work_slug": "antonin-dvorak/rusalka",
+    "house_slug": "bayerische-staatsoper",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper.de/stuecke/rusalka",
     "creative_team": [],
     "cast": []
   },
