@@ -1063,6 +1063,77 @@
     ]
   },
   {
+    "id": "deutsche-oper-berlin/ein-sommernachtstraum-18015874",
+    "work_slug": "ein-sommernachtstraum",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/ein-sommernachtstraum.18015874",
+    "creative_team": [
+      {
+        "person_slug": "robert-reimer",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "leo-kulas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "edward-clug-katja-wiegand",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "tomaz-premzl",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "marko-japelj",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "rok-predin",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jan-casier",
+        "role_slug": "ein-sommernachtstraum/demetrius"
+      },
+      {
+        "person_slug": "michelle-willems",
+        "role_slug": "ein-sommernachtstraum/helena"
+      },
+      {
+        "person_slug": "emma-antrobus",
+        "role_slug": "ein-sommernachtstraum/hermia"
+      },
+      {
+        "person_slug": "polina-semionova",
+        "role_slug": "ein-sommernachtstraum/hippolyta-i-titania"
+      },
+      {
+        "person_slug": "edward-clug",
+        "role_slug": "ein-sommernachtstraum/konzept-libretto-und-choreographie"
+      },
+      {
+        "person_slug": "loick-pireaux",
+        "role_slug": "ein-sommernachtstraum/lysander"
+      },
+      {
+        "person_slug": "milko-lazar",
+        "role_slug": "ein-sommernachtstraum/musik"
+      },
+      {
+        "person_slug": "fiona-mcgee",
+        "role_slug": "ein-sommernachtstraum/puck"
+      },
+      {
+        "person_slug": "martin-ten-kortenaar",
+        "role_slug": "ein-sommernachtstraum/theseus-i-oberon"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-berlin/familienfuehrung-17896234",
     "work_slug": "treffpunkt-kassenhalle/familienfuhrung",
     "house_slug": "deutsche-oper-berlin",

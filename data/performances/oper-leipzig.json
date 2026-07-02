@@ -308,6 +308,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/im-weien-rossl-798/2027-02-13/19:00",
+    "production_id": "oper-leipzig/im-weien-rossl-798",
+    "date": "2027-02-13",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/in-mir-singt-ein-lied-162/2026-06-06/10:00",
     "production_id": "oper-leipzig/in-mir-singt-ein-lied-162",
     "date": "2026-06-06",
@@ -487,6 +494,13 @@
     "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
     "date": "2026-07-04",
     "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2026-07-05/11:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2026-07-05",
+    "time": "11:00",
     "status": "scheduled"
   },
   {
@@ -697,6 +711,13 @@
     "production_id": "oper-leipzig/yamato-866",
     "date": "2026-07-03",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-07-04/14:30",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-07-04",
+    "time": "14:30",
     "status": "scheduled"
   }
 ]

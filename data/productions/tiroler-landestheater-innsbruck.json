@@ -702,10 +702,6 @@
         "function": "director"
       },
       {
-        "person_slug": "marlene-schleicher",
-        "function": "dramaturgy"
-      },
-      {
         "person_slug": "wolfgang-menardi",
         "function": "set-designer"
       }
@@ -714,6 +710,10 @@
       {
         "person_slug": "deva-schubert",
         "role_slug": "zara-ali/codeborn/co-regie-choreografie"
+      },
+      {
+        "person_slug": "marlene-schleicher",
+        "role_slug": "zara-ali/codeborn/dramaturgie-munchen"
       }
     ]
   },

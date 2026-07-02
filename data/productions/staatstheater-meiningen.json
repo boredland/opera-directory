@@ -476,48 +476,7 @@
         "function": "Regie, Bühne, Kostüme"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "garrett-evers",
-        "role_slug": "giuseppe-verdi/otello/cassio"
-      },
-      {
-        "person_slug": "emma-mcnairy",
-        "role_slug": "giuseppe-verdi/otello/desdemonda"
-      },
-      {
-        "person_slug": "hans-gebhardt",
-        "role_slug": "giuseppe-verdi/otello/ein-herold"
-      },
-      {
-        "person_slug": "marianne-schechtel-tamta-tarielashvili",
-        "role_slug": "giuseppe-verdi/otello/emilia"
-      },
-      {
-        "person_slug": "meininger-hofkapelle",
-        "role_slug": "giuseppe-verdi/otello/es-spielt-die"
-      },
-      {
-        "person_slug": "shin-taniguchi",
-        "role_slug": "giuseppe-verdi/otello/jago"
-      },
-      {
-        "person_slug": "selcuk-hakan-tirasoglu",
-        "role_slug": "giuseppe-verdi/otello/lodovico"
-      },
-      {
-        "person_slug": "mark-hightower",
-        "role_slug": "giuseppe-verdi/otello/montano"
-      },
-      {
-        "person_slug": "owen-metsileng-isaac-lee",
-        "role_slug": "giuseppe-verdi/otello/otello"
-      },
-      {
-        "person_slug": "tobias-glagau",
-        "role_slug": "giuseppe-verdi/otello/roderigo"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "staatstheater-meiningen/riemannoper",

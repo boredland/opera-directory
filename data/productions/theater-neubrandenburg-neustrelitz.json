@@ -1,5 +1,28 @@
 [
   {
+    "id": "theater-neubrandenburg-neustrelitz/dido-und-aeneas",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/dido-und-aeneas/",
+    "creative_team": [
+      {
+        "person_slug": "gmd-daniel-geiss",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "amelie-muller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "seollyeon-konwitschny-lee",
+        "role_slug": "henry-purcell/dido-und-aeneas/inszenierung-und-kostumbild"
+      }
+    ]
+  },
+  {
     "id": "theater-neubrandenburg-neustrelitz/die-csardasfuerstin",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "house_slug": "theater-neubrandenburg-neustrelitz",
@@ -87,6 +110,32 @@
     ]
   },
   {
+    "id": "theater-neubrandenburg-neustrelitz/die-fledermaus-4",
+    "work_slug": "johann-strau/die-fledermaus",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/die-fledermaus-4/",
+    "creative_team": [
+      {
+        "person_slug": "gaetano-posterino",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "kenichiro-kojima",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "max-hoehn",
+        "function": "director"
+      },
+      {
+        "person_slug": "darko-petrovic",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-neubrandenburg-neustrelitz/die-geschichte-vom-soldaten",
     "work_slug": "igor-strawinsky/die-geschichte-vom-soldaten",
     "house_slug": "theater-neubrandenburg-neustrelitz",
@@ -132,5 +181,210 @@
         "role_slug": "igor-strawinsky/die-geschichte-vom-soldaten/vorleser"
       }
     ]
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/die-zauberfloete/",
+    "creative_team": [
+      {
+        "person_slug": "gmd-daniel-geiss",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pamela-recinella",
+        "function": "director"
+      },
+      {
+        "person_slug": "polina-liefers",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "work_slug": "eduard-kunneke/herz-uber-bord",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/herz-ueber-bord/",
+    "creative_team": [
+      {
+        "person_slug": "yoko-el-edrisi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "kenichiro-kojima",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "annika-nitsch",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "linda-siegismund",
+        "role_slug": "eduard-kunneke/herz-uber-bord/buhnen-und-kostumbild"
+      }
+    ]
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/la-boheme/",
+    "creative_team": [
+      {
+        "person_slug": "schulerinnen-und-schuler-des-lessing-gymnasiums-neubrandenburg-einstudierung-olga-schiwek-und-agi-nelken",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "joseph-feigl",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-daniel-geiss",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carl-christian-andresen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "isabel-hindersin",
+        "function": "director"
+      },
+      {
+        "person_slug": "fanny-karos",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olga-von-wahl",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "krzysztof-napierala",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro-staatsrat"
+      },
+      {
+        "person_slug": "changmin-lee",
+        "role_slug": "giacomo-puccini/la-boheme/benoit-hausbesitzer"
+      },
+      {
+        "person_slug": "ryszard-kalus",
+        "role_slug": "giacomo-puccini/la-boheme/colline-philosoph"
+      },
+      {
+        "person_slug": "robert-merwald",
+        "role_slug": "giacomo-puccini/la-boheme/marcello-maler"
+      },
+      {
+        "person_slug": "laura-albert",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "laura-scherwitzl",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "mariko-krohne-opernstudio",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "hyoung-jun-lim",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol-fahrender-handler"
+      },
+      {
+        "person_slug": "konstantin-lee",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo-dichter"
+      },
+      {
+        "person_slug": "friedemann-gottschlich",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard-musiker"
+      },
+      {
+        "person_slug": "andreas-hartig",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollbeamten"
+      },
+      {
+        "person_slug": "markus-kopp",
+        "role_slug": "giacomo-puccini/la-boheme/zollner"
+      }
+    ]
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/marilyn-forever",
+    "work_slug": "gavin-bryars/marilyn-forever",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/marilyn-forever/",
+    "creative_team": [
+      {
+        "person_slug": "nicola-clarissa-gehring",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "kenichiro-kojima",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "philomena-strack",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "laura-scherwitzl",
+        "role_slug": "gavin-bryars/marilyn-forever/inszenierung-und-kostumbild"
+      },
+      {
+        "person_slug": "laura-scherwitzl",
+        "role_slug": "gavin-bryars/marilyn-forever/marilyn"
+      },
+      {
+        "person_slug": "robert-merwald",
+        "role_slug": "gavin-bryars/marilyn-forever/probenleiter-verschiedene-manner"
+      },
+      {
+        "person_slug": "herren-des-opernchors",
+        "role_slug": "gavin-bryars/marilyn-forever/the-tritones"
+      }
+    ]
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/the-shining",
+    "work_slug": "paul-moravec/the-shining",
+    "house_slug": "theater-neubrandenburg-neustrelitz",
+    "is_revival": false,
+    "detail_url": "https://tog.de/projekte/the-shining/",
+    "creative_team": [
+      {
+        "person_slug": "kenichiro-kojima",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ariane-salzbrunn",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "aurelia-eggers",
+        "function": "director"
+      },
+      {
+        "person_slug": "katja-pfeifer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marion-menziger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   }
 ]

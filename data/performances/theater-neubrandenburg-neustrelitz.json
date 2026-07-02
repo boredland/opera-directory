@@ -1,5 +1,13 @@
 [
   {
+    "id": "theater-neubrandenburg-neustrelitz/dido-und-aeneas/2026-11-21/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/dido-und-aeneas",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venue_room": "Schauspielhaus Neubrandenburg",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-neubrandenburg-neustrelitz/die-csardasfuerstin/2026-06-21/11:00",
     "production_id": "theater-neubrandenburg-neustrelitz/die-csardasfuerstin",
     "date": "2026-06-21",
@@ -116,6 +124,14 @@
     "ticket_url": "https://landestheater-mecklenburg.eventim-inhouse.de/webshop/webticket/shop?event=6821"
   },
   {
+    "id": "theater-neubrandenburg-neustrelitz/die-fledermaus-4/2026-12-29/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/die-fledermaus-4",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-neubrandenburg-neustrelitz/die-geschichte-vom-soldaten/2026-06-06/18:00",
     "production_id": "theater-neubrandenburg-neustrelitz/die-geschichte-vom-soldaten",
     "date": "2026-06-06",
@@ -177,5 +193,141 @@
     "venue_room": "Schlossgarten Neustrelitz",
     "status": "scheduled",
     "ticket_url": "https://landestheater-mecklenburg.eventim-inhouse.de/webshop/webticket/shop?event=7234"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/die-zauberfloete/2027-05-07/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/die-zauberfloete",
+    "date": "2027-05-07",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-06-25/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-06-25",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-06-26/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-06-26",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-01/16:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-01",
+    "time": "16:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-02/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-02",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-03/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-03",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-04/16:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-04",
+    "time": "16:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-08/16:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-08",
+    "time": "16:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-09/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-09",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-10/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-10",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-11/16:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-11",
+    "time": "16:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-15/16:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-15",
+    "time": "16:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-16/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-16",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord/2027-07-17/20:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/herz-ueber-bord",
+    "date": "2027-07-17",
+    "time": "20:00",
+    "venue_room": "Schlossgarten Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/la-boheme/2026-10-24/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/la-boheme",
+    "date": "2026-10-24",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/marilyn-forever/2026-11-20/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/marilyn-forever",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/the-shining/2027-03-20/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/the-shining",
+    "date": "2027-03-20",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
   }
 ]

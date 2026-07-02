@@ -1,5 +1,88 @@
 [
   {
+    "id": "theater-rudolstadt/der-barbier-von-sevilla-26-27",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "house_slug": "theater-rudolstadt",
+    "is_revival": false,
+    "presentation_note": "(Il barbiere di Siviglia) Opera buffa in zwei Akten von Gioachino Rossini",
+    "detail_url": "https://schiller-theater.de/stueck/der-barbier-von-sevilla-26-27/",
+    "creative_team": [
+      {
+        "person_slug": "oliver-weder",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mechthild-harnischmacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "birte-wallbaum",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "per-bach-nissen",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/bartolo-doktor-der-medizin-vormund-rosinas"
+      },
+      {
+        "person_slug": "thomas-kohl",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/basilio-musiklehrer-rosinas"
+      },
+      {
+        "person_slug": "yuval-oren-rina-hirayama",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/berta-dienerin-bartolos-freundin-rosinas"
+      },
+      {
+        "person_slug": "joshua-lamm",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/ein-notar"
+      },
+      {
+        "person_slug": "jens-bauer",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/ein-offizier"
+      },
+      {
+        "person_slug": "florian-tavic",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/figaro-barbier-freund-des-grafen"
+      },
+      {
+        "person_slug": "marian-kalus",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/fiorillo-diener-almavivas"
+      },
+      {
+        "person_slug": "jongyoung-kim",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva"
+      },
+      {
+        "person_slug": "yuval-oren-rina-hirayama",
+        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/rosina"
+      }
+    ]
+  },
+  {
+    "id": "theater-rudolstadt/flight",
+    "work_slug": "jonathan-dove/flight",
+    "house_slug": "theater-rudolstadt",
+    "is_revival": false,
+    "presentation_note": "Oper in drei Akten von Jonathan Dove",
+    "detail_url": "https://schiller-theater.de/stueck/flight/",
+    "creative_team": [
+      {
+        "person_slug": "oliver-weder",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "prof-jochen-biganzoli",
+        "function": "director"
+      },
+      {
+        "person_slug": "ronald-winter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-rudolstadt/jolanthe",
     "work_slug": "peter-i-tschaikowski/jolanthe",
     "house_slug": "theater-rudolstadt",

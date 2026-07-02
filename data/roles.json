@@ -1655,6 +1655,11 @@
     "name": "Jesus von Nazareth"
   },
   {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/judas",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Judas"
+  },
+  {
     "slug": "andrew-lloyd-webber/jesus-christ-superstar/judas-iscariot",
     "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
     "name": "Judas Iscariot"
@@ -1663,6 +1668,11 @@
     "slug": "andrew-lloyd-webber/jesus-christ-superstar/judas-ischariot",
     "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
     "name": "Judas Ischariot"
+  },
+  {
+    "slug": "andrew-lloyd-webber/jesus-christ-superstar/kaiphas",
+    "work_slug": "andrew-lloyd-webber/jesus-christ-superstar",
+    "name": "Kaiphas"
   },
   {
     "slug": "andrew-lloyd-webber/jesus-christ-superstar/kaiphas-hohepriester",
@@ -8310,6 +8320,11 @@
     "name": "Violino"
   },
   {
+    "slug": "eduard-kunneke/herz-uber-bord/buhnen-und-kostumbild",
+    "work_slug": "eduard-kunneke/herz-uber-bord",
+    "name": "Bühnen – und Kostümbild"
+  },
+  {
     "slug": "edvard-grieg/peer-gynt/anitra-une-fille-des-paturages",
     "work_slug": "edvard-grieg/peer-gynt",
     "name": "Anitra / Une fille des pâturages"
@@ -9690,6 +9705,11 @@
     "name": "Die Knusperhexe"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-und-gretel/gertrud",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "name": "Gertrud"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-und-gretel/gertrud-sein-weib",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Gertrud, Sein Weib"
@@ -9710,6 +9730,11 @@
     "name": "Hänsel"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-und-gretel/hexe",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "name": "Hexe"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-und-gretel/inszenierung-buhne-kostume",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Inszenierung, Bühne & Kostüme"
@@ -9723,6 +9748,11 @@
     "slug": "engelbert-humperdinck/hansel-und-gretel/orchester",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Orchester"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-und-gretel/peter",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel",
+    "name": "Peter"
   },
   {
     "slug": "engelbert-humperdinck/hansel-und-gretel/peter-besenbinder",
@@ -13555,6 +13585,26 @@
     "name": "The Tritones"
   },
   {
+    "slug": "gavin-bryars/marilyn-forever/inszenierung-und-kostumbild",
+    "work_slug": "gavin-bryars/marilyn-forever",
+    "name": "Inszenierung und Kostümbild"
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever/marilyn",
+    "work_slug": "gavin-bryars/marilyn-forever",
+    "name": "Marilyn"
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever/probenleiter-verschiedene-manner",
+    "work_slug": "gavin-bryars/marilyn-forever",
+    "name": "Probenleiter/verschiedene Männer"
+  },
+  {
+    "slug": "gavin-bryars/marilyn-forever/the-tritones",
+    "work_slug": "gavin-bryars/marilyn-forever",
+    "name": "The Tritones"
+  },
+  {
     "slug": "georg-frideric-handel/radamisto/actor",
     "work_slug": "georg-frideric-handel/radamisto",
     "name": "Actor"
@@ -15235,6 +15285,11 @@
     "name": "Alcindoro"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/alcindoro-staatsrat",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Alcindoro, Staatsrat"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/benoit",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Benoit"
@@ -15248,6 +15303,11 @@
     "slug": "giacomo-puccini/la-boheme/benoit-e-alcindoro",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Benoît e Alcindoro"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/benoit-hausbesitzer",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Benoît, Hausbesitzer"
   },
   {
     "slug": "giacomo-puccini/la-boheme/boy",
@@ -15283,6 +15343,11 @@
     "slug": "giacomo-puccini/la-boheme/colline",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Colline"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/colline-philosoph",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Colline, Philosoph"
   },
   {
     "slug": "giacomo-puccini/la-boheme/customs-officer",
@@ -15370,6 +15435,11 @@
     "name": "Marcello"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/marcello-maler",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Marcello, Maler"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/merunas-vitulskis",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Merūnas Vitulskis"
@@ -15430,6 +15500,11 @@
     "name": "Parpignol"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/parpignol-fahrender-handler",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Parpignol, fahrender Händler"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/parpignole",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Parpignole"
@@ -15455,6 +15530,11 @@
     "name": "Rodolfo"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/rodolfo-dichter",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Rodolfo, Dichter"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/rodolfo-parpignol",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Rodolfo; Parpignol"
@@ -15475,9 +15555,19 @@
     "name": "Schaunard"
   },
   {
+    "slug": "giacomo-puccini/la-boheme/schaunard-musiker",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Schaunard, Musiker"
+  },
+  {
     "slug": "giacomo-puccini/la-boheme/sergeant",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Sergeant"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/sergeant-der-zollbeamten",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Sergeant der Zollbeamten"
   },
   {
     "slug": "giacomo-puccini/la-boheme/sergeant-der-zollwache",
@@ -17570,9 +17660,24 @@
     "name": "Ambrogio"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/bartolo-doktor-der-medizin-vormund-rosinas",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Bartolo, Doktor der Medizin, Vormund Rosinas"
+  },
+  {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/basilio-musiklehrer-rosinas",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Basilio, Musiklehrer Rosinas"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/berta",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Berta"
+  },
+  {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/berta-dienerin-bartolos-freundin-rosinas",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Berta, Dienerin Bartolos, Freundin Rosinas"
   },
   {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/doktor-bartolo",
@@ -17585,6 +17690,11 @@
     "name": "Don Basilio"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/ein-notar",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Ein Notar"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/ein-offizier",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Ein Offizier"
@@ -17595,6 +17705,11 @@
     "name": "Figaro"
   },
   {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/figaro-barbier-freund-des-grafen",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Figaro, Barbier, Freund des Grafen"
+  },
+  {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/fiorello-ein-offizier",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Fiorello, Ein Offizier"
@@ -17603,6 +17718,11 @@
     "slug": "gioachino-rossini/der-barbier-von-sevilla/fiorillo",
     "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
     "name": "Fiorillo"
+  },
+  {
+    "slug": "gioachino-rossini/der-barbier-von-sevilla/fiorillo-diener-almavivas",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "name": "Fiorillo, Diener Almavivas"
   },
   {
     "slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva",
@@ -24235,6 +24355,11 @@
     "name": "Sorceress"
   },
   {
+    "slug": "henry-purcell/dido-und-aeneas/inszenierung-und-kostumbild",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Inszenierung und Kostümbild"
+  },
+  {
     "slug": "henry-purcell/king-arthur/basse",
     "work_slug": "henry-purcell/king-arthur",
     "name": "Basse"
@@ -26763,6 +26888,31 @@
     "slug": "jerry-herman/ein-kafig-voller-narren/marie-dindon",
     "work_slug": "jerry-herman/ein-kafig-voller-narren",
     "name": "Marie Dindon"
+  },
+  {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht/haly",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "name": "Haly"
+  },
+  {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht/isabella",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "name": "Isabella"
+  },
+  {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht/kapt-n-funny-bone",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "name": "Käpt'n Funny Bone"
+  },
+  {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht/lindoro",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "name": "Lindoro"
+  },
+  {
+    "slug": "johann-casimir-eule/piraten-fluchen-nicht/taddeo",
+    "work_slug": "johann-casimir-eule/piraten-fluchen-nicht",
+    "name": "Taddeo"
   },
   {
     "slug": "johann-sebastian-bach/johannes-passion/",
@@ -39725,6 +39875,51 @@
     "name": "Keikobad"
   },
   {
+    "slug": "richard-strauss/die-schweigsame-frau/aminta",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Aminta"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/der-barbier-schneidebart",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Der Barbier (Schneidebart)"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/farfallo",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Farfallo"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/haushalterin",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Haushälterin"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/isotta",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Isotta"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/morbio",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Morbio"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/sir-morosus",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Sir Morosus"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/studierauftrag-isotta",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Studierauftrag Isotta"
+  },
+  {
+    "slug": "richard-strauss/die-schweigsame-frau/vanuzzi",
+    "work_slug": "richard-strauss/die-schweigsame-frau",
+    "name": "Vanuzzi"
+  },
+  {
     "slug": "richard-strauss/elektra/1-magd",
     "work_slug": "richard-strauss/elektra",
     "name": "1. Magd"
@@ -41985,9 +42180,19 @@
     "name": "Heinrich der Schreiber"
   },
   {
+    "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/hermann",
+    "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
+    "name": "Hermann"
+  },
+  {
     "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/hermann-landgraf-von-thuringen",
     "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
     "name": "Hermann, Landgraf von Thüringen"
+  },
+  {
+    "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/kinderstatisterie",
+    "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
+    "name": "Kinderstatisterie"
   },
   {
     "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/musiaklische-leitung",
@@ -42008,6 +42213,11 @@
     "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/venus",
     "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
     "name": "Venus"
+  },
+  {
+    "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/walter-von-der-vogelweide",
+    "work_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg",
+    "name": "Walter von der Vogelweide"
   },
   {
     "slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/walther-von-der-vogelweide",
@@ -49573,6 +49783,11 @@
     "slug": "zara-ali/codeborn/co-regie-choreografie",
     "work_slug": "zara-ali/codeborn",
     "name": "Co-Regie & Choreografie"
+  },
+  {
+    "slug": "zara-ali/codeborn/dramaturgie-munchen",
+    "work_slug": "zara-ali/codeborn",
+    "name": "Dramaturgie München"
   },
   {
     "slug": "zoltan-kodaly/hary-janos/baron-ebelasztin",

@@ -1065,7 +1065,36 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kristina-gontsa",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/elvira"
+      },
+      {
+        "person_slug": "miroslav-molchanov",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/haly"
+      },
+      {
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/isabella"
+      },
+      {
+        "person_slug": "alexander-mikhailov",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/lindoro"
+      },
+      {
+        "person_slug": "vadim-kravets",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/mustafa"
+      },
+      {
+        "person_slug": "sergei-romanov",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/taddeo"
+      },
+      {
+        "person_slug": "anna-knyazeva",
+        "role_slug": "gioachino-rossini/l-italiana-in-algeri/zulma"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-jiznzatsarja",
@@ -2400,7 +2429,7 @@
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
       },
       {
-        "person_slug": "anna-knyazeva",
+        "person_slug": "irma-gigolaty",
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
       },
       {

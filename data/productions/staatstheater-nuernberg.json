@@ -295,6 +295,10 @@
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-entfuehrung-aus-dem-serail/27-02-2027/1900",
     "creative_team": [
       {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "jan-croonenbroeck",
         "function": "conductor"
       },
@@ -307,11 +311,40 @@
         "function": "director"
       },
       {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "lighting"
+      },
+      {
         "person_slug": "patrick-bannwart",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "patrick-bannwart-falko-herold",
+        "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/belmonte"
+      },
+      {
+        "person_slug": "andromahi-raptis",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/blonde"
+      },
+      {
+        "person_slug": "karola-sophia-schmid",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/konstanze"
+      },
+      {
+        "person_slug": "taras-konoshchenko",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/osmin"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/die-schweigsame-frau",
@@ -321,11 +354,68 @@
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/die-schweigsame-frau/30-05-2027/1800",
     "creative_team": [
       {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "roland-boer",
         "function": "conductor"
+      },
+      {
+        "person_slug": "jens-daniel-herzog",
+        "function": "director"
+      },
+      {
+        "person_slug": "hans-peter-frings-georg-holzer",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "fabio-antoci",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "okarina-peter-timo-dentler",
+        "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andromahi-raptis",
+        "role_slug": "richard-strauss/die-schweigsame-frau/aminta"
+      },
+      {
+        "person_slug": "samuel-hasselhorn",
+        "role_slug": "richard-strauss/die-schweigsame-frau/der-barbier-schneidebart"
+      },
+      {
+        "person_slug": "taras-konoshchenko",
+        "role_slug": "richard-strauss/die-schweigsame-frau/farfallo"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "richard-strauss/die-schweigsame-frau/haushalterin"
+      },
+      {
+        "person_slug": "nn-gast",
+        "role_slug": "richard-strauss/die-schweigsame-frau/isotta"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "richard-strauss/die-schweigsame-frau/morbio"
+      },
+      {
+        "person_slug": "patrick-zielke",
+        "role_slug": "richard-strauss/die-schweigsame-frau/sir-morosus"
+      },
+      {
+        "person_slug": "gaja-napast",
+        "role_slug": "richard-strauss/die-schweigsame-frau/studierauftrag-isotta"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "richard-strauss/die-schweigsame-frau/vanuzzi"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/ein-fall-fuer-figaro",
@@ -440,8 +530,32 @@
         "role_slug": "engelbert-humperdinck/hansel-und-gretel/buhne-nach-einem-konzept-von-andreas-wilkens"
       },
       {
+        "person_slug": "emily-newton",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gertrud"
+      },
+      {
+        "person_slug": "julia-gruter",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "almerija-delic",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/hexe"
+      },
+      {
         "person_slug": "thomas-schlegel",
         "role_slug": "engelbert-humperdinck/hansel-und-gretel/licht-nurnberg"
+      },
+      {
+        "person_slug": "jochen-kupfer",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/peter"
+      },
+      {
+        "person_slug": "gaja-napast",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel/sandmannchen-taumannchen"
       }
     ]
   },
@@ -501,8 +615,44 @@
     ],
     "cast": [
       {
+        "person_slug": "dustin-smailes",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/annas"
+      },
+      {
         "person_slug": "momme-hinrichs",
         "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/buhne-video"
+      },
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/herodes"
+      },
+      {
+        "person_slug": "lukas-mayer",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/jesus-christ"
+      },
+      {
+        "person_slug": "til-ormeloh",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/judas"
+      },
+      {
+        "person_slug": "alexander-alves-de-paula",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/kaiphas"
+      },
+      {
+        "person_slug": "dorina-garuci",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/maria-magdalena"
+      },
+      {
+        "person_slug": "fabio-kopf",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/petrus"
+      },
+      {
+        "person_slug": "armin-kahl",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/pontius-pilatus"
+      },
+      {
+        "person_slug": "tayler-davis",
+        "role_slug": "andrew-lloyd-webber/jesus-christ-superstar/simon-zelotes"
       },
       {
         "person_slug": "stefan-witter-federico-gartner-gutierrez",
@@ -810,9 +960,46 @@
       {
         "person_slug": "sungjun-kim",
         "function": "conductor"
+      },
+      {
+        "person_slug": "michael-calderone",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "mareike-neumann",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "thays-helene-runge",
+        "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "gaja-napast",
+        "role_slug": "johann-casimir-eule/piraten-fluchen-nicht/haly"
+      },
+      {
+        "person_slug": "annika-henriot",
+        "role_slug": "johann-casimir-eule/piraten-fluchen-nicht/isabella"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "johann-casimir-eule/piraten-fluchen-nicht/kapt-n-funny-bone"
+      },
+      {
+        "person_slug": "julius-steinbach",
+        "role_slug": "johann-casimir-eule/piraten-fluchen-nicht/lindoro"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "johann-casimir-eule/piraten-fluchen-nicht/taddeo"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/rausch",
@@ -951,11 +1138,60 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "thomas-schlegel",
+        "function": "lighting"
+      },
+      {
         "person_slug": "thilo-ullrich",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "sergio-verde",
+        "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "wonyong-kang",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/biterolf"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/ein-junger-hirt"
+      },
+      {
+        "person_slug": "emily-newton",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/elisabeth"
+      },
+      {
+        "person_slug": "seokjun-kim",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/hermann"
+      },
+      {
+        "person_slug": "kinderstatisterie",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/kinderstatisterie"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/reinmar-von-zweter"
+      },
+      {
+        "person_slug": "bryan-register",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/tannhauser"
+      },
+      {
+        "person_slug": "anna-lapkovskaja",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/venus"
+      },
+      {
+        "person_slug": "martin-platz",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/walter-von-der-vogelweide"
+      },
+      {
+        "person_slug": "samuel-hasselhorn",
+        "role_slug": "richard-wagner/tannhauser-und-der-sangerkrieg-auf-wartburg/wolfram-von-eschenbach"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/tosca",
@@ -985,7 +1221,40 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "sangmin-lee",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "qinchuan-lan",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "giacomo-puccini/tosca/der-mesner"
+      },
+      {
+        "person_slug": "annika-henriot",
+        "role_slug": "giacomo-puccini/tosca/ein-hirt"
+      },
+      {
+        "person_slug": "gor-harutyunyan",
+        "role_slug": "giacomo-puccini/tosca/ein-schlie-er"
+      },
+      {
+        "person_slug": "emily-newton",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "nn-gast",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "giacomo-puccini/tosca/sciarrone"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/turandot",
