@@ -26,15 +26,19 @@
     "cast": [
       {
         "person_slug": "jens-emmert",
-        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/florimon-herve"
+        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/florimond-herve-komponist"
       },
       {
         "person_slug": "beppo-binder",
         "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/francois-pisquatschec-gerichtsvollzieher"
       },
       {
+        "person_slug": "michael-duregger",
+        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/general-pipo-de-frascatti-minister-der-schonen-kunste-parigi-veilchens-vormund-sekretar-leblanc-im-ministerium-fur-schone-kunste-direktor-des-theater-vaudeville"
+      },
+      {
         "person_slug": "branimir-agovi",
-        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/henri-murger"
+        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/henry-murger-dichter"
       },
       {
         "person_slug": "orchester-der-buhne-baden",
@@ -45,16 +49,12 @@
         "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/ninon"
       },
       {
-        "person_slug": "michael-duregger",
-        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/pipo-de-frascati"
-      },
-      {
         "person_slug": "christoph-gerhardus",
-        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/raoul-delacroix"
+        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/raoul-delacroix-maler"
       },
       {
         "person_slug": "mariella-hofbauer",
-        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/violetta-cavallini"
+        "role_slug": "emmerich-kalman/das-veilchen-vom-montmartre/violetta-cavallini-genannt-das-veilchen-vom-montmartre"
       }
     ]
   },

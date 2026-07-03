@@ -1,5 +1,14 @@
 [
   {
+    "id": "oper-halle/30-minuten-oper-la-traviata",
+    "work_slug": "30-minuten-oper-la-traviata",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/30-minuten-oper-la-traviata/280556",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/agrippina",
     "work_slug": "georg-friedrich-handel/agrippina",
     "house_slug": "oper-halle",
@@ -45,6 +54,33 @@
     "cast": []
   },
   {
+    "id": "oper-halle/carmina-burana",
+    "work_slug": "carmina-burana",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/carmina-burana/268254",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/carmina-burana-verbindet-deine-stimme-zahlt",
+    "work_slug": "carmina-burana-verbindet-deine-stimme-zahlt",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/carmina-burana-verbindet-deine-stimme-zahlt/268260",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-halle/die-groe-eroffnungsgala-mit-der-oper-halle-und-der-staatskapelle-halle",
+    "work_slug": "die-gro-e-eroffnungsgala-mit-der-oper-halle-und-der-staatskapelle-halle",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/die-groe-eroffnungsgala-mit-der-oper-halle-und-der-staatskapelle-halle/268242",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/die-hochzeit-des-figaro",
     "work_slug": "wolfgang-amadeus-mozart-termine-karten/die-hochzeit-des-figaro",
     "house_slug": "oper-halle",
@@ -72,11 +108,20 @@
     "cast": []
   },
   {
+    "id": "oper-halle/its-showtime-eine-musicalrevue",
+    "work_slug": "it-s-showtime-eine-musicalrevue",
+    "house_slug": "oper-halle",
+    "is_revival": false,
+    "detail_url": "https://www.buehnen-halle.de/de/program/its-showtime-eine-musicalrevue/268249",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "oper-halle/kuchenoper",
     "work_slug": "frank-schwemmer/kuchenoper",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/kuchenoper/274137",
+    "detail_url": "https://www.buehnen-halle.de/de/program/kuchenoper/268265",
     "creative_team": [],
     "cast": []
   },
@@ -202,7 +247,7 @@
     "work_slug": "veronika-der-kaktus-lasst-dich-gru-en",
     "house_slug": "oper-halle",
     "is_revival": false,
-    "detail_url": "https://www.buehnen-halle.de/de/program/veronika-der-kaktus-lasst-dich-gruen/278182",
+    "detail_url": "https://www.buehnen-halle.de/de/program/veronika-der-kaktus-lasst-dich-gruen/268264",
     "creative_team": [],
     "cast": []
   },

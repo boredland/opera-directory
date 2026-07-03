@@ -1119,7 +1119,7 @@
         "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
       },
       {
-        "person_slug": "francesca-berruto",
+        "person_slug": "lara-delfino",
         "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
@@ -1222,7 +1222,7 @@
         "role_slug": "john-neumeier/endstation-sehnsucht/der-general"
       },
       {
-        "person_slug": "francesca-berruto",
+        "person_slug": "lara-delfino",
         "role_slug": "john-neumeier/endstation-sehnsucht/die-stadt-new-orleans"
       },
       {
@@ -2339,6 +2339,10 @@
         "role_slug": "astor-piazzolla/maria-de-buenos-aires/orchester"
       },
       {
+        "person_slug": "statisterie-der-deutschen-oper-am-rhein",
+        "role_slug": "astor-piazzolla/maria-de-buenos-aires/statisterie"
+      },
+      {
         "person_slug": "mariano-agustin-messad",
         "role_slug": "astor-piazzolla/maria-de-buenos-aires/tango-argentino"
       }
@@ -3146,7 +3150,12 @@
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/preview-2627/2561/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "bridget-breiner",
+        "role_slug": "preview-2026-2027/gesprachspartner"
+      }
+    ]
   },
   {
     "id": "deutsche-oper-am-rhein/signaturen-2612",
@@ -4577,7 +4586,7 @@
         "role_slug": "giacomo-puccini/tosca/cavaradossi"
       },
       {
-        "person_slug": "justine-wanat",
+        "person_slug": "sabina-lopez-miguez",
         "role_slug": "giacomo-puccini/tosca/kinderchorleitung"
       },
       {
@@ -4652,7 +4661,7 @@
         "role_slug": "giacomo-puccini/tosca/cavaradossi"
       },
       {
-        "person_slug": "justine-wanat",
+        "person_slug": "sabina-lopez-miguez",
         "role_slug": "giacomo-puccini/tosca/kinderchorleitung"
       },
       {
@@ -4727,7 +4736,7 @@
         "role_slug": "giacomo-puccini/tosca/cavaradossi"
       },
       {
-        "person_slug": "justine-wanat",
+        "person_slug": "sabina-lopez-miguez",
         "role_slug": "giacomo-puccini/tosca/kinderchorleitung"
       },
       {

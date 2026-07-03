@@ -360,6 +360,50 @@
     ]
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-hillary-witch-goes-opera",
+    "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
+    "house_slug": "cnt-zagreb",
+    "is_revival": false,
+    "detail_url": "https://www.hnk.hr/en/opera/plays/hillary-witch-goes-opera/",
+    "image_url": "https://res.cloudinary.com/dg86xjjts/image/upload/f_auto,q_auto/v1711440302/qncpttjibgbhvi8epnkb",
+    "creative_team": [
+      {
+        "person_slug": "mirjana-zagorec",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ivan-leo-lemo",
+        "function": "director"
+      },
+      {
+        "person_slug": "deni-sesnic",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vesna-rezic",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nina-cossetto",
+        "role_slug": "peter-lund/hillary-the-witch-goes-to-opera/costumed-repetiteur"
+      },
+      {
+        "person_slug": "aleksandra-corluka",
+        "role_slug": "peter-lund/hillary-the-witch-goes-to-opera/costumed-stage-manager"
+      },
+      {
+        "person_slug": "dora-lipovcan",
+        "role_slug": "peter-lund/hillary-the-witch-goes-to-opera/hillary-a-witch"
+      },
+      {
+        "person_slug": "kristijan-potocki",
+        "role_slug": "peter-lund/hillary-the-witch-goes-to-opera/the-cat"
+      }
+    ]
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski",
     "work_slug": "ivan-pl-zajc/nikola-subic-zrinjski",
     "house_slug": "cnt-zagreb",

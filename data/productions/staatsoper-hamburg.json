@@ -435,10 +435,6 @@
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1911-wunderland",
     "creative_team": [
       {
-        "person_slug": "vello-pahn",
-        "function": "conductor"
-      },
-      {
         "person_slug": "david-szauder",
         "function": "costume-designer"
       },
@@ -453,68 +449,12 @@
     ],
     "cast": [
       {
-        "person_slug": "olivia-betteridge",
-        "role_slug": "wunderland/alice"
-      },
-      {
-        "person_slug": "alice-mazzasette",
-        "role_slug": "wunderland/alices-schwester-die-herzogin"
-      },
-      {
         "person_slug": "alexei-ratmansky",
         "role_slug": "wunderland/choreografie-und-inszenierung"
       },
       {
         "person_slug": "kyle-davis",
         "role_slug": "wunderland/choreografische-assistenz"
-      },
-      {
-        "person_slug": "matias-oberlin",
-        "role_slug": "wunderland/der-herzbube-die-mucke-der-rote-ritter"
-      },
-      {
-        "person_slug": "joaquin-angelucci",
-        "role_slug": "wunderland/der-herzkonig-der-wei-e-konig"
-      },
-      {
-        "person_slug": "gabriel-barbosa",
-        "role_slug": "wunderland/der-hutmacher-hatta"
-      },
-      {
-        "person_slug": "moises-romero",
-        "role_slug": "wunderland/der-marzhase-haigha"
-      },
-      {
-        "person_slug": "daniele-bonelli",
-        "role_slug": "wunderland/die-grinse-katze-der-wei-e-ritter"
-      },
-      {
-        "person_slug": "charlotte-larzelere",
-        "role_slug": "wunderland/die-haselmaus-die-wei-e-konigin"
-      },
-      {
-        "person_slug": "ida-praetorius",
-        "role_slug": "wunderland/die-herzkonigin-die-rote-konigin"
-      },
-      {
-        "person_slug": "caspar-sasse",
-        "role_slug": "wunderland/die-raupe-der-henker-der-rote-konig-humpty-dumpty"
-      },
-      {
-        "person_slug": "ana-torrequebrada",
-        "role_slug": "wunderland/die-taube-das-einhorn"
-      },
-      {
-        "person_slug": "hamburg-ballett",
-        "role_slug": "wunderland/ensemble"
-      },
-      {
-        "person_slug": "francesco-cortese",
-        "role_slug": "wunderland/fisch-lakai-der-greif-tweedledum"
-      },
-      {
-        "person_slug": "louis-musin",
-        "role_slug": "wunderland/frosch-lakai-die-falsche-schildkrote-tweedledee"
       },
       {
         "person_slug": "philip-feeney",
@@ -531,10 +471,6 @@
       {
         "person_slug": "vivien-arnold",
         "role_slug": "wunderland/scenario-und-dramaturgie"
-      },
-      {
-        "person_slug": "aleix-martinez",
-        "role_slug": "wunderland/wei-es-kaninchen-der-lowe"
       }
     ]
   },
@@ -775,6 +711,33 @@
     ]
   },
   {
+    "id": "staatsoper-hamburg/ballett-1974-mittsu-virginia-woolf",
+    "work_slug": "mittsu-virginia-woolf",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/ballett/1974-mittsu-virginia-woolf",
+    "creative_team": [
+      {
+        "person_slug": "kristina-paulin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "neshama-nashman",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "yuka-oishi",
+        "function": "choreographer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
+        "role_slug": "mittsu-virginia-woolf/orchester"
+      }
+    ]
+  },
+  {
     "id": "staatsoper-hamburg/ballett-201-der-nussknacker",
     "work_slug": "der-nussknacker",
     "house_slug": "staatsoper-hamburg",
@@ -991,7 +954,7 @@
         "role_slug": "romantic-evolution-s/inszenierung-und-einstudierung"
       },
       {
-        "person_slug": "jack-bruce",
+        "person_slug": "aleix-martinez",
         "role_slug": "romantic-evolution-s/james"
       },
       {
@@ -1405,6 +1368,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "john-neumeier",
+        "role_slug": "a-cinderella-story/choreografie-und-inszenierung"
+      },
       {
         "person_slug": "sergej-prokofjew",
         "role_slug": "a-cinderella-story/musik"
@@ -2720,7 +2687,20 @@
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484979-schade-schade-zu-spaet",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "johannes-erath",
+        "role_slug": "schade-schade-zu-spat/mit"
+      },
+      {
+        "person_slug": "nicholas-ofczarek",
+        "role_slug": "schade-schade-zu-spat/mit"
+      },
+      {
+        "person_slug": "omer-meir-wellber",
+        "role_slug": "schade-schade-zu-spat/mit"
+      }
+    ]
   },
   {
     "id": "staatsoper-hamburg/konzert-2147484980-ta-ta-ta-taaa",
@@ -3652,7 +3632,7 @@
         "role_slug": "engelbert-humperdinck/dornroschen/12-weitere-prinzen"
       },
       {
-        "person_slug": "jan-koester-talking-animals",
+        "person_slug": "jan-koster-talking-animals",
         "role_slug": "engelbert-humperdinck/dornroschen/animation"
       },
       {

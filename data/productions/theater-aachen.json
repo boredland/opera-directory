@@ -5,7 +5,12 @@
     "house_slug": "theater-aachen",
     "is_revival": false,
     "detail_url": "https://www.theateraachen.de/de/produktionen/candide.html",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "josias-ray",
+        "function": "dramaturgy"
+      }
+    ],
     "cast": []
   },
   {
@@ -561,6 +566,10 @@
       {
         "person_slug": "tristan-braun",
         "function": "director"
+      },
+      {
+        "person_slug": "josias-ray",
+        "function": "dramaturgy"
       },
       {
         "person_slug": "jemma-woolmore",

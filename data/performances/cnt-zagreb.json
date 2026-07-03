@@ -70,6 +70,20 @@
     "status": "scheduled"
   },
   {
+    "id": "cnt-zagreb/cnt-zagreb-hillary-witch-goes-opera/2026-10-18/11:00",
+    "production_id": "cnt-zagreb/cnt-zagreb-hillary-witch-goes-opera",
+    "date": "2026-10-18",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-hillary-witch-goes-opera/2026-10-31/11:00",
+    "production_id": "cnt-zagreb/cnt-zagreb-hillary-witch-goes-opera",
+    "date": "2026-10-31",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
     "id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski/2026-06-16/19:30",
     "production_id": "cnt-zagreb/cnt-zagreb-nikola-subic-zrinjski",
     "date": "2026-06-16",
@@ -101,6 +115,27 @@
     "id": "cnt-zagreb/cnt-zagreb-stanac/2026-09-03/19:30",
     "production_id": "cnt-zagreb/cnt-zagreb-stanac",
     "date": "2026-09-03",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-stanac/2026-10-05/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-stanac",
+    "date": "2026-10-05",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-stanac/2026-10-07/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-stanac",
+    "date": "2026-10-07",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "cnt-zagreb/cnt-zagreb-stanac/2026-10-09/19:30",
+    "production_id": "cnt-zagreb/cnt-zagreb-stanac",
+    "date": "2026-10-09",
     "time": "19:30",
     "status": "scheduled"
   }

@@ -448,6 +448,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/new-waves-841/2026-07-05/18:00",
+    "production_id": "oper-leipzig/new-waves-841",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/pique-dame-740/2026-06-20/19:00",
     "production_id": "oper-leipzig/pique-dame-740",
     "date": "2026-06-20",
@@ -501,6 +508,13 @@
     "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
     "date": "2026-07-05",
     "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2027-07-01/18:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2027-07-01",
+    "time": "18:00",
     "status": "scheduled"
   },
   {
@@ -718,6 +732,13 @@
     "production_id": "oper-leipzig/yamato-866",
     "date": "2026-07-04",
     "time": "14:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-07-04/19:30",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-07-04",
+    "time": "19:30",
     "status": "scheduled"
   }
 ]

@@ -9,6 +9,14 @@
     "creative_team": [],
     "cast": [
       {
+        "person_slug": "hannah-scully",
+        "role_slug": "pietro-mascagni/iris/aerilist"
+      },
+      {
+        "person_slug": "meilir-jones",
+        "role_slug": "pietro-mascagni/iris/cenciaiuolo-rag-merchant"
+      },
+      {
         "person_slug": "hannah-o-brien",
         "role_slug": "pietro-mascagni/iris/geisha"
       },
@@ -129,8 +137,16 @@
         "role_slug": "sergei-prokofiev/the-gambler/polina"
       },
       {
+        "person_slug": "ross-cumming",
+        "role_slug": "sergei-prokofiev/the-gambler/potapytch"
+      },
+      {
         "person_slug": "sean-tester",
         "role_slug": "sergei-prokofiev/the-gambler/prince-nilsky"
+      },
+      {
+        "person_slug": "wonsick-oh",
+        "role_slug": "sergei-prokofiev/the-gambler/the-baron"
       },
       {
         "person_slug": "alexei-botnarciuc",

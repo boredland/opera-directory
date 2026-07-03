@@ -282,6 +282,34 @@
     ],
     "cast": [
       {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "kurt-weill/die-dreigroschenoper/brown"
+      },
+      {
+        "person_slug": "lisa-mies",
+        "role_slug": "kurt-weill/die-dreigroschenoper/celia-peachum"
+      },
+      {
+        "person_slug": "sara-setar",
+        "role_slug": "kurt-weill/die-dreigroschenoper/die-spelunkenjenny"
+      },
+      {
+        "person_slug": "pius-maria-cuppers",
+        "role_slug": "kurt-weill/die-dreigroschenoper/jonathan-jeremiah-peachum"
+      },
+      {
+        "person_slug": "caroline-ottocan",
+        "role_slug": "kurt-weill/die-dreigroschenoper/lucy"
+      },
+      {
+        "person_slug": "nicolas-frederick-djuren",
+        "role_slug": "kurt-weill/die-dreigroschenoper/mackie-messer"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "kurt-weill/die-dreigroschenoper/polly-peachum"
+      },
+      {
         "person_slug": "ulrich-speith-gerald-steuler",
         "role_slug": "kurt-weill/die-dreigroschenoper/sounddesign"
       }
@@ -469,10 +497,6 @@
       {
         "person_slug": "demian-matushevskyi",
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/figaro"
-      },
-      {
-        "person_slug": "hektor-palmer-nordfors",
-        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/francesco"
       },
       {
         "person_slug": "jugendopernchor-des-staatstheater-nurnberg",

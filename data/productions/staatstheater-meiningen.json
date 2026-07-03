@@ -186,68 +186,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "elke-buchner",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau"
-      },
-      {
-        "person_slug": "garrett-evers",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-beider-sohn"
-      },
-      {
-        "person_slug": "meininger-hofkapelle",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/es-spielt-die"
-      },
-      {
-        "person_slug": "tomasz-wija-mark-hightower",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-bacsi"
-      },
-      {
-        "person_slug": "matthias-herold",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/furst-lippert-weylersheim"
-      },
-      {
-        "person_slug": "tobias-glagau-johannes-mooser",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancianu"
-      },
-      {
-        "person_slug": "yannik-schiller",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/groom"
-      },
-      {
-        "person_slug": "hans-gebhardt-yannik-schiller-raphael-hering-sang-seon-won-mikko-jarviluoto-tarik-akman-andreas-kalmbach-matthias-richter",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/kavaliere"
-      },
-      {
-        "person_slug": "silvio-wild",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/kiss-notar"
-      },
-      {
-        "person_slug": "monika-reinhard-hannah-gries",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/komtesse-stasi"
-      },
-      {
-        "person_slug": "matthias-richter",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/macgrave-botschafter"
-      },
-      {
-        "person_slug": "sylvia-hofmann-rosica-vogel-sophia-oertel-yerim-park-dana-hinz-anna-theresa-torgersen-aisling-mccarthy",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/madis"
-      },
-      {
-        "person_slug": "steffen-kollner",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/oberleutnant-von-rohnsdorff"
-      },
-      {
-        "person_slug": "dara-hobbs-emma-mcnairy",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
-      },
-      {
-        "person_slug": "elena-zanato-antonia-selow-andrea-de-marzo-balazs-szijarto",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/tanzpaar"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "staatstheater-meiningen/falstaff",

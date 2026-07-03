@@ -35,16 +35,12 @@
         "function": "ESMERALDA"
       },
       {
-        "person_slug": "alexander-geller",
+        "person_slug": "timothy-edlin",
         "function": "HANS"
       },
       {
         "person_slug": "boshana-milkov",
         "function": "KATHINKA"
-      },
-      {
-        "person_slug": "timothy-edlin",
-        "function": "KEZAL"
       },
       {
         "person_slug": "patrick-ruyters",
@@ -77,6 +73,28 @@
       {
         "person_slug": "kellan-dunlap",
         "function": "WENZEL"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-bremerhaven/eine-nacht-in-venedig",
+    "work_slug": "johann-strau/eine-nacht-in-venedig",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/eine-nacht-in-venedig/",
+    "creative_team": [
+      {
+        "person_slug": "bernhard-bruchhardt",
+        "function": "BÜHNE &"
+      },
+      {
+        "person_slug": "hartmut-brusch",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "achim-lenz",
+        "function": "director"
       }
     ],
     "cast": []
@@ -185,6 +203,20 @@
       {
         "person_slug": "ricardo-llamas-marquez",
         "function": "WURM"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "stadttheater-bremerhaven/samson-et-dalila",
+    "work_slug": "camille-saint-saens/samson-et-dalila",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/samson-et-dalila/",
+    "creative_team": [
+      {
+        "person_slug": "marco-comin",
+        "function": "conductor"
       }
     ],
     "cast": []

@@ -58,6 +58,29 @@
     ]
   },
   {
+    "id": "komische-oper-berlin/choriner-musiksommer-1476",
+    "work_slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/choriner-musiksommer/1476/",
+    "creative_team": [
+      {
+        "person_slug": "robert-reimer",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "emanuel-graf",
+        "role_slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer/cello"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer/orchester"
+      }
+    ]
+  },
+  {
     "id": "komische-oper-berlin/der-schneesturm-1439",
     "work_slug": "nach-vladimir-sorokin/der-schneesturm",
     "house_slug": "komische-oper-berlin",

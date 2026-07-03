@@ -260,6 +260,11 @@
     "name": "Violine"
   },
   {
+    "slug": "a-cinderella-story/choreografie-und-inszenierung",
+    "work_slug": "a-cinderella-story",
+    "name": "Choreografie und Inszenierung"
+  },
+  {
     "slug": "a-cinderella-story/musik",
     "work_slug": "a-cinderella-story",
     "name": "Musik"
@@ -2690,6 +2695,11 @@
     "name": "Orchester"
   },
   {
+    "slug": "astor-piazzolla/maria-de-buenos-aires/statisterie",
+    "work_slug": "astor-piazzolla/maria-de-buenos-aires",
+    "name": "Statisterie"
+  },
+  {
     "slug": "astor-piazzolla/maria-de-buenos-aires/tango-argentino",
     "work_slug": "astor-piazzolla/maria-de-buenos-aires",
     "name": "Tango Argentino"
@@ -4713,6 +4723,11 @@
     "slug": "carl-maria-von-weber/der-freischutz/caspar",
     "work_slug": "carl-maria-von-weber/der-freischutz",
     "name": "Caspar"
+  },
+  {
+    "slug": "carl-maria-von-weber/der-freischutz/cuno",
+    "work_slug": "carl-maria-von-weber/der-freischutz",
+    "name": "Cuno"
   },
   {
     "slug": "carl-maria-von-weber/der-freischutz/ein-apokalyptischer-reiter",
@@ -9010,14 +9025,29 @@
     "name": "Florimon Hervé"
   },
   {
+    "slug": "emmerich-kalman/das-veilchen-vom-montmartre/florimond-herve-komponist",
+    "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
+    "name": "Florimond Hervé, Komponist"
+  },
+  {
     "slug": "emmerich-kalman/das-veilchen-vom-montmartre/francois-pisquatschec-gerichtsvollzieher",
     "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
     "name": "François Pisquatschec, Gerichtsvollzieher"
   },
   {
+    "slug": "emmerich-kalman/das-veilchen-vom-montmartre/general-pipo-de-frascatti-minister-der-schonen-kunste-parigi-veilchens-vormund-sekretar-leblanc-im-ministerium-fur-schone-kunste-direktor-des-theater-vaudeville",
+    "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
+    "name": "General Pipo de Frascatti, Minister der schönen Künste / Parigi, Veilchens Vormund / Sekretär Leblanc im Ministerium für schöne Künste / Direktor des \"Theater Vaudeville\""
+  },
+  {
     "slug": "emmerich-kalman/das-veilchen-vom-montmartre/henri-murger",
     "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
     "name": "Henri Murger"
+  },
+  {
+    "slug": "emmerich-kalman/das-veilchen-vom-montmartre/henry-murger-dichter",
+    "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
+    "name": "Henry Murger, Dichter"
   },
   {
     "slug": "emmerich-kalman/das-veilchen-vom-montmartre/mit",
@@ -9040,9 +9070,19 @@
     "name": "Raoul Delacroix"
   },
   {
+    "slug": "emmerich-kalman/das-veilchen-vom-montmartre/raoul-delacroix-maler",
+    "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
+    "name": "Raoul Delacroix, Maler"
+  },
+  {
     "slug": "emmerich-kalman/das-veilchen-vom-montmartre/violetta-cavallini",
     "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
     "name": "Violetta Cavallini"
+  },
+  {
+    "slug": "emmerich-kalman/das-veilchen-vom-montmartre/violetta-cavallini-genannt-das-veilchen-vom-montmartre",
+    "work_slug": "emmerich-kalman/das-veilchen-vom-montmartre",
+    "name": "Violetta Cavallini, genannt \"Das Veilchen vom Montmartre\""
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/anastasia-komtesse-eggenberg-dessen-cousine",
@@ -29810,6 +29850,41 @@
     "name": "Ragazze di Mahagonny"
   },
   {
+    "slug": "kurt-weill/die-dreigroschenoper/brown",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Brown"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/celia-peachum",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Celia Peachum"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/die-spelunkenjenny",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Die Spelunkenjenny"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/jonathan-jeremiah-peachum",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Jonathan Jeremiah Peachum"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/lucy",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Lucy"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/mackie-messer",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Mackie Messer"
+  },
+  {
+    "slug": "kurt-weill/die-dreigroschenoper/polly-peachum",
+    "work_slug": "kurt-weill/die-dreigroschenoper",
+    "name": "Polly Peachum"
+  },
+  {
     "slug": "kurt-weill/die-dreigroschenoper/sounddesign",
     "work_slug": "kurt-weill/die-dreigroschenoper",
     "name": "Sounddesign"
@@ -33905,6 +33980,11 @@
     "name": "W. A. Mozart"
   },
   {
+    "slug": "mittsu-virginia-woolf/orchester",
+    "work_slug": "mittsu-virginia-woolf",
+    "name": "Orchester"
+  },
+  {
     "slug": "mittsu/orchester",
     "work_slug": "mittsu",
     "name": "Orchester"
@@ -35580,6 +35660,16 @@
     "name": "Szenische Leitung"
   },
   {
+    "slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer/cello",
+    "work_slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer",
+    "name": "Cello"
+  },
+  {
+    "slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer/orchester",
+    "work_slug": "orchester-der-komischen-oper-berlin-choriner-musiksommer",
+    "name": "Orchester"
+  },
+  {
     "slug": "oscar-straus/sogno-di-un-valzer-in-concerto/ballerini",
     "work_slug": "oscar-straus/sogno-di-un-valzer-in-concerto",
     "name": "ballerini"
@@ -36238,6 +36328,26 @@
     "slug": "peter-i-tschaikowski/pique-dame/zeremonienmeister",
     "work_slug": "peter-i-tschaikowski/pique-dame",
     "name": "Zeremonienmeister"
+  },
+  {
+    "slug": "peter-lund/hillary-the-witch-goes-to-opera/costumed-repetiteur",
+    "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
+    "name": "Costumed Répétiteur"
+  },
+  {
+    "slug": "peter-lund/hillary-the-witch-goes-to-opera/costumed-stage-manager",
+    "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
+    "name": "Costumed Stage Manager"
+  },
+  {
+    "slug": "peter-lund/hillary-the-witch-goes-to-opera/hillary-a-witch",
+    "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
+    "name": "HILLARY, a Witch"
+  },
+  {
+    "slug": "peter-lund/hillary-the-witch-goes-to-opera/the-cat",
+    "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
+    "name": "THE CAT"
   },
   {
     "slug": "peter-maxwell-davies/the-lighthouse/officer-1-sandy",
@@ -36980,6 +37090,16 @@
     "name": "Turiddu"
   },
   {
+    "slug": "pietro-mascagni/iris/aerilist",
+    "work_slug": "pietro-mascagni/iris",
+    "name": "Aerilist"
+  },
+  {
+    "slug": "pietro-mascagni/iris/cenciaiuolo-rag-merchant",
+    "work_slug": "pietro-mascagni/iris",
+    "name": "Cenciaiuolo Rag Merchant"
+  },
+  {
     "slug": "pietro-mascagni/iris/geisha",
     "work_slug": "pietro-mascagni/iris",
     "name": "Geisha"
@@ -37593,6 +37713,11 @@
     "slug": "powder-her-face/mouvement",
     "work_slug": "powder-her-face",
     "name": "Mouvement"
+  },
+  {
+    "slug": "preview-2026-2027/gesprachspartner",
+    "work_slug": "preview-2026-2027",
+    "name": "Gesprächspartner"
   },
   {
     "slug": "probenbesuch-und-gesprach/opernwerkstatt-zar-und-zimmermann/moderation",
@@ -43605,6 +43730,11 @@
     "name": "Liscione"
   },
   {
+    "slug": "schade-schade-zu-spat/mit",
+    "work_slug": "schade-schade-zu-spat",
+    "name": "Mit"
+  },
+  {
     "slug": "scirocco/ensemble",
     "work_slug": "scirocco",
     "name": "Ensemble"
@@ -43720,9 +43850,19 @@
     "name": "Polina"
   },
   {
+    "slug": "sergei-prokofiev/the-gambler/potapytch",
+    "work_slug": "sergei-prokofiev/the-gambler",
+    "name": "Potapytch"
+  },
+  {
     "slug": "sergei-prokofiev/the-gambler/prince-nilsky",
     "work_slug": "sergei-prokofiev/the-gambler",
     "name": "Prince Nilsky"
+  },
+  {
+    "slug": "sergei-prokofiev/the-gambler/the-baron",
+    "work_slug": "sergei-prokofiev/the-gambler",
+    "name": "The Baron"
   },
   {
     "slug": "sergei-prokofiev/the-gambler/the-general",
@@ -48283,6 +48423,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/soloist",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Soloist"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/soufflage",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Soufflage"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/speaker",

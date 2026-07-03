@@ -118,7 +118,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "opernchor-des-theater-bremen-kinderchor-des-theater-bremen",
+        "person_slug": "kinderchor-des-theater-bremen-opernchor-des-theater-bremen",
         "function": "chorus-master"
       },
       {
@@ -144,12 +144,52 @@
     ],
     "cast": [
       {
+        "person_slug": "ulrike-mayer",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "wolfgang-von-borries",
+        "role_slug": "georges-bizet/carmen/dancairo"
+      },
+      {
+        "person_slug": "oliver-sewell",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "elias-gyungseok-han",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "elisa-birkenheier",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "laura-hilden",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "adele-lorenzi",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "arvid-fagerfjall",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
         "person_slug": "bremer-philharmoniker",
         "role_slug": "georges-bizet/carmen/orchester"
       },
       {
+        "person_slug": "fabian-duberg",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
         "person_slug": "statisterie-des-theater-bremen",
         "role_slug": "georges-bizet/carmen/statisterie"
+      },
+      {
+        "person_slug": "jasin-rammal-ryka-a",
+        "role_slug": "georges-bizet/carmen/zuniga"
       }
     ]
   },
@@ -199,8 +239,40 @@
     ],
     "cast": [
       {
+        "person_slug": "sarah-jane-brandon",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agathe"
+      },
+      {
+        "person_slug": "elisa-birkenheier",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen"
+      },
+      {
+        "person_slug": "christoph-heinrich",
+        "role_slug": "carl-maria-von-weber/der-freischutz/caspar"
+      },
+      {
+        "person_slug": "jasin-rammal-ryka-a",
+        "role_slug": "carl-maria-von-weber/der-freischutz/cuno"
+      },
+      {
+        "person_slug": "elias-gyungseok-han",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ein-eremit"
+      },
+      {
+        "person_slug": "ian-spinetti",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max"
+      },
+      {
         "person_slug": "bremer-philharmoniker",
         "role_slug": "carl-maria-von-weber/der-freischutz/orchester"
+      },
+      {
+        "person_slug": "micha-partyka",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ottokar"
+      },
+      {
+        "person_slug": "stephanie-schadeweg",
+        "role_slug": "carl-maria-von-weber/der-freischutz/samiel"
       }
     ]
   },

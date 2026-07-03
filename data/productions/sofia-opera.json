@@ -13122,6 +13122,39 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "vesselin-mihaylov",
+        "role_slug": "giacomo-puccini/turandot/a-mandarin"
+      },
+      {
+        "person_slug": "rosen-nenchev",
+        "role_slug": "giacomo-puccini/turandot/pang-general-butler"
+      },
+      {
+        "person_slug": "atanas-mladenov",
+        "role_slug": "giacomo-puccini/turandot/ping-grand-vizier"
+      },
+      {
+        "person_slug": "daniel-ostretsov",
+        "role_slug": "giacomo-puccini/turandot/pong-a-great-imperial-chef"
+      },
+      {
+        "person_slug": "jorge-de-leon",
+        "role_slug": "giacomo-puccini/turandot/prince-calaf-son-of-timur"
+      },
+      {
+        "person_slug": "krassimir-dinev",
+        "role_slug": "giacomo-puccini/turandot/the-emperor-altoum-her-father"
+      },
+      {
+        "person_slug": "svetozar-rangelov",
+        "role_slug": "giacomo-puccini/turandot/timur-the-dispossessed-king-of-tartary"
+      },
+      {
+        "person_slug": "ekaterina-semenchuk",
+        "role_slug": "giacomo-puccini/turandot/turandot-chinese-princess"
+      }
+    ]
   }
 ]

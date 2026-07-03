@@ -259,48 +259,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "andreja-zidaric",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/angele-didier"
-      },
-      {
-        "person_slug": "peter-neustifter",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/armand-brissard"
-      },
-      {
-        "person_slug": "erwin-windegger",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/furst-basil-basilowitsch"
-      },
-      {
-        "person_slug": "dagmar-hellberg",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/grafin-mathilde-von-luxemburg"
-      },
-      {
-        "person_slug": "sophia-keiler",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/juliette-vermont"
-      },
-      {
-        "person_slug": "gregor-reinhold",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/pawel-von-pawlowitsch-portier-des-hotel-pain-regieassistent"
-      },
-      {
-        "person_slug": "alexander-franzen",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/pelegrin-schaffner-theaterdirektor"
-      },
-      {
-        "person_slug": "daniel-prohaska",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/rene-graf-von-luxemburg"
-      },
-      {
-        "person_slug": "jeremy-boulton",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
-      },
-      {
-        "person_slug": "juho-sten",
-        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "staatstheater-am-gaertnerplatz/der-liebestrank",
