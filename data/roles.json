@@ -5280,6 +5280,51 @@
     "name": "Geïnspireerd op"
   },
   {
+    "slug": "charles-camille-saint-saens/henry-viii/anna-bolena",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Anna Bolena"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/catherine",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Catherine"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/don-gomez",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Don Gomez"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/erzbischof-cranmer",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Erzbischof Cranmer"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/graf-surrey",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Graf Surrey"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/henry-viii",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Henry VIII."
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/herzog-norfolk",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Herzog Norfolk"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/kardinal",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Kardinal"
+  },
+  {
+    "slug": "charles-camille-saint-saens/henry-viii/lady-clearance",
+    "work_slug": "charles-camille-saint-saens/henry-viii",
+    "name": "Lady Clearance"
+  },
+  {
     "slug": "charles-francois-gounod/romeo-y-julieta/benvolio",
     "work_slug": "charles-francois-gounod/romeo-y-julieta",
     "name": "Benvolio"
@@ -6853,6 +6898,11 @@
     "slug": "da-capo-al-fine/kunstlerische-leitung-organisation",
     "work_slug": "da-capo-al-fine",
     "name": "Künstlerische Leitung / Organisation"
+  },
+  {
+    "slug": "dalle-due-alle-tre/mit",
+    "work_slug": "dalle-due-alle-tre",
+    "name": "Mit"
   },
   {
     "slug": "daniel-bjarnason/passion-of-the-common-man/bariton",
@@ -9653,6 +9703,11 @@
     "slug": "engelbert-humperdinck/dornroschen/sounddesign",
     "work_slug": "engelbert-humperdinck/dornroschen",
     "name": "Sounddesign"
+  },
+  {
+    "slug": "engelbert-humperdinck/dornroschen/video-und-livekamera",
+    "work_slug": "engelbert-humperdinck/dornroschen",
+    "name": "Video und Livekamera"
   },
   {
     "slug": "engelbert-humperdinck/hansel-and-gretel/characters-and-cast",
@@ -13908,6 +13963,41 @@
     "slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis/tempo",
     "work_slug": "georg-friedrich-handel/der-triumph-von-zeit-und-erkenntnis",
     "name": "Tempo"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/emilia-tochter-lotarios",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Emilia, Tochter Lotarios"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/flavio-konig-der-langobarden",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Flavio, König der Langobarden"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/guido-ugones-sohn",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Guido, Ugones Sohn"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/lotario-ein-ratgeber-des-konigs",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Lotario, ein Ratgeber des Königs"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/teodata-ugones-tochter",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Teodata, Ugones Tochter"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/ugone-ein-ratgeber-des-konigs",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Ugone, ein Ratgeber des Königs"
+  },
+  {
+    "slug": "georg-friedrich-handel/flavio-re-de-longobardi/vitige-teodates-geliebter-adjutant-des-konigs",
+    "work_slug": "georg-friedrich-handel/flavio-re-de-longobardi",
+    "name": "Vitige, Teodates Geliebter, Adjutant des Königs"
   },
   {
     "slug": "georg-friedrich-handel/flavio/emilia",
@@ -20365,6 +20455,11 @@
     "name": "Philippe II."
   },
   {
+    "slug": "giuseppe-verdi/falstaff/alice",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Alice"
+  },
+  {
     "slug": "giuseppe-verdi/falstaff/alice-ford",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "ALICE FORD"
@@ -20378,6 +20473,11 @@
     "slug": "giuseppe-verdi/falstaff/bardolfo",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "BARDOLFO"
+  },
+  {
+    "slug": "giuseppe-verdi/falstaff/cajus",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Cajus"
   },
   {
     "slug": "giuseppe-verdi/falstaff/dame-quickly",
@@ -20430,6 +20530,11 @@
     "name": "From the play \"The Merry Wives of Windsor\" by"
   },
   {
+    "slug": "giuseppe-verdi/falstaff/meg",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Meg"
+  },
+  {
     "slug": "giuseppe-verdi/falstaff/meg-page",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "MEG PAGE"
@@ -20455,6 +20560,11 @@
     "name": "Mrs. Quickly"
   },
   {
+    "slug": "giuseppe-verdi/falstaff/nanetta",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Nanetta"
+  },
+  {
     "slug": "giuseppe-verdi/falstaff/nannetta",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "NANNETTA"
@@ -20468,6 +20578,11 @@
     "slug": "giuseppe-verdi/falstaff/pistola",
     "work_slug": "giuseppe-verdi/falstaff",
     "name": "PISTOLA"
+  },
+  {
+    "slug": "giuseppe-verdi/falstaff/quickly",
+    "work_slug": "giuseppe-verdi/falstaff",
+    "name": "Quickly"
   },
   {
     "slug": "giuseppe-verdi/falstaff/sir-john-falstaff",
@@ -26555,14 +26670,34 @@
     "name": "CGI Artist"
   },
   {
+    "slug": "jean-philippe-rameau/castor-et-pollux/es-spielt-die",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "name": "Es spielt die"
+  },
+  {
     "slug": "jean-philippe-rameau/castor-et-pollux/grand-pretre",
     "work_slug": "jean-philippe-rameau/castor-et-pollux",
     "name": "Grand Prêtre"
   },
   {
+    "slug": "jean-philippe-rameau/castor-et-pollux/jupiter",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "name": "Jupiter"
+  },
+  {
     "slug": "jean-philippe-rameau/castor-et-pollux/jupiter-une-voix",
     "work_slug": "jean-philippe-rameau/castor-et-pollux",
     "name": "Jupiter | Une voix"
+  },
+  {
+    "slug": "jean-philippe-rameau/castor-et-pollux/le-grand-pretre",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "name": "Le Grand-Prêtre"
+  },
+  {
+    "slug": "jean-philippe-rameau/castor-et-pollux/mercure",
+    "work_slug": "jean-philippe-rameau/castor-et-pollux",
+    "name": "Mercure"
   },
   {
     "slug": "jean-philippe-rameau/castor-et-pollux/mercure-athlete-une-autre-voix",
@@ -31145,9 +31280,24 @@
     "name": "Violino"
   },
   {
+    "slug": "leos-janacek-thomas-ades/vanishings/inszenierung-und-licht",
+    "work_slug": "leos-janacek-thomas-ades/vanishings",
+    "name": "Inszenierung und Licht"
+  },
+  {
     "slug": "leos-janacek-thomas-ades/vanishings/mitarbeit-buhne",
     "work_slug": "leos-janacek-thomas-ades/vanishings",
     "name": "Mitarbeit Bühne"
+  },
+  {
+    "slug": "leos-janacek-thomas-ades/vanishings/soloklavier",
+    "work_slug": "leos-janacek-thomas-ades/vanishings",
+    "name": "Soloklavier"
+  },
+  {
+    "slug": "leos-janacek-thomas-ades/vanishings/video-buhne-mitarbeit",
+    "work_slug": "leos-janacek-thomas-ades/vanishings",
+    "name": "Video/Bühne (Mitarbeit)"
   },
   {
     "slug": "leos-janacek-thomas-ades/vanishings/vortrag",
@@ -32218,6 +32368,11 @@
     "slug": "ludwig-van-beethoven/fidelio/florestan-a-prisoner",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "name": "Florestan, a prisoner"
+  },
+  {
+    "slug": "ludwig-van-beethoven/fidelio/florestan-roman-payer-pizarro",
+    "work_slug": "ludwig-van-beethoven/fidelio",
+    "name": "Florestan Roman Payer Pizarro"
   },
   {
     "slug": "ludwig-van-beethoven/fidelio/gefangener",
@@ -34975,6 +35130,11 @@
     "name": "Petrowna"
   },
   {
+    "slug": "nikolai-rimski-korsakow/die-zarenbraut/saburowa",
+    "work_slug": "nikolai-rimski-korsakow/die-zarenbraut",
+    "name": "Saburowa"
+  },
+  {
     "slug": "nikolai-rimski-korsakow/die-zarenbraut/sobakin",
     "work_slug": "nikolai-rimski-korsakow/die-zarenbraut",
     "name": "Sobakin"
@@ -35013,6 +35173,11 @@
     "slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/petrowna",
     "work_slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut",
     "name": "Petrowna"
+  },
+  {
+    "slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/saburowa",
+    "work_slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut",
+    "name": "Saburowa"
   },
   {
     "slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/sobakin",
@@ -43775,6 +43940,31 @@
     "name": "Puck, ein herzkrankes Mädchen"
   },
   {
+    "slug": "semper-bar-manfred-wei-guests/begleitung",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "name": "Begleitung"
+  },
+  {
+    "slug": "semper-bar-manfred-wei-guests/moderation",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "name": "Moderation"
+  },
+  {
+    "slug": "semper-bar-manfred-wei-guests/musikalischer-leiter",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "name": "Musikalischer Leiter"
+  },
+  {
+    "slug": "semper-bar-manfred-wei-guests/solist",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "name": "Solist"
+  },
+  {
+    "slug": "semper-bar-manfred-wei-guests/solistin",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "name": "Solistin"
+  },
+  {
     "slug": "semper-bar-valerie-eickhoff-singt-starke-frauen/solistin",
     "work_slug": "semper-bar-valerie-eickhoff-singt-starke-frauen",
     "name": "Solistin"
@@ -45750,6 +45940,11 @@
     "name": "Mit"
   },
   {
+    "slug": "tristan-und-isolde/brangane",
+    "work_slug": "tristan-und-isolde",
+    "name": "Brangäne"
+  },
+  {
     "slug": "tristan-und-isolde/einstudierung-chor",
     "work_slug": "tristan-und-isolde",
     "name": "Einstudierung Chor"
@@ -47108,6 +47303,11 @@
     "slug": "walter-kaufmann/heute-nacht-fraulein/piccolo",
     "work_slug": "walter-kaufmann/heute-nacht-fraulein",
     "name": "Piccolo"
+  },
+  {
+    "slug": "wandel/konzept-und-moderation",
+    "work_slug": "wandel",
+    "name": "Konzept und Moderation"
   },
   {
     "slug": "weihnachtskonzert-opernfreunde/musikal-leitung",
@@ -48805,6 +49005,11 @@
     "name": "Tito Vespasiano"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/titus",
+    "work_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito",
+    "name": "Titus"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/vitellia",
     "work_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito",
     "name": "Vitellia"
@@ -49978,6 +50183,11 @@
     "slug": "zoltan-kodaly/johnny-hary/miss-zsoka",
     "work_slug": "zoltan-kodaly/johnny-hary",
     "name": "Miss Zsóka"
+  },
+  {
+    "slug": "zsofia-taller/leander-and-linseed/berry",
+    "work_slug": "zsofia-taller/leander-and-linseed",
+    "name": "Berry"
   },
   {
     "slug": "zsofia-taller/leander-and-linseed/chickbeak",

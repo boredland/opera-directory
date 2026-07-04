@@ -304,6 +304,10 @@
         "role_slug": "nikolai-rimski-korsakow/die-zarenbraut/petrowna"
       },
       {
+        "person_slug": "elena-zaremba",
+        "role_slug": "nikolai-rimski-korsakow/die-zarenbraut/saburowa"
+      },
+      {
         "person_slug": "rafa-siwek",
         "role_slug": "nikolai-rimski-korsakow/die-zarenbraut/sobakin"
       }
@@ -1187,6 +1191,10 @@
       {
         "person_slug": "lauri-vasar",
         "role_slug": "giacomo-puccini/manon-lescaut/lescaut"
+      },
+      {
+        "person_slug": "joshua-guerrero",
+        "role_slug": "giacomo-puccini/manon-lescaut/renato-des-grieux"
       }
     ]
   },
@@ -1661,6 +1669,10 @@
         "role_slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/petrowna"
       },
       {
+        "person_slug": "elena-zaremba",
+        "role_slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/saburowa"
+      },
+      {
         "person_slug": "rafa-siwek",
         "role_slug": "nikolai-rimski-korsakow/staatsoper-fur-alle-live-ubertragung-die-zarenbraut/sobakin"
       }
@@ -1769,6 +1781,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "irene-roberts",
+        "role_slug": "tristan-und-isolde/brangane"
+      },
       {
         "person_slug": "dani-juris",
         "role_slug": "tristan-und-isolde/einstudierung-chor"

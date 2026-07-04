@@ -127,6 +127,10 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "franz-obermair",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "daniel-reith",
         "function": "conductor"
       },
@@ -273,7 +277,7 @@
         "function": "choreographer"
       },
       {
-        "person_slug": "elena-pierini",
+        "person_slug": "franz-obermair",
         "function": "chorus-master"
       },
       {
@@ -702,6 +706,10 @@
       {
         "person_slug": "michael-wagner",
         "role_slug": "richard-wagner/lohengrin/heinrich-der-vogler"
+      },
+      {
+        "person_slug": "n-n-oper",
+        "role_slug": "richard-wagner/lohengrin/herzog-gottfried"
       },
       {
         "person_slug": "marco-jentzsch",
@@ -1162,30 +1170,30 @@
     "detail_url": "https://www.landestheater-linz.at/stuecke/detail?ref=202620272006",
     "creative_team": [
       {
+        "person_slug": "ingmar-beck",
+        "function": "conductor"
+      },
+      {
         "person_slug": "bianca-sarah-stummer",
         "function": "costume-designer"
       },
       {
-        "person_slug": "lukas-hemleb",
-        "function": "director"
-      },
-      {
         "person_slug": "margherita-palli",
         "function": "set-designer"
-      },
-      {
-        "person_slug": "luca-scarzella",
-        "function": "video-designer"
       }
     ],
     "cast": [
       {
-        "person_slug": "marco-cristini",
-        "role_slug": "leos-janacek-thomas-ades/vanishings/mitarbeit-buhne"
+        "person_slug": "lukas-hemleb",
+        "role_slug": "leos-janacek-thomas-ades/vanishings/inszenierung-und-licht"
       },
       {
-        "person_slug": "anna-maria-jurisch",
-        "role_slug": "leos-janacek-thomas-ades/vanishings/vortrag"
+        "person_slug": "daniel-strahilevitz",
+        "role_slug": "leos-janacek-thomas-ades/vanishings/soloklavier"
+      },
+      {
+        "person_slug": "marco-cristini",
+        "role_slug": "leos-janacek-thomas-ades/vanishings/video-buhne-mitarbeit"
       }
     ]
   },

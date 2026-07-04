@@ -2664,8 +2664,24 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-hamburg/konzert-2147484971-club-zone-schall-und-rau-s-ch/2026-12-04/18:00",
+    "production_id": "staatsoper-hamburg/konzert-2147484971-club-zone-schall-und-rau-s-ch",
+    "date": "2026-12-04",
+    "time": "18:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-hamburg/konzert-2147484978-club-zone-2-zurueck-in-die-zukunft/2027-05-21/18:00",
     "production_id": "staatsoper-hamburg/konzert-2147484978-club-zone-2-zurueck-in-die-zukunft",
+    "date": "2027-05-21",
+    "time": "18:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484978-club-zone-zurueck-in-die-zukunft/2027-05-21/18:00",
+    "production_id": "staatsoper-hamburg/konzert-2147484978-club-zone-zurueck-in-die-zukunft",
     "date": "2027-05-21",
     "time": "18:00",
     "venue_room": "Staatsoper, opera stabile",
@@ -4012,6 +4028,46 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand/2027-04-30/16:00",
+    "production_id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "date": "2027-04-30",
+    "time": "16:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand/2027-05-04/16:00",
+    "production_id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "date": "2027-05-04",
+    "time": "16:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand/2027-05-09/15:00",
+    "production_id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "date": "2027-05-09",
+    "time": "15:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand/2027-05-13/11:00",
+    "production_id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "date": "2027-05-13",
+    "time": "11:00",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand/2027-05-15/14:30",
+    "production_id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "date": "2027-05-15",
+    "time": "14:30",
+    "venue_room": "Staatsoper, opera stabile",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-hamburg/oper-2147484988-fuehrungen-fuer-weiterfuehrende-schulen/2026-11-06/09:00",
     "production_id": "staatsoper-hamburg/oper-2147484988-fuehrungen-fuer-weiterfuehrende-schulen",
     "date": "2026-11-06",
@@ -4065,6 +4121,70 @@
     "date": "2026-06-20",
     "time": "13:45",
     "venue_room": "auswärtiges Gastspiel",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2026-10-29/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2026-10-29",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2026-11-26/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2026-11-26",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2026-12-17/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2026-12-17",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2027-01-28/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2027-01-28",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2027-02-25/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2027-02-25",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2027-03-25/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2027-03-25",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre/2027-04-22/14:00",
+    "production_id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "date": "2027-04-22",
+    "time": "14:00",
+    "venue_room": "Staatsoper, Eingangsfoyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485007-volle-fahrt-gegen-den-sturm/2027-05-26/19:00",
+    "production_id": "staatsoper-hamburg/oper-2147485007-volle-fahrt-gegen-den-sturm",
+    "date": "2027-05-26",
+    "time": "19:00",
+    "venue_room": "Kuppel Hamburg",
     "status": "scheduled"
   },
   {

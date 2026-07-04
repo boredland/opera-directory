@@ -43,7 +43,40 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "ronan-caillet-aleksey-kursanov",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/castor"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/es-spielt-die"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/jupiter"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/le-grand-pretre"
+      },
+      {
+        "person_slug": "hannah-gries",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/mercure"
+      },
+      {
+        "person_slug": "sara-maria-saalmann",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/phebe"
+      },
+      {
+        "person_slug": "johannes-mooser",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/pollux"
+      },
+      {
+        "person_slug": "lubov-karetnikova",
+        "role_slug": "jean-philippe-rameau/castor-et-pollux/telaire"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/das-rheingold",
@@ -73,7 +106,64 @@
         "function": "Umsetzung Kostüme, Ausstattungsassistenz"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "shin-taniguchi",
+        "role_slug": "richard-wagner/das-rheingold/alberich"
+      },
+      {
+        "person_slug": "mark-hightower-johannes-mooser",
+        "role_slug": "richard-wagner/das-rheingold/donner"
+      },
+      {
+        "person_slug": "abongile-fumba-tamta-tarielashvili",
+        "role_slug": "richard-wagner/das-rheingold/erda"
+      },
+      {
+        "person_slug": "selcuk-hakan-tirasoglu",
+        "role_slug": "richard-wagner/das-rheingold/fafner"
+      },
+      {
+        "person_slug": "keith-klein-mark-hightower",
+        "role_slug": "richard-wagner/das-rheingold/fasolt"
+      },
+      {
+        "person_slug": "julia-rutigliano-marianne-schechtel",
+        "role_slug": "richard-wagner/das-rheingold/flo-hilde"
+      },
+      {
+        "person_slug": "lubov-karetnikova-katrina-felsberga",
+        "role_slug": "richard-wagner/das-rheingold/freia"
+      },
+      {
+        "person_slug": "abongile-fumba-marianne-schechtel",
+        "role_slug": "richard-wagner/das-rheingold/fricka"
+      },
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "richard-wagner/das-rheingold/froh"
+      },
+      {
+        "person_slug": "john-heuzenroeder",
+        "role_slug": "richard-wagner/das-rheingold/loge"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "richard-wagner/das-rheingold/mime"
+      },
+      {
+        "person_slug": "sara-maria-saalmann",
+        "role_slug": "richard-wagner/das-rheingold/wellgunde"
+      },
+      {
+        "person_slug": "hannah-gries",
+        "role_slug": "richard-wagner/das-rheingold/woglinde"
+      },
+      {
+        "person_slug": "albert-pesendorfer",
+        "role_slug": "richard-wagner/das-rheingold/wotan"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/der-freischuetz",
@@ -162,11 +252,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "kens-lui",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "roman-david-rothenaicher-christopher-vazan",
+        "person_slug": "roman-david-rothenaicher-noori-cho",
         "function": "conductor"
       },
       {
@@ -182,11 +268,76 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "gmd-killian-farrell",
+        "function": "Musikalische Einstudierung"
+      },
+      {
         "person_slug": "peter-engel",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "elke-buchner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau"
+      },
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-beider-sohn"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/es-spielt-die"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-bacsi"
+      },
+      {
+        "person_slug": "matthias-herold",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/furst-lippert-weylersheim"
+      },
+      {
+        "person_slug": "tobias-glagau-johannes-mooser",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancianu"
+      },
+      {
+        "person_slug": "yannik-schiller",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/groom"
+      },
+      {
+        "person_slug": "hans-gebhardt-yannik-schiller-raphael-hering-sang-seon-won-mikko-jarviluoto-tarik-akman-andreas-kalmbach-matthias-richter",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/kavaliere"
+      },
+      {
+        "person_slug": "silvio-wild",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/kiss-notar"
+      },
+      {
+        "person_slug": "hannah-gries",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/komtesse-stasi"
+      },
+      {
+        "person_slug": "matthias-richter",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/macgrave-botschafter"
+      },
+      {
+        "person_slug": "sylvia-hofmann-charlotte-khuner-hyeyoung-kim-aisling-mccarthy-anna-theresa-torgersen-dana-hinz-yerim-park-christiane-schroter-rosica-vogel-sophia-oertel",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/madis"
+      },
+      {
+        "person_slug": "steffen-kollner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/oberleutnant-von-rohnsdorff"
+      },
+      {
+        "person_slug": "lena-kutzner",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+      },
+      {
+        "person_slug": "elena-zanato-antonia-selow-andrea-de-marzo-balazs-szijarto",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/tanzpaar"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/falstaff",
@@ -216,7 +367,48 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "lubov-karetnikova",
+        "role_slug": "giuseppe-verdi/falstaff/alice"
+      },
+      {
+        "person_slug": "isaac-lee",
+        "role_slug": "giuseppe-verdi/falstaff/bardolfo"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "giuseppe-verdi/falstaff/cajus"
+      },
+      {
+        "person_slug": "simon-bailey",
+        "role_slug": "giuseppe-verdi/falstaff/falstaff"
+      },
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "giuseppe-verdi/falstaff/fenton"
+      },
+      {
+        "person_slug": "shin-taniguchi",
+        "role_slug": "giuseppe-verdi/falstaff/ford"
+      },
+      {
+        "person_slug": "sara-maria-saalmann",
+        "role_slug": "giuseppe-verdi/falstaff/meg"
+      },
+      {
+        "person_slug": "hannah-gries",
+        "role_slug": "giuseppe-verdi/falstaff/nanetta"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "giuseppe-verdi/falstaff/pistola"
+      },
+      {
+        "person_slug": "abongile-fumba",
+        "role_slug": "giuseppe-verdi/falstaff/quickly"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/flavio-re-de-longobardi",
@@ -225,6 +417,10 @@
     "is_revival": false,
     "detail_url": "https://www.staatstheater-meiningen.de/produktionen/flavio-re-de-longobardi.html",
     "creative_team": [
+      {
+        "person_slug": "camille-delaforge",
+        "function": "conductor"
+      },
       {
         "person_slug": "camille-delaforge",
         "function": "conductor"
@@ -246,7 +442,36 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "lubov-karetnikova-katrina-felsberga",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/emilia-tochter-lotarios"
+      },
+      {
+        "person_slug": "remy-bres-feuillet-lidor-mesika",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/flavio-konig-der-langobarden"
+      },
+      {
+        "person_slug": "max-emanuel-cencic-nicholas-tamagna",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/guido-ugones-sohn"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/lotario-ein-ratgeber-des-konigs"
+      },
+      {
+        "person_slug": "abongile-fumba",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/teodata-ugones-tochter"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/ugone-ein-ratgeber-des-konigs"
+      },
+      {
+        "person_slug": "sara-maria-saalmann",
+        "role_slug": "georg-friedrich-handel/flavio-re-de-longobardi/vitige-teodates-geliebter-adjutant-des-konigs"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/henry-viii",
@@ -276,7 +501,44 @@
         "function": "dramaturgy"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "abongile-fumba",
+        "role_slug": "charles-camille-saint-saens/henry-viii/anna-bolena"
+      },
+      {
+        "person_slug": "lena-kutzner",
+        "role_slug": "charles-camille-saint-saens/henry-viii/catherine"
+      },
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "charles-camille-saint-saens/henry-viii/don-gomez"
+      },
+      {
+        "person_slug": "johannes-mooser",
+        "role_slug": "charles-camille-saint-saens/henry-viii/erzbischof-cranmer"
+      },
+      {
+        "person_slug": "isaac-lee",
+        "role_slug": "charles-camille-saint-saens/henry-viii/graf-surrey"
+      },
+      {
+        "person_slug": "shin-taniguchi",
+        "role_slug": "charles-camille-saint-saens/henry-viii/henry-viii"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "charles-camille-saint-saens/henry-viii/herzog-norfolk"
+      },
+      {
+        "person_slug": "selcuk-hakan-tirasoglu",
+        "role_slug": "charles-camille-saint-saens/henry-viii/kardinal"
+      },
+      {
+        "person_slug": "taylor-haines",
+        "role_slug": "charles-camille-saint-saens/henry-viii/lady-clearance"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/historia-von-d-johann-fausten",
@@ -381,7 +643,32 @@
         "function": "Regie, Bühne, Kostüme"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "marianne-schechtel",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/annio"
+      },
+      {
+        "person_slug": "keith-klein",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/publio"
+      },
+      {
+        "person_slug": "hannah-gries",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/servilia"
+      },
+      {
+        "person_slug": "sara-maria-saalmann",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/sesto"
+      },
+      {
+        "person_slug": "garrett-evers-isaac-lee",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/titus"
+      },
+      {
+        "person_slug": "lubov-karetnikova",
+        "role_slug": "wolfgang-amadeus-mozart/la-clemenza-di-tito/vitellia"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/otello",
@@ -399,11 +686,7 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "christopher-vazan",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "gmd-killian-farrell",
+        "person_slug": "n-n",
         "function": "conductor"
       },
       {
@@ -411,11 +694,56 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "gmd-killian-farrell",
+        "function": "Musikalische Einstudierung"
+      },
+      {
         "person_slug": "hinrich-horstkotte",
         "function": "Regie, Bühne, Kostüme"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "garrett-evers",
+        "role_slug": "giuseppe-verdi/otello/cassio"
+      },
+      {
+        "person_slug": "taylor-haines",
+        "role_slug": "giuseppe-verdi/otello/desdemonda"
+      },
+      {
+        "person_slug": "hans-gebhardt",
+        "role_slug": "giuseppe-verdi/otello/ein-herold"
+      },
+      {
+        "person_slug": "tamta-tarielashvili",
+        "role_slug": "giuseppe-verdi/otello/emilia"
+      },
+      {
+        "person_slug": "meininger-hofkapelle",
+        "role_slug": "giuseppe-verdi/otello/es-spielt-die"
+      },
+      {
+        "person_slug": "shin-taniguchi",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "keith-klein-selcuk-hakan-tirasoglu",
+        "role_slug": "giuseppe-verdi/otello/lodovico"
+      },
+      {
+        "person_slug": "mark-hightower",
+        "role_slug": "giuseppe-verdi/otello/montano"
+      },
+      {
+        "person_slug": "isaac-lee",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "tobias-glagau",
+        "role_slug": "giuseppe-verdi/otello/roderigo"
+      }
+    ]
   },
   {
     "id": "staatstheater-meiningen/riemannoper",

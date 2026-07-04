@@ -455,6 +455,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/new-waves-841/2026-07-06/20:00",
+    "production_id": "oper-leipzig/new-waves-841",
+    "date": "2026-07-06",
+    "time": "20:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/pique-dame-740/2026-06-20/19:00",
     "production_id": "oper-leipzig/pique-dame-740",
     "date": "2026-06-20",
@@ -739,6 +746,13 @@
     "production_id": "oper-leipzig/yamato-866",
     "date": "2026-07-04",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/yamato-866/2026-07-05/14:00",
+    "production_id": "oper-leipzig/yamato-866",
+    "date": "2026-07-05",
+    "time": "14:00",
     "status": "scheduled"
   }
 ]

@@ -1522,38 +1522,6 @@
     ],
     "cast": [
       {
-        "person_slug": "matias-oberlin",
-        "role_slug": "die-mowe/boris-alexejewitsch-trigorin"
-      },
-      {
-        "person_slug": "hamburg-ballett",
-        "role_slug": "die-mowe/ensemble"
-      },
-      {
-        "person_slug": "florian-pohl",
-        "role_slug": "die-mowe/ilja-afanassewitsch-schamrajew"
-      },
-      {
-        "person_slug": "anna-laudere",
-        "role_slug": "die-mowe/irina-nikolajewna-arkadina"
-      },
-      {
-        "person_slug": "joaquin-angelucci",
-        "role_slug": "die-mowe/jewgenij-sergejewitsch-dorn"
-      },
-      {
-        "person_slug": "petar-kostov",
-        "role_slug": "die-mowe/klavier"
-      },
-      {
-        "person_slug": "louis-musin",
-        "role_slug": "die-mowe/konstantin-kostja"
-      },
-      {
-        "person_slug": "xue-lin",
-        "role_slug": "die-mowe/mascha"
-      },
-      {
         "person_slug": "alexander-skrjabin",
         "role_slug": "die-mowe/musik"
       },
@@ -1570,24 +1538,8 @@
         "role_slug": "die-mowe/musik"
       },
       {
-        "person_slug": "ana-torrequebrada",
-        "role_slug": "die-mowe/nina-michajlowna-saretschnaja"
-      },
-      {
         "person_slug": "philhar-shy-mo-shy-nisches-staats-shy-orchester-hamburg",
         "role_slug": "die-mowe/orchester"
-      },
-      {
-        "person_slug": "louis-haslach",
-        "role_slug": "die-mowe/pjotr-nikolajewitsch-sorin"
-      },
-      {
-        "person_slug": "ida-stempelmann",
-        "role_slug": "die-mowe/polina-andrejewna"
-      },
-      {
-        "person_slug": "lennard-giesenberg",
-        "role_slug": "die-mowe/semjon-semjonowitsch-medwedenko"
       }
     ]
   },
@@ -2618,7 +2570,12 @@
         "function": "conductor"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "karin-meissl",
+        "role_slug": "wandel/konzept-und-moderation"
+      }
+    ]
   },
   {
     "id": "staatsoper-hamburg/konzert-2147484966-kids-only-1-ich-du-wir",
@@ -2672,11 +2629,29 @@
     "cast": []
   },
   {
+    "id": "staatsoper-hamburg/konzert-2147484971-club-zone-schall-und-rau-s-ch",
+    "work_slug": "club-zone-schall-und-rau-s-ch",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484971-club-zone-schall-und-rau-s-ch",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-hamburg/konzert-2147484978-club-zone-2-zurueck-in-die-zukunft",
     "work_slug": "club-zone-2-zuruck-in-die-zukunft",
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484978-club-zone-2-zurueck-in-die-zukunft",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/konzert-2147484978-club-zone-zurueck-in-die-zukunft",
+    "work_slug": "club-zone-zuruck-in-die-zukunft",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/konzert/2147484978-club-zone-zurueck-in-die-zukunft",
     "creative_team": [],
     "cast": []
   },
@@ -3608,6 +3583,10 @@
         "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
       },
       {
+        "person_slug": "lindsey-reynolds",
+        "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
+      },
+      {
         "person_slug": "malgorzata-bak",
         "role_slug": "engelbert-humperdinck/dornroschen/12-feen"
       },
@@ -3666,6 +3645,10 @@
       {
         "person_slug": "johannes-hofmann",
         "role_slug": "engelbert-humperdinck/dornroschen/sounddesign"
+      },
+      {
+        "person_slug": "andreas-deinert",
+        "role_slug": "engelbert-humperdinck/dornroschen/video-und-livekamera"
       }
     ]
   },
@@ -4254,6 +4237,24 @@
     "cast": []
   },
   {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand",
+    "work_slug": "ferdinand",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484987-ferdinand",
+    "creative_team": [
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "staatsoper-hamburg/oper-2147484988-fuehrungen-fuer-weiterfuehrende-schulen",
     "work_slug": "fuhrungen-fur-weiter-shy-fuhrende-schulen",
     "house_slug": "staatsoper-hamburg",
@@ -4286,6 +4287,33 @@
     "house_slug": "staatsoper-hamburg",
     "is_revival": false,
     "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147485001-ausgeflogen",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485006-dalle-due-alle-tre",
+    "work_slug": "dalle-due-alle-tre",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147485006-dalle-due-alle-tre",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "alice-merega-shy-glia",
+        "role_slug": "dalle-due-alle-tre/mit"
+      },
+      {
+        "person_slug": "mitglieder-des-chores-der-hamburgischen-staatsoper",
+        "role_slug": "dalle-due-alle-tre/mit"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-hamburg/oper-2147485007-volle-fahrt-gegen-den-sturm",
+    "work_slug": "volle-fahrt-gegen-den-sturm",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147485007-volle-fahrt-gegen-den-sturm",
     "creative_team": [],
     "cast": []
   },

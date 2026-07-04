@@ -134,6 +134,32 @@
     "cast": []
   },
   {
+    "id": "stadttheater-bremerhaven/hercules",
+    "work_slug": "georg-friedrich-handel/hercules",
+    "house_slug": "stadttheater-bremerhaven",
+    "is_revival": false,
+    "detail_url": "https://stadttheaterbremerhaven.de/hercules/",
+    "creative_team": [
+      {
+        "person_slug": "marco-comin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "isabel-hindersin",
+        "function": "director"
+      },
+      {
+        "person_slug": "markus-tatzig",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susana-mendoza",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "stadttheater-bremerhaven/luisa-miller",
     "work_slug": "giuseppe-verdi/luisa-miller",
     "house_slug": "stadttheater-bremerhaven",

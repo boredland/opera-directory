@@ -96,6 +96,22 @@
     "status": "scheduled"
   },
   {
+    "id": "stadttheater-bremerhaven/eine-nacht-in-venedig/2027-03-14/15:00",
+    "production_id": "stadttheater-bremerhaven/eine-nacht-in-venedig",
+    "date": "2027-03-14",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "stadttheater-bremerhaven/eine-nacht-in-venedig/2027-03-18/19:30",
+    "production_id": "stadttheater-bremerhaven/eine-nacht-in-venedig",
+    "date": "2027-03-18",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "stadttheater-bremerhaven/gold/2026-11-17/10:30",
     "production_id": "stadttheater-bremerhaven/gold",
     "date": "2026-11-17",
@@ -149,6 +165,14 @@
     "date": "2026-12-03",
     "time": "10:30",
     "venue_room": "JUB",
+    "status": "scheduled"
+  },
+  {
+    "id": "stadttheater-bremerhaven/hercules/2027-03-30/18:30",
+    "production_id": "stadttheater-bremerhaven/hercules",
+    "date": "2027-03-30",
+    "time": "18:30",
+    "venue_room": "Großes Haus",
     "status": "scheduled"
   },
   {
@@ -243,6 +267,22 @@
     "id": "stadttheater-bremerhaven/samson-et-dalila/2027-02-27/19:30",
     "production_id": "stadttheater-bremerhaven/samson-et-dalila",
     "date": "2027-02-27",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "stadttheater-bremerhaven/samson-et-dalila/2027-03-11/19:30",
+    "production_id": "stadttheater-bremerhaven/samson-et-dalila",
+    "date": "2027-03-11",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "stadttheater-bremerhaven/samson-et-dalila/2027-03-20/19:30",
+    "production_id": "stadttheater-bremerhaven/samson-et-dalila",
+    "date": "2027-03-20",
     "time": "19:30",
     "venue_room": "Großes Haus",
     "status": "scheduled"

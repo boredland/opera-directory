@@ -166,6 +166,14 @@
     "status": "scheduled"
   },
   {
+    "id": "landestheater-linz/die-csardasfurstin/2026-27/2026-10-22/19:30",
+    "production_id": "landestheater-linz/die-csardasfurstin/2026-27",
+    "date": "2026-10-22",
+    "time": "19:30",
+    "venue_room": "Großer Saal Musiktheater",
+    "status": "scheduled"
+  },
+  {
     "id": "landestheater-linz/die-csardasfurstin/2026-27/2026-10-24/19:30",
     "production_id": "landestheater-linz/die-csardasfurstin/2026-27",
     "date": "2026-10-24",
@@ -356,6 +364,13 @@
     "time": "19:30",
     "venue_room": "Großer Saal Musiktheater",
     "status": "scheduled"
+  },
+  {
+    "id": "landestheater-linz/don-pasquale/2025-26/2026-05-29/",
+    "production_id": "landestheater-linz/don-pasquale/2025-26",
+    "date": "2026-05-29",
+    "venue_room": "Großer Saal Musiktheater",
+    "status": "past"
   },
   {
     "id": "landestheater-linz/don-pasquale/2025-26/2026-06-17/19:30",

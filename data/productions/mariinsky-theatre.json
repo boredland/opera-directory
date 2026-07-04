@@ -190,7 +190,7 @@
         "role_slug": "hector-berlioz/benvenuto-cellini/giacomo-balducci"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "mikhail-petrenko",
         "role_slug": "hector-berlioz/benvenuto-cellini/pope-clement-vii"
       },
       {
@@ -331,7 +331,7 @@
     "premiere_date": "1893-01-18",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/13/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/cavalleria_r/savalleria_scene1_byrazina.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/cavalleria_r/sergan_cavalleria_rusticana_by_razina_1.jpg",
     "synopsis": "Based on the production by Arnaud Bernard. The Sicilian Quarter in New York, 1920s. Easter Sunday. Early morning. After a night spent with Lola, formerly his lover and now the wife of another man, Turiddu sings her a serenade at his departure. They go their separate ways, trying not to draw the attention of any passers-by. The day is warming up. The residents are coming to church for celebratory mass. Santuzza, Turiddu's betrothed, appears, tormented by jealous suspicions. She asks Lucia, Turiddu's mother, where the latter's son is; Lucia answers that on the eve of the celebration he set out for a neighbouring district to fetch wine. Their discussion is interrupted by the clamorous arrival of the merry fellow Alfio, Lola's husband; he has just returned from a trip and tells them of his business matters. A reference to Turiddu, whom Alfio recently saw near his home, confirms Santuzza in her guess. After the businessman has gone, Santuzza confides her fears to Lucia: Turiddu was once passionately in love with Lola and wanted to marry her but instead had to join the army; on his return, finding his former girlfriend married to Alfio, he was deeply saddened though he gradually developed feelings for Santuzza and they became engaged; on discovering this, Lola again resolved to charm Turiddu. Lucia, despairing at the news, goes to church and Santuzza remains to await her beloved, intent on extracting a confession from him. Turiddu arrives. Santuzza fires off her jealous accusations at him – he denies all, gives evasive answers and lies. As these declarations reach their height Lola appears and, singing a song, speaks with Turiddu in an ironical fashion. The women trade insults. After Lola departs, Santuzza again attempts to make her fiancé see reason, but he loses all self-control, spurns her and runs after the empty-headed flirt. In despair, the rejected Santuzza resolves to be avenged. Fate itself casts her into Alfio's path, and she reveals to him his wife's betrayal. ",
     "creative_team": [
       {
@@ -347,7 +347,28 @@
         "function": "costume-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "alexey-markov",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/alfio"
+      },
+      {
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/lola"
+      },
+      {
+        "person_slug": "elena-vitman",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/mamma-lucia"
+      },
+      {
+        "person_slug": "tatiana-serjan",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/santuzza"
+      },
+      {
+        "person_slug": "akhmed-agadi",
+        "role_slug": "pietro-mascagni/cavalleria-rusticana/turiddu"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-donjuan",
@@ -674,7 +695,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2025-07-08",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/3_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/25/3_1900/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/fanciulla_west/wildwest_banner.jpg",
     "synopsis": "A gold prospectors' camp at the foothills in California during the Gold Rush. Act I Dusk. In the Polka saloon, things are getting lively: the miners are assembling after their day's work. They are playing cards, exchanging news and ordering drinks and cigars. The bartender Nick is busy with his customers. The game stops when the local bard Jake Wallace sings a melancholy song and plunges everyone into nostalgia. Jim Larkens cannot stop crying; he is sick to the back teeth of this life and wants to go home. The lads all chip in to pay for his journey. Those playing cards discover a cheat and are ready to attack him. Sheriff Rance attaches a marked card to Sid's chest as a mark of shame and steers him out of the saloon. The Wells Fargo agent Ashby drops into the Polka and relates how his hunt for a band of Mexican bandits headed by Ramerrez is progressing. Meanwhile, a quarrel flares up between the sheriff and the prospector Sonora: both are claiming the favour of Minnie, the saloon's owner. A fight ensues. At the very height of the struggle, a revolver goes off – it is Minnie. The prospectors greet the beauty in delight. In order to atone for their guilt in what has happened, they bring her presents. The men gather around the girl for a lesson – to hear the Bible read. The pony express arrives with letters. Ashby is delighted with a message he has received: Ramerrez' lover tells him where the bandit will be that night. The prospectors all read their letters from family, while Nick tells of a peculiar stranger outside who is asking for whiskey and soda. Left alone with Minnie, the sheriff hastens to pour out his feelings. He admits that he has never loved anyone, but that now he would surrender all his treasure for just one kiss from her. Minnie dreams of another life, and she remembers her parents. The appearance of the stranger who calls himself Dick Johnson (it is actually Ramerrez) interrupts their conversation. The stranger recognises in Minnie the girl he once m",
     "creative_team": [
@@ -1236,7 +1257,7 @@
         "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fevroniya"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "anatoly-mikhailov",
         "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/fyodor-poyarok"
       },
       {
@@ -1244,7 +1265,7 @@
         "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/grishka-kuterma"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "alexander-trofimov",
         "role_slug": "nikolai-rimsky-korsakov/the-legend-of-the-invisible-city-of-kitezh-and-the-maiden-fevroniya/prince-vsevolod"
       },
       {
@@ -1294,7 +1315,7 @@
     ],
     "cast": [
       {
-        "person_slug": "tba",
+        "person_slug": "vladimir-vaneyev",
         "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/boris-ismailov"
       },
       {
@@ -1302,7 +1323,7 @@
         "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/katerina-ismailova"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "alexander-trofimov",
         "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/sergei"
       },
       {
@@ -1310,7 +1331,7 @@
         "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/the-priest"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "andrei-zorin",
         "role_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk/zinovy-ismailov"
       }
     ]
@@ -1716,7 +1737,7 @@
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/clara"
       },
       {
-        "person_slug": "denis-zakirov",
+        "person_slug": "sergei-semishkur",
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/don-jerome"
       },
       {

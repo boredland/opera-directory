@@ -1126,5 +1126,43 @@
     "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/tanz-film-cranko/62918.html",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "semperoper-dresden/62951",
+    "work_slug": "semper-bar-manfred-wei-guests",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/semper-bar-manfred-weiss/62951.html",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "hans-sotin",
+        "role_slug": "semper-bar-manfred-wei-guests/begleitung"
+      },
+      {
+        "person_slug": "manfred-wei",
+        "role_slug": "semper-bar-manfred-wei-guests/moderation"
+      },
+      {
+        "person_slug": "johannes-wulff-woesten",
+        "role_slug": "semper-bar-manfred-wei-guests/musikalischer-leiter"
+      },
+      {
+        "person_slug": "david-roy",
+        "role_slug": "semper-bar-manfred-wei-guests/solist"
+      },
+      {
+        "person_slug": "christiane-hossfeld",
+        "role_slug": "semper-bar-manfred-wei-guests/solistin"
+      },
+      {
+        "person_slug": "dalia-medovnikov",
+        "role_slug": "semper-bar-manfred-wei-guests/solistin"
+      },
+      {
+        "person_slug": "winona-martin",
+        "role_slug": "semper-bar-manfred-wei-guests/solistin"
+      }
+    ]
   }
 ]
