@@ -823,6 +823,41 @@
     "cast": []
   },
   {
+    "id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818",
+    "work_slug": "peter-lund/hexe-hillary-geht-in-die-oper",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/hexe-hillary-geht-in-die-oper/818",
+    "creative_team": [
+      {
+        "person_slug": "kathryn-bolitho",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "franziska-schumacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "kara-mckechnie",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hyeonsu-jung",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maria-gallo",
+        "role_slug": "peter-lund/hexe-hillary-geht-in-die-oper/hexe-hillary"
+      },
+      {
+        "person_slug": "friederike-meinke",
+        "role_slug": "peter-lund/hexe-hillary-geht-in-die-oper/maria-bellacanta"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/im-weien-rossl-798",
     "work_slug": "ralph-benatzky-robert-gilbert/im-wei-en-rossl",
     "house_slug": "oper-leipzig",
@@ -1713,5 +1748,40 @@
     "detail_url": "https://www.oper-leipzig.de/de/programm/yamato/866",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "oper-leipzig/zusammen-leipzig-madrid-zwei-chore-ein-klang-885",
+    "work_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/zusammen-leipzig-madrid-zwei-chore-ein-klang/885",
+    "creative_team": [
+      {
+        "person_slug": "ana-gonzalez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sophie-bauer",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kinder-und-jugendchor-der-oper-leipzig",
+        "role_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/chore"
+      },
+      {
+        "person_slug": "kinderchor-der-oper-madrid",
+        "role_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/chore"
+      },
+      {
+        "person_slug": "maria-hinze",
+        "role_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/klavier"
+      },
+      {
+        "person_slug": "conny-wolter",
+        "role_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/sprecherin"
+      }
+    ]
   }
 ]

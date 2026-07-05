@@ -1,5 +1,53 @@
 [
   {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-02/18:30",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-02",
+    "time": "18:30",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-04/19:00",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-04",
+    "time": "19:00",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-10/19:00",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-10",
+    "time": "19:00",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-17/19:00",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-17",
+    "time": "19:00",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-24/19:00",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-24",
+    "time": "19:00",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/lohengrin-html/2027-07-31/19:00",
+    "production_id": "opernfestspiele-heidenheim/lohengrin-html",
+    "date": "2027-07-31",
+    "time": "19:00",
+    "venue_room": "Festspielhaus CCH und Rittersaal Schloss Hellenstein",
+    "status": "scheduled"
+  },
+  {
     "id": "opernfestspiele-heidenheim/macbeth-html/2026-07-16/19:30",
     "production_id": "opernfestspiele-heidenheim/macbeth-html",
     "date": "2026-07-16",
@@ -13,6 +61,46 @@
     "date": "2026-07-18",
     "time": "19:30",
     "venue_room": "Festspielhaus CCH",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-3-html/2026-07-10/20:00",
+    "production_id": "opernfestspiele-heidenheim/otello-3-html",
+    "date": "2026-07-10",
+    "time": "20:00",
+    "venue_room": "Rittersaal Schloss Hellenstein/Festspielhaus CCH",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-3-html/2026-07-11/20:00",
+    "production_id": "opernfestspiele-heidenheim/otello-3-html",
+    "date": "2026-07-11",
+    "time": "20:00",
+    "venue_room": "Rittersaal Schloss Hellenstein/Festspielhaus CCH",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-3-html/2026-07-17/20:00",
+    "production_id": "opernfestspiele-heidenheim/otello-3-html",
+    "date": "2026-07-17",
+    "time": "20:00",
+    "venue_room": "Rittersaal Schloss Hellenstein/Festspielhaus CCH",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-3-html/2026-07-24/20:00",
+    "production_id": "opernfestspiele-heidenheim/otello-3-html",
+    "date": "2026-07-24",
+    "time": "20:00",
+    "venue_room": "Rittersaal Schloss Hellenstein/Festspielhaus CCH",
+    "status": "scheduled"
+  },
+  {
+    "id": "opernfestspiele-heidenheim/otello-3-html/2026-07-25/20:00",
+    "production_id": "opernfestspiele-heidenheim/otello-3-html",
+    "date": "2026-07-25",
+    "time": "20:00",
+    "venue_room": "Rittersaal Schloss Hellenstein/Festspielhaus CCH",
     "status": "scheduled"
   },
   {

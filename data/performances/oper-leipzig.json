@@ -133,6 +133,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/die-kleine-meerjungfrau-367/2026-09-08/10:00",
+    "production_id": "oper-leipzig/die-kleine-meerjungfrau-367",
+    "date": "2026-09-08",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -280,6 +287,34 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/hausfuhrung-oper-639/2026-10-10/14:00",
+    "production_id": "oper-leipzig/hausfuhrung-oper-639",
+    "date": "2026-10-10",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818/2026-09-03/11:00",
+    "production_id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818",
+    "date": "2026-09-03",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818/2026-09-04/11:00",
+    "production_id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818",
+    "date": "2026-09-04",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818/2026-09-06/15:00",
+    "production_id": "oper-leipzig/hexe-hillary-geht-in-die-oper-818",
+    "date": "2026-09-06",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/im-weien-rossl-798/2026-06-05/19:30",
     "production_id": "oper-leipzig/im-weien-rossl-798",
     "date": "2026-06-05",
@@ -312,6 +347,13 @@
     "production_id": "oper-leipzig/im-weien-rossl-798",
     "date": "2027-02-13",
     "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/im-weien-rossl-798/2027-02-14/15:00",
+    "production_id": "oper-leipzig/im-weien-rossl-798",
+    "date": "2027-02-14",
+    "time": "15:00",
     "status": "scheduled"
   },
   {
@@ -522,6 +564,13 @@
     "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
     "date": "2027-07-01",
     "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/pit-und-paula-frisch-versalzen-825/2027-07-03/11:00",
+    "production_id": "oper-leipzig/pit-und-paula-frisch-versalzen-825",
+    "date": "2027-07-03",
+    "time": "11:00",
     "status": "scheduled"
   },
   {
@@ -753,6 +802,13 @@
     "production_id": "oper-leipzig/yamato-866",
     "date": "2026-07-05",
     "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/zusammen-leipzig-madrid-zwei-chore-ein-klang-885/2026-09-04/18:00",
+    "production_id": "oper-leipzig/zusammen-leipzig-madrid-zwei-chore-ein-klang-885",
+    "date": "2026-09-04",
+    "time": "18:00",
     "status": "scheduled"
   }
 ]

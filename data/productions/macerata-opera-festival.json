@@ -1,5 +1,30 @@
 [
   {
+    "id": "macerata-opera-festival/carmina-burana/2026",
+    "work_slug": "carl-orff/carmina-burana",
+    "house_slug": "macerata-opera-festival",
+    "premiere_season": "2026",
+    "is_revival": false,
+    "detail_url": "https://www.sferisterio.it/macerata-opera-festival/carmina-burana-2026",
+    "image_url": "https://www.sferisterio.it/wp-content/uploads/2025/12/xCarminaWeb.jpg.pagespeed.ic.k8DMeZ-ou1.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ramon-tebar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "luca-agrani",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "annarosa-agostini",
+        "role_slug": "carl-orff/carmina-burana/preparatrice-vocale-dei-pueri-cantores"
+      }
+    ]
+  },
+  {
     "id": "macerata-opera-festival/il-barbiere-di-siviglia/2026",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "house_slug": "macerata-opera-festival",
@@ -21,6 +46,10 @@
         "function": "costume-designer"
       },
       {
+        "person_slug": "andrea-piazza",
+        "function": "director"
+      },
+      {
         "person_slug": "daniele-menghini",
         "function": "director"
       },
@@ -39,8 +68,20 @@
     ],
     "cast": [
       {
+        "person_slug": "marco-caudera",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/ambrogio"
+      },
+      {
+        "person_slug": "anastasia-crippa",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/assistente-ai-costumi"
+      },
+      {
         "person_slug": "giulia-mazzola",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/berta"
+      },
+      {
+        "person_slug": "claudia-foresi",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/cembalo"
       },
       {
         "person_slug": "marco-filippo-romano",
@@ -65,6 +106,10 @@
       {
         "person_slug": "raffaella-lupinacci",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      },
+      {
+        "person_slug": "davide-filipponi",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/un-ufficiale"
       }
     ]
   },
@@ -86,6 +131,10 @@
         "function": "director"
       },
       {
+        "person_slug": "fabiano-pistanti",
+        "function": "director"
+      },
+      {
         "person_slug": "francisco-negrin",
         "function": "director"
       },
@@ -103,6 +152,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "diego-mendez",
+        "role_slug": "giuseppe-verdi/il-trovatore/assistente-alle-scene-e-ai-costumi"
+      },
       {
         "person_slug": "sofija-petrovic",
         "role_slug": "giuseppe-verdi/il-trovatore/azucena"
@@ -124,12 +177,20 @@
         "role_slug": "giuseppe-verdi/il-trovatore/leonora"
       },
       {
-        "person_slug": "piero-pretti",
+        "person_slug": "hanyang-guo-31-luglio",
+        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
+      },
+      {
+        "person_slug": "piero-pretti-19-e-25-luglio",
         "role_slug": "giuseppe-verdi/il-trovatore/manrico"
       },
       {
         "person_slug": "simone-fenotti",
         "role_slug": "giuseppe-verdi/il-trovatore/ruiz"
+      },
+      {
+        "person_slug": "mauro-sagripanti",
+        "role_slug": "giuseppe-verdi/il-trovatore/un-messo"
       }
     ]
   },
@@ -159,6 +220,14 @@
         "function": "director"
       },
       {
+        "person_slug": "rudolf-buchmann",
+        "function": "director"
+      },
+      {
+        "person_slug": "ludovico-gobbi",
+        "function": "lighting"
+      },
+      {
         "person_slug": "benito-leonori",
         "function": "set-designer"
       },
@@ -179,6 +248,14 @@
       {
         "person_slug": "alessia-camarin",
         "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "tatiana-ragusa",
+        "role_slug": "giuseppe-verdi/nabucco/assistente-ai-costumi"
+      },
+      {
+        "person_slug": "lodovico-gennaro",
+        "role_slug": "giuseppe-verdi/nabucco/assistente-alle-scene"
       },
       {
         "person_slug": "laura-verrecchia",

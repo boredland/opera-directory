@@ -5075,6 +5075,11 @@
     "name": "Orchester"
   },
   {
+    "slug": "carl-orff/carmina-burana/preparatrice-vocale-dei-pueri-cantores",
+    "work_slug": "carl-orff/carmina-burana",
+    "name": "Preparatrice vocale dei Pueri Cantores"
+  },
+  {
     "slug": "carl-orff/carmina-burana/soprano",
     "work_slug": "carl-orff/carmina-burana",
     "name": "Soprano"
@@ -18155,6 +18160,11 @@
     "name": "Apprentice of Figaro"
   },
   {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/assistente-ai-costumi",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Assistente ai costumi"
+  },
+  {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/badische-philharmonie-pforzheim-musikalische-leitung",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "name": "Badische Philharmonie Pforzheim Musikalische Leitung"
@@ -18188,6 +18198,11 @@
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/berta-old-governess-in-bartolo-s-house",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "name": "Berta, old governess in Bartolo's house"
+  },
+  {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/cembalo",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Cembalo"
   },
   {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/conte-almaviva",
@@ -20695,6 +20710,11 @@
     "name": "Uno schiavo"
   },
   {
+    "slug": "giuseppe-verdi/il-trovatore/assistente-alle-scene-e-ai-costumi",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "name": "Assistente alle scene e ai costumi"
+  },
+  {
     "slug": "giuseppe-verdi/il-trovatore/azucena",
     "work_slug": "giuseppe-verdi/il-trovatore",
     "name": "Azucena"
@@ -22033,6 +22053,16 @@
     "slug": "giuseppe-verdi/nabucco/anna-rahel",
     "work_slug": "giuseppe-verdi/nabucco",
     "name": "Anna / Rahel"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/assistente-ai-costumi",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Assistente ai costumi"
+  },
+  {
+    "slug": "giuseppe-verdi/nabucco/assistente-alle-scene",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "name": "Assistente alle scene"
   },
   {
     "slug": "giuseppe-verdi/nabucco/baal-s-high-priest",
@@ -36495,6 +36525,16 @@
     "name": "Zeremonienmeister"
   },
   {
+    "slug": "peter-lund/hexe-hillary-geht-in-die-oper/hexe-hillary",
+    "work_slug": "peter-lund/hexe-hillary-geht-in-die-oper",
+    "name": "Hexe Hillary"
+  },
+  {
+    "slug": "peter-lund/hexe-hillary-geht-in-die-oper/maria-bellacanta",
+    "work_slug": "peter-lund/hexe-hillary-geht-in-die-oper",
+    "name": "Maria Bellacanta"
+  },
+  {
     "slug": "peter-lund/hillary-the-witch-goes-to-opera/costumed-repetiteur",
     "work_slug": "peter-lund/hillary-the-witch-goes-to-opera",
     "name": "Costumed Répétiteur"
@@ -50228,5 +50268,20 @@
     "slug": "zsofia-taller/leander-and-linseed/queen-baldemar",
     "work_slug": "zsofia-taller/leander-and-linseed",
     "name": "Queen Baldemar"
+  },
+  {
+    "slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/chore",
+    "work_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang",
+    "name": "Chöre"
+  },
+  {
+    "slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/klavier",
+    "work_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang",
+    "name": "Klavier"
+  },
+  {
+    "slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/sprecherin",
+    "work_slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang",
+    "name": "Sprecherin"
   }
 ]
