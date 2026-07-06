@@ -413,6 +413,101 @@
     ]
   },
   {
+    "id": "oper-leipzig/eroffnungskonzert-202627-879",
+    "work_slug": "eroffnungskonzert-2026-27",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/eroffnungskonzert-202627/879",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-oper-leipzig",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ivan-repusic",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gewandhausorchester",
+        "role_slug": "eroffnungskonzert-2026-27/orchester"
+      },
+      {
+        "person_slug": "brenden-gunnell",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "daniel-arnaldos",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "einar-dagur-jonsson",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "elbenita-kajtazi",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "franz-xaver-schlecht",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "gabriele-kupsyte",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "lucio-gallo",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "martin-muehle",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "mathias-hausmann",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "matthias-stier",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "maya-gour",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "olena-tokar",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "peter-dolinsek",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "sejong-chang",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "solen-mainguene",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "tomislav-jukic",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "ulrike-schneider",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      },
+      {
+        "person_slug": "yorck-felix-speer",
+        "role_slug": "eroffnungskonzert-2026-27/solist-in"
+      }
+    ]
+  },
+  {
     "id": "oper-leipzig/eurydike-795",
     "work_slug": "fran-diaz-krzysztof-penderecki-henryk-miko-aj-gorecki-u-a/eurydike",
     "house_slug": "oper-leipzig",
@@ -1582,6 +1677,15 @@
         "role_slug": "strangers-in-the-night/steppchoreografie"
       }
     ]
+  },
+  {
+    "id": "oper-leipzig/tag-der-offenen-tur-202627-906",
+    "work_slug": "tag-der-offenen-tur-2026-27",
+    "house_slug": "oper-leipzig",
+    "is_revival": false,
+    "detail_url": "https://www.oper-leipzig.de/de/programm/tag-der-offenen-tur-202627/906",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "oper-leipzig/the-producers-676",

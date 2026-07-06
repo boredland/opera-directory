@@ -222,7 +222,32 @@
         "function": "costume-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "anzhelika-minasova",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/amelia-grimaldi"
+      },
+      {
+        "person_slug": "igor-morozov",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/gabriele-adorno"
+      },
+      {
+        "person_slug": "yuri-vorobiev",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/jacopo-fiesco"
+      },
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/paolo-albiani"
+      },
+      {
+        "person_slug": "gleb-peryazev",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/pietro"
+      },
+      {
+        "person_slug": "vladislav-sulimsky",
+        "role_slug": "giuseppe-verdi/simon-boccanegra/simon-boccanegra"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-bohema",

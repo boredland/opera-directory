@@ -294,8 +294,79 @@
         "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
       },
       {
-        "person_slug": "sofia-poulopoulou",
+        "person_slug": "sophie-witte",
         "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/otello",
+    "work_slug": "giuseppe-verdi/otello",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/otello/",
+    "creative_team": [
+      {
+        "person_slug": "michael-preiser",
+        "function": "Chöre"
+      },
+      {
+        "person_slug": "mihkel-kutson",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "susanne-hubrich",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "roman-hovenbitzer",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-wendholz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "alfred-peter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "woongyi-lee",
+        "role_slug": "giuseppe-verdi/otello/cassio"
+      },
+      {
+        "person_slug": "sofia-poulopoulou",
+        "role_slug": "giuseppe-verdi/otello/desdemona"
+      },
+      {
+        "person_slug": "eva-maria-gunschmann",
+        "role_slug": "giuseppe-verdi/otello/emila"
+      },
+      {
+        "person_slug": "johannes-schwarsky",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "luka-brajnik",
+        "role_slug": "giuseppe-verdi/otello/jago"
+      },
+      {
+        "person_slug": "matthias-wippich",
+        "role_slug": "giuseppe-verdi/otello/lodovico"
+      },
+      {
+        "person_slug": "rafael-bruck",
+        "role_slug": "giuseppe-verdi/otello/montano"
+      },
+      {
+        "person_slug": "mickael-spadaccini",
+        "role_slug": "giuseppe-verdi/otello/otello"
+      },
+      {
+        "person_slug": "ramon-mundin",
+        "role_slug": "giuseppe-verdi/otello/rodrigo"
       }
     ]
   },

@@ -10160,6 +10160,16 @@
     "name": "Mordred"
   },
   {
+    "slug": "eroffnungskonzert-2026-27/orchester",
+    "work_slug": "eroffnungskonzert-2026-27",
+    "name": "Orchester"
+  },
+  {
+    "slug": "eroffnungskonzert-2026-27/solist-in",
+    "work_slug": "eroffnungskonzert-2026-27",
+    "name": "Solist(in)"
+  },
+  {
     "slug": "errata/regie-zino-wey-kostume-pascale-martin-dramaturgie",
     "work_slug": "errata",
     "name": "Regie Zino Wey Kostüme Pascale Martin Dramaturgie"
@@ -20800,6 +20810,11 @@
     "name": "Orchester"
   },
   {
+    "slug": "giuseppe-verdi/il-trovatore/riprese-da",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "name": "Riprese da"
+  },
+  {
     "slug": "giuseppe-verdi/il-trovatore/ruiz",
     "work_slug": "giuseppe-verdi/il-trovatore",
     "name": "Ruiz"
@@ -22335,6 +22350,11 @@
     "name": "Ein Herold"
   },
   {
+    "slug": "giuseppe-verdi/otello/emila",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Emila"
+  },
+  {
     "slug": "giuseppe-verdi/otello/emilia",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Emilia"
@@ -22428,6 +22448,11 @@
     "slug": "giuseppe-verdi/otello/roderigo-venezianischer-edelmann",
     "work_slug": "giuseppe-verdi/otello",
     "name": "Roderigo, venezianischer Edelmann"
+  },
+  {
+    "slug": "giuseppe-verdi/otello/rodrigo",
+    "work_slug": "giuseppe-verdi/otello",
+    "name": "Rodrigo"
   },
   {
     "slug": "giuseppe-verdi/otello/un-araldo",
@@ -31420,6 +31445,11 @@
     "name": "A shepherdess"
   },
   {
+    "slug": "leos-janacek/jenufa/altgesell",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Altgesell"
+  },
+  {
     "slug": "leos-janacek/jenufa/aunt",
     "work_slug": "leos-janacek/jenufa",
     "name": "Aunt"
@@ -31428,6 +31458,21 @@
     "slug": "leos-janacek/jenufa/barena",
     "work_slug": "leos-janacek/jenufa",
     "name": "Barena"
+  },
+  {
+    "slug": "leos-janacek/jenufa/die-alte-buryja",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Die alte Buryja"
+  },
+  {
+    "slug": "leos-janacek/jenufa/die-kusterin-buryja",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Die Küsterin Buryja"
+  },
+  {
+    "slug": "leos-janacek/jenufa/dorfrichter",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Dorfrichter"
   },
   {
     "slug": "leos-janacek/jenufa/foreman",
@@ -31500,6 +31545,11 @@
     "name": "Mayor's Wife"
   },
   {
+    "slug": "leos-janacek/jenufa/seine-frau",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Seine Frau"
+  },
+  {
     "slug": "leos-janacek/jenufa/starek",
     "work_slug": "leos-janacek/jenufa",
     "name": "Starek"
@@ -31513,6 +31563,11 @@
     "slug": "leos-janacek/jenufa/steva-buryja",
     "work_slug": "leos-janacek/jenufa",
     "name": "Števa Buryja"
+  },
+  {
+    "slug": "leos-janacek/jenufa/stewa-buryja",
+    "work_slug": "leos-janacek/jenufa",
+    "name": "Stewa Buryja"
   },
   {
     "slug": "leos-janacek/jenufa/the-mayor",
@@ -50213,6 +50268,11 @@
     "slug": "zoltan-kodaly/hary-janos/the-empress",
     "work_slug": "zoltan-kodaly/hary-janos",
     "name": "The Empress"
+  },
+  {
+    "slug": "zoltan-kodaly/johnny-hary/children-s-chorus-soloist",
+    "work_slug": "zoltan-kodaly/johnny-hary",
+    "name": "Children's Chorus soloist"
   },
   {
     "slug": "zoltan-kodaly/johnny-hary/janos-hary",

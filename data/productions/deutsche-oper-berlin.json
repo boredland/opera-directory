@@ -1188,6 +1188,15 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-berlin/familienfuehrung-17896240",
+    "work_slug": "treffpunkt-kassenhalle/familienfuhrung",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/familienfuehrung.17896240",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-berlin/fuehrung-17896189",
     "work_slug": "treffpunkt-kassenhalle/fuhrung",
     "house_slug": "deutsche-oper-berlin",
@@ -1242,11 +1251,115 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-berlin/fuehrung-17896195",
+    "work_slug": "treffpunkt-kassenhalle/fuhrung",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/fuehrung.17896195",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-berlin/giulio-cesare-in-egitto-17825214",
     "work_slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
     "house_slug": "deutsche-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/giulio-cesare-in-egitto.17825214",
+    "creative_team": [
+      {
+        "person_slug": "andrew-george",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "alessandro-quarta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "brigitte-reiffenstuel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-mcvicar",
+        "function": "director"
+      },
+      {
+        "person_slug": "flavia-wolfgramm",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "paule-constable",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "robert-jones",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "michael-sumuel",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/achilla"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-berlin",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/chore"
+      },
+      {
+        "person_slug": "thomas-richter",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/chore"
+      },
+      {
+        "person_slug": "elena-tsallagova",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cleopatra"
+      },
+      {
+        "person_slug": "stephanie-wake-edwards",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/cornelia"
+      },
+      {
+        "person_slug": "jared-werlein",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/curio"
+      },
+      {
+        "person_slug": "gareth-mole",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/einstudierung-choreografie"
+      },
+      {
+        "person_slug": "christophe-dumaux",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/giulio-cesare"
+      },
+      {
+        "person_slug": "edu-rojas",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/nireno"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/orchester"
+      },
+      {
+        "person_slug": "mark-ruddick",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/schwertkampf-und-kampfszenen"
+      },
+      {
+        "person_slug": "martina-baroni",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/sesto"
+      },
+      {
+        "person_slug": "opernballett-der-deutschen-oper-berlin",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/tanzer-innen-des"
+      },
+      {
+        "person_slug": "cameron-shahbazi",
+        "role_slug": "georg-friedrich-handel/giulio-cesare-in-egitto/tolomeo"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-berlin/giulio-cesare-in-egitto-17825215",
+    "work_slug": "georg-friedrich-handel/giulio-cesare-in-egitto",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/giulio-cesare-in-egitto.17825215",
     "creative_team": [
       {
         "person_slug": "andrew-george",

@@ -140,6 +140,13 @@
     "status": "scheduled"
   },
   {
+    "id": "oper-leipzig/eroffnungskonzert-202627-879/2026-09-05/18:00",
+    "production_id": "oper-leipzig/eroffnungskonzert-202627-879",
+    "date": "2026-09-05",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "oper-leipzig/eurydike-795/2026-06-06/19:00",
     "production_id": "oper-leipzig/eurydike-795",
     "date": "2026-06-06",
@@ -662,6 +669,13 @@
     "production_id": "oper-leipzig/strangers-in-the-night-788",
     "date": "2027-05-01",
     "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "oper-leipzig/tag-der-offenen-tur-202627-906/2026-09-05/12:00",
+    "production_id": "oper-leipzig/tag-der-offenen-tur-202627-906",
+    "date": "2026-09-05",
+    "time": "12:00",
     "status": "scheduled"
   },
   {

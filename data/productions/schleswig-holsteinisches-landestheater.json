@@ -300,7 +300,44 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "leos-janacek/jenufa/altgesell"
+      },
+      {
+        "person_slug": "itziar-lesaka",
+        "role_slug": "leos-janacek/jenufa/die-alte-buryja"
+      },
+      {
+        "person_slug": "vera-semieniuk",
+        "role_slug": "leos-janacek/jenufa/die-kusterin-buryja"
+      },
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "leos-janacek/jenufa/dorfrichter"
+      },
+      {
+        "person_slug": "anna-avdalyan",
+        "role_slug": "leos-janacek/jenufa/jano"
+      },
+      {
+        "person_slug": "ma-gorzata-roc-awska",
+        "role_slug": "leos-janacek/jenufa/karolka"
+      },
+      {
+        "person_slug": "christian-alexander-muller",
+        "role_slug": "leos-janacek/jenufa/laca-klemen"
+      },
+      {
+        "person_slug": "sarah-kuffner",
+        "role_slug": "leos-janacek/jenufa/seine-frau"
+      },
+      {
+        "person_slug": "dritan-angoni",
+        "role_slug": "leos-janacek/jenufa/stewa-buryja"
+      }
+    ]
   },
   {
     "id": "schleswig-holsteinisches-landestheater/la-bohme",
