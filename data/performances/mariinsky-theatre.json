@@ -440,6 +440,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sic-vechernya-semistage/2026-07-21/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sic-vechernya-semistage",
+    "date": "2026-07-21",
+    "time": "19:00",
+    "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-siegfried-new/2026-07-25/17:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-siegfried-new",
     "date": "2026-07-25",
@@ -525,6 +533,14 @@
     "date": "2026-07-29",
     "time": "19:00",
     "venue_room": "Mariinsky II",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-traviata-kz/2026-07-18/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-traviata-kz",
+    "date": "2026-07-18",
+    "time": "19:00",
+    "venue_room": "Concert Hall",
     "status": "scheduled"
   },
   {

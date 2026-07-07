@@ -424,6 +424,15 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrung-1189",
+    "work_slug": "fuhrung",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung/1189/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/fuehrung-899",
     "work_slug": "fuhrung",
     "house_slug": "komische-oper-berlin",
@@ -460,6 +469,15 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrung-fuer-familien-1223",
+    "work_slug": "fuhrung-fur-familien",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-fuer-familien/1223/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/fuehrung-fuer-familien-913",
     "work_slug": "fuhrung-fur-familien",
     "house_slug": "komische-oper-berlin",
@@ -478,11 +496,38 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrung-spezial-kostuem-1170",
+    "work_slug": "fuhrung-spezial-kostum",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-spezial-kostuem/1170/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/fuehrung-spezial-kostuem-873",
     "work_slug": "fuhrung-spezial-kostum",
     "house_slug": "komische-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-spezial-kostuem/873/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrung-spezial-maske-1178",
+    "work_slug": "fuhrung-spezial-maske",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-spezial-maske/1178/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrung-spezial-maske-1179",
+    "work_slug": "fuhrung-spezial-maske",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrung-spezial-maske/1179/",
     "creative_team": [],
     "cast": []
   },
@@ -559,6 +604,24 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/fuehrungbaustellestammhaus-1199",
+    "work_slug": "fuhrung-baustelle-stammhaus",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrungbaustellestammhaus/1199/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/fuehrungbaustellestammhaus-1200",
+    "work_slug": "fuhrung-baustelle-stammhaus",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/fuehrungbaustellestammhaus/1200/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "komische-oper-berlin/gala-der-staatlichen-ballettschule-1086",
     "work_slug": "gala-der-staatlichen-ballettschule",
     "house_slug": "komische-oper-berlin",
@@ -577,6 +640,41 @@
     "cast": []
   },
   {
+    "id": "komische-oper-berlin/guided-tour-in-english-1219",
+    "work_slug": "guided-tour-in-english",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/guided-tour-in-english/1219/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/hommage-1367",
+    "work_slug": "hommage",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/hommage/1367/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "alma-sade",
+        "role_slug": "hommage/sopran"
+      },
+      {
+        "person_slug": "martin-flade",
+        "role_slug": "hommage/viola"
+      },
+      {
+        "person_slug": "pauline-reguig",
+        "role_slug": "hommage/violine"
+      },
+      {
+        "person_slug": "christoph-lamprecht",
+        "role_slug": "hommage/violoncello"
+      }
+    ]
+  },
+  {
     "id": "komische-oper-berlin/in-memoriam-1029",
     "work_slug": "in-memoriam",
     "house_slug": "komische-oper-berlin",
@@ -584,6 +682,250 @@
     "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/in-memoriam/1029/",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/instrumentenatlas-1364",
+    "work_slug": "instrumentenatlas",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/instrumentenatlas/1364/",
+    "creative_team": [
+      {
+        "person_slug": "geoffrey-loff",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "instrumentenatlas/orchester"
+      },
+      {
+        "person_slug": "vidina-popov",
+        "role_slug": "instrumentenatlas/sprecherin-moderatorin"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/instrumentenatlas-1365",
+    "work_slug": "instrumentenatlas",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/instrumentenatlas/1365/",
+    "creative_team": [
+      {
+        "person_slug": "geoffrey-loff",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "instrumentenatlas/orchester"
+      },
+      {
+        "person_slug": "vidina-popov",
+        "role_slug": "instrumentenatlas/sprecherin-moderatorin"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/jewgeni-onegin-1252",
+    "work_slug": "pjotr-tschaikowski/jewgeni-onegin",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/jewgeni-onegin/1252/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anna-skryleva",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "simon-berger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/chore"
+      },
+      {
+        "person_slug": "carsten-lau",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/ein-hauptmann"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/filippewna"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/furst-gremin"
+      },
+      {
+        "person_slug": "alexander-kohl",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/guillot"
+      },
+      {
+        "person_slug": "hubert-zapior",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/jewgeni-onegin"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/komparserie"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/larina"
+      },
+      {
+        "person_slug": "pavel-valuzhin",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/lenski"
+      },
+      {
+        "person_slug": "maya-gour",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/olga"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/orchester"
+      },
+      {
+        "person_slug": "werner-sauer",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/spielleitung"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/tatjana"
+      },
+      {
+        "person_slug": "christoph-spath",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/triquet"
+      },
+      {
+        "person_slug": "jaewon-kwak",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/zarezki"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/jewgeni-onegin-1253",
+    "work_slug": "pjotr-tschaikowski/jewgeni-onegin",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/jewgeni-onegin/1253/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anna-skryleva",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "simon-berger",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/chore"
+      },
+      {
+        "person_slug": "carsten-lau",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/ein-hauptmann"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/filippewna"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/furst-gremin"
+      },
+      {
+        "person_slug": "alexander-kohl",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/guillot"
+      },
+      {
+        "person_slug": "hubert-zapior",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/jewgeni-onegin"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/komparserie"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/larina"
+      },
+      {
+        "person_slug": "pavel-valuzhin",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/lenski"
+      },
+      {
+        "person_slug": "maya-gour",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/olga"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/orchester"
+      },
+      {
+        "person_slug": "werner-sauer",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/spielleitung"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/tatjana"
+      },
+      {
+        "person_slug": "christoph-spath",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/triquet"
+      },
+      {
+        "person_slug": "jaewon-kwak",
+        "role_slug": "pjotr-tschaikowski/jewgeni-onegin/zarezki"
+      }
+    ]
   },
   {
     "id": "komische-oper-berlin/lear-1353",
@@ -1209,6 +1551,212 @@
     "house_slug": "komische-oper-berlin",
     "is_revival": false,
     "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1359/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1360",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1360/",
+    "creative_team": [
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "klaus-bruns",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "sophie-jira",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rebecca-ringst",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-cavelius",
+        "role_slug": "aribert-reimann/lear/chore"
+      },
+      {
+        "person_slug": "penny-sofroniadou",
+        "role_slug": "aribert-reimann/lear/cordelia"
+      },
+      {
+        "person_slug": "aryeh-nussbaum-cohen",
+        "role_slug": "aribert-reimann/lear/edgar"
+      },
+      {
+        "person_slug": "brenton-ryan",
+        "role_slug": "aribert-reimann/lear/edmund"
+      },
+      {
+        "person_slug": "rosie-aldridge",
+        "role_slug": "aribert-reimann/lear/goneril"
+      },
+      {
+        "person_slug": "gunter-papendell",
+        "role_slug": "aribert-reimann/lear/graf-von-gloster"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "aribert-reimann/lear/graf-von-kent"
+      },
+      {
+        "person_slug": "philipp-meierhofer",
+        "role_slug": "aribert-reimann/lear/herzog-von-albany"
+      },
+      {
+        "person_slug": "johannes-dunz",
+        "role_slug": "aribert-reimann/lear/herzog-von-cornwall"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "aribert-reimann/lear/komparserie"
+      },
+      {
+        "person_slug": "scott-hendricks",
+        "role_slug": "aribert-reimann/lear/konig-lear"
+      },
+      {
+        "person_slug": "dimitry-ivashchenko",
+        "role_slug": "aribert-reimann/lear/konig-von-frankreich"
+      },
+      {
+        "person_slug": "dagmar-manzel",
+        "role_slug": "aribert-reimann/lear/narr"
+      },
+      {
+        "person_slug": "orchester-der-komischen-oper-berlin",
+        "role_slug": "aribert-reimann/lear/orchester"
+      },
+      {
+        "person_slug": "nicole-chevalier",
+        "role_slug": "aribert-reimann/lear/regan"
+      },
+      {
+        "person_slug": "holger-schwark",
+        "role_slug": "aribert-reimann/lear/sounddesign"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/lear-1361",
+    "work_slug": "aribert-reimann/lear",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/lear/1361/",
     "creative_team": [
       {
         "person_slug": "chorsolisten-der-komischen-oper-berlin",
@@ -2689,6 +3237,434 @@
     ]
   },
   {
+    "id": "komische-oper-berlin/orpheus-in-der-unterwelt-1297",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/orpheus-in-der-unterwelt/1297/",
+    "creative_team": [
+      {
+        "person_slug": "otto-pichler",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-hendry",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanna-goldberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rufus-didwiszus",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jean-christophe-charron",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/chore"
+      },
+      {
+        "person_slug": "susan-zarrabi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido"
+      },
+      {
+        "person_slug": "elisa-maayeshi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/diana"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-offentliche-meinung"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/eurydike"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/juno"
+      },
+      {
+        "person_slug": "tom-erik-lie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/jupiter"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/komparserie"
+      },
+      {
+        "person_slug": "tim-dietrich",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur"
+      },
+      {
+        "person_slug": "jonas-hacker",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/pluto"
+      },
+      {
+        "person_slug": "esteban-munoz-herrera",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/spielleitung"
+      },
+      {
+        "person_slug": "max-hopp",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/styx"
+      },
+      {
+        "person_slug": "michael-fernandez",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/tanzer"
+      },
+      {
+        "person_slug": "mirka-wagner",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/orpheus-in-der-unterwelt-1298",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/orpheus-in-der-unterwelt/1298/",
+    "creative_team": [
+      {
+        "person_slug": "otto-pichler",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-hendry",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanna-goldberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rufus-didwiszus",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jean-christophe-charron",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/chore"
+      },
+      {
+        "person_slug": "susan-zarrabi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido"
+      },
+      {
+        "person_slug": "elisa-maayeshi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/diana"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-offentliche-meinung"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/eurydike"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/juno"
+      },
+      {
+        "person_slug": "tom-erik-lie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/jupiter"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/komparserie"
+      },
+      {
+        "person_slug": "tim-dietrich",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur"
+      },
+      {
+        "person_slug": "tansel-akzeybek",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/pluto"
+      },
+      {
+        "person_slug": "esteban-munoz-herrera",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/spielleitung"
+      },
+      {
+        "person_slug": "max-hopp",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/styx"
+      },
+      {
+        "person_slug": "michael-fernandez",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/tanzer"
+      },
+      {
+        "person_slug": "mirka-wagner",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/orpheus-in-der-unterwelt-1299",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/orpheus-in-der-unterwelt/1299/",
+    "creative_team": [
+      {
+        "person_slug": "otto-pichler",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-hendry",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanna-goldberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rufus-didwiszus",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jean-christophe-charron",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/chore"
+      },
+      {
+        "person_slug": "susan-zarrabi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido"
+      },
+      {
+        "person_slug": "elisa-maayeshi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/diana"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-offentliche-meinung"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/eurydike"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/juno"
+      },
+      {
+        "person_slug": "tom-erik-lie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/jupiter"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/komparserie"
+      },
+      {
+        "person_slug": "tim-dietrich",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur"
+      },
+      {
+        "person_slug": "jonas-hacker",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/pluto"
+      },
+      {
+        "person_slug": "esteban-munoz-herrera",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/spielleitung"
+      },
+      {
+        "person_slug": "max-hopp",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/styx"
+      },
+      {
+        "person_slug": "michael-fernandez",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/tanzer"
+      },
+      {
+        "person_slug": "mirka-wagner",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus"
+      }
+    ]
+  },
+  {
+    "id": "komische-oper-berlin/orpheus-in-der-unterwelt-1300",
+    "work_slug": "jacques-offenbach/orpheus-in-der-unterwelt",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/orpheus-in-der-unterwelt/1300/",
+    "creative_team": [
+      {
+        "person_slug": "otto-pichler",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "chorsolisten-der-komischen-oper-berlin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "james-hendry",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "susanna-goldberg",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rufus-didwiszus",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jean-christophe-charron",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/chore"
+      },
+      {
+        "person_slug": "susan-zarrabi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/cupido"
+      },
+      {
+        "person_slug": "elisa-maayeshi",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/diana"
+      },
+      {
+        "person_slug": "ulrike-helzel",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/die-offentliche-meinung"
+      },
+      {
+        "person_slug": "juliana-zara",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/eurydike"
+      },
+      {
+        "person_slug": "karolina-gumos",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/juno"
+      },
+      {
+        "person_slug": "tom-erik-lie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/jupiter"
+      },
+      {
+        "person_slug": "komparserie",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/komparserie"
+      },
+      {
+        "person_slug": "tim-dietrich",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/mars"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/merkur"
+      },
+      {
+        "person_slug": "tansel-akzeybek",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/orpheus"
+      },
+      {
+        "person_slug": "ivan-tursic",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/pluto"
+      },
+      {
+        "person_slug": "esteban-munoz-herrera",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/spielleitung"
+      },
+      {
+        "person_slug": "max-hopp",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/styx"
+      },
+      {
+        "person_slug": "michael-fernandez",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/tanzer"
+      },
+      {
+        "person_slug": "mirka-wagner",
+        "role_slug": "jacques-offenbach/orpheus-in-der-unterwelt/venus"
+      }
+    ]
+  },
+  {
     "id": "komische-oper-berlin/sacre-chor-1026",
     "work_slug": "sacre-chor",
     "house_slug": "komische-oper-berlin",
@@ -2726,5 +3702,50 @@
         "role_slug": "sacre-chor/sopran"
       }
     ]
+  },
+  {
+    "id": "komische-oper-berlin/spielzeiteroeffnungsfest-1261",
+    "work_slug": "spielzeitfest",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/spielzeiteroeffnungsfest/1261/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/wunderkammer-1264",
+    "work_slug": "marcos-morau-musik-von-clara-aguilar-und/wunderkammer",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/wunderkammer/1264/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/wunderkammer-1265",
+    "work_slug": "marcos-morau-musik-von-clara-aguilar-und/wunderkammer",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/wunderkammer/1265/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/wunderkammer-1266",
+    "work_slug": "marcos-morau-musik-von-clara-aguilar-und/wunderkammer",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/wunderkammer/1266/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "komische-oper-berlin/wunderkammer-1267",
+    "work_slug": "marcos-morau-musik-von-clara-aguilar-und/wunderkammer",
+    "house_slug": "komische-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.komische-oper-berlin.de/spielplan/kalender/wunderkammer/1267/",
+    "creative_team": [],
+    "cast": []
   }
 ]

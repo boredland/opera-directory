@@ -71,8 +71,20 @@
         "role_slug": "giuseppe-verdi/macbeth/diener-macbeths-herold-arzt"
       },
       {
+        "person_slug": "justus-keitel",
+        "role_slug": "giuseppe-verdi/macbeth/dritte-erscheinung"
+      },
+      {
+        "person_slug": "oliver-von-furich",
+        "role_slug": "giuseppe-verdi/macbeth/duncano-konig-von-schottland"
+      },
+      {
         "person_slug": "daniel-dropulja",
         "role_slug": "giuseppe-verdi/macbeth/erste-erscheinung"
+      },
+      {
+        "person_slug": "levi-dierolf-justus-keitel",
+        "role_slug": "giuseppe-verdi/macbeth/fleanzio-sohn-bancos"
       },
       {
         "person_slug": "julia-rutigliano",
@@ -97,6 +109,10 @@
       {
         "person_slug": "daniel-dropulja",
         "role_slug": "giuseppe-verdi/macbeth/morder"
+      },
+      {
+        "person_slug": "levi-dierolf",
+        "role_slug": "giuseppe-verdi/macbeth/zweite-erscheinung"
       }
     ]
   },

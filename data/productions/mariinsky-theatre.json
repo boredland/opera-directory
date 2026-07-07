@@ -827,7 +827,32 @@
         "function": "conductor"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "roman-burdenko",
+        "role_slug": "richard-wagner/gotterdammerung/alberich"
+      },
+      {
+        "person_slug": "tatiana-pavlovskaya",
+        "role_slug": "richard-wagner/gotterdammerung/brunnhilde"
+      },
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "richard-wagner/gotterdammerung/gunther"
+      },
+      {
+        "person_slug": "mikhail-petrenko",
+        "role_slug": "richard-wagner/gotterdammerung/hagen"
+      },
+      {
+        "person_slug": "mikhail-vekua",
+        "role_slug": "richard-wagner/gotterdammerung/siegfried"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "richard-wagner/gotterdammerung/waltraute"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-golden-cockerel-shishkina",
@@ -2171,6 +2196,30 @@
     "cast": []
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sic-vechernya-semistage",
+    "work_slug": "giuseppe-verdi/i-vespri-siciliani",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2017-03-17",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/21/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/sic_vechernya_semistage/sicvechernya_semistage.jpg",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mikhail-smirnov",
+        "function": "director"
+      },
+      {
+        "person_slug": "oleg-m-rculov",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-siegfried-new",
     "work_slug": "richard-wagner/siegfried",
     "house_slug": "mariinsky-theatre",
@@ -2184,7 +2233,28 @@
         "function": "conductor"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "roman-burdenko",
+        "role_slug": "richard-wagner/siegfried/alberich"
+      },
+      {
+        "person_slug": "zhanna-dombrovskaya",
+        "role_slug": "richard-wagner/siegfried/brunnhilde"
+      },
+      {
+        "person_slug": "mikhail-vekua",
+        "role_slug": "richard-wagner/siegfried/siegfried"
+      },
+      {
+        "person_slug": "yevgeny-nikitin",
+        "role_slug": "richard-wagner/siegfried/the-wanderer-wotan"
+      },
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "richard-wagner/siegfried/the-woodbird"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sonvletnnoch",
@@ -2519,7 +2589,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2022-10-19",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/19/3_1300/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/3_1900/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/_traviata_semistage_en.jpg",
     "synopsis": "Act I Paris. A party is underway at the home of Violetta Valéry, a well-known demimondaine. Violetta&acute;s admirers are celebrating her return to health. Alfredo Germont is among the guests. He asks Gastone to introduce him as he is in love with her. At the request of the other guests, Alfredo sings a toast in her honour. As the others go to dance, Violetta is taken ill. She asks to be left alone. Alfredo, concerned that the woman he loves is ill, begs her to change her way of life and believe in his love. His love gives rise to Violetta&acute;s hopes for happiness. Act II Scene I A country house near Paris. Alfredo and Violetta live here in contentment. Annina, Violetta&acute;s maid, confesses to Alfredo that her mistress is secretly selling her belongings. Tormented by his conscience, Alfredo leaves for Paris to deal with these financial affairs. When she returns, Violetta cannot find Alfredo. Giuseppe the gardener gives her a letter from Flora. It is an invitation to a ball. Violetta lays it to one side in indifference – she will not attend. Suddenly, Alfredo&acute;s father Giorgio Germont appears. He accuses Violetta of ruining his son and soiling the family name. Violetta is in despair: she is mortally ill and has not long to live; her love for Alfredo is her only joy and comfort. Giorgio Germont is surprised at the sincerity of her emotions, but still insists that Violetta leaves his son. Violetta agrees and decides to sacrifice her own happiness. Alfredo returns from Paris. He is surprised by Violetta&acute;s perturbed manner. For the final time, she tells him of her undying love, then she leaves. Alfredo is overjoyed. \"Ah, this dear one lives only for my love!\" he says of Violetta. He is brought a letter; it is a letter of farewell from Violetta, in which she says she is returning to Baron Douphol. Alfredo is shocked. Giorgio Germont enters. He asks his son to return home to Provence. Alfredo does not listen to his father and he is unable to comprehend Vio",
     "creative_team": [
@@ -2772,7 +2842,32 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "tatiana-pavlovskaya",
+        "role_slug": "richard-wagner/die-walkure/brunnhilde"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "richard-wagner/die-walkure/fricka"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "richard-wagner/die-walkure/hunding"
+      },
+      {
+        "person_slug": "irina-churilova",
+        "role_slug": "richard-wagner/die-walkure/sieglinde"
+      },
+      {
+        "person_slug": "mikhail-vekua",
+        "role_slug": "richard-wagner/die-walkure/siegmund"
+      },
+      {
+        "person_slug": "mikhail-petrenko",
+        "role_slug": "richard-wagner/die-walkure/wotan"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-zauberflote-2022",
@@ -2846,7 +2941,28 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "roman-burdenko",
+        "role_slug": "richard-wagner/das-rheingold/alberich"
+      },
+      {
+        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "role_slug": "richard-wagner/das-rheingold/erda"
+      },
+      {
+        "person_slug": "yulia-matochkina",
+        "role_slug": "richard-wagner/das-rheingold/fricka"
+      },
+      {
+        "person_slug": "mikhail-vekua",
+        "role_slug": "richard-wagner/das-rheingold/loge"
+      },
+      {
+        "person_slug": "yevgeny-nikitin",
+        "role_slug": "richard-wagner/das-rheingold/wotan"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-pell-as-et-m-lisande",

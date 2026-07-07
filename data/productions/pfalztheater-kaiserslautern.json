@@ -1,5 +1,39 @@
 [
   {
+    "id": "pfalztheater-kaiserslautern/aida",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "pfalztheater-kaiserslautern",
+    "is_revival": false,
+    "detail_url": "https://pfalztheater.de/unsere-stuecke/aida/",
+    "creative_team": [
+      {
+        "person_slug": "john-robert-lidfors",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gmd-daniele-squeo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "georg-zlabinger",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-bronkalla",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "harald-zidek",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "thomas-dorfler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "pfalztheater-kaiserslautern/dead-man-walking",
     "work_slug": "jake-heggie/dead-man-walking",
     "house_slug": "pfalztheater-kaiserslautern",
@@ -157,6 +191,62 @@
         "role_slug": "jake-heggie/dead-man-walking/younger-brother"
       }
     ]
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "work_slug": "franz-lehar/der-graf-von-luxemburg",
+    "house_slug": "pfalztheater-kaiserslautern",
+    "is_revival": false,
+    "detail_url": "https://pfalztheater.de/unsere-stuecke/der-graf-von-luxemburg/",
+    "creative_team": [
+      {
+        "person_slug": "elisabeth-margraf",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "john-robert-lidfors",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "olivier-pols",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "tilman-gersch",
+        "function": "director"
+      },
+      {
+        "person_slug": "andreas-bronkalla",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-becker",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "work_slug": "raquel-garcia-tomas/ich-ich-ich",
+    "house_slug": "pfalztheater-kaiserslautern",
+    "is_revival": false,
+    "detail_url": "https://pfalztheater.de/unsere-stuecke/ich-ich-ich/",
+    "creative_team": [
+      {
+        "person_slug": "olivier-pols",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "aileen-schneider",
+        "function": "director"
+      },
+      {
+        "person_slug": "annabelle-kohler",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "pfalztheater-kaiserslautern/lenfant-et-les-sortileges-lheure-espagnole",

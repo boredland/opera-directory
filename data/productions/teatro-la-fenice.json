@@ -330,11 +330,67 @@
     "image_url": "https://www.teatrolafenice.it/wp-content/uploads/2025/06/man-7771583_1280-e1749117574808.jpg",
     "creative_team": [
       {
+        "person_slug": "nicola-trazzi",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "erika-chilo",
+        "function": "director"
+      },
+      {
         "person_slug": "gianmaria-aliverta",
         "function": "director"
+      },
+      {
+        "person_slug": "marco-filibeck",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "elena-zamparutti",
+        "function": "set-designer"
       }
     ],
     "cast": [
+      {
+        "person_slug": "julie-mossay",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/1-membro-del-trio"
+      },
+      {
+        "person_slug": "christian-schleinzer",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/2-membro-del-trio"
+      },
+      {
+        "person_slug": "david-pogana",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/3-membro-del-trio"
+      },
+      {
+        "person_slug": "matteo-corsi",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ass-costumi"
+      },
+      {
+        "person_slug": "alessandro-folli",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ass-scene"
+      },
+      {
+        "person_slug": "alfonso-maria-mottola",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ballo"
+      },
+      {
+        "person_slug": "ginevra-grossi",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ballo"
+      },
+      {
+        "person_slug": "matteo-passini",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ballo"
+      },
+      {
+        "person_slug": "robert-abotsie-ediogu",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ballo"
+      },
+      {
+        "person_slug": "veronica-barchielli",
+        "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ballo"
+      },
       {
         "person_slug": "allen-boxer",
         "role_slug": "gian-carlo-menotti-leonard-bernstein/the-telephone-trouble-in-tahiti/ben"

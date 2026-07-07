@@ -1,5 +1,85 @@
 [
   {
+    "id": "pfalztheater-kaiserslautern/aida/2027-04-04/11:00",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-04-04",
+    "time": "11:00",
+    "venue_room": "Mittleres Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-04-10/19:30",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-04-10",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-04-14/19:30",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-04-14",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-04-30/19:30",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-04-30",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-05-17/18:00",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-05-17",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-05-21/19:30",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-05-23/18:00",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-05-23",
+    "time": "18:00",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-05-27/18:00",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-05-27",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-06-13/18:00",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-06-13",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/aida/2027-06-23/19:30",
+    "production_id": "pfalztheater-kaiserslautern/aida",
+    "date": "2027-06-23",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "pfalztheater-kaiserslautern/dead-man-walking/2026-05-31/11:00",
     "production_id": "pfalztheater-kaiserslautern/dead-man-walking",
     "date": "2026-05-31",
@@ -51,6 +131,174 @@
     "id": "pfalztheater-kaiserslautern/dead-man-walking/2026-07-01/19:30",
     "production_id": "pfalztheater-kaiserslautern/dead-man-walking",
     "date": "2026-07-01",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-02-07/11:00",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-02-07",
+    "time": "11:00",
+    "venue_room": "Mittleres Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-02-20/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-02-20",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-02-26/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-02-26",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-03-13/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-03-13",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-04-15/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-04-15",
+    "time": "19:30",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-04-16/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-04-16",
+    "time": "19:30",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-04-17/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-04-17",
+    "time": "19:30",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-04-18/18:00",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-04-18",
+    "time": "18:00",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-04-24/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-04-24",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-05-09/15:00",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-05-09",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-05-30/18:00",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-05-30",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-06-19/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-06-19",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg/2027-06-30/19:30",
+    "production_id": "pfalztheater-kaiserslautern/der-graf-von-luxemburg",
+    "date": "2027-06-30",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-05-02/11:00",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-05-02",
+    "time": "11:00",
+    "venue_room": "Mittleres Foyer",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-05-15/19:30",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-05-28/19:30",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-05-28",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-06-06/18:00",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-06-06",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-06-16/19:30",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-06-16",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-06-25/19:30",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-06-25",
+    "time": "19:30",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-06-27/18:00",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-06-27",
+    "time": "18:00",
+    "venue_room": "Theater im Pfalzbau Ludwigshafen",
+    "status": "scheduled"
+  },
+  {
+    "id": "pfalztheater-kaiserslautern/ich-ich-ich/2027-07-03/19:30",
+    "production_id": "pfalztheater-kaiserslautern/ich-ich-ich",
+    "date": "2027-07-03",
     "time": "19:30",
     "venue_room": "Großes Haus",
     "status": "scheduled"

@@ -4,16 +4,8 @@
     "work_slug": "georg-friedrich-handel/alcina",
     "house_slug": "landestheater-detmold",
     "is_revival": false,
-    "detail_url": "https://www.landestheater-detmold.de/de/programm/alcina/41073142",
+    "detail_url": "https://www.landestheater-detmold.de/de/programm/alcina/41564154",
     "creative_team": [
-      {
-        "person_slug": "francesco-damiani",
-        "function": "chorus-master"
-      },
-      {
-        "person_slug": "claudio-novati",
-        "function": "conductor"
-      },
       {
         "person_slug": "luzie-nehls-neuhaus",
         "function": "costume-designer"
@@ -27,56 +19,11 @@
         "function": "dramaturgy"
       },
       {
-        "person_slug": "udo-groll",
-        "function": "lighting"
-      },
-      {
         "person_slug": "eva-maria-van-acker",
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "emily-dorn",
-        "role_slug": "georg-friedrich-handel/alcina/alcina"
-      },
-      {
-        "person_slug": "dara-savinova",
-        "role_slug": "georg-friedrich-handel/alcina/bradamante"
-      },
-      {
-        "person_slug": "claudio-novati",
-        "role_slug": "georg-friedrich-handel/alcina/cembalo"
-      },
-      {
-        "person_slug": "george-bogdan-lita",
-        "role_slug": "georg-friedrich-handel/alcina/kontrabass"
-      },
-      {
-        "person_slug": "johannes-festerling",
-        "role_slug": "georg-friedrich-handel/alcina/laute-theorbe-barockgitarre"
-      },
-      {
-        "person_slug": "ricardo-llamas-marquez",
-        "role_slug": "georg-friedrich-handel/alcina/melisso"
-      },
-      {
-        "person_slug": "marianna-nomikou",
-        "role_slug": "georg-friedrich-handel/alcina/morgana"
-      },
-      {
-        "person_slug": "stephen-chambers",
-        "role_slug": "georg-friedrich-handel/alcina/oronte"
-      },
-      {
-        "person_slug": "lotte-kortenhaus",
-        "role_slug": "georg-friedrich-handel/alcina/ruggiero"
-      },
-      {
-        "person_slug": "sabine-vavassori",
-        "role_slug": "georg-friedrich-handel/alcina/violoncello"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "landestheater-detmold/der-vogelhandler",
@@ -362,7 +309,7 @@
     "work_slug": "giuseppe-verdi/la-traviata",
     "house_slug": "landestheater-detmold",
     "is_revival": false,
-    "detail_url": "https://www.landestheater-detmold.de/de/programm/la-traviata/41378693",
+    "detail_url": "https://www.landestheater-detmold.de/de/programm/la-traviata/41971573",
     "creative_team": [
       {
         "person_slug": "francesco-damiani",
@@ -393,56 +340,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "stephen-chambers",
-        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
-      },
-      {
-        "person_slug": "boyoung-lee",
-        "role_slug": "giuseppe-verdi/la-traviata/annina"
-      },
-      {
-        "person_slug": "euichan-jeong",
-        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
-      },
-      {
-        "person_slug": "ricardo-llamas-marquez",
-        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
-      },
-      {
-        "person_slug": "torsten-luck",
-        "role_slug": "giuseppe-verdi/la-traviata/ein-diener-floras"
-      },
-      {
-        "person_slug": "ognjen-milivojsa",
-        "role_slug": "giuseppe-verdi/la-traviata/ein-kommissionar"
-      },
-      {
-        "person_slug": "franziska-pfalzgraf",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "lifan-yang",
-        "role_slug": "giuseppe-verdi/la-traviata/gaston"
-      },
-      {
-        "person_slug": "jonah-spungin",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
-      },
-      {
-        "person_slug": "felix-schmidt",
-        "role_slug": "giuseppe-verdi/la-traviata/giuseppe"
-      },
-      {
-        "person_slug": "hojin-chung",
-        "role_slug": "giuseppe-verdi/la-traviata/marquis-d-obgny"
-      },
-      {
-        "person_slug": "johanna-nylund",
-        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "landestheater-detmold/lamour-de-loin",

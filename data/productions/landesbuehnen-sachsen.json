@@ -1,5 +1,53 @@
 [
   {
+    "id": "landesbuehnen-sachsen/18c737f1-6449-41f3-b450-43808d33c020",
+    "work_slug": "carl-maria-von-weber/der-freischutz-pocket-opera",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "nach der gleichnamigen Oper von Carl Maria von Weber",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/der-freischuetz-pocket-opera/",
+    "creative_team": [
+      {
+        "person_slug": "anja-furthmann",
+        "function": "costume-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maraike-schroter",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/agathe"
+      },
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/annchen"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/eremit"
+      },
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/kaspar"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/kuno-moderation"
+      },
+      {
+        "person_slug": "ido-beit-halachmi",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/max"
+      },
+      {
+        "person_slug": "thomas-glaser",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/musikalische-leitung-klavier"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "carl-maria-von-weber/der-freischutz-pocket-opera/ottokar"
+      }
+    ]
+  },
+  {
     "id": "landesbuehnen-sachsen/5397e783-8add-4833-8f36-7eee8cd309ca",
     "work_slug": "carl-maria-von-weber/silvana",
     "house_slug": "landesbuehnen-sachsen",
