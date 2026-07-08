@@ -9520,6 +9520,11 @@
     "name": "Baron Kolomán Zsupán"
   },
   {
+    "slug": "emmerich-kalman/grafin-mariza/bozena-guddenstein",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Božena Guddenstein"
+  },
+  {
     "slug": "emmerich-kalman/grafin-mariza/furst-populescu",
     "work_slug": "emmerich-kalman/grafin-mariza",
     "name": "Fürst Populescu"
@@ -9540,6 +9545,21 @@
     "name": "Gräfin Mariza"
   },
   {
+    "slug": "emmerich-kalman/grafin-mariza/kleine-mariza",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Kleine Mariza"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/koloman-zsupan",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Kolomán Zsupán"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/lisa-dessen-schwester",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Lisa, dessen Schwester"
+  },
+  {
     "slug": "emmerich-kalman/grafin-mariza/lisa-tassilos-schwester",
     "work_slug": "emmerich-kalman/grafin-mariza",
     "name": "Lisa, Tassilos Schwester"
@@ -9550,9 +9570,29 @@
     "name": "Manja"
   },
   {
+    "slug": "emmerich-kalman/grafin-mariza/mariza",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Mariza"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/maskenbild",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Maskenbild"
+  },
+  {
     "slug": "emmerich-kalman/grafin-mariza/penizek",
     "work_slug": "emmerich-kalman/grafin-mariza",
     "name": "Penižek"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/populescu",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Populescu"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/tassilo",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Tassilo"
   },
   {
     "slug": "emmerich-kalman/grafin-mariza/tschekko",
@@ -12233,6 +12273,11 @@
     "slug": "franz-von-suppe/boccaccio/lotteringhi-ein-fassbinder",
     "work_slug": "franz-von-suppe/boccaccio",
     "name": "Lotteringhi, ein Fassbinder"
+  },
+  {
+    "slug": "franz-von-suppe/boccaccio/maskenbild",
+    "work_slug": "franz-von-suppe/boccaccio",
+    "name": "Maskenbild"
   },
   {
     "slug": "franz-von-suppe/boccaccio/peronella-seine-frau",
@@ -16830,6 +16875,11 @@
     "name": "Cesare Angelotti, Jailer"
   },
   {
+    "slug": "giacomo-puccini/tosca/cesare-angelotti-revolutionar",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Cesare Angelotti, Revolutionär"
+  },
+  {
     "slug": "giacomo-puccini/tosca/chor",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Chor"
@@ -16885,14 +16935,39 @@
     "name": "En herdegosse"
   },
   {
+    "slug": "giacomo-puccini/tosca/eusebio-barbagianni-sakristan",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Eusebio Barbagianni, Sakristan"
+  },
+  {
     "slug": "giacomo-puccini/tosca/floria",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Floria"
   },
   {
+    "slug": "giacomo-puccini/tosca/floria-das-madchen-mit-dem-goldenen-ball",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Floria, das Mädchen mit dem goldenen Ball"
+  },
+  {
     "slug": "giacomo-puccini/tosca/floria-tosca",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Floria Tosca"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/floria-tosca-opernsangerin",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Floria Tosca, Opernsängerin"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/gaetano-sciarrone-polizeiagent",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Gaetano Sciarrone, Polizeiagent"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/giovanni-spoletta-hauptmann-der-carabinieri",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Giovanni Spoletta, Hauptmann der Carabinieri"
   },
   {
     "slug": "giacomo-puccini/tosca/giuseppe-pelosi-pastorello",
@@ -16958,6 +17033,11 @@
     "slug": "giacomo-puccini/tosca/mario-cavaradossi",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Mario Cavaradossi"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/mario-cavaradossi-maler",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Mario Cavaradossi, Maler"
   },
   {
     "slug": "giacomo-puccini/tosca/mesner",
@@ -17093,6 +17173,11 @@
     "slug": "giacomo-puccini/tosca/vitellio-scarpia",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Vitellio Scarpia"
+  },
+  {
+    "slug": "giacomo-puccini/tosca/vitello-baron-scarpia-polizeichef",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Vitello Baron Scarpia, Polizeichef"
   },
   {
     "slug": "giacomo-puccini/tosca/zeichnerische-gestaltung",
@@ -20805,6 +20890,26 @@
     "name": "Servo del Doge"
   },
   {
+    "slug": "giuseppe-verdi/i-vespri-siciliani/arrigo",
+    "work_slug": "giuseppe-verdi/i-vespri-siciliani",
+    "name": "Arrigo"
+  },
+  {
+    "slug": "giuseppe-verdi/i-vespri-siciliani/elena",
+    "work_slug": "giuseppe-verdi/i-vespri-siciliani",
+    "name": "Elena"
+  },
+  {
+    "slug": "giuseppe-verdi/i-vespri-siciliani/giovanni-da-procida",
+    "work_slug": "giuseppe-verdi/i-vespri-siciliani",
+    "name": "Giovanni da Procida"
+  },
+  {
+    "slug": "giuseppe-verdi/i-vespri-siciliani/monforte",
+    "work_slug": "giuseppe-verdi/i-vespri-siciliani",
+    "name": "Monforte"
+  },
+  {
     "slug": "giuseppe-verdi/il-corsaro/corrado",
     "work_slug": "giuseppe-verdi/il-corsaro",
     "name": "Corrado"
@@ -23530,6 +23635,11 @@
     "name": "Puppenbau"
   },
   {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppendesign-und-puppenbau",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Puppendesign und Puppenbau"
+  },
+  {
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspieler-dame-panther",
     "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
     "name": "Puppenspieler (Dame, Panther)"
@@ -23538,6 +23648,11 @@
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspielerin-dame",
     "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
     "name": "Puppenspielerin (Dame)"
+  },
+  {
+    "slug": "gottfried-von-einem/der-besuch-der-alten-dame/regie-und-mitarbeit-puppendesign",
+    "work_slug": "gottfried-von-einem/der-besuch-der-alten-dame",
+    "name": "Regie und Mitarbeit Puppendesign"
   },
   {
     "slug": "gottfried-von-einem/der-besuch-der-alten-dame/roby",
@@ -28863,6 +28978,11 @@
     "slug": "jonathan-dove/uprising/lola-green",
     "work_slug": "jonathan-dove/uprising",
     "name": "Lola Green"
+  },
+  {
+    "slug": "jonathan-dove/uprising/quercus",
+    "work_slug": "jonathan-dove/uprising",
+    "name": "Quercus"
   },
   {
     "slug": "jonathan-dove/uprising/zoe-green",
@@ -36945,6 +37065,31 @@
     "name": "Triquet"
   },
   {
+    "slug": "peter-tschaikowsky/schwanensee/choreografische-assistenz",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "name": "Choreografische Assistenz"
+  },
+  {
+    "slug": "peter-tschaikowsky/schwanensee/digital-video-artist",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "name": "Digital Video Artist"
+  },
+  {
+    "slug": "peter-tschaikowsky/schwanensee/dramaturgie-fassung-libretto",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "name": "Dramaturgie, Fassung & Libretto"
+  },
+  {
+    "slug": "peter-tschaikowsky/schwanensee/inszenierung-choreografie",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "name": "Inszenierung & Choreografie"
+  },
+  {
+    "slug": "peter-tschaikowsky/schwanensee/mit",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "name": "Mit"
+  },
+  {
     "slug": "petr-il-ic-cajkovskij-scene-liriche-in-tre-atti-e-sette-quadri/evgenij-onegin/evgenij-onegin",
     "work_slug": "petr-il-ic-cajkovskij-scene-liriche-in-tre-atti-e-sette-quadri/evgenij-onegin",
     "name": "Evgenij Onegin"
@@ -37598,6 +37743,11 @@
     "slug": "pietro-mascagni/cavalleria-rusticana/turiddu",
     "work_slug": "pietro-mascagni/cavalleria-rusticana",
     "name": "Turiddu"
+  },
+  {
+    "slug": "pietro-mascagni/iris/aerialist",
+    "work_slug": "pietro-mascagni/iris",
+    "name": "Aerialist"
   },
   {
     "slug": "pietro-mascagni/iris/aerilist",
@@ -38760,6 +38910,11 @@
     "name": "Zaretsky"
   },
   {
+    "slug": "pyotr-tchaikovsky/eugene-onegin/eugene-onegin",
+    "work_slug": "pyotr-tchaikovsky/eugene-onegin",
+    "name": "Eugene Onegin"
+  },
+  {
     "slug": "pyotr-tchaikovsky/eugene-onegin/eugene-yevgeny-onegin",
     "work_slug": "pyotr-tchaikovsky/eugene-onegin",
     "name": "Eugene (Yevgeny) Onegin"
@@ -38768,6 +38923,11 @@
     "slug": "pyotr-tchaikovsky/eugene-onegin/filipyevna",
     "work_slug": "pyotr-tchaikovsky/eugene-onegin",
     "name": "Filipyevna"
+  },
+  {
+    "slug": "pyotr-tchaikovsky/eugene-onegin/lensky",
+    "work_slug": "pyotr-tchaikovsky/eugene-onegin",
+    "name": "Lensky"
   },
   {
     "slug": "pyotr-tchaikovsky/eugene-onegin/madama-larina",
@@ -44490,6 +44650,36 @@
     "name": "The Marquis"
   },
   {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/fata-morgana",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "Fata Morgana"
+  },
+  {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/pantalone",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "Pantalone"
+  },
+  {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/the-king-of-clubs",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "The King of Clubs"
+  },
+  {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/the-magician-celio",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "The Magician Celio"
+  },
+  {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/the-prince",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "The Prince"
+  },
+  {
+    "slug": "sergei-prokofiev/the-love-for-three-oranges/truffaldino",
+    "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
+    "name": "Truffaldino"
+  },
+  {
     "slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen/farfarello",
     "work_slug": "sergei-s-prokofjew/die-liebe-zu-den-drei-orangen",
     "name": "Farfarello"
@@ -49310,6 +49500,11 @@
     "name": "Kinderstatisterie"
   },
   {
+    "slug": "wolfgang-amadeus-mozart/idomeneo/oberpriester",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo",
+    "name": "Oberpriester"
+  },
+  {
     "slug": "wolfgang-amadeus-mozart/idomeneo/oberpriester-des-neptun",
     "work_slug": "wolfgang-amadeus-mozart/idomeneo",
     "name": "Oberpriester des Neptun"
@@ -49318,6 +49513,11 @@
     "slug": "wolfgang-amadeus-mozart/idomeneo/orchester",
     "work_slug": "wolfgang-amadeus-mozart/idomeneo",
     "name": "Orchester"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo/stimme-neptuns",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo",
+    "name": "Stimme Neptuns"
   },
   {
     "slug": "wolfgang-amadeus-mozart/idomeneo/voce-di-nettuno",
@@ -50658,6 +50858,11 @@
     "slug": "zsofia-taller/leander-and-linseed/clacking-bat",
     "work_slug": "zsofia-taller/leander-and-linseed",
     "name": "Clacking bat"
+  },
+  {
+    "slug": "zsofia-taller/leander-and-linseed/clucking-bat",
+    "work_slug": "zsofia-taller/leander-and-linseed",
+    "name": "Clucking bat"
   },
   {
     "slug": "zsofia-taller/leander-and-linseed/honeycoat-fairy",

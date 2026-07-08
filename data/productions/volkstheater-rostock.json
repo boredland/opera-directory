@@ -37,6 +37,18 @@
     "detail_url": "https://www.volkstheater-rostock.de/spielplan/monatsplan/musiktheater/rigoletto/",
     "creative_team": [
       {
+        "person_slug": "tobias-volklein",
+        "function": "Borsa"
+      },
+      {
+        "person_slug": "jiwoong-shin",
+        "function": "Ceprano"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "svetlomir-zlatkov",
         "function": "conductor"
       },
@@ -45,8 +57,64 @@
         "function": "director"
       },
       {
+        "person_slug": "n-n-agostina-migoni",
+        "function": "Gilda"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "Giovanna"
+      },
+      {
+        "person_slug": "kana-kobayashi",
+        "function": "Gräfin ceprano"
+      },
+      {
+        "person_slug": "hyunsik-shin",
+        "function": "Herzog"
+      },
+      {
+        "person_slug": "babette-bartz",
+        "function": "Inspizienz"
+      },
+      {
+        "person_slug": "kirsten-scott",
+        "function": "Maddalena"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "Marullo"
+      },
+      {
+        "person_slug": "jaehwan-shim",
+        "function": "Monterone"
+      },
+      {
+        "person_slug": "ralph-zedler",
+        "function": "Musikalische Einstudierung"
+      },
+      {
+        "person_slug": "olaf-lemme",
+        "function": "Paggio"
+      },
+      {
+        "person_slug": "mika-hampe-elisabeth-rechenberger",
+        "function": "Regieassistenz"
+      },
+      {
+        "person_slug": "lucia-lucas-jaehwan-shim",
+        "function": "Rigoletto"
+      },
+      {
         "person_slug": "wiebke-horn",
         "function": "set-designer"
+      },
+      {
+        "person_slug": "hui-tzu-lee",
+        "function": "Sparafucile"
+      },
+      {
+        "person_slug": "hans-christoph-borck",
+        "function": "Studienleitung"
       }
     ],
     "cast": []

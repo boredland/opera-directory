@@ -4195,6 +4195,24 @@
     "cast": []
   },
   {
+    "id": "staatsoper-hamburg/oper-2147484987-ferdinand-der-stier",
+    "work_slug": "ferdinand-der-stier",
+    "house_slug": "staatsoper-hamburg",
+    "is_revival": false,
+    "detail_url": "https://www.die-hamburgische-staatsoper.de/de/programm/oper/2147484987-ferdinand-der-stier",
+    "creative_team": [
+      {
+        "person_slug": "david-hermann",
+        "function": "director"
+      },
+      {
+        "person_slug": "jo-schramm",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "staatsoper-hamburg/oper-2147484988-fuehrungen-fuer-weiterfuehrende-schulen",
     "work_slug": "fuhrungen-fur-weiter-shy-fuhrende-schulen",
     "house_slug": "staatsoper-hamburg",

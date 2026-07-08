@@ -297,6 +297,42 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/andrea-chenier/2026-27",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/andrea-chenier-3/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Andrea-Chenier_social-media_2400X1350px-1024x576.png",
+    "creative_team": [
+      {
+        "person_slug": "massimiliano-volpini",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "daria-calvelli",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "marco-bellocchio",
+        "function": "director"
+      },
+      {
+        "person_slug": "gianni-carluccio",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/anima-allegra/1920-21",
     "work_slug": "franco-vittadini/anima-allegra",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -738,6 +774,34 @@
     "is_revival": false,
     "detail_url": "https://www.wikidata.org/wiki/Q15999750",
     "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-dell-opera-di-roma/code-unknown/2026-27",
+    "work_slug": "nicola-sani/code-unknown",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/code-unknown/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/07/Code_Unknown_2400x1350_202714-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "marco-angius",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-biagiotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "franco-ripa-di-meana",
+        "function": "director"
+      },
+      {
+        "person_slug": "michele-della-cioppa",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -1321,6 +1385,30 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/i-due-foscari/2026-27",
+    "work_slug": "giuseppe-verdi/i-due-foscari",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/i-due-foscari/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/I-DUE-FOSCARI_social-media_2400X1350px-1024x576.png",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "riccardo-frizza",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pier-luigi-pizzi",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/i-masnadieri/2017-18",
     "work_slug": "giuseppe-verdi/i-masnadieri",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -1696,6 +1784,50 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/il-trovatore/2026-27",
+    "work_slug": "giuseppe-verdi/il-trovatore",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/il-trovatore-3/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Trovatore_2400x1350_202710-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "marco-caudera",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nicola-luisotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nika-campisi",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniele-menghini",
+        "function": "director"
+      },
+      {
+        "person_slug": "mattia-palma",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gianni-bertoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "davide-signorini",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/inferno/2025-26",
     "work_slug": "lucia-ronchetti/inferno",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -1738,7 +1870,7 @@
     "premiere_season": "2026/27",
     "is_revival": false,
     "detail_url": "https://www.operaroma.it/spettacoli/iphigenie-en-tauride/",
-    "image_url": "https://operaroma.b-cdn.net/wp-content/themes/operaroma/core/images/logo.png",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Iphigénie-en-Tauride_2400x1350_20279-1024x576.jpg",
     "creative_team": [
       {
         "person_slug": "philippe-giraudeau",
@@ -2179,6 +2311,30 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/la-cenerentola/2026-27",
+    "work_slug": "gioachino-rossini/la-cenerentola",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/la-cenerentola-3/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/La-Cenerentola_2400x1350_20278-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-mariotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mario-martone",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/la-colonia-libera/1898-99",
     "work_slug": "pietro-floridia/la-colonia-libera",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -2253,6 +2409,42 @@
     "is_revival": false,
     "detail_url": "https://www.wikidata.org/wiki/Q109241660",
     "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "teatro-dell-opera-di-roma/la-rondine/2026-27",
+    "work_slug": "giacomo-puccini/la-rondine",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/la-rondine/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/La-rondine_-2400x1350_20277-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "francesco-lanzillotta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elena-beccaro",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andrea-bernard",
+        "function": "director"
+      },
+      {
+        "person_slug": "marco-alba",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alberto-beltrame",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -2883,6 +3075,38 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/lucia-di-lammermoor/2026-27",
+    "work_slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/lucia-di-lammermoor-2/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Lucia-di-Lammermoor_2400-x-1350-1024x576.png",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "giacomo-sagripanti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "karole-armitage",
+        "function": "director"
+      },
+      {
+        "person_slug": "valerio-tiberi",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "daniela-ciancio",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/lucrezia-borgia/2024-25",
     "work_slug": "gaetano-donizetti/lucrezia-borgia",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -3350,6 +3574,42 @@
     "cast": []
   },
   {
+    "id": "teatro-dell-opera-di-roma/peter-pan/2026-27",
+    "work_slug": "leonard-bernstein/peter-pan",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/peter-pan/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Peter-Pan_2026-27_2400x1350_20274-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "fabrizio-angelini",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "manlio-benzi",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-biagiotti",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "luca-micheletti",
+        "function": "director"
+      },
+      {
+        "person_slug": "giuseppe-di-iorio",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "teatro-dell-opera-di-roma/racconto-d-inverno/1946-47",
     "work_slug": "renzo-rossellini/racconto-d-inverno",
     "house_slug": "teatro-dell-opera-di-roma",
@@ -3641,6 +3901,38 @@
       },
       {
         "person_slug": "carmine-maringola",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-dell-opera-di-roma/the-rake-s-progress-la-carriera-di-un-libertino/2026-27",
+    "work_slug": "igor-stravinskij/the-rake-s-progress-la-carriera-di-un-libertino",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/the-rakes-progress-la-carriera-di-un-libertino/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/The-Rakes-Progress_2400X1350px-1024x576.png",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "michele-mariotti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "rafael-r-villalobos",
+        "function": "director"
+      },
+      {
+        "person_slug": "felipe-ramos",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pablo-chaves-maza",
         "function": "set-designer"
       }
     ],
@@ -3980,6 +4272,46 @@
       },
       {
         "person_slug": "gianluigi-toccafondo",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "teatro-dell-opera-di-roma/una-lady-macbeth-del-distretto-di-mzensk/2026-27",
+    "work_slug": "dmitrij-sostakovic/una-lady-macbeth-del-distretto-di-mzensk",
+    "house_slug": "teatro-dell-opera-di-roma",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.operaroma.it/spettacoli/una-lady-macbeth-del-distretto-di-mzensk/",
+    "image_url": "https://operaroma.b-cdn.net/wp-content/uploads/2026/06/Lady-Macbeth-of-Mtsensk_2400x1350_20276-1024x576.jpg",
+    "creative_team": [
+      {
+        "person_slug": "ciro-visco",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "juraj-valcuha",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "victoria-behr",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "barrie-kosky",
+        "function": "director"
+      },
+      {
+        "person_slug": "daniel-andres-eberhard",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "olaf-freese",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "rufus-didwiszus",
         "function": "set-designer"
       }
     ],

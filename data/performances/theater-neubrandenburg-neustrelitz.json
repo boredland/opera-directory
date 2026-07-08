@@ -319,9 +319,26 @@
     "ticket_url": "https://landestheater-mecklenburg.eventim-inhouse.de/webshop/webticket/shop?event=7314"
   },
   {
+    "id": "theater-neubrandenburg-neustrelitz/la-boheme/2026-10-11/11:00",
+    "production_id": "theater-neubrandenburg-neustrelitz/la-boheme",
+    "date": "2026-10-11",
+    "time": "11:00",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-neubrandenburg-neustrelitz/la-boheme/2026-10-24/19:30",
     "production_id": "theater-neubrandenburg-neustrelitz/la-boheme",
     "date": "2026-10-24",
+    "time": "19:30",
+    "venue_room": "Landestheater Neustrelitz",
+    "status": "scheduled",
+    "ticket_url": "https://landestheater-mecklenburg.eventim-inhouse.de/webshop/webticket/shop?event=7299"
+  },
+  {
+    "id": "theater-neubrandenburg-neustrelitz/la-boheme/2026-10-30/19:30",
+    "production_id": "theater-neubrandenburg-neustrelitz/la-boheme",
+    "date": "2026-10-30",
     "time": "19:30",
     "venue_room": "Landestheater Neustrelitz",
     "status": "scheduled"

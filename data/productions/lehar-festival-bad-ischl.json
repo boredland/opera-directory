@@ -70,6 +70,10 @@
         "role_slug": "franz-von-suppe/boccaccio/lotteringhi-ein-fassbinder"
       },
       {
+        "person_slug": "petra-herzler-grossmann",
+        "role_slug": "franz-von-suppe/boccaccio/maskenbild"
+      },
+      {
         "person_slug": "miriam-portmann",
         "role_slug": "franz-von-suppe/boccaccio/peronella-seine-frau"
       },
@@ -174,36 +178,44 @@
     ],
     "cast": [
       {
-        "person_slug": "lukas-karzel",
-        "role_slug": "emmerich-kalman/grafin-mariza/baron-koloman-zsupan"
-      },
-      {
-        "person_slug": "martin-achrainer",
-        "role_slug": "emmerich-kalman/grafin-mariza/furst-populescu"
-      },
-      {
         "person_slug": "petra-strasser",
-        "role_slug": "emmerich-kalman/grafin-mariza/furstin-bozena-guddenstein-zu-clumetz"
+        "role_slug": "emmerich-kalman/grafin-mariza/bozena-guddenstein"
       },
       {
-        "person_slug": "daniel-pataky",
-        "role_slug": "emmerich-kalman/grafin-mariza/graf-tassilo-von-endrody-wittemburg"
+        "person_slug": "paula-goebl-josephine-sidak-charlotte-sidak",
+        "role_slug": "emmerich-kalman/grafin-mariza/kleine-mariza"
       },
       {
-        "person_slug": "bryony-dwyer",
-        "role_slug": "emmerich-kalman/grafin-mariza/grafin-mariza"
+        "person_slug": "lukas-karzel",
+        "role_slug": "emmerich-kalman/grafin-mariza/koloman-zsupan"
       },
       {
         "person_slug": "claudia-goebl",
-        "role_slug": "emmerich-kalman/grafin-mariza/lisa-tassilos-schwester"
+        "role_slug": "emmerich-kalman/grafin-mariza/lisa-dessen-schwester"
       },
       {
         "person_slug": "eva-scholer",
         "role_slug": "emmerich-kalman/grafin-mariza/manja"
       },
       {
+        "person_slug": "bryony-dwyer",
+        "role_slug": "emmerich-kalman/grafin-mariza/mariza"
+      },
+      {
+        "person_slug": "petra-herzler-grossmann",
+        "role_slug": "emmerich-kalman/grafin-mariza/maskenbild"
+      },
+      {
         "person_slug": "georg-schubert",
         "role_slug": "emmerich-kalman/grafin-mariza/penizek"
+      },
+      {
+        "person_slug": "martin-achrainer",
+        "role_slug": "emmerich-kalman/grafin-mariza/populescu"
+      },
+      {
+        "person_slug": "daniel-pataky",
+        "role_slug": "emmerich-kalman/grafin-mariza/tassilo"
       },
       {
         "person_slug": "jakob-kucher",

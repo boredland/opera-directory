@@ -248,56 +248,7 @@
         "function": "dramaturgy"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "woongyi-lee",
-        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
-      },
-      {
-        "person_slug": "lisa-kaltenmeier-kahraman",
-        "role_slug": "giuseppe-verdi/la-traviata/annina-violettas-dienerin"
-      },
-      {
-        "person_slug": "jeconiah-retulla",
-        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
-      },
-      {
-        "person_slug": "rafael-bruck",
-        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
-      },
-      {
-        "person_slug": "matthias-wippich",
-        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
-      },
-      {
-        "person_slug": "bettina-schaeffer",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "eva-maria-gunschmann",
-        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
-      },
-      {
-        "person_slug": "ramon-mundin",
-        "role_slug": "giuseppe-verdi/la-traviata/gaston-vicomte-von-letorieres"
-      },
-      {
-        "person_slug": "johannes-schwarsky",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont-sein-vater"
-      },
-      {
-        "person_slug": "gereon-grundmann",
-        "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
-      },
-      {
-        "person_slug": "hayk-deinyan",
-        "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
-      },
-      {
-        "person_slug": "sophie-witte",
-        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "theater-krefeld-moenchengladbach/otello",

@@ -166,6 +166,73 @@
     ]
   },
   {
+    "id": "theater-luebeck/idomeneo-2026-27",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo",
+    "house_slug": "theater-luebeck",
+    "is_revival": false,
+    "detail_url": "https://www.theaterluebeck.de/produktionen/idomeneo_2026-27.html?m=90",
+    "creative_team": [
+      {
+        "person_slug": "jan-michael-kruger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-vladar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carola-volles",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "philipp-himmelmann",
+        "function": "director"
+      },
+      {
+        "person_slug": "michael-sangkuhl",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "falk-hampel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "paul-zoller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "noah-schaul",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/arbace"
+      },
+      {
+        "person_slug": "evmorfia-metaxaki",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/elettra"
+      },
+      {
+        "person_slug": "frederike-schulten",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/idamante"
+      },
+      {
+        "person_slug": "michael-schade",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/idomeneo"
+      },
+      {
+        "person_slug": "andrea-stadel",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/ilia"
+      },
+      {
+        "person_slug": "jorge-luis-martinez-zazueta",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/oberpriester"
+      },
+      {
+        "person_slug": "changjun-lee",
+        "role_slug": "wolfgang-amadeus-mozart/idomeneo/stimme-neptuns"
+      }
+    ]
+  },
+  {
     "id": "theater-luebeck/lapskaos-2025-26",
     "work_slug": "knut-winkmann/lapskaos",
     "house_slug": "theater-luebeck",
@@ -201,6 +268,49 @@
       {
         "person_slug": "jens-ketelsen",
         "role_slug": "knut-winkmann/lapskaos/musikalische-leitung-arrangements"
+      }
+    ]
+  },
+  {
+    "id": "theater-luebeck/schwanensee-2026-27",
+    "work_slug": "peter-tschaikowsky/schwanensee",
+    "house_slug": "theater-luebeck",
+    "is_revival": false,
+    "detail_url": "https://www.theaterluebeck.de/produktionen/schwanensee_2026-27.html?m=90",
+    "creative_team": [
+      {
+        "person_slug": "takahiro-nagasaki",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "uwe-dittrich-gonzalo-galguera",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "claudia-charlotte-burchard",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "keith-chin",
+        "role_slug": "peter-tschaikowsky/schwanensee/choreografische-assistenz"
+      },
+      {
+        "person_slug": "nimesh-dilshan",
+        "role_slug": "peter-tschaikowsky/schwanensee/digital-video-artist"
+      },
+      {
+        "person_slug": "stephan-knies",
+        "role_slug": "peter-tschaikowsky/schwanensee/dramaturgie-fassung-libretto"
+      },
+      {
+        "person_slug": "gonzalo-galguera",
+        "role_slug": "peter-tschaikowsky/schwanensee/inszenierung-choreografie"
+      },
+      {
+        "person_slug": "norikazu-aoki-alan-gonzalez-bravo-maja-kowalik-dori-ku-francesca-sacchi-shoko-seki-flurin-stocker-nn",
+        "role_slug": "peter-tschaikowsky/schwanensee/mit"
       }
     ]
   },
@@ -276,6 +386,81 @@
       {
         "person_slug": "noah-schaul",
         "role_slug": "giacomo-puccini/tosca/spoletta"
+      }
+    ]
+  },
+  {
+    "id": "theater-luebeck/tosca-2026-27",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "theater-luebeck",
+    "is_revival": false,
+    "detail_url": "https://www.theaterluebeck.de/produktionen/tosca_2026-27.html?m=90",
+    "creative_team": [
+      {
+        "person_slug": "gudrun-schroder",
+        "function": "childrens-chorus-master"
+      },
+      {
+        "person_slug": "jan-michael-kruger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-vladar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicola-reichert",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "dietrich-w-hilsdorf",
+        "function": "director"
+      },
+      {
+        "person_slug": "jens-ponath",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "falk-hampel",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "dieter-richter",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "changjun-lee",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti-revolutionar"
+      },
+      {
+        "person_slug": "steffen-kubach",
+        "role_slug": "giacomo-puccini/tosca/eusebio-barbagianni-sakristan"
+      },
+      {
+        "person_slug": "ronja-stroh",
+        "role_slug": "giacomo-puccini/tosca/floria-das-madchen-mit-dem-goldenen-ball"
+      },
+      {
+        "person_slug": "evmorfia-metaxaki",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca-opernsangerin"
+      },
+      {
+        "person_slug": "viktor-aksentijevic",
+        "role_slug": "giacomo-puccini/tosca/gaetano-sciarrone-polizeiagent"
+      },
+      {
+        "person_slug": "noah-schaul",
+        "role_slug": "giacomo-puccini/tosca/giovanni-spoletta-hauptmann-der-carabinieri"
+      },
+      {
+        "person_slug": "konstantinos-klironomos",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi-maler"
+      },
+      {
+        "person_slug": "gerard-quinn",
+        "role_slug": "giacomo-puccini/tosca/vitello-baron-scarpia-polizeichef"
       }
     ]
   },
