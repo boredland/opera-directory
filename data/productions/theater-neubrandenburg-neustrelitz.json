@@ -57,35 +57,35 @@
     "cast": [
       {
         "person_slug": "wiebke-frost",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-frau"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-gemahlin"
       },
       {
         "person_slug": "andres-felipe-orozco",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-ronald-beider-sohn"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/edwin-beider-sohn"
       },
       {
-        "person_slug": "emil-kollmann",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/eugen-von-rohnsdorff-oberleutnant"
+        "person_slug": "marcos-atala",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/ein-geiger"
       },
       {
         "person_slug": "robert-merwald",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-von-kerekes-genannt-feri-bacsi"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/feri-von-kerekes-impresario"
+      },
+      {
+        "person_slug": "david-fischer",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/furst-leopold-maria-von-und-zu-lippert-weylersheim"
       },
       {
         "person_slug": "richard-glockner",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni"
-      },
-      {
-        "person_slug": "ramin-varzandeh",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/herr-kisch"
-      },
-      {
-        "person_slug": "markus-kopp",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/herr-kopp"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancsianu-freund-edwins"
       },
       {
         "person_slug": "rebecca-backus",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/juliska"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/juliska-variete-konditorin"
+      },
+      {
+        "person_slug": "ramin-varzandeh",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/kisch-standesbeamter"
       },
       {
         "person_slug": "laura-scherwitzl",
@@ -93,19 +93,23 @@
       },
       {
         "person_slug": "andreas-hartig",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/lakai"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/lakai-im-hause-lippert-weylersheim"
       },
       {
-        "person_slug": "david-fischer",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/leopold-maria-furst-von-und-zu-lippert-weylersheim"
+        "person_slug": "emil-kollmann",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/rohnsdorff-offizier"
       },
       {
         "person_slug": "julia-baier-tarasova",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu-variete-sangerin"
       },
       {
         "person_slug": "laura-albert",
-        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu"
+        "role_slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu-variete-sangerin"
+      },
+      {
+        "person_slug": "markus-kopp",
+        "role_slug": "emmerich-kalman/die-csardasfurstin/von-kopp-mann-von-welt"
       }
     ]
   },

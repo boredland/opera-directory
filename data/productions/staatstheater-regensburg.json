@@ -410,20 +410,16 @@
     ],
     "cast": [
       {
-        "person_slug": "benedict-kutzer",
-        "role_slug": "come-from-away/bodhran"
-      },
-      {
         "person_slug": "marco-beck",
-        "role_slug": "come-from-away/drums"
+        "role_slug": "come-from-away/drumset"
       },
       {
         "person_slug": "oliver-horeth",
-        "role_slug": "come-from-away/e-bass"
+        "role_slug": "come-from-away/ebass"
       },
       {
         "person_slug": "sven-faller",
-        "role_slug": "come-from-away/e-bass"
+        "role_slug": "come-from-away/ebass"
       },
       {
         "person_slug": "alona-khlevna",
@@ -442,15 +438,15 @@
         "role_slug": "come-from-away/keyboard"
       },
       {
-        "person_slug": "malte-weyland",
+        "person_slug": "elisabeth-sigl",
+        "role_slug": "come-from-away/mandoline"
+      },
+      {
+        "person_slug": "joana-weyland",
         "role_slug": "come-from-away/mandoline"
       },
       {
         "person_slug": "benedikt-dreher",
-        "role_slug": "come-from-away/whistle"
-      },
-      {
-        "person_slug": "lars-pfeiffer",
         "role_slug": "come-from-away/whistle"
       }
     ]

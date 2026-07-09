@@ -6855,9 +6855,19 @@
     "name": "Drums"
   },
   {
+    "slug": "come-from-away/drumset",
+    "work_slug": "come-from-away",
+    "name": "DrumSet"
+  },
+  {
     "slug": "come-from-away/e-bass",
     "work_slug": "come-from-away",
     "name": "E-Bass"
+  },
+  {
+    "slug": "come-from-away/ebass",
+    "work_slug": "come-from-away",
+    "name": "eBass"
   },
   {
     "slug": "come-from-away/fiddle",
@@ -9190,6 +9200,11 @@
     "name": "Anhilte, seine Frau"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/anhilte-seine-gemahlin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Anhilte, seine Gemahlin"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/ausstattungsassistenz",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Ausstattungsassistenz"
@@ -9240,6 +9255,11 @@
     "name": "Edwin Ronald, beider Sohn"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/ein-geiger",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Ein Geiger"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/es-spielt-die",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Es spielt die"
@@ -9280,9 +9300,19 @@
     "name": "Feri von Kerekes, genannt Feribacsi"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/feri-von-kerekes-impresario",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Feri von Kerekes, Impresario"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/furst-leopold-maria",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Fürst Leopold Maria"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/furst-leopold-maria-von-und-zu-lippert-weylersheim",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Fürst Leopold Maria von und zu Lippert-Weylersheim"
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/furst-lippert-weylersheim",
@@ -9303,6 +9333,11 @@
     "slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancsianu",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Graf Boni Kancsianu"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/graf-boni-kancsianu-freund-edwins",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Graf Boni Káncsiánu, Freund Edwins"
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/groom",
@@ -9330,9 +9365,19 @@
     "name": "Juliska"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/juliska-variete-konditorin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Juliska, Varieté-Konditorin"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/kavaliere",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Kavaliere"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/kisch-standesbeamter",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Kisch, Standesbeamter"
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/kiss-notar",
@@ -9358,6 +9403,16 @@
     "slug": "emmerich-kalman/die-csardasfurstin/lakai",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Lakai"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/lakai-im-hause-lippert-weylersheim",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Lakai im Hause Lippert-Weylersheim"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/leopold-maria",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Leopold Maria"
   },
   {
     "slug": "emmerich-kalman/die-csardasfurstin/leopold-maria-furst-von-und-zu-lippert-weylersheim",
@@ -9405,6 +9460,11 @@
     "name": "Regieassistenz und Abendspielleitung"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/rohnsdorff-offizier",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Rohnsdorff, Offizier"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/studienleiter",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Studienleiter"
@@ -9420,6 +9480,11 @@
     "name": "Sylva Varescu, Chansonette"
   },
   {
+    "slug": "emmerich-kalman/die-csardasfurstin/sylva-varescu-variete-sangerin",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "Sylva Varescu, Varieté-Sängerin"
+  },
+  {
     "slug": "emmerich-kalman/die-csardasfurstin/tanzpaar",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Tanzpaar"
@@ -9433,6 +9498,11 @@
     "slug": "emmerich-kalman/die-csardasfurstin/tilla",
     "work_slug": "emmerich-kalman/die-csardasfurstin",
     "name": "Tilla"
+  },
+  {
+    "slug": "emmerich-kalman/die-csardasfurstin/von-kopp-mann-von-welt",
+    "work_slug": "emmerich-kalman/die-csardasfurstin",
+    "name": "von Kopp, Mann von Welt"
   },
   {
     "slug": "emmerich-kalman/die-herzogin-von-chicago/6-boys-bei-sandor",
@@ -9588,6 +9658,11 @@
     "slug": "emmerich-kalman/grafin-mariza/populescu",
     "work_slug": "emmerich-kalman/grafin-mariza",
     "name": "Populescu"
+  },
+  {
+    "slug": "emmerich-kalman/grafin-mariza/tanzensemble",
+    "work_slug": "emmerich-kalman/grafin-mariza",
+    "name": "Tanzensemble"
   },
   {
     "slug": "emmerich-kalman/grafin-mariza/tassilo",
@@ -11730,6 +11805,21 @@
     "name": "Tschang, Sou-Chongs Onkel"
   },
   {
+    "slug": "franz-lehar/der-gottergatte/alkmene",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Alkmene"
+  },
+  {
+    "slug": "franz-lehar/der-gottergatte/amphitryon-konig-von-theben",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Amphitryon, König von Theben"
+  },
+  {
+    "slug": "franz-lehar/der-gottergatte/charis-dessen-ehefrau",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Charis, dessen Ehefrau"
+  },
+  {
     "slug": "franz-lehar/der-gottergatte/charis-ehefrau-von-sosias",
     "work_slug": "franz-lehar/der-gottergatte",
     "name": "Charis, Ehefrau von Sosias"
@@ -11750,14 +11840,34 @@
     "name": "Mäandros, Theaterdirektor"
   },
   {
+    "slug": "franz-lehar/der-gottergatte/maskenbild",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Maskenbild"
+  },
+  {
     "slug": "franz-lehar/der-gottergatte/merkur",
     "work_slug": "franz-lehar/der-gottergatte",
     "name": "Merkur"
   },
   {
+    "slug": "franz-lehar/der-gottergatte/polyhymnia",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Polyhymnia"
+  },
+  {
     "slug": "franz-lehar/der-gottergatte/sosias",
     "work_slug": "franz-lehar/der-gottergatte",
     "name": "Sosias"
+  },
+  {
+    "slug": "franz-lehar/der-gottergatte/terpsichore",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Terpsichore"
+  },
+  {
+    "slug": "franz-lehar/der-gottergatte/thalia",
+    "work_slug": "franz-lehar/der-gottergatte",
+    "name": "Thalia"
   },
   {
     "slug": "franz-lehar/der-graf-von-luxemburg/angele-didier",
@@ -12293,6 +12403,11 @@
     "slug": "franz-von-suppe/boccaccio/spielfassung",
     "work_slug": "franz-von-suppe/boccaccio",
     "name": "Spielfassung"
+  },
+  {
+    "slug": "franz-von-suppe/boccaccio/tanzensemble",
+    "work_slug": "franz-von-suppe/boccaccio",
+    "name": "Tanzensemble"
   },
   {
     "slug": "frederick-loewe-buch/my-fair-lady/alfred-doolittle",
@@ -20688,6 +20803,11 @@
     "slug": "giuseppe-verdi/don-carlos/philippe-ii",
     "work_slug": "giuseppe-verdi/don-carlos",
     "name": "Philippe II."
+  },
+  {
+    "slug": "giuseppe-verdi/ein-maskenball-un-ballo-in-maschera/mitarbeit-konzeption",
+    "work_slug": "giuseppe-verdi/ein-maskenball-un-ballo-in-maschera",
+    "name": "Mitarbeit Konzeption"
   },
   {
     "slug": "giuseppe-verdi/falstaff/alice",

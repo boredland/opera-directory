@@ -83,6 +83,33 @@
     ]
   },
   {
+    "id": "theater-luebeck/ein-maskenball-2026-27",
+    "work_slug": "giuseppe-verdi/ein-maskenball-un-ballo-in-maschera",
+    "house_slug": "theater-luebeck",
+    "is_revival": false,
+    "detail_url": "https://www.theaterluebeck.de/produktionen/ein-maskenball_2026-27.html?m=90",
+    "creative_team": [
+      {
+        "person_slug": "stefan-vladar",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-drescher",
+        "function": "director"
+      },
+      {
+        "person_slug": "tatjana-ivschina",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "maximilian-hagemeyer",
+        "role_slug": "giuseppe-verdi/ein-maskenball-un-ballo-in-maschera/mitarbeit-konzeption"
+      }
+    ]
+  },
+  {
     "id": "theater-luebeck/hoffmanns-erzaehlungen-2025-26",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen-les-contes-d-hoffmann",
     "house_slug": "theater-luebeck",

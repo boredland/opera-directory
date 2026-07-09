@@ -84,6 +84,10 @@
       {
         "person_slug": "jenny-w-gregor",
         "role_slug": "franz-von-suppe/boccaccio/spielfassung"
+      },
+      {
+        "person_slug": "miriam-lechlech-dance-captain-erick-aguirre-blaz-cunk-franziska-ga-mann-sophie-glora-martina-rudari",
+        "role_slug": "franz-von-suppe/boccaccio/tanzensemble"
       }
     ]
   },
@@ -114,8 +118,16 @@
     ],
     "cast": [
       {
+        "person_slug": "carina-tybjerg-madsen",
+        "role_slug": "franz-lehar/der-gottergatte/alkmene"
+      },
+      {
+        "person_slug": "martin-lechleitner",
+        "role_slug": "franz-lehar/der-gottergatte/amphitryon-konig-von-theben"
+      },
+      {
         "person_slug": "eva-scholer",
-        "role_slug": "franz-lehar/der-gottergatte/charis-ehefrau-von-sosias"
+        "role_slug": "franz-lehar/der-gottergatte/charis-dessen-ehefrau"
       },
       {
         "person_slug": "cinzia-zanovello",
@@ -130,12 +142,28 @@
         "role_slug": "franz-lehar/der-gottergatte/maandros-theaterdirektor"
       },
       {
+        "person_slug": "petra-herzler-grossmann",
+        "role_slug": "franz-lehar/der-gottergatte/maskenbild"
+      },
+      {
         "person_slug": "lukas-karzel",
         "role_slug": "franz-lehar/der-gottergatte/merkur"
       },
       {
+        "person_slug": "sorina-florina-neacsu",
+        "role_slug": "franz-lehar/der-gottergatte/polyhymnia"
+      },
+      {
         "person_slug": "gerd-vogel",
         "role_slug": "franz-lehar/der-gottergatte/sosias"
+      },
+      {
+        "person_slug": "fiona-mantovan",
+        "role_slug": "franz-lehar/der-gottergatte/terpsichore"
+      },
+      {
+        "person_slug": "nina-jakovljevic",
+        "role_slug": "franz-lehar/der-gottergatte/thalia"
       }
     ]
   },
@@ -212,6 +240,10 @@
       {
         "person_slug": "martin-achrainer",
         "role_slug": "emmerich-kalman/grafin-mariza/populescu"
+      },
+      {
+        "person_slug": "miriam-lechlech-dance-captain-erick-aguirre-blaz-cunk-franziska-ga-mann-sophie-glora-martina-rudari",
+        "role_slug": "emmerich-kalman/grafin-mariza/tanzensemble"
       },
       {
         "person_slug": "daniel-pataky",
