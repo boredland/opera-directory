@@ -3278,5 +3278,144 @@
         "role_slug": "albert-lortzing/zar-und-zimmermann/witwe-browe"
       }
     ]
+  },
+  {
+    "id": "deutsche-oper-berlin/zar-und-zimmermann-17825229",
+    "work_slug": "albert-lortzing/zar-und-zimmermann",
+    "house_slug": "deutsche-oper-berlin",
+    "is_revival": false,
+    "detail_url": "https://www.deutscheoperberlin.de/de_DE/calendar/zar-und-zimmermann.17825229",
+    "creative_team": [
+      {
+        "person_slug": "marie-christin-zeisset",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "antonello-manacorda",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "martin-g-berger",
+        "function": "director"
+      },
+      {
+        "person_slug": "jorg-konigsdorf",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "sascha-zauner",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sarah-katharina-karl",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vincent-stefan",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "chor-der-deutschen-oper-berlin",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/chore"
+      },
+      {
+        "person_slug": "thomas-richter",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/chore"
+      },
+      {
+        "person_slug": "katharina-brehl",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/ein-geheimdienstmitarbeiter"
+      },
+      {
+        "person_slug": "alexander-choeb",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/klanggestaltung"
+      },
+      {
+        "person_slug": "jared-werlein",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/lefort"
+      },
+      {
+        "person_slug": "padraic-rowan",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/lord-syndham"
+      },
+      {
+        "person_slug": "nadja-mchantaf",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/marie"
+      },
+      {
+        "person_slug": "kieran-carrel",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/marquis-von-chateauneuf"
+      },
+      {
+        "person_slug": "jorg-schorner",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/ministerprasident-von-holland"
+      },
+      {
+        "person_slug": "orchester-der-deutschen-oper-berlin",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/orchester"
+      },
+      {
+        "person_slug": "artur-garbas",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/peter-der-erste-peter-michaelow"
+      },
+      {
+        "person_slug": "philipp-kapeller",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/peter-iwanow"
+      },
+      {
+        "person_slug": "fabian-gerhardt",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/raul-onkel-des-zaren"
+      },
+      {
+        "person_slug": "charlotte-fischer",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "derrick-amanatidis",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "fabio-kopf",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "gwennaelle-ludwig",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "olivia-goga",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "robin-poell",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "stephen-dole",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "verena-schonberger",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/tanzer-innen"
+      },
+      {
+        "person_slug": "patrick-zielke",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/van-bett"
+      },
+      {
+        "person_slug": "nicole-piccolomini",
+        "role_slug": "albert-lortzing/zar-und-zimmermann/witwe-browe"
+      }
+    ]
   }
 ]

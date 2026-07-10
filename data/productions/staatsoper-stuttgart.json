@@ -309,7 +309,7 @@
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/il-barbiere-di-siviglia/8509/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/il-barbiere-di-siviglia/8510/",
     "creative_team": [
       {
         "person_slug": "giulio-ferre",
@@ -348,6 +348,10 @@
       {
         "person_slug": "alberto-robert",
         "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/der-graf-almaviva"
+      },
+      {
+        "person_slug": "herren-des-staatsopernchores-stuttgart",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/einget-herrenchor"
       },
       {
         "person_slug": "bjorn-burger",
@@ -550,15 +554,29 @@
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
     "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/the-littmann-sessions-2025-26/8591/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "raphaela-fiuza-nowakowski",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "camille-teresita-daur",
+        "role_slug": "the-littmann-sessions-eine-pop-gala/ausstattun"
+      },
+      {
+        "person_slug": "eine-pop-gala",
+        "role_slug": "the-littmann-sessions-eine-pop-gala/the-littmann-sessions"
+      }
+    ]
   },
   {
     "id": "staatsoper-stuttgart/turandot",
     "work_slug": "giacomo-puccini/turandot",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/turandot/8680/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/turandot/8681/",
     "creative_team": [
       {
         "person_slug": "ivan-estegneev",

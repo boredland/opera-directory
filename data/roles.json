@@ -1115,14 +1115,59 @@
     "name": "Teufel"
   },
   {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/captain-nicholl-florida-man",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Captain Nicholl / Florida Man"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/general-morgan-1-selenit",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "General Morgan / 1. Selenit"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/impey-barbicane",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Impey Barbicane"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/j-t-maston",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "J.-T. Maston"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/kapitan-blomsberry-t-b-houston-walfisch-mondkonig",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Kapitän Blomsberry / T.B. \"Houston\" / Walfisch / Mondkönig"
+  },
+  {
     "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/kunst-vermittlung",
     "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
     "name": "Kunst & Vermittlung"
   },
   {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/luna",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Luna"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/major-elphiston-petunientopf-2-selenit",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Major Elphiston / Petunientopf / 2. Selenit"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/michel-ardent-t-b-san-antonio",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Michel Ardent / T.B. \"San Antonio\""
+  },
+  {
     "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/orchester",
     "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
     "name": "Orchester"
+  },
+  {
+    "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/professor-belfast-t-b-brownsville-3-selenit",
+    "work_slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
+    "name": "Professor Belfast / T.B. \"Brownsville\" / 3. Selenit"
   },
   {
     "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond/statisterie",
@@ -14960,6 +15005,11 @@
     "name": "Escamillo, Torero"
   },
   {
+    "slug": "georges-bizet/carmen/extrachor",
+    "work_slug": "georges-bizet/carmen",
+    "name": "Extrachor"
+  },
+  {
     "slug": "georges-bizet/carmen/frasquita",
     "work_slug": "georges-bizet/carmen",
     "name": "Frasquita"
@@ -18558,6 +18608,11 @@
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/don-basilio",
     "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
     "name": "Don Basilio"
+  },
+  {
+    "slug": "gioachino-rossini/il-barbiere-di-siviglia/einget-herrenchor",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "name": "Einget. Herrenchor!"
   },
   {
     "slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro",
@@ -31595,6 +31650,11 @@
     "name": "Maximilian | Captain | Inquisitor II. | Judge II."
   },
   {
+    "slug": "leonard-bernstein/candide/maximilian-father",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Maximilian / Father"
+  },
+  {
     "slug": "leonard-bernstein/candide/old-lady",
     "work_slug": "leonard-bernstein/candide",
     "name": "Old Lady"
@@ -31613,6 +31673,11 @@
     "slug": "leonard-bernstein/candide/paquette",
     "work_slug": "leonard-bernstein/candide",
     "name": "Paquette"
+  },
+  {
+    "slug": "leonard-bernstein/candide/principal-ensemble",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Principal Ensemble"
   },
   {
     "slug": "leonard-bernstein/candide/sultan-achmet-crook",
@@ -42770,6 +42835,16 @@
     "name": "The King's Herald"
   },
   {
+    "slug": "richard-wagner/lohengrin/vier-brabantische-edle",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Vier brabantische Edle"
+  },
+  {
+    "slug": "richard-wagner/lohengrin/vier-edelknaben",
+    "work_slug": "richard-wagner/lohengrin",
+    "name": "Vier Edelknaben"
+  },
+  {
     "slug": "richard-wagner/lohengrin/vierter-brabantischer-edler",
     "work_slug": "richard-wagner/lohengrin",
     "name": "Vierter brabantischer Edler"
@@ -46300,6 +46375,16 @@
     "name": "Sportin' Life"
   },
   {
+    "slug": "the-littmann-sessions-eine-pop-gala/ausstattun",
+    "work_slug": "the-littmann-sessions-eine-pop-gala",
+    "name": "Ausstattun"
+  },
+  {
+    "slug": "the-littmann-sessions-eine-pop-gala/the-littmann-sessions",
+    "work_slug": "the-littmann-sessions-eine-pop-gala",
+    "name": "The Littmann Sessions"
+  },
+  {
     "slug": "the-times-are-racing/adaption-buhnenbild",
     "work_slug": "the-times-are-racing",
     "name": "Adaption Bühnenbild"
@@ -49518,6 +49603,11 @@
     "slug": "wolfgang-amadeus-mozart/don-giovanni/masetto",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "name": "Masetto"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/don-giovanni/orchester",
+    "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
+    "name": "Orchester"
   },
   {
     "slug": "wolfgang-amadeus-mozart/don-giovanni/the-commander",

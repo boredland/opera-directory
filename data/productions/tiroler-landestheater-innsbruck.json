@@ -778,6 +778,10 @@
     "detail_url": "https://www.landestheater.at/produktionen/don-giovanni",
     "creative_team": [
       {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "gerrit-prie-nitz",
         "function": "conductor"
       },
@@ -794,7 +798,44 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "jacob-phillips",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-giovanni"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/don-ottavio"
+      },
+      {
+        "person_slug": "annina-wachter",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-anna"
+      },
+      {
+        "person_slug": "camilla-lehmeier",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/donna-elvira"
+      },
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/il-commendatore"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/leporello"
+      },
+      {
+        "person_slug": "benjamin-chamandy",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/masetto"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/orchester"
+      },
+      {
+        "person_slug": "anastasia-lerman",
+        "role_slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina"
+      }
+    ]
   },
   {
     "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-62862",
@@ -803,6 +844,10 @@
     "is_revival": false,
     "detail_url": "https://www.landestheater.at/produktionen/lohengrin",
     "creative_team": [
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
+      },
       {
         "person_slug": "gerrit-prie-nitz",
         "function": "conductor"
@@ -824,11 +869,76 @@
         "function": "dramaturgy"
       },
       {
+        "person_slug": "franck-evin",
+        "function": "lighting"
+      },
+      {
         "person_slug": "susanne-gschwender",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "mojca-erdmann",
+        "role_slug": "richard-wagner/lohengrin/elsa-von-brabant"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "richard-wagner/lohengrin/extrachor"
+      },
+      {
+        "person_slug": "tommi-hakala",
+        "role_slug": "richard-wagner/lohengrin/friedrich-von-telramund"
+      },
+      {
+        "person_slug": "johannes-maria-wimmer",
+        "role_slug": "richard-wagner/lohengrin/heinrich-der-vogler"
+      },
+      {
+        "person_slug": "tomislav-muzek",
+        "role_slug": "richard-wagner/lohengrin/lohengrin"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "richard-wagner/lohengrin/orchester"
+      },
+      {
+        "person_slug": "nadine-lehner",
+        "role_slug": "richard-wagner/lohengrin/ortrud"
+      },
+      {
+        "person_slug": "jakob-nistler",
+        "role_slug": "richard-wagner/lohengrin/vier-brabantische-edle"
+      },
+      {
+        "person_slug": "julien-horbatuk",
+        "role_slug": "richard-wagner/lohengrin/vier-brabantische-edle"
+      },
+      {
+        "person_slug": "junghwan-lee",
+        "role_slug": "richard-wagner/lohengrin/vier-brabantische-edle"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "richard-wagner/lohengrin/vier-brabantische-edle"
+      },
+      {
+        "person_slug": "ana-akhmeteli",
+        "role_slug": "richard-wagner/lohengrin/vier-edelknaben"
+      },
+      {
+        "person_slug": "monika-duringer",
+        "role_slug": "richard-wagner/lohengrin/vier-edelknaben"
+      },
+      {
+        "person_slug": "renate-fankhauser-brambock",
+        "role_slug": "richard-wagner/lohengrin/vier-edelknaben"
+      },
+      {
+        "person_slug": "saiko-kawano",
+        "role_slug": "richard-wagner/lohengrin/vier-edelknaben"
+      }
+    ]
   },
   {
     "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-63054",
@@ -838,8 +948,16 @@
     "detail_url": "https://www.landestheater.at/produktionen/carmen",
     "creative_team": [
       {
+        "person_slug": "kinderchor-des-tiroler-landestheaters",
+        "function": "childrens-chorus-master"
+      },
+      {
         "person_slug": "teresa-rotemberg",
         "function": "choreographer"
+      },
+      {
+        "person_slug": "chor-des-tiroler-landestheaters",
+        "function": "chorus-master"
       },
       {
         "person_slug": "lorenz-c-aichner",
@@ -862,7 +980,56 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "camilla-lehmeier",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "william-blake",
+        "role_slug": "georges-bizet/carmen/dancaire"
+      },
+      {
+        "person_slug": "jenish-ysmanov",
+        "role_slug": "georges-bizet/carmen/don-jose-sergeant"
+      },
+      {
+        "person_slug": "jacob-phillips",
+        "role_slug": "georges-bizet/carmen/escamillo-torero"
+      },
+      {
+        "person_slug": "extrachor-des-tiroler-landestheaters",
+        "role_slug": "georges-bizet/carmen/extrachor"
+      },
+      {
+        "person_slug": "annina-wachter",
+        "role_slug": "georges-bizet/carmen/frasquita"
+      },
+      {
+        "person_slug": "bernarda-klinar",
+        "role_slug": "georges-bizet/carmen/mercedes"
+      },
+      {
+        "person_slug": "anastasia-lerman",
+        "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "benjamin-chamandy",
+        "role_slug": "georges-bizet/carmen/morales"
+      },
+      {
+        "person_slug": "tiroler-symphonieorchester-innsbruck",
+        "role_slug": "georges-bizet/carmen/orchester"
+      },
+      {
+        "person_slug": "jakob-nistler",
+        "role_slug": "georges-bizet/carmen/remendado"
+      },
+      {
+        "person_slug": "oliver-sailer",
+        "role_slug": "georges-bizet/carmen/zuniga"
+      }
+    ]
   },
   {
     "id": "tiroler-landestheater-innsbruck/tiroler-landestheater-innsbruck-63120",

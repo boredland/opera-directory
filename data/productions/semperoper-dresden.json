@@ -1136,14 +1136,6 @@
     "creative_team": [],
     "cast": [
       {
-        "person_slug": "hans-sotin",
-        "role_slug": "semper-bar-manfred-wei-guests/begleitung"
-      },
-      {
-        "person_slug": "johannes-wulff-woesten",
-        "role_slug": "semper-bar-manfred-wei-guests/begleitung"
-      },
-      {
         "person_slug": "manfred-wei",
         "role_slug": "semper-bar-manfred-wei-guests/moderation"
       },
@@ -1176,5 +1168,14 @@
         "role_slug": "semper-bar-manfred-wei-guests/solistin"
       }
     ]
+  },
+  {
+    "id": "semperoper-dresden/63022",
+    "work_slug": "tournee-zum-saisonauftakt",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/tournee-saisonauftakt-2026/63022.html",
+    "creative_team": [],
+    "cast": []
   }
 ]

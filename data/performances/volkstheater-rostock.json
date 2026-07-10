@@ -24,6 +24,22 @@
     "status": "scheduled"
   },
   {
+    "id": "volkstheater-rostock/die-fledermaus/2027-01-09/19:30",
+    "production_id": "volkstheater-rostock/die-fledermaus",
+    "date": "2027-01-09",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "volkstheater-rostock/die-fledermaus/2027-01-30/19:30",
+    "production_id": "volkstheater-rostock/die-fledermaus",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "volkstheater-rostock/die-fledermaus/2027-02-27/19:30",
     "production_id": "volkstheater-rostock/die-fledermaus",
     "date": "2027-02-27",
@@ -60,6 +76,30 @@
     "production_id": "volkstheater-rostock/rigoletto",
     "date": "2026-10-30",
     "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "volkstheater-rostock/rigoletto/2026-11-15/18:00",
+    "production_id": "volkstheater-rostock/rigoletto",
+    "date": "2026-11-15",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "volkstheater-rostock/rigoletto/2026-12-04/19:30",
+    "production_id": "volkstheater-rostock/rigoletto",
+    "date": "2026-12-04",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "volkstheater-rostock/rigoletto/2027-01-24/15:00",
+    "production_id": "volkstheater-rostock/rigoletto",
+    "date": "2027-01-24",
+    "time": "15:00",
     "venue_room": "Großes Haus",
     "status": "scheduled"
   }

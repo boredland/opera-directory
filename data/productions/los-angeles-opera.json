@@ -58,15 +58,23 @@
       },
       {
         "person_slug": "mario-manzo",
-        "role_slug": "leonard-bernstein/candide/maximilian"
+        "role_slug": "leonard-bernstein/candide/maximilian-father"
       },
       {
         "person_slug": "patti-lupone",
         "role_slug": "leonard-bernstein/candide/old-lady"
       },
       {
-        "person_slug": "emily-damasco",
+        "person_slug": "kristen-choi",
         "role_slug": "leonard-bernstein/candide/paquette"
+      },
+      {
+        "person_slug": "david-prottas",
+        "role_slug": "leonard-bernstein/candide/principal-ensemble"
+      },
+      {
+        "person_slug": "erin-alford",
+        "role_slug": "leonard-bernstein/candide/principal-ensemble"
       }
     ]
   },
@@ -128,7 +136,7 @@
         "role_slug": "georges-bizet/carmen/escamillo"
       },
       {
-        "person_slug": "emily-damasco",
+        "person_slug": "gabrielle-turgeon",
         "role_slug": "georges-bizet/carmen/frasquita"
       },
       {
@@ -146,6 +154,10 @@
       {
         "person_slug": "kathleen-o-mara",
         "role_slug": "georges-bizet/carmen/micaela"
+      },
+      {
+        "person_slug": "ryan-wolfe",
+        "role_slug": "georges-bizet/carmen/morales"
       },
       {
         "person_slug": "ran-arthur-braun",
