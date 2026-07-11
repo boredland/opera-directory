@@ -1,5 +1,41 @@
 [
   {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-alkestida",
+    "work_slug": "christoph-willibald-gluck/alkestida",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/alkestida",
+    "creative_team": [
+      {
+        "person_slug": "julien-chauvin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lemi-ponifasio",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-carmen-3",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/carmen-3",
+    "creative_team": [
+      {
+        "person_slug": "ayrton-desimpelaere",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "caterina-panti-liberovici",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "sng-opera-ljubljana/sng-opera-ljubljana-carmina-burana-plus",
     "work_slug": "carl-orff/carmina-burana",
     "house_slug": "sng-opera-ljubljana",
@@ -85,6 +121,24 @@
         "role_slug": "carl-orff/carmina-burana/tenor"
       }
     ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-cavalleria-rusticanaglumaci",
+    "work_slug": "pietro-mascagni-ruggiero-leoncavallo/cavalleria-rusticana-glumaci",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/cavalleria-rusticanaglumaci",
+    "creative_team": [
+      {
+        "person_slug": "valentin-egel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manfred-schweigkofler",
+        "function": "director"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "sng-opera-ljubljana/sng-opera-ljubljana-devica-orleanska",
@@ -212,6 +266,24 @@
         "role_slug": "pyotr-ilyich-tchaikovsky/the-maid-of-orleans/thibaut-d-arc-joan-s-father"
       }
     ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-ekvinokci",
+    "work_slug": "marjan-kozina/ekvinokcij",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/ekvinokci",
+    "creative_team": [
+      {
+        "person_slug": "marko-hribernik",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "janusz-kica",
+        "function": "director"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "sng-opera-ljubljana/sng-opera-ljubljana-giuseppe-verdi-la-traviata",
@@ -359,6 +431,40 @@
         "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
       }
     ]
+  },
+  {
+    "id": "sng-opera-ljubljana/sng-opera-ljubljana-gorenjski-slavcek",
+    "work_slug": "anton-foerster/gorenjski-slavcek",
+    "house_slug": "sng-opera-ljubljana",
+    "is_revival": false,
+    "detail_url": "https://www.opera.si/en/programme/event/opera/gorenjski-slavcek",
+    "creative_team": [
+      {
+        "person_slug": "sanja-neskovic-persin",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "barbara-podlogar",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vito-taufer",
+        "function": "director"
+      },
+      {
+        "person_slug": "tatjana-azman",
+        "function": "dramaturg"
+      },
+      {
+        "person_slug": "pascal-merat",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "samo-lapajne",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "sng-opera-ljubljana/sng-opera-ljubljana-italijanka-v-alziru",

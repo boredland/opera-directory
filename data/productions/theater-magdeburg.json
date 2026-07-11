@@ -20,6 +20,10 @@
         "function": "conductor"
       },
       {
+        "person_slug": "martina-gredler",
+        "function": "director"
+      },
+      {
         "person_slug": "esther-beisecker",
         "function": "dramaturgy"
       },
@@ -168,6 +172,10 @@
     "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/la-boheme/",
     "creative_team": [
       {
+        "person_slug": "luise-kautz",
+        "function": "director"
+      },
+      {
         "person_slug": "christoph-clausen",
         "function": "dramaturgy"
       }
@@ -232,6 +240,10 @@
     "is_revival": false,
     "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/mad-king-blaubart/",
     "creative_team": [
+      {
+        "person_slug": "ilaria-lanzino",
+        "function": "director"
+      },
       {
         "person_slug": "esther-beisecker",
         "function": "dramaturgy"
@@ -516,7 +528,16 @@
         "function": "dramaturgy"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "sascha-sulimma",
+        "role_slug": "vacuum-valley-aufstieg-und-fall-einer-chipfabrik/musik"
+      },
+      {
+        "person_slug": "alexander-karschnia",
+        "role_slug": "vacuum-valley-aufstieg-und-fall-einer-chipfabrik/text"
+      }
+    ]
   },
   {
     "id": "theater-magdeburg/wie-im-himmel",

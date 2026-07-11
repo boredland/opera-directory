@@ -142,6 +142,14 @@
     "status": "scheduled"
   },
   {
+    "id": "landestheater-linz/die-burgschaft/2026-27/2027-04-03/20:00",
+    "production_id": "landestheater-linz/die-burgschaft/2026-27",
+    "date": "2027-04-03",
+    "time": "20:00",
+    "venue_room": "BlackBox Musiktheater",
+    "status": "scheduled"
+  },
+  {
     "id": "landestheater-linz/die-burgschaft/2026-27/2027-04-10/20:00",
     "production_id": "landestheater-linz/die-burgschaft/2026-27",
     "date": "2027-04-10",
@@ -257,6 +265,14 @@
     "id": "landestheater-linz/die-csardasfurstin/2026-27/2027-01-07/19:30",
     "production_id": "landestheater-linz/die-csardasfurstin/2026-27",
     "date": "2027-01-07",
+    "time": "19:30",
+    "venue_room": "Großer Saal Musiktheater",
+    "status": "scheduled"
+  },
+  {
+    "id": "landestheater-linz/die-csardasfurstin/2026-27/2027-02-05/19:30",
+    "production_id": "landestheater-linz/die-csardasfurstin/2026-27",
+    "date": "2027-02-05",
     "time": "19:30",
     "venue_room": "Großer Saal Musiktheater",
     "status": "scheduled"
@@ -660,6 +676,14 @@
     "status": "scheduled"
   },
   {
+    "id": "landestheater-linz/la-cenerentola-ossia-la-bonta-in-trionfo/2026-27/2027-06-21/19:30",
+    "production_id": "landestheater-linz/la-cenerentola-ossia-la-bonta-in-trionfo/2026-27",
+    "date": "2027-06-21",
+    "time": "19:30",
+    "venue_room": "Großer Saal Musiktheater",
+    "status": "scheduled"
+  },
+  {
     "id": "landestheater-linz/la-cenerentola-ossia-la-bonta-in-trionfo/2026-27/2027-07-10/19:30",
     "production_id": "landestheater-linz/la-cenerentola-ossia-la-bonta-in-trionfo/2026-27",
     "date": "2027-07-10",
@@ -866,6 +890,13 @@
     "time": "10:30",
     "venue_room": "Großer Saal Musiktheater",
     "status": "scheduled"
+  },
+  {
+    "id": "landestheater-linz/oper-am-klavier-ii-zaide/2025-26/2026-07-09/",
+    "production_id": "landestheater-linz/oper-am-klavier-ii-zaide/2025-26",
+    "date": "2026-07-09",
+    "venue_room": "BlackBox Lounge Musiktheater",
+    "status": "past"
   },
   {
     "id": "landestheater-linz/oper-am-klavier-ii-zaide/2025-26/2026-07-10/20:00",

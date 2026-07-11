@@ -90,7 +90,36 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "ma-gorzata-roc-awska",
+        "role_slug": "carl-maria-von-weber/der-freischutz/agatha-seine-tochter"
+      },
+      {
+        "person_slug": "anna-avdalyan",
+        "role_slug": "carl-maria-von-weber/der-freischutz/annchen-eine-junge-verwandte"
+      },
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kaspar-erster-jagerbursche"
+      },
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "carl-maria-von-weber/der-freischutz/kuno-furstlicher-erbforster"
+      },
+      {
+        "person_slug": "christian-alexander-muller",
+        "role_slug": "carl-maria-von-weber/der-freischutz/max-zweiter-jagerbursche"
+      },
+      {
+        "person_slug": "philipp-franke",
+        "role_slug": "carl-maria-von-weber/der-freischutz/ottokar-bohmischer-furst"
+      },
+      {
+        "person_slug": "sarah-kuffner",
+        "role_slug": "carl-maria-von-weber/der-freischutz/vier-brautjungfern"
+      }
+    ]
   },
   {
     "id": "schleswig-holsteinisches-landestheater/dialogues-des-carmlites",
@@ -211,7 +240,28 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "christian-alexander-muller",
+        "role_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein/baron-puck-haushofmeister"
+      },
+      {
+        "person_slug": "vera-semieniuk",
+        "role_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein/die-gro-herzogin"
+      },
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein/general-bumm"
+      },
+      {
+        "person_slug": "philipp-franke",
+        "role_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein/prinz-paul"
+      },
+      {
+        "person_slug": "ma-gorzata-roc-awska",
+        "role_slug": "jacques-offenbach/die-grossherzogin-von-gerolstein/wanda-bauerin-verlobte-von-fritz"
+      }
+    ]
   },
   {
     "id": "schleswig-holsteinisches-landestheater/die-piraten-von-penzance",
@@ -367,6 +417,35 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kai-moritz-von-blanckenburg",
+        "role_slug": "giacomo-puccini/la-boheme/benoit-alcindoro"
+      },
+      {
+        "person_slug": "miko-aj-bonkowski",
+        "role_slug": "giacomo-puccini/la-boheme/colline-philosoph"
+      },
+      {
+        "person_slug": "philipp-franke",
+        "role_slug": "giacomo-puccini/la-boheme/marcello-dichter"
+      },
+      {
+        "person_slug": "ma-gorzata-roc-awska",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "anna-avdalyan",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "dritan-angoni",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo-dichter"
+      },
+      {
+        "person_slug": "christian-oldenburg",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard-musiker"
+      }
+    ]
   }
 ]

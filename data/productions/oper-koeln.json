@@ -228,10 +228,6 @@
         "function": "conductor"
       },
       {
-        "person_slug": "jens-kilian",
-        "function": "costume-designer"
-      },
-      {
         "person_slug": "brigitta-gillessen",
         "function": "director"
       },
@@ -283,11 +279,11 @@
       },
       {
         "person_slug": "dustin-drosdziok",
-        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friederich-aus-dem-westen"
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friedrich-aus-dem-westen"
       },
       {
         "person_slug": "wonjun-kim",
-        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friederich-aus-dem-westen"
+        "role_slug": "philipp-matthias-kaufmann/der-konig-verschenkt-was/konig-friedrich-aus-dem-westen"
       },
       {
         "person_slug": "ks-miljenko-turk",
@@ -363,10 +359,6 @@
       {
         "person_slug": "ks-dalia-schaechter",
         "role_slug": "richard-strauss/der-rosenkavalier/annina"
-      },
-      {
-        "person_slug": "rene-neumann",
-        "role_slug": "richard-strauss/der-rosenkavalier/co-kostumbildner"
       },
       {
         "person_slug": "celine-baril",
@@ -451,6 +443,10 @@
       {
         "person_slug": "won-min-lee",
         "role_slug": "richard-strauss/der-rosenkavalier/lakaien-der-marschallin-vier-kellner"
+      },
+      {
+        "person_slug": "rene-neumann",
+        "role_slug": "richard-strauss/der-rosenkavalier/mitarbeit-kostum"
       },
       {
         "person_slug": "bianca-andrew",
@@ -1364,6 +1360,15 @@
     "house_slug": "oper-koeln",
     "is_revival": false,
     "detail_url": "https://www.oper.koeln/de/produktion/kasalla-nit-esu-laut/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "oper-koeln/katharsis-morphe-reversible-mambo-3xxi",
+    "work_slug": "choreografien-von-annabelle-lopez-ochoa-und-george-cespedes/katharsis-morphe-reversible-mambo-3xxi",
+    "house_slug": "oper-koeln",
+    "is_revival": false,
+    "detail_url": "https://www.oper.koeln/de/produktion/katharsis-morphe-reversible-mambo-3xxi/",
     "creative_team": [],
     "cast": []
   },
