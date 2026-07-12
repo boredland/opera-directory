@@ -26,10 +26,6 @@
       {
         "person_slug": "esther-beisecker",
         "function": "dramaturgy"
-      },
-      {
-        "person_slug": "anneliese-neudecker",
-        "function": "set-designer"
       }
     ],
     "cast": []
@@ -54,24 +50,12 @@
         "function": "conductor"
       },
       {
-        "person_slug": "virginie-gervaise",
-        "function": "costume-designer"
-      },
-      {
         "person_slug": "jean-francois-sivadier",
         "function": "director"
       },
       {
         "person_slug": "esther-beisecker",
         "function": "dramaturgy"
-      },
-      {
-        "person_slug": "philippe-berthome",
-        "function": "lighting"
-      },
-      {
-        "person_slug": "alexandre-de-dardel",
-        "function": "set-designer"
       }
     ],
     "cast": [
@@ -106,14 +90,6 @@
       {
         "person_slug": "olli-rasanen",
         "role_slug": "gioachino-rossini/der-barbier-von-sevilla/fiorello-ein-offizier"
-      },
-      {
-        "person_slug": "francisco-brito",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva"
-      },
-      {
-        "person_slug": "patrick-kabongo",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/graf-almaviva"
       },
       {
         "person_slug": "weronika-rabek",
@@ -340,14 +316,6 @@
         "role_slug": "julien-chavaz/neverland/konzept"
       },
       {
-        "person_slug": "severine-besson",
-        "role_slug": "julien-chavaz/neverland/kostum"
-      },
-      {
-        "person_slug": "alixe-durand-saint-guillain",
-        "role_slug": "julien-chavaz/neverland/mitarbeit-regie"
-      },
-      {
         "person_slug": "daniel-daniela-ojeda-yrureta",
         "role_slug": "julien-chavaz/neverland/tinkerbell"
       }
@@ -379,10 +347,6 @@
       {
         "person_slug": "christoph-clausen",
         "function": "dramaturgy"
-      },
-      {
-        "person_slug": "anneliese-neudecker",
-        "function": "set-designer"
       }
     ],
     "cast": []
@@ -394,10 +358,6 @@
     "is_revival": false,
     "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/rodgers-hammersteins-oklahoma/",
     "creative_team": [
-      {
-        "person_slug": "sabine-arthold",
-        "function": "choreographer"
-      },
       {
         "person_slug": "martin-wagner",
         "function": "chorus-master"
@@ -411,82 +371,26 @@
         "function": "conductor"
       },
       {
-        "person_slug": "lukas-pirmin-wassmann",
-        "function": "costume-designer"
-      },
-      {
         "person_slug": "erik-petersen",
         "function": "director"
       },
       {
         "person_slug": "ulrike-schroder",
         "function": "dramaturgy"
-      },
-      {
-        "person_slug": "dirk-hofacker",
-        "function": "set-designer"
       }
     ],
     "cast": [
       {
-        "person_slug": "belen-edelmann",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes"
-      },
-      {
-        "person_slug": "kara-kemeny",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ado-annie-carnes"
-      },
-      {
         "person_slug": "jan-ungar",
         "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ali-hakim"
-      },
-      {
-        "person_slug": "sascha-laue",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/andrew-carnes"
-      },
-      {
-        "person_slug": "fabio-kopf",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/cord"
       },
       {
         "person_slug": "rhys-george",
         "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/cord"
       },
       {
-        "person_slug": "nicky-wuchinger",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/curly-mclain"
-      },
-      {
-        "person_slug": "belen-edelmann",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ensemble"
-      },
-      {
-        "person_slug": "dominik-wojtasik",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/fred"
-      },
-      {
         "person_slug": "jeanett-neumeister",
         "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/gertie-cummings"
-      },
-      {
-        "person_slug": "belen-edelmann",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ike"
-      },
-      {
-        "person_slug": "jenny-gerlich",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/ike"
-      },
-      {
-        "person_slug": "alexander-auler",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/jud-fry"
-      },
-      {
-        "person_slug": "sabrina-weckerlin",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/laurey-williams"
-      },
-      {
-        "person_slug": "andrew-chadwick",
-        "role_slug": "richard-rodgers/rodgers-hammerstein-s-oklahoma/will-parker"
       }
     ]
   },

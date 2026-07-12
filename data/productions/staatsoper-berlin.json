@@ -176,18 +176,50 @@
     "detail_url": "https://www.staatsoper-berlin.de/de/veranstaltungen/die-entfuehrung-aus-dem-serail.21973/",
     "creative_team": [
       {
-        "person_slug": "thomas-guggeis",
+        "person_slug": "tim-fluch",
         "function": "conductor"
+      },
+      {
+        "person_slug": "anja-rabes",
+        "function": "costume-designer"
       },
       {
         "person_slug": "andrea-moses",
         "function": "director"
+      },
+      {
+        "person_slug": "irene-selka",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "raimund-bauer",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "andrea-gabriel",
+        "function": "video-designer"
       }
     ],
     "cast": [
       {
-        "person_slug": "caroline-staunton",
-        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/spielleitung"
+        "person_slug": "jonah-hoskins",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/belmonte"
+      },
+      {
+        "person_slug": "serafina-starke",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/blonde"
+      },
+      {
+        "person_slug": "gerhard-polifka",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/einstudierung-chor"
+      },
+      {
+        "person_slug": "brenda-rae",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/konstanze"
+      },
+      {
+        "person_slug": "stefan-cerny",
+        "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/osmin"
       }
     ]
   },

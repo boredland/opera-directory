@@ -625,7 +625,7 @@
     "premiere_date": "1982-11-13",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/15/1_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_temirk/onegin_temirk_kozlovskaya2_by_vilchuk.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_temirk/onegin_pavlov2_by_vilchuk.jpg",
     "synopsis": "The garden on the Larins’ estate . In the distance, Tatiana and Olga can be heard singing. Listening to them, Mrs Larina and Filippievna the nanny recall their own younger days. Visitors appear unexpectedly: Vladimir Lensky, the Larins’ neighbour and Olga’s fiancé, has brought with him his friend Onegin – a young man recently come down to the country from the capital. While Lensky declares his love to Olga, the new visitor chats with Tatiana. The nanny notes how excited Tatiana is at the meeting. Tatiana’s bedroom . Tatiana cannot sleep. Filippievna tries to dispel her anxiety with the tale of her own maidenly status. Once alone, Tatiana writes a letter to Onegin. With the arrival of dawn, she asks the nanny to deliver the letter. The Larins’ garden . Tatiana anxiously awaits a reply. Eugene appears – he is touched by her declaration but is unable to return her love. The Larins’ house . A ball in honour of Tatiana’s name day. Lensky has convinced his friend to visit the Larins, but the party and the guests serve to irritate Onegin. In revenge, he begins to play court to Olga. The readiness with which the young woman accepts his attentions drives Lensky to despair. He starts a quarrel with Onegin and challenges him to a duel. An abandoned mill . Lensky and his second await the arrival of Onegin. Lensky mournfully and nostalgically contemplates the former “golden days” of his youth. At last the rival comes. The former friends are willing to forget any offence caused, but ideals of honour gain the upper hand. A shot rings out and Lensky drops down dead. A room in a luxurious mansion in St Petersburg . Following a lengthy absence, Onegin returns to live in the capital. He finds Tatiana a married woman, now at the centre of attention having taken her place in high society. Her husband Prince Gremin speaks to Onegin of his happiness. The transformation of the young woman he knew awakens feelings of love in Onegin’s heart. The drawing-room in Gremin’s house . Weeping, Tati",
     "creative_team": [
       {
@@ -647,7 +647,7 @@
     ],
     "cast": [
       {
-        "person_slug": "tba",
+        "person_slug": "mikhail-pavlov",
         "role_slug": "pyotr-tchaikovsky/eugene-onegin/eugene-onegin"
       },
       {
@@ -655,7 +655,7 @@
         "role_slug": "pyotr-tchaikovsky/eugene-onegin/lensky"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "svetlana-karpova",
         "role_slug": "pyotr-tchaikovsky/eugene-onegin/olga"
       },
       {
@@ -2129,7 +2129,7 @@
     "premiere_date": "2009-07-15",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/16/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/rusalka_k3/rusalka_scene_by_razina.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/rusalka_k3/rusalka_bayankina_2_by_razina.jpg",
     "synopsis": "SYNOPSIS Act I Not far from the hut of Ježibaba, Rusalka sits forlornly on the shore of the lake. The wood nymphs have awoken the old Water-Sprite, Rusalka’s father, with their singing, and he has swum to the surface of the lake. Frightened, the nymphs depart, and Rusalka tells her father of her grief. She has fallen passionately in love with a handsome prince and is ready to do whatever it takes just to be with him. She wishes to acquire a human soul. The Water-Sprite is dismayed: this love will bring his daughter much woe and grief. Because having a soul means to suffer! However, touched by his daughter’s prayers, he sends her for advice to Ježibaba. Rusalka sets off for the old woman. The latter agrees to assist, but on a certain condition: when she becomes human, Rusalka will have no power of speech, and if she loses the love of the Prince she will be transformed into a will-o’-the wisp of the swamp and lead her beloved to death. Rusalka agrees to the risks. The transformation is complete. As the sun rises over the lake, the Prince appears, having got lost while on a hunt. He sees the beautiful maiden, and, falling in love with her at first sight, he takes her to his castle. Act II AT the castle, the Prince is preparing for his wedding. The servants are all discussing the event in as lively a way as could be imagined, and are surprised by the mysterious appearance of the bride. The bride is downcast. A beautiful and coquettish Princess who is visiting the castle is taking up more and more of the Prince’s attention. The ball begins, and celebratory music can be heard while the guests make merry in a carefree whirlwind of joy. The Water-Sprite, who has stolen into the park, sees with pain how his daughter is suffering in silence. Rusalka tries to draw her betrothed to her side, but he rejects her. In front of Rusalka, her eyes filled with misery, the Prince declares his love for the Princess. Rusalka runs from the castle, protesting to the Water-Sprite of her betr",
     "creative_team": [
       {
@@ -2153,7 +2153,28 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "anna-matis",
+        "role_slug": "antonin-dvorak/rusalka/jezibaba-baba-yaga"
+      },
+      {
+        "person_slug": "maria-bayankina",
+        "role_slug": "antonin-dvorak/rusalka/the-mermaid"
+      },
+      {
+        "person_slug": "ilya-selivanov",
+        "role_slug": "antonin-dvorak/rusalka/the-prince"
+      },
+      {
+        "person_slug": "tatiana-starkova",
+        "role_slug": "antonin-dvorak/rusalka/the-princess"
+      },
+      {
+        "person_slug": "bakuri-kalichava",
+        "role_slug": "antonin-dvorak/rusalka/the-water-sprite"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-samson-dalila",
@@ -2482,7 +2503,20 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kira-loginova",
+        "role_slug": "giacomo-puccini/suor-angelica-gianni-schicchi/sister-genovieffa"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giacomo-puccini/suor-angelica-gianni-schicchi/suor-angelica"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giacomo-puccini/suor-angelica-gianni-schicchi/the-princess"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-svadbafig-alex",
@@ -2653,7 +2687,7 @@
     "premiere_date": "2022-10-19",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/_traviata_semistage_en.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/traviata_kz_kozlovskaya_belov_by_vilchuk.jpg",
     "synopsis": "Act I Paris. A party is underway at the home of Violetta Valéry, a well-known demimondaine. Violetta&acute;s admirers are celebrating her return to health. Alfredo Germont is among the guests. He asks Gastone to introduce him as he is in love with her. At the request of the other guests, Alfredo sings a toast in her honour. As the others go to dance, Violetta is taken ill. She asks to be left alone. Alfredo, concerned that the woman he loves is ill, begs her to change her way of life and believe in his love. His love gives rise to Violetta&acute;s hopes for happiness. Act II Scene I A country house near Paris. Alfredo and Violetta live here in contentment. Annina, Violetta&acute;s maid, confesses to Alfredo that her mistress is secretly selling her belongings. Tormented by his conscience, Alfredo leaves for Paris to deal with these financial affairs. When she returns, Violetta cannot find Alfredo. Giuseppe the gardener gives her a letter from Flora. It is an invitation to a ball. Violetta lays it to one side in indifference – she will not attend. Suddenly, Alfredo&acute;s father Giorgio Germont appears. He accuses Violetta of ruining his son and soiling the family name. Violetta is in despair: she is mortally ill and has not long to live; her love for Alfredo is her only joy and comfort. Giorgio Germont is surprised at the sincerity of her emotions, but still insists that Violetta leaves his son. Violetta agrees and decides to sacrifice her own happiness. Alfredo returns from Paris. He is surprised by Violetta&acute;s perturbed manner. For the final time, she tells him of her undying love, then she leaves. Alfredo is overjoyed. \"Ah, this dear one lives only for my love!\" he says of Violetta. He is brought a letter; it is a letter of farewell from Violetta, in which she says she is returning to Baron Douphol. Alfredo is shocked. Giorgio Germont enters. He asks his son to return home to Provence. Alfredo does not listen to his father and he is unable to comprehend Vio",
     "creative_team": [
       {
@@ -2665,7 +2699,20 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kirill-belov",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "vladislav-kupriyanov",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "inara-kozlovskaya",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-troyens",
