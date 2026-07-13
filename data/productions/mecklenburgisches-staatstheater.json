@@ -75,10 +75,6 @@
     ],
     "cast": [
       {
-        "person_slug": "karen-leiber",
-        "role_slug": "ludwig-van-beethoven/fidelio/autorin-maike-graf-besetzung-leonore"
-      },
-      {
         "person_slug": "mecklenburgische-staatskapelle",
         "role_slug": "ludwig-van-beethoven/fidelio/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester"
       },
@@ -99,12 +95,16 @@
         "role_slug": "ludwig-van-beethoven/fidelio/jaquino"
       },
       {
+        "person_slug": "karen-leiber",
+        "role_slug": "ludwig-van-beethoven/fidelio/leonore"
+      },
+      {
         "person_slug": "anna-graf",
         "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
       },
       {
         "person_slug": "judith-lebiez",
-        "role_slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-dramaturgie"
+        "role_slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-autorin-maike-graf-dramaturgie"
       },
       {
         "person_slug": "gerard-farreras",
