@@ -140,52 +140,12 @@
         "role_slug": "leonard-bernstein/candide/assistenz-live-illustration"
       },
       {
-        "person_slug": "carlos-moreno-pelizari",
-        "role_slug": "leonard-bernstein/candide/candide"
-      },
-      {
-        "person_slug": "kirsten-labonte",
-        "role_slug": "leonard-bernstein/candide/cunegonde"
-      },
-      {
-        "person_slug": "sophie-bareis",
-        "role_slug": "leonard-bernstein/candide/cunegonde"
-      },
-      {
-        "person_slug": "benedikt-eder",
-        "role_slug": "leonard-bernstein/candide/dr-pangloss-martin"
-      },
-      {
-        "person_slug": "michael-heuberger",
-        "role_slug": "leonard-bernstein/candide/erzahler"
-      },
-      {
-        "person_slug": "konstantin-igl",
-        "role_slug": "leonard-bernstein/candide/inquisitor-i-judge-i-governor-vanderdendur-ragotski"
-      },
-      {
-        "person_slug": "roman-ruslan-soltys",
-        "role_slug": "leonard-bernstein/candide/inquisitor-iii-judge-iii-croupier"
-      },
-      {
         "person_slug": "florian-toperngpong",
         "role_slug": "leonard-bernstein/candide/live-illustration"
       },
       {
         "person_slug": "robert-nippoldt",
         "role_slug": "leonard-bernstein/candide/live-illustration"
-      },
-      {
-        "person_slug": "jakob-hoffmann",
-        "role_slug": "leonard-bernstein/candide/maximilian-captain-inquisitor-ii-judge-ii"
-      },
-      {
-        "person_slug": "svitlana-slyvia",
-        "role_slug": "leonard-bernstein/candide/old-lady"
-      },
-      {
-        "person_slug": "scarlett-pulwey",
-        "role_slug": "leonard-bernstein/candide/paquette"
       }
     ]
   },
@@ -410,6 +370,26 @@
     ],
     "cast": [
       {
+        "person_slug": "patricia-hodell",
+        "role_slug": "come-from-away/beulah-delores"
+      },
+      {
+        "person_slug": "wietske-van-tongeren",
+        "role_slug": "come-from-away/beverley-annette-reporterin"
+      },
+      {
+        "person_slug": "jan-ungar",
+        "role_slug": "come-from-away/bob-muhumuza-captain-bristol"
+      },
+      {
+        "person_slug": "veronika-hormann",
+        "role_slug": "come-from-away/bonnie-martha"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "come-from-away/claude-derm-eddie"
+      },
+      {
         "person_slug": "marco-beck",
         "role_slug": "come-from-away/drumset"
       },
@@ -434,8 +414,20 @@
         "role_slug": "come-from-away/gitarre"
       },
       {
-        "person_slug": "andreas-kowalewitz",
-        "role_slug": "come-from-away/keyboard"
+        "person_slug": "masengu-kanyinda",
+        "role_slug": "come-from-away/hannah-margie-micky"
+      },
+      {
+        "person_slug": "scarlett-pulwey",
+        "role_slug": "come-from-away/janice-britney-flugbegleiterin"
+      },
+      {
+        "person_slug": "alejandro-nicolas-firlei-fernandez",
+        "role_slug": "come-from-away/kevin-j-dwight-ali"
+      },
+      {
+        "person_slug": "andreas-bieber",
+        "role_slug": "come-from-away/kevin-t-garth-prasident-bush"
       },
       {
         "person_slug": "elisabeth-sigl",
@@ -444,6 +436,14 @@
       {
         "person_slug": "joana-weyland",
         "role_slug": "come-from-away/mandoline"
+      },
+      {
+        "person_slug": "jogi-kaiser",
+        "role_slug": "come-from-away/nick-doug-officer-stephenson"
+      },
+      {
+        "person_slug": "felix-rabas",
+        "role_slug": "come-from-away/oz-joey-zollbeamter-mr-michaels-terry-matty-rabbi-kardiologe"
       },
       {
         "person_slug": "benedikt-dreher",

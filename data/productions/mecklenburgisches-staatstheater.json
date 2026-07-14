@@ -71,9 +71,29 @@
       {
         "person_slug": "gabor-hontvari",
         "function": "conductor"
+      },
+      {
+        "person_slug": "sofia-dorazio-brockhausen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kerstin-steeb",
+        "function": "director"
+      },
+      {
+        "person_slug": "judith-lebiez",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christopher-dippert",
+        "function": "set-designer"
       }
     ],
     "cast": [
+      {
+        "person_slug": "maike-graf",
+        "role_slug": "ludwig-van-beethoven/fidelio/autorin"
+      },
       {
         "person_slug": "mecklenburgische-staatskapelle",
         "role_slug": "ludwig-van-beethoven/fidelio/chor-opernchor-des-mecklenburgischen-staatstheaters-orchester"
@@ -87,8 +107,8 @@
         "role_slug": "ludwig-van-beethoven/fidelio/erster-gefangener"
       },
       {
-        "person_slug": "brian-davis",
-        "role_slug": "ludwig-van-beethoven/fidelio/florestan-roman-payer-pizarro"
+        "person_slug": "roman-payer",
+        "role_slug": "ludwig-van-beethoven/fidelio/florestan"
       },
       {
         "person_slug": "sebastian-koppl",
@@ -103,8 +123,8 @@
         "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
       },
       {
-        "person_slug": "judith-lebiez",
-        "role_slug": "ludwig-van-beethoven/fidelio/regie-kerstin-steeb-buhne-und-video-christopher-dippert-kostume-sofia-dorazio-brockhausen-autorin-maike-graf-dramaturgie"
+        "person_slug": "brian-davis",
+        "role_slug": "ludwig-van-beethoven/fidelio/pizarro"
       },
       {
         "person_slug": "gerard-farreras",
@@ -143,16 +163,19 @@
     "detail_url": "https://www.mecklenburgisches-staatstheater.de/programm/samson-et-dalila.html",
     "creative_team": [
       {
+        "person_slug": "kiril-stankow",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thomas-schmidt-ehrenberg",
+        "function": "director"
+      },
+      {
         "person_slug": "silke-von-patay",
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "thomas-schmidt-ehrenberg",
-        "role_slug": "camille-saint-saens/samson-et-dalila/musikalische-leitung-kiril-stankow-regie"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mecklenburgisches-staatstheater/un-ballo-in-maschera",

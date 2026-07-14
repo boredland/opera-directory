@@ -28,66 +28,21 @@
   },
   {
     "id": "theater-magdeburg/der-barbier-von-sevilla",
-    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "work_slug": "der-barbier-von-sevilla",
     "house_slug": "theater-magdeburg",
     "is_revival": false,
-    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20252026/premieren/der-barbier-von-sevilla/",
+    "detail_url": "https://www.theater-magdeburg.de/inszenierungen/musiktheater/sz-20262027/premieren-2627/der-barbier-von-sevilla/",
     "creative_team": [
-      {
-        "person_slug": "martin-wagner",
-        "function": "chorus-master"
-      },
       {
         "person_slug": "davide-rinaldi",
         "function": "conductor"
       },
       {
-        "person_slug": "fergus-sheil",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "jean-francois-sivadier",
+        "person_slug": "melanie-huber",
         "function": "director"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "marcus-kaloff",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/ambrogio"
-      },
-      {
-        "person_slug": "jeanett-neumeister",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/berta"
-      },
-      {
-        "person_slug": "rosha-fitzhowle",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/berta"
-      },
-      {
-        "person_slug": "david-howes",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/doktor-bartolo"
-      },
-      {
-        "person_slug": "johannes-stermann",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/don-basilio"
-      },
-      {
-        "person_slug": "dogukan-kuran",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/figaro"
-      },
-      {
-        "person_slug": "marko-pantelic",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/figaro"
-      },
-      {
-        "person_slug": "olli-rasanen",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/fiorello-ein-offizier"
-      },
-      {
-        "person_slug": "weronika-rabek",
-        "role_slug": "gioachino-rossini/der-barbier-von-sevilla/rosina"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "theater-magdeburg/die-unbedingten-dinge",
