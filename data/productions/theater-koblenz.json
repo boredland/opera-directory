@@ -235,5 +235,23 @@
         "role_slug": "ludwig-van-beethoven/fidelio/zweiter-gefangener"
       }
     ]
+  },
+  {
+    "id": "theater-koblenz/hoffmanns-erzaehlungen",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/hoffmanns-erzaehlungen/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-koblenz/la-boheme",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/la-boheme/",
+    "creative_team": [],
+    "cast": []
   }
 ]

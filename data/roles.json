@@ -1890,6 +1890,61 @@
     "name": "Verantwortlicher Bühnenmeister"
   },
   {
+    "slug": "anno-schreier/cosa-nostra/erster-mafioso",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Erster Mafioso"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/francesca-morvillo",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Francesca Morvillo"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/giovanni-falcone",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Giovanni Falcone"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/michele-greco-der-papst",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Michele Greco „Der Papst“"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/paolo-borsellino",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Paolo Borsellino"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/rita-atria",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Rita Atria"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/rosaria-costa",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Rosaria Costa"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/stimme-von-giulio-andreotti",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Stimme von Giulio Andreotti"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/tommaso-buscetta",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Tommaso Buscetta"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/vito-schifani",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Vito Schifani"
+  },
+  {
+    "slug": "anno-schreier/cosa-nostra/zweiter-mafioso",
+    "work_slug": "anno-schreier/cosa-nostra",
+    "name": "Zweiter Mafioso"
+  },
+  {
     "slug": "anno-schreier/mina-oder-die-reise-zum-meer/flote",
     "work_slug": "anno-schreier/mina-oder-die-reise-zum-meer",
     "name": "Flöte"
@@ -3748,6 +3803,11 @@
     "slug": "benjamin-britten/billy-budd/squeak",
     "work_slug": "benjamin-britten/billy-budd",
     "name": "Squeak"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/orchester",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "orchester"
   },
   {
     "slug": "benjamin-britten/peter-grimes/1re-niece",
@@ -7538,6 +7598,11 @@
     "slug": "der-nussknacker/orchester",
     "work_slug": "der-nussknacker",
     "name": "Orchester"
+  },
+  {
+    "slug": "der-rote-wal/orchester",
+    "work_slug": "der-rote-wal",
+    "name": "orchester"
   },
   {
     "slug": "derrick-wang/scalia-ginsburg/antonin-scalia",
@@ -11928,6 +11993,11 @@
     "slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg/rene-graf-von-luxemburg",
     "work_slug": "franz-lehar-buch-von-a-m-willner/der-graf-von-luxemburg",
     "name": "René, Graf von Luxemburg"
+  },
+  {
+    "slug": "franz-lehar/das-land-des-lachelns/franz-lehar",
+    "work_slug": "franz-lehar/das-land-des-lachelns",
+    "name": "Franz Lehár"
   },
   {
     "slug": "franz-lehar/das-land-des-lachelns/graf-ferdinand-lichtenfels",
@@ -29725,6 +29795,11 @@
     "name": "Johann"
   },
   {
+    "slug": "jules-massenet/werther/katchen",
+    "work_slug": "jules-massenet/werther",
+    "name": "Kätchen"
+  },
+  {
     "slug": "jules-massenet/werther/kathchen",
     "work_slug": "jules-massenet/werther",
     "name": "Käthchen"
@@ -31713,6 +31788,11 @@
     "slug": "leonard-bernstein/candide/assistenz-live-illustration",
     "work_slug": "leonard-bernstein/candide",
     "name": "Assistenz Live-Illustration"
+  },
+  {
+    "slug": "leonard-bernstein/candide/baron-don-issachar-governor",
+    "work_slug": "leonard-bernstein/candide",
+    "name": "Baron / Don Issachar / Governor"
   },
   {
     "slug": "leonard-bernstein/candide/baroness-vanderdendur",
@@ -35265,6 +35345,16 @@
     "name": "Shepherds / Spirits"
   },
   {
+    "slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium/kunstlerische-gesamtleitung",
+    "work_slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium",
+    "name": "künstlerische gesamtleitung"
+  },
+  {
+    "slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium/orchester",
+    "work_slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium",
+    "name": "orchester"
+  },
+  {
     "slug": "mozart/die-entfuhrung-aus-dem-serail/actors",
     "work_slug": "mozart/die-entfuhrung-aus-dem-serail",
     "name": "Actors"
@@ -37778,6 +37868,11 @@
     "slug": "pierangelo-valtinoni/der-kleine-prinz/mutter-die-eitle-rose",
     "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
     "name": "Mutter / Die Eitle / Rose"
+  },
+  {
+    "slug": "pierangelo-valtinoni/der-kleine-prinz/orchester",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "name": "orchester"
   },
   {
     "slug": "pierangelo-valtinoni/der-kleine-prinz/pilot",
@@ -48475,6 +48570,51 @@
     "name": "MERCUTIO / LADY CAPULET"
   },
   {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/evan-hunter",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "evan hunter"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "filmcrew / ensemble"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/hitchcocks-stimme",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "hitchcocks stimme"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/jessica-tandy",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "jessica tandy"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/orchester",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "orchester"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/peggy-robertson",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "peggy robertson"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/ray-berwick",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "ray berwick"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/robin",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "robin"
+  },
+  {
+    "slug": "william-ward-murta/the-birds-of-alfred-hitchcock/tippi-hedren",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "name": "tippi hedren"
+  },
+  {
     "slug": "wolfang-amadeus-mozart/cosi-fan-tutte/despina",
     "work_slug": "wolfang-amadeus-mozart/cosi-fan-tutte",
     "name": "Despina"
@@ -49693,6 +49833,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher-zweiter-priester-zweiter-geharnischter",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Sprecher / Zweiter Priester / Zweiter Geharnischter"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecherr-dritter-mann",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "sprecherr / dritter mann"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/szenische-einstudierung",

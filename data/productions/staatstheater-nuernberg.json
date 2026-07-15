@@ -50,7 +50,52 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "han-bo-jeon",
+        "role_slug": "anno-schreier/cosa-nostra/erster-mafioso"
+      },
+      {
+        "person_slug": "emily-newton",
+        "role_slug": "anno-schreier/cosa-nostra/francesca-morvillo"
+      },
+      {
+        "person_slug": "samuel-hasselhorn",
+        "role_slug": "anno-schreier/cosa-nostra/giovanni-falcone"
+      },
+      {
+        "person_slug": "taeseok-oh",
+        "role_slug": "anno-schreier/cosa-nostra/michele-greco-der-papst"
+      },
+      {
+        "person_slug": "martin-platz",
+        "role_slug": "anno-schreier/cosa-nostra/paolo-borsellino"
+      },
+      {
+        "person_slug": "veronika-loy",
+        "role_slug": "anno-schreier/cosa-nostra/rita-atria"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "anno-schreier/cosa-nostra/rosaria-costa"
+      },
+      {
+        "person_slug": "chorsolo",
+        "role_slug": "anno-schreier/cosa-nostra/stimme-von-giulio-andreotti"
+      },
+      {
+        "person_slug": "wonyong-kang",
+        "role_slug": "anno-schreier/cosa-nostra/tommaso-buscetta"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "anno-schreier/cosa-nostra/vito-schifani"
+      },
+      {
+        "person_slug": "moon-shick-oh",
+        "role_slug": "anno-schreier/cosa-nostra/zweiter-mafioso"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/der-barbier-von-sevilla",
@@ -1371,7 +1416,44 @@
         "function": "conductor"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "sangmin-lee",
+        "role_slug": "jules-massenet/werther/albert"
+      },
+      {
+        "person_slug": "hektor-palmer-nordfors",
+        "role_slug": "jules-massenet/werther/bruhlmann"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "jules-massenet/werther/charlotte"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "jules-massenet/werther/johann"
+      },
+      {
+        "person_slug": "annika-henriot",
+        "role_slug": "jules-massenet/werther/katchen"
+      },
+      {
+        "person_slug": "taras-konoshchenko",
+        "role_slug": "jules-massenet/werther/le-bailli"
+      },
+      {
+        "person_slug": "hans-kittelmann",
+        "role_slug": "jules-massenet/werther/schmidt"
+      },
+      {
+        "person_slug": "chloe-morgan",
+        "role_slug": "jules-massenet/werther/sophie"
+      },
+      {
+        "person_slug": "pedro-andre-arroyo-ojeda",
+        "role_slug": "jules-massenet/werther/werther"
+      }
+    ]
   },
   {
     "id": "staatstheater-nuernberg/west-side-story",

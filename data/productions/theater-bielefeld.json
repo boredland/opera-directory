@@ -95,6 +95,68 @@
     ]
   },
   {
+    "id": "theater-bielefeld/der-kleine-prinz",
+    "work_slug": "pierangelo-valtinoni/der-kleine-prinz",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/der-kleine-prinz",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ana-cuellar",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "pierangelo-valtinoni/der-kleine-prinz/orchester"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/der-rote-wal",
+    "work_slug": "der-rote-wal",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/der-rote-wal",
+    "creative_team": [
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "anne-hinrichsen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "wolfgang-nagele",
+        "function": "director"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "der-rote-wal/orchester"
+      }
+    ]
+  },
+  {
     "id": "theater-bielefeld/der-troubadour-il-trovatore",
     "work_slug": "giuseppe-verdi/der-troubadour-il-trovatore",
     "house_slug": "theater-bielefeld",
@@ -170,6 +232,181 @@
       {
         "person_slug": "andrei-skliarenko",
         "role_slug": "giuseppe-verdi/der-troubadour-il-trovatore/ruiz-ein-bote"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/die-fledermaus",
+    "work_slug": "johann-strauss/die-fledermaus",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/die-fledermaus",
+    "creative_team": [
+      {
+        "person_slug": "michaela-thiel",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nick-westbrock",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-leitner",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-bielefeld/die-tiefe-des-raumes-ein-fussballoratorium",
+    "work_slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/die-tiefe-des-raumes-ein-fussballoratorium",
+    "creative_team": [
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "gregor-rot",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "wolfgang-nagele",
+        "role_slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium/kunstlerische-gesamtleitung"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "moritz-eggert/die-tiefe-des-raumes-ein-fu-balloratorium/orchester"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/die-zauberfloete",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/die-zauberfloete",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "robin-davis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "laura-herder",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "lisa-da-ler",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cornelie-isenburger",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "veronika-lee",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "lorin-wey",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "mayan-goldenfeld",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "tomas-kildisius",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "moon-soo-park",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "evgueniy-alexiev",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecherr-dritter-mann"
+      },
+      {
+        "person_slug": "andrei-skliarenko",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "marta-wryk",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/ein-sommernachtstraum-a-midsummer-nights-dream",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/ein-sommernachtstraum-a-midsummer-nights-dream",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "robin-davis",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-spreckelmeyer",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "nadja-loschky",
+        "function": "director"
+      },
+      {
+        "person_slug": "jon-philipp-von-linden",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/orchester"
       }
     ]
   },
@@ -292,6 +529,15 @@
     ]
   },
   {
+    "id": "theater-bielefeld/krabat",
+    "work_slug": "eine-volkssage/krabat",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/krabat",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-bielefeld/peter-pan",
     "work_slug": "james-matthew-barrie/peter-pan",
     "house_slug": "theater-bielefeld",
@@ -383,6 +629,124 @@
       {
         "person_slug": "isabell-giebeler",
         "role_slug": "james-matthew-barrie/peter-pan/zwillinge-lost-boy-bill-jukes-pirat"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/the-birds-of-alfred-hitchcock",
+    "work_slug": "william-ward-murta/the-birds-of-alfred-hitchcock",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/the-birds-of-alfred-hitchcock",
+    "creative_team": [
+      {
+        "person_slug": "hagen-enke",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "william-ward-murta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "william-ward-murta",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "michael-heicks",
+        "function": "director"
+      },
+      {
+        "person_slug": "jon-philipp-von-linden",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "julia-hattstein",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "sascha-vredenburg",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nikolaj-alexander-brucker",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/evan-hunter"
+      },
+      {
+        "person_slug": "anastasia-glowienka",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble"
+      },
+      {
+        "person_slug": "djamila-al-slaiman",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble"
+      },
+      {
+        "person_slug": "john-jona-bastian-janzen",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble"
+      },
+      {
+        "person_slug": "jonas-blahowetz",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble"
+      },
+      {
+        "person_slug": "max-friso-wielenga",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/filmcrew-ensemble"
+      },
+      {
+        "person_slug": "thomas-wehling",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/hitchcocks-stimme"
+      },
+      {
+        "person_slug": "christina-huckle",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/jessica-tandy"
+      },
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/orchester"
+      },
+      {
+        "person_slug": "frederike-haas",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/peggy-robertson"
+      },
+      {
+        "person_slug": "arsalan-naimi",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/ray-berwick"
+      },
+      {
+        "person_slug": "carlos-horacio-rivas",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/robin"
+      },
+      {
+        "person_slug": "lara-hofmann",
+        "role_slug": "william-ward-murta/the-birds-of-alfred-hitchcock/tippi-hedren"
+      }
+    ]
+  },
+  {
+    "id": "theater-bielefeld/tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "theater-bielefeld",
+    "is_revival": false,
+    "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/tosca",
+    "creative_team": [
+      {
+        "person_slug": "opernchor",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "robin-davis",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bielefelder-philharmoniker",
+        "role_slug": "giacomo-puccini/tosca/orchester"
       }
     ]
   },
