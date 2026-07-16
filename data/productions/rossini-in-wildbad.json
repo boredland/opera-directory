@@ -114,10 +114,6 @@
         "role_slug": "gioachino-rossini/la-gazza-ladra/chor-und-orchester-der-filharmonia-szymanowskiego"
       },
       {
-        "person_slug": "giovanni-accardi",
-        "role_slug": "gioachino-rossini/la-gazza-ladra/ernesto"
-      },
-      {
         "person_slug": "matteo-torcaso",
         "role_slug": "gioachino-rossini/la-gazza-ladra/fabrizio-vingradito"
       },
@@ -186,6 +182,10 @@
       {
         "person_slug": "marcel-hahn",
         "function": "lighting"
+      },
+      {
+        "person_slug": "jochen-schonleber",
+        "function": "set-designer"
       }
     ],
     "cast": [

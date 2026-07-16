@@ -494,7 +494,11 @@
         "role_slug": "gioachino-rossini/die-reise-nach-reims/baron-trombonok"
       },
       {
-        "person_slug": "andres-agudelo-antonio-mandrillo",
+        "person_slug": "andres-agudelo",
+        "role_slug": "gioachino-rossini/die-reise-nach-reims/chevalier-belfiore"
+      },
+      {
+        "person_slug": "antonio-mandrillo",
         "role_slug": "gioachino-rossini/die-reise-nach-reims/chevalier-belfiore"
       },
       {
@@ -715,6 +719,10 @@
       {
         "person_slug": "matteo-ivan-rasic",
         "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/prinz-tamino"
+      },
+      {
+        "person_slug": "albert-pesendorfer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
       },
       {
         "person_slug": "lukas-enoch-lemcke",
@@ -1066,6 +1074,10 @@
       }
     ],
     "cast": [
+      {
+        "person_slug": "andres-agudelo",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
       {
         "person_slug": "lucian-krasznec",
         "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"

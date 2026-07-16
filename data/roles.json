@@ -7075,6 +7075,11 @@
     "name": "eBass"
   },
   {
+    "slug": "come-from-away/ensemble-swing",
+    "work_slug": "come-from-away",
+    "name": "Ensemble | Swing"
+  },
+  {
     "slug": "come-from-away/fiddle",
     "work_slug": "come-from-away",
     "name": "Fiddle"
@@ -16018,6 +16023,11 @@
     "slug": "giacomo-puccini/la-boheme/eddie-wade",
     "work_slug": "giacomo-puccini/la-boheme",
     "name": "Eddie Wade"
+  },
+  {
+    "slug": "giacomo-puccini/la-boheme/ein-zollner",
+    "work_slug": "giacomo-puccini/la-boheme",
+    "name": "Ein Zöllner"
   },
   {
     "slug": "giacomo-puccini/la-boheme/einstudierung-chor",
@@ -26215,6 +26225,11 @@
     "name": "Andrès / Cochenille / Frantz / Pitichinaccio"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-frantz-pittichinaccio",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Andres/Cochenille/Frantz/Pittichinaccio"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-pitichinaccio-frantz",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Andrès / Cochenille / Pitichinaccio / Frantz"
@@ -26265,6 +26280,11 @@
     "name": "Hermann"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann-schlemihl",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Hermann/Schlemihl"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Hoffmann"
@@ -26283,6 +26303,11 @@
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dapertutto-miracle",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Lindorf / Coppélius / Dapertutto / Miracle"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dr-miracle-dapertutto",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Lindorf/Coppelius/Dr. Miracle/Dapertutto"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-luther-coppelius-miracle-dappertutto",
@@ -26320,6 +26345,11 @@
     "name": "Olympia / Giulietta"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-giulietta-antonia-stella",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Olympia/Giulietta/Antonia/Stella"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/schlemihl",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Schlemihl"
@@ -26338,6 +26368,11 @@
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/stimme-der-mutter",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Stimme der Mutter"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/stimme-von-antonias-mutter",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Stimme von Antonias Mutter"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/szenische-einstudierung",
@@ -29490,6 +29525,11 @@
     "name": "Lotte"
   },
   {
+    "slug": "joseph-beer/polnische-hochzeit/regieassistenz-abendspielleitung",
+    "work_slug": "joseph-beer/polnische-hochzeit",
+    "name": "Regieassistenz & Abendspielleitung"
+  },
+  {
     "slug": "joseph-beer/polnische-hochzeit/stani",
     "work_slug": "joseph-beer/polnische-hochzeit",
     "name": "Stani"
@@ -30153,6 +30193,11 @@
     "slug": "karol-szymanowski/krol-roger-rea/hirte",
     "work_slug": "karol-szymanowski/krol-roger-rea",
     "name": "Hirte"
+  },
+  {
+    "slug": "karol-szymanowski/krol-roger-rea/regieassistenz-abendspielleitung",
+    "work_slug": "karol-szymanowski/krol-roger-rea",
+    "name": "Regieassistenz & Abendspielleitung"
   },
   {
     "slug": "karol-szymanowski/krol-roger-rea/roger",
@@ -44683,6 +44728,11 @@
     "slug": "ruggero-leoncavallo/la-boheme/un-signore",
     "work_slug": "ruggero-leoncavallo/la-boheme",
     "name": "Un signore"
+  },
+  {
+    "slug": "ruggero-leoncavallo/pagliacci/beppe",
+    "work_slug": "ruggero-leoncavallo/pagliacci",
+    "name": "Beppe"
   },
   {
     "slug": "ruggero-leoncavallo/pagliacci/canio",

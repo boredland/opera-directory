@@ -784,6 +784,14 @@
     "status": "scheduled"
   },
   {
+    "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-05/19:15",
+    "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
+    "date": "2027-03-05",
+    "time": "19:15",
+    "venue_room": "Linbury Theatre",
+    "status": "scheduled"
+  },
+  {
     "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-06/19:15",
     "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
     "date": "2027-03-06",
@@ -800,6 +808,14 @@
     "status": "scheduled"
   },
   {
+    "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-08/19:15",
+    "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
+    "date": "2027-03-08",
+    "time": "19:15",
+    "venue_room": "Linbury Theatre",
+    "status": "scheduled"
+  },
+  {
     "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-09/19:15",
     "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
     "date": "2027-03-09",
@@ -811,6 +827,14 @@
     "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-10/19:15",
     "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
     "date": "2027-03-10",
+    "time": "19:15",
+    "venue_room": "Linbury Theatre",
+    "status": "scheduled"
+  },
+  {
+    "id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather/2027-03-11/19:15",
+    "production_id": "royal-opera-house/royal-opera-house-les-boreades-rb-schlather",
+    "date": "2027-03-11",
     "time": "19:15",
     "venue_room": "Linbury Theatre",
     "status": "scheduled"
@@ -1268,6 +1292,22 @@
     "production_id": "royal-opera-house/royal-opera-house-ur-netia-jones",
     "date": "2027-05-30",
     "time": "14:00",
+    "venue_room": "Linbury Theatre",
+    "status": "scheduled"
+  },
+  {
+    "id": "royal-opera-house/royal-opera-house-ur-netia-jones/2027-05-30/19:45",
+    "production_id": "royal-opera-house/royal-opera-house-ur-netia-jones",
+    "date": "2027-05-30",
+    "time": "19:45",
+    "venue_room": "Linbury Theatre",
+    "status": "scheduled"
+  },
+  {
+    "id": "royal-opera-house/royal-opera-house-ur-netia-jones/2027-06-01/19:45",
+    "production_id": "royal-opera-house/royal-opera-house-ur-netia-jones",
+    "date": "2027-06-01",
+    "time": "19:45",
     "venue_room": "Linbury Theatre",
     "status": "scheduled"
   },

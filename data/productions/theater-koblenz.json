@@ -242,8 +242,74 @@
     "house_slug": "theater-koblenz",
     "is_revival": false,
     "detail_url": "https://theater-koblenz.de/hoffmanns-erzaehlungen/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "sejoon-park",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "janina-thiel",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "anja-nicklich",
+        "function": "director"
+      },
+      {
+        "person_slug": "franziska-hansen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-reif",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "antonia-mautner-markhof",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "nando-zickgraf",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-frantz-pittichinaccio"
+      },
+      {
+        "person_slug": "haruna-yamazaki",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/die-muse-nicklausse"
+      },
+      {
+        "person_slug": "christoph-plessers",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann-schlemihl"
+      },
+      {
+        "person_slug": "tobias-haaks",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann"
+      },
+      {
+        "person_slug": "nico-wouterse",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dr-miracle-dapertutto"
+      },
+      {
+        "person_slug": "jongmin-lim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/luther-crespel"
+      },
+      {
+        "person_slug": "piotr-gryniewicki",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael"
+      },
+      {
+        "person_slug": "hannah-beutler",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-giulietta-antonia-stella"
+      },
+      {
+        "person_slug": "tobias-rathgeber",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/spalanzani"
+      },
+      {
+        "person_slug": "christiane-thomas",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/stimme-von-antonias-mutter"
+      }
+    ]
   },
   {
     "id": "theater-koblenz/la-boheme",
@@ -251,7 +317,77 @@
     "house_slug": "theater-koblenz",
     "is_revival": false,
     "detail_url": "https://theater-koblenz.de/la-boheme/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "marcus-merkel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "mara-lena-schonborn",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "inga-schulte",
+        "function": "director"
+      },
+      {
+        "person_slug": "nina-gibler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "michael-reif",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christian-binz",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "marco-kilian",
+        "role_slug": "giacomo-puccini/la-boheme/alcindoro"
+      },
+      {
+        "person_slug": "piotr-gryniewicki",
+        "role_slug": "giacomo-puccini/la-boheme/benoit"
+      },
+      {
+        "person_slug": "jongmin-lim",
+        "role_slug": "giacomo-puccini/la-boheme/colline"
+      },
+      {
+        "person_slug": "hoyeon-song",
+        "role_slug": "giacomo-puccini/la-boheme/ein-zollner"
+      },
+      {
+        "person_slug": "christoph-plessers",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "margarita-vilsone",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "tetiana-miyus",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "nando-zickgraf",
+        "role_slug": "giacomo-puccini/la-boheme/parpignol"
+      },
+      {
+        "person_slug": "kwonsoo-jeon",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "nico-wouterse",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollbeamten"
+      }
+    ]
   }
 ]

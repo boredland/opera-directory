@@ -1781,12 +1781,12 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2025-07-03",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/10/3_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/27/3_1900/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/obruchenie_v_m/m3/_obruch_monast_m3_eng.jpg",
     "synopsis": "Act I In 18 th -century Seville Don Jerome arranges to marry his daughter Louisa to Mendoza, an ugly but very rich old fish merchant who has not seen the girl but is enthusiastic. He hears the penniless Antonio serenading Louisa and vows that the wedding must take place soon. Act II Louise’s duenna hatches a plan that will allow Louisa to marry Antonio and herself to snare Mendoza and his money: Don Jerome must believe that the duenna is acting as a go-between for the lovers; he will then dismiss her but Louisa will put on the duenna’s clothes, escape and elope with Antonio. The duenna, disguised as Louisa, will marry Mendoza instead. Having escaped, Louisa comes across her friend Clara who, feigning distress at her lover’s over-ardent behavior (her lover is Louisa’s brother Ferdinand), has decided to take refuge in a monastery. Disguised, this time as Clara, Louisa enlists Mendoza’s help in finding Antonio – the merchant is only too pleased to divert his rival’s attentions away from Louisa (as he thinks). At Don Jerome’s house Mendoza meets ‘Louisa’ (the duenna); he is won over by her flattery and the couple plan to elope. Act III Antonio meets the real Louisa and Mendoza, still ignorant of her identity, smiles on young love. Don Jerome, interrupted in his amateur music making, unwittingly blesses the separate marriages of Louisa and Mendoza. At the concert Clara pines for Ferdinand. Act IV A visit from Mendoza and Antonio interrupts the joyous feasting of the monks at the monastery. Ferdinand also arrives and, believing that Antonio is about to marry Clara, stars a fight. Confusions are resolved and the monks bless all three marriages. At the wedding ball planned for Louisa, Don Jerome learns of the turn of events and is eventually reconciled to them; his daughter has married a pauper, but Ferdinand has married an heiress.",
     "creative_team": [
       {
-        "person_slug": "nikita-gribanov",
+        "person_slug": "konstantin-rylov",
         "function": "chorus-master"
       },
       {
@@ -1794,36 +1794,7 @@
         "function": "lighting"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "klim-tikhonov",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/antonio"
-      },
-      {
-        "person_slug": "yekaterina-shpilman",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/clara"
-      },
-      {
-        "person_slug": "sergei-semishkur",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/don-jerome"
-      },
-      {
-        "person_slug": "anna-kiknadze",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/duenna"
-      },
-      {
-        "person_slug": "egor-sotov",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/ferdinand"
-      },
-      {
-        "person_slug": "pelageya-kurennaya",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/louisa"
-      },
-      {
-        "person_slug": "mikhail-kolelishvili",
-        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/mendoza"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
@@ -1963,7 +1934,7 @@
     "premiere_date": "2006-04-03",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/20/1_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pajatzu/7.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pajatzu/pagliacci_gaskarova_by_vilchuk.jpg",
     "synopsis": "PROLOGUE Before the curtain rises Tonio appears dressed as a clown. He explains to the audience what they are about to see on stage. \"Real are the tears and suffering that you are to see!\" Tonio exclaims. \"After all, an actor loves and hates just like everyone else, and a passionate heart beats beneath his clownish attire.\" ACT I The drama begins. A company of travelling comedians arrives in a small Italian village. The villagers joyfully greet Canio, the leader of the company, his actress wife Nedda, Tonio the clown and Beppe the actor. The performance will be in the evening, so one of the villagers suggests the comedians pass their time in the tavern. Canio and Beppe agree readily and ask Tonio to go too, but he declines. He is nursing a grievance against the company&acute;s jealous leader for offending him. Canio&acute;s jealousy is justified. In the village that they have come to Nedda has a lover – the young peasant Silvio. Left alone, Nedda dreams of meeting him. Having sneaked up unnoticed, Tonio declares his love for her. Nedda responds to the hideous clown&acute;s declarations with derisive laughter, cooling his passions with a lash of a whip. Impotent with rage Tonio leaves, threatening revenge. Meanwhile, despite the danger, Silvio appears, sincerely and lovingly devoted to Nedda. He implores her to abandon her life on the road and run away with him. Suddenly the wrathful voice of the company&acute;s leader is heard, Canio having rushed back to call for the offended clown. Silvio, however, manages to flee unrecognised. Canio insists that Nedda name her lover, but to no avail. Then he leaps at her with a knife. Beppe pulls Canio off and Tonio calms him, saying that the fugitive will return for the performance and there he will somehow give himself away. The show will begin soon… ACT II A merry crowd of villagers awaits the start of the entertainment. Tonio and Beppe show the audience to their seats; Silvio is among them. The plot being acted out is similar",
     "creative_team": [
       {
@@ -1975,7 +1946,28 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "alexander-timchenko",
+        "role_slug": "ruggero-leoncavallo/pagliacci/beppe"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
+      },
+      {
+        "person_slug": "gelena-gaskarova",
+        "role_slug": "ruggero-leoncavallo/pagliacci/nedda"
+      },
+      {
+        "person_slug": "rauf-timergazin",
+        "role_slug": "ruggero-leoncavallo/pagliacci/silvio"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "ruggero-leoncavallo/pagliacci/tonio"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-parsifal",
@@ -2522,7 +2514,7 @@
         "role_slug": "giacomo-puccini/suor-angelica-gianni-schicchi/suor-angelica"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "elena-vitman",
         "role_slug": "giacomo-puccini/suor-angelica-gianni-schicchi/the-princess"
       }
     ]
