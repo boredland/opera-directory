@@ -71,7 +71,48 @@
     "is_revival": false,
     "detail_url": "https://www.theater-muenster.com/produktionen/hoffmanns-erzaehlungen-1195.html",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kylian-kyoungloul-kim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-pitichinaccio-frantz"
+      },
+      {
+        "person_slug": "yoogeon-hyeon",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann-schlemil"
+      },
+      {
+        "person_slug": "garrie-davislim",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann"
+      },
+      {
+        "person_slug": "opernchor-des-theater-munster",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/keine-bezeichnung"
+      },
+      {
+        "person_slug": "sinfonieorchester-munster",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/keine-bezeichnung"
+      },
+      {
+        "person_slug": "johan-hyunbong-choi",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dapertutto-dr-miracle"
+      },
+      {
+        "person_slug": "kihoon-yoo",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lutter-crespel"
+      },
+      {
+        "person_slug": "wioletta-hebrowska",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nicklausse-la-muse-la-voix-de-la-tombe"
+      },
+      {
+        "person_slug": "ana-durlovski",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-antonia-giulietta-stella"
+      },
+      {
+        "person_slug": "nn",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm-oder-wolfram"
+      }
+    ]
   },
   {
     "id": "theater-muenster/1198",

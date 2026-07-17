@@ -3805,9 +3805,79 @@
     "name": "Squeak"
   },
   {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/choreinstudierung-elfen",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "choreinstudierung elfen"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/demetrius",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "demetrius"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/francis-flute",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "francis flute"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/helena",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "helena"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/hermia",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "hermia"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/hippolyta",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "hippolyta"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/lysander",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "lysander"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/nick-bottom",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "nick bottom"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/oberon",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "oberon"
+  },
+  {
     "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/orchester",
     "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
     "name": "orchester"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/puck",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "puck"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/robin-starveling",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "robin starveling"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/snug",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "snug"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/theseus",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "theseus"
+  },
+  {
+    "slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/tytania",
+    "work_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream",
+    "name": "tytania"
   },
   {
     "slug": "benjamin-britten/peter-grimes/1re-niece",
@@ -5340,6 +5410,11 @@
     "name": "Gesellschaftsreporterin / Professor Süffle"
   },
   {
+    "slug": "carl-zeller/der-vogelhandler/gesellschaftsreporterin-professor-suffle-ab-06-08",
+    "work_slug": "carl-zeller/der-vogelhandler",
+    "name": "Gesellschaftsreporterin / Professor Süffle (ab 06.08.)"
+  },
+  {
     "slug": "carl-zeller/der-vogelhandler/gesellschaftsreporterin-professor-suffle-alternierend",
     "work_slug": "carl-zeller/der-vogelhandler",
     "name": "Gesellschaftsreporterin / Professor Süffle (alternierend)"
@@ -5353,6 +5428,11 @@
     "slug": "carl-zeller/der-vogelhandler/gesellschaftsreporterin-professor-wurmchen",
     "work_slug": "carl-zeller/der-vogelhandler",
     "name": "Gesellschaftsreporterin / Professor Würmchen"
+  },
+  {
+    "slug": "carl-zeller/der-vogelhandler/gesellschaftsreporterin-professor-wurmchen-ab-06-08",
+    "work_slug": "carl-zeller/der-vogelhandler",
+    "name": "Gesellschaftsreporterin / Professor Würmchen (ab 06.08.)"
   },
   {
     "slug": "carl-zeller/der-vogelhandler/gesellschaftsreporterin-professor-wurmchen-alternierend",
@@ -12200,6 +12280,11 @@
     "name": "von und mit"
   },
   {
+    "slug": "franz-lehar/die-lustige-witwe/adan",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Adán"
+  },
+  {
     "slug": "franz-lehar/die-lustige-witwe/baron-mirko-zeta",
     "work_slug": "franz-lehar/die-lustige-witwe",
     "name": "Baron Mirko Zeta"
@@ -12248,6 +12333,11 @@
     "slug": "franz-lehar/die-lustige-witwe/frou-frou",
     "work_slug": "franz-lehar/die-lustige-witwe",
     "name": "Frou-Frou"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/graf-danilo-danilowitsch",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Graf Danilo Danilowitsch"
   },
   {
     "slug": "franz-lehar/die-lustige-witwe/graf-danilo-danilowitsch-gesandtschaftssekretar-kavallerieleutnant-i-r",
@@ -12325,6 +12415,11 @@
     "name": "Pritschitsch, pontevedrinischer Oberst in Pension"
   },
   {
+    "slug": "franz-lehar/die-lustige-witwe/raoul-de-saint-brioche",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Raoul de Saint-Brioche"
+  },
+  {
     "slug": "franz-lehar/die-lustige-witwe/raoul-de-st-brioche",
     "work_slug": "franz-lehar/die-lustige-witwe",
     "name": "Raoul de St. Brioche"
@@ -12353,6 +12448,11 @@
     "slug": "franz-lehar/die-lustige-witwe/vicomte-cascada",
     "work_slug": "franz-lehar/die-lustige-witwe",
     "name": "Vicomte Cascada"
+  },
+  {
+    "slug": "franz-lehar/die-lustige-witwe/zeta",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "name": "Zeta"
   },
   {
     "slug": "franz-lehar/giuditta/anita",
@@ -26285,9 +26385,19 @@
     "name": "Hermann/Schlemihl"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann-schlemil",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Hermann/Schlémil"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Hoffmann"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/keine-bezeichnung",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "(Keine Bezeichnung)"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/la-muse-nicklausse",
@@ -26325,6 +26435,11 @@
     "name": "Luther | Crespel"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/lutter-crespel",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Lutter/Crespel"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Nathanael"
@@ -26335,9 +26450,19 @@
     "name": "Nathanaël | Spalanzani"
   },
   {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/nicklausse-la-muse-la-voix-de-la-tombe",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Nicklausse/La Muse/La Voix de la Tombe"
+  },
+  {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Olympia"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-antonia-giulietta-stella",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Olympia, Antonia, Giulietta, Stella"
   },
   {
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia-giulietta",
@@ -26383,6 +26508,11 @@
     "slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm",
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "name": "Wilhelm"
+  },
+  {
+    "slug": "jacques-offenbach/hoffmanns-erzahlungen/wilhelm-oder-wolfram",
+    "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
+    "name": "Wilhelm oder Wolfram"
   },
   {
     "slug": "jacques-offenbach/la-belle-helene/achille",
@@ -34828,6 +34958,11 @@
     "slug": "mieczys-aw-weinberg/the-idiot/lebedev",
     "work_slug": "mieczys-aw-weinberg/the-idiot",
     "name": "Lebedev"
+  },
+  {
+    "slug": "mieczys-aw-weinberg/the-idiot/rogozhin",
+    "work_slug": "mieczys-aw-weinberg/the-idiot",
+    "name": "Rogozhin"
   },
   {
     "slug": "mikael-karlsson/melancholia/bean-counting-man",
@@ -50043,6 +50178,31 @@
     "slug": "wolfgang-amadeus-mozart/don-giovanni/zerlina-house-debut",
     "work_slug": "wolfgang-amadeus-mozart/don-giovanni",
     "name": "Zerlina (house debut)"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta/arbace",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta",
+    "name": "Arbace"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta/elettra",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta",
+    "name": "Elettra"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta/idamante",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta",
+    "name": "Idamante"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta/idomeneo",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta",
+    "name": "Idomeneo"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta/ilia",
+    "work_slug": "wolfgang-amadeus-mozart/idomeneo-re-di-creta",
+    "name": "Ilia"
   },
   {
     "slug": "wolfgang-amadeus-mozart/idomeneo/arbace",

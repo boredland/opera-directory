@@ -379,10 +379,6 @@
     "detail_url": "https://www.buo-bielefeld.de/theater/veranstaltung/ein-sommernachtstraum-a-midsummer-nights-dream",
     "creative_team": [
       {
-        "person_slug": "hagen-enke",
-        "function": "chorus-master"
-      },
-      {
         "person_slug": "opernchor",
         "function": "chorus-master"
       },
@@ -405,8 +401,68 @@
     ],
     "cast": [
       {
+        "person_slug": "hagen-enke",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/choreinstudierung-elfen"
+      },
+      {
+        "person_slug": "todd-boyce",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/demetrius"
+      },
+      {
+        "person_slug": "andrei-skliarenko",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/francis-flute"
+      },
+      {
+        "person_slug": "dusica-bijelic",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/helena"
+      },
+      {
+        "person_slug": "marta-wryk",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/hermia"
+      },
+      {
+        "person_slug": "alexandra-ionis",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/hippolyta"
+      },
+      {
+        "person_slug": "christopher-diffey",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/lysander"
+      },
+      {
+        "person_slug": "evgueniy-alexiev",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/nick-bottom"
+      },
+      {
+        "person_slug": "nils-wanderer",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/oberon"
+      },
+      {
         "person_slug": "bielefelder-philharmoniker",
         "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/orchester"
+      },
+      {
+        "person_slug": "faris-yuzbas-oglu",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/puck"
+      },
+      {
+        "person_slug": "guzide-coker",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/puck"
+      },
+      {
+        "person_slug": "tomas-kildisius",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/robin-starveling"
+      },
+      {
+        "person_slug": "moon-soo-park",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/snug"
+      },
+      {
+        "person_slug": "bryan-boyce",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/theseus"
+      },
+      {
+        "person_slug": "veronika-lee",
+        "role_slug": "benjamin-britten/ein-sommernachtstraum-a-midsummer-night-s-dream/tytania"
       }
     ]
   },

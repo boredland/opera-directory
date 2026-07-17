@@ -1,5 +1,102 @@
 [
   {
+    "id": "theater-hof/die-lustige-witwe",
+    "work_slug": "franz-lehar/die-lustige-witwe",
+    "house_slug": "theater-hof",
+    "is_revival": false,
+    "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/die-lustige-witwe",
+    "creative_team": [
+      {
+        "person_slug": "barbara-buser",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ruben-hawer",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "peter-kattermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "cornelia-poppe",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-sampel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jurgen-burger",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "petra-linsel-mahrer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "thilo-andersson",
+        "role_slug": "franz-lehar/die-lustige-witwe/adan"
+      },
+      {
+        "person_slug": "minseok-kim",
+        "role_slug": "franz-lehar/die-lustige-witwe/camille-de-rosillon"
+      },
+      {
+        "person_slug": "markus-gruber",
+        "role_slug": "franz-lehar/die-lustige-witwe/graf-danilo-danilowitsch"
+      },
+      {
+        "person_slug": "inga-lisa-lehr",
+        "role_slug": "franz-lehar/die-lustige-witwe/hanna-glawari"
+      },
+      {
+        "person_slug": "ralf-hocke",
+        "role_slug": "franz-lehar/die-lustige-witwe/njegus"
+      },
+      {
+        "person_slug": "hans-peter-pollmer",
+        "role_slug": "franz-lehar/die-lustige-witwe/raoul-de-saint-brioche"
+      },
+      {
+        "person_slug": "annina-olivia-battaglia",
+        "role_slug": "franz-lehar/die-lustige-witwe/valencienne"
+      },
+      {
+        "person_slug": "peter-potzelt",
+        "role_slug": "franz-lehar/die-lustige-witwe/vicomte-cascada"
+      },
+      {
+        "person_slug": "micha-rudzinski",
+        "role_slug": "franz-lehar/die-lustige-witwe/zeta"
+      }
+    ]
+  },
+  {
+    "id": "theater-hof/manon-lescaut",
+    "work_slug": "giacomo-puccini/manon-lescaut",
+    "house_slug": "theater-hof",
+    "is_revival": false,
+    "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/manon-lescaut",
+    "creative_team": [
+      {
+        "person_slug": "benedikt-arnold",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-kattermann",
+        "function": "Musikalische Leistung"
+      },
+      {
+        "person_slug": "aylin-kaip",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-hof/marilyn-forever-twice-through-the-heart",
     "work_slug": "gavin-bryars/marilyn-forever-twice-through-the-heart",
     "house_slug": "theater-hof",
@@ -128,5 +225,31 @@
         "role_slug": "riccardo-zandonai/romeo-und-julia/tebaldo-capuleto-giuliettas-cousin"
       }
     ]
+  },
+  {
+    "id": "theater-hof/two-remain",
+    "work_slug": "jake-heggie/two-remain",
+    "house_slug": "theater-hof",
+    "is_revival": false,
+    "detail_url": "https://www.theater-hof.de/spielplan/stuecke/detail/two-remain",
+    "creative_team": [
+      {
+        "person_slug": "barbara-buser",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "peter-kattermann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lothar-krause",
+        "function": "director"
+      },
+      {
+        "person_slug": "aylin-kaip",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   }
 ]

@@ -284,6 +284,27 @@
     ]
   },
   {
+    "id": "san-francisco-opera/san-francisco-opera-ring-cycle",
+    "work_slug": "richard-wagner/der-ring-des-nibelungen",
+    "house_slug": "san-francisco-opera",
+    "is_revival": false,
+    "language": "de",
+    "detail_url": "https://www.sfopera.com/operas/ring-cycle/",
+    "image_url": "TODO: banner image URL",
+    "synopsis": "TODO: SF Opera marketing copy for the Ring.",
+    "creative_team": [
+      {
+        "person_slug": "todo-conductor",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "todo-director",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "san-francisco-opera/san-francisco-opera-simon-boccanegra",
     "work_slug": "giuseppe-verdi/simon-boccanegra",
     "house_slug": "san-francisco-opera",

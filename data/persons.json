@@ -11331,7 +11331,8 @@
     "slug": "aylin-kaip",
     "name": "Aylin Kaip",
     "professions": [
-      "Bühne, Video & Kostüme"
+      "Bühne, Video & Kostüme",
+      "set-designer"
     ]
   },
   {
@@ -11690,6 +11691,13 @@
     "name": "Barbara Bräckelmann",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "barbara-buser",
+    "name": "Barbara Buser",
+    "professions": [
+      "choreographer"
     ]
   },
   {
@@ -14577,6 +14585,13 @@
   {
     "slug": "bruno-vincent",
     "name": "Bruno Vincent",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "bryan-boyce",
+    "name": "Bryan Boyce",
     "professions": [
       "singer"
     ]
@@ -19640,6 +19655,13 @@
     "name": "Cornelia Maria Orendi",
     "professions": [
       "singer"
+    ]
+  },
+  {
+    "slug": "cornelia-poppe",
+    "name": "Cornelia Poppe",
+    "professions": [
+      "director"
     ]
   },
   {
@@ -29351,6 +29373,13 @@
     ]
   },
   {
+    "slug": "evgenia-muravieva",
+    "name": "Evgenia Muravieva",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "evgenia-selina",
     "name": "Evgenia Selina",
     "professions": [
@@ -37847,6 +37876,13 @@
     ]
   },
   {
+    "slug": "guzide-coker",
+    "name": "Güzide Çoker",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "gwendoline-blondeel",
     "name": "GWENDOLINE BLONDEEL",
     "professions": [
@@ -37969,7 +38005,8 @@
     "slug": "hagen-enke",
     "name": "Hagen Enke",
     "professions": [
-      "chorus-master"
+      "chorus-master",
+      "singer"
     ]
   },
   {
@@ -38550,6 +38587,13 @@
   {
     "slug": "hans-peter-kammerer",
     "name": "Hans Peter Kammerer",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "hans-peter-pollmer",
+    "name": "Hans-Peter Pollmer",
     "professions": [
       "singer"
     ]
@@ -53783,6 +53827,13 @@
     ]
   },
   {
+    "slug": "kylian-kyoungloul-kim",
+    "name": "Kylian Kyoungloul Kim",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "kyoko-yonemoto",
     "name": "Kyoko Yonemoto",
     "professions": [
@@ -62363,6 +62414,13 @@
   {
     "slug": "marina-shakhdinarova",
     "name": "Marina Shakhdinarova",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "marina-tekhteleva",
+    "name": "Marina Tekhteleva",
     "professions": [
       "singer"
     ]
@@ -73034,6 +73092,13 @@
     ]
   },
   {
+    "slug": "oleg-videman",
+    "name": "Oleg Videman",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "oleg-volkov",
     "name": "OLEG VOLKOV",
     "professions": [
@@ -75650,6 +75715,13 @@
     ]
   },
   {
+    "slug": "pavel-shmulevich",
+    "name": "Pavel Shmulevich",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "pavel-silich",
     "name": "Pavel Silich",
     "professions": [
@@ -76203,6 +76275,7 @@
     "slug": "peter-kattermann",
     "name": "Peter Kattermann",
     "professions": [
+      "Musikalische Leistung",
       "conductor"
     ]
   },
@@ -76349,6 +76422,13 @@
     ]
   },
   {
+    "slug": "peter-potzelt",
+    "name": "Peter Potzelt",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
     "slug": "peter-prautsch",
     "name": "Peter Prautsch",
     "professions": [
@@ -76416,6 +76496,13 @@
     "name": "Peter Ruzicka",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "peter-sampel",
+    "name": "Peter Sampel",
+    "professions": [
+      "dramaturgy"
     ]
   },
   {
@@ -76623,6 +76710,13 @@
     "name": "Petra Hrašćanec",
     "professions": [
       "choreographer"
+    ]
+  },
+  {
+    "slug": "petra-linsel-mahrer",
+    "name": "Petra Linsel-Mahrer",
+    "professions": [
+      "set-designer"
     ]
   },
   {
@@ -78749,6 +78843,13 @@
     "name": "Ralf Gscheidle",
     "professions": [
       "composer"
+    ]
+  },
+  {
+    "slug": "ralf-hocke",
+    "name": "Ralf Hocke",
+    "professions": [
+      "singer"
     ]
   },
   {
@@ -93306,6 +93407,20 @@
     ]
   },
   {
+    "slug": "todo-conductor",
+    "name": "TODO: Conductor",
+    "professions": [
+      "conductor"
+    ]
+  },
+  {
+    "slug": "todo-director",
+    "name": "TODO: Director",
+    "professions": [
+      "director"
+    ]
+  },
+  {
     "slug": "todor-kotopanov",
     "name": "Todor Kotopanov",
     "professions": [
@@ -98766,6 +98881,13 @@
   {
     "slug": "yevgenij-kobyakov",
     "name": "Yevgenij Kobyakov",
+    "professions": [
+      "singer"
+    ]
+  },
+  {
+    "slug": "yevgeny-akhmedov",
+    "name": "Yevgeny Akhmedov",
     "professions": [
       "singer"
     ]

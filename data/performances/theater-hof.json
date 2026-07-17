@@ -1,5 +1,157 @@
 [
   {
+    "id": "theater-hof/die-lustige-witwe/2026-12-19/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2026-12-19",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2026-12-27/15:00",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2026-12-27",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2026-12-31/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2026-12-31",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-01-09/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-01-09",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-01-15/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-01-15",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-01-16/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-01-16",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-01-24/18:00",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-01-24",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-01-30/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-01-30",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-02-03/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-02-03",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-02-25/19:30",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-02-25",
+    "time": "19:30",
+    "venue_room": "Rosenthal-Theater Selb",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-02-28/18:00",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-02-28",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/die-lustige-witwe/2027-03-21/18:00",
+    "production_id": "theater-hof/die-lustige-witwe",
+    "date": "2027-03-21",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-06-25/19:30",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-06-25",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-06-27/18:00",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-06-27",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-06-27/19:30",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-06-27",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-06-30/19:30",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-06-30",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-07-03/19:30",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-07-03",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-07-11/18:00",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-07-11",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/manon-lescaut/2027-07-16/19:30",
+    "production_id": "theater-hof/manon-lescaut",
+    "date": "2027-07-16",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-hof/marilyn-forever-twice-through-the-heart/2026-06-13/19:30",
     "production_id": "theater-hof/marilyn-forever-twice-through-the-heart",
     "date": "2026-06-13",
@@ -109,6 +261,54 @@
     "date": "2026-06-06",
     "time": "19:30",
     "venue_room": "Theater Hof Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-03-27/19:30",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-03-27",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-04-03/19:30",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-04-03",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-04-07/19:30",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-04-07",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-04-23/19:30",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-04-23",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-05-02/18:00",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-05-02",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-hof/two-remain/2027-05-15/19:30",
+    "production_id": "theater-hof/two-remain",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "venue_room": "Großes Haus",
     "status": "scheduled"
   }
 ]

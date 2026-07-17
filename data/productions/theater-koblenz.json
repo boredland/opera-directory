@@ -389,5 +389,40 @@
         "role_slug": "giacomo-puccini/la-boheme/sergeant-der-zollbeamten"
       }
     ]
+  },
+  {
+    "id": "theater-koblenz/macbeth",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/macbeth/",
+    "creative_team": [
+      {
+        "person_slug": "sejoon-park",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "silke-willrett",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "jan-e-inger",
+        "function": "director"
+      },
+      {
+        "person_slug": "marc-weeger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "theater-koblenz/pelleas-et-melisande",
+    "work_slug": "claude-debussy/pelleas-et-melisande",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/pelleas-et-melisande/",
+    "creative_team": [],
+    "cast": []
   }
 ]
