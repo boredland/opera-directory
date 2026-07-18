@@ -638,7 +638,7 @@
         "role_slug": "pyotr-tchaikovsky/the-enchantress/prince-kurlyatev"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "alexander-mikhailov",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/prince-yuri"
       },
       {
@@ -1034,7 +1034,7 @@
     "premiere_date": "2016-07-06",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/26/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/idiot/idiot_sulimsky_by_vilchuk.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/idiot/idiot_bayankina_selivanov_by_razina.jpg",
     "synopsis": "Act I Scene 1. The Meeting on the Train Prince Lev Nikolaevich Myshkin is returning to St Petersburg following lengthy medical treatment in Switzerland. In his compartment he meets Parfyon Rogozhin and Lebedev. Rogozhin has just received an inheritance of two million roubles from his father who recently died. Not long before that, Parfyon had been forced to flee from his furious parent: he had spent ten thousand on a gift for Nastasia Filippovna whom he met and instantly fell in love with. And now he is in a hurry to see her again. At this time, Nastasia Filippovna anxiously awaits the evening in her room – today is her name day and she has to announce whether she will marry Ganya Ivolgin. Afanasy Totsky, whose mistress she used to be, strongly supports this marriage. Being in St. Petersburg, Nastasya Philippovna compromises him, preventing him from getting married. So her marriage would set him free.. Ganya Ivolgin begs her to say if she is prepared to marry him. But she will give her response later when the guests arrive. She gives Ganya her portrait. Scene 2. At the Epanchins’ In his study, General Epanchin and Afanasy Ivanovich Totsky are discussing the fate of Nastasia Filippovna, Totsky’s kept woman. They are resolved to have her married off to Gavril Ivolgin, for his marriage to the “fallen” woman, Ganya will be generously rewarded – Totsky will advance her a large sum of money. If it happens, he will be able to marry Aglaya, Yepanchin’s daughter Prince Myshkin has arrived to meet his only relatives in St Petersburg, the Epanchin family. The general is little pleased with his visitor who has no plans for the future or means to live. Ganya enters;he shows them a portrait of Nastasia Filippovna which she gave to him. The prince is amazed:“A beautiful and mysterious face, and her destiny is an unusual one.” General Epanchin leaves his visitor with his wife and daughters Aglaya, Alexandra and Adelaida. They are enchanted with Myshkin’s stories about life in Switz",
     "creative_team": [
       {
@@ -1044,8 +1044,24 @@
     ],
     "cast": [
       {
-        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "mieczys-aw-weinberg/the-idiot/aglaya"
+      },
+      {
+        "person_slug": "alexander-trofimov",
+        "role_slug": "mieczys-aw-weinberg/the-idiot/ganya"
+      },
+      {
+        "person_slug": "dmitry-koleushko",
         "role_slug": "mieczys-aw-weinberg/the-idiot/lebedev"
+      },
+      {
+        "person_slug": "maria-bayankina",
+        "role_slug": "mieczys-aw-weinberg/the-idiot/nastasya-filippovna"
+      },
+      {
+        "person_slug": "ilya-selivanov",
+        "role_slug": "mieczys-aw-weinberg/the-idiot/prince-myshkin"
       },
       {
         "person_slug": "vladislav-sulimsky",
@@ -1843,7 +1859,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "nursultan-anuarbek",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/antonio"
+      },
+      {
+        "person_slug": "sofia-fedorova",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/clara"
+      },
+      {
+        "person_slug": "tikhon-goryachev",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/don-jerome"
+      },
+      {
+        "person_slug": "medea-chikashvili",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/duenna"
+      },
+      {
+        "person_slug": "alexander-ershov",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/ferdinand"
+      },
+      {
+        "person_slug": "valeria-tereikovskaya",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/louisa"
+      },
+      {
+        "person_slug": "yuri-vorobiev",
+        "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/mendoza"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
@@ -2066,8 +2111,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2015-05-27",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/17/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/borodina_pikovay_dama_by_vilchuk.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/5/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/_banner.jpg",
     "synopsis": "Act I Scene One The Summer Garden in springtime. Two officers, Chekalinsky and Surin, are concerned about the fortunes of their friend Herman, who visits gambling halls every evening, despite the fact that he does not play because he is so poor. Herman turns up, accompanied by Count Tomsky, to whom he explains the reason for his strange behaviour: he is in love with a girl to whom he has not yet been introduced, and wants to win a large sum of money in order to marry her (“I do not know her name”). Chekalinsky and Surin congratulate the Prince Yeletsky on his forthcoming marriage. An old Countess is walking in the garden with the very girl whom Herman loves. Upon finding out that she is the Prince&acute;s fiancée, he is deeply shaken. The women are frightened by his appearance (“I&acute;m frightened”). Tomsky tells the story of the old Countess&acute; past in Paris. Count Saint-Germain showed her three winning cards. The officers laugh at Herman, and advise him to tempt fate while Herman vows to fight for his love. Scene Two Liza&acute;s room. She is singing with her friend Polina (“Oh, what an evening”). Left alone, Liza reveals her feelings: the Prince loves her, but she cannot forget the passionate gaze of the stranger in the garden (“Where are these tears from?” “Oh, listen, oh, night”). As if he had heard her calling, Herman appears on the balcony. He threatens to kill himself because Liza is promised to another, and tells her that no-one loves her as passionately as he does (“Forgive me, heavenly creature”). The Countess enters, and Liza hides the love-struck Herman. Like a man possessed, Herman starts to search for the three cards. Having been with Liza, he realises he is happy only when he is with her. Act II Scene Three A masquerade at the home of a high official. Yeletsky assures Liza of his love (“I love thee”). Herman continues to be haunted by thoughts of the three cards. A musical intermezzo-pastorale begins (“My dear little friend”). After it ends, Li",
     "creative_team": [
       {
@@ -2099,16 +2144,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "full-cast-to-be-announced-at-a-later-date",
-        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/prince-eletsky"
-      },
-      {
-        "person_slug": "olga-borodina",
-        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/the-countess"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-rigoletto",
@@ -2754,12 +2790,16 @@
     ],
     "cast": [
       {
-        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "person_slug": "vladislav-sulimsky",
         "role_slug": "giacomo-puccini/tosca/baron-scarpia"
       },
       {
         "person_slug": "hibla-gerzmava",
         "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "sergei-skorokhodov",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
       }
     ]
   },
@@ -3008,6 +3048,10 @@
     ],
     "cast": [
       {
+        "person_slug": "marina-shakhdinarova",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
         "person_slug": "ekaterina-semenchuk",
         "role_slug": "giacomo-puccini/turandot/princess-turandot"
       }
@@ -3144,7 +3188,7 @@
         "role_slug": "richard-wagner/das-rheingold/fafner"
       },
       {
-        "person_slug": "gleb-peryazev",
+        "person_slug": "vadim-kravets",
         "role_slug": "richard-wagner/das-rheingold/fasolt"
       },
       {

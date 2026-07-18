@@ -144,6 +144,96 @@
     "ticket_url": "https://ticket-regional.de/stage_7675.php?eventtimeID=1133097&style=theaterkoblenz"
   },
   {
+    "id": "theater-koblenz/der-rosenkavalier/2027-05-02/11:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-05-02",
+    "time": "11:00",
+    "venue_room": "Oberes Foyer",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-05-21/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-05-21",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-05-23/15:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-05-23",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-05-27/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-05-27",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-06/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-06",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-10/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-10",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-12/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-12",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-15/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-15",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-25/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-25",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/der-rosenkavalier/2027-06-30/18:00",
+    "production_id": "theater-koblenz/der-rosenkavalier",
+    "date": "2027-06-30",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_7359.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
     "id": "theater-koblenz/fidelio/2026-06-19/19:00",
     "production_id": "theater-koblenz/fidelio",
     "date": "2026-06-19",
@@ -430,6 +520,15 @@
     "venue_room": "Festung Ehrenbreitstein",
     "status": "scheduled",
     "ticket_url": "https://ticket-regional.de/stage_4421.php?eventtimeID=00&style=theaterkoblenz"
+  },
+  {
+    "id": "theater-koblenz/neujahrskonzert/2027-01-01/17:00",
+    "production_id": "theater-koblenz/neujahrskonzert",
+    "date": "2027-01-01",
+    "time": "17:00",
+    "venue_room": "Rhein-Mosel-Halle",
+    "status": "scheduled",
+    "ticket_url": "https://ticket-regional.de/stage_6663.php?eventtimeID=00&style=theaterkoblenz"
   },
   {
     "id": "theater-koblenz/pelleas-et-melisande/2027-04-04/11:00",

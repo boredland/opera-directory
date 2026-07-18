@@ -162,6 +162,15 @@
     ]
   },
   {
+    "id": "theater-koblenz/der-rosenkavalier",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/der-rosenkavalier/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-koblenz/fidelio",
     "work_slug": "ludwig-van-beethoven/fidelio",
     "house_slug": "theater-koblenz",
@@ -414,6 +423,15 @@
         "function": "set-designer"
       }
     ],
+    "cast": []
+  },
+  {
+    "id": "theater-koblenz/neujahrskonzert",
+    "work_slug": "neujahrskonzert",
+    "house_slug": "theater-koblenz",
+    "is_revival": false,
+    "detail_url": "https://theater-koblenz.de/neujahrskonzert/",
+    "creative_team": [],
     "cast": []
   },
   {

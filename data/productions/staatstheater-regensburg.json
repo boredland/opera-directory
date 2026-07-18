@@ -463,6 +463,10 @@
     "detail_url": "https://www.staatstheater-regensburg.de/produktionen/der-geheime-garten.html",
     "creative_team": [
       {
+        "person_slug": "andreas-kowalewitz",
+        "function": "conductor"
+      },
+      {
         "person_slug": "tom-woods",
         "function": "conductor"
       },
@@ -479,7 +483,64 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "jakob-hoffmann",
+        "role_slug": "jonathan-dove/der-geheime-garten/ben-weatherstaff"
+      },
+      {
+        "person_slug": "konstantin-igl",
+        "role_slug": "jonathan-dove/der-geheime-garten/colin"
+      },
+      {
+        "person_slug": "kirsten-labonte",
+        "role_slug": "jonathan-dove/der-geheime-garten/das-rotkehlchen-lilias"
+      },
+      {
+        "person_slug": "david-holz",
+        "role_slug": "jonathan-dove/der-geheime-garten/der-fuchs"
+      },
+      {
+        "person_slug": "benedikt-eder",
+        "role_slug": "jonathan-dove/der-geheime-garten/dickon"
+      },
+      {
+        "person_slug": "christian-schossig",
+        "role_slug": "jonathan-dove/der-geheime-garten/die-krahe"
+      },
+      {
+        "person_slug": "thomas-lackinger",
+        "role_slug": "jonathan-dove/der-geheime-garten/diener"
+      },
+      {
+        "person_slug": "martin-enger-holm",
+        "role_slug": "jonathan-dove/der-geheime-garten/dr-neville-craven"
+      },
+      {
+        "person_slug": "jonas-atwood",
+        "role_slug": "jonathan-dove/der-geheime-garten/lord-archibald-craven"
+      },
+      {
+        "person_slug": "patrizia-hausermann",
+        "role_slug": "jonathan-dove/der-geheime-garten/martha"
+      },
+      {
+        "person_slug": "scarlett-pulwey",
+        "role_slug": "jonathan-dove/der-geheime-garten/mary-lennox"
+      },
+      {
+        "person_slug": "elena-lin",
+        "role_slug": "jonathan-dove/der-geheime-garten/molly"
+      },
+      {
+        "person_slug": "maria-magdalena-fleck",
+        "role_slug": "jonathan-dove/der-geheime-garten/molly"
+      },
+      {
+        "person_slug": "svitlana-slyvia",
+        "role_slug": "jonathan-dove/der-geheime-garten/mrs-medlock"
+      }
+    ]
   },
   {
     "id": "staatstheater-regensburg/krl-roger",
