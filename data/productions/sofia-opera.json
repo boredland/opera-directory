@@ -13089,12 +13089,60 @@
     ],
     "cast": [
       {
+        "person_slug": "velislav-ninov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/a-royal-messenger"
+      },
+      {
+        "person_slug": "dimitar-stanchev",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/a-voice-from-heaven"
+      },
+      {
+        "person_slug": "ivan-alexandrov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/a-warrior-of-the-royal-retinue"
+      },
+      {
+        "person_slug": "nikolay-petrov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/father-auxentius"
+      },
+      {
+        "person_slug": "alexander-vassilev",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/luka-nephew-of-the-rila-hermit"
+      },
+      {
         "person_slug": "tihomir-pavlov",
         "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/lyrics"
       },
       {
         "person_slug": "georgi-strezov",
         "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/orchestration"
+      },
+      {
+        "person_slug": "stefan-vladimirov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/prayer-voice-from-the-people"
+      },
+      {
+        "person_slug": "evgeni-dimitrov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/soloist-of-praise-the-lord-with-the-heavens"
+      },
+      {
+        "person_slug": "nikolay-milev",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/soloist-of-with-us-god"
+      },
+      {
+        "person_slug": "biser-georgiev",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/the-brother-of-the-rila-hermit"
+      },
+      {
+        "person_slug": "dobrin-dosev",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/the-hermit-of-rila"
+      },
+      {
+        "person_slug": "atanas-mladenov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/the-hermit-of-rila-junior"
+      },
+      {
+        "person_slug": "angel-hristov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/tsar-peter"
       }
     ]
   },

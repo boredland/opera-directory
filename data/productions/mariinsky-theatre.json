@@ -774,7 +774,36 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "oleg-sychov",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/ashby"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/dick-johnson"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/jack-rance"
+      },
+      {
+        "person_slug": "stepan-zavalishin",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/jake-wallace"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/minnie"
+      },
+      {
+        "person_slug": "yevgeny-akhmedov",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/nick"
+      },
+      {
+        "person_slug": "sergei-romanov",
+        "role_slug": "giacomo-puccini/la-fanciulla-del-west/sonora"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-faust",
@@ -2364,7 +2393,7 @@
         "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/osmin"
       },
       {
-        "person_slug": "roman-arndt",
+        "person_slug": "klim-tikhonov",
         "role_slug": "wolfgang-amadeus-mozart/die-entfuhrung-aus-dem-serail/pedrillo"
       }
     ]
@@ -2809,8 +2838,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2022-10-19",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/18/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/traviata_kz_goncharova_byrazina.png",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/19/3_1300/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/traviata_kz/traviata_kz_suleimanova_by_vilchuk.jpg",
     "synopsis": "Act I Paris. A party is underway at the home of Violetta Valéry, a well-known demimondaine. Violetta&acute;s admirers are celebrating her return to health. Alfredo Germont is among the guests. He asks Gastone to introduce him as he is in love with her. At the request of the other guests, Alfredo sings a toast in her honour. As the others go to dance, Violetta is taken ill. She asks to be left alone. Alfredo, concerned that the woman he loves is ill, begs her to change her way of life and believe in his love. His love gives rise to Violetta&acute;s hopes for happiness. Act II Scene I A country house near Paris. Alfredo and Violetta live here in contentment. Annina, Violetta&acute;s maid, confesses to Alfredo that her mistress is secretly selling her belongings. Tormented by his conscience, Alfredo leaves for Paris to deal with these financial affairs. When she returns, Violetta cannot find Alfredo. Giuseppe the gardener gives her a letter from Flora. It is an invitation to a ball. Violetta lays it to one side in indifference – she will not attend. Suddenly, Alfredo&acute;s father Giorgio Germont appears. He accuses Violetta of ruining his son and soiling the family name. Violetta is in despair: she is mortally ill and has not long to live; her love for Alfredo is her only joy and comfort. Giorgio Germont is surprised at the sincerity of her emotions, but still insists that Violetta leaves his son. Violetta agrees and decides to sacrifice her own happiness. Alfredo returns from Paris. He is surprised by Violetta&acute;s perturbed manner. For the final time, she tells him of her undying love, then she leaves. Alfredo is overjoyed. \"Ah, this dear one lives only for my love!\" he says of Violetta. He is brought a letter; it is a letter of farewell from Violetta, in which she says she is returning to Baron Douphol. Alfredo is shocked. Giorgio Germont enters. He asks his son to return home to Provence. Alfredo does not listen to his father and he is unable to comprehend Vio",
     "creative_team": [
       {
@@ -2824,15 +2853,15 @@
     ],
     "cast": [
       {
-        "person_slug": "kirill-belov",
+        "person_slug": "gamid-abdulov",
         "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
       },
       {
-        "person_slug": "vladislav-kupriyanov",
+        "person_slug": "anatoly-mikhailov",
         "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
       },
       {
-        "person_slug": "yekaterina-goncharova",
+        "person_slug": "yulia-suleimanova",
         "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
       }
     ]

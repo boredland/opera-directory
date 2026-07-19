@@ -833,6 +833,13 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-bonn/234669/2026-11-08/18:00",
+    "production_id": "theater-bonn/234669",
+    "date": "2026-11-08",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-bonn/234682/2027-01-10/11:00",
     "production_id": "theater-bonn/234682",
     "date": "2027-01-10",
@@ -1211,6 +1218,34 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-bonn/237695/2027-06-17/19:30",
+    "production_id": "theater-bonn/237695",
+    "date": "2027-06-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/237708/2027-07-11/18:00",
+    "production_id": "theater-bonn/237708",
+    "date": "2027-07-11",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/238124/2026-10-11/18:00",
+    "production_id": "theater-bonn/238124",
+    "date": "2026-10-11",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/238228/2026-12-27/18:00",
+    "production_id": "theater-bonn/238228",
+    "date": "2026-12-27",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-bonn/240860/2026-12-11/11:00",
     "production_id": "theater-bonn/240860",
     "date": "2026-12-11",
@@ -1460,6 +1495,62 @@
     "production_id": "theater-bonn/241838",
     "date": "2026-12-12",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243354/2027-01-31/11:00",
+    "production_id": "theater-bonn/243354",
+    "date": "2027-01-31",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243355/2027-01-10/11:00",
+    "production_id": "theater-bonn/243355",
+    "date": "2027-01-10",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243357/2026-11-22/11:00",
+    "production_id": "theater-bonn/243357",
+    "date": "2026-11-22",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243358/2026-09-20/11:00",
+    "production_id": "theater-bonn/243358",
+    "date": "2026-09-20",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243359/2027-03-07/11:00",
+    "production_id": "theater-bonn/243359",
+    "date": "2027-03-07",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243360/2027-05-09/11:00",
+    "production_id": "theater-bonn/243360",
+    "date": "2027-05-09",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/243716/2027-06-06/11:00",
+    "production_id": "theater-bonn/243716",
+    "date": "2027-06-06",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bonn/246430/2026-12-11/11:00",
+    "production_id": "theater-bonn/246430",
+    "date": "2026-12-11",
+    "time": "11:00",
     "status": "scheduled"
   },
   {

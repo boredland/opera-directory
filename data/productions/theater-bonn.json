@@ -244,6 +244,15 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/234669",
+    "work_slug": "hansel-und-gretel",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/hansel-und-gretel/234669",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/234682",
     "work_slug": "turing",
     "house_slug": "theater-bonn",
@@ -325,6 +334,47 @@
     "cast": []
   },
   {
+    "id": "theater-bonn/237695",
+    "work_slug": "tosca",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/tosca/237695",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/237708",
+    "work_slug": "kehrauskonzert",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/kehrauskonzert/237708",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/238124",
+    "work_slug": "nabucco",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/nabucco/238124",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/238228",
+    "work_slug": "gioachino-rossini/der-barbier-von-sevilla",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/der-barbier-von-sevilla/238228",
+    "creative_team": [
+      {
+        "person_slug": "matthew-wild",
+        "function": "director"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-bonn/240860",
     "work_slug": "knusper-knusper-knauschen",
     "house_slug": "theater-bonn",
@@ -385,6 +435,78 @@
         "function": "director"
       }
     ],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243354",
+    "work_slug": "aida",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/aida/243354",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243355",
+    "work_slug": "turing",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/turing/243355",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243357",
+    "work_slug": "la-boheme",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/la-boheme/243357",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243358",
+    "work_slug": "das-madchen-aus-dem-goldenen-westen",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/das-madchen-aus-dem-goldenen-westen/243358",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243359",
+    "work_slug": "iphigenie-auf-tauris",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/iphigenie-auf-tauris/243359",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243360",
+    "work_slug": "der-weltuntergang",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/der-weltuntergang/243360",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/243716",
+    "work_slug": "m-a-r-s",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/mars/243716",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-bonn/246430",
+    "work_slug": "knusper-knusper-knauschen",
+    "house_slug": "theater-bonn",
+    "is_revival": false,
+    "detail_url": "https://www.theater-bonn.de/de/programm/knusper-knusper-knauschen/246430",
+    "creative_team": [],
     "cast": []
   },
   {
