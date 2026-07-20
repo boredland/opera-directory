@@ -1,5 +1,64 @@
 [
   {
+    "id": "semperoper-dresden/61063",
+    "work_slug": "leonard-bernstein/trouble-in-tahiti",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/trouble/61063.html",
+    "creative_team": [
+      {
+        "person_slug": "natalie-holtom",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "ingunn-korsgard-hagen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "manfred-wei",
+        "function": "director"
+      },
+      {
+        "person_slug": "anne-gerber",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "marco-dietzel",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "joseph-parrish",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/bariton"
+      },
+      {
+        "person_slug": "okarina-peter",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/buhnenbild-kostume"
+      },
+      {
+        "person_slug": "timo-dentler",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/buhnenbild-kostume"
+      },
+      {
+        "person_slug": "winona-martin",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/dinah"
+      },
+      {
+        "person_slug": "steffan-lloyd-owen",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/sam"
+      },
+      {
+        "person_slug": "natasha-gesto",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/sopran-mezzosopran"
+      },
+      {
+        "person_slug": "timothy-oliver",
+        "role_slug": "leonard-bernstein/trouble-in-tahiti/tenor"
+      }
+    ]
+  },
+  {
     "id": "semperoper-dresden/61859",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "house_slug": "semperoper-dresden",

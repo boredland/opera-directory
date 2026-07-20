@@ -1,5 +1,13 @@
 [
   {
+    "id": "semperoper-dresden/61063/2026-09-11/19:00",
+    "production_id": "semperoper-dresden/61063",
+    "date": "2026-09-11",
+    "time": "19:00",
+    "venue_room": "Semper Zwei",
+    "status": "scheduled"
+  },
+  {
     "id": "semperoper-dresden/61859/2026-06-07/",
     "production_id": "semperoper-dresden/61859",
     "date": "2026-06-07",
@@ -443,6 +451,14 @@
     "production_id": "semperoper-dresden/62710",
     "date": "2026-09-06",
     "time": "14:00",
+    "venue_room": "Semperoper Dresden",
+    "status": "scheduled"
+  },
+  {
+    "id": "semperoper-dresden/62710/2026-09-11/19:00",
+    "production_id": "semperoper-dresden/62710",
+    "date": "2026-09-11",
+    "time": "19:00",
     "venue_room": "Semperoper Dresden",
     "status": "scheduled"
   },

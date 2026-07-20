@@ -513,11 +513,29 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-am-rhein/balletthausfuehrungen-3885",
+    "work_slug": "balletthausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/balletthausfuehrungen/3885/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-am-rhein/blick-hinter-die-kulissen-spezial-3128",
     "work_slug": "blick-hinter-die-kulissen-spezial",
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/blick-hinter-die-kulissen-spezial/3128/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/blick-hinter-die-kulissen-spezial-4001",
+    "work_slug": "blick-hinter-die-kulissen-spezial",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/blick-hinter-die-kulissen-spezial/4001/",
     "creative_team": [],
     "cast": []
   },
@@ -529,6 +547,195 @@
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/boom-boom/3353/",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/comedian-harmonists-best-of-3474",
+    "work_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/comedian-harmonists-best-of/3474/",
+    "creative_team": [
+      {
+        "person_slug": "michal-matys",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronja-reinhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cornel-frey",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/ari"
+      },
+      {
+        "person_slug": "jussi-myllys",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erich"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erwin"
+      },
+      {
+        "person_slug": "florian-simson",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/harry"
+      },
+      {
+        "person_slug": "jan-henning-kraus",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/moderation"
+      },
+      {
+        "person_slug": "sami-luttinen",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/robert"
+      },
+      {
+        "person_slug": "jake-muffett",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/roman"
+      },
+      {
+        "person_slug": "esther-mertel",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/szenische-einrichtung"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/comedian-harmonists-best-of-3475",
+    "work_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/comedian-harmonists-best-of/3475/",
+    "creative_team": [
+      {
+        "person_slug": "michal-matys",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronja-reinhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cornel-frey",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/ari"
+      },
+      {
+        "person_slug": "jussi-myllys",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erich"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erwin"
+      },
+      {
+        "person_slug": "florian-simson",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/harry"
+      },
+      {
+        "person_slug": "dirk-weiler",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/moderation"
+      },
+      {
+        "person_slug": "sami-luttinen",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/robert"
+      },
+      {
+        "person_slug": "jake-muffett",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/roman"
+      },
+      {
+        "person_slug": "esther-mertel",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/szenische-einrichtung"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/comedian-harmonists-best-of-3476",
+    "work_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/comedian-harmonists-best-of/3476/",
+    "creative_team": [
+      {
+        "person_slug": "michal-matys",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ronja-reinhardt",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "cornel-frey",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/ari"
+      },
+      {
+        "person_slug": "jussi-myllys",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erich"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/erwin"
+      },
+      {
+        "person_slug": "florian-simson",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/harry"
+      },
+      {
+        "person_slug": "dirk-weiler",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/moderation"
+      },
+      {
+        "person_slug": "gunes-gurle",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/robert"
+      },
+      {
+        "person_slug": "jake-muffett",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/roman"
+      },
+      {
+        "person_slug": "esther-mertel",
+        "role_slug": "die-goldenen-zwanziger-in-concert/comedian-harmonists-best-of/szenische-einrichtung"
+      }
+    ]
   },
   {
     "id": "deutsche-oper-am-rhein/das-kind-und-das-ding-3387",
@@ -619,6 +826,300 @@
       {
         "person_slug": "michaela-dicu",
         "role_slug": "das-kind-und-das-ding/regie-und-libretto"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/der-kreidekreis-3634",
+    "work_slug": "alexander-zemlinsky/der-kreidekreis",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/der-kreidekreis/3634/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/der-kreidekreis-3635",
+    "work_slug": "alexander-zemlinsky/der-kreidekreis",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/der-kreidekreis/3635/",
+    "creative_team": [
+      {
+        "person_slug": "hendrik-vestmann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/1-kuli"
+      },
+      {
+        "person_slug": "ivan-resendiz",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/2-kuli"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-kuppler"
+      },
+      {
+        "person_slug": "mathilde-guedj",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-madchen"
+      },
+      {
+        "person_slug": "joachim-goltz",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-manderin"
+      },
+      {
+        "person_slug": "matthias-koziorowski",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-prinz"
+      },
+      {
+        "person_slug": "romana-noack",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/hebamme"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihr-bruder"
+      },
+      {
+        "person_slug": "katarzyna-kuncio",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihre-mutter"
+      },
+      {
+        "person_slug": "werner-wolbern",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/oberrichter"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/orchester"
+      },
+      {
+        "person_slug": "sarah-ferede",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/seine-gattin-ersten-ranges"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/sekretar-bei-gericht"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/soldat"
+      },
+      {
+        "person_slug": "lavinia-dames",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/tschang-haitang"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/der-kreidekreis-3636",
+    "work_slug": "alexander-zemlinsky/der-kreidekreis",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/der-kreidekreis/3636/",
+    "creative_team": [
+      {
+        "person_slug": "hendrik-vestmann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/1-kuli"
+      },
+      {
+        "person_slug": "ivan-resendiz",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/2-kuli"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-kuppler"
+      },
+      {
+        "person_slug": "mathilde-guedj",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-madchen"
+      },
+      {
+        "person_slug": "joachim-goltz",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-manderin"
+      },
+      {
+        "person_slug": "matthias-koziorowski",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-prinz"
+      },
+      {
+        "person_slug": "romana-noack",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/hebamme"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihr-bruder"
+      },
+      {
+        "person_slug": "maria-gulik",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihre-mutter"
+      },
+      {
+        "person_slug": "werner-wolbern",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/oberrichter"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/orchester"
+      },
+      {
+        "person_slug": "sarah-ferede",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/seine-gattin-ersten-ranges"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/sekretar-bei-gericht"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/soldat"
+      },
+      {
+        "person_slug": "lavinia-dames",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/tschang-haitang"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/der-kreidekreis-3638",
+    "work_slug": "alexander-zemlinsky/der-kreidekreis",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/der-kreidekreis/3638/",
+    "creative_team": [
+      {
+        "person_slug": "hendrik-vestmann",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "falko-herold",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "david-bosch",
+        "function": "director"
+      },
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "patrick-bannwart",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/1-kuli"
+      },
+      {
+        "person_slug": "ivan-resendiz",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/2-kuli"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-kuppler"
+      },
+      {
+        "person_slug": "mathilde-guedj",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-madchen"
+      },
+      {
+        "person_slug": "marcel-brunner",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-manderin"
+      },
+      {
+        "person_slug": "matthias-koziorowski",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ein-prinz"
+      },
+      {
+        "person_slug": "romana-noack",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/hebamme"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihr-bruder"
+      },
+      {
+        "person_slug": "katarzyna-kuncio",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/ihre-mutter"
+      },
+      {
+        "person_slug": "werner-wolbern",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/oberrichter"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/orchester"
+      },
+      {
+        "person_slug": "sarah-ferede",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/seine-gattin-ersten-ranges"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/sekretar-bei-gericht"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/soldat"
+      },
+      {
+        "person_slug": "lavinia-dames",
+        "role_slug": "alexander-zemlinsky/der-kreidekreis/tschang-haitang"
       }
     ]
   },
@@ -755,6 +1256,579 @@
         "role_slug": "konzertante-opernauffuhrung/die-konigin-von-saba/vertraute-der-konigin"
       }
     ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-meistersinger-von-nuernberg-3704",
+    "work_slug": "richard-wagner/die-meistersinger-von-nurnberg",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-meistersinger-von-nuernberg/3704/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-meistersinger-von-nuernberg-3705",
+    "work_slug": "richard-wagner/die-meistersinger-von-nurnberg",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-meistersinger-von-nuernberg/3705/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "axel-kober",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "heide-kastler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniel-kramer",
+        "function": "director"
+      },
+      {
+        "person_slug": "juliane-schunke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "elana-siberski",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "elizabeth-clachan",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "chris-kondek",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "henry-ross",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/augustin-moser"
+      },
+      {
+        "person_slug": "tae-hwan-yun",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/balthasar-zorn"
+      },
+      {
+        "person_slug": "david-fischer",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/david"
+      },
+      {
+        "person_slug": "anke-krabbe",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/eva"
+      },
+      {
+        "person_slug": "bogdan-baciu",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/fritz-kothner"
+      },
+      {
+        "person_slug": "torben-jurgens",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-foltz"
+      },
+      {
+        "person_slug": "james-rutherford",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-sachs"
+      },
+      {
+        "person_slug": "valentin-ruckebier",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-schwarz"
+      },
+      {
+        "person_slug": "rolf-a-scheider",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hermann-ortel"
+      },
+      {
+        "person_slug": "jake-muffett",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/konrad-nachtigall"
+      },
+      {
+        "person_slug": "andres-sulbaran",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/kunz-vogelsang"
+      },
+      {
+        "person_slug": "chantal-bergemann",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/livekamera"
+      },
+      {
+        "person_slug": "anna-harvey",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/magdalena"
+      },
+      {
+        "person_slug": "beniamin-pop",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/nachtwachter"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/orchester"
+      },
+      {
+        "person_slug": "christoph-pohl",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/sixtus-beckmesser"
+      },
+      {
+        "person_slug": "tim-alberti",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/tim"
+      },
+      {
+        "person_slug": "florian-simson",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/ulrich-ei-linger"
+      },
+      {
+        "person_slug": "hans-peter-konig",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/veit-pogner"
+      },
+      {
+        "person_slug": "daniel-frank",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/walther-von-stolzing"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-meistersinger-von-nuernberg-3706",
+    "work_slug": "richard-wagner/die-meistersinger-von-nurnberg",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-meistersinger-von-nuernberg/3706/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "axel-kober",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "heide-kastler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "daniel-kramer",
+        "function": "director"
+      },
+      {
+        "person_slug": "juliane-schunke",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "elana-siberski",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "elizabeth-clachan",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "chris-kondek",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "henry-ross",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/augustin-moser"
+      },
+      {
+        "person_slug": "tae-hwan-yun",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/balthasar-zorn"
+      },
+      {
+        "person_slug": "david-fischer",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/david"
+      },
+      {
+        "person_slug": "anke-krabbe",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/eva"
+      },
+      {
+        "person_slug": "bogdan-baciu",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/fritz-kothner"
+      },
+      {
+        "person_slug": "torben-jurgens",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-foltz"
+      },
+      {
+        "person_slug": "james-rutherford",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-sachs"
+      },
+      {
+        "person_slug": "valentin-ruckebier",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hans-schwarz"
+      },
+      {
+        "person_slug": "rolf-a-scheider",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/hermann-ortel"
+      },
+      {
+        "person_slug": "jake-muffett",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/konrad-nachtigall"
+      },
+      {
+        "person_slug": "andres-sulbaran",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/kunz-vogelsang"
+      },
+      {
+        "person_slug": "chantal-bergemann",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/livekamera"
+      },
+      {
+        "person_slug": "anna-harvey",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/magdalena"
+      },
+      {
+        "person_slug": "luke-stoker",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/nachtwachter"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/orchester"
+      },
+      {
+        "person_slug": "christoph-pohl",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/sixtus-beckmesser"
+      },
+      {
+        "person_slug": "tim-alberti",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/tim"
+      },
+      {
+        "person_slug": "florian-simson",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/ulrich-ei-linger"
+      },
+      {
+        "person_slug": "hans-peter-konig",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/veit-pogner"
+      },
+      {
+        "person_slug": "daniel-frank",
+        "role_slug": "richard-wagner/die-meistersinger-von-nurnberg/walther-von-stolzing"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-zauberfloete-3555",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-zauberfloete/3555/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "vitali-alekseenok",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-lenz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "diego-leetz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "heidi-elisabeth-meier",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "sander-de-jong",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter-mann"
+      },
+      {
+        "person_slug": "kimberley-boettger-soller",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter-mann"
+      },
+      {
+        "person_slug": "freya-apffelstaedt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/animationen"
+      },
+      {
+        "person_slug": "charlotte-langner",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/die-konigin-der-nacht"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konzeption"
+      },
+      {
+        "person_slug": "raphael-wittmer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "mara-guseynova",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "zilvinas-miskinis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "bogdan-talos",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "jussi-myllys",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-zauberfloete-3556",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-zauberfloete/3556/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-lenz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "diego-leetz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "heidi-elisabeth-meier",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "henry-ross",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter-mann"
+      },
+      {
+        "person_slug": "kimberley-boettger-soller",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter-mann"
+      },
+      {
+        "person_slug": "rita-kapfhammer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/animationen"
+      },
+      {
+        "person_slug": "charlotte-langner",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/die-konigin-der-nacht"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konzeption"
+      },
+      {
+        "person_slug": "tae-hwan-yun",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "anna-sophia-theil",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "mathilde-guedj",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "zilvinas-miskinis",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "bogdan-talos",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "robin-frindt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "andres-sulbaran",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/die-zauberfloete-3557",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/die-zauberfloete/3557/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrich-lenz",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "diego-leetz",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sylvia-hamvasi",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-dame"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/1-geharnischter-mann"
+      },
+      {
+        "person_slug": "sarah-ferede",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-dame"
+      },
+      {
+        "person_slug": "valentin-ruckebier",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/2-geharnischter-mann"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/3-dame"
+      },
+      {
+        "person_slug": "paul-barritt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/animationen"
+      },
+      {
+        "person_slug": "tetiana-zhuravel",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/die-konigin-der-nacht"
+      },
+      {
+        "person_slug": "suzanne-andrade",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konzeption"
+      },
+      {
+        "person_slug": "raphael-wittmer",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/orchester"
+      },
+      {
+        "person_slug": "heidi-elisabeth-meier",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "luke-stoker",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "valentin-ruckebier",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "jussi-myllys",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/einblicke-3768",
+    "work_slug": "einblicke",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/einblicke/3768/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "deutsche-oper-am-rhein/elektra-2868",
@@ -1311,6 +2385,51 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-am-rhein/familienfuehrung-4013",
+    "work_slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/familienfuehrung/4013/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/familienfuehrung-4014",
+    "work_slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/familienfuehrung/4014/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/familienfuehrung-4015",
+    "work_slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/familienfuehrung/4015/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/familienfuehrung-4016",
+    "work_slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/familienfuehrung/4016/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/familienfuehrung-4017",
+    "work_slug": "die-welt-hinter-den-kulissen-entdecken/familienfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/familienfuehrung/4017/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-am-rhein/fokus-jascha-horenstein-3884",
     "work_slug": "fokus-jascha-horenstein",
     "house_slug": "deutsche-oper-am-rhein",
@@ -1346,6 +2465,103 @@
       {
         "person_slug": "friedemann-pardall",
         "role_slug": "fokus-musik/violoncello"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/forsythe-eyal-3567",
+    "work_slug": "william-forsythe-sharon-eyal/forsythe-eyal",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/forsythe-eyal/3567/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/forsythe-eyal-3568",
+    "work_slug": "william-forsythe-sharon-eyal/forsythe-eyal",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/forsythe-eyal/3568/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/grey-area-3440",
+    "work_slug": "grey-area",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/grey-area/3440/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/grey-area-3441",
+    "work_slug": "grey-area",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/grey-area/3441/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/grey-area-3442",
+    "work_slug": "grey-area",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/grey-area/3442/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/grey-area-3443",
+    "work_slug": "grey-area",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/grey-area/3443/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/haniel-klassik-3633",
+    "work_slug": "haniel-klassik-open-air",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/haniel-klassik/3633/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "stefan-blunier",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anna-melcher",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gotz-alsmann",
+        "role_slug": "haniel-klassik-open-air/moderation"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "haniel-klassik-open-air/orchester"
+      },
+      {
+        "person_slug": "eduardo-aladren",
+        "role_slug": "haniel-klassik-open-air/sanger"
+      },
+      {
+        "person_slug": "karsu-donmez",
+        "role_slug": "haniel-klassik-open-air/special-guest"
       }
     ]
   },
@@ -2055,6 +3271,243 @@
     ]
   },
   {
+    "id": "deutsche-oper-am-rhein/la-traviata-3654",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/la-traviata/3654/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-gedschold",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabriele-jaenecke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-homoki",
+        "function": "director"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frank-philipp-schlo-mann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "magnus-todenes-bror",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "janetka-emilia-hosco",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "roman-hoza",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "zilvinas-miskinis",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "maria-van-hoof",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "sergej-khomov",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "alexey-zelenkov",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "gunes-gurle",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "giuseppe-verdi/la-traviata/orchester"
+      },
+      {
+        "person_slug": "darija-augustan",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/la-traviata-3655",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/la-traviata/3655/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-gedschold",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabriele-jaenecke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-homoki",
+        "function": "director"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frank-philipp-schlo-mann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "magnus-todenes-bror",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "janetka-emilia-hosco",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "roman-hoza",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "zilvinas-miskinis",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "maria-van-hoof",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "sergej-khomov",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "alexey-zelenkov",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "gunes-gurle",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "giuseppe-verdi/la-traviata/orchester"
+      },
+      {
+        "person_slug": "darija-augustan",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/la-traviata-3656",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/la-traviata/3656/",
+    "creative_team": [
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "patrick-francis-chestnut",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "christoph-gedschold",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gabriele-jaenecke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "andreas-homoki",
+        "function": "director"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "frank-philipp-schlo-mann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "magnus-todenes-bror",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "rita-kapfhammer",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
+      },
+      {
+        "person_slug": "beniamin-pop",
+        "role_slug": "giuseppe-verdi/la-traviata/dottore-grenvil"
+      },
+      {
+        "person_slug": "maria-van-hoof",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "sergej-khomov",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "bogdan-baciu",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "gunes-gurle",
+        "role_slug": "giuseppe-verdi/la-traviata/marchese-d-obigny"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "giuseppe-verdi/la-traviata/orchester"
+      },
+      {
+        "person_slug": "luiza-fatyol",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-am-rhein/liedmatinee-ingeborg-bachmann-2846",
     "work_slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee",
     "house_slug": "deutsche-oper-am-rhein",
@@ -2095,6 +3548,480 @@
       {
         "person_slug": "anke-krabbe",
         "role_slug": "liedmatinee/sopran"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3601",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3601/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "olesya-golovneva",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "conrad-chatterton",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "ovidiu-purcel",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-polanska",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3602",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3602/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "olesya-golovneva",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "eduardo-aladren",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-polanska",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3603",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3603/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "olesya-golovneva",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "conrad-chatterton",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "ovidiu-purcel",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-polanska",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3604",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3604/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "liana-aleksanyan",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "conrad-chatterton",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "cornel-frey",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "eduardo-aladren",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "alexey-zelenkov",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-kataeva",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3605",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3605/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "antonino-fogliani",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "liana-aleksanyan",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "conrad-chatterton",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "riccardo-romeo",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "ovidiu-purcel",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-kataeva",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/madama-butterfly-3606",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/madama-butterfly/3606/",
+    "creative_team": [
+      {
+        "person_slug": "albert-horne",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "chor-der-deutschen-oper-am-rhein",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "katharina-mullner",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "merce-paloma",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "joan-anton-rechi",
+        "function": "director"
+      },
+      {
+        "person_slug": "bernhard-f-loges",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "volker-weinhart",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alfons-flores",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "liana-aleksanyan",
+        "role_slug": "giacomo-puccini/madama-butterfly/cio-cio-san"
+      },
+      {
+        "person_slug": "jorge-espino",
+        "role_slug": "giacomo-puccini/madama-butterfly/der-furst-yamadori"
+      },
+      {
+        "person_slug": "cornel-frey",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "laura-miah",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "thorsten-grumbel",
+        "role_slug": "giacomo-puccini/madama-butterfly/onkel-bonzo"
+      },
+      {
+        "person_slug": "dusseldorfer-symphoniker",
+        "role_slug": "giacomo-puccini/madama-butterfly/orchester"
+      },
+      {
+        "person_slug": "ovidiu-purcel",
+        "role_slug": "giacomo-puccini/madama-butterfly/pinkerton"
+      },
+      {
+        "person_slug": "richard-sveda",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "maria-kataeva",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
       }
     ]
   },
@@ -2454,6 +4381,64 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-am-rhein/meisterklasse-1128-216627-3904",
+    "work_slug": "meisterklasse",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/meisterklasse-1128-216627/3904/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "linda-watson",
+        "role_slug": "meisterklasse/leitung"
+      },
+      {
+        "person_slug": "ivan-resendiz",
+        "role_slug": "meisterklasse/sanger"
+      },
+      {
+        "person_slug": "mathilde-guedj",
+        "role_slug": "meisterklasse/sangerinnen"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzprojekt-3793",
+    "work_slug": "rituale-tanzen/mixed-abled-tanzprojekt",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzprojekt/3793/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzprojekt-3794",
+    "work_slug": "rituale-tanzen/mixed-abled-tanzprojekt",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzprojekt/3794/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzprojekt-3795",
+    "work_slug": "rituale-tanzen/mixed-abled-tanzprojekt",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzprojekt/3795/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzprojekt-3796",
+    "work_slug": "rituale-tanzen/mixed-abled-tanzprojekt",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzprojekt/3796/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-2982",
     "work_slug": "mixed-abled-tanzunterricht",
     "house_slug": "deutsche-oper-am-rhein",
@@ -2481,6 +4466,42 @@
     "cast": []
   },
   {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-3771",
+    "work_slug": "mixed-abled-tanzunterricht",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzunterricht/3771/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-3772",
+    "work_slug": "mixed-abled-tanzunterricht",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzunterricht/3772/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-3773",
+    "work_slug": "mixed-abled-tanzunterricht",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzunterricht/3773/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-3774",
+    "work_slug": "mixed-abled-tanzunterricht",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzunterricht/3774/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-am-rhein/mixed-abled-tanzunterricht-ii-3249",
     "work_slug": "mixed-abled-tanzunterricht-ii",
     "house_slug": "deutsche-oper-am-rhein",
@@ -2504,6 +4525,15 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/mixed-abled-tanzunterricht-ii/3251/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/my-fair-lady-3712",
+    "work_slug": "frederick-loewe-musik/my-fair-lady",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/my-fair-lady/3712/",
     "creative_team": [],
     "cast": []
   },
@@ -2605,6 +4635,15 @@
         "role_slug": "giuseppe-verdi/nabucco/zaccaria"
       }
     ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/new-fall-festival-3950",
+    "work_slug": "new-fall-festival/boy-kaiser-quartett",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/new-fall-festival/3950/",
+    "creative_team": [],
+    "cast": []
   },
   {
     "id": "deutsche-oper-am-rhein/on-the-town-2908",
@@ -2893,6 +4932,578 @@
     ]
   },
   {
+    "id": "deutsche-oper-am-rhein/on-the-town-3502",
+    "work_slug": "leonard-bernstein-musik/on-the-town",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/on-the-town/3502/",
+    "creative_team": [
+      {
+        "person_slug": "marie-christin-zeisset",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "koen-schoots",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "louisa-proske",
+        "function": "director"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "amith-chandrashaker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josephina-mackensen",
+        "role_slug": "leonard-bernstein-musik/on-the-town/balletttanzerin-ensemble"
+      },
+      {
+        "person_slug": "julius-stormer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/chip"
+      },
+      {
+        "person_slug": "valerie-luksch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/claire-de-loone"
+      },
+      {
+        "person_slug": "veronika-de-vries",
+        "role_slug": "leonard-bernstein-musik/on-the-town/diana-dream-kleine-alte-dame-ensemble"
+      },
+      {
+        "person_slug": "daniel-dodd-ellis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/erster-arbeiter-polizist"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossie-ensemble"
+      },
+      {
+        "person_slug": "erika-del-re",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossies-freundin-erstes-showgirl-ensemble"
+      },
+      {
+        "person_slug": "leon-de-graaf",
+        "role_slug": "leonard-bernstein-musik/on-the-town/gabey"
+      },
+      {
+        "person_slug": "lorena-kruger",
+        "role_slug": "leonard-bernstein-musik/on-the-town/high-school-girl-ensemble"
+      },
+      {
+        "person_slug": "laura-magdalena-goblirsch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/hildy-esterhazy"
+      },
+      {
+        "person_slug": "maria-joachimstaller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ivy-smith"
+      },
+      {
+        "person_slug": "tim-stolberg",
+        "role_slug": "leonard-bernstein-musik/on-the-town/lucy-schmeeler-ensemble"
+      },
+      {
+        "person_slug": "morenike-fadayomi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/madame-dilly"
+      },
+      {
+        "person_slug": "jo-lucy-rackham",
+        "role_slug": "leonard-bernstein-musik/on-the-town/miss-u-bahn-des-monats-juli-ensemble"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "leonard-bernstein-musik/on-the-town/orchester"
+      },
+      {
+        "person_slug": "peter-lewys-preston",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ozzie"
+      },
+      {
+        "person_slug": "peter-bording",
+        "role_slug": "leonard-bernstein-musik/on-the-town/pitkin-w-bridgework-moderator"
+      },
+      {
+        "person_slug": "dominik-muller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/plakatierer-ensemble"
+      },
+      {
+        "person_slug": "albert-ga-mann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/polizist-ensemble"
+      },
+      {
+        "person_slug": "kevin-dickmann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/rajah-bimmy-professor-waldo-figment-ensemble"
+      },
+      {
+        "person_slug": "stefan-gregor-schmitz",
+        "role_slug": "leonard-bernstein-musik/on-the-town/s-uperman-ensemble"
+      },
+      {
+        "person_slug": "clara-maria-determann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/showgirl-ensemble"
+      },
+      {
+        "person_slug": "liam-tiesteel",
+        "role_slug": "leonard-bernstein-musik/on-the-town/soldat-ensemble"
+      },
+      {
+        "person_slug": "statisterie-der-deutschen-oper-am-rhein",
+        "role_slug": "leonard-bernstein-musik/on-the-town/statisterie"
+      },
+      {
+        "person_slug": "karina-kettenis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/times-square-girl-ensemble"
+      },
+      {
+        "person_slug": "patrick-sabel",
+        "role_slug": "leonard-bernstein-musik/on-the-town/tom-matrose-ensemble"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/on-the-town-3503",
+    "work_slug": "leonard-bernstein-musik/on-the-town",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/on-the-town/3503/",
+    "creative_team": [
+      {
+        "person_slug": "marie-christin-zeisset",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "koen-schoots",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "louisa-proske",
+        "function": "director"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "amith-chandrashaker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josephina-mackensen",
+        "role_slug": "leonard-bernstein-musik/on-the-town/balletttanzerin-ensemble"
+      },
+      {
+        "person_slug": "julius-stormer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/chip"
+      },
+      {
+        "person_slug": "valerie-luksch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/claire-de-loone"
+      },
+      {
+        "person_slug": "veronika-de-vries",
+        "role_slug": "leonard-bernstein-musik/on-the-town/diana-dream-kleine-alte-dame-ensemble"
+      },
+      {
+        "person_slug": "daniel-dodd-ellis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/erster-arbeiter-polizist"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossie-ensemble"
+      },
+      {
+        "person_slug": "erika-del-re",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossies-freundin-erstes-showgirl-ensemble"
+      },
+      {
+        "person_slug": "leon-de-graaf",
+        "role_slug": "leonard-bernstein-musik/on-the-town/gabey"
+      },
+      {
+        "person_slug": "lorena-kruger",
+        "role_slug": "leonard-bernstein-musik/on-the-town/high-school-girl-ensemble"
+      },
+      {
+        "person_slug": "laura-magdalena-goblirsch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/hildy-esterhazy"
+      },
+      {
+        "person_slug": "maria-joachimstaller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ivy-smith"
+      },
+      {
+        "person_slug": "tim-stolberg",
+        "role_slug": "leonard-bernstein-musik/on-the-town/lucy-schmeeler-ensemble"
+      },
+      {
+        "person_slug": "morenike-fadayomi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/madame-dilly"
+      },
+      {
+        "person_slug": "jo-lucy-rackham",
+        "role_slug": "leonard-bernstein-musik/on-the-town/miss-u-bahn-des-monats-juli-ensemble"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "leonard-bernstein-musik/on-the-town/orchester"
+      },
+      {
+        "person_slug": "peter-lewys-preston",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ozzie"
+      },
+      {
+        "person_slug": "peter-bording",
+        "role_slug": "leonard-bernstein-musik/on-the-town/pitkin-w-bridgework-moderator"
+      },
+      {
+        "person_slug": "dominik-muller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/plakatierer-ensemble"
+      },
+      {
+        "person_slug": "albert-ga-mann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/polizist-ensemble"
+      },
+      {
+        "person_slug": "kevin-dickmann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/rajah-bimmy-professor-waldo-figment-ensemble"
+      },
+      {
+        "person_slug": "stefan-gregor-schmitz",
+        "role_slug": "leonard-bernstein-musik/on-the-town/s-uperman-ensemble"
+      },
+      {
+        "person_slug": "clara-maria-determann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/showgirl-ensemble"
+      },
+      {
+        "person_slug": "davide-de-biasi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/soldat-ensemble"
+      },
+      {
+        "person_slug": "statisterie-der-deutschen-oper-am-rhein",
+        "role_slug": "leonard-bernstein-musik/on-the-town/statisterie"
+      },
+      {
+        "person_slug": "karina-kettenis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/times-square-girl-ensemble"
+      },
+      {
+        "person_slug": "patrick-sabel",
+        "role_slug": "leonard-bernstein-musik/on-the-town/tom-matrose-ensemble"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/on-the-town-3504",
+    "work_slug": "leonard-bernstein-musik/on-the-town",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/on-the-town/3504/",
+    "creative_team": [
+      {
+        "person_slug": "marie-christin-zeisset",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "koen-schoots",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "louisa-proske",
+        "function": "director"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "amith-chandrashaker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josephina-mackensen",
+        "role_slug": "leonard-bernstein-musik/on-the-town/balletttanzerin-ensemble"
+      },
+      {
+        "person_slug": "julius-stormer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/chip"
+      },
+      {
+        "person_slug": "valerie-luksch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/claire-de-loone"
+      },
+      {
+        "person_slug": "veronika-de-vries",
+        "role_slug": "leonard-bernstein-musik/on-the-town/diana-dream-kleine-alte-dame-ensemble"
+      },
+      {
+        "person_slug": "daniel-dodd-ellis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/erster-arbeiter-polizist"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossie-ensemble"
+      },
+      {
+        "person_slug": "erika-del-re",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossies-freundin-erstes-showgirl-ensemble"
+      },
+      {
+        "person_slug": "leon-de-graaf",
+        "role_slug": "leonard-bernstein-musik/on-the-town/gabey"
+      },
+      {
+        "person_slug": "lorena-kruger",
+        "role_slug": "leonard-bernstein-musik/on-the-town/high-school-girl-ensemble"
+      },
+      {
+        "person_slug": "laura-magdalena-goblirsch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/hildy-esterhazy"
+      },
+      {
+        "person_slug": "maria-joachimstaller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ivy-smith"
+      },
+      {
+        "person_slug": "tim-stolberg",
+        "role_slug": "leonard-bernstein-musik/on-the-town/lucy-schmeeler-ensemble"
+      },
+      {
+        "person_slug": "morenike-fadayomi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/madame-dilly"
+      },
+      {
+        "person_slug": "jo-lucy-rackham",
+        "role_slug": "leonard-bernstein-musik/on-the-town/miss-u-bahn-des-monats-juli-ensemble"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "leonard-bernstein-musik/on-the-town/orchester"
+      },
+      {
+        "person_slug": "peter-lewys-preston",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ozzie"
+      },
+      {
+        "person_slug": "peter-bording",
+        "role_slug": "leonard-bernstein-musik/on-the-town/pitkin-w-bridgework-moderator"
+      },
+      {
+        "person_slug": "dominik-muller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/plakatierer-ensemble"
+      },
+      {
+        "person_slug": "albert-ga-mann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/polizist-ensemble"
+      },
+      {
+        "person_slug": "kevin-dickmann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/rajah-bimmy-professor-waldo-figment-ensemble"
+      },
+      {
+        "person_slug": "stefan-gregor-schmitz",
+        "role_slug": "leonard-bernstein-musik/on-the-town/s-uperman-ensemble"
+      },
+      {
+        "person_slug": "clara-maria-determann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/showgirl-ensemble"
+      },
+      {
+        "person_slug": "davide-de-biasi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/soldat-ensemble"
+      },
+      {
+        "person_slug": "statisterie-der-deutschen-oper-am-rhein",
+        "role_slug": "leonard-bernstein-musik/on-the-town/statisterie"
+      },
+      {
+        "person_slug": "karina-kettenis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/times-square-girl-ensemble"
+      },
+      {
+        "person_slug": "patrick-sabel",
+        "role_slug": "leonard-bernstein-musik/on-the-town/tom-matrose-ensemble"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/on-the-town-3505",
+    "work_slug": "leonard-bernstein-musik/on-the-town",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/on-the-town/3505/",
+    "creative_team": [
+      {
+        "person_slug": "marie-christin-zeisset",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "koen-schoots",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "esther-bialas",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "louisa-proske",
+        "function": "director"
+      },
+      {
+        "person_slug": "heili-schwarz-schutte",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "amith-chandrashaker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "momme-hinrichs",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "josephina-mackensen",
+        "role_slug": "leonard-bernstein-musik/on-the-town/balletttanzerin-ensemble"
+      },
+      {
+        "person_slug": "julius-stormer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/chip"
+      },
+      {
+        "person_slug": "valerie-luksch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/claire-de-loone"
+      },
+      {
+        "person_slug": "veronika-de-vries",
+        "role_slug": "leonard-bernstein-musik/on-the-town/diana-dream-kleine-alte-dame-ensemble"
+      },
+      {
+        "person_slug": "daniel-dodd-ellis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/erster-arbeiter-polizist"
+      },
+      {
+        "person_slug": "samantha-mayer",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossie-ensemble"
+      },
+      {
+        "person_slug": "erika-del-re",
+        "role_slug": "leonard-bernstein-musik/on-the-town/flossies-freundin-erstes-showgirl-ensemble"
+      },
+      {
+        "person_slug": "leon-de-graaf",
+        "role_slug": "leonard-bernstein-musik/on-the-town/gabey"
+      },
+      {
+        "person_slug": "lorena-kruger",
+        "role_slug": "leonard-bernstein-musik/on-the-town/high-school-girl-ensemble"
+      },
+      {
+        "person_slug": "laura-magdalena-goblirsch",
+        "role_slug": "leonard-bernstein-musik/on-the-town/hildy-esterhazy"
+      },
+      {
+        "person_slug": "maria-joachimstaller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ivy-smith"
+      },
+      {
+        "person_slug": "tim-stolberg",
+        "role_slug": "leonard-bernstein-musik/on-the-town/lucy-schmeeler-ensemble"
+      },
+      {
+        "person_slug": "morenike-fadayomi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/madame-dilly"
+      },
+      {
+        "person_slug": "jo-lucy-rackham",
+        "role_slug": "leonard-bernstein-musik/on-the-town/miss-u-bahn-des-monats-juli-ensemble"
+      },
+      {
+        "person_slug": "duisburger-philharmoniker",
+        "role_slug": "leonard-bernstein-musik/on-the-town/orchester"
+      },
+      {
+        "person_slug": "peter-lewys-preston",
+        "role_slug": "leonard-bernstein-musik/on-the-town/ozzie"
+      },
+      {
+        "person_slug": "peter-bording",
+        "role_slug": "leonard-bernstein-musik/on-the-town/pitkin-w-bridgework-moderator"
+      },
+      {
+        "person_slug": "dominik-muller",
+        "role_slug": "leonard-bernstein-musik/on-the-town/plakatierer-ensemble"
+      },
+      {
+        "person_slug": "albert-ga-mann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/polizist-ensemble"
+      },
+      {
+        "person_slug": "kevin-dickmann",
+        "role_slug": "leonard-bernstein-musik/on-the-town/rajah-bimmy-professor-waldo-figment-ensemble"
+      },
+      {
+        "person_slug": "stefan-gregor-schmitz",
+        "role_slug": "leonard-bernstein-musik/on-the-town/s-uperman-ensemble"
+      },
+      {
+        "person_slug": "clarissa-elena-frings",
+        "role_slug": "leonard-bernstein-musik/on-the-town/showgirl-ensemble"
+      },
+      {
+        "person_slug": "davide-de-biasi",
+        "role_slug": "leonard-bernstein-musik/on-the-town/soldat-ensemble"
+      },
+      {
+        "person_slug": "statisterie-der-deutschen-oper-am-rhein",
+        "role_slug": "leonard-bernstein-musik/on-the-town/statisterie"
+      },
+      {
+        "person_slug": "karina-kettenis",
+        "role_slug": "leonard-bernstein-musik/on-the-town/times-square-girl-ensemble"
+      },
+      {
+        "person_slug": "patrick-sabel",
+        "role_slug": "leonard-bernstein-musik/on-the-town/tom-matrose-ensemble"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-am-rhein/open-class-i-3001",
     "work_slug": "open-class-i-anfanger-innen",
     "house_slug": "deutsche-oper-am-rhein",
@@ -2916,6 +5527,42 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-i/3003/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-i-3815",
+    "work_slug": "open-class-i-anfanger-innen",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-i/3815/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-i-3816",
+    "work_slug": "open-class-i-anfanger-innen",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-i/3816/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-i-3817",
+    "work_slug": "open-class-i-anfanger-innen",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-i/3817/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-i-3818",
+    "work_slug": "open-class-i-anfanger-innen",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-i/3818/",
     "creative_team": [],
     "cast": []
   },
@@ -2970,6 +5617,78 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3044/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3835",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3835/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3836",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3836/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3837",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3837/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3838",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3838/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3839",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3839/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3840",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3840/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3841",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3841/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/open-class-ii-3842",
+    "work_slug": "open-class-ii-mittelstufe-fortgeschritten",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/open-class-ii/3842/",
     "creative_team": [],
     "cast": []
   },
@@ -3033,6 +5752,96 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/3107/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4036",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4036/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4037",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4037/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4038",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4038/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4039",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4039/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4040",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4040/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4041",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4041/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4042",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4042/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4043",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4043/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4044",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4044/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/opernhausfuehrungen-4045",
+    "work_slug": "opernhausfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/opernhausfuehrungen/4045/",
     "creative_team": [],
     "cast": []
   },
@@ -3162,6 +5971,25 @@
       {
         "person_slug": "bridget-breiner",
         "role_slug": "preview-2026-2027/gesprachspartner"
+      }
+    ]
+  },
+  {
+    "id": "deutsche-oper-am-rhein/rendezvous-um-halb-8-spezial-palermo-3648",
+    "work_slug": "rendezvous-um-halb-8",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/rendezvous-um-halb-8-spezial-palermo/3648/",
+    "creative_team": [
+      {
+        "person_slug": "julia-schinke",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "liana-aleksanyan",
+        "role_slug": "rendezvous-um-halb-8/solist-in"
       }
     ]
   },
@@ -4325,6 +7153,24 @@
     ]
   },
   {
+    "id": "deutsche-oper-am-rhein/symphoniker-im-foyer-meistersaengerinnen-3680",
+    "work_slug": "meistersanger-innen/symphoniker-im-foyer",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/symphoniker-im-foyer-meistersaengerinnen/3680/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "laura-poe",
+        "role_slug": "meistersanger-innen/symphoniker-im-foyer/klavier"
+      },
+      {
+        "person_slug": "kimberley-boettger-soller",
+        "role_slug": "meistersanger-innen/symphoniker-im-foyer/mezzosopran"
+      }
+    ]
+  },
+  {
     "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3286",
     "work_slug": "tanz-fur-menschen-mit-demenz",
     "house_slug": "deutsche-oper-am-rhein",
@@ -4375,6 +7221,69 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3291/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3961",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3961/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3962",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3962/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3963",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3963/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3964",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3964/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3965",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3965/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanz-fuer-menschen-mit-demenz-3966",
+    "work_slug": "tanz-fur-menschen-mit-demenz",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanz-fuer-menschen-mit-demenz/3966/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/tanzfilm-3877",
+    "work_slug": "mit-dem-ballett-am-rhein-ins-kino/tanzfilm",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/tanzfilm/3877/",
     "creative_team": [],
     "cast": []
   },
@@ -4513,6 +7422,15 @@
     ]
   },
   {
+    "id": "deutsche-oper-am-rhein/theaterfest-3686",
+    "work_slug": "buntes-programm-kostumverkauf/theaterfest",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/theaterfest/3686/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "deutsche-oper-am-rhein/theaterfuehrungen-3179",
     "work_slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
     "house_slug": "deutsche-oper-am-rhein",
@@ -4545,6 +7463,24 @@
     "house_slug": "deutsche-oper-am-rhein",
     "is_revival": false,
     "detail_url": "https://www.operamrhein.de/spielplan/kalender/theaterfuehrungen/3182/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/theaterfuehrungen-4078",
+    "work_slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/theaterfuehrungen/4078/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "deutsche-oper-am-rhein/theaterfuehrungen-4079",
+    "work_slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
+    "house_slug": "deutsche-oper-am-rhein",
+    "is_revival": false,
+    "detail_url": "https://www.operamrhein.de/spielplan/kalender/theaterfuehrungen/4079/",
     "creative_team": [],
     "cast": []
   },
