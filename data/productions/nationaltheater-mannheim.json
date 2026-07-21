@@ -5340,8 +5340,58 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/kasimir-und-karoline/4423/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "charlotte-sprenger",
+        "function": "director"
+      },
+      {
+        "person_slug": "olivia-ebert",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "robby-schumann",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "aleksandra-pavlovic",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/buhne-kostum"
+      },
+      {
+        "person_slug": "jessica-higgins",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/erna"
+      },
+      {
+        "person_slug": "rahel-weiss",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/karoline"
+      },
+      {
+        "person_slug": "paul-simon",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/kasimir"
+      },
+      {
+        "person_slug": "sandro-sutalo",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/merkl-franz"
+      },
+      {
+        "person_slug": "philipp-plessmann",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/musik"
+      },
+      {
+        "person_slug": "ragna-pitoll",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/rauch"
+      },
+      {
+        "person_slug": "eddie-irle",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/schurzinger"
+      },
+      {
+        "person_slug": "bruno-akkan",
+        "role_slug": "odon-von-horvath/kasimir-und-karoline/speer"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/kat-frankie-solo-4223",

@@ -66,9 +66,75 @@
     "work_slug": "jacques-offenbach/hoffmanns-erzahlungen",
     "house_slug": "wiener-volksoper",
     "is_revival": false,
-    "detail_url": "https://www.volksoper.at/produktion/les-contes-dhoffmann-2026.1010285151.de.html",
-    "creative_team": [],
-    "cast": []
+    "detail_url": "https://www.volksoper.at/produktion/les-contes-dhoffmann-2026.1003974487.de.html",
+    "creative_team": [
+      {
+        "person_slug": "emmanuel-villaume",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "robert-bartneck",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/andres-cochenille-frantz-pitichinaccio"
+      },
+      {
+        "person_slug": "axelle-fanyo",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/antonia"
+      },
+      {
+        "person_slug": "stefan-cerny",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/crespel"
+      },
+      {
+        "person_slug": "wallis-giunta",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/die-muse-nicklausse"
+      },
+      {
+        "person_slug": "annely-peebo",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/die-stimme-der-mutter"
+      },
+      {
+        "person_slug": "hedwig-ritter",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/giulietta"
+      },
+      {
+        "person_slug": "pablo-santa-cruz",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hermann"
+      },
+      {
+        "person_slug": "attilio-glaser",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/hoffmann"
+      },
+      {
+        "person_slug": "josef-wagner",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/lindorf-coppelius-dapertutto-miracle"
+      },
+      {
+        "person_slug": "markus-lipp",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/luther"
+      },
+      {
+        "person_slug": "aaron-casey-gould",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/nathanael"
+      },
+      {
+        "person_slug": "anna-siminska",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/olympia"
+      },
+      {
+        "person_slug": "michael-arivony",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/schlemihl"
+      },
+      {
+        "person_slug": "aaron-casey-gould",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/spalanzani"
+      },
+      {
+        "person_slug": "lara-pauser",
+        "role_slug": "jacques-offenbach/hoffmanns-erzahlungen/stella"
+      }
+    ]
   },
   {
     "id": "wiener-volksoper/wiener-volksoper-1004627899",

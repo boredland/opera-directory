@@ -9,6 +9,97 @@
     "cast": []
   },
   {
+    "id": "aalto-musiktheater-essen/das-wunder-der-heliane",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "house_slug": "aalto-musiktheater-essen",
+    "is_revival": false,
+    "detail_url": "https://www.theater-essen.de/programm/kalender/das-wunder-der-heliane/3843/",
+    "creative_team": [
+      {
+        "person_slug": "bernhard-schneider",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-sanguineti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "nicole-pleuler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "elisabeth-stoppler",
+        "function": "director"
+      },
+      {
+        "person_slug": "patricia-knebel",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ulrich-eh",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "katja-ha",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "ks-rainer-maria-rohr",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/1-richter"
+      },
+      {
+        "person_slug": "karel-martin-ludvik",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/2-richter"
+      },
+      {
+        "person_slug": "baurzhan-anderzhanov",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/3-richter"
+      },
+      {
+        "person_slug": "zicong-han",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/4-richter"
+      },
+      {
+        "person_slug": "petro-ostapenko",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/5-richter"
+      },
+      {
+        "person_slug": "mathias-tonges",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/6-richter"
+      },
+      {
+        "person_slug": "tilmann-unger",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-fremde"
+      },
+      {
+        "person_slug": "heiko-trinsinger",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-herrscher"
+      },
+      {
+        "person_slug": "almas-svilpa",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-pfortner"
+      },
+      {
+        "person_slug": "aljoscha-lennert",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-schwertrichter"
+      },
+      {
+        "person_slug": "bettina-ranch",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/die-botin"
+      },
+      {
+        "person_slug": "astrid-kessler",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/heliane"
+      },
+      {
+        "person_slug": "idil-kutay",
+        "role_slug": "erich-wolfgang-korngold/das-wunder-der-heliane/seraphische-stimmen"
+      }
+    ]
+  },
+  {
     "id": "aalto-musiktheater-essen/die-verzauberte-stadt",
     "work_slug": "samuel-penderbayne/die-verzauberte-stadt",
     "house_slug": "aalto-musiktheater-essen",
@@ -240,6 +331,15 @@
     ]
   },
   {
+    "id": "aalto-musiktheater-essen/oper-kleinlautruckedigu-da-fehlt-doch-ein-schuh",
+    "work_slug": "heribert-feckler-und-marie-helen-joel/oper-kleinlaut-ruckedigu-da-fehlt-doch-ein-schuh",
+    "house_slug": "aalto-musiktheater-essen",
+    "is_revival": false,
+    "detail_url": "https://www.theater-essen.de/programm/kalender/oper-kleinlautruckedigu-da-fehlt-doch-ein-schuh/4375/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "aalto-musiktheater-essen/otello",
     "work_slug": "giuseppe-verdi/otello",
     "house_slug": "aalto-musiktheater-essen",
@@ -311,6 +411,89 @@
       {
         "person_slug": "astrik-khanamiryan",
         "role_slug": "giuseppe-verdi/otello/otellos-frau"
+      }
+    ]
+  },
+  {
+    "id": "aalto-musiktheater-essen/rigoletto",
+    "work_slug": "giuseppe-verdi/rigoletto",
+    "house_slug": "aalto-musiktheater-essen",
+    "is_revival": false,
+    "detail_url": "https://www.theater-essen.de/programm/kalender/rigoletto/3839/",
+    "creative_team": [
+      {
+        "person_slug": "bernhard-schneider",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andrea-sanguineti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "constanza-meza-lopehandia",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kateryna-sokolova",
+        "function": "director"
+      },
+      {
+        "person_slug": "savina-kationi",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "nikolaus-webern",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mykhailo-kushlyk",
+        "role_slug": "giuseppe-verdi/rigoletto/borsa"
+      },
+      {
+        "person_slug": "alejandro-del-angel",
+        "role_slug": "giuseppe-verdi/rigoletto/duca"
+      },
+      {
+        "person_slug": "natalia-labourdette",
+        "role_slug": "giuseppe-verdi/rigoletto/gilda"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "giuseppe-verdi/rigoletto/giovanna"
+      },
+      {
+        "person_slug": "sono-yu",
+        "role_slug": "giuseppe-verdi/rigoletto/graf-ceprano"
+      },
+      {
+        "person_slug": "laura-kriese",
+        "role_slug": "giuseppe-verdi/rigoletto/grafin-ceprano"
+      },
+      {
+        "person_slug": "liliana-de-sousa",
+        "role_slug": "giuseppe-verdi/rigoletto/maddalena"
+      },
+      {
+        "person_slug": "karel-martin-ludvik",
+        "role_slug": "giuseppe-verdi/rigoletto/marullo"
+      },
+      {
+        "person_slug": "baurzhan-anderzhanov",
+        "role_slug": "giuseppe-verdi/rigoletto/monterone"
+      },
+      {
+        "person_slug": "marianna-ortugno",
+        "role_slug": "giuseppe-verdi/rigoletto/page"
+      },
+      {
+        "person_slug": "claudio-otelli",
+        "role_slug": "giuseppe-verdi/rigoletto/rigoletto"
+      },
+      {
+        "person_slug": "almas-svilpa",
+        "role_slug": "giuseppe-verdi/rigoletto/sparafucile"
       }
     ]
   }

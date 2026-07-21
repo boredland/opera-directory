@@ -7,8 +7,16 @@
     "detail_url": "https://tog.de/projekte/dido-und-aeneas/",
     "creative_team": [
       {
+        "person_slug": "joseph-feigl",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "gmd-daniel-geiss",
         "function": "conductor"
+      },
+      {
+        "person_slug": "fanny-karos",
+        "function": "dramaturgy"
       },
       {
         "person_slug": "amelie-muller",
@@ -17,8 +25,40 @@
     ],
     "cast": [
       {
+        "person_slug": "julia-baier-tarasova",
+        "role_slug": "henry-purcell/dido-und-aeneas/1-hexe"
+      },
+      {
+        "person_slug": "gabrielle-penney",
+        "role_slug": "henry-purcell/dido-und-aeneas/2-frau-geist"
+      },
+      {
+        "person_slug": "maria-russel",
+        "role_slug": "henry-purcell/dido-und-aeneas/2-hexe"
+      },
+      {
+        "person_slug": "andres-felipe-orozco",
+        "role_slug": "henry-purcell/dido-und-aeneas/aeneas-ein-trojanischer-prinz"
+      },
+      {
+        "person_slug": "mariko-krohne",
+        "role_slug": "henry-purcell/dido-und-aeneas/belinda-eine-edelfrau"
+      },
+      {
+        "person_slug": "laura-albert",
+        "role_slug": "henry-purcell/dido-und-aeneas/dido-konigin-von-karthago"
+      },
+      {
+        "person_slug": "fernanda-de-araujo",
+        "role_slug": "henry-purcell/dido-und-aeneas/erster-matrose"
+      },
+      {
         "person_slug": "seollyeon-konwitschny-lee",
         "role_slug": "henry-purcell/dido-und-aeneas/inszenierung-und-kostumbild"
+      },
+      {
+        "person_slug": "ryszard-kalus",
+        "role_slug": "henry-purcell/dido-und-aeneas/zauberin"
       }
     ]
   },

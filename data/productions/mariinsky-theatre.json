@@ -621,7 +621,7 @@
         "role_slug": "pyotr-tchaikovsky/the-enchantress/kuma-nastasya"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "stanislav-trofimov",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/mamyrov-kudma"
       },
       {
@@ -633,7 +633,7 @@
         "role_slug": "pyotr-tchaikovsky/the-enchantress/prince-yuri"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "anna-kiknadze",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/princess-evpraksiya-romanovna"
       }
     ]
@@ -1356,12 +1356,32 @@
     ],
     "cast": [
       {
-        "person_slug": "full-cast-to-be-announced-at-a-later-date",
+        "person_slug": "andrei-zorin",
         "role_slug": "modest-musorgsky/khovanshchina/a-scrivener"
+      },
+      {
+        "person_slug": "stanislav-trofimov",
+        "role_slug": "modest-musorgsky/khovanshchina/dosifei"
       },
       {
         "person_slug": "ekaterina-semenchuk",
         "role_slug": "modest-musorgsky/khovanshchina/marfa"
+      },
+      {
+        "person_slug": "igor-morozov",
+        "role_slug": "modest-musorgsky/khovanshchina/prince-andrei-khovansky"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "modest-musorgsky/khovanshchina/prince-ivan-khovansky"
+      },
+      {
+        "person_slug": "dmitry-golovnin",
+        "role_slug": "modest-musorgsky/khovanshchina/prince-vasily-golitzin"
+      },
+      {
+        "person_slug": "alexey-markov",
+        "role_slug": "modest-musorgsky/khovanshchina/shaklovity"
       }
     ]
   },
@@ -1633,7 +1653,7 @@
         "role_slug": "richard-wagner/lohengrin/elsa"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "mikhail-petrenko",
         "role_slug": "richard-wagner/lohengrin/henry-the-fowler"
       },
       {
@@ -1645,7 +1665,7 @@
         "role_slug": "richard-wagner/lohengrin/ortrud"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "pavel-yankovsky",
         "role_slug": "richard-wagner/lohengrin/telramund"
       }
     ]
@@ -1893,7 +1913,7 @@
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/don-jerome"
       },
       {
-        "person_slug": "medea-chikashvili",
+        "person_slug": "anna-kiknadze",
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/duenna"
       },
       {
@@ -1905,7 +1925,7 @@
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/louisa"
       },
       {
-        "person_slug": "yuri-vorobiev",
+        "person_slug": "denis-begansky",
         "role_slug": "sergei-prokofiev/betrothal-in-a-monastery/mendoza"
       }
     ]
@@ -3068,12 +3088,32 @@
     ],
     "cast": [
       {
+        "person_slug": "akhmed-agadi",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
         "person_slug": "marina-shakhdinarova",
         "role_slug": "giacomo-puccini/turandot/liu"
       },
       {
+        "person_slug": "alexander-timchenko",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "oleg-balashov",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
         "person_slug": "ekaterina-semenchuk",
         "role_slug": "giacomo-puccini/turandot/princess-turandot"
+      },
+      {
+        "person_slug": "yuri-vorobiev",
+        "role_slug": "giacomo-puccini/turandot/timur"
       }
     ]
   },

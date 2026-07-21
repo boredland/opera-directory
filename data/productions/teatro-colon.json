@@ -235,12 +235,24 @@
         "function": "conductor"
       },
       {
+        "person_slug": "martina-nosetto",
+        "function": "costume-designer"
+      },
+      {
         "person_slug": "tommaso-lagattolla",
         "function": "costume-designer"
       },
       {
+        "person_slug": "angela-boveri",
+        "function": "director"
+      },
+      {
         "person_slug": "fabio-sparvoli",
         "function": "director"
+      },
+      {
+        "person_slug": "ariel-conde",
+        "function": "lighting"
       },
       {
         "person_slug": "jose-luis-fiorruccio",
@@ -251,39 +263,6 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "maria-agresta",
-        "role_slug": "giuseppe-verdi/otello/desdemona"
-      },
-      {
-        "person_slug": "maria-belen-rivarola",
-        "role_slug": "giuseppe-verdi/otello/desdemona"
-      },
-      {
-        "person_slug": "gregory-kunde",
-        "role_slug": "giuseppe-verdi/otello/otello"
-      },
-      {
-        "person_slug": "jose-azocar",
-        "role_slug": "giuseppe-verdi/otello/otello"
-      },
-      {
-        "person_slug": "michael-fabiano",
-        "role_slug": "giuseppe-verdi/otello/otello"
-      },
-      {
-        "person_slug": "daniel-luis-de-vicente",
-        "role_slug": "giuseppe-verdi/otello/yago"
-      },
-      {
-        "person_slug": "fabian-veloz",
-        "role_slug": "giuseppe-verdi/otello/yago"
-      },
-      {
-        "person_slug": "leonardo-lopez-linares",
-        "role_slug": "giuseppe-verdi/otello/yago"
-      }
-    ]
+    "cast": []
   }
 ]

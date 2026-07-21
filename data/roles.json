@@ -10615,6 +10615,71 @@
     "name": "Solistes"
   },
   {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/1-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "1. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/2-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "2. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/3-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "3. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/4-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "4. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/5-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "5. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/6-richter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "6. Richter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-fremde",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Der Fremde"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-herrscher",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Der Herrscher"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-pfortner",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Der Pförtner"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/der-schwertrichter",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Der Schwertrichter"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/die-botin",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Die Botin"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/heliane",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Heliane"
+  },
+  {
+    "slug": "erich-wolfgang-korngold/das-wunder-der-heliane/seraphische-stimmen",
+    "work_slug": "erich-wolfgang-korngold/das-wunder-der-heliane",
+    "name": "Seraphische Stimmen"
+  },
+  {
     "slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city/brigitta",
     "work_slug": "erich-wolfgang-korngold/die-tote-stadt-the-dead-city",
     "name": "Brigitta"
@@ -17955,9 +18020,19 @@
     "name": "L’imperatore Altoum"
   },
   {
+    "slug": "giacomo-puccini/turandot/la-prima-ancella",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "La prima ancella"
+  },
+  {
     "slug": "giacomo-puccini/turandot/la-principessa-turandot",
     "work_slug": "giacomo-puccini/turandot",
     "name": "La principessa Turandot"
+  },
+  {
+    "slug": "giacomo-puccini/turandot/la-seconda-ancella",
+    "work_slug": "giacomo-puccini/turandot",
+    "name": "La seconda ancella"
   },
   {
     "slug": "giacomo-puccini/turandot/liu",
@@ -25505,9 +25580,49 @@
     "name": "Sorceress"
   },
   {
+    "slug": "henry-purcell/dido-und-aeneas/1-hexe",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "1. Hexe"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/2-frau-geist",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "2. Frau / Geist"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/2-hexe",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "2. Hexe"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/aeneas-ein-trojanischer-prinz",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Aeneas, ein trojanischer Prinz"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/belinda-eine-edelfrau",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Belinda, eine Edelfrau"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/dido-konigin-von-karthago",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Dido, Königin von Karthago"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/erster-matrose",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Erster Matrose"
+  },
+  {
     "slug": "henry-purcell/dido-und-aeneas/inszenierung-und-kostumbild",
     "work_slug": "henry-purcell/dido-und-aeneas",
     "name": "Inszenierung und Kostümbild"
+  },
+  {
+    "slug": "henry-purcell/dido-und-aeneas/zauberin",
+    "work_slug": "henry-purcell/dido-und-aeneas",
+    "name": "Zauberin"
   },
   {
     "slug": "henry-purcell/king-arthur/basse",
@@ -35595,9 +35710,34 @@
     "name": "A Scrivener"
   },
   {
+    "slug": "modest-musorgsky/khovanshchina/dosifei",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Dosifei"
+  },
+  {
     "slug": "modest-musorgsky/khovanshchina/marfa",
     "work_slug": "modest-musorgsky/khovanshchina",
     "name": "Marfa"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/prince-andrei-khovansky",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Prince Andrei Khovansky"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/prince-ivan-khovansky",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Prince Ivan Khovansky"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/prince-vasily-golitzin",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Prince Vasily Golitzin"
+  },
+  {
+    "slug": "modest-musorgsky/khovanshchina/shaklovity",
+    "work_slug": "modest-musorgsky/khovanshchina",
+    "name": "Shaklovity"
   },
   {
     "slug": "modest-musorgsky/sorochintsy-fair/a-gypsy",
@@ -36993,6 +37133,51 @@
     "slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl/zusatzchor",
     "work_slug": "noel-gay-l-arthur-rose-douglas-furber/me-and-my-girl",
     "name": "Zusatzchor"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/buhne-kostum",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/erna",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Erna"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/karoline",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Karoline"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/kasimir",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Kasimir"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/merkl-franz",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Merkl Franz"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/musik",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Musik"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/rauch",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Rauch"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/schurzinger",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Schürzinger"
+  },
+  {
+    "slug": "odon-von-horvath/kasimir-und-karoline/speer",
+    "work_slug": "odon-von-horvath/kasimir-und-karoline",
+    "name": "Speer"
   },
   {
     "slug": "olga-neuwirth/monster-s-paradise/bampi",
@@ -50203,6 +50388,11 @@
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/animationen",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "name": "Animationen"
+  },
+  {
+    "slug": "wolfgang-amadeus-mozart/die-zauberflote/animationen-konzeption",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "name": "Animationen / Konzeption"
   },
   {
     "slug": "wolfgang-amadeus-mozart/die-zauberflote/besetzung",

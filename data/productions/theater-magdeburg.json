@@ -341,7 +341,44 @@
         "function": "dramaturgy"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "aldo-di-toro",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "anna-malesza-kutny",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "david-howes",
+        "role_slug": "giacomo-puccini/turandot/mandarin"
+      },
+      {
+        "person_slug": "mingyu-ahn",
+        "role_slug": "giacomo-puccini/turandot/mandarin"
+      },
+      {
+        "person_slug": "andras-adamik",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "marko-pantelic",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "aleksandr-nesterenko",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "johannes-stermann",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "lilla-lee",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
   },
   {
     "id": "theater-magdeburg/vacuum-valley-aufstieg-und-fall-einer-chipfabrik",
