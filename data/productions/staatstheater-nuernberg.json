@@ -1074,12 +1074,20 @@
     "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/rausch/19-09-2026/1745",
     "creative_team": [
       {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "roland-boer",
         "function": "conductor"
       },
       {
         "person_slug": "flora-miranda",
         "function": "costume-designer"
+      },
+      {
+        "person_slug": "evan-supple",
+        "function": "dramaturgy"
       },
       {
         "person_slug": "roman-fliegel",
@@ -1090,6 +1098,30 @@
       {
         "person_slug": "staatstheater-nurnberg-ballet-of-difference",
         "role_slug": "ballett/rausch/ballett"
+      },
+      {
+        "person_slug": "lorenzo-bianchi-hoesch",
+        "role_slug": "ballett/rausch/komposition-und-soundkonzept"
+      },
+      {
+        "person_slug": "corinna-scheurle",
+        "role_slug": "ballett/rausch/mezzosopran"
+      },
+      {
+        "person_slug": "gaia-vogel",
+        "role_slug": "ballett/rausch/mit"
+      },
+      {
+        "person_slug": "joshua-kliefert",
+        "role_slug": "ballett/rausch/mit"
+      },
+      {
+        "person_slug": "kinan-hmeidan",
+        "role_slug": "ballett/rausch/mit"
+      },
+      {
+        "person_slug": "julia-gruter",
+        "role_slug": "ballett/rausch/sopran"
       }
     ]
   },

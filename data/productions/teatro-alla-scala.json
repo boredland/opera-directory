@@ -737,12 +737,28 @@
         "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
       },
       {
+        "person_slug": "mariapaola-di-carlo",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "saori-sugiyama",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
         "person_slug": "fabrizio-beggi",
-        "role_slug": "giuseppe-verdi/la-traviata/barone"
+        "role_slug": "giuseppe-verdi/la-traviata/barone-douphol"
       },
       {
         "person_slug": "zhibin-zhang",
         "role_slug": "giuseppe-verdi/la-traviata/commissionario"
+      },
+      {
+        "person_slug": "gabriele-valsecchi",
+        "role_slug": "giuseppe-verdi/la-traviata/domestico-di-flora"
+      },
+      {
+        "person_slug": "guillermo-esteban-bussolini",
+        "role_slug": "giuseppe-verdi/la-traviata/domestico-di-flora"
       },
       {
         "person_slug": "xhieldo-hyseni",
@@ -750,19 +766,23 @@
       },
       {
         "person_slug": "carlotta-vichi",
-        "role_slug": "giuseppe-verdi/la-traviata/flora"
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
       },
       {
         "person_slug": "francesco-pittari",
-        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+        "role_slug": "giuseppe-verdi/la-traviata/gastone-visconte-di-letorieres"
       },
       {
         "person_slug": "amartuvshin-enkhbat",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont-suo-padre"
       },
       {
         "person_slug": "boris-pinkhasovich",
-        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont-suo-padre"
+      },
+      {
+        "person_slug": "aldo-sartori",
+        "role_slug": "giuseppe-verdi/la-traviata/giuseppe-servo-di-violetta"
       },
       {
         "person_slug": "gianluca-failla",
@@ -770,7 +790,7 @@
       },
       {
         "person_slug": "nadine-sierra-19-23-28-set-2-6-10-e-15-ott-francesca-pia-vitale",
-        "role_slug": "giuseppe-verdi/la-traviata/violetta"
+        "role_slug": "giuseppe-verdi/la-traviata/violetta-valery"
       }
     ]
   },
