@@ -8,6 +8,14 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-freiburg/amuse-bouche-zu-amusez-vous-jacques-offren-1404481/2026-09-27/17:00",
+    "production_id": "theater-freiburg/amuse-bouche-zu-amusez-vous-jacques-offren-1404481",
+    "date": "2026-09-27",
+    "time": "17:00",
+    "venue_room": "<div>Winterer-Foyer</div>",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-freiburg/amusez-vous-jacques-offenbach-1398882/2026-09-28/19:00",
     "production_id": "theater-freiburg/amusez-vous-jacques-offenbach-1398882",
     "date": "2026-09-28",
@@ -85,6 +93,14 @@
     "date": "2026-12-23",
     "time": "19:30",
     "venue_room": "<div>Großes Haus</div>",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-freiburg/amusez-vous-spezial-1404485/2026-10-04/17:00",
+    "production_id": "theater-freiburg/amusez-vous-spezial-1404485",
+    "date": "2026-10-04",
+    "time": "17:00",
+    "venue_room": "<div>Winterer-Foyer</div>",
     "status": "scheduled"
   },
   {
@@ -480,6 +496,14 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-freiburg/oeffentliche-probe-amusez-vous-jacques-off-1398882/2026-09-28/19:00",
+    "production_id": "theater-freiburg/oeffentliche-probe-amusez-vous-jacques-off-1398882",
+    "date": "2026-09-28",
+    "time": "19:00",
+    "venue_room": "<div>Großes Haus</div>",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-freiburg/oeffentliche-probe-werther-1378714/2026-06-18/19:00",
     "production_id": "theater-freiburg/oeffentliche-probe-werther-1378714",
     "date": "2026-06-18",
@@ -493,6 +517,22 @@
     "date": "2026-07-26",
     "time": "21:00",
     "venue_room": "Theatervorplatz",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-freiburg/reingehoert-1398759/2026-09-27/15:30",
+    "production_id": "theater-freiburg/reingehoert-1398759",
+    "date": "2026-09-27",
+    "time": "15:30",
+    "venue_room": "<div>Steinfoyer</div>",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-freiburg/reingehoert-1398759/2026-09-27/17:30",
+    "production_id": "theater-freiburg/reingehoert-1398759",
+    "date": "2026-09-27",
+    "time": "17:30",
+    "venue_room": "<div>Steinfoyer</div>",
     "status": "scheduled"
   },
   {

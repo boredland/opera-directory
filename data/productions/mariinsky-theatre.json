@@ -12,7 +12,40 @@
         "function": "chorus-master"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "alexander-mikhailov",
+        "role_slug": "gioacchino-rossini/guillaume-tell/arnold"
+      },
+      {
+        "person_slug": "stepan-zavalishin",
+        "role_slug": "gioacchino-rossini/guillaume-tell/furst"
+      },
+      {
+        "person_slug": "yaroslav-petryanik",
+        "role_slug": "gioacchino-rossini/guillaume-tell/guillaume-tell"
+      },
+      {
+        "person_slug": "anna-kiknadze",
+        "role_slug": "gioacchino-rossini/guillaume-tell/hedwige"
+      },
+      {
+        "person_slug": "alexander-gontsa",
+        "role_slug": "gioacchino-rossini/guillaume-tell/jemmy"
+      },
+      {
+        "person_slug": "nikolai-kamensky",
+        "role_slug": "gioacchino-rossini/guillaume-tell/leuthold"
+      },
+      {
+        "person_slug": "irina-churilova",
+        "role_slug": "gioacchino-rossini/guillaume-tell/mathilde"
+      },
+      {
+        "person_slug": "oleg-sychov",
+        "role_slug": "gioacchino-rossini/guillaume-tell/melchtal"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-aida",

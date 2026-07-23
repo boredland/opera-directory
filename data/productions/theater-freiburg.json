@@ -9,11 +9,29 @@
     "cast": []
   },
   {
+    "id": "theater-freiburg/amuse-bouche-zu-amusez-vous-jacques-offren-1404481",
+    "work_slug": "amuse-bouche-zu-amusez-vous-jacques-offrenbach",
+    "house_slug": "theater-freiburg",
+    "is_revival": false,
+    "detail_url": "https://theater.freiburg.de/de_DE/programm/amuse-bouche-zu-amusez-vous-jacques-offren.1404481",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-freiburg/amusez-vous-jacques-offenbach-1398882",
     "work_slug": "jacques-offenbach/amusez-vous-jacques-offenbach",
     "house_slug": "theater-freiburg",
     "is_revival": false,
     "detail_url": "https://theater.freiburg.de/de_DE/programm/amusez-vous-jacques-offenbach.1398882",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-freiburg/amusez-vous-spezial-1404485",
+    "work_slug": "amusez-vous-spezial",
+    "house_slug": "theater-freiburg",
+    "is_revival": false,
+    "detail_url": "https://theater.freiburg.de/de_DE/programm/amusez-vous-spezial.1404485",
     "creative_team": [],
     "cast": []
   },
@@ -126,6 +144,15 @@
     "cast": []
   },
   {
+    "id": "theater-freiburg/oeffentliche-probe-amusez-vous-jacques-off-1398882",
+    "work_slug": "jacques-offenbach/offentliche-probe-amusez-vous-jacques-offenbach",
+    "house_slug": "theater-freiburg",
+    "is_revival": false,
+    "detail_url": "https://theater.freiburg.de/de_DE/programm/oeffentliche-probe-amusez-vous-jacques-off.1398882",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "theater-freiburg/oeffentliche-probe-werther-1378714",
     "work_slug": "offentliche-probe-werther",
     "house_slug": "theater-freiburg",
@@ -140,6 +167,15 @@
     "house_slug": "theater-freiburg",
     "is_revival": false,
     "detail_url": "https://theater.freiburg.de/de_DE/programm/oper-fuer-alle.1400647",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "theater-freiburg/reingehoert-1398759",
+    "work_slug": "reingehort",
+    "house_slug": "theater-freiburg",
+    "is_revival": false,
+    "detail_url": "https://theater.freiburg.de/de_DE/programm/reingehoert.1398759",
     "creative_team": [],
     "cast": []
   },
