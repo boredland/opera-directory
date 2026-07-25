@@ -165,6 +165,10 @@
         "function": "choreographer"
       },
       {
+        "person_slug": "joseph-feigl",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "kenichiro-kojima",
         "function": "conductor"
       },
@@ -173,11 +177,56 @@
         "function": "director"
       },
       {
+        "person_slug": "sebastian-richter",
+        "function": "dramaturgy"
+      },
+      {
         "person_slug": "darko-petrovic",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "elisabeth-schmei-er",
+        "role_slug": "johann-strau/die-fledermaus/adele-eisensteins-stubenmadel"
+      },
+      {
+        "person_slug": "andres-felipe-orozco",
+        "role_slug": "johann-strau/die-fledermaus/alfred"
+      },
+      {
+        "person_slug": "marcel-oleniecki",
+        "role_slug": "johann-strau/die-fledermaus/dr-blind"
+      },
+      {
+        "person_slug": "robert-merwald",
+        "role_slug": "johann-strau/die-fledermaus/dr-falke-notar"
+      },
+      {
+        "person_slug": "ryszard-kalus",
+        "role_slug": "johann-strau/die-fledermaus/frank-gefangnisdirektor"
+      },
+      {
+        "person_slug": "karin-hartmann",
+        "role_slug": "johann-strau/die-fledermaus/frosch"
+      },
+      {
+        "person_slug": "alexander-geller",
+        "role_slug": "johann-strau/die-fledermaus/gabriel-von-eisenstein"
+      },
+      {
+        "person_slug": "fernanda-de-araujo",
+        "role_slug": "johann-strau/die-fledermaus/ida"
+      },
+      {
+        "person_slug": "julia-baier-tarasova",
+        "role_slug": "johann-strau/die-fledermaus/prinz-orlofsky"
+      },
+      {
+        "person_slug": "laura-albert",
+        "role_slug": "johann-strau/die-fledermaus/rosalinde-seine-frau"
+      }
+    ]
   },
   {
     "id": "theater-neubrandenburg-neustrelitz/die-geschichte-vom-soldaten",

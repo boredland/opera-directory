@@ -469,6 +469,11 @@
     "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
+    "slug": "alexander-borodin/prince-igor",
+    "title": "Prince Igor",
+    "composer_slug": "alexander-borodin"
+  },
+  {
     "slug": "alexander-r-schwei-nach-jules-verne-l/reise-zum-mond",
     "title": "Reise zum Mond",
     "composer_slug": "alexander-r-schwei-nach-jules-verne-l"
@@ -582,6 +587,11 @@
   {
     "slug": "alster-shy-spatzen-shy-konzert-wie-lernt-man-fliegen",
     "title": "Alster&shy;spatzen&shy;konzert: Wie lernt man fliegen?",
+    "composer_slug": ""
+  },
+  {
+    "slug": "altstadtkonzert",
+    "title": "Altstadtkonzert",
     "composer_slug": ""
   },
   {
@@ -5566,6 +5576,11 @@
     "composer_slug": "igor-stravinsky-francis-poulenc"
   },
   {
+    "slug": "igor-stravinsky/le-rossignol",
+    "title": "Le Rossignol",
+    "composer_slug": "igor-stravinsky"
+  },
+  {
     "slug": "igor-stravinsky/the-rake-s-progress",
     "title": "The Rake’s Progress",
     "composer_slug": "igor-stravinsky"
@@ -6775,6 +6790,11 @@
     "composer_slug": "leonardo-vinci",
     "world_premiere": "1728-06-01",
     "world_premiere_house_slug": "teatro-regio-di-parma"
+  },
+  {
+    "slug": "leonid-klinichev/the-little-prince",
+    "title": "The Little Prince",
+    "composer_slug": "leonid-klinichev"
   },
   {
     "slug": "leopold-dick/ente-tod-und-tulpe",
@@ -8109,6 +8129,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "offentliche-probe-amusez-vous-jacques-offenbach",
+    "title": "Öffentliche Probe: Amusez-vous: Jacques Offenbach",
+    "composer_slug": ""
+  },
+  {
     "slug": "offentliche-probe-werther",
     "title": "Öffentliche Probe: Werther",
     "composer_slug": ""
@@ -8969,6 +8994,11 @@
     "composer_slug": "pyotr-tchaikovsky"
   },
   {
+    "slug": "pyotr-tchaikovsky/the-maid-of-orleans",
+    "title": "The Maid of Orleans",
+    "composer_slug": "pyotr-tchaikovsky"
+  },
+  {
     "slug": "pyotr-tchaikovsky/the-queen-of-spades",
     "title": "The Queen of Spades",
     "composer_slug": "pyotr-tchaikovsky"
@@ -9359,6 +9389,11 @@
     "slug": "rodgers-hammerstein/rodgers-hammerstein-s-cinderella",
     "title": "Rodgers & Hammerstein’s Cinderella",
     "composer_slug": "rodgers-hammerstein"
+  },
+  {
+    "slug": "rodion-shchedrin/not-love-alone",
+    "title": "Not Love Alone",
+    "composer_slug": "rodion-shchedrin"
   },
   {
     "slug": "romantic-evolution-s",

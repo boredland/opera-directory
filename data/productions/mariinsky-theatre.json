@@ -267,8 +267,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2014-11-22",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/12/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/boccanegra/boccanegra_sulimsky2_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/12/2_2000/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/boccanegra/boccanegra1.jpg",
     "synopsis": "The action unfolds in Genoa and its surroundings in the 14 th century. Twenty-five years pass between the prologue and Act I. Prologue A square in Genoa. Paolo and Pietro discuss who should be the first Doge of Genoa. Paolo wants it to be Simon Boccanegra, the corsair who has freed Genoa’s sea territory from African pirates. Boccanegra is a plebeian, and his election should put an end to the power of the patricians. Simon appears. He agrees to Paolo’s entreaties to become the Doge with reluctance: he has no need of authority, but he hopes that in becoming the Doge he can marry his beloved Maria. Her father, the patrician Jacopo Fiesco, does not approve of her marriage to a corsair and keeps his daughter under lock and key. Paolo and Pietro convince the assembled crowd to elect Simon Boccanegra as the Doge. Maria has died. Jacopo Fiesco accuses Simon, the father of her child, of his own daughter’s death. Off-stage the chorus laments Maria. Boccanegra asks Fiesco for a reconciliation. Fiesco is ready to forgive Simon if the latter will surrender Fiesco’s granddaughter to him. But this is impossible: the girl disappeared recently. Simon enters Fiesco’s palace and sees Maria dead. At the moment the crowd greets the new Doge of Genoa – Simon Boccanegra. Act I Under Simon Boccanegra’s rule the aristocratic Fiesco and Grimaldi families are exiled. Jacopo Fiesco has taken refuge on the Grimaldi estate under the name of Andrea. Boccanegra’s daughter Maria is also there under the name of Amelia Grimaldi; no-one knows of her true birth. Amelia awaits her beloved, Gabriele Adorno. Amelia knows that Gabriele and Andrea are preparing a revolt against the Doge and asks Gabriele to abandon this dangerous plan. The Doge arrives at the estate; he plans to ask for Amelia’s hand on behalf of one of his retainers – Paolo. Andrea blesses the marriage of Gabriele and Amelia and tells Gabriele that Amelia Grimaldi is an orphan. The Doge pardons the Grimaldi family and permits Amelia’s brot",
     "creative_team": [
       {
@@ -286,28 +286,8 @@
     ],
     "cast": [
       {
-        "person_slug": "anzhelika-minasova",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/amelia-grimaldi"
-      },
-      {
-        "person_slug": "igor-morozov",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/gabriele-adorno"
-      },
-      {
-        "person_slug": "yuri-vorobiev",
+        "person_slug": "ferruccio-furlanetto",
         "role_slug": "giuseppe-verdi/simon-boccanegra/jacopo-fiesco"
-      },
-      {
-        "person_slug": "yaroslav-petryanik",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/paolo-albiani"
-      },
-      {
-        "person_slug": "oleg-sychov",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/pietro"
-      },
-      {
-        "person_slug": "vladislav-sulimsky",
-        "role_slug": "giuseppe-verdi/simon-boccanegra/simon-boccanegra"
       }
     ]
   },
@@ -315,10 +295,10 @@
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-bohema",
     "work_slug": "giacomo-puccini/la-boheme",
     "house_slug": "mariinsky-theatre",
-    "premiere_date": "2001-03-15",
+    "premiere_date": "2025-01-08",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/13/1_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/bohema/boheme_abdulov_akhmedova_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/6/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/bohema/semistaged/new_version_vzyatysheva_2025/_boheme_kz_25_titul_by_vilchuk.jpg",
     "synopsis": "The opera is set in Paris in the 1930s. Act I An attic in the Latin Quarter; Christmas Eve Rodolfo and Marcello complain of the bitter cold. They need to light their stove: Marcello suggests using a chair, but Rodolfo offers the manuscript of the play he is writing and they banter ironically as they enjoy the fleeting warmth. Colline enters and the remaining acts of the play are burnt. Colline brings wood, cigars and wine, followed by Schaunard, who explains that an Englishman engaged him to play his violin incessantly, to hasten the death of a neighbour’s noisy parrot: after three days he had the bird poisoned. The friends’ decision to eat in the Latin Quarter is interrupted by Benoit, their landlord who has come for the rent. They ply him with wine until he boasts of his amorous conquests: he prefers plump women to skinny ones like his wife. The Bohemians pretend outrage at Benoit’s infidelity and push him out. They prepare to leave for the Cafè Momus, but Rodolfo says he will stay behind to finish writing an article. There is a noise outside the door. It is a girl who asks for a light for her candle; she feels faint after climbing the stairs. As she is leaving, her candle flickers out again and she realises she has lost her key. Rodolfo’s candle goes out too as he helps her. He takes her cold hand and tells her of his life as a poet. She says her name is Mimì and describes her simple life as a flower embroiderer. The voices of Rodolfo’s friends are heard, telling him to hurry. He answers and turns to find Mimì bathed in moonlight. They declare their love for each other. Mimì asks if she may join the four friends in the Cafè Momus. Rodolfo at first wants to stay, but eventually they leave, singing of love. Act II The Cafè Momus in the Latin Quarter It is a bustling Christmas scene; hawkers and traders advertise their wares; Rodolfo and Mimì wander through the crowd. They sit down and order dinner. Rodolfo introduces Mimì to his friends. Parpignol, a toyseller, pas",
     "creative_team": [
       {
@@ -326,44 +306,11 @@
         "function": "chorus-master"
       },
       {
-        "person_slug": "gianandrea-noseda",
-        "function": "conductor"
-      },
-      {
-        "person_slug": "ian-judge",
+        "person_slug": "alexandra-vzyatysheva",
         "function": "director"
-      },
-      {
-        "person_slug": "nigel-levings",
-        "function": "lighting"
-      },
-      {
-        "person_slug": "tim-goodchild",
-        "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "alexander-gontsa",
-        "role_slug": "giacomo-puccini/la-boheme/marcello"
-      },
-      {
-        "person_slug": "angelina-akhmedova",
-        "role_slug": "giacomo-puccini/la-boheme/mimi"
-      },
-      {
-        "person_slug": "daryana-bobarykina",
-        "role_slug": "giacomo-puccini/la-boheme/musetta"
-      },
-      {
-        "person_slug": "gamid-abdulov",
-        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
-      },
-      {
-        "person_slug": "rauf-timergazin",
-        "role_slug": "giacomo-puccini/la-boheme/schaunard"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-carmen2016",
@@ -670,6 +617,47 @@
         "role_slug": "pyotr-tchaikovsky/the-enchantress/princess-evpraksiya-romanovna"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-evgenonegin-step",
+    "work_slug": "pyotr-tchaikovsky/eugene-onegin",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2014-02-02",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/8/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_step/_onegin_step_en.jpeg",
+    "synopsis": "The garden on the Larins’ estate . In the distance, Tatiana and Olga can be heard singing. Listening to them, Mrs Larina and Filippievna the nanny recall their own younger days. Visitors appear unexpectedly: Vladimir Lensky, the Larins’ neighbour and Olga’s fiancé, has brought with him his friend Onegin – a young man recently come down to the country from the capital. While Lensky declares his love to Olga, the new visitor chats with Tatiana. The nanny notes how excited Tatiana is at the meeting. Tatiana’s bedroom . Tatiana cannot sleep. Filippievna tries to dispel her anxiety with the tale of her own maidenly status. Once alone, Tatiana writes a letter to Onegin. With the arrival of dawn, she asks the nanny to deliver the letter. The Larins’ garden . Tatiana anxiously awaits a reply. Eugene appears – he is touched by her declaration but is unable to return her love. The Larins’ house . A ball in honour of Tatiana’s name day. Lensky has convinced his friend to visit the Larins, but the party and the guests serve to irritate Onegin. In revenge, he begins to play court to Olga. The readiness with which the young woman accepts his attentions drives Lensky to despair. He starts a quarrel with Onegin and challenges him to a duel. An abandoned mill . Lensky and his second await the arrival of Onegin. Lensky mournfully and nostalgically contemplates the former “golden days” of his youth. At last the rival comes. The former friends are willing to forget any offence caused, but ideals of honour gain the upper hand. A shot rings out and Lensky drops down dead. A room in a luxurious mansion in St Petersburg . Following a lengthy absence, Onegin returns to live in the capital. He finds Tatiana a married woman, now at the centre of attention having taken her place in high society. Her husband Prince Gremin speaks to Onegin of his happiness. The transformation of the young woman he knew awakens feelings of love in Onegin’s heart. The drawing-room in Gremin’s house . Weeping, Tati",
+    "creative_team": [
+      {
+        "person_slug": "ilya-ustyantsev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-cherednikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexei-stepanyuk",
+        "function": "director"
+      },
+      {
+        "person_slug": "alexander-sivaev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexander-orlov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-evgenonegin-temirk",
@@ -1484,6 +1472,30 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-knyaz-igor",
+    "work_slug": "alexander-borodin/prince-igor",
+    "house_slug": "mariinsky-theatre",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/9/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/244_season/igor_open244_eng.jpg",
+    "synopsis": "Prologue A Square in the Ancient Russian City of Putivl Prince Igor, together with his son Vladimir and his army of warriors, is getting ready for a campaign against the nomadic Polovtsians who are launching devastating attacks on Russia’s virginal lands. The people greet Igor and the warriors and wish them victory. Suddenly it gets dark – a solar eclipse begins. The people, the princes and the boyars regard this as an ill omen, an inauspicious sign, and advise Igor to put off the campaign. The Prince’s wife Yaroslavna also implores him to stay at home. But Prince Igor is unbending. He is certain that his cause is just – he will defend Russia. The prince bids farewell to his wife and tenderly consoles her, giving assurances that she need not worry about him and should await his victorious return. He entrusts Yaroslavna to the care of her brother, Prince Vladimir Galitsky, whom he appoints as his deputy in Putivl. Unnoticed, two warriors, Skula and Yeroshka, leave Igor’s army; it is their intention to join the service of Prince Galitsky. After being blessed, Igor and his detachment set off for the campaign. Overture Act I Evening in the Polovtsian Camp The Polovtsian maidens are trying to amuse Konchakovna, the daughter of Khan Konchak, with songs and dances. All her thoughts are focussed on the captive youth – Prince Vladimir. Konchakovna impatiently waits for a moment when she can see him. Igor’s son Vladimir appears, and is charmed by Konchakovna. But Prince Igor does not wish even to hear of Vladimir’s marriage. Konchak, however, agrees to marry his daughter to the Russian prince. Prince Igor cannot sleep. He is oppressed by gloomy thoughts. It is not easy to overcome the shame of defeat and captivity. It is hard to accept the thought of his native land being enslaved. Igor passionately yearns for freedom in order to liberate Russia. He tenderly recalls his beloved wife Yaroslavna. Suddenly Ovlur, a baptized Polovtsian, comes to him. He offers Igor his help to es",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vladimir-lukasevich",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lady-mackbet-mc",
     "work_slug": "dmitry-shostakovich/lady-macbeth-of-mtsensk",
     "house_slug": "mariinsky-theatre",
@@ -1646,6 +1658,34 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-littleprince",
+    "work_slug": "leonid-klinichev/the-little-prince",
+    "house_slug": "mariinsky-theatre",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/6/3_1200/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/littleprince/prince.jpg",
+    "synopsis": "As his plane has broken down, the Pilot has to undertake an unexpected landing in the Sahara Desert. There he meets the Little Prince, who asks him to draw a lamb. The Prince tells a story about a beautiful flower that grows on his planet and worries that the lamb might eat it. The Pilot designs a muzzle and rope to keep the flower safe. Speaking with the Rose, the Little Prince admires its beauty. He finds it hard to live with this capricious flower, but he is happy because he loves it. The Prince prepares for a journey. The rose lets him go and asks him to remember that he is always responsible for those he tames. During his journey, the Little Prince meets the King who considers that his power is limitless, the Ambitious Person who despairs at the lack of patrons, the Drunkard who drinks in order to forget that he is ashamed to drink and the Fox who relates the cruelties of the world. Of all his new acquaintances he most likes the Lamplighter who thinks not only of his own self. The Prince would like to be friends with him, but on his tiny planet there is no room for two. Finally, in the African desert the hero meets the Snake who pities him. The Little Prince tells the Pilot who appears again that he will soon return home because today his star is in the same place that it fell one year ago. Six years have passed, the Pilot has returned to the desert to meet his friends and all this time he has spoken to no-one of the Little Prince. For the Pilot, their friendship has been mysterious and incomprehensible, a friendship that creates peace. And although the Little Prince has returned to his star the hope remains of meeting him again...",
+    "creative_team": [
+      {
+        "person_slug": "rustam-sagdiev",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "larisa-gergieva",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexei-stepanyuk",
+        "function": "director"
+      },
+      {
+        "person_slug": "valentin-baikov",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lohengrin",
     "work_slug": "richard-wagner/lohengrin",
     "house_slug": "mariinsky-theatre",
@@ -1760,6 +1800,43 @@
         "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-maid-of-orleans",
+    "work_slug": "pyotr-tchaikovsky/the-maid-of-orleans",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2021-05-28",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/11/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/maid_of_orleans/orleans_eng.png",
+    "synopsis": "The action unfolds during the Hundred Years' War. Act I The little village of Domrémy. Young women are decorating a much-loved oak tree with garlands. Joan appears with her father Thibaut and Raymond, her betrothed. Thibaut is eager for the marriage to take place as soon as possible: in such dangerous times Joan should have a husband to protect her. The refusal of the girl, convinced that she has some other calling, enrages the father. He suspects that his daughter has made a pact with the powers of darkness, and so he rebukes her. The glow of a fire can be seen on the horizon and the alarm is heard. Peasants ruined by the English hasten in. The elderly Bertrand tells of what a desperate state the country is in: Orleans has been besieged by troops under the leadership of the unbeaten Salisbury. Unexpectedly for all, Joan announces that the troubles will soon be at an end, and she foretells the triumph of France. The people are amazed: \"In these days, alas, the Lord creates no miracles!\" \"There are miracles...\" exclaims Joan, \"And a miracle has already occurred, the fearsome leader Salisbury has been reduced to dust!\" No-one believes her. And yet a soldier who has arrived from Orleans confirms it: Salisbury lies dead. Having come to believe Joan, all pray to God. Left alone, the girl convinces herself that the time has come to act. She is gripped with a sense of nostalgia at being parted from her village and she hesitates. A chorus of angels can suddenly be heard. This inspires Joan to do battle. Act II At the Château de Chinon King Charles VII and his beloved, Agnès Sorel, are being entertained. Minstrels, dwarves, gypsies and jesters follow one another in a succession of songs, dances and amusements. The monarch orders the artistes be given food and drink and a golden chain each. Dunois the knight remarks that chains cannot be forged from words, that the treasury is empty and the troops are ready to desert. Agnès decides to donate her jewels to pay the wages and im",
+    "creative_team": [
+      {
+        "person_slug": "ilya-ustyantsev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexei-stepanyuk",
+        "function": "director"
+      },
+      {
+        "person_slug": "irina-vtornikova",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "viktoria-zlotnikova",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-mazepa",
@@ -1908,6 +1985,39 @@
       },
       {
         "person_slug": "zinovy-margolin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-not-love-alone",
+    "work_slug": "rodion-shchedrin/not-love-alone",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2017-03-01",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/5/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/not_love_alone/love_alone_en.jpg",
+    "synopsis": "The action takes place in a Soviet village after the war. Act I Peasants on the collective farm are sitting around idly; it is raining and it is impossible to continue work in the fields. Volodya Gavrilov, Natasha’s fiancé, returns home to the village. He has studied and worked in the city. The lads in the village give him a cool reception. The subsequent fight is stopped by the chair of the collective farm Varvara Vasilievna. All take their separate ways. Varvara is overcome with doubt: she is strict with those she manages, but she cannot control the weather on which the harvest depends. Speaking with Volodya, she tries to discover his plans as there is insufficient manpower in the village. Act II The young people assemble for an evening of festivities. The girls and the boys, competing against each other, sing limericks. Representatives of the collective farm’s initiative group appear, performing an awkward march after which Gavrilov speaks. The gloomy moralists from the initiative group scorn everything that is urban, and amid the accusations is the retort “Muddle instead of music!” Volodya sings lyrical couplets with the girls. Varvara has come for the quadrille which she dances with Volodya to whom she has taken a fancy. After the festivities, Varvara anxiously returns home, followed by Volodya who does not hide his feelings (“I’ll smother you with kisses, you lie, you won’t get away.”) The dialogue is interrupted by the brigadier of the tractor-drivers Fedot Petrovich. Varvara drives her protector away and she and Volodya agree to meet. Act III On the way to her rendezvous, Varvara bumps into Natasha who sings the nostalgic song The Hazily Beautiful Sun. The chair gives her usual commands, giving her rival her marching orders. But as she awaits Volodya she begins to doubt her own actions. She hears the words of a limerick which one of the village girls sings: “Oh, how quiet is the night, not far from sin. Let me be escorted by another’s fiancé.” Varvara is lik",
+    "creative_team": [
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-cherednikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexander-kuzin",
+        "function": "director"
+      },
+      {
+        "person_slug": "alexander-sivaev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexander-orlov",
         "function": "set-designer"
       }
     ],
@@ -2215,6 +2325,52 @@
       {
         "person_slug": "alexander-orlov",
         "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-puritane",
+    "work_slug": "vincenzo-bellini/i-puritani",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2024-02-06",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/9/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/puritane/puritane2024_eng.jpg",
+    "synopsis": "The action unfolds in 1649, amid the English Civil War, near Plymouth. Act One The terrace of Lord Walton's castle welcomes the dawn and the guards change shifts. Officer Bruno Robertson joins the guards and morning prayers are heard. Today, Elvira, the daughter of General Governor Walter Walton commanding Cromwell's forces is to be wed. Guests gather for the celebration, including Sir Richard Forth, a colonel, who confesses to Robertson his dismay about the wedding as he was supposed to marry Elvira. Meanwhile, Elvira in her chambers talks with Sir George Walton, her father's brother. Elvira loves Lord Arthur Talbot and is unaware that her betrothal to Richard Forth has been annulled. She is saddened by the impending marriage. Her uncle brings joyous news: he convinced his brother to give Elvira's hand to Arthur Talbot. Lord Walton's decision wasn't easy: his family are Puritans, whereas Arthur Talbot is a Royalist, a Stuart supporter. Arthur Talbot arrives at the castle with his entourage bearing luxurious bridal gifts, including a splendid bridal veil. Elvira, her father, and uncle accept the gifts and the guests praise the young couple. Among the guests is a noble lady, Walton's prisoner, a Royalist. The General Governor informs her that she must go to London to face Parliament. Arthur sympathizes with the prisoner, realizing she faces death as a Stuart supporter. The hosts and guests depart. The prisoner reveals her true identity to Arthur: she is Queen Henrietta, the widow of King Charles I, executed by the Puritans. Arthur decides to save the queen, hiding her under the bridal veil and attempting to lead her out of the castle disguised as his bride. Suddenly, their path is blocked by Richard. The colonel, mistaking the veiled figure for Elvira but upon seeing Henrietta, lets them pass. The hosts and guests return, shocked by the events. Elvira loses her sanity. Act Two A room in the castle. George tells the guests about Elvira's madness. Richard brings news o",
+    "creative_team": [
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vladislav-furmanov",
+        "function": "director"
+      },
+      {
+        "person_slug": "anton-nikolaev",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexandra-agrinskaya",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-puteshesyvievreims",
+    "work_slug": "gioachino-rossini/il-viaggio-a-reims",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2005-04-13",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/12/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/puteshesyvievreims/_reims_inconcert.png",
+    "synopsis": "It is the 28 th May 1825, the eve of the coronation of King Charles X of France, at the Golden Lily Inn. Illustrious names from all over Europe have gathered here in order to travel to Reims and attend the coronation. Maddalena the house-keeper is exhorting her staff to get ready for the departure of the guests. Don Prudenzio, a health attendant who calls himself a doctor, complains that the guests should not travel in their condition, but has decided to let them go anyway. Nonetheless, he insists on being listened to while they are still here. Madame Cortese, the Tyrolean owner of the hotel, wishes that she could accompany her guests to the coronation. She instructs her staff on what they should talk about with the guests – fine clothes with Folleville, women with Belfiore, empire with Libenskof – so that the Golden Lily should become famous in Europe for its hospitality. The first guest is a Parisian lady of fashion, the Contessa di Folleville. She is anxiously awaiting news of her carriage, when in runs Don Luigino with the news that the carriage has overturned and all her fine clothes have been ruined. The Contessa faints. The German Baron von Trombonok and Prudenzio enter and begin to fight over what to do to help her. Prudenzio dramatically announces that she is going to die, and Folleville instantly revives. She heroically decides not to travel, for patriotic reasons: she cannot be seen at the coronation without her fine clothes. She brightens up, however, when her maid Modestina arrives with a beautiful hat salvaged from the wreckage. Trombonok laughs at the folly of the world, and several more characters begin to arrive – the antique collector Don Profondo, the Spanish Don Alvaro and the young Polish widow Marchesa Melibea. These last two seem delighted with each other’s company, and suddenly the Russian general Count Libenskof bursts in and creates a scene of jealousy, challenging Don Alvaro to a duel. The situation is saved by the arrival of Corinna the p",
+    "creative_team": [
+      {
+        "person_slug": "anton-nikolaev",
+        "function": "lighting"
       }
     ],
     "cast": []
@@ -2533,6 +2689,68 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-siviglia-maratra",
+    "work_slug": "gioachino-rossini/il-barbiere-di-siviglia",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2014-10-29",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/6/2_1300/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/siviglia_maratra/banner_eng.jpg",
+    "synopsis": "Act I Scene 1 A square in Seville early in the morning. In front of Dr Bartolo’s house Count Almaviva and a group of musicians are serenading the Count’s beloved Rosina. Rosina, however, does not appear – she is under the strict supervision of her guardian who himself dreams of marrying his ward and taking possession of her dowry. The barber Figaro appears, an old acquaintance of the Count. On discovering that Almaviva is in love with Rosina, the barber resolves to offer his assistance – after all, Figaro is a welcome guest at Bartolo’s house where he is a barber, doctor and even a botanist. Rosina finally succeeds in throwing a note to the Count from her balcony. Almaviva does not wish to reveal his noble standing, and Figaro advises him to claim he is a student called Lindoro. He then suggests the Count pretend to be a drunken soldier and demand lodgings in Bartolo’s house. Scene 2 A room in Bartolo’s house. Rosina is dreaming of Lindoro. Don Basilio, who is teaching Rosina a song, on discovering the fervent emotions of Count Almaviva resolves to warn Dr Bartolo and advises him to slander his rival in front of Rosina and society at large. The appearance of a drunken soldier (Almaviva in disguise) enrages Bartolo. The doctor sees that the “soldier” is trying to pass a note to Rosina. Chaos ensues and soldiers rush in to restore order, but when the Count quietly mentions his name to the officer, the latter respectfully welcomes him among the general amazement. Act II Scene 1 Bartolo is sitting in his study. A young man appears and says his name is Don Alonso – he has come to give a music lesson to Rosina instead of Basilio who has fallen ill. Once again it is the Count in disguise. Rosina settles down to study with greater enthusiasm than usual. At the same time the “sham patient” arrives and Figaro again comes to assist – he gives Don Basilio a terrible diagnosis – “scarlatina!” and convinces him to return home and go to bed immediately. During the music lesson Bar",
+    "creative_team": [
+      {
+        "person_slug": "pavel-teplov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pascal-noel",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-solovey",
+    "work_slug": "igor-stravinsky/le-rossignol",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "1995-03-22",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/12/2_1200/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/solovey/solovey_1.jpg",
+    "synopsis": "The action takes place in China in fairy-tale times. Act I The seashore just before dawn. In his boat, a fisherman is singing a song and listening to the trill of the Nightingale. The beautiful birdsong makes him forget his troubles. Courtiers approach the shore. They are burning with desire to hear the wondrous birdsong of which they have heard so much from the Cook. The Emperor himself, on learning of this beautiful bird hiding in his forest, has decreed it be found and brought to the palace. A cow moos and a frog croaks, and the courtiers take these to be the song of the Nightingale, but the Cook convinces them this is not so. The courtiers promise to make the Cook the Emperor’s personal chef if only they can find the bird. At last the Nightingale appears. He agrees readily to set off for the palace and sing for the Emperor. Act II The servants are decorating the palace with festive lanterns. The Cook tells everyone about the Nightingale: he is small and plain, but his song draws tears to the eyes. A grand procession arrives, servants bearing the Celestial Ruler under a canopy. The Nightingale sings and his beautiful trills enthral the Emperor. He wishes to award his singer with a golden slipper, but the Nightingale refuses: the best reward for him is to see tears of joy in the eyes of his listeners. Ambassadors arrive from Japan. They present the Emperor with their own nightingale – a mechanical one. It can repeat one and the same melody without ever getting tired. While all listen in delight to the mechanical bird, the living one flies away. Furious, the Emperor orders him to be banished from China, and the Japanese nightingale begins to sing “on the Emperor’s bedside table with his singer first on the left.” Act III It is night. The Emperor is seriously ill and Death appears in his chambers. It wears the Emperor’s crown on its head and in its hands holds his sabre and standard. The ghosts of deeds gone-by appear and insistently make themselves known. The Emper",
+    "creative_team": [
+      {
+        "person_slug": "andrei-petrenko",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "nikita-gribanov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexander-petrov",
+        "function": "director"
+      },
+      {
+        "person_slug": "vladimir-lukasevich",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vladimir-firer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-sonvletnnoch",
     "work_slug": "benjamin-britten/a-midsummer-night-s-dream",
     "house_slug": "mariinsky-theatre",
@@ -2778,8 +2996,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2009-05-01",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/8/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/svadba_figaro_p_petryanik_scene_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/7/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/figaro_kravets_ulanov_byvilchuk.jpg",
     "synopsis": "Act I Merry wedding preparations are underway at the home of Count Almaviva. Count Almaviva’s valet is marrying Susanna, the Countess’ maidservant. The impending festivities bring the Count no joy whatsoever: he has taken a fancy to the bride-to-be himself and is looking for some reason to prevent the marriage. Susanna anxiously tells her future husband of the Count’s amorous intentions. Figaro is ready to employ all his cunning and inventiveness to ruin his master’s machinations. The convivial Figaro, however, has many enemies. To this day, old Bartolo has been unable to forget his former barber’s cunning, aiding the Count to marry his ward Rosina. The ageing housekeeper Marcellina dreams of marrying Figaro herself. Both Bartolo and she hope that the Count, frustrated by Susanna’s uncompromising nature, will help them. Marcellina greets Susanna with ceremonious curtsies and spiteful compliments. Susanna merrily and wittily laughs at the shrewish old woman. Cherubino appears. The young page is in love with every woman in the castle. He idolises the Countess, but is not averse to making advances to Susanna to whom he has come to share his woes – the Count found him with Barbarina, the gardener’s daughter, and has driven him from the castle. The Count arrives unexpectedly, forcing Cherubino to hide. The Count again begs Susanna to accept his overtures, but the amorous grandee’s declarations are interrupted by a knock at the door – it is the scheming Basilio. The Count’s jealousy has been roused by the old gossip’s hints at Cherubino’s love for the Countess. Enraged, he tells Susanna and Bartolo of the page’s tricks and then suddenly spots Cherubino in his hiding place. The Count’s fury knows no bounds. Cherubino is immediately ordered to enlist in the army. Figaro consoles him. Act II The Countess is distressed at her husband’s indifference. Susanna’s tale of his infidelity wounds her to the quick. Sincerely empathetic towards her maidservant and her groom, the Counte",
     "creative_team": [
       {
@@ -2803,36 +3021,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "grigory-karasev",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
-      },
-      {
-        "person_slug": "yekaterina-krapivina",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
-      },
-      {
-        "person_slug": "sergei-romanov",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count-almaviva"
-      },
-      {
-        "person_slug": "yekaterina-solovyova",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess-almaviva"
-      },
-      {
-        "person_slug": "yaroslav-petryanik",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
-      },
-      {
-        "person_slug": "irma-gigolaty",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
-      },
-      {
-        "person_slug": "kira-loginova",
-        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-toska",
@@ -2978,9 +3167,9 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2013-12-27",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/9/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/trubadur/trubadur_ganbaatar_by_vilchuk.jpg",
-    "synopsis": "Act I (The Duel) The Aliaferia Palace. Ferrando, a confidant of the Count di Luna, tells the palace guard of tragic events that occurred many years ago. The old Count had two young sons. One morning a terrifying gypsy woman was found at the cradle of the youngest. The boy began to wither away – the witch placed a curse on him. She was caught and burned, but the gypsy&rsquo;s daughter took revenge: she abducted the child and he has never been seen since. Where the witch was executed the burnt bones of a child were found. The old Count did not live long after that. Not believing in the death of his youngest son, he made the eldest – who is the present day Count – swear never to stop looking for his missing brother. Every search, however, has been in vain. To this day at midnight the ghost of the dead witch haunts the palace, taking on various forms... Unexpectedly a bell rings in the distance – it is midnight. Gripped by superstitious terror, the guards flee. A moonlit night in the palace garden. Leonora awaits the troubadour Manrico in delighted apprehension. She tells Ines of how she first met him at a competition of knights. Since then she has not seen the troubadour for a long time – war separated them. In vain Ines soothes Leonora – the latter has given her heart to Manrico forever. The Count di Luna appears. He rushes towards Leonora&rsquo;s balcony, but the troubadour&rsquo;s song makes him freeze. Leonora hurries to meet Manrico. A quarrel breaks out between the rivals. Leonora implores the Count to have mercy on Manrico but, filled with envy, he unsheathes his sword and prepares to fight. Act II (The Gypsy) A gypsy camp in the hills near Biscay. Dawn. The gypsies set off for work singing songs. Only Azucena is sad. Left alone with Manrico, she tells how her mother was burned on the orders of the Count di Luna. Azucena, having abducted the Count&rsquo;s son, then resolved to throw him into the same fire but, driven mad with grief, she made a terrible mistake –",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/10/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/trubadur/_trubadur_banner2023.jpg",
+    "synopsis": "Act I (The Duel) The Aliaferia Palace. Ferrando, a confidant of the Count di Luna, tells the palace guard of tragic events that occurred many years ago. The old Count had two young sons. One morning a terrifying gypsy woman was found at the cradle of the youngest. The boy began to wither away – the witch placed a curse on him. She was caught and burned, but the gypsy’s daughter took revenge: she abducted the child and he has never been seen since. Where the witch was executed the burnt bones of a child were found. The old Count did not live long after that. Not believing in the death of his youngest son, he made the eldest – who is the present day Count – swear never to stop looking for his missing brother. Every search, however, has been in vain. To this day at midnight the ghost of the dead witch haunts the palace, taking on various forms... Unexpectedly a bell rings in the distance – it is midnight. Gripped by superstitious terror, the guards flee. A moonlit night in the palace garden. Leonora awaits the troubadour Manrico in delighted apprehension. She tells Ines of how she first met him at a competition of knights. Since then she has not seen the troubadour for a long time – war separated them. In vain Ines soothes Leonora – the latter has given her heart to Manrico forever. The Count di Luna appears. He rushes towards Leonora’s balcony, but the troubadour’s song makes him freeze. Leonora hurries to meet Manrico. A quarrel breaks out between the rivals. Leonora implores the Count to have mercy on Manrico but, filled with envy, he unsheathes his sword and prepares to fight. Act II (The Gypsy) A gypsy camp in the hills near Biscay. Dawn. The gypsies set off for work singing songs. Only Azucena is sad. Left alone with Manrico, she tells how her mother was burned on the orders of the Count di Luna. Azucena, having abducted the Count’s son, then resolved to throw him into the same fire but, driven mad with grief, she made a terrible mistake – she burnt her own child",
     "creative_team": [
       {
         "person_slug": "emil-faski",
@@ -3003,28 +3192,7 @@
         "function": "lighting"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "anna-kiknadze",
-        "role_slug": "giuseppe-verdi/il-trovatore/azucena"
-      },
-      {
-        "person_slug": "ariunbaatar-ganbaatar",
-        "role_slug": "giuseppe-verdi/il-trovatore/count-di-luna"
-      },
-      {
-        "person_slug": "vladimir-feliauer",
-        "role_slug": "giuseppe-verdi/il-trovatore/ferrando"
-      },
-      {
-        "person_slug": "lana-kos",
-        "role_slug": "giuseppe-verdi/il-trovatore/leonora"
-      },
-      {
-        "person_slug": "akhmed-agadi",
-        "role_slug": "giuseppe-verdi/il-trovatore/manrico"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-tsar-birde-kuzin",
