@@ -59,6 +59,65 @@
     ]
   },
   {
+    "id": "semperoper-dresden/61666",
+    "work_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27",
+    "house_slug": "semperoper-dresden",
+    "is_revival": false,
+    "detail_url": "https://www.semperoper.de/spielplan/stuecke/stid/auftakt/61666.html",
+    "creative_team": [
+      {
+        "person_slug": "johannes-wulff-woesten",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "james-ley",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "louise-mcclelland-jacobsen",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "magdalena-lucjan",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "mario-lerchenberger",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "marjukka-tepponen",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "metehan-koklu",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "neven-crnic",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "rosalia-cid",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "valerie-eickhoff",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "vladyslav-buialskyi",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/mit"
+      },
+      {
+        "person_slug": "nora-schmid",
+        "role_slug": "auftakt-musikalischer-spaziergang-durch-die-saison-2026-27/moderation"
+      }
+    ]
+  },
+  {
     "id": "semperoper-dresden/61859",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "house_slug": "semperoper-dresden",
