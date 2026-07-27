@@ -1,5 +1,33 @@
 [
   {
+    "id": "staatsoper-stuttgart/1-liedkonzert-2026-27",
+    "work_slug": "1-liedkonzert",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/1-liedkonzert-2026-27/9517/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/1-sinfoniekonzert-2026-27",
+    "work_slug": "1-sinfoniekonzert-werke-von-unsuk-chin-edward-elgar-und-richard-strauss",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/1-sinfoniekonzert-2026-27/9518/",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kian-soltani",
+        "role_slug": "1-sinfoniekonzert-werke-von-unsuk-chin-edward-elgar-und-richard-strauss/violoncello"
+      }
+    ]
+  },
+  {
     "id": "staatsoper-stuttgart/6-liedkonzert-2025-26",
     "work_slug": "6-liedkonzert-a-la-francaise-lieder-von-franzosischen-komponisten",
     "house_slug": "staatsoper-stuttgart",
@@ -183,6 +211,97 @@
     ]
   },
   {
+    "id": "staatsoper-stuttgart/die-schlaue-fuechsin",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/die-schlaue-fuechsin/9606/",
+    "creative_team": [
+      {
+        "person_slug": "jonathan-reimann",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "killian-farrell",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "anja-rabes",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "stephan-kimmig",
+        "function": "director"
+      },
+      {
+        "person_slug": "johanna-mangold",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "gerrit-jurda",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "katja-ha",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "bernhard-moncado",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/chor-kinderchor"
+      },
+      {
+        "person_slug": "itzeli-del-rosario",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/dackel-specht"
+      },
+      {
+        "person_slug": "pawe-konik",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/forster"
+      },
+      {
+        "person_slug": "olivia-johnson",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/frau-forsterin-eule"
+      },
+      {
+        "person_slug": "catriona-smith",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/frau-pasek-eichelhaher"
+      },
+      {
+        "person_slug": "diana-haller",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/fuchs"
+      },
+      {
+        "person_slug": "natasha-te-rupe-wilson",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/fuchsin"
+      },
+      {
+        "person_slug": "ilia-skvirskii",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/hahn"
+      },
+      {
+        "person_slug": "michael-nagl",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/haraschta"
+      },
+      {
+        "person_slug": "torsten-hofmann",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/herr-pasek"
+      },
+      {
+        "person_slug": "moritz-kallenberg",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/lehrer-mucke"
+      },
+      {
+        "person_slug": "andrew-bogard",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/pfarrer-dachs"
+      },
+      {
+        "person_slug": "carmen-larios",
+        "role_slug": "leos-janacek/die-schlaue-fuchsin/schopfhenne"
+      }
+    ]
+  },
+  {
     "id": "staatsoper-stuttgart/die-zauberfloete",
     "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
     "house_slug": "staatsoper-stuttgart",
@@ -282,7 +401,7 @@
     "work_slug": "einblicke-fokus-sanierung",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fokus-sanierung/8778/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fokus-sanierung/10207/",
     "creative_team": [],
     "cast": []
   },
@@ -291,7 +410,53 @@
     "work_slug": "einblicke-fuhrung-durch-theatergebaude-und-werkstatten",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fuehrung/9934/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-fuehrung/9982/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-kinderfuehrung",
+    "work_slug": "einblicke-fur-kinder-eine-fuhrung-durch-opernhaus-und-werkstatten-ausschlie-lich-fur-kinder-ab-7-jahren",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einblicke-kinderfuehrung/9984/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/eine-reise-durchs-opernhaus",
+    "work_slug": "eine-reise-durchs-opernhaus-musik-von-ludwig-van-beethoven-gordon-kampe-giacomo-puccini-dora-pejacevic-giuseppe-verdi-dmitri-schostakowitsch-franz-schubert-und-richard-strauss",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/eine-reise-durchs-opernhaus/9605/",
+    "creative_team": [
+      {
+        "person_slug": "lin-liao",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "johannes-kammler",
+        "role_slug": "eine-reise-durchs-opernhaus-musik-von-ludwig-van-beethoven-gordon-kampe-giacomo-puccini-dora-pejacevic-giuseppe-verdi-dmitri-schostakowitsch-franz-schubert-und-richard-strauss/mit"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/einfuehrungsmatinee-lady-macbeth-von-mzensk",
+    "work_slug": "einfuhrungsmatinee-lady-macbeth-von-mzensk",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einfuehrungsmatinee-lady-macbeth-von-mzensk/9967/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/einfuehrungsmatinee-lucia-di-lammermoor",
+    "work_slug": "einfuhrungsmatinee-lucia-di-lammermoor",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/einfuehrungsmatinee-lucia-di-lammermoor/9966/",
     "creative_team": [],
     "cast": []
   },
@@ -300,9 +465,68 @@
     "work_slug": "home-vibes-gestalten-im-join-haus",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/home-vibes/10023/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/home-vibes/10217/",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/i-did-it-my-way/9637/",
+    "creative_team": [
+      {
+        "person_slug": "serge-aime-coulibaly",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "lee-reynolds",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "an-d-huys",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ivo-van-hove",
+        "function": "director"
+      },
+      {
+        "person_slug": "dennis-van-scheppingen",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "christopher-ash",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "henry-hey",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/arrangements"
+      },
+      {
+        "person_slug": "jan-versweyveld",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/buhne-und-lichtdesign"
+      },
+      {
+        "person_slug": "koen-tachelet",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/dramaturgische-beratung"
+      },
+      {
+        "person_slug": "mark-waschke",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/mit"
+      },
+      {
+        "person_slug": "david-menke",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/orchestrierung"
+      },
+      {
+        "person_slug": "erwin-sterk",
+        "role_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/sounddesign"
+      }
+    ]
   },
   {
     "id": "staatsoper-stuttgart/il-barbiere-di-siviglia",
@@ -377,13 +601,89 @@
     "cast": []
   },
   {
+    "id": "staatsoper-stuttgart/kostuemverkauf",
+    "work_slug": "kostumverkauf",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/kostuemverkauf/9977/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-stuttgart/libretti-lesen",
     "work_slug": "libretti-lesen",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
-    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/libretti-lesen/9003/",
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/libretti-lesen/10163/",
     "creative_team": [],
     "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "work_slug": "gaetano-donizetti/lucia-di-lammermoor",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/lucia-di-lammermoor/9508/",
+    "creative_team": [
+      {
+        "person_slug": "joseph-alford",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bernhard-moncado",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "andriy-yurkevych",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katie-mitchell",
+        "function": "director"
+      },
+      {
+        "person_slug": "johanna-mangold",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "jon-clark",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vicki-mortimer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "laura-orueta",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/alisa"
+      },
+      {
+        "person_slug": "charles-sy",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/arturo"
+      },
+      {
+        "person_slug": "kai-kluge",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/edgardo"
+      },
+      {
+        "person_slug": "johannes-kammler",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/enrico"
+      },
+      {
+        "person_slug": "chelsea-lehnea",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/lucia"
+      },
+      {
+        "person_slug": "liam-forrest",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/normanno"
+      },
+      {
+        "person_slug": "adam-palka",
+        "role_slug": "gaetano-donizetti/lucia-di-lammermoor/raimondo"
+      }
+    ]
   },
   {
     "id": "staatsoper-stuttgart/lunchkonzert",
@@ -422,6 +722,15 @@
     "cast": []
   },
   {
+    "id": "staatsoper-stuttgart/oper-am-mittag",
+    "work_slug": "oper-am-mittag",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/oper-am-mittag/9853/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-stuttgart/oper-meets-hiphop-2025-26",
     "work_slug": "oper-meets-hiphop",
     "house_slug": "staatsoper-stuttgart",
@@ -431,11 +740,48 @@
     "cast": []
   },
   {
+    "id": "staatsoper-stuttgart/opernlab-zu-lady-macbeth-von-mzensk",
+    "work_slug": "opernlab-zu-lady-macbeth-von-mzensk",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/opernlab-zu-lady-macbeth-von-mzensk/10025/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-stuttgart/rikas",
     "work_slug": "rikas",
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
     "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/rikas/8644/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/sing-along",
+    "work_slug": "sing-along",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/sing-along/9733/",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "alan-hamilton",
+        "role_slug": "sing-along/klavier"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/singend-durch-den-spielplan",
+    "work_slug": "singend-durch-den-spielplan-fur-alle-die-gerne-singen",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/singend-durch-den-spielplan/10234/",
     "creative_team": [],
     "cast": []
   },
@@ -454,6 +800,15 @@
     "house_slug": "staatsoper-stuttgart",
     "is_revival": false,
     "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/songs-airs-vol-ii-x-join/9937/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/staatsoper-goes-raetsche",
+    "work_slug": "staatsoper-goes-ratsche",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/staatsoper-goes-raetsche/9854/",
     "creative_team": [],
     "cast": []
   },
@@ -549,6 +904,15 @@
     ]
   },
   {
+    "id": "staatsoper-stuttgart/teetechno",
+    "work_slug": "tee-techno-relaxed-concert-fur-eltern-und-ihre-kinder-ab-0-jahren",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/teetechno/9743/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "staatsoper-stuttgart/the-littmann-sessions-2025-26",
     "work_slug": "the-littmann-sessions-eine-pop-gala",
     "house_slug": "staatsoper-stuttgart",
@@ -568,6 +932,70 @@
       {
         "person_slug": "eine-pop-gala",
         "role_slug": "the-littmann-sessions-eine-pop-gala/the-littmann-sessions"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/theaterfest-am-eckensee",
+    "work_slug": "theaterfest-am-eckensee",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/theaterfest-am-eckensee/10101/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "staatsoper-stuttgart/tosca",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/tosca/9745/",
+    "creative_team": [
+      {
+        "person_slug": "francesco-cilluffo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "willy-decker",
+        "function": "director"
+      },
+      {
+        "person_slug": "juliane-votteler",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "wolfgang-gussmann",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "iain-macneil",
+        "role_slug": "giacomo-puccini/tosca/baron-scarpia"
+      },
+      {
+        "person_slug": "jaewoung-lee",
+        "role_slug": "giacomo-puccini/tosca/cesare-angelotti"
+      },
+      {
+        "person_slug": "bernhard-moncado",
+        "role_slug": "giacomo-puccini/tosca/chor-kinderchor"
+      },
+      {
+        "person_slug": "marigona-qerkezi",
+        "role_slug": "giacomo-puccini/tosca/floria-tosca"
+      },
+      {
+        "person_slug": "diego-godoy",
+        "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
+      },
+      {
+        "person_slug": "andrew-bogard",
+        "role_slug": "giacomo-puccini/tosca/mesner"
+      },
+      {
+        "person_slug": "daniel-domarecki",
+        "role_slug": "giacomo-puccini/tosca/spoletta"
       }
     ]
   },
@@ -651,6 +1079,33 @@
       {
         "person_slug": "ewa-vesin",
         "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
+  },
+  {
+    "id": "staatsoper-stuttgart/zu-gast-beim-beethovenfest",
+    "work_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner",
+    "house_slug": "staatsoper-stuttgart",
+    "is_revival": false,
+    "detail_url": "https://www.staatsoper-stuttgart.de/spielplan/kalender/zu-gast-beim-beethovenfest/9811/",
+    "creative_team": [
+      {
+        "person_slug": "nicholas-carter",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "david-steffens",
+        "role_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/hunding"
+      },
+      {
+        "person_slug": "simone-schneider",
+        "role_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/sieglinde"
+      },
+      {
+        "person_slug": "john-findon",
+        "role_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/siegmund"
       }
     ]
   }

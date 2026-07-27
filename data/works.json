@@ -1,5 +1,10 @@
 [
   {
+    "slug": "1-akademiekonzert",
+    "title": "1. Akademiekonzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "1-blaues-konzert",
     "title": "1. Blaues Konzert",
     "composer_slug": ""
@@ -10,6 +15,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "1-liedkonzert",
+    "title": "1. Liedkonzert",
+    "composer_slug": ""
+  },
+  {
     "slug": "1-philharmo-shy-nisches-konzert",
     "title": "1. Philharmo&shy;nisches Konzert",
     "composer_slug": ""
@@ -17,6 +27,11 @@
   {
     "slug": "1-sinfoniekonzert",
     "title": "1. Sinfoniekonzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "1-sinfoniekonzert-werke-von-unsuk-chin-edward-elgar-und-richard-strauss",
+    "title": "1. Sinfoniekonzert, Werke von Unsuk Chin, Edward Elgar und Richard Strauss",
     "composer_slug": ""
   },
   {
@@ -35,8 +50,18 @@
     "composer_slug": ""
   },
   {
+    "slug": "100-jahre-hans-werner-henze",
+    "title": "100 Jahre Hans Werner Henze",
+    "composer_slug": ""
+  },
+  {
     "slug": "2-blaues-konzert",
     "title": "2. Blaues Konzert",
+    "composer_slug": ""
+  },
+  {
+    "slug": "2-chorfestival-rhein-neckar",
+    "title": "2. Chorfestival Rhein-Neckar",
     "composer_slug": ""
   },
   {
@@ -366,6 +391,11 @@
     "slug": "alban-berg/wozzeck",
     "title": "Wozzeck",
     "composer_slug": "alban-berg"
+  },
+  {
+    "slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise",
+    "title": "Eine Winterreise",
+    "composer_slug": "albert-galindo-und-luis-tena-torres-zu-mu"
   },
   {
     "slug": "albert-lortzing/der-waffenschmied",
@@ -985,6 +1015,11 @@
     "composer_slug": "auguste-mermet"
   },
   {
+    "slug": "aus-tiefer-not-ungarische-revolutionen",
+    "title": "»Aus tiefer Not« – Ungarische Revolutionen",
+    "composer_slug": ""
+  },
+  {
     "slug": "ausgeflogen",
     "title": "Ausgeflogen!",
     "composer_slug": ""
@@ -1059,6 +1094,11 @@
     "slug": "backstage-fuhrung-fur-abonnent-innen",
     "title": "Backstage-Führung für Abonnent*innen",
     "composer_slug": ""
+  },
+  {
+    "slug": "baek-hee-na-ulrike-stock/mondeis-4",
+    "title": "Mondeis (4+)",
+    "composer_slug": "baek-hee-na-ulrike-stock"
   },
   {
     "slug": "baldassare-galuppi/adriano-in-siria",
@@ -1290,6 +1330,11 @@
     "slug": "bertolt-brecht/the-threepenny-opera",
     "title": "The Threepenny Opera",
     "composer_slug": "bertolt-brecht"
+  },
+  {
+    "slug": "beschwingte-musik-am-nachmittag/cafe-concert",
+    "title": "Café Concert",
+    "composer_slug": "beschwingte-musik-am-nachmittag"
   },
   {
     "slug": "between-songs-and-shadows",
@@ -2374,6 +2419,11 @@
     "world_premiere_house_slug": "teatro-regio-di-parma"
   },
   {
+    "slug": "ein-abend/enjoy-jazz-durch-die-schonheit-wandern-wir-zur-freiheit",
+    "title": "Enjoy Jazz: Durch die Schönheit wandern wir zur Freiheit",
+    "composer_slug": "ein-abend"
+  },
+  {
     "slug": "ein-blick-hinter-die-kulissen/theaterfuhrung",
     "title": "Theaterführung",
     "composer_slug": "ein-blick-hinter-die-kulissen"
@@ -2444,6 +2494,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "einblicke-fur-kinder-eine-fuhrung-durch-opernhaus-und-werkstatten-ausschlie-lich-fur-kinder-ab-7-jahren",
+    "title": "Einblicke für Kinder, Eine Führung durch Opernhaus und Werkstätten, ausschließlich für Kinder (ab 7 Jahren).",
+    "composer_slug": ""
+  },
+  {
     "slug": "eine-gastrolle",
     "wikidata": "Q110059496",
     "title": "Eine Gastrolle",
@@ -2462,6 +2517,11 @@
     "composer_slug": "eine-hommage-an-mevlude-genc"
   },
   {
+    "slug": "eine-reise-durchs-opernhaus-musik-von-ludwig-van-beethoven-gordon-kampe-giacomo-puccini-dora-pejacevic-giuseppe-verdi-dmitri-schostakowitsch-franz-schubert-und-richard-strauss",
+    "title": "Eine Reise durchs Opernhaus, Musik von Ludwig van Beethoven, Gordon Kampe, Giacomo Puccini, Dora Pejačević, Giuseppe Verdi, Dmitri Schostakowitsch, Franz Schubert und Richard Strauss",
+    "composer_slug": ""
+  },
+  {
     "slug": "eine-volkssage/krabat",
     "title": "Krabat",
     "composer_slug": "eine-volkssage"
@@ -2477,8 +2537,18 @@
     "composer_slug": ""
   },
   {
+    "slug": "einfuhrungsmatinee-lady-macbeth-von-mzensk",
+    "title": "Einführungsmatinee: Lady Macbeth von Mzensk",
+    "composer_slug": ""
+  },
+  {
     "slug": "einfuhrungsmatinee-lear",
     "title": "Einführungsmatinee: Lear",
+    "composer_slug": ""
+  },
+  {
+    "slug": "einfuhrungsmatinee-lucia-di-lammermoor",
+    "title": "Einführungsmatinee: Lucia di Lammermoor",
     "composer_slug": ""
   },
   {
@@ -3776,6 +3846,11 @@
     "composer_slug": "geatano-donizetti"
   },
   {
+    "slug": "gemeinsam-tanzen/dancing-queens",
+    "title": "Dancing Queens",
+    "composer_slug": "gemeinsam-tanzen"
+  },
+  {
     "slug": "geminiano-giacomelli/demetrio",
     "wikidata": "Q5802135",
     "title": "Demetrio",
@@ -4859,6 +4934,11 @@
     "world_premiere_house_slug": "teatro-verdi-trieste"
   },
   {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer_slug": "giuseppe-verdi-libretto-von-francesco-m"
+  },
+  {
     "slug": "giuseppe-verdi-melodramma-in-tre-atti/la-traviata",
     "title": "La Traviata",
     "composer_slug": "giuseppe-verdi-melodramma-in-tre-atti"
@@ -5088,6 +5168,11 @@
     "composer_slug": "giuseppe-verdi"
   },
   {
+    "slug": "goethe/faust",
+    "title": "Faust",
+    "composer_slug": "goethe"
+  },
+  {
     "slug": "gordon-kampe/die-verwandlung",
     "title": "Die Verwandlung",
     "composer_slug": "gordon-kampe"
@@ -5207,6 +5292,11 @@
     "slug": "gyorgy-ranki/king-pomade-s-new-cothes",
     "title": "King Pomade's New Cothes",
     "composer_slug": "gyorgy-ranki"
+  },
+  {
+    "slug": "halloween-special",
+    "title": "Halloween-Special",
+    "composer_slug": ""
   },
   {
     "slug": "handel-in-nur/messias",
@@ -5643,6 +5733,11 @@
     "slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee",
     "title": "Liedmatinee",
     "composer_slug": "ingeborg-bachmann-zum-geburtstag"
+  },
+  {
+    "slug": "ins-kalte-wasser",
+    "title": "Ins kalte Wasser",
+    "composer_slug": ""
   },
   {
     "slug": "inside-out",
@@ -6228,6 +6323,11 @@
     "world_premiere_house_slug": "teatro-regio-torino"
   },
   {
+    "slug": "jubilaumskonzert-10-jahre-opernstudio",
+    "title": "Jubiläumskonzert: 10 Jahre Opernstudio",
+    "composer_slug": ""
+  },
+  {
     "slug": "jules-massenet/ariana",
     "wikidata": "Q109244771",
     "title": "Ariana",
@@ -6530,6 +6630,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "kostumverkauf",
+    "title": "Kostümverkauf",
+    "composer_slug": ""
+  },
+  {
     "slug": "kostumwesen-fuhrung",
     "title": "Kostümwesen-Führung",
     "composer_slug": ""
@@ -6653,6 +6758,11 @@
     "slug": "landschaftsmusik",
     "title": "Landschaftsmusik",
     "composer_slug": ""
+  },
+  {
+    "slug": "lara-kaiser-urauffuhrung/schaum-ich-an-2",
+    "title": "Schaum ich an (2+)",
+    "composer_slug": "lara-kaiser-urauffuhrung"
   },
   {
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
@@ -6837,6 +6947,11 @@
     "composer_slug": "leos-janacek"
   },
   {
+    "slug": "leos-janacek/die-schlaue-fuchsin",
+    "title": "Die schlaue Füchsin",
+    "composer_slug": "leos-janacek"
+  },
+  {
     "slug": "leos-janacek/jenufa",
     "title": "Jenůfa",
     "composer_slug": "leos-janacek"
@@ -6895,6 +7010,16 @@
     "slug": "les-contes-d-hoffmann",
     "title": "Les Contes d'Hoffmann",
     "composer_slug": ""
+  },
+  {
+    "slug": "lesung-gesprach-mit-necati-oziri/mannheim-liest-ein-buch-2026-auftakt",
+    "title": "Mannheim liest ein Buch 2026 Auftakt",
+    "composer_slug": "lesung-gesprach-mit-necati-oziri"
+  },
+  {
+    "slug": "lesung-und-gesprach-mit-don-pablo-mulemba/hundeheimat-haymatministerium-meets-lesen-horen",
+    "title": "»Hundeheimat« – Haymatministerium meets lesen.hören",
+    "composer_slug": "lesung-und-gesprach-mit-don-pablo-mulemba"
   },
   {
     "slug": "let-s-have-a-kiki",
@@ -7261,6 +7386,11 @@
     "composer_slug": "manfred-gurlitt"
   },
   {
+    "slug": "mannheimer-reden-spezial",
+    "title": "Mannheimer Reden Spezial",
+    "composer_slug": ""
+  },
+  {
     "slug": "manon-lescaut",
     "title": "Manon Lescaut",
     "composer_slug": ""
@@ -7289,6 +7419,11 @@
     "slug": "marc-shaiman-gesangstexte-von-scott-wittman/charlie-und-die-schokoladenfabrik",
     "title": "Charlie und die Schokoladenfabrik",
     "composer_slug": "marc-shaiman-gesangstexte-von-scott-wittman"
+  },
+  {
+    "slug": "marcela-herrera-urauffuhrung/freche-flache-2",
+    "title": "Freche Fläche (2+)",
+    "composer_slug": "marcela-herrera-urauffuhrung"
   },
   {
     "slug": "marchen-im-grand-hotel",
@@ -7397,6 +7532,11 @@
     "composer_slug": "marshall-brickman-rick-elice"
   },
   {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "title": "My funny Valentine (10+)",
+    "composer_slug": "martin-nachbar-urauffuhrung"
+  },
+  {
     "slug": "martin-nachbar-urauffuhrung/wenn-ich-s-nicht-tanzen-kann-fuhl-ich-s-nicht-7",
     "title": "Wenn ich's nicht tanzen kann, fühl ich's nicht (7+)",
     "composer_slug": "martin-nachbar-urauffuhrung"
@@ -7460,6 +7600,11 @@
     "slug": "maurizio-fabrizio/edith",
     "title": "Édith",
     "composer_slug": "maurizio-fabrizio"
+  },
+  {
+    "slug": "mausturoffnertag-2026",
+    "title": "Maustüröffnertag 2026",
+    "composer_slug": ""
   },
   {
     "slug": "mdr-klassik-zum-jahr/klassik-karaoke",
@@ -7613,6 +7758,11 @@
     "slug": "missy-mazzoli/the-listeners",
     "title": "The Listeners",
     "composer_slug": "missy-mazzoli"
+  },
+  {
+    "slug": "mit-davina-lover/draghaus-werqhouse",
+    "title": "Draghaus Werqhouse",
+    "composer_slug": "mit-davina-lover"
   },
   {
     "slug": "mit-dem-ballett-am-rhein-ins-kino/tanzfilm",
@@ -7830,6 +7980,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "musiksalon-eroffnung",
+    "title": "Musiksalon-Eröffnung",
+    "composer_slug": ""
+  },
+  {
     "slug": "musiktheater-im-prafaschismus/deutschland-deutschland-unter-anderem",
     "title": "Deutschland, Deutschland unter anderem",
     "composer_slug": "musiktheater-im-prafaschismus"
@@ -7848,6 +8003,11 @@
     "slug": "mussorgsky/songs-and-dances-of-death-kindertotenlieder",
     "title": "'Songs and Dances of Death' & 'Kindertotenlieder'",
     "composer_slug": "mussorgsky"
+  },
+  {
+    "slug": "mutterwunde",
+    "title": "Mutterwunde",
+    "composer_slug": ""
   },
   {
     "slug": "mythos/kampf-der-titanen",
@@ -7899,6 +8059,11 @@
     "slug": "naturlaut-voce-di-natura/iii-concerto",
     "title": "III concerto",
     "composer_slug": "naturlaut-voce-di-natura"
+  },
+  {
+    "slug": "necati-oziri/lesung-aus-vatermal-2023-von-necati-oziri",
+    "title": "Lesung aus »Vatermal« (2023) von Necati Öziri",
+    "composer_slug": "necati-oziri"
   },
   {
     "slug": "neue-welten",
@@ -8091,6 +8256,11 @@
     "composer_slug": "nikolai-rimsky-korsakov"
   },
   {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "title": "I Did It My Way",
+    "composer_slug": "nina-simone-und-frank-sinatra"
+  },
+  {
     "slug": "nino-rota/der-florentiner-hut",
     "title": "Der Florentiner Hut",
     "composer_slug": "nino-rota"
@@ -8199,6 +8369,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "oper-am-mittag",
+    "title": "Oper am Mittag",
+    "composer_slug": ""
+  },
+  {
     "slug": "oper-extra",
     "title": "Oper extra",
     "composer_slug": ""
@@ -8286,6 +8461,11 @@
   {
     "slug": "opernkarussell",
     "title": "Opernkarussell",
+    "composer_slug": ""
+  },
+  {
+    "slug": "opernlab-zu-lady-macbeth-von-mzensk",
+    "title": "OpernLAB zu „Lady Macbeth von Mzensk“",
     "composer_slug": ""
   },
   {
@@ -9752,6 +9932,11 @@
     "composer_slug": "sezen-aksu"
   },
   {
+    "slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot",
+    "title": "Ein paar Leute suchen das Glück und lachen sich tot",
+    "composer_slug": "sibylle-berg"
+  },
+  {
     "slug": "signaturen",
     "title": "Signaturen",
     "composer_slug": ""
@@ -9772,6 +9957,11 @@
     "composer_slug": "silvia-colasanti"
   },
   {
+    "slug": "sing-along",
+    "title": "Sing along",
+    "composer_slug": ""
+  },
+  {
     "slug": "sing-halleluja",
     "title": "\"Sing Halleluja!\"",
     "composer_slug": ""
@@ -9785,6 +9975,11 @@
     "slug": "singen-sie-mit-uns-gemeinsam-uber-solidaritat-klassenkampf-und-gegen-den-faschismus-an/arbeiterliedersingen",
     "title": "Arbeiterliedersingen",
     "composer_slug": "singen-sie-mit-uns-gemeinsam-uber-solidaritat-klassenkampf-und-gegen-den-faschismus-an"
+  },
+  {
+    "slug": "singend-durch-den-spielplan-fur-alle-die-gerne-singen",
+    "title": "Singend durch den Spielplan, Für alle, die gerne singen!",
+    "composer_slug": ""
   },
   {
     "slug": "singendes-klingendes-bingo",
@@ -9945,6 +10140,11 @@
   {
     "slug": "staatskapelle-berlin-opern-gastspiel-in-shanghai",
     "title": "Staatskapelle Berlin: Opern-Gastspiel in Shanghai",
+    "composer_slug": ""
+  },
+  {
+    "slug": "staatsoper-goes-ratsche",
+    "title": "Staatsoper goes Rätsche",
     "composer_slug": ""
   },
   {
@@ -10177,6 +10377,16 @@
     "composer_slug": "tchaikovsky"
   },
   {
+    "slug": "tee-techno-relaxed-concert-fur-eltern-und-ihre-kinder-ab-0-jahren",
+    "title": "Tee&Techno, Relaxed Concert für Eltern und ihre Kinder ab 0 Jahren",
+    "composer_slug": ""
+  },
+  {
+    "slug": "teuflisches-halloween",
+    "title": "Teuflisches Halloween",
+    "composer_slug": ""
+  },
+  {
     "slug": "the-big-sabrowski-jetzt-erst-recht",
     "title": "The Big Sabrowski - Jetzt erst recht!",
     "composer_slug": ""
@@ -10240,6 +10450,11 @@
   {
     "slug": "theaterfest-26-27",
     "title": "Theaterfest 26/27",
+    "composer_slug": ""
+  },
+  {
+    "slug": "theaterfest-am-eckensee",
+    "title": "Theaterfest am Eckensee",
     "composer_slug": ""
   },
   {
@@ -10801,6 +11016,11 @@
     "composer_slug": ""
   },
   {
+    "slug": "wegen-und-wurzeln/geschichten-von-wegen-und-wurzeln",
+    "title": "Geschichten von Wegen und Wurzeln",
+    "composer_slug": "wegen-und-wurzeln"
+  },
+  {
     "slug": "wei-e-rose-stimmen-des-widerstands",
     "title": "Weiße Rose: Stimmen des Widerstands",
     "composer_slug": ""
@@ -10893,6 +11113,11 @@
   {
     "slug": "wir-bauen-eine-neue-stadt",
     "title": "Wir bauen eine neue Stadt",
+    "composer_slug": ""
+  },
+  {
+    "slug": "wo-bleibt-der-humor",
+    "title": "Wo bleibt der Humor?",
     "composer_slug": ""
   },
   {
@@ -11250,6 +11475,11 @@
     "slug": "zsofia-taller/leander-and-linseed",
     "title": "Leander and Linseed",
     "composer_slug": "zsofia-taller"
+  },
+  {
+    "slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner",
+    "title": "Zu Gast beim Beethovenfest, Werke von Kaija Saariaho, Franz Schubert und Richard Wagner",
+    "composer_slug": ""
   },
   {
     "slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang",

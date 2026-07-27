@@ -1,5 +1,26 @@
 [
   {
+    "id": "staatsoper-stuttgart/1-liedkonzert-2026-27/2026-10-12/19:30",
+    "production_id": "staatsoper-stuttgart/1-liedkonzert-2026-27",
+    "date": "2026-10-12",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/1-sinfoniekonzert-2026-27/2026-10-25/11:00",
+    "production_id": "staatsoper-stuttgart/1-sinfoniekonzert-2026-27",
+    "date": "2026-10-25",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/1-sinfoniekonzert-2026-27/2026-10-26/19:30",
+    "production_id": "staatsoper-stuttgart/1-sinfoniekonzert-2026-27",
+    "date": "2026-10-26",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/6-liedkonzert-2025-26/2026-06-15/19:30",
     "production_id": "staatsoper-stuttgart/6-liedkonzert-2025-26",
     "date": "2026-06-15",
@@ -91,6 +112,27 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/die-schlaue-fuechsin/2026-10-16/19:30",
+    "production_id": "staatsoper-stuttgart/die-schlaue-fuechsin",
+    "date": "2026-10-16",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/die-schlaue-fuechsin/2026-10-22/19:00",
+    "production_id": "staatsoper-stuttgart/die-schlaue-fuechsin",
+    "date": "2026-10-22",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/die-schlaue-fuechsin/2026-10-31/19:30",
+    "production_id": "staatsoper-stuttgart/die-schlaue-fuechsin",
+    "date": "2026-10-31",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/die-zauberfloete/2026-06-16/19:00",
     "production_id": "staatsoper-stuttgart/die-zauberfloete",
     "date": "2026-06-16",
@@ -129,6 +171,13 @@
     "id": "staatsoper-stuttgart/einblicke-fokus-sanierung/2026-06-09/15:00",
     "production_id": "staatsoper-stuttgart/einblicke-fokus-sanierung",
     "date": "2026-06-09",
+    "time": "15:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fokus-sanierung/2026-10-22/15:00",
+    "production_id": "staatsoper-stuttgart/einblicke-fokus-sanierung",
+    "date": "2026-10-22",
     "time": "15:00",
     "status": "scheduled"
   },
@@ -217,9 +266,142 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-09-26/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-09-26",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-04/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-04",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-10/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-10",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-11/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-11",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-17/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-17",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-18/11:00",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-18",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-24/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-24",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-25/14:15",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-25",
+    "time": "14:15",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-fuehrung/2026-10-31/14:30",
+    "production_id": "staatsoper-stuttgart/einblicke-fuehrung",
+    "date": "2026-10-31",
+    "time": "14:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einblicke-kinderfuehrung/2026-10-04/14:16",
+    "production_id": "staatsoper-stuttgart/einblicke-kinderfuehrung",
+    "date": "2026-10-04",
+    "time": "14:16",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/eine-reise-durchs-opernhaus/2026-09-20/18:00",
+    "production_id": "staatsoper-stuttgart/eine-reise-durchs-opernhaus",
+    "date": "2026-09-20",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einfuehrungsmatinee-lady-macbeth-von-mzensk/2026-10-11/11:00",
+    "production_id": "staatsoper-stuttgart/einfuehrungsmatinee-lady-macbeth-von-mzensk",
+    "date": "2026-10-11",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/einfuehrungsmatinee-lucia-di-lammermoor/2026-09-27/11:00",
+    "production_id": "staatsoper-stuttgart/einfuehrungsmatinee-lucia-di-lammermoor",
+    "date": "2026-09-27",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/home-vibes/2026-06-12/19:00",
     "production_id": "staatsoper-stuttgart/home-vibes",
     "date": "2026-06-12",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/home-vibes/2026-10-23/19:00",
+    "production_id": "staatsoper-stuttgart/home-vibes",
+    "date": "2026-10-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way/2026-10-08/19:30",
+    "production_id": "staatsoper-stuttgart/i-did-it-my-way",
+    "date": "2026-10-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way/2026-10-10/19:30",
+    "production_id": "staatsoper-stuttgart/i-did-it-my-way",
+    "date": "2026-10-10",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way/2026-10-13/19:30",
+    "production_id": "staatsoper-stuttgart/i-did-it-my-way",
+    "date": "2026-10-13",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way/2026-10-24/19:30",
+    "production_id": "staatsoper-stuttgart/i-did-it-my-way",
+    "date": "2026-10-24",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/i-did-it-my-way/2026-10-25/19:00",
+    "production_id": "staatsoper-stuttgart/i-did-it-my-way",
+    "date": "2026-10-25",
     "time": "19:00",
     "status": "scheduled"
   },
@@ -315,9 +497,72 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/kostuemverkauf/2026-10-10/10:00",
+    "production_id": "staatsoper-stuttgart/kostuemverkauf",
+    "date": "2026-10-10",
+    "time": "10:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/libretti-lesen/2026-06-23/19:00",
     "production_id": "staatsoper-stuttgart/libretti-lesen",
     "date": "2026-06-23",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/libretti-lesen/2026-10-06/19:00",
+    "production_id": "staatsoper-stuttgart/libretti-lesen",
+    "date": "2026-10-06",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-03/18:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-03",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-09/19:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-09",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-11/18:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-11",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-15/19:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-15",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-18/14:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-18",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-20/19:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-20",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/lucia-di-lammermoor/2026-10-23/19:00",
+    "production_id": "staatsoper-stuttgart/lucia-di-lammermoor",
+    "date": "2026-10-23",
     "time": "19:00",
     "status": "scheduled"
   },
@@ -350,6 +595,13 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/oper-am-mittag/2026-10-06/13:00",
+    "production_id": "staatsoper-stuttgart/oper-am-mittag",
+    "date": "2026-10-06",
+    "time": "13:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/oper-meets-hiphop-2025-26/2026-06-27/19:30",
     "production_id": "staatsoper-stuttgart/oper-meets-hiphop-2025-26",
     "date": "2026-06-27",
@@ -357,10 +609,31 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/opernlab-zu-lady-macbeth-von-mzensk/2026-10-31/14:00",
+    "production_id": "staatsoper-stuttgart/opernlab-zu-lady-macbeth-von-mzensk",
+    "date": "2026-10-31",
+    "time": "14:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/rikas/2026-07-04/19:30",
     "production_id": "staatsoper-stuttgart/rikas",
     "date": "2026-07-04",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/sing-along/2026-10-18/19:30",
+    "production_id": "staatsoper-stuttgart/sing-along",
+    "date": "2026-10-18",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/singend-durch-den-spielplan/2026-09-20/13:30",
+    "production_id": "staatsoper-stuttgart/singend-durch-den-spielplan",
+    "date": "2026-09-20",
+    "time": "13:30",
     "status": "scheduled"
   },
   {
@@ -375,6 +648,13 @@
     "production_id": "staatsoper-stuttgart/songs-airs-vol-ii-x-join",
     "date": "2026-06-13",
     "time": "16:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/staatsoper-goes-raetsche/2026-10-21/19:00",
+    "production_id": "staatsoper-stuttgart/staatsoper-goes-raetsche",
+    "date": "2026-10-21",
+    "time": "19:00",
     "status": "scheduled"
   },
   {
@@ -399,10 +679,66 @@
     "status": "scheduled"
   },
   {
+    "id": "staatsoper-stuttgart/teetechno/2026-09-27/11:00",
+    "production_id": "staatsoper-stuttgart/teetechno",
+    "date": "2026-09-27",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/teetechno/2026-10-09/11:00",
+    "production_id": "staatsoper-stuttgart/teetechno",
+    "date": "2026-10-09",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/teetechno/2026-10-11/11:00",
+    "production_id": "staatsoper-stuttgart/teetechno",
+    "date": "2026-10-11",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatsoper-stuttgart/the-littmann-sessions-2025-26/2026-07-13/19:30",
     "production_id": "staatsoper-stuttgart/the-littmann-sessions-2025-26",
     "date": "2026-07-13",
     "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/theaterfest-am-eckensee/2026-09-20/11:00",
+    "production_id": "staatsoper-stuttgart/theaterfest-am-eckensee",
+    "date": "2026-09-20",
+    "time": "11:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/tosca/2026-10-04/18:00",
+    "production_id": "staatsoper-stuttgart/tosca",
+    "date": "2026-10-04",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/tosca/2026-10-14/19:00",
+    "production_id": "staatsoper-stuttgart/tosca",
+    "date": "2026-10-14",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/tosca/2026-10-17/19:00",
+    "production_id": "staatsoper-stuttgart/tosca",
+    "date": "2026-10-17",
+    "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/tosca/2026-10-21/19:00",
+    "production_id": "staatsoper-stuttgart/tosca",
+    "date": "2026-10-21",
+    "time": "19:00",
     "status": "scheduled"
   },
   {
@@ -452,6 +788,13 @@
     "production_id": "staatsoper-stuttgart/turandot",
     "date": "2026-07-18",
     "time": "19:00",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatsoper-stuttgart/zu-gast-beim-beethovenfest/2026-10-02/19:30",
+    "production_id": "staatsoper-stuttgart/zu-gast-beim-beethovenfest",
+    "date": "2026-10-02",
+    "time": "19:30",
     "status": "scheduled"
   }
 ]

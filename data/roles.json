@@ -1,5 +1,15 @@
 [
   {
+    "slug": "1-akademiekonzert/orchester",
+    "work_slug": "1-akademiekonzert",
+    "name": "Orchester"
+  },
+  {
+    "slug": "1-akademiekonzert/sopran",
+    "work_slug": "1-akademiekonzert",
+    "name": "Sopran"
+  },
+  {
     "slug": "1-kammer-shy-konzert/fagott",
     "work_slug": "1-kammer-shy-konzert",
     "name": "Fagott"
@@ -40,6 +50,11 @@
     "name": "Klavier"
   },
   {
+    "slug": "1-sinfoniekonzert-werke-von-unsuk-chin-edward-elgar-und-richard-strauss/violoncello",
+    "work_slug": "1-sinfoniekonzert-werke-von-unsuk-chin-edward-elgar-und-richard-strauss",
+    "name": "Violoncello"
+  },
+  {
     "slug": "10-philharmo-shy-nisches-konzert/orgel",
     "work_slug": "10-philharmo-shy-nisches-konzert",
     "name": "Orgel"
@@ -48,6 +63,11 @@
     "slug": "10-philharmo-shy-nisches-konzert/violine",
     "work_slug": "10-philharmo-shy-nisches-konzert",
     "name": "Violine"
+  },
+  {
+    "slug": "100-jahre-hans-werner-henze/orchester",
+    "work_slug": "100-jahre-hans-werner-henze",
+    "name": "Orchester"
   },
   {
     "slug": "2-kammer-shy-konzert/viola",
@@ -793,6 +813,21 @@
     "slug": "alban-berg/wozzeck/zweiter-handwerksbursch",
     "work_slug": "alban-berg/wozzeck",
     "name": "Zweiter Handwerksbursch"
+  },
+  {
+    "slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise/chordirektor",
+    "work_slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise",
+    "name": "Chordirektor"
+  },
+  {
+    "slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise/klavier",
+    "work_slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise",
+    "name": "Klavier"
+  },
+  {
+    "slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise/orchester",
+    "work_slug": "albert-galindo-und-luis-tena-torres-zu-mu/eine-winterreise",
+    "name": "Orchester"
   },
   {
     "slug": "albert-lortzing/der-waffenschmied/ballett",
@@ -3188,6 +3223,21 @@
     "slug": "babykonzert-musikalische-komodie/orchester",
     "work_slug": "babykonzert-musikalische-komodie",
     "name": "Orchester"
+  },
+  {
+    "slug": "baek-hee-na-ulrike-stock/mondeis-4/buhne-kostum",
+    "work_slug": "baek-hee-na-ulrike-stock/mondeis-4",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "baek-hee-na-ulrike-stock/mondeis-4/kunst-vermittlung",
+    "work_slug": "baek-hee-na-ulrike-stock/mondeis-4",
+    "name": "Kunst & Vermittlung"
+  },
+  {
+    "slug": "baek-hee-na-ulrike-stock/mondeis-4/regieassistenz",
+    "work_slug": "baek-hee-na-ulrike-stock/mondeis-4",
+    "name": "Regieassistenz"
   },
   {
     "slug": "baldassare-galuppi/l-uomo-femina/cassandra",
@@ -9233,6 +9283,11 @@
     "slug": "eine-hommage-an-mevlude-genc/dinge-uber-leben/musikalische-leitung-und-sounddesign",
     "work_slug": "eine-hommage-an-mevlude-genc/dinge-uber-leben",
     "name": "Musikalische Leitung und Sounddesign"
+  },
+  {
+    "slug": "eine-reise-durchs-opernhaus-musik-von-ludwig-van-beethoven-gordon-kampe-giacomo-puccini-dora-pejacevic-giuseppe-verdi-dmitri-schostakowitsch-franz-schubert-und-richard-strauss/mit",
+    "work_slug": "eine-reise-durchs-opernhaus-musik-von-ludwig-van-beethoven-gordon-kampe-giacomo-puccini-dora-pejacevic-giuseppe-verdi-dmitri-schostakowitsch-franz-schubert-und-richard-strauss",
+    "name": "mit"
   },
   {
     "slug": "eine-wohnzimmeroper/alles-was-wir-sein-konnten/gesang",
@@ -17640,6 +17695,11 @@
     "name": "Chor"
   },
   {
+    "slug": "giacomo-puccini/tosca/chor-kinderchor",
+    "work_slug": "giacomo-puccini/tosca",
+    "name": "Chor & Kinderchor"
+  },
+  {
     "slug": "giacomo-puccini/tosca/chore",
     "work_slug": "giacomo-puccini/tosca",
     "name": "Chöre"
@@ -20613,6 +20673,66 @@
     "slug": "giuseppe-giacosa/madama-butterfly/yakuside",
     "work_slug": "giuseppe-giacosa/madama-butterfly",
     "name": "Yakusidé"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/chordirektor",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Chordirektor"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/ein-hauptmann-der-bogenschutzen",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Ein Hauptmann der Bogenschützen"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/eine-magd",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Eine Magd"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/extrachor",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Extrachor"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/gabriele-adorno",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Gabriele Adorno"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/jacopo-fiesco-andrea",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Jacopo Fiesco/Andrea"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/orchester",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Orchester"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/paolo-albiani",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Paolo Albiani"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/pietro",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Pietro"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/simon-boccanegra",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Simon Boccanegra"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/statisterie",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "Statisterie"
+  },
+  {
+    "slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra/unter-dem-namen-amelia-grimaldi",
+    "work_slug": "giuseppe-verdi-libretto-von-francesco-m/simon-boccanegra",
+    "name": "unter dem Namen Amelia Grimaldi"
   },
   {
     "slug": "giuseppe-verdi-melodramma-in-tre-atti/la-traviata/alfredo-germont",
@@ -24300,6 +24420,51 @@
     "name": "Violetta Valéry"
   },
   {
+    "slug": "goethe/faust/berater-outside-eye",
+    "work_slug": "goethe/faust",
+    "name": "Berater / Outside-Eye"
+  },
+  {
+    "slug": "goethe/faust/buhne-kostum",
+    "work_slug": "goethe/faust",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "goethe/faust/die-hexe-lieschen-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Die Hexe / Lieschen / Naturgeist"
+  },
+  {
+    "slug": "goethe/faust/faust-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Faust / Naturgeist"
+  },
+  {
+    "slug": "goethe/faust/margarete-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Margarete / Naturgeist"
+  },
+  {
+    "slug": "goethe/faust/marthe-baubo-baucis-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Marthe / Baubo / Baucis / Naturgeist"
+  },
+  {
+    "slug": "goethe/faust/mephistopheles-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Mephistopheles / Naturgeist"
+  },
+  {
+    "slug": "goethe/faust/musik",
+    "work_slug": "goethe/faust",
+    "name": "Musik"
+  },
+  {
+    "slug": "goethe/faust/theaterdirektor-mutter-philemon-naturgeist",
+    "work_slug": "goethe/faust",
+    "name": "Theaterdirektor / Mutter / Philemon / Naturgeist"
+  },
+  {
     "slug": "gordon-kampe/stortebeker/alfie-kunigunde",
     "work_slug": "gordon-kampe/stortebeker",
     "name": "Alfie / Kunigunde"
@@ -24823,6 +24988,21 @@
     "slug": "gyorgy-ranki/king-pomade-s-new-cothes/king-pomade",
     "work_slug": "gyorgy-ranki/king-pomade-s-new-cothes",
     "name": "King Pomádé"
+  },
+  {
+    "slug": "halloween-special/kunst-vermittlung",
+    "work_slug": "halloween-special",
+    "name": "Kunst & Vermittlung"
+  },
+  {
+    "slug": "halloween-special/moderation",
+    "work_slug": "halloween-special",
+    "name": "Moderation"
+  },
+  {
+    "slug": "halloween-special/orchester",
+    "work_slug": "halloween-special",
+    "name": "Orchester"
   },
   {
     "slug": "haniel-klassik-open-air/moderation",
@@ -31855,6 +32035,16 @@
     "name": "Yelena/Mikhaels Mutter"
   },
   {
+    "slug": "lara-kaiser-urauffuhrung/schaum-ich-an-2/buhne-kostum",
+    "work_slug": "lara-kaiser-urauffuhrung/schaum-ich-an-2",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "lara-kaiser-urauffuhrung/schaum-ich-an-2/regieassistenz",
+    "work_slug": "lara-kaiser-urauffuhrung/schaum-ich-an-2",
+    "name": "Regieassistenz"
+  },
+  {
     "slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one/hannah-older",
     "work_slug": "laura-kaminsky-mark-campbell-kimberly-reed/as-one",
     "name": "Hannah Older"
@@ -32938,6 +33128,71 @@
     "slug": "leos-janacek/die-sache-makropulos-vec-makropulos/mit",
     "work_slug": "leos-janacek/die-sache-makropulos-vec-makropulos",
     "name": "Mit"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/chor-kinderchor",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Chor & Kinderchor"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/dackel-specht",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Dackel / Specht"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/forster",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Förster"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/frau-forsterin-eule",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Frau Försterin / Eule"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/frau-pasek-eichelhaher",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Frau Pasek / Eichelhäher"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/fuchs",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Fuchs"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/fuchsin",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Füchsin"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/hahn",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Hahn"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/haraschta",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Haraschta"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/herr-pasek",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Herr Pasek"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/lehrer-mucke",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Lehrer / Mücke"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/pfarrer-dachs",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Pfarrer / Dachs"
+  },
+  {
+    "slug": "leos-janacek/die-schlaue-fuchsin/schopfhenne",
+    "work_slug": "leos-janacek/die-schlaue-fuchsin",
+    "name": "Schopfhenne"
   },
   {
     "slug": "leos-janacek/jenufa/a-shepherdess",
@@ -34575,6 +34830,11 @@
     "name": "Wirtsleute"
   },
   {
+    "slug": "marcela-herrera-urauffuhrung/freche-flache-2/kunst-vermittlung",
+    "work_slug": "marcela-herrera-urauffuhrung/freche-flache-2",
+    "name": "Kunst & Vermittlung"
+  },
+  {
     "slug": "marco-podda/l-oro-del-diavolo/davolo",
     "work_slug": "marco-podda/l-oro-del-diavolo",
     "name": "Davolo"
@@ -34863,6 +35123,36 @@
     "slug": "marshall-brickman-rick-elice/the-addams-family/wednesday-addams",
     "work_slug": "marshall-brickman-rick-elice/the-addams-family",
     "name": "Wednesday Addams"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/buhne-kostum",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/dramaturgische-beratung",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Dramaturgische Beratung"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/kunst-vermittlung",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Kunst & Vermittlung"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/mitarbeit-choreografie",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Mitarbeit Choreografie"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/musikalische-leitung-arrangement",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Musikalische Leitung & Arrangement"
+  },
+  {
+    "slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10/regieassistenz",
+    "work_slug": "martin-nachbar-urauffuhrung/my-funny-valentine-10",
+    "name": "Regieassistenz"
   },
   {
     "slug": "martin-nachbar-urauffuhrung/wenn-ich-s-nicht-tanzen-kann-fuhl-ich-s-nicht-7/buhne-kostum",
@@ -36928,6 +37218,36 @@
     "slug": "nikolai-rimsky-korsakov/the-tsar-s-bride/yelisey-bomelius",
     "work_slug": "nikolai-rimsky-korsakov/the-tsar-s-bride",
     "name": "Yelisey Bomelius"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/arrangements",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Arrangements"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/buhne-und-lichtdesign",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Bühne und Lichtdesign"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/dramaturgische-beratung",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Dramaturgische Beratung"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/mit",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Mit"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/orchestrierung",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Orchestrierung"
+  },
+  {
+    "slug": "nina-simone-und-frank-sinatra/i-did-it-my-way/sounddesign",
+    "work_slug": "nina-simone-und-frank-sinatra/i-did-it-my-way",
+    "name": "Sounddesign"
   },
   {
     "slug": "nino-rota/der-florentiner-hut/achille-di-rosalba",
@@ -46320,6 +46640,26 @@
     "name": "Musiker"
   },
   {
+    "slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot/helge",
+    "work_slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot",
+    "name": "Helge"
+  },
+  {
+    "slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot/nora",
+    "work_slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot",
+    "name": "Nora"
+  },
+  {
+    "slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot/tom",
+    "work_slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot",
+    "name": "Tom"
+  },
+  {
+    "slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot/vera",
+    "work_slug": "sibylle-berg/ein-paar-leute-suchen-das-gluck-und-lachen-sich-tot",
+    "name": "Vera"
+  },
+  {
     "slug": "signaturen/arrangement",
     "work_slug": "signaturen",
     "name": "Arrangement"
@@ -46408,6 +46748,11 @@
     "slug": "silvester-shy-konzert/jazz-klavier-und-gesang",
     "work_slug": "silvester-shy-konzert",
     "name": "Jazz-Klavier und Gesang"
+  },
+  {
+    "slug": "sing-along/klavier",
+    "work_slug": "sing-along",
+    "name": "Klavier"
   },
   {
     "slug": "sir-arthur-sullivan/the-pirates-of-penzance/assistant-stage-director",
@@ -52428,6 +52773,21 @@
     "slug": "zsofia-taller/leander-and-linseed/queen-baldemar",
     "work_slug": "zsofia-taller/leander-and-linseed",
     "name": "Queen Baldemar"
+  },
+  {
+    "slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/hunding",
+    "work_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner",
+    "name": "Hunding"
+  },
+  {
+    "slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/sieglinde",
+    "work_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner",
+    "name": "Sieglinde"
+  },
+  {
+    "slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner/siegmund",
+    "work_slug": "zu-gast-beim-beethovenfest-werke-von-kaija-saariaho-franz-schubert-und-richard-wagner",
+    "name": "Siegmund"
   },
   {
     "slug": "zusammen-leipzig-madrid-zwei-chore-ein-klang/chore",
