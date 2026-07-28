@@ -1973,7 +1973,7 @@
     "premiere_date": "2017-03-01",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/5/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/not_love_alone/love_alone_en.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/not_love_alone/netolkolubov_atrofimov_sergeevae_scene_by_razina.jpg",
     "synopsis": "The action takes place in a Soviet village after the war. Act I Peasants on the collective farm are sitting around idly; it is raining and it is impossible to continue work in the fields. Volodya Gavrilov, Natasha’s fiancé, returns home to the village. He has studied and worked in the city. The lads in the village give him a cool reception. The subsequent fight is stopped by the chair of the collective farm Varvara Vasilievna. All take their separate ways. Varvara is overcome with doubt: she is strict with those she manages, but she cannot control the weather on which the harvest depends. Speaking with Volodya, she tries to discover his plans as there is insufficient manpower in the village. Act II The young people assemble for an evening of festivities. The girls and the boys, competing against each other, sing limericks. Representatives of the collective farm’s initiative group appear, performing an awkward march after which Gavrilov speaks. The gloomy moralists from the initiative group scorn everything that is urban, and amid the accusations is the retort “Muddle instead of music!” Volodya sings lyrical couplets with the girls. Varvara has come for the quadrille which she dances with Volodya to whom she has taken a fancy. After the festivities, Varvara anxiously returns home, followed by Volodya who does not hide his feelings (“I’ll smother you with kisses, you lie, you won’t get away.”) The dialogue is interrupted by the brigadier of the tractor-drivers Fedot Petrovich. Varvara drives her protector away and she and Volodya agree to meet. Act III On the way to her rendezvous, Varvara bumps into Natasha who sings the nostalgic song The Hazily Beautiful Sun. The chair gives her usual commands, giving her rival her marching orders. But as she awaits Volodya she begins to doubt her own actions. She hears the words of a limerick which one of the village girls sings: “Oh, how quiet is the night, not far from sin. Let me be escorted by another’s fiancé.” Varvara is lik",
     "creative_team": [
       {
@@ -1997,7 +1997,24 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andrei-serov",
+        "role_slug": "rodion-shchedrin/not-love-alone/fedot-petrovich"
+      },
+      {
+        "person_slug": "anastasia-donets",
+        "role_slug": "rodion-shchedrin/not-love-alone/natasha"
+      },
+      {
+        "person_slug": "yekaterina-sergeyeva",
+        "role_slug": "rodion-shchedrin/not-love-alone/varvara-vasilievna"
+      },
+      {
+        "person_slug": "alexander-trofimov",
+        "role_slug": "rodion-shchedrin/not-love-alone/volodya-gavrilov"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-obruchenie-v-m",
@@ -2271,7 +2288,7 @@
     "premiere_date": "2015-05-27",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/5/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/_banner.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/pdame2015/borodina_pikovay_dama_by_vilchuk.jpg",
     "synopsis": "Act I Scene One The Summer Garden in springtime. Two officers, Chekalinsky and Surin, are concerned about the fortunes of their friend Herman, who visits gambling halls every evening, despite the fact that he does not play because he is so poor. Herman turns up, accompanied by Count Tomsky, to whom he explains the reason for his strange behaviour: he is in love with a girl to whom he has not yet been introduced, and wants to win a large sum of money in order to marry her (“I do not know her name”). Chekalinsky and Surin congratulate the Prince Yeletsky on his forthcoming marriage. An old Countess is walking in the garden with the very girl whom Herman loves. Upon finding out that she is the Prince&acute;s fiancée, he is deeply shaken. The women are frightened by his appearance (“I&acute;m frightened”). Tomsky tells the story of the old Countess&acute; past in Paris. Count Saint-Germain showed her three winning cards. The officers laugh at Herman, and advise him to tempt fate while Herman vows to fight for his love. Scene Two Liza&acute;s room. She is singing with her friend Polina (“Oh, what an evening”). Left alone, Liza reveals her feelings: the Prince loves her, but she cannot forget the passionate gaze of the stranger in the garden (“Where are these tears from?” “Oh, listen, oh, night”). As if he had heard her calling, Herman appears on the balcony. He threatens to kill himself because Liza is promised to another, and tells her that no-one loves her as passionately as he does (“Forgive me, heavenly creature”). The Countess enters, and Liza hides the love-struck Herman. Like a man possessed, Herman starts to search for the three cards. Having been with Liza, he realises he is happy only when he is with her. Act II Scene Three A masquerade at the home of a high official. Yeletsky assures Liza of his love (“I love thee”). Herman continues to be haunted by thoughts of the three cards. A musical intermezzo-pastorale begins (“My dear little friend”). After it ends, Li",
     "creative_team": [
       {
@@ -2671,7 +2688,7 @@
     "premiere_date": "2014-10-29",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/6/2_1300/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/siviglia_maratra/banner_eng.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/siviglia_maratra/sivil_voropaev_by_vilchuk.jpg",
     "synopsis": "Act I Scene 1 A square in Seville early in the morning. In front of Dr Bartolo’s house Count Almaviva and a group of musicians are serenading the Count’s beloved Rosina. Rosina, however, does not appear – she is under the strict supervision of her guardian who himself dreams of marrying his ward and taking possession of her dowry. The barber Figaro appears, an old acquaintance of the Count. On discovering that Almaviva is in love with Rosina, the barber resolves to offer his assistance – after all, Figaro is a welcome guest at Bartolo’s house where he is a barber, doctor and even a botanist. Rosina finally succeeds in throwing a note to the Count from her balcony. Almaviva does not wish to reveal his noble standing, and Figaro advises him to claim he is a student called Lindoro. He then suggests the Count pretend to be a drunken soldier and demand lodgings in Bartolo’s house. Scene 2 A room in Bartolo’s house. Rosina is dreaming of Lindoro. Don Basilio, who is teaching Rosina a song, on discovering the fervent emotions of Count Almaviva resolves to warn Dr Bartolo and advises him to slander his rival in front of Rosina and society at large. The appearance of a drunken soldier (Almaviva in disguise) enrages Bartolo. The doctor sees that the “soldier” is trying to pass a note to Rosina. Chaos ensues and soldiers rush in to restore order, but when the Count quietly mentions his name to the officer, the latter respectfully welcomes him among the general amazement. Act II Scene 1 Bartolo is sitting in his study. A young man appears and says his name is Don Alonso – he has come to give a music lesson to Rosina instead of Basilio who has fallen ill. Once again it is the Count in disguise. Rosina settles down to study with greater enthusiasm than usual. At the same time the “sham patient” arrives and Figaro again comes to assist – he gives Don Basilio a terrible diagnosis – “scarlatina!” and convinces him to return home and go to bed immediately. During the music lesson Bar",
     "creative_team": [
       {
@@ -2687,7 +2704,32 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "edem-umerov",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/bartolo"
+      },
+      {
+        "person_slug": "denis-begansky",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/basilio"
+      },
+      {
+        "person_slug": "irma-gigolaty",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/bertha"
+      },
+      {
+        "person_slug": "dmitry-voropaev",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/count-almaviva"
+      },
+      {
+        "person_slug": "vladimir-moroz",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/figaro"
+      },
+      {
+        "person_slug": "tsvetana-omeltchuk",
+        "role_slug": "gioachino-rossini/il-barbiere-di-siviglia/rosina"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-solovey",
@@ -2973,7 +3015,7 @@
     "premiere_date": "2009-05-01",
     "is_revival": false,
     "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/7/3_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/figaro_kravets_ulanov_byvilchuk.jpg",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/svadbafig_petrov/figaro_romanov_kravets_by_vilchuk.jpg",
     "synopsis": "Act I Merry wedding preparations are underway at the home of Count Almaviva. Count Almaviva’s valet is marrying Susanna, the Countess’ maidservant. The impending festivities bring the Count no joy whatsoever: he has taken a fancy to the bride-to-be himself and is looking for some reason to prevent the marriage. Susanna anxiously tells her future husband of the Count’s amorous intentions. Figaro is ready to employ all his cunning and inventiveness to ruin his master’s machinations. The convivial Figaro, however, has many enemies. To this day, old Bartolo has been unable to forget his former barber’s cunning, aiding the Count to marry his ward Rosina. The ageing housekeeper Marcellina dreams of marrying Figaro herself. Both Bartolo and she hope that the Count, frustrated by Susanna’s uncompromising nature, will help them. Marcellina greets Susanna with ceremonious curtsies and spiteful compliments. Susanna merrily and wittily laughs at the shrewish old woman. Cherubino appears. The young page is in love with every woman in the castle. He idolises the Countess, but is not averse to making advances to Susanna to whom he has come to share his woes – the Count found him with Barbarina, the gardener’s daughter, and has driven him from the castle. The Count arrives unexpectedly, forcing Cherubino to hide. The Count again begs Susanna to accept his overtures, but the amorous grandee’s declarations are interrupted by a knock at the door – it is the scheming Basilio. The Count’s jealousy has been roused by the old gossip’s hints at Cherubino’s love for the Countess. Enraged, he tells Susanna and Bartolo of the page’s tricks and then suddenly spots Cherubino in his hiding place. The Count’s fury knows no bounds. Cherubino is immediately ordered to enlist in the army. Figaro consoles him. Act II The Countess is distressed at her husband’s indifference. Susanna’s tale of his infidelity wounds her to the quick. Sincerely empathetic towards her maidservant and her groom, the Counte",
     "creative_team": [
       {
@@ -2997,7 +3039,36 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "nikolai-kamensky",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/bartolo"
+      },
+      {
+        "person_slug": "daria-riabokon",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/cherubino"
+      },
+      {
+        "person_slug": "sergei-romanov",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/count-almaviva"
+      },
+      {
+        "person_slug": "yekaterina-latysheva",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "vadim-kravets",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/figaro"
+      },
+      {
+        "person_slug": "anna-knyazeva",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/marcellina"
+      },
+      {
+        "person_slug": "anna-denisova",
+        "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-toska",

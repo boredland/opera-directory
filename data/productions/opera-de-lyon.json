@@ -1436,6 +1436,61 @@
     ]
   },
   {
+    "id": "opera-de-lyon/opera-de-lyon-2025-2026-le-sang-du-glacier-saint-jean-de-maurienne",
+    "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
+    "house_slug": "opera-de-lyon",
+    "is_revival": false,
+    "detail_url": "https://www.opera-lyon.com/fr/programmation/saison-2025-2026/opera/le-sang-du-glacier-saint-jean-de-maurienne",
+    "creative_team": [
+      {
+        "person_slug": "mathieu-trappler",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "angelique-clairand",
+        "function": "director"
+      },
+      {
+        "person_slug": "catherine-ailloud-nicolas",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "yoann-tivoli",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "stephan-zimmerli",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "philippe-bourlois",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/accordeon"
+      },
+      {
+        "person_slug": "rose-pollier-meliodon",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/harpe"
+      },
+      {
+        "person_slug": "lucie-verot-solaure",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/librettiste"
+      },
+      {
+        "person_slug": "martin-queval",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/matteo-le-pere"
+      },
+      {
+        "person_slug": "heloise-poulet",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/sofia"
+      },
+      {
+        "person_slug": "lila-beauchard",
+        "role_slug": "claire-melanie-sinnhuber/le-sang-du-glacier/violoncelle"
+      }
+    ]
+  },
+  {
     "id": "opera-de-lyon/opera-de-lyon-2025-2026-le-sang-du-glacier-serezin-du-rhone",
     "work_slug": "claire-melanie-sinnhuber/le-sang-du-glacier",
     "house_slug": "opera-de-lyon",

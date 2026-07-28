@@ -170,6 +170,181 @@
     ]
   },
   {
+    "id": "sofia-opera/sofia-opera-1057",
+    "work_slug": "archpriest-kiril-popov/the-hermit-of-rila",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1057",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "zhorzh-dimitrov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "marta-mironska",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "nela-stoyanova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "tihomir-pavlov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/lyrics"
+      },
+      {
+        "person_slug": "georgi-strezov",
+        "role_slug": "archpriest-kiril-popov/the-hermit-of-rila/orchestration"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1058",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1058",
+    "creative_team": [
+      {
+        "person_slug": "antoaneta-aleksieva",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "svetlin-ivelinov",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alexander-mitev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "zhorzh-dimitrov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "miodrag-tabachki",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "henri-meilhac",
+        "role_slug": "georges-bizet/carmen/libtertto"
+      },
+      {
+        "person_slug": "ludovic-halevy",
+        "role_slug": "georges-bizet/carmen/libtertto"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1059",
+    "work_slug": "giuseppe-verdi/macbeth",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1059",
+    "creative_team": [
+      {
+        "person_slug": "riolina-topalova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alexander-mitev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "grigor-palikarov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vera-petrova",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "francesco-maria-piave",
+        "role_slug": "giuseppe-verdi/macbeth/libtertto"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1060",
+    "work_slug": "giacomo-puccini/tosca",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1060",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alexander-mitev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sunai-muratov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "leo-kulash",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "miodrag-tabachki",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "sofia-opera/sofia-opera-420",
     "work_slug": "lubomir-pipkov/yana-s-nine-brothers",
     "house_slug": "sofia-opera",
