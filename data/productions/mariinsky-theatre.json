@@ -1877,6 +1877,43 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-mertvue-dushi",
+    "work_slug": "rodion-shchedrin/dead-souls",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2011-03-18",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/16/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/mertvue_dushi/_md_new_eng.jpg",
+    "synopsis": "Act I Scene 1. Introduction. We hear the song The Snow Is not White , performed in the Russian folk style. Scene 2. Lunch at the Procurator’s. The dignitaries of the town of N are giving a lunch in honour of Pavel Ivanovich Chichikov, attended by Manilov, Sobakevich, Nozdryov, Mizhuev, the Governor, the Procurator, the Chairman of the Chamber, the Chief of Police and the Post Master. “Vivat, Pavel Ivanovich,” the town’s dignitaries proclaim in chorus, in turn treating Chichikov and speaking of their admiration for him. In turn, Chichikov lavishes compliments on the “town fathers”. Scene 3. The Road. A britzka makes its way along the road. Selifan is sitting on the coach-box, while Chichikov is in the carriage. Selifan sings the song Hey-Hey, My Hearties! He asks two approaching peasants “Is it far to Zamanilovka?” They reply that it is one verst to Manilovka, and that there is no such place as Zamanilovka. The britzka travels onwards. Scene 4. Manilov. The hospitable Manilov and his wife welcome Chichikov. “May Day... The name day of the heart…” Manilov sings tenderly, and croons an arioso in praise of his guest. Taking Manilov to one side, Chichikov offers to sell him dead souls. Manilov is taken aback and expresses doubt: “Will not such trade be at odds with Russia’s prospects?” But Chichikov easily explains that the opposite is the case. The Manilovs and their guest dream of the joys of life aloud. Suddenly Manilov notices that Chichikov has already disappeared. He stops and ponders: “Dead souls?” Scene 5. A Pot-Holed Road. On the road again. Selifan complains of the infernal darkness, Chichikov suggests looking to determine if the village can be seen. Bring, oh God, a Thunderous Cloud, sings the chorus. Scene 6. Korobochka. A room in the house of Korobochka. Korobochka laments the “poor harvests and losses”, telling Chichikov what wonderful workers have died recently. Suddenly Chichikov makes his offer: “Release them to me.” Initially Korobochka cannot make head",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maria-danilova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vasily-barkhatov",
+        "function": "director"
+      },
+      {
+        "person_slug": "damir-ismagilov",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "zinovy-margolin",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-nabucco-2023",
     "work_slug": "giuseppe-verdi/nabucco",
     "house_slug": "mariinsky-theatre",
@@ -3076,8 +3113,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2007-05-31",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/28/2_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/toska/tosca_gerzmava_by_razina.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/29/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/toska/_banner_tosca_eng.jpg",
     "synopsis": "The Church of Sant’Andrea della Valle, Rome Angelotti, former Consul of the Republic of Rome and now a political prisoner who has escaped from prison, enters exhausted. He hides in the chapel of his sister, the Marchesa Attavanti. The artist Cavaradossi is working on an image of Mary Magdalene. The Sacristan is shocked that the painting resembles a woman in his congregation. Cavaradossi denies the resemblance: only Tosca occupies his thoughts and his brush could paint the features of no-one else. After the Sacristan leaves Angelotti emerges from the chapel. He knows the artist and trusts him, and so he begs for assistance. Hearing Tosca’s voice, he hides again. The singer notices the painting of Mary Magdalene resembles the Marchesa Attavanti. Tosca’s jealousy erupts but the artist manages to pacify her. Floria leaves and Cavaradossi offers the fugitive refuge in his home. Gunshots are heard – the escape has been discovered. The men hurry away. A celebratory mass begins. Scarpia, chief of police of Rome, and police agent Spoletta are among the worshippers. They are interested in the Attavanti Chapel where they expect to discover Angelotti, but find a fan left there by the Marchesa and an empty food basket. Seeing Tosca return to the church in the hopes of seeing her beloved again, Scarpia decides to seize his opportunity. He cunningly provokes Floria’s jealousy. When she runs out of the church, Scarpia sends police agents after her, believing that the infuriated Tosca will lead them to the artist’s secret hiding place. The Farnese Palace Scarpia is in his apartments awaiting news from his agents. His expectations are only half fulfilled: Tosca did lead them to Cavaradossi who has now been arrested but Angelotti remains at liberty. Scarpia hopes to torture the artist into revealing the truth and orders Tosca be brought to him. The chief of police himself begins Cavaradossi’s interrogation but to no avail. The artist manages to whisper to Tosca to keep the secret at a",
     "creative_team": [
       {
@@ -3099,15 +3136,15 @@
     ],
     "cast": [
       {
-        "person_slug": "vladislav-sulimsky",
+        "person_slug": "alexey-markov",
         "role_slug": "giacomo-puccini/tosca/baron-scarpia"
       },
       {
-        "person_slug": "hibla-gerzmava",
+        "person_slug": "inara-kozlovskaya",
         "role_slug": "giacomo-puccini/tosca/floria-tosca"
       },
       {
-        "person_slug": "sergei-skorokhodov",
+        "person_slug": "roman-shirokikh",
         "role_slug": "giacomo-puccini/tosca/mario-cavaradossi"
       }
     ]

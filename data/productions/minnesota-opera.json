@@ -175,5 +175,43 @@
         "role_slug": "giuseppe-verdi/falstaff/sir-john-falstaff"
       }
     ]
+  },
+  {
+    "id": "minnesota-opera/minnesota-opera-32717",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "house_slug": "minnesota-opera",
+    "is_revival": false,
+    "detail_url": "https://mnopera.org/season/2026-2027/my-name-is-florence-encore-concert/",
+    "creative_team": [],
+    "cast": [
+      {
+        "person_slug": "flora-hawk",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/florence-beatrice-price"
+      },
+      {
+        "person_slug": "deborah-nansteel",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/granny"
+      },
+      {
+        "person_slug": "kara-morgan",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/jane"
+      },
+      {
+        "person_slug": "arianna-rodriguez",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/lo-lo"
+      },
+      {
+        "person_slug": "john-mburu",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/pay-jay"
+      },
+      {
+        "person_slug": "angel-vargas",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/professor-chadwick"
+      },
+      {
+        "person_slug": "denali-massie",
+        "role_slug": "b-e-boykin/my-name-is-florence-encore-concert/young-beatrice"
+      }
+    ]
   }
 ]

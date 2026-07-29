@@ -1535,6 +1535,16 @@
     "name": "Unter der Leitung von"
   },
   {
+    "slug": "altstadtkonzert/mit",
+    "work_slug": "altstadtkonzert",
+    "name": "Mit"
+  },
+  {
+    "slug": "altstadtkonzert/moderation",
+    "work_slug": "altstadtkonzert",
+    "name": "Moderation"
+  },
+  {
     "slug": "ambroise-thomas/hamlet/claudius",
     "work_slug": "ambroise-thomas/hamlet",
     "name": "Claudius"
@@ -3213,6 +3223,41 @@
     "slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume/szenische-einrichtung",
     "work_slug": "axel-ranisch-und-adam-benzwi/mokka-hits-und-milchbar-traume",
     "name": "Szenische Einrichtung"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/florence-beatrice-price",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Florence Beatrice Price"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/granny",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Granny"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/jane",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Jane"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/lo-lo",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Lo-Lo"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/pay-jay",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Pay Jay"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/professor-chadwick",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Professor Chadwick"
+  },
+  {
+    "slug": "b-e-boykin/my-name-is-florence-encore-concert/young-beatrice",
+    "work_slug": "b-e-boykin/my-name-is-florence-encore-concert",
+    "name": "Young Beatrice"
   },
   {
     "slug": "babykonzert-musikalische-komodie/krokodil-konrad",
@@ -22810,6 +22855,11 @@
     "name": "Chor"
   },
   {
+    "slug": "giuseppe-verdi/luisa-miller/count-walter",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "name": "Count Walter"
+  },
+  {
     "slug": "giuseppe-verdi/luisa-miller/federica",
     "work_slug": "giuseppe-verdi/luisa-miller",
     "name": "Federica"
@@ -25608,6 +25658,36 @@
     "slug": "henrik-albrecht/heidi/orchester",
     "work_slug": "henrik-albrecht/heidi",
     "name": "Orchester"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/buhne-kostum",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/kristine-linde",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Kristine Linde"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/krogstad",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Krogstad"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/musik",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Musik"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/nora-helmer",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Nora Helmer"
+  },
+  {
+    "slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus/torvald-helmer",
+    "work_slug": "henrik-ibsen-deutsch-von-hinrich-schmid/nora-oder-ein-puppenhaus",
+    "name": "Torvald Helmer"
   },
   {
     "slug": "henrike-iglesias-hempel-urauffuhrung/hall-of-fans-13/buhne-kostum",

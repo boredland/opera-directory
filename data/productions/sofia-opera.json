@@ -345,6 +345,88 @@
     "cast": []
   },
   {
+    "id": "sofia-opera/sofia-opera-1062",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1062",
+    "creative_team": [
+      {
+        "person_slug": "riolina-topalova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "velizar-genchev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "ivan-savov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "francesco-maria-piave",
+        "role_slug": "giuseppe-verdi/la-traviata/libtertto"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1065",
+    "work_slug": "gioachino-rossini/la-cenerentola",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1065",
+    "creative_team": [
+      {
+        "person_slug": "maria-lukanova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "zhorzh-dimitrov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vera-petrova",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "boryana-angelova",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "jacopo-ferretti",
+        "role_slug": "gioachino-rossini/la-cenerentola/libtertto"
+      }
+    ]
+  },
+  {
     "id": "sofia-opera/sofia-opera-420",
     "work_slug": "lubomir-pipkov/yana-s-nine-brothers",
     "house_slug": "sofia-opera",

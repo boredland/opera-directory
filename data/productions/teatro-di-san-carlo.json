@@ -158,6 +158,83 @@
     ]
   },
   {
+    "id": "teatro-di-san-carlo/luisa-miller/2026-27",
+    "work_slug": "giuseppe-verdi/luisa-miller",
+    "house_slug": "teatro-di-san-carlo",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatrosancarlo.it/en/events/luisa-miller/",
+    "image_url": "https://www.teatrosancarlo.it/wp-content/uploads/2026/07/TSC2627_IMG_18-aspect-ratio-530-653.jpg",
+    "creative_team": [
+      {
+        "person_slug": "daniel-oren",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "giusi-giustino",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "davide-livermore",
+        "function": "director"
+      },
+      {
+        "person_slug": "nicolas-bovey",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "eleonora-peronetti",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "paolo-gep-cucco",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gabriele-sagona",
+        "role_slug": "giuseppe-verdi/luisa-miller/count-walter"
+      },
+      {
+        "person_slug": "michele-pertusi",
+        "role_slug": "giuseppe-verdi/luisa-miller/count-walter"
+      },
+      {
+        "person_slug": "martina-belli",
+        "role_slug": "giuseppe-verdi/luisa-miller/federica"
+      },
+      {
+        "person_slug": "mariangela-sicilia",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa"
+      },
+      {
+        "person_slug": "marta-torbidoni",
+        "role_slug": "giuseppe-verdi/luisa-miller/luisa"
+      },
+      {
+        "person_slug": "franco-vassallo",
+        "role_slug": "giuseppe-verdi/luisa-miller/miller"
+      },
+      {
+        "person_slug": "igor-golovatenko",
+        "role_slug": "giuseppe-verdi/luisa-miller/miller"
+      },
+      {
+        "person_slug": "piotr-becza-a",
+        "role_slug": "giuseppe-verdi/luisa-miller/rodolfo"
+      },
+      {
+        "person_slug": "stefan-pop",
+        "role_slug": "giuseppe-verdi/luisa-miller/rodolfo"
+      },
+      {
+        "person_slug": "marko-mimica",
+        "role_slug": "giuseppe-verdi/luisa-miller/wurm"
+      }
+    ]
+  },
+  {
     "id": "teatro-di-san-carlo/mitridate-re-di-ponto/2026-27",
     "work_slug": "wolfgang-amadeus-mozart/mitridate-re-di-ponto",
     "house_slug": "teatro-di-san-carlo",
