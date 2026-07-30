@@ -89,6 +89,87 @@
     ]
   },
   {
+    "id": "teatro-di-san-carlo/aida/2026-27",
+    "work_slug": "giuseppe-verdi/aida",
+    "house_slug": "teatro-di-san-carlo",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatrosancarlo.it/en/events/aida-2/",
+    "image_url": "https://www.teatrosancarlo.it/wp-content/uploads/2026/07/TSC2627_IMG_22-aspect-ratio-530-653.jpg",
+    "creative_team": [
+      {
+        "person_slug": "renato-zanella",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "renato-palumbo",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "gianluca-sbicca",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "serena-sinigaglia",
+        "function": "director"
+      },
+      {
+        "person_slug": "claudio-de-pace",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "maria-spazzi",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "desiree-giove",
+        "role_slug": "giuseppe-verdi/aida/a-priestess"
+      },
+      {
+        "person_slug": "maria-jose-siri",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "roberta-mantegna",
+        "role_slug": "giuseppe-verdi/aida/aida"
+      },
+      {
+        "person_slug": "elizabeth-deshong",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "teresa-romano",
+        "role_slug": "giuseppe-verdi/aida/amneris"
+      },
+      {
+        "person_slug": "ariunbaatar-ganbaatar",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "sebastian-catana",
+        "role_slug": "giuseppe-verdi/aida/amonasro"
+      },
+      {
+        "person_slug": "luciano-ganci",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "mikheil-sheshaberidze",
+        "role_slug": "giuseppe-verdi/aida/radames"
+      },
+      {
+        "person_slug": "luca-tittoto",
+        "role_slug": "giuseppe-verdi/aida/ramfis"
+      },
+      {
+        "person_slug": "emanuele-pellegrini",
+        "role_slug": "giuseppe-verdi/aida/the-messenger"
+      }
+    ]
+  },
+  {
     "id": "teatro-di-san-carlo/la-cenerentola/2026-27",
     "work_slug": "gioachino-rossini/la-cenerentola",
     "house_slug": "teatro-di-san-carlo",
@@ -231,6 +312,87 @@
       {
         "person_slug": "marko-mimica",
         "role_slug": "giuseppe-verdi/luisa-miller/wurm"
+      }
+    ]
+  },
+  {
+    "id": "teatro-di-san-carlo/madama-butterfly/2026-27",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "teatro-di-san-carlo",
+    "premiere_season": "2026/27",
+    "is_revival": false,
+    "detail_url": "https://www.teatrosancarlo.it/en/events/madama-butterfly/",
+    "image_url": "https://www.teatrosancarlo.it/wp-content/uploads/2026/07/TSC2627_IMG_20-aspect-ratio-530-653.jpg",
+    "creative_team": [
+      {
+        "person_slug": "francesco-ivan-ciampa",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alessandro-lai",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ferzan-ozpetek-revival-by-tecla-gucci",
+        "function": "director"
+      },
+      {
+        "person_slug": "pasquale-mari",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "sergio-tramonti",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "giorgio-berrugi",
+        "role_slug": "giacomo-puccini/madama-butterfly/f-b-pinkerton"
+      },
+      {
+        "person_slug": "jorge-de-leon",
+        "role_slug": "giacomo-puccini/madama-butterfly/f-b-pinkerton"
+      },
+      {
+        "person_slug": "orlando-polidoro",
+        "role_slug": "giacomo-puccini/madama-butterfly/goro"
+      },
+      {
+        "person_slug": "anna-grotto",
+        "role_slug": "giacomo-puccini/madama-butterfly/kate-pinkerton"
+      },
+      {
+        "person_slug": "anna-pirozzi",
+        "role_slug": "giacomo-puccini/madama-butterfly/madama-butterfly-cio-cio-san"
+      },
+      {
+        "person_slug": "karah-son",
+        "role_slug": "giacomo-puccini/madama-butterfly/madama-butterfly-cio-cio-san"
+      },
+      {
+        "person_slug": "daniel-di-prinzio",
+        "role_slug": "giacomo-puccini/madama-butterfly/prince-yamadori"
+      },
+      {
+        "person_slug": "andrea-piazza",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "marco-filippo-romano",
+        "role_slug": "giacomo-puccini/madama-butterfly/sharpless"
+      },
+      {
+        "person_slug": "chiara-tirotta",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "veronica-simeoni",
+        "role_slug": "giacomo-puccini/madama-butterfly/suzuki"
+      },
+      {
+        "person_slug": "antimo-dell-omo",
+        "role_slug": "giacomo-puccini/madama-butterfly/the-bonze"
       }
     ]
   },

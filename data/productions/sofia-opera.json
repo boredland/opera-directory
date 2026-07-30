@@ -427,6 +427,36 @@
     ]
   },
   {
+    "id": "sofia-opera/sofia-opera-1071",
+    "work_slug": "giacomo-puccini/madama-butterfly",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1071",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "dian-chobanov",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "maria-trendafilova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "lyubomir-yordanov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "sofia-opera/sofia-opera-420",
     "work_slug": "lubomir-pipkov/yana-s-nine-brothers",
     "house_slug": "sofia-opera",

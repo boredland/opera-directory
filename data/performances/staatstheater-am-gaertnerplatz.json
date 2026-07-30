@@ -6,6 +6,13 @@
     "status": "scheduled"
   },
   {
+    "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-06-02/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
+    "date": "2027-06-02",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos/2027-06-18/",
     "production_id": "staatstheater-am-gaertnerplatz/ariadne-auf-naxos",
     "date": "2027-06-18",
@@ -831,6 +838,13 @@
     "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-02-17/",
     "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
     "date": "2027-02-17",
+    "status": "scheduled"
+  },
+  {
+    "id": "staatstheater-am-gaertnerplatz/romeo-und-julia/2027-02-17/18:00",
+    "production_id": "staatstheater-am-gaertnerplatz/romeo-und-julia",
+    "date": "2027-02-17",
+    "time": "18:00",
     "status": "scheduled"
   },
   {

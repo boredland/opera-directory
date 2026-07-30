@@ -4380,6 +4380,16 @@
     "name": "1. Dramaturgin, Helmwige, Wellgunde"
   },
   {
+    "slug": "bernhard-lang/brunnhilde-brennt/1-dramaturgin-helmwige-woglinde",
+    "work_slug": "bernhard-lang/brunnhilde-brennt",
+    "name": "1. Dramaturgin, Helmwige, Woglinde"
+  },
+  {
+    "slug": "bernhard-lang/brunnhilde-brennt/2-dramaturgin-waltraute-wellgunde",
+    "work_slug": "bernhard-lang/brunnhilde-brennt",
+    "name": "2. Dramaturgin, Waltraute, Wellgunde"
+  },
+  {
     "slug": "bernhard-lang/brunnhilde-brennt/2-dramaturgin-waltraute-woglinde",
     "work_slug": "bernhard-lang/brunnhilde-brennt",
     "name": "2. Dramaturgin, Waltraute, Woglinde"
@@ -15335,6 +15345,11 @@
     "name": "Armindo"
   },
   {
+    "slug": "george-frideric-handel/partenope/arsace",
+    "work_slug": "george-frideric-handel/partenope",
+    "name": "Arsace"
+  },
+  {
     "slug": "george-frideric-handel/partenope/emilio",
     "work_slug": "george-frideric-handel/partenope",
     "name": "Emilio"
@@ -16118,6 +16133,11 @@
     "slug": "giacomo-puccini/best-of-puccini/betto-di-signa",
     "work_slug": "giacomo-puccini/best-of-puccini",
     "name": "Betto di Signa"
+  },
+  {
+    "slug": "giacomo-puccini/best-of-puccini/buoso-donati",
+    "work_slug": "giacomo-puccini/best-of-puccini",
+    "name": "Buoso Donati"
   },
   {
     "slug": "giacomo-puccini/best-of-puccini/gherardino",
@@ -21060,6 +21080,11 @@
     "name": "A messenger"
   },
   {
+    "slug": "giuseppe-verdi/aida/a-priestess",
+    "work_slug": "giuseppe-verdi/aida",
+    "name": "A Priestess"
+  },
+  {
     "slug": "giuseppe-verdi/aida/aida",
     "work_slug": "giuseppe-verdi/aida",
     "name": "Aida"
@@ -22718,6 +22743,11 @@
     "slug": "giuseppe-verdi/la-traviata/musikalische-einstudierung",
     "work_slug": "giuseppe-verdi/la-traviata",
     "name": "Musikalische Einstudierung"
+  },
+  {
+    "slug": "giuseppe-verdi/la-traviata/mutter",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "name": "Mutter"
   },
   {
     "slug": "giuseppe-verdi/la-traviata/orchester",
@@ -26558,6 +26588,16 @@
     "slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee/tenor",
     "work_slug": "ingeborg-bachmann-zum-geburtstag/liedmatinee",
     "name": "Tenor"
+  },
+  {
+    "slug": "ins-kalte-wasser/buhne-kostum",
+    "work_slug": "ins-kalte-wasser",
+    "name": "Bühne & Kostüm"
+  },
+  {
+    "slug": "ins-kalte-wasser/einrichtung",
+    "work_slug": "ins-kalte-wasser",
+    "name": "Einrichtung"
   },
   {
     "slug": "instrumentenatlas/orchester",

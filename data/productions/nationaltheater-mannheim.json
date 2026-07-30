@@ -4669,7 +4669,7 @@
   },
   {
     "id": "nationaltheater-mannheim/drinks-drama-4767",
-    "work_slug": "austausch-fur-ag-leitungen/drinks-drama",
+    "work_slug": "austausch-fur-padagog-innen-und-lehrkrafte/drinks-drama",
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/drinks--drama/4767/",
@@ -6650,6 +6650,15 @@
     "cast": []
   },
   {
+    "id": "nationaltheater-mannheim/heimatkomplex-4886",
+    "work_slug": "heimatkomplex",
+    "house_slug": "nationaltheater-mannheim",
+    "is_revival": false,
+    "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/heimatkomplex/4886/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
     "id": "nationaltheater-mannheim/hocker-bauen-4281",
     "work_slug": "mit-raumlabor/hocker-bauen",
     "house_slug": "nationaltheater-mannheim",
@@ -6728,8 +6737,22 @@
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/ins-kalte-wasser-10467/4804/",
-    "creative_team": [],
-    "cast": []
+    "creative_team": [
+      {
+        "person_slug": "mascha-luttmann",
+        "function": "dramaturgy"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lea-stocker",
+        "role_slug": "ins-kalte-wasser/buhne-kostum"
+      },
+      {
+        "person_slug": "robin-biz",
+        "role_slug": "ins-kalte-wasser/einrichtung"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/ins-kalte-wasser-7106-4721",

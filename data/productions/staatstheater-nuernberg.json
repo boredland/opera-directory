@@ -855,6 +855,89 @@
     ]
   },
   {
+    "id": "staatstheater-nuernberg/la-traviata",
+    "work_slug": "giuseppe-verdi/la-traviata",
+    "house_slug": "staatstheater-nuernberg",
+    "is_revival": false,
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/la-traviata/04-10-2025/1930",
+    "creative_team": [
+      {
+        "person_slug": "tarmo-vaask",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "bjorn-huestege",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "carola-volles",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "ilaria-lanzino",
+        "function": "director"
+      },
+      {
+        "person_slug": "wiebke-hetmanek",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "susanne-reinhardt",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "martin-hickmann",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "lisa-rodlauer-max-hammel",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sergei-nikolaev",
+        "role_slug": "giuseppe-verdi/la-traviata/alfredo-germont"
+      },
+      {
+        "person_slug": "laura-hilden",
+        "role_slug": "giuseppe-verdi/la-traviata/annina"
+      },
+      {
+        "person_slug": "demian-matushevskyi",
+        "role_slug": "giuseppe-verdi/la-traviata/baron-douphol"
+      },
+      {
+        "person_slug": "nicolai-karnolsky",
+        "role_slug": "giuseppe-verdi/la-traviata/doktor-grenvil"
+      },
+      {
+        "person_slug": "sara-setar",
+        "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
+      },
+      {
+        "person_slug": "kellan-dunlap",
+        "role_slug": "giuseppe-verdi/la-traviata/gastone"
+      },
+      {
+        "person_slug": "sangmin-lee",
+        "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
+      },
+      {
+        "person_slug": "wonyong-kang",
+        "role_slug": "giuseppe-verdi/la-traviata/marquis-von-obigny"
+      },
+      {
+        "person_slug": "andrea-schwendtner",
+        "role_slug": "giuseppe-verdi/la-traviata/mutter"
+      },
+      {
+        "person_slug": "andromahi-raptis",
+        "role_slug": "giuseppe-verdi/la-traviata/violetta"
+      }
+    ]
+  },
+  {
     "id": "staatstheater-nuernberg/lulu",
     "work_slug": "alban-berg/lulu",
     "house_slug": "staatstheater-nuernberg",

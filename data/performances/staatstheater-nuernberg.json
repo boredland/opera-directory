@@ -539,6 +539,13 @@
     "status": "scheduled"
   },
   {
+    "id": "staatstheater-nuernberg/ein-fall-fuer-figaro/2026-11-06/18:00",
+    "production_id": "staatstheater-nuernberg/ein-fall-fuer-figaro",
+    "date": "2026-11-06",
+    "time": "18:00",
+    "status": "scheduled"
+  },
+  {
     "id": "staatstheater-nuernberg/haensel-und-gretel/2026-12-19/18:00",
     "production_id": "staatstheater-nuernberg/haensel-und-gretel",
     "date": "2026-12-19",
@@ -775,6 +782,13 @@
     "date": "2026-05-18",
     "time": "19:00",
     "status": "past"
+  },
+  {
+    "id": "staatstheater-nuernberg/la-traviata/2026-09-27/18:00",
+    "production_id": "staatstheater-nuernberg/la-traviata",
+    "date": "2026-09-27",
+    "time": "18:00",
+    "status": "scheduled"
   },
   {
     "id": "staatstheater-nuernberg/lulu/2026-05-06/18:30",
