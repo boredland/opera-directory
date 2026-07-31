@@ -463,7 +463,20 @@
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/begegnung-der-freunde-und-foerderer-des-ntm-10444/4831/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "stephanos-tsirakoglou",
+        "role_slug": "begegnung-der-freunde-und-forderer-des-ntm/bass-bariton"
+      },
+      {
+        "person_slug": "pablo-salido-pulido",
+        "role_slug": "begegnung-der-freunde-und-forderer-des-ntm/klavier"
+      },
+      {
+        "person_slug": "albrecht-puhlmann",
+        "role_slug": "begegnung-der-freunde-und-forderer-des-ntm/moderation"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/begegnung-der-freunde-und-foerderer-des-ntm-7152-4494",
@@ -9115,12 +9128,33 @@
   },
   {
     "id": "nationaltheater-mannheim/musiksalon-eroeffnung-10504-4834",
-    "work_slug": "musiksalon-eroffnung",
+    "work_slug": "mondschein-am-heilichsten-tage",
     "house_slug": "nationaltheater-mannheim",
     "is_revival": false,
     "detail_url": "https://www.nationaltheater-mannheim.de/spielplan/musiksalon-eroeffnung-10504/4834/",
     "creative_team": [],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "anne-fuhrmann",
+        "role_slug": "mondschein-am-heilichsten-tage/klarinette"
+      },
+      {
+        "person_slug": "naomi-schmidt",
+        "role_slug": "mondschein-am-heilichsten-tage/klavier"
+      },
+      {
+        "person_slug": "pius-maria-cuppers",
+        "role_slug": "mondschein-am-heilichsten-tage/lesung"
+      },
+      {
+        "person_slug": "neza-vasle",
+        "role_slug": "mondschein-am-heilichsten-tage/sopran"
+      },
+      {
+        "person_slug": "raphael-wittmer",
+        "role_slug": "mondschein-am-heilichsten-tage/tenor"
+      }
+    ]
   },
   {
     "id": "nationaltheater-mannheim/mutter-dili-alle-farben-meiner-sprachen-14-4461",

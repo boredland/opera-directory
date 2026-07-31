@@ -48,6 +48,14 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-balmaskarad/2026-09-18/19:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-balmaskarad",
+    "date": "2026-09-18",
+    "time": "19:00",
+    "venue_room": "Mariinsky II",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-benvenuto-2021/2026-07-07/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-benvenuto-2021",
     "date": "2026-07-07",
@@ -829,6 +837,14 @@
     "date": "2026-06-21",
     "time": "19:00",
     "venue_room": "Concert Hall",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-the-rake-s-progress/2026-08-02/16:00",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-the-rake-s-progress",
+    "date": "2026-08-02",
+    "time": "16:00",
+    "venue_room": "The Stravinsky Hall",
     "status": "scheduled"
   }
 ]

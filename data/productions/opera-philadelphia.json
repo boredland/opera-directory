@@ -121,7 +121,12 @@
     "is_revival": false,
     "language": "en",
     "detail_url": "https://www.operaphila.org/whats-on/2627-season/sitcom/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "geoff-mcdonald",
+        "function": "conductor"
+      }
+    ],
     "cast": []
   },
   {
