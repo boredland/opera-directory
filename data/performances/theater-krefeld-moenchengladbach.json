@@ -1,5 +1,77 @@
 [
   {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-02-15/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-02-15",
+    "time": "18:45",
+    "venue_room": "Theater MG – Theaterbar",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2723"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-02-20/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-02-20",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2433"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-02-28/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-02-28",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2434"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-03-20/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-03-20",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2435"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-04-03/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-04-03",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2436"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-04-23/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-04-23",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2437"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-05-09/16:00",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-05-09",
+    "time": "16:00",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2438"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw/2027-05-21/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "date": "2027-05-21",
+    "time": "19:30",
+    "venue_room": "Theater MG – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2439"
+  },
+  {
     "id": "theater-krefeld-moenchengladbach/der-bajazzo/2026-06-09/18:45",
     "production_id": "theater-krefeld-moenchengladbach/der-bajazzo",
     "date": "2026-06-09",
@@ -159,6 +231,78 @@
     "venue_room": "Theater Krefeld – Große Bühne",
     "status": "scheduled",
     "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2281"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-04-12/18:45",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-04-12",
+    "time": "18:45",
+    "venue_room": "Theater KR – Glasfoyer",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2765"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-04-17/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-04-17",
+    "time": "19:30",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2367"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-04-25/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-04-25",
+    "time": "19:30",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2368"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-04-27/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-04-27",
+    "time": "19:30",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2369"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-05-30/16:00",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-05-30",
+    "time": "16:00",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2370"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-06-18/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-06-18",
+    "time": "19:30",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2371"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-06-23/19:30",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-06-23",
+    "time": "19:30",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2372"
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut/2027-07-10/18:00",
+    "production_id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "date": "2027-07-10",
+    "time": "18:00",
+    "venue_room": "Theater Krefeld – Große Bühne",
+    "status": "scheduled",
+    "ticket_url": "https://tickets.theater-kr-mg.de/webshop/webticket/shop?event=2373"
   },
   {
     "id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti/2027-04-29/18:45",

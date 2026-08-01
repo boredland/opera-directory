@@ -1,5 +1,141 @@
 [
   {
+    "id": "landesbuehnen-sachsen/180b26fb-b6c5-4983-973c-15dc72b05a67",
+    "work_slug": "johann-strau/die-fledermaus",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Komische Operette von Johann Strauß",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/die-fledermaus/",
+    "creative_team": [
+      {
+        "person_slug": "ekkehard-klemm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "florian-merz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sabina-moncys",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "manuel-schobel",
+        "function": "director"
+      },
+      {
+        "person_slug": "ruth-heynen",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ralph-zeger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "johann-strau/die-fledermaus/adele-kammermadchen"
+      },
+      {
+        "person_slug": "marie-hansel",
+        "role_slug": "johann-strau/die-fledermaus/adele-kammermadchen"
+      },
+      {
+        "person_slug": "aljaz-vesel",
+        "role_slug": "johann-strau/die-fledermaus/alfred-gesangslehrer"
+      },
+      {
+        "person_slug": "ido-beit-halachmi",
+        "role_slug": "johann-strau/die-fledermaus/alfred-gesangslehrer"
+      },
+      {
+        "person_slug": "marco-pfennig",
+        "role_slug": "johann-strau/die-fledermaus/buhnenmusik-gitarre"
+      },
+      {
+        "person_slug": "stephan-pankow",
+        "role_slug": "johann-strau/die-fledermaus/buhnenmusik-gitarre"
+      },
+      {
+        "person_slug": "till-nau",
+        "role_slug": "johann-strau/die-fledermaus/choreografie-und-lichtdesign"
+      },
+      {
+        "person_slug": "holger-uwe-thews",
+        "role_slug": "johann-strau/die-fledermaus/dr-blind-advokat"
+      },
+      {
+        "person_slug": "matthias-avemarg",
+        "role_slug": "johann-strau/die-fledermaus/dr-blind-advokat"
+      },
+      {
+        "person_slug": "michael-simmen",
+        "role_slug": "johann-strau/die-fledermaus/dr-blind-advokat"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "johann-strau/die-fledermaus/dr-falke-notar"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "johann-strau/die-fledermaus/frank-gefangnisdirektor"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "johann-strau/die-fledermaus/gabriel-von-eisenstein"
+      },
+      {
+        "person_slug": "chor-der-landesbuhnen-sachsen",
+        "role_slug": "johann-strau/die-fledermaus/gaste-des-prinzen"
+      },
+      {
+        "person_slug": "lilly-peuker",
+        "role_slug": "johann-strau/die-fledermaus/ida-ihre-freundin"
+      },
+      {
+        "person_slug": "tuan-ly",
+        "role_slug": "johann-strau/die-fledermaus/ida-ihre-freundin"
+      },
+      {
+        "person_slug": "denis-stepanov",
+        "role_slug": "johann-strau/die-fledermaus/igor"
+      },
+      {
+        "person_slug": "renat-safiullin",
+        "role_slug": "johann-strau/die-fledermaus/igor"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "johann-strau/die-fledermaus/kampf-und-fechtchoreografie"
+      },
+      {
+        "person_slug": "stephanie-atanasov",
+        "role_slug": "johann-strau/die-fledermaus/prinz-orlovsky-i-frosch-i-gerichtsdiener"
+      },
+      {
+        "person_slug": "alexander-donesch",
+        "role_slug": "johann-strau/die-fledermaus/prinz-orlovsky-ii-frosch-ii-gerichtsdiener"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "johann-strau/die-fledermaus/prinz-orlovsky-ii-frosch-ii-gerichtsdiener"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "johann-strau/die-fledermaus/rosalinde-gabriels-frau"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "johann-strau/die-fledermaus/rosalinde-gabriels-frau"
+      }
+    ]
+  },
+  {
     "id": "landesbuehnen-sachsen/18c737f1-6449-41f3-b450-43808d33c020",
     "work_slug": "carl-maria-von-weber/der-freischutz-pocket-opera",
     "house_slug": "landesbuehnen-sachsen",
@@ -232,6 +368,96 @@
     ]
   },
   {
+    "id": "landesbuehnen-sachsen/7cb6824a-7821-4b36-9f3f-4e76d22efbfd",
+    "work_slug": "anna-calvi/der-sandmann",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Oper von Anna Calvi und Robert Wilson",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/kein-stuecktitel-angegeben-16/",
+    "creative_team": [],
+    "cast": []
+  },
+  {
+    "id": "landesbuehnen-sachsen/82152693-da03-4b4d-be01-fcf4d3d909ac",
+    "work_slug": "jonathan-dove/flight",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Oper in drei Akten von Jonathan Dove",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/kein-stuecktitel-angegeben-2/",
+    "creative_team": [
+      {
+        "person_slug": "hans-peter-preu",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-kastening",
+        "function": "director"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "christian-robert-muller",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "jonathan-dove/flight/bill"
+      },
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "jonathan-dove/flight/controller"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "jonathan-dove/flight/doppelbesetzungen-in-alphabetischer-reihenfolge"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "jonathan-dove/flight/immigration-officer"
+      },
+      {
+        "person_slug": "n-n",
+        "role_slug": "jonathan-dove/flight/in-deutscher-und-englischer-sprache"
+      },
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "jonathan-dove/flight/minsk-man"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "jonathan-dove/flight/minsk-women"
+      },
+      {
+        "person_slug": "maria-eunju-park",
+        "role_slug": "jonathan-dove/flight/minsk-women"
+      },
+      {
+        "person_slug": "julia-bohme",
+        "role_slug": "jonathan-dove/flight/older-women"
+      },
+      {
+        "person_slug": "philipp-rauh",
+        "role_slug": "jonathan-dove/flight/refugee"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "jonathan-dove/flight/steward"
+      },
+      {
+        "person_slug": "ylva-gruen",
+        "role_slug": "jonathan-dove/flight/stewardess"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "jonathan-dove/flight/tina"
+      }
+    ]
+  },
+  {
     "id": "landesbuehnen-sachsen/8ee96024-b64f-47d4-a396-5c83f6cb6566",
     "work_slug": "elena-langer/the-lion-s-face",
     "house_slug": "landesbuehnen-sachsen",
@@ -292,6 +518,242 @@
       {
         "person_slug": "anna-maria-schmidt",
         "role_slug": "elena-langer/the-lion-s-face/tochter-der-pflegerin"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/a43c20dd-8e21-44d4-8d57-d88ffb4d79d8",
+    "work_slug": "gaetano-donizetti/der-liebestrank",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Komische Oper von Gaetano Donizetti",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/der-liebestrank/",
+    "creative_team": [
+      {
+        "person_slug": "florian-merz",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "hans-peter-preu",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "lisa-brzonkalla",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "rainer-holzapfel",
+        "function": "director"
+      },
+      {
+        "person_slug": "gisela-zurner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ralph-zeger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "gaetano-donizetti/der-liebestrank/adina-eine-junge-reiche-pachterin"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "gaetano-donizetti/der-liebestrank/adina-eine-junge-reiche-pachterin"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "gaetano-donizetti/der-liebestrank/belcore-sergeant"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "gaetano-donizetti/der-liebestrank/belcore-sergeant"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "gaetano-donizetti/der-liebestrank/doktor-dulcamara-ein-quacksalber"
+      },
+      {
+        "person_slug": "oliver-weidinger",
+        "role_slug": "gaetano-donizetti/der-liebestrank/doktor-dulcamara-ein-quacksalber"
+      },
+      {
+        "person_slug": "marie-audrey-schatz",
+        "role_slug": "gaetano-donizetti/der-liebestrank/gianetta-ein-waschermadchen"
+      },
+      {
+        "person_slug": "florian-neubauer",
+        "role_slug": "gaetano-donizetti/der-liebestrank/nemorino-ein-junger-landmann"
+      },
+      {
+        "person_slug": "jongwoo-hong",
+        "role_slug": "gaetano-donizetti/der-liebestrank/nemorino-ein-junger-landmann"
+      }
+    ]
+  },
+  {
+    "id": "landesbuehnen-sachsen/ab26a56d-62b5-4e28-94b0-64b259491637",
+    "work_slug": "wolfgang-amadeus-mozart/die-zauberflote",
+    "house_slug": "landesbuehnen-sachsen",
+    "is_revival": false,
+    "presentation_note": "Oper von Wolfgang Amadeus Mozart",
+    "detail_url": "https://www.landesbuehnen-sachsen.de/spielzeit/die-zauberfloete/",
+    "creative_team": [
+      {
+        "person_slug": "daniele-pilato",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "ekkehard-klemm",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jan-arvid-pree",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "valerie-hirschmann",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kai-anne-schuhmacher",
+        "function": "director"
+      },
+      {
+        "person_slug": "johannes-frohnsdorf",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "ralph-zeger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "n-n",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/doppelbesetzungen-in-alphabetischer-reihenfolge-tagesbesetzung-bitte-vom-aushang-ubernehmen"
+      },
+      {
+        "person_slug": "tuan-ly",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/drei-fledermause"
+      },
+      {
+        "person_slug": "antigone-papoulkas",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "stephanie-atanasov",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritte-dame"
+      },
+      {
+        "person_slug": "clara-esther-bergert",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritter-knabe"
+      },
+      {
+        "person_slug": "marlene-mieth",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/dritter-knabe"
+      },
+      {
+        "person_slug": "anna-erxleben",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erste-dame"
+      },
+      {
+        "person_slug": "christopher-plaas",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-geharnischter"
+      },
+      {
+        "person_slug": "nadia-toliou",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-knabe-bar"
+      },
+      {
+        "person_slug": "xiang-li",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-knabe-bar"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/erster-priester"
+      },
+      {
+        "person_slug": "dimitra-kotidou",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "friederike-meinke",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/konigin-der-nacht"
+      },
+      {
+        "person_slug": "andreas-petzoldt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/monostatos"
+      },
+      {
+        "person_slug": "anna-maria-schmidt",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina-ihre-tochter"
+      },
+      {
+        "person_slug": "franziska-abram",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/pamina-ihre-tochter"
+      },
+      {
+        "person_slug": "antje-kahn",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papagena"
+      },
+      {
+        "person_slug": "daniel-foki",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "johannes-wollrab",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/papageno"
+      },
+      {
+        "person_slug": "chor-der-landesbuhnen-sachsen",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/priester-sklaven-und-gefolge"
+      },
+      {
+        "person_slug": "do-heon-kim",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "jovan-koscica",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sarastro"
+      },
+      {
+        "person_slug": "paul-gukhoe-song",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/sprecher"
+      },
+      {
+        "person_slug": "aljaz-vesel",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "jongwoo-hong",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/tamino"
+      },
+      {
+        "person_slug": "marie-audrey-schatz",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "ylva-gruen",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweite-dame"
+      },
+      {
+        "person_slug": "michael-konig",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-geharnischter"
+      },
+      {
+        "person_slug": "marlene-walter",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe"
+      },
+      {
+        "person_slug": "zonqui-sun",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-knabe"
+      },
+      {
+        "person_slug": "christopher-plaas",
+        "role_slug": "wolfgang-amadeus-mozart/die-zauberflote/zweiter-priester"
       }
     ]
   },

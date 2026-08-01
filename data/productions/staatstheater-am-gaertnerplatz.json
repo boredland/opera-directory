@@ -102,16 +102,124 @@
     ],
     "cast": [
       {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ill"
+      },
+      {
+        "person_slug": "frances-lucey",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-frau"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-sohn"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/alfred-ills-tochter"
+      },
+      {
+        "person_slug": "jeremy-boulton",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/arzt"
+      },
+      {
+        "person_slug": "thomas-mcgowan",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/bahnhofsvorstand"
+      },
+      {
+        "person_slug": "wolfgang-ablinger-sperrhacke",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/burgermeister"
+      },
+      {
+        "person_slug": "norbert-ernst",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/butler"
+      },
+      {
+        "person_slug": "sophie-rennert",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/claire-zachanassian"
+      },
+      {
+        "person_slug": "thomas-hohenberger",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/eine-stimme"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/erste-frau"
+      },
+      {
+        "person_slug": "tobias-giesecke",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/gatte-vii-von-claire-zachanassian"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/helmesberger"
+      },
+      {
+        "person_slug": "paul-schweinester",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/hofbauer"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/koby"
+      },
+      {
+        "person_slug": "alg-n-ozcan",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/kondukteur"
+      },
+      {
+        "person_slug": "christian-roggenkamp",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/kunstturner"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/lehrer"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/loby"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/pfarrer"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/polizist"
+      },
+      {
         "person_slug": "soffi-povo",
         "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppendesign-und-puppenbau"
+      },
+      {
+        "person_slug": "angelo-konzett",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspieler-dame-panther"
+      },
+      {
+        "person_slug": "manuela-linshalm",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/puppenspielerin-dame"
       },
       {
         "person_slug": "nikolaus-habjan",
         "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/regie-und-mitarbeit-puppendesign"
       },
       {
+        "person_slug": "christoph-mack-niv-beili",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/roby"
+      },
+      {
         "person_slug": "ricarda-regina-ludigkeit",
         "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/staging-und-szenische-mitarbeit"
+      },
+      {
+        "person_slug": "dieter-fernengel",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/toby"
+      },
+      {
+        "person_slug": "holger-ohlmann",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/zugfuhrer-kameramann"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "gottfried-von-einem/der-besuch-der-alten-dame/zweite-frau"
       }
     ]
   },
@@ -151,7 +259,48 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/angele-didier"
+      },
+      {
+        "person_slug": "peter-neustifter",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/armand-brissard"
+      },
+      {
+        "person_slug": "erwin-windegger",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/furst-basil-basilowitsch"
+      },
+      {
+        "person_slug": "dagmar-hellberg",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/grafin-mathilde-von-luxemburg"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/juliette-vermont"
+      },
+      {
+        "person_slug": "gregor-reinhold",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/pawel-von-pawlowitsch-portier-des-hotel-pain-regieassistent"
+      },
+      {
+        "person_slug": "alexander-franzen",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/pelegrin-schaffner-theaterdirektor"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/rene-graf-von-luxemburg"
+      },
+      {
+        "person_slug": "jeremy-boulton",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "franz-lehar/der-graf-von-luxemburg/sergej-mentschikoff-portier-des-grandhotels"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/der-liebestrank",
@@ -193,7 +342,48 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "gaetano-donizetti/der-liebestrank/adina"
+      },
+      {
+        "person_slug": "jennifer-o-loughlin",
+        "role_slug": "gaetano-donizetti/der-liebestrank/adina"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "gaetano-donizetti/der-liebestrank/belcore"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "gaetano-donizetti/der-liebestrank/belcore"
+      },
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "gaetano-donizetti/der-liebestrank/dulcamara"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "gaetano-donizetti/der-liebestrank/dulcamara"
+      },
+      {
+        "person_slug": "mina-yu",
+        "role_slug": "gaetano-donizetti/der-liebestrank/giannetta"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "gaetano-donizetti/der-liebestrank/giannetta"
+      },
+      {
+        "person_slug": "lucian-krasznec",
+        "role_slug": "gaetano-donizetti/der-liebestrank/nemorino"
+      },
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "gaetano-donizetti/der-liebestrank/nemorino"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/die-fledermaus",
@@ -231,7 +421,96 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "andreja-zidaric",
+        "role_slug": "johann-strauss/die-fledermaus/adele"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "johann-strauss/die-fledermaus/adele"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "johann-strauss/die-fledermaus/alfred"
+      },
+      {
+        "person_slug": "lucian-krasznec",
+        "role_slug": "johann-strauss/die-fledermaus/alfred"
+      },
+      {
+        "person_slug": "matteo-ivan-rasic",
+        "role_slug": "johann-strauss/die-fledermaus/alfred"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "johann-strauss/die-fledermaus/dr-blind"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "johann-strauss/die-fledermaus/dr-blind"
+      },
+      {
+        "person_slug": "daniel-gutmann",
+        "role_slug": "johann-strauss/die-fledermaus/dr-falke"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "johann-strauss/die-fledermaus/dr-falke"
+      },
+      {
+        "person_slug": "reinhard-mayr",
+        "role_slug": "johann-strauss/die-fledermaus/frank"
+      },
+      {
+        "person_slug": "michael-dangl",
+        "role_slug": "johann-strauss/die-fledermaus/frosch"
+      },
+      {
+        "person_slug": "robert-meyer",
+        "role_slug": "johann-strauss/die-fledermaus/frosch"
+      },
+      {
+        "person_slug": "daniel-prohaska",
+        "role_slug": "johann-strauss/die-fledermaus/gabriel-von-eisenstein"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "johann-strauss/die-fledermaus/gabriel-von-eisenstein"
+      },
+      {
+        "person_slug": "laura-schneiderhan",
+        "role_slug": "johann-strauss/die-fledermaus/ida"
+      },
+      {
+        "person_slug": "ulrike-dostal",
+        "role_slug": "johann-strauss/die-fledermaus/ida"
+      },
+      {
+        "person_slug": "maximilian-potthoff",
+        "role_slug": "johann-strauss/die-fledermaus/iwan-orlofskys-standiger-begleiter"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "johann-strauss/die-fledermaus/prinz-orlofsky"
+      },
+      {
+        "person_slug": "sophie-rennert",
+        "role_slug": "johann-strauss/die-fledermaus/prinz-orlofsky"
+      },
+      {
+        "person_slug": "hedwig-ritter",
+        "role_slug": "johann-strauss/die-fledermaus/rosalinde"
+      },
+      {
+        "person_slug": "jennifer-o-loughlin",
+        "role_slug": "johann-strauss/die-fledermaus/rosalinde"
+      },
+      {
+        "person_slug": "reka-kristof",
+        "role_slug": "johann-strauss/die-fledermaus/rosalinde"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/die-landstreicher",
@@ -837,7 +1116,80 @@
         "function": "video-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/antonio-gartner"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/antonio-gartner"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/barbarina-tochter-antonios"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/cherubino-page"
+      },
+      {
+        "person_slug": "anna-tetruashvili",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/cherubino-page"
+      },
+      {
+        "person_slug": "reinhard-mayr",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/don-bartolo-arzt"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/don-basilio-musiklehrer"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/don-basilio-musiklehrer"
+      },
+      {
+        "person_slug": "alg-n-ozcan",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/don-curzio-richter"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/figaro"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/figaro"
+      },
+      {
+        "person_slug": "daniel-gutmann",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/graf-almaviva"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/graf-almaviva"
+      },
+      {
+        "person_slug": "jennifer-o-loughlin",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/grafin-almaviva"
+      },
+      {
+        "person_slug": "reka-kristof",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/grafin-almaviva"
+      },
+      {
+        "person_slug": "anna-agathonos",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/marcellina"
+      },
+      {
+        "person_slug": "frances-lucey",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/marcellina"
+      },
+      {
+        "person_slug": "annemarie-pfahler",
+        "role_slug": "wolfgang-amadeus-mozart/figaros-hochzeit/susanna"
+      }
+    ]
   },
   {
     "id": "staatstheater-am-gaertnerplatz/fuerst-igor",
@@ -881,8 +1233,76 @@
     ],
     "cast": [
       {
+        "person_slug": "dieter-fernengel",
+        "role_slug": "furst-igor/alexander-borodin"
+      },
+      {
+        "person_slug": "tobias-kartmann",
+        "role_slug": "furst-igor/alexander-glasunow"
+      },
+      {
         "person_slug": "patrick-teschner",
         "role_slug": "furst-igor/choreografische-mitarbeit"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "furst-igor/ein-polowetzer-madchen"
+      },
+      {
+        "person_slug": "gyula-rab",
+        "role_slug": "furst-igor/eroschka"
+      },
+      {
+        "person_slug": "timos-sirlantzis",
+        "role_slug": "furst-igor/furst-galitzky"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "furst-igor/furst-igor"
+      },
+      {
+        "person_slug": "oksana-sekerina",
+        "role_slug": "furst-igor/jaroslawna"
+      },
+      {
+        "person_slug": "reka-kristof",
+        "role_slug": "furst-igor/jaroslawna"
+      },
+      {
+        "person_slug": "levente-pall",
+        "role_slug": "furst-igor/khan-kontschak"
+      },
+      {
+        "person_slug": "anke-schwabe",
+        "role_slug": "furst-igor/klavier"
+      },
+      {
+        "person_slug": "ekaterina-tarnopolskaja",
+        "role_slug": "furst-igor/klavier"
+      },
+      {
+        "person_slug": "monika-jagerova",
+        "role_slug": "furst-igor/kontschakowna"
+      },
+      {
+        "person_slug": "vladimir-pavic",
+        "role_slug": "furst-igor/nikolai-rimski-korsakow"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "furst-igor/owlur"
+      },
+      {
+        "person_slug": "juho-sten",
+        "role_slug": "furst-igor/skula"
+      },
+      {
+        "person_slug": "lukas-enoch-lemcke",
+        "role_slug": "furst-igor/skula"
+      },
+      {
+        "person_slug": "arthur-espiritu",
+        "role_slug": "furst-igor/wladimir"
       }
     ]
   },
@@ -916,8 +1336,68 @@
     ],
     "cast": [
       {
+        "person_slug": "alexandra-reinprecht",
+        "role_slug": "hansel-und-gretel/gertrud"
+      },
+      {
+        "person_slug": "annemarie-pfahler",
+        "role_slug": "hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "sophia-keiler",
+        "role_slug": "hansel-und-gretel/gretel"
+      },
+      {
+        "person_slug": "anna-katharina-tonauer",
+        "role_slug": "hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "anna-tetruashvili",
+        "role_slug": "hansel-und-gretel/hansel"
+      },
+      {
+        "person_slug": "anna-agathonos",
+        "role_slug": "hansel-und-gretel/knusperhexe"
+      },
+      {
+        "person_slug": "caspar-krieger",
+        "role_slug": "hansel-und-gretel/knusperhexe"
+      },
+      {
+        "person_slug": "juan-carlos-falcon",
+        "role_slug": "hansel-und-gretel/knusperhexe"
+      },
+      {
+        "person_slug": "alexander-grassauer",
+        "role_slug": "hansel-und-gretel/peter"
+      },
+      {
+        "person_slug": "ludwig-mittelhammer",
+        "role_slug": "hansel-und-gretel/peter"
+      },
+      {
+        "person_slug": "matija-meic",
+        "role_slug": "hansel-und-gretel/peter"
+      },
+      {
         "person_slug": "peter-kertz",
         "role_slug": "hansel-und-gretel/regie-nach"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "hansel-und-gretel/sandmannchen"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "hansel-und-gretel/sandmannchen"
+      },
+      {
+        "person_slug": "tamara-obermayr",
+        "role_slug": "hansel-und-gretel/taumannchen"
+      },
+      {
+        "person_slug": "yoojin-lee",
+        "role_slug": "hansel-und-gretel/taumannchen"
       }
     ]
   },

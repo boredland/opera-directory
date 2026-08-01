@@ -514,8 +514,12 @@
     "work_slug": "gioacchino-rossini/ein-fall-fur-figaro",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
-    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/ein-fall-fuer-figaro/07-06-2026/1700",
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/ein-fall-fuer-figaro/06-11-2026/1800",
     "creative_team": [
+      {
+        "person_slug": "andreas-paetzold",
+        "function": "conductor"
+      },
       {
         "person_slug": "christopher-schumann",
         "function": "conductor"
@@ -551,20 +555,16 @@
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/basi"
       },
       {
-        "person_slug": "uwe-schenker-primus",
+        "person_slug": "taras-konoshchenko",
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/bert-o-muller"
       },
       {
-        "person_slug": "clarissa-maria-undritz",
+        "person_slug": "caroline-ottocan",
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/berta"
       },
       {
         "person_slug": "demian-matushevskyi",
         "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/figaro"
-      },
-      {
-        "person_slug": "jugendopernchor-des-staatstheater-nurnberg",
-        "role_slug": "gioacchino-rossini/ein-fall-fur-figaro/jugendopernchor"
       },
       {
         "person_slug": "philipp-roosz-irina-roosz",
@@ -859,7 +859,7 @@
     "work_slug": "giuseppe-verdi/la-traviata",
     "house_slug": "staatstheater-nuernberg",
     "is_revival": false,
-    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-25-26/la-traviata/04-10-2025/1930",
+    "detail_url": "https://www.staatstheater-nuernberg.de/spielplan-26-27/la-traviata/27-09-2026/1800",
     "creative_team": [
       {
         "person_slug": "tarmo-vaask",
@@ -867,6 +867,10 @@
       },
       {
         "person_slug": "bjorn-huestege",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christopher-schumann",
         "function": "conductor"
       },
       {
@@ -916,11 +920,11 @@
         "role_slug": "giuseppe-verdi/la-traviata/flora-bervoix"
       },
       {
-        "person_slug": "kellan-dunlap",
+        "person_slug": "sakhumzi-martins",
         "role_slug": "giuseppe-verdi/la-traviata/gastone"
       },
       {
-        "person_slug": "sangmin-lee",
+        "person_slug": "adam-kim",
         "role_slug": "giuseppe-verdi/la-traviata/giorgio-germont"
       },
       {

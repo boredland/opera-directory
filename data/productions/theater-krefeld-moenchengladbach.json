@@ -1,5 +1,27 @@
 [
   {
+    "id": "theater-krefeld-moenchengladbach/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "work_slug": "benjamin-britten/das-geheimnis-von-bly-the-turn-of-the-screw",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/das-geheimnis-von-bly-the-turn-of-the-screw/",
+    "creative_team": [
+      {
+        "person_slug": "sebastian-engel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ulrike-aistleitner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "hinrich-horstkotte",
+        "function": "Inszenierung & Ausstattung"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "theater-krefeld-moenchengladbach/der-bajazzo",
     "work_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci",
     "house_slug": "theater-krefeld-moenchengladbach",
@@ -61,6 +83,32 @@
         "role_slug": "ruggero-leoncavallo/der-bajazzo-pagliacci/tonio-taddeo"
       }
     ]
+  },
+  {
+    "id": "theater-krefeld-moenchengladbach/die-verkaufte-braut",
+    "work_slug": "bedrich-smetana/die-verkaufte-braut",
+    "house_slug": "theater-krefeld-moenchengladbach",
+    "is_revival": false,
+    "detail_url": "https://theater-kr-mg.de/spielplan/die-verkaufte-braut/",
+    "creative_team": [
+      {
+        "person_slug": "charlotte-werkmeister",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "maren-schafer",
+        "function": "director"
+      },
+      {
+        "person_slug": "ulrike-aistleitner",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "dorien-thomsen",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "theater-krefeld-moenchengladbach/herzog-blaubarts-burg-aerger-in-tahiti",
