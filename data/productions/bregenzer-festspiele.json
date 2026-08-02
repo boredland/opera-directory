@@ -278,11 +278,24 @@
     "house_slug": "bregenzer-festspiele",
     "is_revival": false,
     "detail_url": "https://bregenzerfestspiele.com/de/musiktheater/passion-of-the-common-man",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "daniel-bjarnason",
+        "function": "conductor"
+      }
+    ],
     "cast": [
       {
         "person_slug": "jacques-imbrailo",
         "role_slug": "daniel-bjarnason/passion-of-the-common-man/bariton"
+      },
+      {
+        "person_slug": "netia-jones",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/inszenierung-design"
+      },
+      {
+        "person_slug": "royce-vavrek",
+        "role_slug": "daniel-bjarnason/passion-of-the-common-man/libretto"
       },
       {
         "person_slug": "anne-sofie-von-otter",
@@ -320,12 +333,28 @@
     ],
     "cast": [
       {
+        "person_slug": "henry-neill",
+        "role_slug": "wen-liu/yum/bariton"
+      },
+      {
         "person_slug": "flavia-mazzanti",
         "role_slug": "wen-liu/yum/beratung-xr-design"
       },
       {
         "person_slug": "wen-liu",
         "role_slug": "wen-liu/yum/kunstlerische-konzeption-xr-konzept-libretto-und-komposition"
+      },
+      {
+        "person_slug": "emmi-kauppinen",
+        "role_slug": "wen-liu/yum/sopran"
+      },
+      {
+        "person_slug": "johanna-rusanen",
+        "role_slug": "wen-liu/yum/sopran"
+      },
+      {
+        "person_slug": "adrian-autard",
+        "role_slug": "wen-liu/yum/tenor"
       }
     ]
   }

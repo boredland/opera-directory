@@ -544,7 +544,7 @@
     ],
     "cast": [
       {
-        "person_slug": "tba",
+        "person_slug": "maria-bayankina",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/kuma-nastasya"
       },
       {
@@ -552,11 +552,11 @@
         "role_slug": "pyotr-tchaikovsky/the-enchantress/mamyrov-kudma"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "pavel-yankovsky",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/prince-kurlyatev"
       },
       {
-        "person_slug": "tba",
+        "person_slug": "sergei-skorokhodov",
         "role_slug": "pyotr-tchaikovsky/the-enchantress/prince-yuri"
       },
       {
@@ -3632,6 +3632,10 @@
         "role_slug": "igor-stravinsky/the-rake-s-progress/nick-shadow"
       },
       {
+        "person_slug": "grigory-yakerson",
+        "role_slug": "igor-stravinsky/the-rake-s-progress/piano"
+      },
+      {
         "person_slug": "sergei-semishkur",
         "role_slug": "igor-stravinsky/the-rake-s-progress/sellem"
       },
@@ -3640,7 +3644,7 @@
         "role_slug": "igor-stravinsky/the-rake-s-progress/tom-rakewell"
       },
       {
-        "person_slug": "miroslav-molchanov",
+        "person_slug": "stepan-zavalishin",
         "role_slug": "igor-stravinsky/the-rake-s-progress/trulove"
       }
     ]
