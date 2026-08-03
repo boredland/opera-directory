@@ -126,6 +126,13 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-bielefeld/der-troubadour-il-trovatore/2026-12-29/19:30",
+    "production_id": "theater-bielefeld/der-troubadour-il-trovatore",
+    "date": "2026-12-29",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-bielefeld/der-troubadour-il-trovatore/2027-01-08/19:30",
     "production_id": "theater-bielefeld/der-troubadour-il-trovatore",
     "date": "2027-01-08",
@@ -297,6 +304,13 @@
     "id": "theater-bielefeld/ein-sommernachtstraum-a-midsummer-nights-dream/2026-12-17/19:30",
     "production_id": "theater-bielefeld/ein-sommernachtstraum-a-midsummer-nights-dream",
     "date": "2026-12-17",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bielefeld/ein-sommernachtstraum-a-midsummer-nights-dream/2026-12-27/19:30",
+    "production_id": "theater-bielefeld/ein-sommernachtstraum-a-midsummer-nights-dream",
+    "date": "2026-12-27",
     "time": "19:30",
     "status": "scheduled"
   },
@@ -500,6 +514,13 @@
     "id": "theater-bielefeld/the-birds-of-alfred-hitchcock/2026-11-08/19:30",
     "production_id": "theater-bielefeld/the-birds-of-alfred-hitchcock",
     "date": "2026-11-08",
+    "time": "19:30",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-bielefeld/the-birds-of-alfred-hitchcock/2026-12-02/19:30",
+    "production_id": "theater-bielefeld/the-birds-of-alfred-hitchcock",
+    "date": "2026-12-02",
     "time": "19:30",
     "status": "scheduled"
   },

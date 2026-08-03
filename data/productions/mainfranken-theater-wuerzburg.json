@@ -172,5 +172,80 @@
         "role_slug": "ralph-benatzky/im-wei-en-rossl/zahlkellner"
       }
     ]
+  },
+  {
+    "id": "mainfranken-theater-wuerzburg/nabucco",
+    "work_slug": "giuseppe-verdi/nabucco",
+    "house_slug": "mainfranken-theater-wuerzburg",
+    "is_revival": false,
+    "detail_url": "https://www.mainfrankentheater.de/programm/spielplan/nabucco/2943/",
+    "creative_team": [
+      {
+        "person_slug": "pawel-serafin",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "mark-rohde",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pia-preu",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alicia-geugelin",
+        "function": "director"
+      },
+      {
+        "person_slug": "samuel-zinsli",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "andreas-rehfeld",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "letycia-rossi",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "krzysztof-honowski",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "mathew-habib",
+        "role_slug": "giuseppe-verdi/nabucco/abdallo"
+      },
+      {
+        "person_slug": "hulkar-sabirova",
+        "role_slug": "giuseppe-verdi/nabucco/abigaille"
+      },
+      {
+        "person_slug": "milena-arsovska",
+        "role_slug": "giuseppe-verdi/nabucco/anna"
+      },
+      {
+        "person_slug": "vero-miller",
+        "role_slug": "giuseppe-verdi/nabucco/fenena"
+      },
+      {
+        "person_slug": "benedikt-al-daimi",
+        "role_slug": "giuseppe-verdi/nabucco/gran-sacerdote"
+      },
+      {
+        "person_slug": "iurie-ciobanu",
+        "role_slug": "giuseppe-verdi/nabucco/ismaele"
+      },
+      {
+        "person_slug": "alejandro-marco-buhrmester",
+        "role_slug": "giuseppe-verdi/nabucco/nabucco"
+      },
+      {
+        "person_slug": "shavleg-armasi",
+        "role_slug": "giuseppe-verdi/nabucco/zaccaria"
+      }
+    ]
   }
 ]
