@@ -1,5 +1,21 @@
 [
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-boyarina-morozova",
+    "work_slug": "rodion-shchedrin/boyarina-morozova",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2014-06-22",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/10/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/boyarina_morozova.jpg",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-guillaume-tell",
     "work_slug": "gioacchino-rossini/guillaume-tell",
     "house_slug": "mariinsky-theatre",
@@ -508,6 +524,35 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-elektra",
+    "work_slug": "richard-strauss/elektra",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2007-05-06",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/15/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/elektra/_banner_elektra_grigorieva_kravets_by_vilchuk.jpg",
+    "synopsis": "All of Elektra&acute;s thoughts are focussed on avenging the death of her father Agamemnon, killed by his wife Clytemnestra and her lover Aegisth. She avoids all communication with the murderers, patiently bearing the cruel treatment of her stepfather and the servants&acute; ridicule; she lives among the dogs and remains true to her decision to be a living reproof in this house, where the crime was committed. She awaits her brother Orest and hopes he will punish the evil couple. With a threatening expression on her face she openly declares to Clytemnestra that all her thoughts and desires are aimed at killing her and Aegisth with Orest&acute;s help. At the same time two travellers arrive with news of Orest&acute;s death. Elektra then begs her sister Chrysothemis to help her in her mission of revenge but Chrysothemis pulls away in terror. Elektra is filled with determination to carry out her plan alone and digs up the axe with which Aegisth killed Agamemnon. A stranger enters. Although his unusual tone initially troubles Elektra, she soon recognises him to be her brother when the old servants fall at his knees. One calls on Orest to act, and together they enter the queen&acute;s palace. In a state of extreme anxiety, Elektra keeps watch at the gates and runs back and forth like a caged animal. Clytemnestra&acute;s piercing scream is heard from inside the palace. When Aegisth returns home, with sly cordiality Elektra meets him and tells him that there are two messengers in the palace with \"the mistress\" who have brought news of Orest&acute;s death. Aegisth enters the palace where Orest kills him. In ecstasy, Elektra begins a triumphant dance. \"Those as happy as we can only be silent and dance!\" She makes a few convulsive movements and then falls to the ground, lifeless. Khristina Batyushina",
+    "creative_team": [
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jonathan-kent",
+        "function": "director"
+      },
+      {
+        "person_slug": "tim-mitchell",
+        "function": "lighting"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-enchantress",
     "work_slug": "pyotr-tchaikovsky/the-enchantress",
     "house_slug": "mariinsky-theatre",
@@ -612,8 +657,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "1982-11-13",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/15/1_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_temirk/onegin_pavlov2_by_vilchuk.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/21/1_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/evgenonegin_temirk/_onegin_banner.jpg",
     "synopsis": "The garden on the Larins’ estate . In the distance, Tatiana and Olga can be heard singing. Listening to them, Mrs Larina and Filippievna the nanny recall their own younger days. Visitors appear unexpectedly: Vladimir Lensky, the Larins’ neighbour and Olga’s fiancé, has brought with him his friend Onegin – a young man recently come down to the country from the capital. While Lensky declares his love to Olga, the new visitor chats with Tatiana. The nanny notes how excited Tatiana is at the meeting. Tatiana’s bedroom . Tatiana cannot sleep. Filippievna tries to dispel her anxiety with the tale of her own maidenly status. Once alone, Tatiana writes a letter to Onegin. With the arrival of dawn, she asks the nanny to deliver the letter. The Larins’ garden . Tatiana anxiously awaits a reply. Eugene appears – he is touched by her declaration but is unable to return her love. The Larins’ house . A ball in honour of Tatiana’s name day. Lensky has convinced his friend to visit the Larins, but the party and the guests serve to irritate Onegin. In revenge, he begins to play court to Olga. The readiness with which the young woman accepts his attentions drives Lensky to despair. He starts a quarrel with Onegin and challenges him to a duel. An abandoned mill . Lensky and his second await the arrival of Onegin. Lensky mournfully and nostalgically contemplates the former “golden days” of his youth. At last the rival comes. The former friends are willing to forget any offence caused, but ideals of honour gain the upper hand. A shot rings out and Lensky drops down dead. A room in a luxurious mansion in St Petersburg . Following a lengthy absence, Onegin returns to live in the capital. He finds Tatiana a married woman, now at the centre of attention having taken her place in high society. Her husband Prince Gremin speaks to Onegin of his happiness. The transformation of the young woman he knew awakens feelings of love in Onegin’s heart. The drawing-room in Gremin’s house . Weeping, Tati",
     "creative_team": [
       {
@@ -633,28 +678,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "mikhail-pavlov",
-        "role_slug": "pyotr-tchaikovsky/eugene-onegin/eugene-onegin"
-      },
-      {
-        "person_slug": "roman-shirokikh",
-        "role_slug": "pyotr-tchaikovsky/eugene-onegin/lensky"
-      },
-      {
-        "person_slug": "svetlana-karpova",
-        "role_slug": "pyotr-tchaikovsky/eugene-onegin/olga"
-      },
-      {
-        "person_slug": "gennady-bezzubenkov",
-        "role_slug": "pyotr-tchaikovsky/eugene-onegin/prince-gremin"
-      },
-      {
-        "person_slug": "inara-kozlovskaya",
-        "role_slug": "pyotr-tchaikovsky/eugene-onegin/tatyana"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-falstaff-semistage",
@@ -902,7 +926,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2025-11-24",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/16/1_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/19/1_1300/",
     "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/golden_cockerel_shishkina/_zolotoy_petushok_2025_eng.jpg",
     "synopsis": "Prologue The Astrologer warns the audience: this is a tale of fantasy, yet one with a hidden meaning. Act I A chamber in Tsar (King) Dodon’s palace. Neighbouring kingdoms threaten Dodon’s realm with war, and the king and his boyars debate what to do. At the council Dodon’s sons, Afron and Guidon, reveal both cowardice and recklessness. The boyars are about to resort to divination when the Astrologer appears. He presents the king with a Golden Cockerel that will warn of approaching danger. In gratitude for such a useful gift, Dodon promises: “Thy first command I shall fulfil as my own.” The Cockerel cries, “Kiri-ku-ku! Rule on, but rule in sleep!” The king and his courtiers fall asleep. In a dream Dodon sees a beautiful unknown maiden. Suddenly, the Cockerel gives a warning cry. All are alarmed. The Voivode (Commander) Polkan awakens the king, who sends his sons off to battle while he himself falls asleep again. The Cockerel sounds another alarm. Dodon arms himself and sets out on a campaign. Act II Night. The bodies of slain warriors lie scattered on the hills, among them Afron and Guidon, who have killed each other with their swords. The king arrives with his troops. Recognising his sons, he grieves for them, while Polkan calls for vengeance. They do not yet know that the brothers fought to the death for the favour of a mysterious beauty. Dawn breaks, revealing a splendid, ornamented pavilion. From it steps the Queen of Shemakha, light-footed and radiant, attended by her maidens. Dodon is struck: she is the very vision from his dream. The Queen declares she will conquer his land without raising a hand in battle. She enchants the old king and makes him dance with her maidens. The girls mock Dodon, but he is enraptured, ready to seat the Queen of Shemakha beside him on the throne. Act III A busy street in the capital. Atop a high spire perches the Golden Cockerel. The people anxiously await the royal procession. A golden chariot arrives, bearing the king and his new ",
     "creative_team": [
@@ -1109,7 +1133,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2007-06-21",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/6/11/1_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/13/2_1930/",
     "synopsis": "The action unfolds in 1865 in the fictional town of Roulettenburg near Spa. In the spa town of Roulettenburg, famed for its gaming houses, fate has brought together the retired General, Polina (his step-daughter), Alexei Ivanovich (the tutor of his children), the Marquis, Mr Astley and Mademoiselle Blanche of the demi-monde. The general has lost his fortune at roulette and is in debt to the Marquis. Moreover, the charms of Mademoiselle Blanche have completely turned his head. All of the General and his friends' hopes lie on the fortune of a rich Grandmother in Moscow, and they eagerly await news of her death. Instead of a telegram, however, the Grandmother herself arrives and, viewing the situation with a sober mind, resolves to disinherit the General. Intrigued by stories about roulette, she decides to see it with her own eyes. The Grandmother leaves the gaming house, having lost almost everything she had. The General sees marriage of his step-daughter to the Marquis as the only solution to this desperate problem. But Polina, having been subjected to the attentions of the Marquis, now understands the utter lowliness of the man, and the fact that she owes him a large sum of money makes her dependence even more torturous. Alexei Ivanovich promises Polina to procure the money. In the casino he has the most fantastic luck: he breaks the bank – twenty thousand francs. Polina, however, sensing that this is not money from a man in love with her but from the gambler's good luck, throws it into Alexei Ivanovich's face.",
     "creative_team": [
       {
@@ -1141,36 +1165,7 @@
         "function": "set-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "dmitry-golovnin",
-        "role_slug": "sergei-prokofiev/the-gambler/alexei"
-      },
-      {
-        "person_slug": "yekaterina-sergeyeva",
-        "role_slug": "sergei-prokofiev/the-gambler/blanche"
-      },
-      {
-        "person_slug": "elena-vitman",
-        "role_slug": "sergei-prokofiev/the-gambler/granny"
-      },
-      {
-        "person_slug": "yaroslav-petryanik",
-        "role_slug": "sergei-prokofiev/the-gambler/mr-astley"
-      },
-      {
-        "person_slug": "violetta-lukyanenko",
-        "role_slug": "sergei-prokofiev/the-gambler/pauline"
-      },
-      {
-        "person_slug": "oleg-sychov",
-        "role_slug": "sergei-prokofiev/the-gambler/the-general"
-      },
-      {
-        "person_slug": "gamid-abdulov",
-        "role_slug": "sergei-prokofiev/the-gambler/the-marquis"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-italiana-in-algieri",
@@ -1178,7 +1173,7 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "2022-07-27",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/9/1_1900/",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/20/1_1300/",
     "synopsis": "Act I In the palace of Mustafa , Bey of Algiers, the ruler has grown weary of his obedient and modest wife Elvira and desires to marry a daring and seductive Italian. He orders his corsair captain Ali to find him a foreign beauty. Mustafa offers his favorite Italian slave, Lindoro, Elvira's hand in marriage. Resisting the ruler's whim, Lindoro lists the qualities his bride should possess, but Mustafa leaves the youth with no choice. On the seashore, corsairs led by Ali divide the spoils from a shipwreck. Among the captives is the Italian Isabella, who set out in search of her beloved Lindoro accompanied by her new suitor Taddeo, who she presents as her uncle. Taddeo is terrified at the thought of captivity, but Isabella is confident in her power over any man. In the Bey's palace , neither Lindoro, faithful to his beloved, nor Elvira, whose heart belongs to Mustafa, wish to unite their destinies. However, when the Bey promises to send Lindoro back to his homeland with a bag of gold if he takes Elvira with him, Lindoro agrees. The Bey is informed of the captured Italian woman. In despair, Elvira begs Lindoro to bid Mustafa farewell before leaving. The Bey's concubines and eunuchs praise the invincible Bey. Isabella captivates Mustafa with her beauty; he completely loses his head and immediately grants her request to pardon Taddeo, who had angered captain Ali. Lindoro, arriving with Elvira and Zulma to bid the Bey farewell, unexpectedly encounters his beloved. Discovering that Mustafa is ready to forsake his wife for her, Isabella rejects his advances and demands the slave Lindoro for herself. Mustafa, driven mad with passion, becomes the laughingstock of all: from a lion, he has turned into a donkey. Act II In the palace, they discuss Mustafa's romantic follies. Ali assures Elvira that the cunning Italian will soon be exposed. Mustafa sends Isabella an invitation to coffee, boasting that he will soon conquer the beauty. Meanwhile, Lindoro tries to convince Isabella th",
     "creative_team": [
       {
@@ -1210,36 +1205,7 @@
         "function": "video-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "kristina-gontsa",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/elvira"
-      },
-      {
-        "person_slug": "miroslav-molchanov",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/haly"
-      },
-      {
-        "person_slug": "yekaterina-sergeyeva",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/isabella"
-      },
-      {
-        "person_slug": "alexander-mikhailov",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/lindoro"
-      },
-      {
-        "person_slug": "vadim-kravets",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/mustafa"
-      },
-      {
-        "person_slug": "sergei-romanov",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/taddeo"
-      },
-      {
-        "person_slug": "anna-knyazeva",
-        "role_slug": "gioachino-rossini/l-italiana-in-algeri/zulma"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-jiznzatsarja",
@@ -1689,6 +1655,35 @@
         "role_slug": "richard-wagner/lohengrin/telramund"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-lubovnuinapitok",
+    "work_slug": "gaetano-donizetti/l-elisir-d-amore",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2013-03-28",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/15/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/lubovnuinapitok/elisir_amore_kalagina_ahmedov.jpg",
+    "synopsis": "Act I The poor and bashful Nemorino is hopelessly in love with the rich and beautiful Adina. He hears her reading aloud the legend of Tristan, who has won the heart of Queen Isolde using a magic love potion. While Nemorino is dreaming about this magic potion, soldiers under the command of Sergeant Belcore enter the village. Adina immediately attracts the brave warrior's attention. He does not plan to hang around long: let Adina name the wedding day immediately! And yet the girl dislikes the sergeant's self-assurance. She cunningly and coquettishly spurns the advances of her unlucky admirer. Seizing the moment, once everyone has left, the unhappy Nemorino hastens to declare his love for Adina, but the mischievous imp tells him that faithful and constant love is not for her. The itinerant medicine man Dulcamara, a charlatan and scoundrel, arrives in the village. The sales of \"miracle-balsams\" are well underway. The unfortunate Nemorino, too, turns to him for help: \"Do you not have Isolde's love potion?\" Pleased to be addressing such a simple fellow, Dulcamara gives the youth a bottle of everyday Bordeaux and promises that the \"elixir\" will act within a day, calculating the amount of time he needs to get far away from the place. Nemorino's impatience is so great that he immediately drains the bottle of its \"elixir of love\". He believes that the potion is having an immediate effect. Confident that Adina will soon fall in love with him, Nemorino feigns coldness. Such novel and unexpected behaviour from her admirer wounds the girl's pride. The arrival of the sergeant gives her a hint as to how she can repay Nemorino. She promises her hand to Belcore. Suddenly the sergeant receives the order to abandon the village. Adina agrees to hold the wedding that very day. Nemorino's head is instantly cleared of tipsiness. Understanding that he is losing his love forever, the luckless youth begs her to postpone the wedding at least until the next day. Act II Preparations for the wedd",
+    "creative_team": [
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "alexander-petrov",
+        "function": "director"
+      },
+      {
+        "person_slug": "alexei-tarasov",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "vladimir-firer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-madambatt",
@@ -3077,6 +3072,51 @@
         "role_slug": "wolfgang-amadeus-mozart/le-nozze-di-figaro/susanna"
       }
     ]
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-tanhauser-m2",
+    "work_slug": "richard-wagner/tannhauser",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2021-06-17",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/22/2_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/tanhauser_m2/tannh_user_m2.png",
+    "synopsis": "Inside the Hörselberg, where Venus' kingdom is to be found. Tannhäuser the knight and singer once found his way inside and became the beloved of the goddess of love herself. His life was filled with enjoyment. Having had his fill of all that, the knight has resolved to leave Venus and return to people. He is stifled in the rosy intoxication of Venus' kingdom, and once again he wishes to breathe fresh forest air and hear birds singing and bells ringing. In vain, the insulted goddess tries to restrain Tannhäuser: neither tenderness nor prayers nor curses can stop him. With the name of the Virgin Mary on his lips, the minnesinger leaves Venus' mansion and finds himself in the flowering valley near Wartburg Castle. With fondness he hears the song of a shepherd. A procession of pilgrims passes by, heading for Rome. In the distance the sounds of hunters' horns can be made out. The landgrave of Thuringia appears in the accompaniment of knights. There was a time when the haughty Tannhäuser left them. Now one of the knights, Tannhäuser's old friend Wolfram von Eschenbach, asks him to return to Wartburg and participate in a singing contest. Tannhäuser initially refuses, but on discovering that the landgrave's niece Elisabeth misses him he joins the knights. In Wartburg, in the hall where the minnesinger knights are to compete in their art, Elisabeth's joyous call greets Tannhäuser. He arrives, accompanied by Wolfram. Elisabeth tells Tannhäuser about a new and unknown feeling that has come over her. The minnesinger rejoices: it is love! In delight, the lovers sing a hymn to the loftiest feeling of love. Wolfram is saddened, as his hopes for Elisabeth's heart have been shot down. The landgrave opens the competition and declares the theme of the contest: it is the essence of love. Wolfram sings the praises of pure loe, comparing it to a stream. Tannhäuser, who has only just returned from Venus' grotto, protests against his friend. The other knights – Walther von der Vogelweide a",
+    "creative_team": [
+      {
+        "person_slug": "andrei-petrenko",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "zhanna-usacheva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "vyacheslav-starodubtsev",
+        "function": "director"
+      },
+      {
+        "person_slug": "sergei-skornetsky",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pyotr-okunev",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "vadim-dulenko",
+        "function": "video-designer"
+      }
+    ],
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-toska",
