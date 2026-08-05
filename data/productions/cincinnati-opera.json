@@ -80,6 +80,66 @@
     ]
   },
   {
+    "id": "cincinnati-opera/cincinnati-opera-john-lewis-good-trouble",
+    "work_slug": "maria-thompson-corley/john-lewis-good-trouble",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "en",
+    "detail_url": "https://www.cincinnatiopera.org/john-lewis-good-trouble",
+    "creative_team": [
+      {
+        "person_slug": "everett-mccorvey",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "trevor-bowen",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "anthony-cisek",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "victoria-okafor",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/diane-nash-older-sister"
+      },
+      {
+        "person_slug": "markel-reed",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/dr-martin-luther-king-jr-james-lawson-jailer"
+      },
+      {
+        "person_slug": "ron-dukes",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/eddie-lewis-jim-forman"
+      },
+      {
+        "person_slug": "kevin-short",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/elder-john-lewis"
+      },
+      {
+        "person_slug": "andrew-turner",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/james-bevel-older-brother"
+      },
+      {
+        "person_slug": "marietta-simpson",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/lillian-miles-lewis"
+      },
+      {
+        "person_slug": "sirgourney-cook",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/willa-mae-congresswoman-student"
+      },
+      {
+        "person_slug": "freddie-ballentine",
+        "role_slug": "maria-thompson-corley/john-lewis-good-trouble/younger-john-lewis"
+      }
+    ]
+  },
+  {
     "id": "cincinnati-opera/cincinnati-opera-lalovavi",
     "work_slug": "kevin-day/lalovavi",
     "house_slug": "cincinnati-opera",
@@ -296,6 +356,102 @@
       {
         "person_slug": "mark-hockenberry",
         "role_slug": "richard-strauss/salome/third-jew"
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-opera/cincinnati-opera-the-marriage-of-figaro",
+    "work_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.cincinnatiopera.org/the-marriage-of-figaro",
+    "creative_team": [
+      {
+        "person_slug": "henri-venanzi",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "lorenzo-passerini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "elizabeth-licata",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "megan-moore",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/cherubino"
+      },
+      {
+        "person_slug": "philip-addis",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/count-almaviva"
+      },
+      {
+        "person_slug": "janai-brugger",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/countess-almaviva"
+      },
+      {
+        "person_slug": "patrick-carfizzi",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/doctor-bartolo"
+      },
+      {
+        "person_slug": "lawson-anderson",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/figaro"
+      },
+      {
+        "person_slug": "sarah-folsom",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/marcellina"
+      },
+      {
+        "person_slug": "cadie-j-bryan",
+        "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-opera/cincinnati-opera-turandot",
+    "work_slug": "giacomo-puccini/turandot",
+    "house_slug": "cincinnati-opera",
+    "is_revival": false,
+    "language": "it",
+    "detail_url": "https://www.cincinnatiopera.org/turandot",
+    "creative_team": [
+      {
+        "person_slug": "lorenzo-passerini",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "thomas-c-hase",
+        "function": "lighting"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "kyle-white",
+        "role_slug": "giacomo-puccini/turandot/a-mandarin"
+      },
+      {
+        "person_slug": "mathew-white",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "kathryn-lewek",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "donovan-singletary",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "jessica-faselt",
+        "role_slug": "giacomo-puccini/turandot/turnandot"
       }
     ]
   }

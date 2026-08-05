@@ -16,11 +16,36 @@
         "function": "director"
       },
       {
-        "person_slug": "steven-kemp",
+        "person_slug": "steven-c-kemp",
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "carlos-ahrens",
+        "role_slug": "ruggero-leoncavallo/pagliacci/beppe"
+      },
+      {
+        "person_slug": "zach-borichevsky",
+        "role_slug": "ruggero-leoncavallo/pagliacci/canio"
+      },
+      {
+        "person_slug": "sarah-tucker",
+        "role_slug": "ruggero-leoncavallo/pagliacci/nedda-nov-15-21-22"
+      },
+      {
+        "person_slug": "kathryn-lewek",
+        "role_slug": "ruggero-leoncavallo/pagliacci/nedda-nov-6-8-13"
+      },
+      {
+        "person_slug": "hunter-enoch",
+        "role_slug": "ruggero-leoncavallo/pagliacci/silvio"
+      },
+      {
+        "person_slug": "kidon-choi",
+        "role_slug": "ruggero-leoncavallo/pagliacci/tonio"
+      }
+    ]
   },
   {
     "id": "virginia-opera/virginia-opera-swiping-right-opera-in-the-age-of-online-dating",
@@ -48,7 +73,7 @@
         "function": "director"
       },
       {
-        "person_slug": "steven-kemp",
+        "person_slug": "steven-c-kemp",
         "function": "set-designer"
       }
     ],

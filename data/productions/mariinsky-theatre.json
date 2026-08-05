@@ -297,7 +297,28 @@
         "function": "director"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "vladislav-kupriyanov",
+        "role_slug": "giacomo-puccini/la-boheme/marcello"
+      },
+      {
+        "person_slug": "gelena-gaskarova",
+        "role_slug": "giacomo-puccini/la-boheme/mimi"
+      },
+      {
+        "person_slug": "valeria-lebedieva",
+        "role_slug": "giacomo-puccini/la-boheme/musetta"
+      },
+      {
+        "person_slug": "kirill-belov",
+        "role_slug": "giacomo-puccini/la-boheme/rodolfo"
+      },
+      {
+        "person_slug": "egor-sotov",
+        "role_slug": "giacomo-puccini/la-boheme/schaunard"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-carmen2016",
@@ -2070,6 +2091,47 @@
     ]
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-ocharovannuistrannik",
+    "work_slug": "rodion-shchedrin/the-enchanted-wanderer",
+    "house_slug": "mariinsky-theatre",
+    "premiere_date": "2008-07-26",
+    "is_revival": false,
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/23/3_1900/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/ocharovannuistrannik/strannik_banner_sychev_by_razina.jpg",
+    "synopsis": "ACT I Ivan Severyanovich Flyagin, a novice at the monastery in Valaam, is reminiscing about former days. Before renouncing the material world, he once accidentally whipped a monk to death. The monk appeared in a vision, reproaching Ivan for taking his life before he could make his final confession. He told Ivan Severyanovich that he was God&acute;s \"promised\" son and that he would die but never pass on until real \"death\" comes, so Ivan enters the monastery on the island of Valaam. And although Ivan Severyanovich did not believe in it, the monk&acute;s prophesy came true. While on his travels, Ivan was captured by the Tatars and lived with them for ten years in Ryn-peski. He managed to flee from them, met with some shepherds on his way back to his native land and entered the service of a Prince, who admired him for his skill with horses. But after three years of devoted service Ivan Severyanovich took to drinking binges. At an inn, Flyagin met a landowner with the gift of hypnosis. The same night in another inn Ivan Severyanovich spent all the money entrusted to him by the Prince on Grusha, a beautiful gypsy songstress. ACT II When the Prince demands his five thousand roubles, Flyagin shows remorse and relates his tale of the beautiful gypsy. Having fallen in love with Grusha, the Prince paid her immense dowry of fifty thousand gold roubles and took her home with him. But the Prince is a fickle man and he soon tired of Grusha. During his trip to town, Ivan found out that his master planned to marry a rich noblewoman and, returning home, could not find the gypsy girl: the Prince secretly removed her to the swampy woodlands. But Grusha escaped her incarceration, met Flyagin and forced him to take a dreadful oath – to kill her, otherwise she would kill the unfaithful Prince and his young bride. In order to carry out Grusha&acute;s request, Ivan Severyanovich throws her into a river from a cliff top. The chorus mourns her death. In his visions Ivan Severyanovich Flyagin ",
+    "creative_team": [
+      {
+        "person_slug": "dmitry-korneyev",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "konstantin-rylov",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "valery-gergiev",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "irina-cherednikova",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexei-stepanyuk",
+        "function": "director"
+      },
+      {
+        "person_slug": "yevgeny-ganzburg",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "alexander-orlov",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
     "work_slug": "sergei-prokofiev/the-love-for-three-oranges",
     "house_slug": "mariinsky-theatre",
@@ -2323,7 +2385,32 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "tba",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/count-tomsky"
+      },
+      {
+        "person_slug": "oleg-dolgov",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/herman"
+      },
+      {
+        "person_slug": "inara-kozlovskaya",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/liza"
+      },
+      {
+        "person_slug": "zinaida-tsarenko",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/polina"
+      },
+      {
+        "person_slug": "tba",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/prince-eletsky"
+      },
+      {
+        "person_slug": "olga-borodina",
+        "role_slug": "pyotr-tchaikovsky/the-queen-of-spades/the-countess"
+      }
+    ]
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-puritane",
