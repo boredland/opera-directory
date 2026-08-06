@@ -706,14 +706,6 @@
         "role_slug": "giuseppe-verdi/aida/high-priestess"
       },
       {
-        "person_slug": "koit-soasepp",
-        "role_slug": "giuseppe-verdi/aida/king-of-egypt"
-      },
-      {
-        "person_slug": "volodymyr-tyshkov",
-        "role_slug": "giuseppe-verdi/aida/king-of-egypt"
-      },
-      {
         "person_slug": "johannes-pessi",
         "role_slug": "giuseppe-verdi/aida/messenger"
       },
@@ -736,6 +728,14 @@
       {
         "person_slug": "young-doo-park",
         "role_slug": "giuseppe-verdi/aida/ramfis"
+      },
+      {
+        "person_slug": "koit-soasepp",
+        "role_slug": "giuseppe-verdi/aida/the-king"
+      },
+      {
+        "person_slug": "volodymyr-tyshkov",
+        "role_slug": "giuseppe-verdi/aida/the-king"
       }
     ]
   },

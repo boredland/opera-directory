@@ -197,7 +197,7 @@
         "function": "lighting"
       },
       {
-        "person_slug": "nela-stoyanova",
+        "person_slug": "nella-stoyanova",
         "function": "set-designer"
       }
     ],
@@ -423,6 +423,53 @@
       {
         "person_slug": "jacopo-ferretti",
         "role_slug": "gioachino-rossini/la-cenerentola/libtertto"
+      }
+    ]
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1067",
+    "work_slug": "georg-friedrich-handel/agrippina",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1067",
+    "creative_team": [
+      {
+        "person_slug": "constantin-trinks",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "romelia-lichtenstein",
+        "role_slug": "georg-friedrich-handel/agrippina/agrippina"
+      },
+      {
+        "person_slug": "ki-hyun-park",
+        "role_slug": "georg-friedrich-handel/agrippina/claudio"
+      },
+      {
+        "person_slug": "anton-andreev",
+        "role_slug": "georg-friedrich-handel/agrippina/lesbo"
+      },
+      {
+        "person_slug": "tsveta-sarambelieva",
+        "role_slug": "georg-friedrich-handel/agrippina/narciso"
+      },
+      {
+        "person_slug": "leandro-marziotte",
+        "role_slug": "georg-friedrich-handel/agrippina/nerone"
+      },
+      {
+        "person_slug": "christopher-ainslie",
+        "role_slug": "georg-friedrich-handel/agrippina/ottone"
+      },
+      {
+        "person_slug": "lars-conrad",
+        "role_slug": "georg-friedrich-handel/agrippina/pallante"
+      },
+      {
+        "person_slug": "maria-pavlova",
+        "role_slug": "georg-friedrich-handel/agrippina/poppea"
       }
     ]
   },

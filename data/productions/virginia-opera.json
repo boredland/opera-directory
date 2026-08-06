@@ -77,6 +77,43 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "yichen-xue",
+        "role_slug": "giacomo-puccini/turandot/a-mandarin"
+      },
+      {
+        "person_slug": "samuel-white",
+        "role_slug": "giacomo-puccini/turandot/calaf"
+      },
+      {
+        "person_slug": "xiaojie-ji",
+        "role_slug": "giacomo-puccini/turandot/emperor-altoum"
+      },
+      {
+        "person_slug": "symone-harcum",
+        "role_slug": "giacomo-puccini/turandot/liu"
+      },
+      {
+        "person_slug": "carlos-ahrens",
+        "role_slug": "giacomo-puccini/turandot/pang"
+      },
+      {
+        "person_slug": "joel-clemens",
+        "role_slug": "giacomo-puccini/turandot/ping"
+      },
+      {
+        "person_slug": "david-blalock",
+        "role_slug": "giacomo-puccini/turandot/pong"
+      },
+      {
+        "person_slug": "kevin-thompson",
+        "role_slug": "giacomo-puccini/turandot/timur"
+      },
+      {
+        "person_slug": "alexandra-lobianco",
+        "role_slug": "giacomo-puccini/turandot/turandot"
+      }
+    ]
   }
 ]

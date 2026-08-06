@@ -230,6 +230,10 @@
     ],
     "cast": [
       {
+        "person_slug": "alexa-jarvis",
+        "role_slug": "richard-strauss/salome/an-attendant"
+      },
+      {
         "person_slug": "nathan-stark",
         "role_slug": "richard-strauss/salome/fifth-jew-second-soldier"
       },
@@ -274,8 +278,8 @@
         "role_slug": "richard-strauss/salome/second-jew"
       },
       {
-        "person_slug": "alexa-jarvis",
-        "role_slug": "richard-strauss/salome/slave"
+        "person_slug": "michael-j-hawk",
+        "role_slug": "richard-strauss/salome/second-nazarene-a-cappadocian"
       },
       {
         "person_slug": "john-marzano",
