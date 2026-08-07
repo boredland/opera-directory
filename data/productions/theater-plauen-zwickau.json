@@ -257,6 +257,10 @@
     "detail_url": "https://www.theater-plauen-zwickau.de/spielplan.php?seite=0&id=2463",
     "creative_team": [
       {
+        "person_slug": "michael-konstantin",
+        "function": "chorus-master"
+      },
+      {
         "person_slug": "gmd-stefan-neubert",
         "function": "conductor"
       },
@@ -265,7 +269,7 @@
         "function": "director"
       },
       {
-        "person_slug": "christina-schmidt",
+        "person_slug": "alexander-busch",
         "function": "dramaturgy"
       },
       {
@@ -273,7 +277,52 @@
         "function": "set-designer"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "nikolaus-nitzsche",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-fernando"
+      },
+      {
+        "person_slug": "gabriel-wernick",
+        "role_slug": "ludwig-van-beethoven/fidelio/don-pizarro"
+      },
+      {
+        "person_slug": "wonjong-lee",
+        "role_slug": "ludwig-van-beethoven/fidelio/florestan"
+      },
+      {
+        "person_slug": "ulrike-berger",
+        "role_slug": "ludwig-van-beethoven/fidelio/inspizienz"
+      },
+      {
+        "person_slug": "andre-gass",
+        "role_slug": "ludwig-van-beethoven/fidelio/jaquino"
+      },
+      {
+        "person_slug": "christina-maria-gass",
+        "role_slug": "ludwig-van-beethoven/fidelio/leonore"
+      },
+      {
+        "person_slug": "elisabeth-birgmeier",
+        "role_slug": "ludwig-van-beethoven/fidelio/marzelline"
+      },
+      {
+        "person_slug": "boris-brinkmann",
+        "role_slug": "ludwig-van-beethoven/fidelio/musikalische-einstudierung"
+      },
+      {
+        "person_slug": "thomas-bohmer",
+        "role_slug": "ludwig-van-beethoven/fidelio/regieassistenz-abendspielleitung"
+      },
+      {
+        "person_slug": "andrey-valiguras",
+        "role_slug": "ludwig-van-beethoven/fidelio/rocco"
+      },
+      {
+        "person_slug": "ulrike-berger",
+        "role_slug": "ludwig-van-beethoven/fidelio/soufflage"
+      }
+    ]
   },
   {
     "id": "theater-plauen-zwickau/2466",

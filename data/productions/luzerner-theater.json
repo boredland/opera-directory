@@ -518,6 +518,10 @@
         "function": "conductor"
       },
       {
+        "person_slug": "paul-boris-kertsman",
+        "function": "conductor"
+      },
+      {
         "person_slug": "victor-petrov",
         "function": "conductor"
       },
@@ -548,6 +552,10 @@
     ],
     "cast": [
       {
+        "person_slug": "stephan-lieb",
+        "role_slug": "frederick-loewe/my-fair-lady/2-obsthandler"
+      },
+      {
         "person_slug": "flurin-caduff",
         "role_slug": "frederick-loewe/my-fair-lady/alfred-p-doolittle-elizas-vater"
       },
@@ -561,11 +569,19 @@
       },
       {
         "person_slug": "jan-veljak",
-        "role_slug": "frederick-loewe/my-fair-lady/harry"
+        "role_slug": "frederick-loewe/my-fair-lady/harry-3-obsthandler"
       },
       {
         "person_slug": "fabian-meinen",
-        "role_slug": "frederick-loewe/my-fair-lady/jamie-3-obsthandler"
+        "role_slug": "frederick-loewe/my-fair-lady/jamie-1-obsthandler"
+      },
+      {
+        "person_slug": "marco-bappert",
+        "role_slug": "frederick-loewe/my-fair-lady/kneipenwirt-george"
+      },
+      {
+        "person_slug": "angela-montagano",
+        "role_slug": "frederick-loewe/my-fair-lady/mrs-eynsford-hill"
       },
       {
         "person_slug": "caroline-vitale",

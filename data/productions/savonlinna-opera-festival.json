@@ -1,5 +1,103 @@
 [
   {
+    "id": "savonlinna-opera-festival/savonlinna-andreachenier27",
+    "work_slug": "umberto-giordano/andrea-chenier",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/andreachenier27/",
+    "creative_team": [
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "takis",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "rodula-gaitanou",
+        "function": "director"
+      },
+      {
+        "person_slug": "takis",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "angelo-villari",
+        "role_slug": "umberto-giordano/andrea-chenier/andrea-chenier"
+      },
+      {
+        "person_slug": "tommi-hakala",
+        "role_slug": "umberto-giordano/andrea-chenier/carlo-gerard"
+      },
+      {
+        "person_slug": "malgorzata-walewska",
+        "role_slug": "umberto-giordano/andrea-chenier/countess-di-coigny-madelon"
+      },
+      {
+        "person_slug": "tuomas-miettola",
+        "role_slug": "umberto-giordano/andrea-chenier/incredible"
+      },
+      {
+        "person_slug": "camilla-nylund",
+        "role_slug": "umberto-giordano/andrea-chenier/maddalena-di-coigny"
+      },
+      {
+        "person_slug": "waltteri-torikka",
+        "role_slug": "umberto-giordano/andrea-chenier/roucher"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-carmen27",
+    "work_slug": "georges-bizet/carmen",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/carmen27/",
+    "creative_team": [
+      {
+        "person_slug": "pierre-emmanuel-rousseau",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "pierre-emmanuel-rousseau",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "pierre-emmanuel-rousseau",
+        "function": "director"
+      },
+      {
+        "person_slug": "pierre-emmanuel-rousseau",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "lilia-istratii",
+        "role_slug": "georges-bizet/carmen/carmen"
+      },
+      {
+        "person_slug": "mario-rojas",
+        "role_slug": "georges-bizet/carmen/don-jose"
+      },
+      {
+        "person_slug": "raiko-raalik",
+        "role_slug": "georges-bizet/carmen/escamillo"
+      },
+      {
+        "person_slug": "kadri-raalik",
+        "role_slug": "georges-bizet/carmen/micaela"
+      }
+    ]
+  },
+  {
     "id": "savonlinna-opera-festival/savonlinna-la-traviata2026",
     "work_slug": "giuseppe-verdi/la-traviata",
     "house_slug": "savonlinna-opera-festival",
@@ -352,6 +450,136 @@
       {
         "person_slug": "lucrezia-drei",
         "role_slug": "wolfgang-amadeus-mozart/the-marriage-of-figaro/susanna"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-thebarberofseville27",
+    "work_slug": "gioachino-rossini/the-barber-of-seville",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/thebarberofseville27/",
+    "creative_team": [
+      {
+        "person_slug": "lotta-kuusisto",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "n-n",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "teemu-muurimaki",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "kari-heiskanen",
+        "function": "director"
+      },
+      {
+        "person_slug": "william-iles",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "antti-mattila",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "fabio-capitanucci",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/bartolo"
+      },
+      {
+        "person_slug": "matti-turunen",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/basilio"
+      },
+      {
+        "person_slug": "arttu-kataja",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/figaro"
+      },
+      {
+        "person_slug": "elsa-angervo",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/rosina"
+      },
+      {
+        "person_slug": "iris-candelaria",
+        "role_slug": "gioachino-rossini/the-barber-of-seville/rosina"
+      }
+    ]
+  },
+  {
+    "id": "savonlinna-opera-festival/savonlinna-themagicflute27",
+    "work_slug": "wolfgang-amadeus-mozart/the-magic-flute",
+    "house_slug": "savonlinna-opera-festival",
+    "is_revival": false,
+    "detail_url": "https://operafestival.fi/en/ohjelmisto/themagicflute27/",
+    "creative_team": [
+      {
+        "person_slug": "jan-schweiger",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "kristian-sallinen",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "toni-businger",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "august-everding",
+        "function": "director"
+      },
+      {
+        "person_slug": "toni-businger",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "minna-leena-lahti",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/1st-woman"
+      },
+      {
+        "person_slug": "pihla-terttunen",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/2nd-woman"
+      },
+      {
+        "person_slug": "maiju-vaahtoluoto",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/3rd-woman"
+      },
+      {
+        "person_slug": "dan-karlstrom",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/monostatos"
+      },
+      {
+        "person_slug": "sonja-herranen",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/pamina"
+      },
+      {
+        "person_slug": "kristian-lindroos",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/papageno"
+      },
+      {
+        "person_slug": "petri-lindroos",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/sarastro"
+      },
+      {
+        "person_slug": "johan-krogius",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/tamino"
+      },
+      {
+        "person_slug": "suvi-vayrynen",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/the-queen-of-the-night"
+      },
+      {
+        "person_slug": "tuomas-pursio",
+        "role_slug": "wolfgang-amadeus-mozart/the-magic-flute/the-speaker"
       }
     ]
   }
