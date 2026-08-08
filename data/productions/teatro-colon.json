@@ -165,12 +165,20 @@
         "role_slug": "jacques-offenbach/les-contes-d-hoffmann/antonia"
       },
       {
+        "person_slug": "laura-pisani",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/antonia"
+      },
+      {
         "person_slug": "dmitry-ulyanov",
         "role_slug": "jacques-offenbach/les-contes-d-hoffmann/coppelius-dapertutto-docteur-miracle-lindorf"
       },
       {
         "person_slug": "nahuel-di-pierro",
         "role_slug": "jacques-offenbach/les-contes-d-hoffmann/coppelius-dapertutto-docteur-miracle-lindorf"
+      },
+      {
+        "person_slug": "alejandra-malvino",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/giulietta"
       },
       {
         "person_slug": "marina-costa-jackson",
@@ -187,6 +195,10 @@
       {
         "person_slug": "annalisa-stroppa",
         "role_slug": "jacques-offenbach/les-contes-d-hoffmann/nicklausse"
+      },
+      {
+        "person_slug": "constanza-diaz-falu",
+        "role_slug": "jacques-offenbach/les-contes-d-hoffmann/olympia"
       },
       {
         "person_slug": "mar-moran",
@@ -207,20 +219,7 @@
         "function": "conductor"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "ricardo-seguel",
-        "role_slug": "giacomo-puccini/manon-lescaut/geronte-de-ravoir"
-      },
-      {
-        "person_slug": "junhyeok-felix-park",
-        "role_slug": "giacomo-puccini/manon-lescaut/lescaut"
-      },
-      {
-        "person_slug": "chiara-isotton",
-        "role_slug": "giacomo-puccini/manon-lescaut/manon-lescaut"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "teatro-colon/otello/2026",

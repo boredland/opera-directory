@@ -2116,8 +2116,8 @@
     "house_slug": "mariinsky-theatre",
     "premiere_date": "1991-10-31",
     "is_revival": false,
-    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/7/14/1_1900/",
-    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/oranges_petrov/3_love3orange_bezzubenkov_trofimova_by_vilchuk.jpg",
+    "detail_url": "https://www.mariinsky.ru/en/playbill/playbill/2026/9/26/1_1130/",
+    "image_url": "https://www.mariinsky.ru/images/cms/data/opera_repertoire2014/oranges_petrov/не использовать_3orange_eng.jpg",
     "synopsis": "Prologue. Parade of the Characters Everything begins unexpectedly: the Tragedians clash with the Comedians, while the Lyric Poets dream of romantic love and the Empty-Headed demand farce and amusing trifles. The quarrel sways from one side to the other until the Oddballs appear, shovel the fighters apart, and with great delight proclaim the beginning of an “unparalleled” spectacle entitled The Love for Three Oranges . Part One First Attraction. The Royal Council Gloom reigns in the palace. The physicians deliver a terrible diagnosis: the Prince suffers from an incurable “hypochondriacal condition”. The King despairs and bursts into tears, as does his attendant Pantalone. Yet the physicians believe that laughter may cure the Prince. Pantalone loudly summons Truffaldino, a master of comic entertainment. The King orders him to arrange a festive masquerade. He gives the same command to the First Minister Leander, who barely conceals his irritation – he secretly longs for the Prince’s death. The Oddballs enthusiastically support the King’s decision. Second Attraction. The Magical Duel Darkness envelops everything. With thunder and lightning, the magician Tchelio rises from the ground. Beside him stands Fata Morgana, surrounded by fire and smoke. The Oddballs watch in amazement. The magicians begin with a game of cards, which turns into a knightly duel resembling an ordinary brawl. Tchelio loses. Third Attraction. The Minister’s Plot. A Black Magic Ritual At court Princess Clarice meets Leander. They discuss their plan to kill the Prince: Clarice will become heir, and Leander, after marrying her, will take the throne. Leander reveals that he has long tormented the Prince with tragic prose and heavy verse, hoping to drive him to death. The Tragedians suddenly burst in, shouting for “High Tragedy! Lamentations! Murders!” The Oddballs sweep them away again. Clarice demands more decisive means – poison or a bullet. A procession of servants led by Truffaldino enters with comic",
     "creative_team": [
       {
@@ -2153,32 +2153,7 @@
         "function": "video-designer"
       }
     ],
-    "cast": [
-      {
-        "person_slug": "marina-mareskina",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/fata-morgana"
-      },
-      {
-        "person_slug": "anatoly-mikhailov",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/pantalone"
-      },
-      {
-        "person_slug": "gennady-bezzubenkov",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/the-king-of-clubs"
-      },
-      {
-        "person_slug": "yakov-strizhak",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/the-magician-celio"
-      },
-      {
-        "person_slug": "anton-khalansky",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/the-prince"
-      },
-      {
-        "person_slug": "sergei-semishkur",
-        "role_slug": "sergei-prokofiev/the-love-for-three-oranges/truffaldino"
-      }
-    ]
+    "cast": []
   },
   {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-otello2022-smirnov",

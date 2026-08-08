@@ -568,6 +568,30 @@
     "status": "scheduled"
   },
   {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov/2026-09-26/11:30",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
+    "date": "2026-09-26",
+    "time": "11:30",
+    "venue_room": "Mariinsky Theatre",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov/2026-09-26/15:30",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
+    "date": "2026-09-26",
+    "time": "15:30",
+    "venue_room": "Mariinsky Theatre",
+    "status": "scheduled"
+  },
+  {
+    "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov/2026-09-26/19:30",
+    "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-oranges-petrov",
+    "date": "2026-09-26",
+    "time": "19:30",
+    "venue_room": "Mariinsky Theatre",
+    "status": "scheduled"
+  },
+  {
     "id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-otello2022-smirnov/2026-06-15/19:00",
     "production_id": "mariinsky-theatre/mariinsky-theatre-opera-repertoire2014-otello2022-smirnov",
     "date": "2026-06-15",
