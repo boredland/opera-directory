@@ -516,6 +516,32 @@
     "cast": []
   },
   {
+    "id": "sofia-opera/sofia-opera-1076",
+    "work_slug": "richard-wagner/das-rheingold",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1076",
+    "creative_team": [
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hans-kudlich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "sofia-opera/sofia-opera-420",
     "work_slug": "lubomir-pipkov/yana-s-nine-brothers",
     "house_slug": "sofia-opera",
