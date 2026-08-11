@@ -37,8 +37,32 @@
     ],
     "cast": [
       {
+        "person_slug": "thomas-morschbacher",
+        "role_slug": "giuseppe-verdi/aida/buhnenbildassistenz"
+      },
+      {
+        "person_slug": "woohyun-park",
+        "role_slug": "giuseppe-verdi/aida/ein-bote"
+      },
+      {
+        "person_slug": "laurynas-kanevicius",
+        "role_slug": "giuseppe-verdi/aida/korrepetition"
+      },
+      {
+        "person_slug": "yoonjung-park",
+        "role_slug": "giuseppe-verdi/aida/korrepetition"
+      },
+      {
         "person_slug": "tetjana-prybura",
         "role_slug": "giuseppe-verdi/aida/priesterin"
+      },
+      {
+        "person_slug": "sophie-springer",
+        "role_slug": "giuseppe-verdi/aida/regieassistenz"
+      },
+      {
+        "person_slug": "mitsugu-hoshino",
+        "role_slug": "giuseppe-verdi/aida/studienleitung"
       }
     ]
   },

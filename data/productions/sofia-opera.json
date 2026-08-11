@@ -542,6 +542,92 @@
     "cast": []
   },
   {
+    "id": "sofia-opera/sofia-opera-1077",
+    "work_slug": "richard-wagner/die-walkure",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1077",
+    "creative_team": [
+      {
+        "person_slug": "riolina-topalova",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hans-kudlich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1078",
+    "work_slug": "richard-wagner/siegfried",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1078",
+    "creative_team": [
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hans-kudlich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "sofia-opera/sofia-opera-1079",
+    "work_slug": "richard-wagner/gotterdammerung",
+    "house_slug": "sofia-opera",
+    "is_revival": false,
+    "detail_url": "https://www.operasofia.bg/en/repertoire/1079",
+    "creative_team": [
+      {
+        "person_slug": "violeta-dimitrova",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "hristiana-michaleva-zorbalieva",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "plamen-kartaloff",
+        "function": "director"
+      },
+      {
+        "person_slug": "andrej-hajdinjak",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "hans-kudlich",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": "sofia-opera/sofia-opera-420",
     "work_slug": "lubomir-pipkov/yana-s-nine-brothers",
     "house_slug": "sofia-opera",
