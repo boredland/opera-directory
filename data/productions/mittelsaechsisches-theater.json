@@ -1,5 +1,304 @@
 [
   {
+    "id": "mittelsaechsisches-theater/das-land-des-laechelns",
+    "work_slug": "franz-lehar/das-land-des-lachelns",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/das-land-des-laechelns-389",
+    "creative_team": [
+      {
+        "person_slug": "nikolaus-stich",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "barbara-b-blaschke",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "alexander-donesch",
+        "function": "director"
+      },
+      {
+        "person_slug": "tilo-staudte",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mittelsaechsisches-theater/der-fliegende-hollaender",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/der-fliegende-hollaender-413",
+    "creative_team": [
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "sergio-raonic-lukovic",
+        "role_slug": "richard-wagner/der-fliegende-hollander/kunstlerische-leitung"
+      },
+      {
+        "person_slug": "dana-asnate-eicke-klava",
+        "role_slug": "richard-wagner/der-fliegende-hollander/oberleitung-choreinstudierung"
+      }
+    ]
+  },
+  {
+    "id": "mittelsaechsisches-theater/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug-57",
+    "creative_team": [
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andre-meyer",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-schnittger",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "raphael-howein",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/adam-dorfrichter"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/bass"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "madison-resch",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "marianna-ntinou",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "leonhard-geiger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-kaiser-von-atlantis"
+      },
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-lautsprecher"
+      },
+      {
+        "person_slug": "ivan-maslov",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-tod"
+      },
+      {
+        "person_slug": "paola-alcocer",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-trommler"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-bedienter"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-buttel"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-madchen"
+      },
+      {
+        "person_slug": "marianna-ntinou",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/erste-magd"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/eve-ihre-tochter"
+      },
+      {
+        "person_slug": "paola-alcocer",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/frau-marthe-rull"
+      },
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/licht-schreiber"
+      },
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-i-und-ein-soldat"
+      },
+      {
+        "person_slug": "inkyu-park",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-ii"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-iii"
+      },
+      {
+        "person_slug": "inkyu-park",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ruprecht-sein-sohn"
+      },
+      {
+        "person_slug": "leonhard-geiger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/veit-tumpel"
+      },
+      {
+        "person_slug": "ivan-maslov",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/walter-gerichtsrat"
+      },
+      {
+        "person_slug": "madison-resch",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/zweite-magd"
+      }
+    ]
+  },
+  {
+    "id": "mittelsaechsisches-theater/der-zerbrochene-krug",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/der-zerbrochene-krug-121",
+    "creative_team": [
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "andre-meyer",
+        "function": "director"
+      },
+      {
+        "person_slug": "julia-schnittger",
+        "function": "set-designer"
+      },
+      {
+        "person_slug": "raphael-howein",
+        "function": "video-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/adam-dorfrichter"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/bass"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "madison-resch",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "marianna-ntinou",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent"
+      },
+      {
+        "person_slug": "leonhard-geiger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-kaiser-von-atlantis"
+      },
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-lautsprecher"
+      },
+      {
+        "person_slug": "ivan-maslov",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-tod"
+      },
+      {
+        "person_slug": "paola-alcocer",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-trommler"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-bedienter"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-buttel"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-madchen"
+      },
+      {
+        "person_slug": "marianna-ntinou",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/erste-magd"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/eve-ihre-tochter"
+      },
+      {
+        "person_slug": "paola-alcocer",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/frau-marthe-rull"
+      },
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/licht-schreiber"
+      },
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-i-und-ein-soldat"
+      },
+      {
+        "person_slug": "inkyu-park",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-ii"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-iii"
+      },
+      {
+        "person_slug": "inkyu-park",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ruprecht-sein-sohn"
+      },
+      {
+        "person_slug": "leonhard-geiger",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/veit-tumpel"
+      },
+      {
+        "person_slug": "ivan-maslov",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/walter-gerichtsrat"
+      },
+      {
+        "person_slug": "madison-resch",
+        "role_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/zweite-magd"
+      }
+    ]
+  },
+  {
     "id": "mittelsaechsisches-theater/die-lustige-witwe",
     "work_slug": "franz-lehar/die-lustige-witwe",
     "house_slug": "mittelsaechsisches-theater",
@@ -149,5 +448,191 @@
         "role_slug": "franz-lehar/die-lustige-witwe/vicomte-cascada"
       }
     ]
+  },
+  {
+    "id": "mittelsaechsisches-theater/gianni-schicchi-der-bajazzo",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/gianni-schicchi-der-bajazzo-102",
+    "creative_team": [
+      {
+        "person_slug": "dana-asnate-eicke-klava",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "ivan-leo-lemo",
+        "function": "director"
+      },
+      {
+        "person_slug": "judica-semler",
+        "function": "director"
+      },
+      {
+        "person_slug": "marie-luise-strandt",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/beppo-komodiant-spielt-gherardo-und-arlecchino"
+      },
+      {
+        "person_slug": "inkyu-park",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/canio-chef-der-komodiantentreppu-spielt-rinuccio-und-bajazzo"
+      },
+      {
+        "person_slug": "madison-resch",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/ciesca-publikum"
+      },
+      {
+        "person_slug": "peter-fabig",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/francesco-komodiant-spielt-simone-und-hilft-beim-einlass"
+      },
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/giacomo-komodiant-spielt-betto-di-signa-und-macht-beleuchtung"
+      },
+      {
+        "person_slug": "bartosz-jankowski",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/guccio-publikum"
+      },
+      {
+        "person_slug": "julia-domke",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/laura-eine-ehrgeizige-komodiantin-spielt-lauretta-und-macht-requisite"
+      },
+      {
+        "person_slug": "mykyta-berezniak",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/meister-spinelloccio-meister-amantio-di-nicolao-publikum"
+      },
+      {
+        "person_slug": "fernanda-allande",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/nedda-canios-frau-hilft-backstage-und-spielt-colombina"
+      },
+      {
+        "person_slug": "marianna-ntinou",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/nella-publikum"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/nella-publikum"
+      },
+      {
+        "person_slug": "jakob-mitterrutzner",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/pinellino-publikum"
+      },
+      {
+        "person_slug": "paola-alcocer",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/silvia-komodiantin-spielt-zita-und-macht-maske"
+      },
+      {
+        "person_slug": "leonhard-geiger",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/silvio-komodiant-der-aus-der-truppe-entlassen-wird-spielt-marco-und-schaut-dann-der-colombine-komodie-zu"
+      },
+      {
+        "person_slug": "beomseok-choi",
+        "role_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/tonio-komodiant-rivale-von-canio-spielt-gianni-schicchi-und-taddeo"
+      }
+    ]
+  },
+  {
+    "id": "mittelsaechsisches-theater/haensel-und-gretel-gekuerzte-fassung",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/haensel-und-gretel-gekuerzte-fassung-80",
+    "creative_team": [
+      {
+        "person_slug": "bjorn-helget",
+        "function": "choreographer"
+      },
+      {
+        "person_slug": "bennet-eicke-klava",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "jacob-bass",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "katharina-jacob",
+        "function": "costume-designer"
+      },
+      {
+        "person_slug": "sergio-raonic-lukovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "peter-sommerer",
+        "function": "set-designer"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "julia-domke",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/gretel"
+      },
+      {
+        "person_slug": "frank-unger",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/knusperhexe"
+      },
+      {
+        "person_slug": "yannik-graf",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/knusperhexe"
+      },
+      {
+        "person_slug": "suzan-shixuan-wei",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/mutter"
+      },
+      {
+        "person_slug": "beomseok-choi",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/vater"
+      },
+      {
+        "person_slug": "gregor-roskwitalski",
+        "role_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/vater"
+      }
+    ]
+  },
+  {
+    "id": "mittelsaechsisches-theater/kennst-du-das-land-theaterfiguren-im-lied",
+    "work_slug": "goethe/kennst-du-das-land-theaterfiguren-im-lied",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/kennst-du-das-land-theaterfiguren-im-lied-337",
+    "creative_team": [
+      {
+        "person_slug": "jacob-bass",
+        "function": "conductor"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": "mittelsaechsisches-theater/la-traviata",
+    "work_slug": "giusppe-verdi/la-traviata",
+    "house_slug": "mittelsaechsisches-theater",
+    "is_revival": false,
+    "detail_url": "https://www.mittelsaechsisches-theater.de/spielplan/la-traviata-344",
+    "creative_team": [
+      {
+        "person_slug": "jose-luis-gutierrez",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "sergio-raonic-lukovic",
+        "function": "director"
+      },
+      {
+        "person_slug": "lena-weikhard",
+        "function": "set-designer"
+      }
+    ],
+    "cast": []
   }
 ]

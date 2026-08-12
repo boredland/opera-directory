@@ -10600,6 +10600,26 @@
     "name": "Witch"
   },
   {
+    "slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/gretel",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung",
+    "name": "Gretel"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/knusperhexe",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung",
+    "name": "Knusperhexe"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/mutter",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung",
+    "name": "Mutter"
+  },
+  {
+    "slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung/vater",
+    "work_slug": "engelbert-humperdinck/hansel-und-gretel-gekurzte-fassung",
+    "name": "Vater"
+  },
+  {
     "slug": "engelbert-humperdinck/hansel-und-gretel/buhne-nach-einem-konzept-von-andreas-wilkens",
     "work_slug": "engelbert-humperdinck/hansel-und-gretel",
     "name": "Bühne (nach einem Konzept von Andreas Wilkens)"
@@ -16413,6 +16433,76 @@
     "slug": "giacomo-puccini/edgar/tigrana",
     "work_slug": "giacomo-puccini/edgar",
     "name": "Tigrana"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/beppo-komodiant-spielt-gherardo-und-arlecchino",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Beppo, Komödiant (spielt Gherardo und Arlecchino)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/canio-chef-der-komodiantentreppu-spielt-rinuccio-und-bajazzo",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Canio, Chef der Komödiantentreppu (spielt Rinuccio und Bajazzo)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/ciesca-publikum",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Ciesca/ Publikum"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/francesco-komodiant-spielt-simone-und-hilft-beim-einlass",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Francesco, Komödiant (spielt Simone und hilft beim Einlass)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/giacomo-komodiant-spielt-betto-di-signa-und-macht-beleuchtung",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Giacomo, Komödiant (spielt Betto di Signa und macht Beleuchtung)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/guccio-publikum",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Guccio/ Publikum"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/laura-eine-ehrgeizige-komodiantin-spielt-lauretta-und-macht-requisite",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Laura, eine ehrgeizige Komödiantin (spielt Lauretta und macht Requisite)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/meister-spinelloccio-meister-amantio-di-nicolao-publikum",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Meister Spinelloccio/ Meister Amantio di Nicolao/ Publikum"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/nedda-canios-frau-hilft-backstage-und-spielt-colombina",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Nedda, Canios Frau (hilft Backstage und spielt Colombina)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/nella-publikum",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Nella/ Publikum"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/pinellino-publikum",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Pinellino/ Publikum"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/silvia-komodiantin-spielt-zita-und-macht-maske",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Silvia, Komödiantin (spielt Zita und macht Maske)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/silvio-komodiant-der-aus-der-truppe-entlassen-wird-spielt-marco-und-schaut-dann-der-colombine-komodie-zu",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Silvio, Komödiant, der aus der Truppe entlassen wird (spielt Marco und schaut dann der Colombine-Komödie zu)"
+  },
+  {
+    "slug": "giacomo-puccini/gianni-schicchi-der-bajazzo/tonio-komodiant-rivale-von-canio-spielt-gianni-schicchi-und-taddeo",
+    "work_slug": "giacomo-puccini/gianni-schicchi-der-bajazzo",
+    "name": "Tonio, Komödiant, Rivale von Canio (spielt Gianni Schicchi und Taddeo)"
   },
   {
     "slug": "giacomo-puccini/il-trittico/1-almosensucherin",
@@ -26500,6 +26590,11 @@
     "name": "Stheno"
   },
   {
+    "slug": "ian-cusson/empire-of-wild/cecile",
+    "work_slug": "ian-cusson/empire-of-wild",
+    "name": "Cecile"
+  },
+  {
     "slug": "ian-cusson/empire-of-wild/cecille",
     "work_slug": "ian-cusson/empire-of-wild",
     "name": "Cecille"
@@ -26533,6 +26628,11 @@
     "slug": "ian-cusson/empire-of-wild/mere",
     "work_slug": "ian-cusson/empire-of-wild",
     "name": "Mere"
+  },
+  {
+    "slug": "ian-cusson/empire-of-wild/robe",
+    "work_slug": "ian-cusson/empire-of-wild",
+    "name": "Robe"
   },
   {
     "slug": "ian-cusson/empire-of-wild/thomas-heiser",
@@ -42395,9 +42495,29 @@
     "name": "Zerbinetta"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/a-notary",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "A Notary"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/a-police-officer",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "A Police Officer"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/a-singer",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "A Singer"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/adelige-waisen",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Adelige Waisen"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/an-innkeeper",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "An innkeeper"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/annina",
@@ -42710,6 +42830,11 @@
     "name": "Marianne"
   },
   {
+    "slug": "richard-strauss/der-rosenkavalier/marianne-leitmetzerin",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "Marianne Leitmetzerin"
+  },
+  {
     "slug": "richard-strauss/der-rosenkavalier/marschallin",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Marschallin"
@@ -42838,6 +42963,11 @@
     "slug": "richard-strauss/der-rosenkavalier/studienleitung",
     "work_slug": "richard-strauss/der-rosenkavalier",
     "name": "Studienleitung"
+  },
+  {
+    "slug": "richard-strauss/der-rosenkavalier/the-marschallin-s-major-domo",
+    "work_slug": "richard-strauss/der-rosenkavalier",
+    "name": "The Marschallin's Major-Domo"
   },
   {
     "slug": "richard-strauss/der-rosenkavalier/tierhandler",
@@ -44145,6 +44275,11 @@
     "name": "Inszenierung und Licht"
   },
   {
+    "slug": "richard-wagner/der-fliegende-hollander/kunstlerische-leitung",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "name": "Künstlerische Leitung"
+  },
+  {
     "slug": "richard-wagner/der-fliegende-hollander/mary",
     "work_slug": "richard-wagner/der-fliegende-hollander",
     "name": "Mary"
@@ -44163,6 +44298,11 @@
     "slug": "richard-wagner/der-fliegende-hollander/muziek-en-libretto",
     "work_slug": "richard-wagner/der-fliegende-hollander",
     "name": "Muziek en libretto"
+  },
+  {
+    "slug": "richard-wagner/der-fliegende-hollander/oberleitung-choreinstudierung",
+    "work_slug": "richard-wagner/der-fliegende-hollander",
+    "name": "Oberleitung Choreinstudierung"
   },
   {
     "slug": "richard-wagner/der-fliegende-hollander/senta",
@@ -49708,6 +49848,111 @@
     "slug": "viktor-aslund/madita/viktor",
     "work_slug": "viktor-aslund/madita",
     "name": "Viktor"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/adam-dorfrichter",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Adam, Dorfrichter"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/bass",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Bass"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/delinquent",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Delinquent"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-kaiser-von-atlantis",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Der Kaiser von Atlantis"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-lautsprecher",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Der Lautsprecher"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-tod",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Der Tod"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/der-trommler",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Der Trommler"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-bedienter",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Ein Bedienter"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-buttel",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Ein Büttel"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ein-madchen",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Ein Mädchen"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/erste-magd",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Erste Magd"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/eve-ihre-tochter",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Eve, ihre Tochter"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/frau-marthe-rull",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Frau Marthe Rull"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/licht-schreiber",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Licht, Schreiber"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-i-und-ein-soldat",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Pierrot I und ein Soldat"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-ii",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Pierrot II"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/pierrot-iii",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Pierrot III"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/ruprecht-sein-sohn",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Ruprecht, sein Sohn"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/veit-tumpel",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Veit Tümpel"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/walter-gerichtsrat",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Walter, Gerichtsrat"
+  },
+  {
+    "slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug/zweite-magd",
+    "work_slug": "viktor-ullmann/der-kaiser-von-atlantis-oder-die-todverweigerung-der-zerbrochene-krug",
+    "name": "Zweite Magd"
   },
   {
     "slug": "vincenzo-bellini-melodramma-in-due-atti/la-sonnambula/alessio-contadino-innamorato-di-lisa",

@@ -512,7 +512,124 @@
         "function": "lighting"
       }
     ],
-    "cast": []
+    "cast": [
+      {
+        "person_slug": "kalvis-kalnins",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-notary"
+      },
+      {
+        "person_slug": "rihards-millers",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-notary"
+      },
+      {
+        "person_slug": "krisjanis-norvelis",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-police-officer"
+      },
+      {
+        "person_slug": "viesturs-vitols",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-police-officer"
+      },
+      {
+        "person_slug": "martins-smaukstelis",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-singer"
+      },
+      {
+        "person_slug": "martins-zvigulis",
+        "role_slug": "richard-strauss/der-rosenkavalier/a-singer"
+      },
+      {
+        "person_slug": "andris-ludvigs",
+        "role_slug": "richard-strauss/der-rosenkavalier/an-innkeeper"
+      },
+      {
+        "person_slug": "artem-safronov",
+        "role_slug": "richard-strauss/der-rosenkavalier/an-innkeeper"
+      },
+      {
+        "person_slug": "ilona-bagele",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "irma-pavare",
+        "role_slug": "richard-strauss/der-rosenkavalier/annina"
+      },
+      {
+        "person_slug": "edgars-osleja",
+        "role_slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "gunther-groissbock",
+        "role_slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "rihards-macanovskis",
+        "role_slug": "richard-strauss/der-rosenkavalier/baron-ochs-auf-lerchenau"
+      },
+      {
+        "person_slug": "inna-klochko",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin"
+      },
+      {
+        "person_slug": "tatiana-trenogina",
+        "role_slug": "richard-strauss/der-rosenkavalier/die-feldmarschallin"
+      },
+      {
+        "person_slug": "andris-kipluks",
+        "role_slug": "richard-strauss/der-rosenkavalier/faninal-s-major-domo"
+      },
+      {
+        "person_slug": "dainis-kalnacs",
+        "role_slug": "richard-strauss/der-rosenkavalier/faninal-s-major-domo"
+      },
+      {
+        "person_slug": "juris-adamsons",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "rinalds-kandalincevs",
+        "role_slug": "richard-strauss/der-rosenkavalier/herr-von-faninal"
+      },
+      {
+        "person_slug": "dana-bramane",
+        "role_slug": "richard-strauss/der-rosenkavalier/marianne-leitmetzerin"
+      },
+      {
+        "person_slug": "evija-martinsone",
+        "role_slug": "richard-strauss/der-rosenkavalier/marianne-leitmetzerin"
+      },
+      {
+        "person_slug": "irma-pavare",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "laura-grecka",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "stepanka-pucalkova",
+        "role_slug": "richard-strauss/der-rosenkavalier/octavian"
+      },
+      {
+        "person_slug": "inga-slubovska-kancevica",
+        "role_slug": "richard-strauss/der-rosenkavalier/sophie"
+      },
+      {
+        "person_slug": "andris-kipluks",
+        "role_slug": "richard-strauss/der-rosenkavalier/the-marschallin-s-major-domo"
+      },
+      {
+        "person_slug": "dainis-kalnacs",
+        "role_slug": "richard-strauss/der-rosenkavalier/the-marschallin-s-major-domo"
+      },
+      {
+        "person_slug": "andris-ludvigs",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      },
+      {
+        "person_slug": "raimonds-bramanis",
+        "role_slug": "richard-strauss/der-rosenkavalier/valzacchi"
+      }
+    ]
   },
   {
     "id": "latvian-national-opera/latvian-national-opera-die-lustige-witwe",

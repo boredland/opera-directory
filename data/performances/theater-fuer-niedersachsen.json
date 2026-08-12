@@ -64,10 +64,26 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-fuer-niedersachsen/cinderella-1/2027-03-14/11:00",
+    "production_id": "theater-fuer-niedersachsen/cinderella-1",
+    "date": "2027-03-14",
+    "time": "11:00",
+    "venue_room": "Hildesheim: Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-fuer-niedersachsen/cinderella-1/2027-04-05/10:00",
     "production_id": "theater-fuer-niedersachsen/cinderella-1",
     "date": "2027-04-05",
     "time": "10:00",
+    "venue_room": "Hildesheim: Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-fuer-niedersachsen/cinderella-1/2027-04-11/11:00",
+    "production_id": "theater-fuer-niedersachsen/cinderella-1",
+    "date": "2027-04-11",
+    "time": "11:00",
     "venue_room": "Hildesheim: Großes Haus",
     "status": "scheduled"
   },

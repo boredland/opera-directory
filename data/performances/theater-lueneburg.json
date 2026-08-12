@@ -8,6 +8,62 @@
     "status": "scheduled"
   },
   {
+    "id": "theater-lueneburg/der-freischuetz/2026-11-11/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2026-11-11",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2026-12-11/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2026-12-11",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2027-01-08/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2027-01-08",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2027-01-31/18:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2027-01-31",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2027-02-06/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2027-02-06",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2027-02-12/20:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2027-02-12",
+    "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/der-freischuetz/2027-02-14/18:00",
+    "production_id": "theater-lueneburg/der-freischuetz",
+    "date": "2027-02-14",
+    "time": "18:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
     "id": "theater-lueneburg/die-fledermaus/2027-06-19/",
     "production_id": "theater-lueneburg/die-fledermaus",
     "date": "2027-06-19",
@@ -19,6 +75,22 @@
     "production_id": "theater-lueneburg/die-fledermaus",
     "date": "2027-06-19",
     "time": "20:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/die-fledermaus/2027-06-27/15:00",
+    "production_id": "theater-lueneburg/die-fledermaus",
+    "date": "2027-06-27",
+    "time": "15:00",
+    "venue_room": "Großes Haus",
+    "status": "scheduled"
+  },
+  {
+    "id": "theater-lueneburg/die-fledermaus/2027-07-04/18:00",
+    "production_id": "theater-lueneburg/die-fledermaus",
+    "date": "2027-07-04",
+    "time": "18:00",
     "venue_room": "Großes Haus",
     "status": "scheduled"
   },
