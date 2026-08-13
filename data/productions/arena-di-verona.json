@@ -335,6 +335,25 @@
     ]
   },
   {
+    "id": "arena-di-verona/paganini-paradise",
+    "work_slug": "niccolo-paganini/paganini-paradise-superlive-immersive-concert",
+    "house_slug": "arena-di-verona",
+    "is_revival": false,
+    "detail_url": "https://www.arena.it/en/arena-verona-opera-festival/paganini-paradise/",
+    "creative_team": [
+      {
+        "person_slug": "enrico-fagone",
+        "function": "conductor"
+      }
+    ],
+    "cast": [
+      {
+        "person_slug": "federico-altare",
+        "role_slug": "niccolo-paganini/paganini-paradise-superlive-immersive-concert/flauto"
+      }
+    ]
+  },
+  {
     "id": "arena-di-verona/turandot",
     "work_slug": "giacomo-puccini/turandot",
     "house_slug": "arena-di-verona",

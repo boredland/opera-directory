@@ -95,7 +95,36 @@
     "is_revival": false,
     "detail_url": "https://www.theater-basel.ch/de/lammermoor",
     "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2024-10/theater_basel_aussenansicht_seo_hoehn.jpg?itok=4ECLFtvb",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "michael-clark",
+        "function": "chorus-master"
+      },
+      {
+        "person_slug": "alphonse-cemin",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "riccardo-bisatti",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "vincent-huguet",
+        "function": "director"
+      },
+      {
+        "person_slug": "elise-boch",
+        "function": "dramaturgy"
+      },
+      {
+        "person_slug": "cornelius-hunziker",
+        "function": "lighting"
+      },
+      {
+        "person_slug": "pierre-yovanovitch",
+        "function": "set-designer"
+      }
+    ],
     "cast": []
   },
   {
@@ -106,10 +135,6 @@
     "detail_url": "https://www.theater-basel.ch/de/mahagonny",
     "image_url": "https://www.theater-basel.ch/sites/default/files/styles/facebook/public/2025-08/tb_mahagonny_ohpringo_hoehn-38.jpg?itok=oAvUHuFU",
     "creative_team": [
-      {
-        "person_slug": "michael-clark",
-        "function": "chorus-master"
-      },
       {
         "person_slug": "stefan-klingele",
         "function": "conductor"
