@@ -1317,6 +1317,14 @@
     ],
     "cast": [
       {
+        "person_slug": "ilja-aksionov",
+        "role_slug": "rameau/les-boreades/abaris"
+      },
+      {
+        "person_slug": "mathieu-gourlet",
+        "role_slug": "rameau/les-boreades/adamas-apollon"
+      },
+      {
         "person_slug": "lila-dufy",
         "role_slug": "rameau/les-boreades/alphise"
       },
@@ -1331,14 +1339,6 @@
       {
         "person_slug": "kieran-white",
         "role_slug": "rameau/les-boreades/calisis"
-      },
-      {
-        "person_slug": "megan-o-neill",
-        "role_slug": "rameau/les-boreades/l-amour-polymnie"
-      },
-      {
-        "person_slug": "kelli-ann-masterson",
-        "role_slug": "rameau/les-boreades/semire-une-nymph"
       }
     ]
   },

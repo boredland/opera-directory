@@ -622,6 +622,14 @@
     ],
     "cast": [
       {
+        "person_slug": "mehis-saaber",
+        "role_slug": "giuseppe-verdi/otello/angel"
+      },
+      {
+        "person_slug": "seili-loorits-kambre",
+        "role_slug": "giuseppe-verdi/otello/angel"
+      },
+      {
         "person_slug": "heldur-harry-polda",
         "role_slug": "giuseppe-verdi/otello/cassio"
       },
@@ -662,10 +670,6 @@
         "role_slug": "giuseppe-verdi/otello/emilia"
       },
       {
-        "person_slug": "badral-chuluumbatar",
-        "role_slug": "giuseppe-verdi/otello/jago"
-      },
-      {
         "person_slug": "dragutin-matic",
         "role_slug": "giuseppe-verdi/otello/jago"
       },
@@ -682,7 +686,7 @@
         "role_slug": "giuseppe-verdi/otello/lodovico"
       },
       {
-        "person_slug": "dragos-andrei-lionel",
+        "person_slug": "dragos-andrei-ionel",
         "role_slug": "giuseppe-verdi/otello/montano"
       },
       {
