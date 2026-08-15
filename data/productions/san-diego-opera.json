@@ -166,7 +166,16 @@
     "house_slug": "san-diego-opera",
     "is_revival": false,
     "detail_url": "https://www.sdopera.org/shows/the-marriage-of-figaro/",
-    "creative_team": [],
+    "creative_team": [
+      {
+        "person_slug": "yves-abel",
+        "function": "conductor"
+      },
+      {
+        "person_slug": "christopher-mattaliano",
+        "function": "director"
+      }
+    ],
     "cast": [
       {
         "person_slug": "phil-johnson",
